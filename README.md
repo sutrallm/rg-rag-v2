@@ -323,3 +323,24 @@ python query.py "what's the meaning of suffering?"
   run time 0:00:15.993182
   ```
 </details>
+
+### Tmux
+As the indexing process may take a long time and break a remote session, it's recommended use `tmux`:
+```bash
+tmux
+conda activate rg-rag
+python index.py
+```
+Press `ctrl+b` and `d` to detach:
+```bash
+[detached (from session 0)]
+```
+List `tmux` sessions:
+```bash
+tmux ls
+0: 1 windows (created Mon Sep 30 15:57:59 2024)
+```
+Attach the detached session:
+```bash
+tmux attach -t 0
+```
