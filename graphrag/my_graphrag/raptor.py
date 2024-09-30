@@ -1,0 +1,334 @@
+import re
+import random
+import ollama
+import umap
+import numpy as np
+from sentence_transformers import SentenceTransformer
+from sklearn.mixture import GaussianMixture
+from graphrag.my_graphrag.db import get_all_papers, get_all_chunks, save_new_summary, save_new_chunk, query_raptor_chunks
+from graphrag.my_graphrag.conf import TEXT_TEMPLATE
+
+
+OLLAMA_MODEL_NAME = 'llama3.1:8b-instruct-q8_0'
+EMBEDDING_MODEL_NAME = 'sentence-transformers/multi-qa-mpnet-base-cos-v1'
+EMBEDDING_MODEL = SentenceTransformer(EMBEDDING_MODEL_NAME)
+
+RANDOM_SEED = 224
+random.seed(RANDOM_SEED)
+
+
+PROMPT_SUMMARY = '''Summarize the following in bullet points without any reference to tables or figures. The summary needs to be self-contained. Don't mention that it is a summary. Put a blank line between the bullets. Include a heading in the summary. Put the heading in <heading></heading> tags. Enclose the summary with the <summary></summary> tags.
+{text}
+'''
+
+
+PROMPT_QUERY_STEP1 = '''You are provided with a question and a piece of text below. Please determine whether the text is relevant to the question. Indicate your answer by putting yes or no within <relevant> </relevant> tags. If the text is relevant, extract the relevant information in bullet points, placing the bullets within <info> </info> tags. Add a blank line between each bullet. Do not mention the source of information or "the text" in your response. Put a heading for the relevant informaton. The heading should be in <heading></heading> tags and within <info> </info> tags.
+
+<question>
+{question}
+</question>
+
+<text>
+{context}
+</text>
+'''
+
+
+PROMPT_QUERY_STEP2 = '''You are provided with a question and some pieces of information below. Please provide a structured answer to the question based on the given information. Do not mention that your answer is based on these information. Provide as much detail in the answer as possible.
+
+<question>
+{question}
+</question>
+
+{context}
+'''
+
+
+class Chunk(object):
+    def __init__(self, text, index, children, paper_id, from_base_chunk=False, root_summary=False):
+        self.text = text
+        self.index = index
+        self.children = children
+        self.paper_id = paper_id
+        self.from_base_chunk = from_base_chunk
+        self.root_summary = root_summary
+
+
+def split_text_into_chunks(text, min_num_char=1000):
+    # Split the text by double newline (blank lines)
+    paragraphs = text.split('\n\n')
+
+    chunks = []
+    current_chunk = []
+    current_length = 0
+
+    for paragraph in paragraphs:
+        paragraph_length = len(paragraph)
+
+        if current_length >= min_num_char and current_chunk:
+            # If the current chunk already meets the minimum length requirement, finish the chunk
+            chunks.append('\n\n'.join(current_chunk))
+            current_chunk = [paragraph]
+            current_length = paragraph_length
+        else:
+            # Otherwise, add the paragraph to the current chunk
+            current_chunk.append(paragraph)
+            current_length += paragraph_length
+
+    # Add the last chunk if it exists
+    if current_chunk:
+        chunks.append('\n\n'.join(current_chunk))
+
+    return chunks
+
+
+def convert_chunk_list(chunk_list):
+    # input format: from db import get_all_chunks
+    # [{'chunk_id': , 'chunk_content': , 'paper_id': }]
+    new_chunk_list = []
+    for chunk in chunk_list:
+        new_chunk_list.append(Chunk(text=chunk['chunk_content'], index=chunk['chunk_id'], children=[], paper_id=chunk['paper_id']))
+    return new_chunk_list
+
+
+def reduce_embeddings(embeddings):
+    n_neighbors = 15  # default value
+    dim = 10  # set to 2 or 3 normally, raptor uses 10
+    metric = 'cosine'  # value in raptor
+    reduced_embeddings = umap.UMAP(
+        n_neighbors=n_neighbors, n_components=dim, metric=metric, random_state=RANDOM_SEED
+    ).fit_transform(embeddings)
+
+    return reduced_embeddings
+
+
+def get_optimal_clusters(
+    embeddings: np.ndarray, max_clusters: int = 50, random_state: int = RANDOM_SEED
+) -> int:
+    max_clusters = min(max_clusters, len(embeddings))
+    n_clusters = np.arange(1, max_clusters)
+    bics = []
+    for n in n_clusters:
+        gm = GaussianMixture(n_components=n, random_state=RANDOM_SEED)
+        gm.fit(embeddings)
+        bics.append(gm.bic(embeddings))
+    optimal_clusters = n_clusters[np.argmin(bics)]
+    return optimal_clusters
+
+
+def GMM_cluster(embeddings: np.ndarray, threshold: float, random_state: int = 0):
+    n_clusters = get_optimal_clusters(embeddings)
+    gm = GaussianMixture(n_components=n_clusters, random_state=RANDOM_SEED)
+    gm.fit(embeddings)
+    probs = gm.predict_proba(embeddings)
+    labels = [np.where(prob > threshold)[0] for prob in probs]
+    return labels, n_clusters
+
+
+def split_chunks_into_clusters(chunks):
+    try:
+        embeddings = np.array([EMBEDDING_MODEL.encode(chunk.text) for chunk in chunks])
+        reduced_embeddings = reduce_embeddings(embeddings)
+
+        clusters, n_clusters = GMM_cluster(reduced_embeddings, threshold=0.1)
+
+        clusters_list = []
+        for i in range(n_clusters):
+            indices = [j for j, cluster in enumerate(clusters) if i in cluster]
+            clusters_list.append(indices)
+
+    except:
+        clusters_list = [list(range(len(chunks)))]
+
+    return clusters_list
+
+
+def gen_summary_chunks(chunks):
+    clusters_list = split_chunks_into_clusters(chunks)
+
+    summary_chunks = []
+    for indices in clusters_list:
+        context = ''
+        children_idx = []
+        for idx in indices:
+            child_chunk = chunks[idx]
+            context += child_chunk.text + '\n\n'
+            children_idx.append(child_chunk.index)
+
+        response = ollama.chat(
+            model=OLLAMA_MODEL_NAME,
+            messages=[
+                {
+                    "role": "user",
+                    'content': PROMPT_SUMMARY.format(text=context)
+                },
+            ],
+            options={
+                'temperature': 0,
+                'num_predict': 4096,  # 240704 David: ask the llm to limit the summary size to 4096
+                'num_ctx': 32000,
+            }
+        )
+
+        summary = response['message']['content']
+
+        result_content = re.search(r'<summary>(.*?)</summary>', summary, re.DOTALL)
+        summary = result_content.group(1).strip() if result_content else ''
+
+        summary_chunks.append((summary, children_idx))
+
+    return summary_chunks
+
+
+def raptor_index():
+    summary_max_times = 5
+
+    chunk_list = get_all_chunks()
+    if len(chunk_list) == 0:
+        paper_list = get_all_papers()
+        for paper in paper_list:
+            paper_content = paper['paper_content']
+            splitted_chunks = split_text_into_chunks(paper_content, min_num_char=1000)
+            for chunk in splitted_chunks:
+                save_new_chunk(chunk, paper_content)
+
+        chunk_list = get_all_chunks()
+
+    chunk_list = convert_chunk_list(chunk_list)
+
+    chunk_dict = {}
+    for chunk in chunk_list:
+        paper_id = chunk.paper_id
+        if paper_id not in chunk_dict:
+            chunk_dict[paper_id] = []
+        chunk_dict[paper_id].append(chunk)
+
+    for paper_id, paper_chunk_list in chunk_dict.items():
+        chunks = paper_chunk_list
+        for i in range(summary_max_times):
+            summary_chunks = gen_summary_chunks(chunks)
+
+            from_base_chunk = i == 0
+            root_summary = len(summary_chunks) == 1 or i == summary_max_times - 1
+
+            chunks = []
+            for summary, children_idx in summary_chunks:
+                summary_id = save_new_summary(summary, children_idx, from_base_chunk, root_summary, paper_id)
+                chunks.append(Chunk(summary, summary_id, children_idx, paper_id, from_base_chunk, root_summary))
+
+            if root_summary:
+                break
+
+
+def query_step1(question, chunk_list):
+    relevant_id_list = []
+    info_list = []
+    for chunk in chunk_list:
+        # chunk: {'id': , 'text': } defined in db query_raptor_chunks
+        prompt_step1 = PROMPT_QUERY_STEP1.format(question=question, context=chunk['text'])
+
+        response_step1 = ollama.chat(
+            model=OLLAMA_MODEL_NAME,
+            messages=[
+                {
+                    "role": "user",
+                    "content": prompt_step1
+                },
+            ],
+            options={
+                'temperature': 0,
+                'num_ctx': 32000,
+            }
+        )
+        answer_step1 = response_step1['message']['content']
+
+        result_content = re.search(r'<info>(.*?)</info>', answer_step1, re.DOTALL)
+        # ignore relevant, just get <info>
+        relevant_info = result_content.group(1).strip() if result_content else ''
+
+        is_relevant = relevant_info != ''
+        if is_relevant:
+            info_list.append(relevant_info)
+            relevant_id_list.append(chunk['id'])
+
+    return info_list, relevant_id_list
+
+
+def get_ref_id_and_text(chunk_list, chunk_type):
+    ref_id_template = 'paper id {paper_id}: {chunk_type} chunk ids {chunk_ids}'
+    paper_chunk_dict = {}
+    for chunk in chunk_list:
+        chunk_id = str(chunk['id'])
+        paper_id = str(chunk['paper_id'])
+        if paper_id not in paper_chunk_dict:
+            paper_chunk_dict[paper_id] = []
+        paper_chunk_dict[paper_id].append(chunk_id)
+
+    paper_id_list = list(paper_chunk_dict.keys())
+    paper_id_list.sort(key=lambda x: int(x), reverse=False)
+
+    ref_id_list = []
+    ref_text_list = []
+    for paper_id in paper_id_list:
+        chunk_id_list = paper_chunk_dict[paper_id]
+        chunk_id_list = list(set(chunk_id_list))
+        chunk_id_list.sort(key=lambda x: int(x), reverse=False)
+        ref_id_list.append(ref_id_template.format(paper_id=paper_id, chunk_ids=', '.join(chunk_id_list), chunk_type=chunk_type))
+
+        for chunk_id in chunk_id_list:
+            for chunk in chunk_list:
+                if str(chunk['id']) == str(chunk_id):
+                    ref_text_list.append(TEXT_TEMPLATE.format(title=chunk_type + '_chunk', id=chunk_id, text=chunk['text']))
+                    break
+
+    # ref_id, ref_text
+    return '\n'.join(ref_id_list), '\n\n'.join(ref_text_list)
+
+
+def raptor_query(question):
+    base_chunk_list, summary_chunk_list = query_raptor_chunks(question, top_k=10)
+
+    # step 1
+    info_list_base_chunk, relevant_id_list_base_chunk = query_step1(question, base_chunk_list)
+    info_list_summary_chunk, relevant_id_list_summary_chunk = query_step1(question, summary_chunk_list)
+    info_list = info_list_base_chunk + info_list_summary_chunk
+
+    # step 2
+    context_step2 = '\n\n'.join(['<info>\n%s\n</info>' % info for info in info_list])
+    prompt_step2 = PROMPT_QUERY_STEP2.format(question=question, context=context_step2)
+
+    response_step2 = ollama.chat(
+        model=OLLAMA_MODEL_NAME,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt_step2
+            },
+        ],
+        options={
+            'temperature': 0,
+            'num_ctx': 32000,
+        }
+    )
+    answer_step2 = response_step2['message']['content']
+
+    ref_id_base, ref_text_base = get_ref_id_and_text(base_chunk_list, 'base')
+    ref_id_summary, ref_text_summary = get_ref_id_and_text(summary_chunk_list, 'summary')
+
+    ref_id_list = []
+    if ref_id_base:
+        ref_id_list.append(ref_id_base)
+    if ref_id_summary:
+        ref_id_list.append(ref_id_summary)
+    ref_id = '\n'.join(ref_id_list)
+
+    ref_text_list = []
+    if ref_text_base:
+        ref_text_list.append(ref_text_base)
+    if ref_text_summary:
+        ref_text_list.append(ref_text_summary)
+    ref_text = '\n\n'.join(ref_text_list)
+
+    # answer, ref_id, ref_text
+    return answer_step2, ref_id, ref_text
+
