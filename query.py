@@ -1,11 +1,12 @@
 import os
 import re
 import traceback
+import argparse
 import ollama
 from datetime import datetime
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from graphrag.my_graphrag.db import get_all_community_reports, get_paper_id_of_chunk, get_chunk, get_summary, get_all_summary_chunks
+import graphrag.my_graphrag.db as db
 from graphrag.my_graphrag.conf import FINAL_ANSWER_WITH_DETAILS, QUERY_OPTION, QUERY_RAPTOR, QUERY_GRAPHRAG, QUERY_RAPTOR_GRAPHRAG, TEXT_TEMPLATE
 from graphrag.my_graphrag.raptor import raptor_query
 import sys
@@ -22,8 +23,8 @@ PROMPT2_MAX_TOKENS = 4000  # 240909 Davie requires
 
 
 QUESTION = 'What improvement techniques have people implemented on RAG?'
-if len(sys.argv) > 1:
-    QUESTION = sys.argv[1]
+# if len(sys.argv) > 1:
+#     QUESTION = sys.argv[1]
 
 QUERY_PROMPT1 = '''
 You are provided with question and a data table below. Generate a response consisting of a list of key points that respond to the user's question, summarizing all relevant information in the data table.
@@ -346,9 +347,9 @@ def select_indices_based_on_score(point_list1, point_list2, max_tokens):
 def query_step2(data):
     prompt2 = QUERY_PROMPT2.format(query=QUESTION, report_data='\n\n'.join(data))
 
-    print('--- prompt2 ---')
-    print(prompt2)
-    print('--- prompt2 ---')
+    # print('--- prompt2 ---')
+    # print(prompt2)
+    # print('--- prompt2 ---')
 
     response2 = ollama.chat(
         model=MODEL_NAME,
@@ -380,7 +381,7 @@ def get_ref_id_and_text_for_report(selected_indices, ref_list_list, chunk_list):
         if report_id in final_ref_list:
             chunk_id_list = report['chunk_id_list']
             for chunk_id in chunk_id_list:
-                paper_id = get_paper_id_of_chunk(str(chunk_id))
+                paper_id = db.get_paper_id_of_chunk(str(chunk_id))
                 if paper_id is not None:
                     if paper_id not in paper_chunk_dict:
                         paper_chunk_dict[paper_id] = []
@@ -399,7 +400,7 @@ def get_ref_id_and_text_for_report(selected_indices, ref_list_list, chunk_list):
         ref_string_list.append(ref_template.format(paper_id=paper_id, chunk_ids=', '.join(chunk_id_list)))
 
         for chunk_id in chunk_id_list:
-            chunk_text = get_chunk(chunk_id)
+            chunk_text = db.get_chunk(chunk_id)
             chunk_text_list.append(TEXT_TEMPLATE.format(title='chunk', id=chunk_id, text=chunk_text))
 
     # ref_id, ref_text
@@ -434,19 +435,34 @@ def get_ref_id_and_text_for_summary(selected_indices, ref_list_list, chunk_list)
         ref_string_list.append(ref_template.format(paper_id=paper_id, chunk_ids=', '.join(map(str, chunk_id_list))))
 
         for summary_id in chunk_id_list:
-            chunk_text = get_summary(summary_id)
+            chunk_text = db.get_summary(summary_id)
             chunk_text_list.append(TEXT_TEMPLATE.format(title='summary', id=summary_id, text=chunk_text))
 
     # ref_id, ref_text
     return '\n'.join(ref_string_list), '\n\n'.join(chunk_text_list)
 
 
-def graphrag_query(include_summary=False):
-    report_chunk_list = get_all_community_reports()
+def graphrag_query(include_summary=False, doc_id=-1):
+    report_chunk_list = db.get_all_community_reports()
+
+    if doc_id != -1:
+        filtered_report_chunk_list = []
+        for report_chunk in report_chunk_list:
+            is_paper = True
+            for chunk_id in report_chunk['chunk_id_list']:
+                paper_id = db.get_paper_id_of_chunk(chunk_id)
+                if str(paper_id) != str(doc_id):
+                    is_paper = False
+                    break
+            if is_paper:
+                filtered_report_chunk_list.append(report_chunk)
+        report_chunk_list = filtered_report_chunk_list
+
     report_point_list, report_ref_list_list = query_step1(report_chunk_list, convert_chunk_to_prompt1_format_for_graphrag, 'report_id')
 
     if include_summary:
-        summary_chunk_list = get_all_summary_chunks()
+        summary_chunk_list = db.get_all_summary_chunks()
+        summary_chunk_list = [chunk for chunk in summary_chunk_list if doc_id == -1 or chunk['paper_id'] == str(doc_id)]
         summary_point_list, summary_ref_list_list = query_step1(summary_chunk_list, convert_chunk_to_prompt1_format_for_raptor_summary, 'summary_id')
     else:
         summary_chunk_list = []
@@ -470,17 +486,93 @@ def graphrag_query(include_summary=False):
     return answer, ref_id, ref_text
 
 
+def process_arguments():
+    global QUESTION
+
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument(
+        '--question', '-q',
+        type=str,
+        default=QUESTION,
+        help=f'Query question. Default is "{QUESTION}"'
+    )
+
+    default_db_path = db.DATABASE_PATH
+    parser.add_argument(
+        '--db_path', '-p',
+        type=str,
+        default=default_db_path,
+        help=f'Database path. Default is "{default_db_path}"'
+    )
+
+    parser.add_argument(
+        '--list_doc', '-l',
+        type=bool,
+        default=False,
+        help='If True, list document names and their IDs. If False, execute the query. Default is False.'
+    )
+
+    parser.add_argument(
+        '--doc_id', '-d',
+        type=int,
+        default=-1,
+        help='ID of the document to query. If not provided, all documents will be queried. Default is -1 (query all).'
+    )
+
+    args = parser.parse_args()
+
+    QUESTION = args.question
+
+    input_db_path = args.db_path
+    if not os.path.isabs(input_db_path):
+        input_db_path = os.path.join(os.getcwd(), input_db_path)
+    if not os.path.isdir(input_db_path):
+        print(f'Database path "{input_db_path}" does not exist.')
+        return None
+
+    db.update_db_path(input_db_path)
+
+    if args.doc_id != -1:
+        has_doc = False
+        paper_list = db.get_all_papers()
+        for paper in paper_list:
+            if args.doc_id == int(paper['paper_id']):
+                has_doc = True
+                break
+        if not has_doc:
+            print('Please input an valid document ID. You can list document IDs by "--list_doc True"')
+            return None
+
+    return args
+
+
 def main():
     start = datetime.now()
 
+    db.rm_db_tmp_file()
+
+    args = process_arguments()
+    if args is None:
+        db.rm_db_tmp_file()
+        return
+
+    if args.list_doc:
+        paper_list = db.get_all_papers()
+        print("{:^15} | {:<25}".format('Document ID', 'Name'))
+        for paper in paper_list:
+            print("{:^15} | {:<25}".format(paper['paper_id'], paper['paper_name']))
+        db.rm_db_tmp_file()
+        return
+
     if QUERY_OPTION == QUERY_RAPTOR:
-        answer, ref_id, ref_text = raptor_query(QUESTION)
+        answer, ref_id, ref_text = raptor_query(QUESTION, doc_id=args.doc_id)
 
     elif QUERY_OPTION == QUERY_GRAPHRAG:
-        answer, ref_id, ref_text = graphrag_query(include_summary=False)
+        answer, ref_id, ref_text = graphrag_query(include_summary=False, doc_id=args.doc_id)
 
     elif QUERY_OPTION == QUERY_RAPTOR_GRAPHRAG:
-        answer, ref_id, ref_text = graphrag_query(include_summary=True)
+        answer, ref_id, ref_text = graphrag_query(include_summary=True, doc_id=args.doc_id)
 
     else:
         print(f'Please check your query option. It should be one of ({QUERY_RAPTOR}, {QUERY_GRAPHRAG}, {QUERY_RAPTOR_GRAPHRAG})')
@@ -505,7 +597,9 @@ def main():
     print('--- final answer ---')
 
     end = datetime.now()
-    print('run time', end - start)
+    print('run time:', end - start)
+
+    db.rm_db_tmp_file()
 
 
 if __name__ == '__main__':

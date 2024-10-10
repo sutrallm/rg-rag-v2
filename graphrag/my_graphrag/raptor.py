@@ -180,19 +180,29 @@ def gen_summary_chunks(chunks):
     return summary_chunks
 
 
-def raptor_index():
+def raptor_index(new_paper_id_list):
     summary_max_times = 5
 
     chunk_list = get_all_chunks()
-    if len(chunk_list) == 0:
-        paper_list = get_all_papers()
-        for paper in paper_list:
-            paper_content = paper['paper_content']
-            splitted_chunks = split_text_into_chunks(paper_content, min_num_char=1000)
-            for chunk in splitted_chunks:
-                save_new_chunk(chunk, paper_content)
+    paper_list = get_all_papers()
 
-        chunk_list = get_all_chunks()
+    for new_paper_id in new_paper_id_list:
+        has_splitted = False
+        for chunk in chunk_list:
+            if chunk['paper_id'] == new_paper_id:
+                has_splitted = True
+                break
+
+        if not has_splitted:
+            for paper in paper_list:
+                if paper['paper_id'] == new_paper_id:
+                    paper_content = paper['paper_content']
+                    splitted_chunks = split_text_into_chunks(paper_content, min_num_char=1000)
+                    for chunk in splitted_chunks:
+                        save_new_chunk(chunk, paper_content)
+                    break
+
+    chunk_list = [chunk for chunk in get_all_chunks() if chunk['paper_id'] in new_paper_id_list]
 
     chunk_list = convert_chunk_list(chunk_list)
 
@@ -285,8 +295,8 @@ def get_ref_id_and_text(chunk_list, chunk_type):
     return '\n'.join(ref_id_list), '\n\n'.join(ref_text_list)
 
 
-def raptor_query(question):
-    base_chunk_list, summary_chunk_list = query_raptor_chunks(question, top_k=10)
+def raptor_query(question, doc_id=-1):
+    base_chunk_list, summary_chunk_list = query_raptor_chunks(question, top_k=10, doc_id=doc_id)
 
     # step 1
     info_list_base_chunk, relevant_id_list_base_chunk = query_step1(question, base_chunk_list)

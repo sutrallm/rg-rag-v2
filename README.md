@@ -47,8 +47,13 @@ drwxrwxr-x 3 ohho ohho 4096 Sep 30 10:44 ..
 ### Index
 ```bash
 conda activate rg-rag
-python index.py
+python index.py [options]
 ```
+##### Options
+| Argument            | Short | Type     | Default Value                   | Description                               |
+|---------------------|-------|----------|---------------------------------|-------------------------------------------|
+| `--help`            | `-h`  |          |                                 | Show the help message of all options and exit. |
+| `--db_path`         | `-p`  | `str`    | `./my_graphrag/vector_database` | Specify the database path. If the path already exists, check whether the document is in the db, if not, add to the db. |
 <details>
   <summary>Typical output...</summary>
 
@@ -201,82 +206,23 @@ python index.py
 
 ### Query
 ```bash
-python query.py "what's the meaning of suffering?"
+python query.py [options]
 ```
+##### Options
+| Argument      | Short | Type   | Default Value                                                 | Description                                                               |
+|---------------|-------|--------|---------------------------------------------------------------|---------------------------------------------------------------------------|
+| `--help`      | `-h`  |        |                                                               | Show the help message of all options and exit.                            |
+| `--question`  | `-q`  | `str`  | `What improvement techniques have people implemented on RAG?` | Provide a question for query.                                             |
+| `--db_path`   | `-p`  | `str`  | `./my_graphrag/vector_database`                               | Specify the database path.                                                |
+| `--list_doc`  | `-l`  | `bool` | `False`                                                       | If True, list document names and their IDs. If False, execute the query.  |
+| `--doc_id`    | `-d`  | `int`  | `-1 (query all)`                                              | Document ID to query. If not provided, query all.                         |
 <details>
   <summary>Typical output...</summary>
 
   ```
-  $ python query.py "what's the meaning of suffering?"
+  $ python query.py -q "what's the meaning of suffering?"
   [nltk_data] Downloading package punkt to /home/user2/nltk_data...
   [nltk_data]   Package punkt is already up-to-date!
-  --- prompt2 ---
-  
-  You are a helpful assistant responding to questions about a dataset by synthesizing perspectives from multiple analysts.
-  
-  Generate a response that directly answers the user's question by summarizing and integrating the key points from all the analysts' reports, which focus on different aspects of the dataset.
-  
-  Note that the analysts' reports provided below are ranked in the **descending order of importance**.
-  
-  If the provided reports do not contain sufficient information to answer the question, or if you are unsure of the answer, state this clearly without speculating or making assumptions.
-  
-  The final response should remove all irrelevant information from the analysts' reports and combine the relevant information into a cohesive and comprehensive answer that explains the key points and their implications appropriately.
-  
-  Structure your response using sections and commentary where appropriate, and style the response using markdown.
-  
-  The response shall preserve the original meaning and use of modal verbs such as "shall", "may" or "will".
-  
-  Do not include information where the supporting evidence for it is not provided.
-  
-  == Question
-  
-  what's the meaning of suffering?
-  
-  == Analyst Reports
-  
-  <analyst>
-  <title>No information about suffering is provided in the data table.</title>
-  <content>There are no records that mention or discuss the concept of "suffering".</content>
-  <ref>1,2,3,4,5,6,7,8,9</ref>
-  <score>100<\score>
-  </analyst>
-  
-  <analyst>
-  <title>Suffering is ultimately empty of inherent existence</title>
-  <content>All phenomena, including suffering, are void of inherent existence, meaning they are not born or destroyed, stained or pure, waxing or waning.</content>
-  <ref>1</ref>
-  <score>90<\score>
-  </analyst>
-  
-  <analyst>
-  <title>Suffering as a result of ignorance and delusion</title>
-  <content>The Heart Sutra describes suffering as a consequence of ignorance, which leads to delusion. This is supported by the statement that "ignorance, suffering, or path to enlightenment" are all void of inherent existence.</content>
-  <ref>1</ref>
-  <score>80<\score>
-  </analyst>
-  
-  <analyst>
-  <title>Suffering as a lack of Prajna wisdom</title>
-  <content>The Bodhisattva who holds nothing but Prajna wisdom is freed from delusion and reaches the clearest state of Nirvana, implying that suffering is associated with the absence of this wisdom.</content>
-  <ref>1</ref>
-  <score>70<\score>
-  </analyst>
-  
-  <analyst>
-  <title>Suffering as a void concept</title>
-  <content>The Heart Sutra states that even wisdom and attainment are empty concepts, suggesting that suffering may also be seen as an empty or void concept.</content>
-  <ref>1</ref>
-  <score>60<\score>
-  </analyst>
-  
-  <analyst>
-  <title>Suffering is alleviated by Prajna wisdom and the dharani mantra</title>
-  <content>The great dharani mantra, "Gate Gate Paragate Parasamgate Bodhi Svaha", allays all pain, implying that suffering can be alleviated through the use of this mantra.</content>
-  <ref>1</ref>
-  <score>50<\score>
-  </analyst>
-  
-  --- prompt2 ---
   --- final answer ---
   <question>
   what's the meaning of suffering?

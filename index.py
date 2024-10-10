@@ -1,9 +1,11 @@
 import os
 import shutil
 import subprocess
+import argparse
+import hashlib
 import pdftotext
 from datetime import datetime
-from graphrag.my_graphrag.db import save_new_group, save_new_paper, count_all_collection
+import graphrag.my_graphrag.db as db
 from graphrag.my_graphrag.conf import INDEX_RAPTOR, INDEX_GRAPHRAG
 from graphrag.my_graphrag.raptor import raptor_index
 
@@ -12,7 +14,6 @@ PRJ_DIR = os.path.join(FILE_DIR, './my_graphrag')
 CONFIG_EXAMPLE_DIR = os.path.join(PRJ_DIR, 'config_example')
 INPUT_DIR = os.path.join(PRJ_DIR, 'input_groups')
 TMP_CONFIG_DIR = os.path.join(PRJ_DIR, 'output/tmp_config')
-DATABASE_PATH = os.path.join(PRJ_DIR, 'vector_database')
 
 
 def extract_text_from_pdf(pdf_path, save_txt_file=False):
@@ -31,6 +32,9 @@ def extract_text_from_pdf(pdf_path, save_txt_file=False):
 
 
 def save_group_and_paper():
+    cur_paper_list = db.get_all_papers()
+
+    new_paper_list_list = []
     for group_name in os.listdir(INPUT_DIR):
         # each group can have one or multiple files
         group_dir = os.path.join(INPUT_DIR, group_name)
@@ -45,17 +49,70 @@ def save_group_and_paper():
                 # ignore
                 pass
 
-        if len(txt_file_list) != 0:
-            group_id = save_new_group(group_name)
-            for txt_file_path in txt_file_list:
-                with open(txt_file_path, 'r') as txtf:
-                    paper_content = txtf.read()
-                paper_name = os.path.splitext(os.path.basename(txt_file_path))[0]
-                save_new_paper(paper_content, paper_name, group_id)
+        group_id = None
+        new_paper_list = []
+        for txt_file_path in txt_file_list:
+            with open(txt_file_path, 'r') as txtf:
+                paper_content = txtf.read()
+
+            # only add new paper to existing database
+            paper_hash = hashlib.sha256(paper_content.encode()).hexdigest()
+            is_new = True
+            for paper in cur_paper_list:
+                if paper['hash'] == paper_hash:
+                    is_new = False
+                    break
+
+            if is_new:
+                paper_name = os.path.basename(txt_file_path)
+                if group_id is None:
+                    group_id = db.save_new_group(group_name)
+                paper_id = db.save_new_paper(paper_content, paper_name, group_id)
+
+                new_paper_list.append(
+                    {
+                        'txt_path': txt_file_path,
+                        'paper_id': paper_id,
+                    }
+                )
+
+        if new_paper_list:
+            new_paper_list_list.append(new_paper_list)
+
+    return new_paper_list_list
+
+
+def process_arguments():
+    parser = argparse.ArgumentParser()
+
+    default_db_path = db.DATABASE_PATH
+    parser.add_argument(
+        '--db_path', '-p',
+        type=str,
+        default=default_db_path,
+        help=f'Database path. Default is "{default_db_path}"'
+    )
+
+    args = parser.parse_args()
+
+    input_db_path = args.db_path
+    if not os.path.isabs(input_db_path):
+        input_db_path = os.path.join(os.getcwd(), input_db_path)
+
+    parent_dir = os.path.dirname(input_db_path)
+    if not os.path.isdir(parent_dir):
+        print(f'Please check your input database path. The parent directory "{parent_dir}" does not exist.')
+        return None
+
+    db.update_db_path(input_db_path)
+
+    return args
 
 
 def main():
     start_time = datetime.now()
+
+    db.rm_db_tmp_file()
 
     if not INDEX_GRAPHRAG and not INDEX_RAPTOR:
         print('Please select at least one of the index options.')
@@ -68,41 +125,35 @@ def main():
     if os.path.isdir(TMP_CONFIG_DIR):
         shutil.rmtree(TMP_CONFIG_DIR)
 
-    if os.path.isdir(DATABASE_PATH):
-        shutil.rmtree(DATABASE_PATH)
+    args = process_arguments()
+    if args is None:
+        return
 
-    save_group_and_paper()
+    new_paper_list_list = save_group_and_paper()
 
     if INDEX_GRAPHRAG:
-        for group_name in os.listdir(INPUT_DIR):
-            # each group can have one or multiple files
-            group_dir = os.path.join(INPUT_DIR, group_name)
-            txt_file_list = []
-            for fn in os.listdir(group_dir):
-                if fn.endswith('txt'):
-                    txt_file_list.append(os.path.join(group_dir, fn))
-
+        for new_paper_list in new_paper_list_list:
             if os.path.isdir(TMP_CONFIG_DIR):
                 shutil.rmtree(TMP_CONFIG_DIR)
             shutil.copytree(CONFIG_EXAMPLE_DIR, TMP_CONFIG_DIR)
 
-            if len(txt_file_list) != 0:
-                for txt_file in txt_file_list:
-                    shutil.copyfile(txt_file, os.path.join(TMP_CONFIG_DIR, 'input', os.path.basename(txt_file)))
+            for new_paper in new_paper_list:
+                txt_file = new_paper['txt_path']
+                shutil.copyfile(txt_file, os.path.join(TMP_CONFIG_DIR, 'input', os.path.basename(txt_file)))
 
-                # python -m graphrag.index --root ./ragtest
-                p = subprocess.Popen(['python', '-m', 'graphrag.index', '--root', TMP_CONFIG_DIR])
-                p.wait()
+            # python -m graphrag.index --root ./ragtest
+            p = subprocess.Popen(['python', '-m', 'graphrag.index', '--root', TMP_CONFIG_DIR])
+            p.wait()
 
-                if os.path.isdir(TMP_CONFIG_DIR):
-                  # shutil.rmtree(TMP_CONFIG_DIR)
-                  ymdhm = datetime.now().strftime('-%Y-%m-%d-%H-%M')
-                  shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR+ymdhm)
+            if os.path.isdir(TMP_CONFIG_DIR):
+                # shutil.rmtree(TMP_CONFIG_DIR)
+                ymdhm = datetime.now().strftime('-%Y-%m-%d-%H-%M')
+                shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR + ymdhm)
 
     end_time_graphrag = datetime.now()
 
     if INDEX_RAPTOR:
-        raptor_index()
+        raptor_index([p['paper_id'] for l in new_paper_list_list for p in l])
 
     end_time_raptor = datetime.now()
 
@@ -110,7 +161,9 @@ def main():
     print('raptor run time:', end_time_raptor - end_time_graphrag)
     print('run time:', end_time_raptor - start_time)
 
-    count_all_collection()
+    db.count_all_collection()
+
+    db.rm_db_tmp_file()
 
 
 if __name__ == '__main__':

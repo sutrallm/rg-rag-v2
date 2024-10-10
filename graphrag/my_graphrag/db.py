@@ -3,10 +3,12 @@ import re
 import json
 import traceback
 import chromadb
+import hashlib
 from pathlib import Path
 
 FILE_DIR = Path(os.path.dirname(os.path.realpath(__file__))).parent.parent.absolute()
 DATABASE_PATH = os.path.join(FILE_DIR, './my_graphrag/vector_database')
+DB_TMP_FILE_PATH = os.path.join(FILE_DIR, './my_graphrag/db_tmp_file.txt')
 COLLECTION_GROUP = 'group'
 COLLECTION_PAPER = 'paper'
 COLLECTION_CHUNK = 'chunk'
@@ -16,7 +18,7 @@ COLLECTION_SUMMARY = 'summary'
 
 
 def save_new_item(collection_name: str, documents: str, metadatas: dict):
-    client = chromadb.PersistentClient(path=DATABASE_PATH)
+    client = chromadb.PersistentClient(path=get_db_path())
     collection = client.get_or_create_collection(name=collection_name)
 
     all_data = collection.get()
@@ -26,6 +28,7 @@ def save_new_item(collection_name: str, documents: str, metadatas: dict):
         last_ids = max(last_ids, int(ids))
 
     new_ids = last_ids + 1
+    new_ids = str(new_ids)
     collection.add(
         documents=[
             documents
@@ -34,7 +37,7 @@ def save_new_item(collection_name: str, documents: str, metadatas: dict):
             metadatas
         ],
         ids=[
-            str(new_ids)
+            new_ids
         ]
     )
 
@@ -42,7 +45,7 @@ def save_new_item(collection_name: str, documents: str, metadatas: dict):
 
 
 def get_id(collection_name: str, query_content: str):
-    client = chromadb.PersistentClient(path=DATABASE_PATH)
+    client = chromadb.PersistentClient(path=get_db_path())
     collection = client.get_collection(name=collection_name)
 
     results = collection.query(
@@ -76,12 +79,15 @@ def save_new_paper(paper_content, paper_name, group_id):
     # documents: paper_name
     # metadatas: paper_name, group_id
 
+    hash_value = hashlib.sha256(paper_content.encode()).hexdigest()
+
     paper_id = save_new_item(
         COLLECTION_PAPER,
         paper_content,
         {
             'paper_name': paper_name,
             'group_id': group_id,
+            'hash': hash_value,
         }
     )
 
@@ -140,7 +146,7 @@ def save_new_community_report(index_prompt3_input_text, community_report_text, t
     chunk_id_list = []
 
     if descriptions:
-        client = chromadb.PersistentClient(path=DATABASE_PATH)
+        client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=COLLECTION_RELATIONSHIP)
 
         for des in descriptions:
@@ -191,7 +197,7 @@ def save_new_summary(summary_text, chunk_id_list, from_base_chunk, root_summary,
 def get_all_community_reports():
     report_list = []
     try:
-        client = chromadb.PersistentClient(path=DATABASE_PATH)
+        client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=COLLECTION_COMMUNITY_REPORT)
 
         all_data = collection.get()
@@ -207,8 +213,9 @@ def get_all_community_reports():
 
         report_list.sort(key=lambda x: int(x['report_id']), reverse=False)
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
 
     return report_list
 
@@ -216,7 +223,7 @@ def get_all_community_reports():
 def get_all_chunks():
     chunk_list = []
     try:
-        client = chromadb.PersistentClient(path=DATABASE_PATH)
+        client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=COLLECTION_CHUNK)
 
         all_data = collection.get()
@@ -231,8 +238,9 @@ def get_all_chunks():
 
         chunk_list.sort(key=lambda x: int(x['chunk_id']), reverse=False)
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
 
     return chunk_list
 
@@ -240,7 +248,7 @@ def get_all_chunks():
 def get_all_summary_chunks():
     summary_list = []
     try:
-        client = chromadb.PersistentClient(path=DATABASE_PATH)
+        client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=COLLECTION_SUMMARY)
 
         all_data = collection.get()
@@ -258,8 +266,9 @@ def get_all_summary_chunks():
 
         summary_list.sort(key=lambda x: int(x['summary_id']), reverse=False)
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
 
     return summary_list
 
@@ -267,7 +276,7 @@ def get_all_summary_chunks():
 def get_all_papers():
     paper_list = []
     try:
-        client = chromadb.PersistentClient(path=DATABASE_PATH)
+        client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=COLLECTION_PAPER)
 
         all_data = collection.get()
@@ -278,20 +287,23 @@ def get_all_papers():
                     'paper_content': all_data['documents'][i],
                     'paper_name': all_data['metadatas'][i]['paper_name'],
                     'group_id': all_data['metadatas'][i]['group_id'],
+                    'hash': all_data['metadatas'][i]['hash'],
                 }
             )
 
         paper_list.sort(key=lambda x: int(x['paper_id']), reverse=False)
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
 
     return paper_list
 
 
 def get_paper_id_of_chunk(chunk_id):
+    paper_id = -1
     try:
-        client = chromadb.PersistentClient(path=DATABASE_PATH)
+        client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=COLLECTION_CHUNK)
 
         results = collection.get(
@@ -300,14 +312,15 @@ def get_paper_id_of_chunk(chunk_id):
 
         paper_id = results['metadatas'][0]['paper_id']
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
 
     return paper_id
 
 
 def count_all_collection():
-    client = chromadb.PersistentClient(path=DATABASE_PATH)
+    client = chromadb.PersistentClient(path=get_db_path())
 
     # group
     group_count = 0
@@ -316,8 +329,9 @@ def count_all_collection():
         all_data = collection.get()
         group_count = len(all_data['ids'])
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
     print('count of group:', group_count)
 
     # paper
@@ -327,8 +341,9 @@ def count_all_collection():
         all_data = collection.get()
         paper_count = len(all_data['ids'])
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
     print('count of paper:', paper_count)
 
     # chunk
@@ -338,8 +353,9 @@ def count_all_collection():
         all_data = collection.get()
         chunk_count = len(all_data['ids'])
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
     print('count of chunk:', chunk_count)
 
     # relationship
@@ -349,8 +365,9 @@ def count_all_collection():
         all_data = collection.get()
         relationship_count = len(all_data['ids'])
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
     print('count of relationship:', relationship_count)
 
     # community report
@@ -360,8 +377,9 @@ def count_all_collection():
         all_data = collection.get()
         report_count = len(all_data['ids'])
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
     print('count of community report:', report_count)
 
     # summary
@@ -371,14 +389,15 @@ def count_all_collection():
         all_data = collection.get()
         summary_count = len(all_data['ids'])
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
+        pass
     print('count of summary:', summary_count)
 
 
 def get_text(collection_name: str, ids: str):
     try:
-        client = chromadb.PersistentClient(path=DATABASE_PATH)
+        client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=collection_name)
 
         results = collection.get(
@@ -387,8 +406,8 @@ def get_text(collection_name: str, ids: str):
 
         text = results['documents'][0]
     except Exception as e:
-        print(e)
-        traceback.print_exc()
+        # print(e)
+        # traceback.print_exc()
         text = ''
 
     return text
@@ -406,15 +425,16 @@ def get_paper(paper_id):
     return get_text(COLLECTION_PAPER, str(paper_id))
 
 
-def query_chunks(query_text, collection_list, top_k=10):
-    client = chromadb.PersistentClient(path=DATABASE_PATH)
+def query_chunks(query_text, collection_list, top_k=10, doc_id=-1):
+    client = chromadb.PersistentClient(path=get_db_path())
     result_list = []
     for collection_name in collection_list:
         collection = client.get_collection(name=collection_name)
 
         results = collection.query(
             query_texts=[query_text],
-            n_results=top_k
+            n_results=top_k,
+            where=None if doc_id == -1 else {'paper_id': str(doc_id)}
         )
 
         for i in range(len(results['ids'][0])):
@@ -431,8 +451,8 @@ def query_chunks(query_text, collection_list, top_k=10):
     return result_list[:top_k]
 
 
-def query_raptor_chunks(query_text, top_k=10):
-    chunk_list = query_chunks(query_text, [COLLECTION_SUMMARY, COLLECTION_CHUNK], top_k)
+def query_raptor_chunks(query_text, top_k=10, doc_id=-1):
+    chunk_list = query_chunks(query_text, [COLLECTION_SUMMARY, COLLECTION_CHUNK], top_k, doc_id)
 
     base_chunk_list = []
     summary_chunk_list = []
@@ -449,3 +469,25 @@ def query_raptor_chunks(query_text, top_k=10):
 
     return base_chunk_list, summary_chunk_list
 
+
+def get_db_path():
+    try:
+        with open(DB_TMP_FILE_PATH, 'r') as f:
+            db_path = f.read()
+        db_path = db_path.strip()
+        if not db_path:
+            db_path = DATABASE_PATH
+    except:
+        db_path = DATABASE_PATH
+    return db_path
+
+
+def update_db_path(new_db_path):
+    with open(DB_TMP_FILE_PATH, 'w') as f:
+        f.write(new_db_path)
+        f.flush()
+
+
+def rm_db_tmp_file():
+    if os.path.isfile(DB_TMP_FILE_PATH):
+        os.remove(DB_TMP_FILE_PATH)
