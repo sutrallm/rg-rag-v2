@@ -3,6 +3,7 @@ import shutil
 import subprocess
 import argparse
 import hashlib
+import pathlib
 import pdftotext
 from datetime import datetime
 import graphrag.my_graphrag.db as db
@@ -82,6 +83,39 @@ def save_group_and_paper():
     return new_paper_list_list
 
 
+def check_config_example_dir():
+    if not os.path.isdir(CONFIG_EXAMPLE_DIR):
+        print('Please put the config example on ' + CONFIG_EXAMPLE_DIR)
+        return False
+
+    settings_file = os.path.join(CONFIG_EXAMPLE_DIR, 'settings.yaml')
+    cache_dir = os.path.join(CONFIG_EXAMPLE_DIR, 'cache')
+    input_dir = os.path.join(CONFIG_EXAMPLE_DIR, 'input')
+    output_dir = os.path.join(CONFIG_EXAMPLE_DIR, 'output')
+    prompts_dir = os.path.join(CONFIG_EXAMPLE_DIR, 'prompts')
+
+    if not os.path.isfile(settings_file):
+        print('Please put settings.yaml in ' + CONFIG_EXAMPLE_DIR)
+        return False
+
+    if not os.path.isdir(prompts_dir):
+        os.mkdir(prompts_dir)
+
+    if os.path.isdir(cache_dir):
+        shutil.rmtree(cache_dir)
+    os.mkdir(cache_dir)
+
+    if os.path.isdir(input_dir):
+        shutil.rmtree(input_dir)
+    os.mkdir(input_dir)
+
+    if os.path.isdir(output_dir):
+        shutil.rmtree(output_dir)
+    os.mkdir(output_dir)
+
+    return True
+
+
 def process_arguments():
     parser = argparse.ArgumentParser()
 
@@ -99,8 +133,8 @@ def process_arguments():
     if not os.path.isabs(input_db_path):
         input_db_path = os.path.join(os.getcwd(), input_db_path)
 
-    parent_dir = os.path.dirname(input_db_path)
-    if not os.path.isdir(parent_dir):
+    parent_dir = pathlib.Path(input_db_path).parent
+    if not parent_dir.exists():
         print(f'Please check your input database path. The parent directory "{parent_dir}" does not exist.')
         return None
 
@@ -118,8 +152,7 @@ def main():
         print('Please select at least one of the index options.')
         return
 
-    if not os.path.isdir(CONFIG_EXAMPLE_DIR):
-        print('Please put the config example on ' + CONFIG_EXAMPLE_DIR)
+    if not check_config_example_dir():
         return
 
     if os.path.isdir(TMP_CONFIG_DIR):
