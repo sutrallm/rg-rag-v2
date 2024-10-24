@@ -45,40 +45,11 @@ def run(
     )
 
 
-# 240828 using our chunking method
-def split_text_into_chunks(text, min_num_char=1000):
-    # Split the text by double newline (blank lines)
-    paragraphs = text.split('\n\n')
-
-    chunks = []
-    current_chunk = []
-    current_length = 0
-
-    for paragraph in paragraphs:
-        paragraph_length = len(paragraph)
-
-        if current_length >= min_num_char and current_chunk:
-            # If the current chunk already meets the minimum length requirement, finish the chunk
-            chunks.append('\n\n'.join(current_chunk))
-            current_chunk = [paragraph]
-            current_length = paragraph_length
-        else:
-            # Otherwise, add the paragraph to the current chunk
-            current_chunk.append(paragraph)
-            current_length += paragraph_length
-
-    # Add the last chunk if it exists
-    if current_chunk:
-        chunks.append('\n\n'.join(current_chunk))
-
-    return chunks
-
-
 def split_text_on_tokens(
     texts: list[str], enc: Tokenizer, tick: ProgressTicker
 ) -> list[TextChunk]:
     """Split incoming text and return chunks."""
-    from graphrag.my_graphrag.db import save_new_chunk
+    from graphrag.my_graphrag.db import split_text_into_chunks
     result = []
     for source_doc_idx, text in enumerate(texts):
         tick(1)
@@ -93,8 +64,8 @@ def split_text_on_tokens(
             #         n_tokens=len(enc.encode(chunk)),
             #     )
             # )
-
-            save_new_chunk(chunk, text)
+            #
+            # save_new_chunk(chunk, text)
 
             # add sub chunk
             encoded = enc.encode(chunk)

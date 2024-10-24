@@ -45,15 +45,45 @@ def save_new_item(collection_name: str, documents: str, metadatas: dict):
 
 
 def get_id(collection_name: str, query_content: str):
-    client = chromadb.PersistentClient(path=get_db_path())
-    collection = client.get_collection(name=collection_name)
+    ids = '0'
+    try:
+        client = chromadb.PersistentClient(path=get_db_path())
+        collection = client.get_collection(name=collection_name)
 
-    results = collection.query(
-        query_texts=[query_content],
-        n_results=1
-    )
+        try:
+            results = collection.query(
+                query_texts=[query_content],
+                n_results=1
+            )
+            ids = results['ids'][0][0]
+        except:
+            pass
 
-    return results['ids'][0][0]
+        if ids == '0':
+            all_data = collection.get()
+            query_content_clean = re.sub(r'\s+', '', query_content)
+            for i in range(len(all_data['ids'])):
+                documents_clean = re.sub(r'\s+', '', all_data['documents'][i])
+                if query_content_clean in documents_clean or query_content in all_data['documents'][i]:
+                    ids = all_data['ids'][i]
+                    break
+
+        if ids == '0':
+            split_text = query_content.split('\n')
+            for text in split_text:
+                text_clean = re.sub(r'\s+', '', text)
+                for i in range(len(all_data['ids'])):
+                    documents_clean = re.sub(r'\s+', '', all_data['documents'][i])
+                    if text_clean in documents_clean or text in all_data['documents'][i]:
+                        ids = all_data['ids'][i]
+                        break
+                if ids != '0':
+                    break
+
+    except:
+        pass
+
+    return ids
 
 
 def save_new_group(group_name):
@@ -94,13 +124,14 @@ def save_new_paper(paper_content, paper_name, group_id):
     return paper_id
 
 
-def save_new_chunk(chunk, paper_content):
+def save_new_chunk(chunk, paper_content='', paper_id='0'):
     # chunk
     # ids: chunk id
     # documents: chunk_content
     # metadatas: paper_id
 
-    paper_id = get_id(COLLECTION_PAPER, paper_content)
+    if get_paper(paper_id) == '':
+        paper_id = get_id(COLLECTION_PAPER, paper_content) if paper_content else '0'
 
     chunk_id = save_new_item(
         COLLECTION_CHUNK,
@@ -491,3 +522,31 @@ def update_db_path(new_db_path):
 def rm_db_tmp_file():
     if os.path.isfile(DB_TMP_FILE_PATH):
         os.remove(DB_TMP_FILE_PATH)
+
+
+def split_text_into_chunks(text, min_num_char=1000):
+    # Split the text by double newline (blank lines)
+    paragraphs = text.split('\n\n')
+
+    chunks = []
+    current_chunk = []
+    current_length = 0
+
+    for paragraph in paragraphs:
+        paragraph_length = len(paragraph)
+
+        if current_length >= min_num_char and current_chunk:
+            # If the current chunk already meets the minimum length requirement, finish the chunk
+            chunks.append('\n\n'.join(current_chunk))
+            current_chunk = [paragraph]
+            current_length = paragraph_length
+        else:
+            # Otherwise, add the paragraph to the current chunk
+            current_chunk.append(paragraph)
+            current_length += paragraph_length
+
+    # Add the last chunk if it exists
+    if current_chunk:
+        chunks.append('\n\n'.join(current_chunk))
+
+    return chunks

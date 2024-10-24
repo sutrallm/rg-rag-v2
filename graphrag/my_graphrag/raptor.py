@@ -5,7 +5,7 @@ import umap
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.mixture import GaussianMixture
-from graphrag.my_graphrag.db import get_all_papers, get_all_chunks, save_new_summary, save_new_chunk, query_raptor_chunks
+from graphrag.my_graphrag.db import get_all_papers, get_all_chunks, save_new_summary, save_new_chunk, query_raptor_chunks, split_text_into_chunks
 from graphrag.my_graphrag.conf import TEXT_TEMPLATE
 
 
@@ -52,34 +52,6 @@ class Chunk(object):
         self.paper_id = paper_id
         self.from_base_chunk = from_base_chunk
         self.root_summary = root_summary
-
-
-def split_text_into_chunks(text, min_num_char=1000):
-    # Split the text by double newline (blank lines)
-    paragraphs = text.split('\n\n')
-
-    chunks = []
-    current_chunk = []
-    current_length = 0
-
-    for paragraph in paragraphs:
-        paragraph_length = len(paragraph)
-
-        if current_length >= min_num_char and current_chunk:
-            # If the current chunk already meets the minimum length requirement, finish the chunk
-            chunks.append('\n\n'.join(current_chunk))
-            current_chunk = [paragraph]
-            current_length = paragraph_length
-        else:
-            # Otherwise, add the paragraph to the current chunk
-            current_chunk.append(paragraph)
-            current_length += paragraph_length
-
-    # Add the last chunk if it exists
-    if current_chunk:
-        chunks.append('\n\n'.join(current_chunk))
-
-    return chunks
 
 
 def convert_chunk_list(chunk_list):
@@ -199,7 +171,7 @@ def raptor_index(new_paper_id_list):
                     paper_content = paper['paper_content']
                     splitted_chunks = split_text_into_chunks(paper_content, min_num_char=1000)
                     for chunk in splitted_chunks:
-                        save_new_chunk(chunk, paper_content)
+                        save_new_chunk(chunk, paper_content=paper_content)
                     break
 
     chunk_list = [chunk for chunk in get_all_chunks() if chunk['paper_id'] in new_paper_id_list]

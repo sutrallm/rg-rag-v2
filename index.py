@@ -70,6 +70,10 @@ def save_group_and_paper():
                     group_id = db.save_new_group(group_name)
                 paper_id = db.save_new_paper(paper_content, paper_name, group_id)
 
+                chunks = db.split_text_into_chunks(paper_content)
+                for chunk in chunks:
+                    db.save_new_chunk(chunk, paper_id=paper_id)
+
                 new_paper_list.append(
                     {
                         'txt_path': txt_file_path,
@@ -170,9 +174,13 @@ def main():
                 shutil.rmtree(TMP_CONFIG_DIR)
             shutil.copytree(CONFIG_EXAMPLE_DIR, TMP_CONFIG_DIR)
 
+            group_name = ''
+
             for new_paper in new_paper_list:
                 txt_file = new_paper['txt_path']
                 shutil.copyfile(txt_file, os.path.join(TMP_CONFIG_DIR, 'input', os.path.basename(txt_file)))
+                if not group_name:
+                    group_name = os.path.basename(os.path.dirname(txt_file))
 
             # python -m graphrag.index --root ./ragtest
             p = subprocess.Popen(['python', '-m', 'graphrag.index', '--root', TMP_CONFIG_DIR])
@@ -181,7 +189,7 @@ def main():
             if os.path.isdir(TMP_CONFIG_DIR):
                 # shutil.rmtree(TMP_CONFIG_DIR)
                 ymdhm = datetime.now().strftime('-%Y-%m-%d-%H-%M')
-                shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR + ymdhm)
+                shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR + '-' + group_name + ymdhm)
 
     end_time_graphrag = datetime.now()
 
