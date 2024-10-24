@@ -1,2 +1,6 @@
+**/__pycache__/
+**/*.pyc
+my_graphrag/input_groups/
 my_graphrag/output/
 my_graphrag/vector_database/
+my_graphrag/vector_db_*/
