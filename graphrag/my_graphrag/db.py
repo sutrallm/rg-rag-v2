@@ -124,20 +124,18 @@ def save_new_paper(paper_content, paper_name, group_id):
     return paper_id
 
 
-def save_new_chunk(chunk, paper_content='', paper_id='0'):
+def save_new_chunk(chunk, paper_id, group_id):
     # chunk
     # ids: chunk id
     # documents: chunk_content
     # metadatas: paper_id
-
-    if get_paper(paper_id) == '':
-        paper_id = get_id(COLLECTION_PAPER, paper_content) if paper_content else '0'
 
     chunk_id = save_new_item(
         COLLECTION_CHUNK,
         chunk,
         {
             'paper_id': paper_id,
+            'group_id': group_id,
         }
     )
 
@@ -206,7 +204,7 @@ def save_new_community_report(index_prompt3_input_text, community_report_text, t
     return report_id
 
 
-def save_new_summary(summary_text, chunk_id_list, from_base_chunk, root_summary, paper_id):
+def save_new_summary(summary_text, chunk_id_list, from_base_chunk, root_summary, group_id):
     # summary chunk
     # ids: summary chunk id
     # documents: summary text
@@ -218,7 +216,7 @@ def save_new_summary(summary_text, chunk_id_list, from_base_chunk, root_summary,
             'chunk_id_list': json.dumps(chunk_id_list),
             'from_base_chunk': from_base_chunk,
             'root_summary': root_summary,
-            'paper_id': paper_id,
+            'group_id': group_id,
         }
     )
 
@@ -264,6 +262,7 @@ def get_all_chunks():
                     'chunk_id': all_data['ids'][i],
                     'chunk_content': all_data['documents'][i],
                     'paper_id': all_data['metadatas'][i]['paper_id'],
+                    'group_id': all_data['metadatas'][i]['group_id'],
                 }
             )
 
@@ -291,7 +290,7 @@ def get_all_summary_chunks():
                     'chunk_id_list': json.loads(all_data['metadatas'][i]['chunk_id_list']),
                     'from_base_chunk': all_data['metadatas'][i]['from_base_chunk'],
                     'root_summary': all_data['metadatas'][i]['root_summary'],
-                    'paper_id': all_data['metadatas'][i]['paper_id'],
+                    'group_id': all_data['metadatas'][i]['group_id'],
                 }
             )
 
@@ -331,8 +330,34 @@ def get_all_papers():
     return paper_list
 
 
-def get_paper_id_of_chunk(chunk_id):
-    paper_id = -1
+def get_all_groups():
+    group_list = []
+    try:
+        client = chromadb.PersistentClient(path=get_db_path())
+        collection = client.get_collection(name=COLLECTION_GROUP)
+
+        all_data = collection.get()
+        for i in range(len(all_data['ids'])):
+            group_list.append(
+                {
+                    'group_id': all_data['ids'][i],
+                    'group_name': all_data['metadatas'][i]['group_name'],
+                }
+            )
+
+        group_list.sort(key=lambda x: int(x['group_id']), reverse=False)
+
+    except Exception as e:
+        # print(e)
+        # traceback.print_exc()
+        pass
+
+    return group_list
+
+
+def get_ref_id_of_chunk(chunk_id):
+    paper_id = None
+    group_id = None
     try:
         client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=COLLECTION_CHUNK)
@@ -342,12 +367,13 @@ def get_paper_id_of_chunk(chunk_id):
         )
 
         paper_id = results['metadatas'][0]['paper_id']
+        group_id = results['metadatas'][0]['group_id']
     except Exception as e:
         # print(e)
         # traceback.print_exc()
         pass
 
-    return paper_id
+    return paper_id, group_id
 
 
 def count_all_collection():
@@ -456,7 +482,7 @@ def get_paper(paper_id):
     return get_text(COLLECTION_PAPER, str(paper_id))
 
 
-def query_chunks(query_text, collection_list, top_k=10, doc_id=-1):
+def query_chunks(query_text, collection_list, top_k=10, group_id=-1):
     client = chromadb.PersistentClient(path=get_db_path())
     result_list = []
     for collection_name in collection_list:
@@ -465,7 +491,7 @@ def query_chunks(query_text, collection_list, top_k=10, doc_id=-1):
         results = collection.query(
             query_texts=[query_text],
             n_results=top_k,
-            where=None if doc_id == -1 else {'paper_id': str(doc_id)}
+            where=None if group_id == -1 else {'group_id': str(group_id)}
         )
 
         for i in range(len(results['ids'][0])):
@@ -482,8 +508,8 @@ def query_chunks(query_text, collection_list, top_k=10, doc_id=-1):
     return result_list[:top_k]
 
 
-def query_raptor_chunks(query_text, top_k=10, doc_id=-1):
-    chunk_list = query_chunks(query_text, [COLLECTION_SUMMARY, COLLECTION_CHUNK], top_k, doc_id)
+def query_raptor_chunks(query_text, top_k=10, group_id=-1):
+    chunk_list = query_chunks(query_text, [COLLECTION_SUMMARY, COLLECTION_CHUNK], top_k, group_id)
 
     base_chunk_list = []
     summary_chunk_list = []
@@ -491,7 +517,7 @@ def query_raptor_chunks(query_text, top_k=10, doc_id=-1):
         new_chunk = {
             'id': chunk['id'],
             'text': chunk['text'],
-            'paper_id': chunk['metadatas']['paper_id'],
+            'group_id': chunk['metadatas']['group_id'],
         }
         if chunk['collection_name'] == COLLECTION_SUMMARY:
             summary_chunk_list.append(new_chunk)
@@ -549,4 +575,10 @@ def split_text_into_chunks(text, min_num_char=1000):
     if current_chunk:
         chunks.append('\n\n'.join(current_chunk))
 
+    return chunks
+
+
+def get_chunks_for_graphrag(text):
+    paper_id = get_id(COLLECTION_PAPER, text)
+    chunks = [chunk['chunk_content'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
     return chunks

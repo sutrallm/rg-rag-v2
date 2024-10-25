@@ -275,6 +275,7 @@ def query_step1(chunk_list, convert_chunk_to_prompt1_format, id_key):
             id_list.append(int(chunk[id_key]))
 
         prompt1 = QUERY_PROMPT1.format(query=QUESTION, input_text='\n\n'.join(record_list))
+        # TODO it seems that sometimes the program is stuck in ollama.chat
         response1 = ollama.chat(
             model=MODEL_NAME,
             messages=[
@@ -374,30 +375,30 @@ def get_ref_id_and_text_for_report(selected_indices, ref_list_list, chunk_list):
     for i in selected_indices:
         final_ref_list += ref_list_list[i]
 
-    # convert report id to paper id and chunk id
-    paper_chunk_dict = {}
+    # convert report id to group id and chunk id
+    group_chunk_dict = {}
     for report in chunk_list:
         report_id = int(report['report_id'])
         if report_id in final_ref_list:
             chunk_id_list = report['chunk_id_list']
             for chunk_id in chunk_id_list:
-                paper_id = db.get_paper_id_of_chunk(str(chunk_id))
-                if paper_id is not None:
-                    if paper_id not in paper_chunk_dict:
-                        paper_chunk_dict[paper_id] = []
-                    paper_chunk_dict[paper_id].append(chunk_id)
+                paper_id, group_id = db.get_ref_id_of_chunk(str(chunk_id))
+                if group_id is not None:
+                    if group_id not in group_chunk_dict:
+                        group_chunk_dict[group_id] = []
+                    group_chunk_dict[group_id].append(chunk_id)
 
-    ref_template = 'paper id {paper_id}: chunk ids {chunk_ids}'
-    paper_id_list = list(paper_chunk_dict.keys())
-    paper_id_list.sort(key=lambda x: int(x), reverse=False)
+    ref_template = 'group id {group_id}: chunk ids {chunk_ids}'
+    group_id_list = list(group_chunk_dict.keys())
+    group_id_list.sort(key=lambda x: int(x), reverse=False)
     ref_string_list = []
 
     chunk_text_list = []
-    for paper_id in paper_id_list:
-        chunk_id_list = paper_chunk_dict[paper_id]
+    for group_id in group_id_list:
+        chunk_id_list = group_chunk_dict[group_id]
         chunk_id_list = list(set(chunk_id_list))
         chunk_id_list.sort(key=lambda x: int(x), reverse=False)
-        ref_string_list.append(ref_template.format(paper_id=paper_id, chunk_ids=', '.join(chunk_id_list)))
+        ref_string_list.append(ref_template.format(group_id=group_id, chunk_ids=', '.join(chunk_id_list)))
 
         for chunk_id in chunk_id_list:
             chunk_text = db.get_chunk(chunk_id)
@@ -412,27 +413,27 @@ def get_ref_id_and_text_for_summary(selected_indices, ref_list_list, chunk_list)
     for i in selected_indices:
         final_ref_list += ref_list_list[i]
 
-    # convert summary id to paper id and chunk id
-    paper_chunk_dict = {}
+    # convert summary id to group id and chunk id
+    group_chunk_dict = {}
     for summary in chunk_list:
         summary_id = int(summary['summary_id'])
         if summary_id in final_ref_list:
-            paper_id = summary['paper_id']
-            if paper_id not in paper_chunk_dict:
-                paper_chunk_dict[paper_id] = []
-            paper_chunk_dict[paper_id].append(summary_id)
+            group_id = summary['group_id']
+            if group_id not in group_chunk_dict:
+                group_chunk_dict[group_id] = []
+            group_chunk_dict[group_id].append(summary_id)
 
-    ref_template = 'paper id {paper_id}: summary ids {chunk_ids}'
-    paper_id_list = list(paper_chunk_dict.keys())
-    paper_id_list.sort(key=lambda x: int(x), reverse=False)
+    ref_template = 'group id {group_id}: summary ids {chunk_ids}'
+    group_id_list = list(group_chunk_dict.keys())
+    group_id_list.sort(key=lambda x: int(x), reverse=False)
 
     ref_string_list = []
     chunk_text_list = []
-    for paper_id in paper_id_list:
-        chunk_id_list = paper_chunk_dict[paper_id]
+    for group_id in group_id_list:
+        chunk_id_list = group_chunk_dict[group_id]
         chunk_id_list = list(set(chunk_id_list))
         chunk_id_list.sort(key=lambda x: int(x), reverse=False)
-        ref_string_list.append(ref_template.format(paper_id=paper_id, chunk_ids=', '.join(map(str, chunk_id_list))))
+        ref_string_list.append(ref_template.format(group_id=group_id, chunk_ids=', '.join(map(str, chunk_id_list))))
 
         for summary_id in chunk_id_list:
             chunk_text = db.get_summary(summary_id)
@@ -442,19 +443,19 @@ def get_ref_id_and_text_for_summary(selected_indices, ref_list_list, chunk_list)
     return '\n'.join(ref_string_list), '\n\n'.join(chunk_text_list)
 
 
-def graphrag_query(include_summary=False, doc_id=-1):
+def graphrag_query(include_summary=False, query_group_id=-1):
     report_chunk_list = db.get_all_community_reports()
 
-    if doc_id != -1:
+    if query_group_id != -1:
         filtered_report_chunk_list = []
         for report_chunk in report_chunk_list:
-            is_paper = True
+            is_group = True
             for chunk_id in report_chunk['chunk_id_list']:
-                paper_id = db.get_paper_id_of_chunk(chunk_id)
-                if str(paper_id) != str(doc_id):
-                    is_paper = False
+                paper_id, group_id = db.get_ref_id_of_chunk(chunk_id)
+                if str(group_id) != str(query_group_id):
+                    is_group = False
                     break
-            if is_paper:
+            if is_group:
                 filtered_report_chunk_list.append(report_chunk)
         report_chunk_list = filtered_report_chunk_list
 
@@ -462,7 +463,7 @@ def graphrag_query(include_summary=False, doc_id=-1):
 
     if include_summary:
         summary_chunk_list = db.get_all_summary_chunks()
-        summary_chunk_list = [chunk for chunk in summary_chunk_list if doc_id == -1 or chunk['paper_id'] == str(doc_id)]
+        summary_chunk_list = [chunk for chunk in summary_chunk_list if query_group_id == -1 or chunk['group_id'] == str(query_group_id)]
         summary_point_list, summary_ref_list_list = query_step1(summary_chunk_list, convert_chunk_to_prompt1_format_for_raptor_summary, 'summary_id')
     else:
         summary_chunk_list = []
@@ -507,17 +508,17 @@ def process_arguments():
     )
 
     parser.add_argument(
-        '--list_doc', '-l',
-        type=bool,
+        '--list_group', '-l',
+        type=lambda x: x.lower() == 'true',
         default=False,
-        help='If True, list document names and their IDs. If False, execute the query. Default is False.'
+        help='If True, list group details. If False, execute the query. Default is False.'
     )
 
     parser.add_argument(
-        '--doc_id', '-d',
+        '--group_id', '-g',
         type=int,
         default=-1,
-        help='ID of the document to query. If not provided, all documents will be queried. Default is -1 (query all).'
+        help='ID of the group to query. If not provided, all groups will be queried. Default is -1 (query all).'
     )
 
     args = parser.parse_args()
@@ -533,18 +534,39 @@ def process_arguments():
 
     db.update_db_path(input_db_path)
 
-    if args.doc_id != -1:
-        has_doc = False
-        paper_list = db.get_all_papers()
-        for paper in paper_list:
-            if args.doc_id == int(paper['paper_id']):
-                has_doc = True
+    if args.group_id != -1:
+        has_group = False
+        group_list = db.get_all_groups()
+        for group in group_list:
+            if args.group_id == int(group['group_id']):
+                has_group = True
                 break
-        if not has_doc:
-            print('Please input an valid document ID. You can list document IDs by "--list_doc True"')
+        if not has_group:
+            print('Please input an valid Group ID. You can list group IDs by "--list_group True"')
             return None
 
     return args
+
+
+def list_group():
+    group_list = db.get_all_groups()
+    paper_list = db.get_all_papers()
+
+    output_format = "{:^15}|{:^15}|{:^15}| {:<20}"
+    print(output_format.format('Group ID', 'Group Name', 'Document ID', 'Document Name'))
+
+    for group in group_list:
+        group_id = group['group_id']
+        first_line = True
+        for paper in paper_list:
+            if paper['group_id'] == group_id:
+                print(output_format.format(
+                    group_id if first_line else '',
+                    group['group_name'] if first_line else '',
+                    paper['paper_id'],
+                    paper['paper_name']
+                ))
+                first_line = False
 
 
 def main():
@@ -557,22 +579,19 @@ def main():
         db.rm_db_tmp_file()
         return
 
-    if args.list_doc:
-        paper_list = db.get_all_papers()
-        print("{:^15} | {:<25}".format('Document ID', 'Name'))
-        for paper in paper_list:
-            print("{:^15} | {:<25}".format(paper['paper_id'], paper['paper_name']))
+    if args.list_group:
+        list_group()
         db.rm_db_tmp_file()
         return
 
     if QUERY_OPTION == QUERY_RAPTOR:
-        answer, ref_id, ref_text = raptor_query(QUESTION, doc_id=args.doc_id)
+        answer, ref_id, ref_text = raptor_query(QUESTION, query_group_id=args.group_id)
 
     elif QUERY_OPTION == QUERY_GRAPHRAG:
-        answer, ref_id, ref_text = graphrag_query(include_summary=False, doc_id=args.doc_id)
+        answer, ref_id, ref_text = graphrag_query(include_summary=False, query_group_id=args.group_id)
 
     elif QUERY_OPTION == QUERY_RAPTOR_GRAPHRAG:
-        answer, ref_id, ref_text = graphrag_query(include_summary=True, doc_id=args.doc_id)
+        answer, ref_id, ref_text = graphrag_query(include_summary=True, query_group_id=args.group_id)
 
     else:
         print(f'Please check your query option. It should be one of ({QUERY_RAPTOR}, {QUERY_GRAPHRAG}, {QUERY_RAPTOR_GRAPHRAG})')

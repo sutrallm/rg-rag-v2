@@ -54,6 +54,9 @@ python index.py [options]
 |---------------------|-------|----------|---------------------------------|-------------------------------------------|
 | `--help`            | `-h`  |          |                                 | Show the help message of all options and exit. |
 | `--db_path`         | `-p`  | `str`    | `./my_graphrag/vector_database` | Specify the database path. If the path already exists, check whether the document is in the db, if not, add to the db. |
+| `--raptor`          | `-r`  | `bool`   | `True`                          | If True, run raptor index. If False, skip raptor index. |
+| `--graphrag`        | `-g`  | `bool`   | `True`                          | If True, run graphrag index. If False, skip graphrag index. |
+| `--chunking`        | `-c`  | `bool`   | `True`                          | If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk. |
 <details>
   <summary>Typical output...</summary>
 
@@ -214,8 +217,8 @@ python query.py [options]
 | `--help`      | `-h`  |        |                                                               | Show the help message of all options and exit.                            |
 | `--question`  | `-q`  | `str`  | `What improvement techniques have people implemented on RAG?` | Provide a question for query.                                             |
 | `--db_path`   | `-p`  | `str`  | `./my_graphrag/vector_database`                               | Specify the database path.                                                |
-| `--list_doc`  | `-l`  | `bool` | `False`                                                       | If True, list document names and their IDs. If False, execute the query.  |
-| `--doc_id`    | `-d`  | `int`  | `-1 (query all)`                                              | Document ID to query. If not provided, query all.                         |
+| `--list_group`| `-l`  | `bool` | `False`                                                       | If True, list group details. If False, execute the query.                 |
+| `--group_id`  | `-g`  | `int`  | `-1 (query all)`                                              | Group ID to query. If not provided, query all.                            |
 <details>
   <summary>Typical output...</summary>
 

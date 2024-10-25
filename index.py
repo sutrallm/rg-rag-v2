@@ -7,7 +7,6 @@ import pathlib
 import pdftotext
 from datetime import datetime
 import graphrag.my_graphrag.db as db
-from graphrag.my_graphrag.conf import INDEX_RAPTOR, INDEX_GRAPHRAG
 from graphrag.my_graphrag.raptor import raptor_index
 
 FILE_DIR = os.path.dirname(os.path.realpath(__file__))
@@ -32,11 +31,15 @@ def extract_text_from_pdf(pdf_path, save_txt_file=False):
     return pdftotext_text
 
 
-def save_group_and_paper():
-    cur_paper_list = db.get_all_papers()
+def save_group_and_paper(chunking_option):
+    cur_group_name_list = [group['group_name'] for group in db.get_all_groups()]
 
     new_paper_list_list = []
     for group_name in os.listdir(INPUT_DIR):
+        # only add new group to existing database
+        if group_name in cur_group_name_list:
+            continue
+
         # each group can have one or multiple files
         group_dir = os.path.join(INPUT_DIR, group_name)
         txt_file_list = []
@@ -50,36 +53,27 @@ def save_group_and_paper():
                 # ignore
                 pass
 
-        group_id = None
+        group_id = db.save_new_group(group_name)
+
+        txt_file_list.sort()
         new_paper_list = []
         for txt_file_path in txt_file_list:
             with open(txt_file_path, 'r') as txtf:
                 paper_content = txtf.read()
+            paper_name = os.path.basename(txt_file_path)
+            paper_id = db.save_new_paper(paper_content, paper_name, group_id)
 
-            # only add new paper to existing database
-            paper_hash = hashlib.sha256(paper_content.encode()).hexdigest()
-            is_new = True
-            for paper in cur_paper_list:
-                if paper['hash'] == paper_hash:
-                    is_new = False
-                    break
+            chunks = db.split_text_into_chunks(paper_content) if chunking_option else [paper_content]
+            for chunk in chunks:
+                db.save_new_chunk(chunk, paper_id, group_id)
 
-            if is_new:
-                paper_name = os.path.basename(txt_file_path)
-                if group_id is None:
-                    group_id = db.save_new_group(group_name)
-                paper_id = db.save_new_paper(paper_content, paper_name, group_id)
-
-                chunks = db.split_text_into_chunks(paper_content)
-                for chunk in chunks:
-                    db.save_new_chunk(chunk, paper_id=paper_id)
-
-                new_paper_list.append(
-                    {
-                        'txt_path': txt_file_path,
-                        'paper_id': paper_id,
-                    }
-                )
+            new_paper_list.append(
+                {
+                    'txt_path': txt_file_path,
+                    'paper_id': paper_id,
+                    'group_id': group_id
+                }
+            )
 
         if new_paper_list:
             new_paper_list_list.append(new_paper_list)
@@ -131,7 +125,32 @@ def process_arguments():
         help=f'Database path. Default is "{default_db_path}"'
     )
 
+    parser.add_argument(
+        '--raptor', '-r',
+        type=lambda x: x.lower() == 'true',
+        default=True,
+        help='If True, run raptor index. If False, skip raptor index. Default is True.'
+    )
+
+    parser.add_argument(
+        '--graphrag', '-g',
+        type=lambda x: x.lower() == 'true',
+        default=True,
+        help='If True, run graphrag index. If False, skip graphrag index. Default is True.'
+    )
+
+    parser.add_argument(
+        '--chunking', '-c',
+        type=lambda x: x.lower() == 'true',
+        default=True,
+        help='If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk. Default is True.'
+    )
+
     args = parser.parse_args()
+
+    if not args.raptor and not args.graphrag:
+        print('Please select at least one of the index options: "--raptor True" or "--graphrag True".')
+        return None
 
     input_db_path = args.db_path
     if not os.path.isabs(input_db_path):
@@ -152,8 +171,9 @@ def main():
 
     db.rm_db_tmp_file()
 
-    if not INDEX_GRAPHRAG and not INDEX_RAPTOR:
-        print('Please select at least one of the index options.')
+    args = process_arguments()
+    if args is None:
+        db.rm_db_tmp_file()
         return
 
     if not check_config_example_dir():
@@ -162,13 +182,9 @@ def main():
     if os.path.isdir(TMP_CONFIG_DIR):
         shutil.rmtree(TMP_CONFIG_DIR)
 
-    args = process_arguments()
-    if args is None:
-        return
+    new_paper_list_list = save_group_and_paper(args.chunking)
 
-    new_paper_list_list = save_group_and_paper()
-
-    if INDEX_GRAPHRAG:
+    if args.graphrag:
         for new_paper_list in new_paper_list_list:
             if os.path.isdir(TMP_CONFIG_DIR):
                 shutil.rmtree(TMP_CONFIG_DIR)
@@ -193,7 +209,7 @@ def main():
 
     end_time_graphrag = datetime.now()
 
-    if INDEX_RAPTOR:
+    if args.raptor:
         raptor_index([p['paper_id'] for l in new_paper_list_list for p in l])
 
     end_time_raptor = datetime.now()

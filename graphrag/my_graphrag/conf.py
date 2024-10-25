@@ -1,7 +1,3 @@
-# Index option
-INDEX_RAPTOR = True
-INDEX_GRAPHRAG = True
-
 # Query option
 QUERY_RAPTOR = 'raptor'  # use raptor query, summary chunk + base chunk
 QUERY_GRAPHRAG = 'graphrag'  # use graphrag query, community report

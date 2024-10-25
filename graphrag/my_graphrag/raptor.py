@@ -5,7 +5,7 @@ import umap
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.mixture import GaussianMixture
-from graphrag.my_graphrag.db import get_all_papers, get_all_chunks, save_new_summary, save_new_chunk, query_raptor_chunks, split_text_into_chunks
+from graphrag.my_graphrag.db import get_all_chunks, save_new_summary, query_raptor_chunks
 from graphrag.my_graphrag.conf import TEXT_TEMPLATE
 
 
@@ -45,21 +45,21 @@ PROMPT_QUERY_STEP2 = '''You are provided with a question and some pieces of info
 
 
 class Chunk(object):
-    def __init__(self, text, index, children, paper_id, from_base_chunk=False, root_summary=False):
+    def __init__(self, text, index, children, group_id, from_base_chunk=False, root_summary=False):
         self.text = text
         self.index = index
         self.children = children
-        self.paper_id = paper_id
+        self.group_id = group_id
         self.from_base_chunk = from_base_chunk
         self.root_summary = root_summary
 
 
 def convert_chunk_list(chunk_list):
     # input format: from db import get_all_chunks
-    # [{'chunk_id': , 'chunk_content': , 'paper_id': }]
+    # [{'chunk_id': , 'chunk_content': , 'group_id': }]
     new_chunk_list = []
     for chunk in chunk_list:
-        new_chunk_list.append(Chunk(text=chunk['chunk_content'], index=chunk['chunk_id'], children=[], paper_id=chunk['paper_id']))
+        new_chunk_list.append(Chunk(text=chunk['chunk_content'], index=chunk['chunk_id'], children=[], group_id=chunk['group_id']))
     return new_chunk_list
 
 
@@ -155,38 +155,18 @@ def gen_summary_chunks(chunks):
 def raptor_index(new_paper_id_list):
     summary_max_times = 5
 
-    chunk_list = get_all_chunks()
-    paper_list = get_all_papers()
-
-    for new_paper_id in new_paper_id_list:
-        has_splitted = False
-        for chunk in chunk_list:
-            if chunk['paper_id'] == new_paper_id:
-                has_splitted = True
-                break
-
-        if not has_splitted:
-            for paper in paper_list:
-                if paper['paper_id'] == new_paper_id:
-                    paper_content = paper['paper_content']
-                    splitted_chunks = split_text_into_chunks(paper_content, min_num_char=1000)
-                    for chunk in splitted_chunks:
-                        save_new_chunk(chunk, paper_content=paper_content)
-                    break
-
     chunk_list = [chunk for chunk in get_all_chunks() if chunk['paper_id'] in new_paper_id_list]
-
     chunk_list = convert_chunk_list(chunk_list)
 
     chunk_dict = {}
     for chunk in chunk_list:
-        paper_id = chunk.paper_id
-        if paper_id not in chunk_dict:
-            chunk_dict[paper_id] = []
-        chunk_dict[paper_id].append(chunk)
+        group_id = chunk.group_id
+        if group_id not in chunk_dict:
+            chunk_dict[group_id] = []
+        chunk_dict[group_id].append(chunk)
 
-    for paper_id, paper_chunk_list in chunk_dict.items():
-        chunks = paper_chunk_list
+    for group_id, group_chunk_list in chunk_dict.items():
+        chunks = group_chunk_list
         for i in range(summary_max_times):
             summary_chunks = gen_summary_chunks(chunks)
 
@@ -195,8 +175,8 @@ def raptor_index(new_paper_id_list):
 
             chunks = []
             for summary, children_idx in summary_chunks:
-                summary_id = save_new_summary(summary, children_idx, from_base_chunk, root_summary, paper_id)
-                chunks.append(Chunk(summary, summary_id, children_idx, paper_id, from_base_chunk, root_summary))
+                summary_id = save_new_summary(summary, children_idx, from_base_chunk, root_summary, group_id)
+                chunks.append(Chunk(summary, summary_id, children_idx, group_id, from_base_chunk, root_summary))
 
             if root_summary:
                 break
@@ -237,25 +217,25 @@ def query_step1(question, chunk_list):
 
 
 def get_ref_id_and_text(chunk_list, chunk_type):
-    ref_id_template = 'paper id {paper_id}: {chunk_type} chunk ids {chunk_ids}'
-    paper_chunk_dict = {}
+    ref_id_template = 'group id {group_id}: {chunk_type} chunk ids {chunk_ids}'
+    group_chunk_dict = {}
     for chunk in chunk_list:
         chunk_id = str(chunk['id'])
-        paper_id = str(chunk['paper_id'])
-        if paper_id not in paper_chunk_dict:
-            paper_chunk_dict[paper_id] = []
-        paper_chunk_dict[paper_id].append(chunk_id)
+        group_id = str(chunk['group_id'])
+        if group_id not in group_chunk_dict:
+            group_chunk_dict[group_id] = []
+        group_chunk_dict[group_id].append(chunk_id)
 
-    paper_id_list = list(paper_chunk_dict.keys())
-    paper_id_list.sort(key=lambda x: int(x), reverse=False)
+    group_id_list = list(group_chunk_dict.keys())
+    group_id_list.sort(key=lambda x: int(x), reverse=False)
 
     ref_id_list = []
     ref_text_list = []
-    for paper_id in paper_id_list:
-        chunk_id_list = paper_chunk_dict[paper_id]
+    for group_id in group_id_list:
+        chunk_id_list = group_chunk_dict[group_id]
         chunk_id_list = list(set(chunk_id_list))
         chunk_id_list.sort(key=lambda x: int(x), reverse=False)
-        ref_id_list.append(ref_id_template.format(paper_id=paper_id, chunk_ids=', '.join(chunk_id_list), chunk_type=chunk_type))
+        ref_id_list.append(ref_id_template.format(group_id=group_id, chunk_ids=', '.join(chunk_id_list), chunk_type=chunk_type))
 
         for chunk_id in chunk_id_list:
             for chunk in chunk_list:
@@ -267,8 +247,8 @@ def get_ref_id_and_text(chunk_list, chunk_type):
     return '\n'.join(ref_id_list), '\n\n'.join(ref_text_list)
 
 
-def raptor_query(question, doc_id=-1):
-    base_chunk_list, summary_chunk_list = query_raptor_chunks(question, top_k=10, doc_id=doc_id)
+def raptor_query(question, query_group_id=-1):
+    base_chunk_list, summary_chunk_list = query_raptor_chunks(question, top_k=10, group_id=query_group_id)
 
     # step 1
     info_list_base_chunk, relevant_id_list_base_chunk = query_step1(question, base_chunk_list)

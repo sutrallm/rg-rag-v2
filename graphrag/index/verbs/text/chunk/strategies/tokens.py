@@ -49,12 +49,12 @@ def split_text_on_tokens(
     texts: list[str], enc: Tokenizer, tick: ProgressTicker
 ) -> list[TextChunk]:
     """Split incoming text and return chunks."""
-    from graphrag.my_graphrag.db import split_text_into_chunks
+    from graphrag.my_graphrag.db import get_chunks_for_graphrag
     result = []
     for source_doc_idx, text in enumerate(texts):
         tick(1)
 
-        chunks = split_text_into_chunks(text)
+        chunks = get_chunks_for_graphrag(text)
         for chunk in chunks:
             # no sub chunk
             # result.append(
