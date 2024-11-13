@@ -17,8 +17,26 @@ RANDOM_SEED = 224
 random.seed(RANDOM_SEED)
 
 
-PROMPT_SUMMARY = '''Summarize the following in bullet points without any reference to tables or figures. The summary needs to be self-contained. Don't mention that it is a summary. Put a blank line between the bullets. Include a heading in the summary. Put the heading in <heading></heading> tags. Enclose the summary with the <summary></summary> tags.
+PROMPT_SUMMARY1 = '''Summarize the following text in bullet points without any reference to tables or figures. The summary needs to be self-contained. Don't mention that it is a summary. Put a blank line between the bullets.
+
+<text>
 {text}
+</text>
+'''
+
+
+PROMPT_SUMMARY2 = '''Please refine the following text to eliminate any redundant or repetitive descriptions. Ensure the result is concise, clear, and free of unnecessary details while preserving key points. Organize the information in bullet points, with a blank line between each. Present the output in a logical order, prioritizing clarity and brevity. Output only the refined text without any introductory remarks. Do not mention "Here is the refined text" in your response.
+<text>
+{text}
+</text>
+'''
+
+
+PROMPT_SUMMARY3 = '''Please provide a concise and descriptive heading that captures the core theme of the following text. Output only the heading text.
+
+<text>
+{text}
+</text>
 '''
 
 
@@ -127,12 +145,13 @@ def gen_summary_chunks(chunks):
             context += child_chunk.text + '\n\n'
             children_idx.append(child_chunk.index)
 
-        response = ollama.chat(
+        # step 1: generate summary text
+        response1 = ollama.chat(
             model=OLLAMA_MODEL_NAME,
             messages=[
                 {
                     "role": "user",
-                    'content': PROMPT_SUMMARY.format(text=context)
+                    'content': PROMPT_SUMMARY1.format(text=context)
                 },
             ],
             options={
@@ -142,11 +161,45 @@ def gen_summary_chunks(chunks):
             }
         )
 
-        summary = response['message']['content']
+        summary_text = response1['message']['content']
 
-        result_content = re.search(r'<summary>(.*?)</summary>', summary, re.DOTALL)
-        summary = result_content.group(1).strip() if result_content else ''
+        # step 2: review summary text
+        response2 = ollama.chat(
+            model=OLLAMA_MODEL_NAME,
+            messages=[
+                {
+                    "role": "user",
+                    'content': PROMPT_SUMMARY2.format(text=summary_text)
+                },
+            ],
+            options={
+                'temperature': 0,
+                'num_predict': 4096,  # 240704 David: ask the llm to limit the summary size to 4096
+                'num_ctx': 32000,
+            }
+        )
 
+        reviewed_summary_text = response2['message']['content']
+
+        # step 3: add heading
+        response3 = ollama.chat(
+            model=OLLAMA_MODEL_NAME,
+            messages=[
+                {
+                    "role": "user",
+                    'content': PROMPT_SUMMARY3.format(text=reviewed_summary_text)
+                },
+            ],
+            options={
+                'temperature': 0,
+                'num_predict': 4096,  # 240704 David: ask the llm to limit the summary size to 4096
+                'num_ctx': 32000,
+            }
+        )
+
+        heading = response3['message']['content']
+
+        summary = f'<heading>{heading}<\heading>\n{reviewed_summary_text}'
         summary_chunks.append((summary, children_idx))
 
     return summary_chunks

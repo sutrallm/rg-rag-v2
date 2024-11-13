@@ -57,6 +57,8 @@ python index.py [options]
 | `--raptor`          | `-r`  | `bool`   | `True`                          | If True, run raptor index. If False, skip raptor index. |
 | `--graphrag`        | `-g`  | `bool`   | `True`                          | If True, run graphrag index. If False, skip graphrag index. |
 | `--chunking`        | `-c`  | `bool`   | `True`                          | If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk. |
+| `--del_group`       | `-d`  | `int`    | `-1`                            | ID of the group to delete. If not provided, skip. |
+| `--del_option`      | `-o`  | `str`    | `all`                           | Options: ['all', 'graphrag', 'raptor']. Choose which part you want to delete in the group. |
 <details>
   <summary>Typical output...</summary>
 

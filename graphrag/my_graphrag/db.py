@@ -355,6 +355,35 @@ def get_all_groups():
     return group_list
 
 
+def get_all_relationships():
+    relationship_list = []
+    try:
+        client = chromadb.PersistentClient(path=get_db_path())
+        collection = client.get_collection(name=COLLECTION_RELATIONSHIP)
+
+        all_data = collection.get()
+        for i in range(len(all_data['ids'])):
+            relationship_list.append(
+                {
+                    'relationship_id': all_data['ids'][i],
+                    'source_entity_name': all_data['metadatas'][i]['source_entity_name'],
+                    'target_entity_name': all_data['metadatas'][i]['target_entity_name'],
+                    'relationship_description': all_data['metadatas'][i]['relationship_description'],
+                    'relationship_strength': all_data['metadatas'][i]['relationship_strength'],
+                    'chunk_id': all_data['metadatas'][i]['chunk_id'],
+                }
+            )
+
+        relationship_list.sort(key=lambda x: int(x['relationship_id']), reverse=False)
+
+    except Exception as e:
+        # print(e)
+        # traceback.print_exc()
+        pass
+
+    return relationship_list
+
+
 def get_ref_id_of_chunk(chunk_id):
     paper_id = None
     group_id = None
@@ -582,3 +611,102 @@ def get_chunks_for_graphrag(text):
     paper_id = get_id(COLLECTION_PAPER, text)
     chunks = [chunk['chunk_content'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
     return chunks
+
+
+def get_ref_ids_for_group(group_id):
+    group_id = str(group_id)
+
+    paper_id_list = []
+    for paper in get_all_papers():
+        if paper['group_id'] == group_id:
+            paper_id_list.append(paper['paper_id'])
+    paper_id_list = list(set(paper_id_list))
+
+    chunk_id_list = []
+    for chunk in get_all_chunks():
+        if chunk['paper_id'] in paper_id_list or chunk['group_id'] == group_id:
+            chunk_id_list.append(chunk['chunk_id'])
+    chunk_id_list = list(set(chunk_id_list))
+
+    report_id_list = []
+    for report in get_all_community_reports():
+        for chunk_id in report['chunk_id_list']:
+            if chunk_id in chunk_id_list:
+                report_id_list.append(report['report_id'])
+                break
+    report_id_list = list(set(report_id_list))
+
+    summary_id_list = []
+    for summary in get_all_summary_chunks():
+        if summary['group_id'] == group_id:
+            summary_id_list.append(summary['summary_id'])
+    summary_id_list = list(set(summary_id_list))
+
+    relationship_id_list = []
+    for relationship in get_all_relationships():
+        if relationship['chunk_id'] in chunk_id_list:
+            relationship_id_list.append(relationship['relationship_id'])
+    relationship_id_list = list(set(relationship_id_list))
+
+    return paper_id_list, chunk_id_list, relationship_id_list, report_id_list, summary_id_list
+
+
+def count_ref_ids_for_group(group_id):
+    paper_id_list, chunk_id_list, relationship_id_list, report_id_list, summary_id_list = get_ref_ids_for_group(group_id)
+
+    print('Group ID:', group_id)
+    print('Number of paper:', len(paper_id_list))
+    print('Number of chunk:', len(chunk_id_list))
+    print('GraphRAG:')
+    print('Number of relationship:', len(relationship_id_list))
+    print('Number of community report:', len(report_id_list))
+    print('Raptor:')
+    print('Number of summary:', len(summary_id_list))
+
+
+def delete_items(collection_name: str, ids: list):
+    try:
+        client = chromadb.PersistentClient(path=get_db_path())
+        collection = client.get_collection(name=collection_name)
+        collection.delete(ids=ids)
+    except:
+        pass
+
+
+def delete_group(group_id, del_graphrag=True, del_raptor=True):
+    group_id = str(group_id)
+    group_exist = False
+    for group in get_all_groups():
+        if group['group_id'] == group_id:
+            group_exist = True
+            break
+
+    if not group_exist:
+        print(f'Group ID {group_id} does not exist.')
+        return
+
+    print(f'Group ID: {group_id}, Delete GraphRAG: {del_graphrag}, Delete Raptor: {del_raptor}')
+    print('Before:')
+    count_ref_ids_for_group(group_id)
+
+    paper_id_list, chunk_id_list, relationship_id_list, report_id_list, summary_id_list = get_ref_ids_for_group(group_id)
+
+    if del_graphrag:
+        if relationship_id_list:
+            delete_items(COLLECTION_RELATIONSHIP, relationship_id_list)
+        if report_id_list:
+            delete_items(COLLECTION_COMMUNITY_REPORT, report_id_list)
+
+    if del_raptor:
+        if summary_id_list:
+            delete_items(COLLECTION_SUMMARY, summary_id_list)
+
+    if del_graphrag and del_raptor:
+        delete_items(COLLECTION_GROUP, [group_id])
+        if paper_id_list:
+            delete_items(COLLECTION_PAPER, paper_id_list)
+        if chunk_id_list:
+            delete_items(COLLECTION_CHUNK, chunk_id_list)
+
+    print('After:')
+    count_ref_ids_for_group(group_id)

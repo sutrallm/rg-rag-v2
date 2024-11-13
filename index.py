@@ -32,12 +32,32 @@ def extract_text_from_pdf(pdf_path, save_txt_file=False):
 
 
 def save_group_and_paper(chunking_option):
-    cur_group_name_list = [group['group_name'] for group in db.get_all_groups()]
+    cur_group_list = db.get_all_groups()
+    cur_paper_list = db.get_all_papers()
 
-    new_paper_list_list = []
+    new_paper_list_list_graphrag = []
+    new_paper_list_list_raptor = []
     for group_name in os.listdir(INPUT_DIR):
-        # only add new group to existing database
-        if group_name in cur_group_name_list:
+        new_graphrag = False
+        new_raptor = False
+
+        existing_group_id = None
+        for cur_group in cur_group_list:
+            if group_name == cur_group['group_name']:
+                existing_group_id = cur_group['group_id']
+                break
+
+        if existing_group_id is not None:
+            paper_id_list, chunk_id_list, relationship_id_list, report_id_list, summary_id_list = db.get_ref_ids_for_group(existing_group_id)
+            if len(summary_id_list) == 0:
+                new_raptor = True
+            if len(report_id_list) == 0 or len(relationship_id_list) == 0:
+                new_graphrag = True
+        else:
+            new_graphrag = True
+            new_raptor = True
+
+        if not new_graphrag and not new_raptor:
             continue
 
         # each group can have one or multiple files
@@ -52,20 +72,28 @@ def save_group_and_paper(chunking_option):
             else:
                 # ignore
                 pass
-
-        group_id = db.save_new_group(group_name)
-
         txt_file_list.sort()
+
+        group_id = db.save_new_group(group_name) if existing_group_id is None else existing_group_id
+
         new_paper_list = []
         for txt_file_path in txt_file_list:
             with open(txt_file_path, 'r') as txtf:
                 paper_content = txtf.read()
             paper_name = os.path.basename(txt_file_path)
-            paper_id = db.save_new_paper(paper_content, paper_name, group_id)
 
-            chunks = db.split_text_into_chunks(paper_content) if chunking_option else [paper_content]
-            for chunk in chunks:
-                db.save_new_chunk(chunk, paper_id, group_id)
+            paper_id = None
+            if existing_group_id is not None:
+                for cur_paper in cur_paper_list:
+                    if cur_paper['paper_name'] == paper_name and cur_paper['group_id'] == existing_group_id:
+                        paper_id = cur_paper['paper_id']
+                        break
+
+            if paper_id is None:
+                paper_id = db.save_new_paper(paper_content, paper_name, group_id)
+                chunks = db.split_text_into_chunks(paper_content) if chunking_option else [paper_content]
+                for chunk in chunks:
+                    db.save_new_chunk(chunk, paper_id, group_id)
 
             new_paper_list.append(
                 {
@@ -76,9 +104,12 @@ def save_group_and_paper(chunking_option):
             )
 
         if new_paper_list:
-            new_paper_list_list.append(new_paper_list)
+            if new_graphrag:
+                new_paper_list_list_graphrag.append(new_paper_list)
+            if new_raptor:
+                new_paper_list_list_raptor.append(new_paper_list)
 
-    return new_paper_list_list
+    return new_paper_list_list_graphrag, new_paper_list_list_raptor
 
 
 def check_config_example_dir():
@@ -146,6 +177,21 @@ def process_arguments():
         help='If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk. Default is True.'
     )
 
+    parser.add_argument(
+        '--del_group', '-d',
+        type=int,
+        default=-1,
+        help='ID of the group to delete. If not provided, skip.'
+    )
+
+    parser.add_argument(
+        '--del_option', '-o',
+        type=str,
+        default='all',
+        choices=['all', 'graphrag', 'raptor'],
+        help='Choose which part you want to delete in the group.'
+    )
+
     args = parser.parse_args()
 
     if not args.raptor and not args.graphrag:
@@ -162,6 +208,20 @@ def process_arguments():
         return None
 
     db.update_db_path(input_db_path)
+
+    if args.del_group != -1:
+        if args.del_option == 'graphrag':
+            del_graphrag = True
+            del_raptor = False
+        elif args.del_option == 'raptor':
+            del_graphrag = False
+            del_raptor = True
+        else:
+            del_graphrag = True
+            del_raptor = True
+
+        db.delete_group(str(args.del_group), del_graphrag, del_raptor)
+        return None
 
     return args
 
@@ -182,10 +242,11 @@ def main():
     if os.path.isdir(TMP_CONFIG_DIR):
         shutil.rmtree(TMP_CONFIG_DIR)
 
-    new_paper_list_list = save_group_and_paper(args.chunking)
+    new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.chunking)
 
+    start_time_graphrag = datetime.now()
     if args.graphrag:
-        for new_paper_list in new_paper_list_list:
+        for new_paper_list in new_paper_list_list_graphrag:
             if os.path.isdir(TMP_CONFIG_DIR):
                 shutil.rmtree(TMP_CONFIG_DIR)
             shutil.copytree(CONFIG_EXAMPLE_DIR, TMP_CONFIG_DIR)
@@ -210,11 +271,11 @@ def main():
     end_time_graphrag = datetime.now()
 
     if args.raptor:
-        raptor_index([p['paper_id'] for l in new_paper_list_list for p in l])
+        raptor_index([p['paper_id'] for l in new_paper_list_list_raptor for p in l])
 
     end_time_raptor = datetime.now()
 
-    print('graphrag run time:', end_time_graphrag - start_time)
+    print('graphrag run time:', end_time_graphrag - start_time_graphrag)
     print('raptor run time:', end_time_raptor - end_time_graphrag)
     print('run time:', end_time_raptor - start_time)
 
