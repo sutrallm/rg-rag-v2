@@ -50,15 +50,6 @@ def get_id(collection_name: str, query_content: str):
         client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=collection_name)
 
-        try:
-            results = collection.query(
-                query_texts=[query_content],
-                n_results=1
-            )
-            ids = results['ids'][0][0]
-        except:
-            pass
-
         if ids == '0':
             all_data = collection.get()
             query_content_clean = re.sub(r'\s+', '', query_content)
@@ -67,6 +58,16 @@ def get_id(collection_name: str, query_content: str):
                 if query_content_clean in documents_clean or query_content in all_data['documents'][i]:
                     ids = all_data['ids'][i]
                     break
+
+        if ids == '0':
+            try:
+                results = collection.query(
+                    query_texts=[query_content],
+                    n_results=1
+                )
+                ids = results['ids'][0][0]
+            except:
+                pass
 
         if ids == '0':
             split_text = query_content.split('\n')
@@ -654,7 +655,13 @@ def get_ref_ids_for_group(group_id):
 def count_ref_ids_for_group(group_id):
     paper_id_list, chunk_id_list, relationship_id_list, report_id_list, summary_id_list = get_ref_ids_for_group(group_id)
 
-    print('Group ID:', group_id)
+    group_name = ''
+    for group in get_all_groups():
+        if group['group_id'] == str(group_id):
+            group_name = group['group_name']
+            break
+
+    print(f'Group ID: {group_id}, Group Name: {group_name}')
     print('Number of paper:', len(paper_id_list))
     print('Number of chunk:', len(chunk_id_list))
     print('GraphRAG:')
