@@ -1,11 +1,13 @@
 import re
 import random
+import csv
 import ollama
 import umap
 import numpy as np
+from datetime import datetime
 from sentence_transformers import SentenceTransformer
 from sklearn.mixture import GaussianMixture
-from graphrag.my_graphrag.db import get_all_chunks, save_new_summary, query_raptor_chunks
+import graphrag.my_graphrag.db as db
 from graphrag.my_graphrag.conf import TEXT_TEMPLATE
 
 
@@ -205,10 +207,10 @@ def gen_summary_chunks(chunks):
     return summary_chunks
 
 
-def raptor_index(new_paper_id_list):
+def raptor_index(new_paper_id_list, log_path):
     summary_max_times = 5
 
-    chunk_list = [chunk for chunk in get_all_chunks() if chunk['paper_id'] in new_paper_id_list]
+    chunk_list = [chunk for chunk in db.get_all_chunks() if chunk['paper_id'] in new_paper_id_list]
     chunk_list = convert_chunk_list(chunk_list)
 
     chunk_dict = {}
@@ -218,7 +220,35 @@ def raptor_index(new_paper_id_list):
             chunk_dict[group_id] = []
         chunk_dict[group_id].append(chunk)
 
+    group_list = db.get_all_groups()
+    paper_list = db.get_all_papers()
+
     for group_id, group_chunk_list in chunk_dict.items():
+        start_time_one_group = datetime.now()
+
+        group_name = ''
+        for group in group_list:
+            if group['group_id'] == group_id:
+                group_name = group['group_name']
+                break
+
+        paper_id_list = []
+        paper_name_list = []
+        for paper in paper_list:
+            if paper['paper_id'] in new_paper_id_list and paper['group_id'] == group_id:
+                paper_id_list.append(paper['paper_id'])
+                paper_name_list.append(paper['paper_name'])
+
+        with open(log_path, 'a') as f:
+            writer = csv.writer(f)
+            writer.writerow(['Start time', start_time_one_group.strftime('%Y-%m-%d-%H-%M-%S')])
+            writer.writerow(['Group ID', group_id])
+            writer.writerow(['Group name', group_name])
+            writer.writerow(['Document IDs', str(paper_id_list)])
+            writer.writerow(['Document names', str(paper_name_list)])
+            writer.writerow(['Index type', 'Raptor'])
+            f.flush()
+
         chunks = group_chunk_list
         for i in range(summary_max_times):
             summary_chunks = gen_summary_chunks(chunks)
@@ -228,11 +258,18 @@ def raptor_index(new_paper_id_list):
 
             chunks = []
             for summary, children_idx in summary_chunks:
-                summary_id = save_new_summary(summary, children_idx, from_base_chunk, root_summary, group_id)
+                summary_id = db.save_new_summary(summary, children_idx, from_base_chunk, root_summary, group_id)
                 chunks.append(Chunk(summary, summary_id, children_idx, group_id, from_base_chunk, root_summary))
 
             if root_summary:
                 break
+
+        end_time_one_group = datetime.now()
+        with open(log_path, 'a') as f:
+            writer = csv.writer(f)
+            writer.writerow(['Run time', end_time_one_group - start_time_one_group])
+            writer.writerow(['End time', end_time_one_group.strftime('%Y-%m-%d-%H-%M-%S')])
+            f.flush()
 
 
 def query_step1(question, chunk_list):
@@ -301,7 +338,7 @@ def get_ref_id_and_text(chunk_list, chunk_type):
 
 
 def raptor_query(question, query_group_id=-1):
-    base_chunk_list, summary_chunk_list = query_raptor_chunks(question, top_k=10, group_id=query_group_id)
+    base_chunk_list, summary_chunk_list = db.query_raptor_chunks(question, top_k=10, group_id=query_group_id)
 
     # step 1
     info_list_base_chunk, relevant_id_list_base_chunk = query_step1(question, base_chunk_list)

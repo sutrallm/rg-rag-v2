@@ -4,6 +4,7 @@ import subprocess
 import argparse
 import hashlib
 import pathlib
+import csv
 import pdftotext
 from datetime import datetime
 import graphrag.my_graphrag.db as db
@@ -14,6 +15,7 @@ PRJ_DIR = os.path.join(FILE_DIR, './my_graphrag')
 CONFIG_EXAMPLE_DIR = os.path.join(PRJ_DIR, 'config_example')
 INPUT_DIR = os.path.join(PRJ_DIR, 'input_groups')
 TMP_CONFIG_DIR = os.path.join(PRJ_DIR, 'output/tmp_config')
+LOG_DIR = os.path.join(FILE_DIR, 'log')
 
 
 def extract_text_from_pdf(pdf_path, save_txt_file=False):
@@ -242,36 +244,67 @@ def main():
     if os.path.isdir(TMP_CONFIG_DIR):
         shutil.rmtree(TMP_CONFIG_DIR)
 
+    if not os.path.isdir(LOG_DIR):
+        os.mkdir(LOG_DIR)
+
+    log_path = os.path.join(LOG_DIR, 'index_progress_log_%s.csv' % (start_time.strftime('%Y-%m-%d-%H-%M-%S')))
+
     new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.chunking)
 
     start_time_graphrag = datetime.now()
     if args.graphrag:
         for new_paper_list in new_paper_list_list_graphrag:
+            start_time_one_group = datetime.now()
+
             if os.path.isdir(TMP_CONFIG_DIR):
                 shutil.rmtree(TMP_CONFIG_DIR)
             shutil.copytree(CONFIG_EXAMPLE_DIR, TMP_CONFIG_DIR)
 
             group_name = ''
+            group_id = ''
+            paper_name_list = []
+            paper_id_list = []
 
             for new_paper in new_paper_list:
                 txt_file = new_paper['txt_path']
                 shutil.copyfile(txt_file, os.path.join(TMP_CONFIG_DIR, 'input', os.path.basename(txt_file)))
+                paper_id_list.append(new_paper['paper_id'])
+                paper_name_list.append(os.path.basename(txt_file))
                 if not group_name:
                     group_name = os.path.basename(os.path.dirname(txt_file))
+                    group_id = new_paper['group_id']
+
+            with open(log_path, 'a') as f:
+                writer = csv.writer(f)
+                writer.writerow(['Start time', start_time_one_group.strftime('%Y-%m-%d-%H-%M-%S')])
+                writer.writerow(['Group ID', group_id])
+                writer.writerow(['Group name', group_name])
+                writer.writerow(['Document IDs', str(paper_id_list)])
+                writer.writerow(['Document names', str(paper_name_list)])
+                writer.writerow(['Index type', 'GraphRAG'])
+                f.flush()
 
             # python -m graphrag.index --root ./ragtest
             p = subprocess.Popen(['python', '-m', 'graphrag.index', '--root', TMP_CONFIG_DIR])
             p.wait()
 
+            end_time_one_group = datetime.now()
+
             if os.path.isdir(TMP_CONFIG_DIR):
                 # shutil.rmtree(TMP_CONFIG_DIR)
-                ymdhm = datetime.now().strftime('-%Y-%m-%d-%H-%M')
-                shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR + '-' + group_name + ymdhm)
+                # ymdhm = datetime.now().strftime('-%Y-%m-%d-%H-%M')
+                shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR + '-' + group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S'))
+
+            with open(log_path, 'a') as f:
+                writer = csv.writer(f)
+                writer.writerow(['Run time', end_time_one_group - start_time_one_group])
+                writer.writerow(['End time', end_time_one_group.strftime('%Y-%m-%d-%H-%M-%S')])
+                f.flush()
 
     end_time_graphrag = datetime.now()
 
     if args.raptor:
-        raptor_index([p['paper_id'] for l in new_paper_list_list_raptor for p in l])
+        raptor_index([p['paper_id'] for l in new_paper_list_list_raptor for p in l], log_path)
 
     end_time_raptor = datetime.now()
 
