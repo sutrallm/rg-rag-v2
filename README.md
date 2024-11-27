@@ -220,7 +220,10 @@ python query.py [options]
 | `--question`  | `-q`  | `str`  | `What improvement techniques have people implemented on RAG?` | Provide a question for query.                                             |
 | `--db_path`   | `-p`  | `str`  | `./my_graphrag/vector_database`                               | Specify the database path.                                                |
 | `--list_group`| `-l`  | `bool` | `False`                                                       | If True, list group details. If False, execute the query.                 |
-| `--group_id`  | `-g`  | `int`  | `-1 (query all)`                                              | Group ID to query. If not provided, query all.                            |
+| `--group_id`  | `-i`  | `int`  | `-1 (query all)`                                              | Group ID to query. If not provided, query all.                            |
+| `--raptor`    | `-r`  | `bool` | `True`                                                        | If True, run raptor query.                                                |
+| `--graphrag`  | `-g`  | `bool` | `True`                                                        | If True, run graphrag query.                                              |
+| `--include_text`| `-t`  | `bool`  | `False`                                              | If True, final answer will include the reference chunk/summary chunk/community report text. If False, with reference id only.                            |
 <details>
   <summary>Typical output...</summary>
 

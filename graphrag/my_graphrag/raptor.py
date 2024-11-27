@@ -135,6 +135,25 @@ def split_chunks_into_clusters(chunks):
     return clusters_list
 
 
+def get_ollama_response(prompt):
+    response = ollama.chat(
+        model=OLLAMA_MODEL_NAME,
+        messages=[
+            {
+                "role": "user",
+                'content': prompt
+            },
+        ],
+        options={
+            'temperature': 0.1,
+            'num_predict': 4096,  # 240704 David: ask the llm to limit the summary size to 4096
+            'num_ctx': 32000,
+        }
+    )
+    output = response['message']['content']
+    return output
+
+
 def gen_summary_chunks(chunks):
     clusters_list = split_chunks_into_clusters(chunks)
 
@@ -148,58 +167,13 @@ def gen_summary_chunks(chunks):
             children_idx.append(child_chunk.index)
 
         # step 1: generate summary text
-        response1 = ollama.chat(
-            model=OLLAMA_MODEL_NAME,
-            messages=[
-                {
-                    "role": "user",
-                    'content': PROMPT_SUMMARY1.format(text=context)
-                },
-            ],
-            options={
-                'temperature': 0,
-                'num_predict': 4096,  # 240704 David: ask the llm to limit the summary size to 4096
-                'num_ctx': 32000,
-            }
-        )
-
-        summary_text = response1['message']['content']
+        summary_text = get_ollama_response(PROMPT_SUMMARY1.format(text=context))
 
         # step 2: review summary text
-        response2 = ollama.chat(
-            model=OLLAMA_MODEL_NAME,
-            messages=[
-                {
-                    "role": "user",
-                    'content': PROMPT_SUMMARY2.format(text=summary_text)
-                },
-            ],
-            options={
-                'temperature': 0,
-                'num_predict': 4096,  # 240704 David: ask the llm to limit the summary size to 4096
-                'num_ctx': 32000,
-            }
-        )
-
-        reviewed_summary_text = response2['message']['content']
+        reviewed_summary_text = get_ollama_response(PROMPT_SUMMARY2.format(text=summary_text))
 
         # step 3: add heading
-        response3 = ollama.chat(
-            model=OLLAMA_MODEL_NAME,
-            messages=[
-                {
-                    "role": "user",
-                    'content': PROMPT_SUMMARY3.format(text=reviewed_summary_text)
-                },
-            ],
-            options={
-                'temperature': 0,
-                'num_predict': 4096,  # 240704 David: ask the llm to limit the summary size to 4096
-                'num_ctx': 32000,
-            }
-        )
-
-        heading = response3['message']['content']
+        heading = get_ollama_response(PROMPT_SUMMARY3.format(text=reviewed_summary_text))
 
         summary = f'<heading>{heading}<\heading>\n{reviewed_summary_text}'
         summary_chunks.append((summary, children_idx))
@@ -278,21 +252,7 @@ def query_step1(question, chunk_list):
     for chunk in chunk_list:
         # chunk: {'id': , 'text': } defined in db query_raptor_chunks
         prompt_step1 = PROMPT_QUERY_STEP1.format(question=question, context=chunk['text'])
-
-        response_step1 = ollama.chat(
-            model=OLLAMA_MODEL_NAME,
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt_step1
-                },
-            ],
-            options={
-                'temperature': 0,
-                'num_ctx': 32000,
-            }
-        )
-        answer_step1 = response_step1['message']['content']
+        answer_step1 = get_ollama_response(prompt_step1)
 
         result_content = re.search(r'<info>(.*?)</info>', answer_step1, re.DOTALL)
         # ignore relevant, just get <info>
@@ -348,21 +308,7 @@ def raptor_query(question, query_group_id=-1):
     # step 2
     context_step2 = '\n\n'.join(['<info>\n%s\n</info>' % info for info in info_list])
     prompt_step2 = PROMPT_QUERY_STEP2.format(question=question, context=context_step2)
-
-    response_step2 = ollama.chat(
-        model=OLLAMA_MODEL_NAME,
-        messages=[
-            {
-                "role": "user",
-                "content": prompt_step2
-            },
-        ],
-        options={
-            'temperature': 0,
-            'num_ctx': 32000,
-        }
-    )
-    answer_step2 = response_step2['message']['content']
+    answer_step2 = get_ollama_response(prompt_step2)
 
     ref_id_base, ref_text_base = get_ref_id_and_text(base_chunk_list, 'base')
     ref_id_summary, ref_text_summary = get_ref_id_and_text(summary_chunk_list, 'summary')

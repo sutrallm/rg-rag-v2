@@ -557,6 +557,43 @@ def query_raptor_chunks(query_text, top_k=10, group_id=-1):
     return base_chunk_list, summary_chunk_list
 
 
+def query_graphrag_community_report(query_text, top_k=20, query_group_id=-1):
+    client = chromadb.PersistentClient(path=get_db_path())
+    collection = client.get_collection(name=COLLECTION_COMMUNITY_REPORT)
+
+    total_community_report = collection.count()
+
+    results = collection.query(
+        query_texts=[query_text],
+        n_results=min(total_community_report, 500)
+    )
+
+    result_list = []
+    for i in range(len(results['ids'][0])):
+        is_group = True
+
+        chunk_id_list = json.loads(results['metadatas'][0][i]['chunk_id_list'])
+        if query_group_id != -1:
+            for chunk_id in chunk_id_list:
+                paper_id, group_id = get_ref_id_of_chunk(chunk_id)
+                if str(group_id) != str(query_group_id):
+                    is_group = False
+                    break
+
+        if is_group:
+            result_list.append({
+                'report_id': results['ids'][0][i],
+                'report_content': results['documents'][0][i],
+                'report_title': results['metadatas'][0][i]['title'],
+                'chunk_id_list': chunk_id_list,
+            })
+
+        if len(result_list) >= top_k:
+            break
+
+    return result_list
+
+
 def get_db_path():
     try:
         with open(DB_TMP_FILE_PATH, 'r') as f:

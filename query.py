@@ -7,9 +7,9 @@ from datetime import datetime
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import graphrag.my_graphrag.db as db
-from graphrag.my_graphrag.conf import FINAL_ANSWER_WITH_DETAILS, QUERY_OPTION, QUERY_RAPTOR, QUERY_GRAPHRAG, QUERY_RAPTOR_GRAPHRAG, TEXT_TEMPLATE
+from graphrag.my_graphrag.conf import TEXT_TEMPLATE
 from graphrag.my_graphrag.raptor import raptor_query
-import sys
+
 
 import nltk
 nltk.download('punkt')
@@ -20,11 +20,11 @@ MODEL_NAME = 'llama3.1:8b-instruct-q8_0'
 
 PROMPT1_MAX_TOKENS = 4000  # 240909 David requires
 PROMPT2_MAX_TOKENS = 4000  # 240909 Davie requires
+TOP_K_COMMUNITY_REPORT = 20
 
 
 QUESTION = 'What improvement techniques have people implemented on RAG?'
-# if len(sys.argv) > 1:
-#     QUESTION = sys.argv[1]
+
 
 QUERY_PROMPT1 = '''
 You are provided with question and a data table below. Generate a response consisting of a list of key points that respond to the user's question, summarizing all relevant information in the data table.
@@ -275,22 +275,8 @@ def query_step1(chunk_list, convert_chunk_to_prompt1_format, id_key):
             id_list.append(int(chunk[id_key]))
 
         prompt1 = QUERY_PROMPT1.format(query=QUESTION, input_text='\n\n'.join(record_list))
-        # TODO it seems that sometimes the program is stuck in ollama.chat
-        response1 = ollama.chat(
-            model=MODEL_NAME,
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt1
-                },
-            ],
-            options={
-                'temperature': 0,
-                'num_ctx': 32000,
-            }
-        )
-
-        cur_point_list, cur_ref_list_list = convert_prompt1_output(response1['message']['content'], id_list)
+        response1 = get_ollama_response(prompt1)
+        cur_point_list, cur_ref_list_list = convert_prompt1_output(response1, id_list)
         point_list += cur_point_list
         ref_list_list += cur_ref_list_list
 
@@ -345,6 +331,25 @@ def select_indices_based_on_score(point_list1, point_list2, max_tokens):
     return selected_indices_1, selected_indices_2, data
 
 
+def get_ollama_response(prompt):
+    response = ollama.chat(
+        model=MODEL_NAME,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            },
+        ],
+        options={
+            'temperature': 0.1,
+            'num_ctx': 32000,
+
+        }
+    )
+    output = response['message']['content']
+    return output
+
+
 def query_step2(data):
     prompt2 = QUERY_PROMPT2.format(query=QUESTION, report_data='\n\n'.join(data))
 
@@ -352,22 +357,8 @@ def query_step2(data):
     # print(prompt2)
     # print('--- prompt2 ---')
 
-    response2 = ollama.chat(
-        model=MODEL_NAME,
-        messages=[
-            {
-                "role": "user",
-                "content": prompt2
-            },
-        ],
-        options={
-            'temperature': 0,
-            'num_ctx': 32000,
-
-        }
-    )
-
-    return response2['message']['content']
+    response2 = get_ollama_response(prompt2)
+    return response2
 
 
 def get_ref_id_and_text_for_report(selected_indices, ref_list_list, chunk_list):
@@ -444,20 +435,7 @@ def get_ref_id_and_text_for_summary(selected_indices, ref_list_list, chunk_list)
 
 
 def graphrag_query(include_summary=False, query_group_id=-1):
-    report_chunk_list = db.get_all_community_reports()
-
-    if query_group_id != -1:
-        filtered_report_chunk_list = []
-        for report_chunk in report_chunk_list:
-            is_group = True
-            for chunk_id in report_chunk['chunk_id_list']:
-                paper_id, group_id = db.get_ref_id_of_chunk(chunk_id)
-                if str(group_id) != str(query_group_id):
-                    is_group = False
-                    break
-            if is_group:
-                filtered_report_chunk_list.append(report_chunk)
-        report_chunk_list = filtered_report_chunk_list
+    report_chunk_list = db.query_graphrag_community_report(QUESTION, top_k=TOP_K_COMMUNITY_REPORT, query_group_id=query_group_id)
 
     report_point_list, report_ref_list_list = query_step1(report_chunk_list, convert_chunk_to_prompt1_format_for_graphrag, 'report_id')
 
@@ -515,10 +493,31 @@ def process_arguments():
     )
 
     parser.add_argument(
-        '--group_id', '-g',
+        '--group_id', '-i',
         type=int,
         default=-1,
         help='ID of the group to query. If not provided, all groups will be queried. Default is -1 (query all).'
+    )
+
+    parser.add_argument(
+        '--raptor', '-r',
+        type=lambda x: x.lower() == 'true',
+        default=True,
+        help='If True, run raptor query. Default is True.'
+    )
+
+    parser.add_argument(
+        '--graphrag', '-g',
+        type=lambda x: x.lower() == 'true',
+        default=True,
+        help='If True, run graphrag query. Default is True.'
+    )
+
+    parser.add_argument(
+        '--include_text', '-t',
+        type=lambda x: x.lower() == 'true',
+        default=False,
+        help='If True, final answer will include the reference chunk/summary chunk/community report text. If False, with reference id only. Default is False.'
     )
 
     args = parser.parse_args()
@@ -544,6 +543,10 @@ def process_arguments():
         if not has_group:
             print('Please input an valid Group ID. You can list group IDs by "--list_group True"')
             return None
+
+    if not args.raptor and not args.graphrag:
+        print('Please select at least one of the query options: "--raptor True" or "--graphrag True".')
+        return None
 
     return args
 
@@ -584,20 +587,20 @@ def main():
         db.rm_db_tmp_file()
         return
 
-    if QUERY_OPTION == QUERY_RAPTOR:
-        answer, ref_id, ref_text = raptor_query(QUESTION, query_group_id=args.group_id)
-
-    elif QUERY_OPTION == QUERY_GRAPHRAG:
-        answer, ref_id, ref_text = graphrag_query(include_summary=False, query_group_id=args.group_id)
-
-    elif QUERY_OPTION == QUERY_RAPTOR_GRAPHRAG:
+    if args.raptor and args.graphrag:
+        print('GraphRAG + Raptor query ...')
         answer, ref_id, ref_text = graphrag_query(include_summary=True, query_group_id=args.group_id)
-
+    elif args.raptor:
+        print('Raptor query ...')
+        answer, ref_id, ref_text = raptor_query(QUESTION, query_group_id=args.group_id)
+    elif args.graphrag:
+        print('GraphRAG query ...')
+        answer, ref_id, ref_text = graphrag_query(include_summary=False, query_group_id=args.group_id)
     else:
-        print(f'Please check your query option. It should be one of ({QUERY_RAPTOR}, {QUERY_GRAPHRAG}, {QUERY_RAPTOR_GRAPHRAG})')
+        print('Please select at least one of the query options: "--raptor True" or "--graphrag True".')
         return
 
-    if FINAL_ANSWER_WITH_DETAILS:
+    if args.include_text:
         final_answer = FINAL_ANSWER_TEMPLATE_WITH_TEXT.format(
             question=QUESTION,
             answer=answer,
