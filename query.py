@@ -4,6 +4,7 @@ import traceback
 import argparse
 import ollama
 from datetime import datetime
+from multiprocessing import Process
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import graphrag.my_graphrag.db as db
@@ -624,6 +625,16 @@ def main():
     db.rm_db_tmp_file()
 
 
+def main_with_timeout():
+    timeout = 4 * 60  # 4 minutes timeout
+    process = Process(target=main, args=())
+    process.start()
+    process.join(timeout)
+    if process.is_alive():
+        process.terminate()
+        print('Query time out! Please change the query question or options.')
+
+
 if __name__ == '__main__':
-    main()
+    main_with_timeout()
 
