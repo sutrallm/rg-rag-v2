@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import graphrag.my_graphrag.db as db
 from graphrag.my_graphrag.conf import TEXT_TEMPLATE
-from graphrag.my_graphrag.raptor import raptor_query
+import graphrag.my_graphrag.raptor as raptor
 
 
 import nltk
@@ -21,63 +21,40 @@ MODEL_NAME = 'llama3.1:8b-instruct-q8_0'
 
 PROMPT1_MAX_TOKENS = 4000  # 240909 David requires
 PROMPT2_MAX_TOKENS = 4000  # 240909 Davie requires
-TOP_K_COMMUNITY_REPORT = 20
+TOP_K_QUERY_CHUNK = 20
 
 
 QUESTION = 'What improvement techniques have people implemented on RAG?'
 
 
 QUERY_PROMPT1 = '''
-You are provided with question and a data table below. Generate a response consisting of a list of key points that respond to the user's question, summarizing all relevant information in the data table.
+You are provided with a question and a piece of text below. Generate a response consisting of a list of key points that respond to the user's question, summarizing all relevant information in the text.
 
-The data table is a sequence of records in the following XML format:
+You must use the text below as the primary context for generating the response for the question below.
 
-<record>
-<id> ... </id>
-<title> ... </title>
-<content> ... </content>
-</record>
+The response should contain a list of points that you have derived from the text. Each point should be enclosed within <point> </point> tags. Each point should contain three components:
 
-where <id> contains the record ID. The following is an example.
-
-<record>
-<id>50</id>
-<title>DPR Retrieval Model Community</title>
-<content>
-The DPR retrieval model community is centered around the Dual-Purpose Representations (DPR) model, which has been adapted and extended by various researchers for domain-specific tasks. The community's entities include the DPR model itself, its variants like RAG-END2END, and related datasets such as TriviaQA.
-</content>
-</record>
-
-You should use the data provided in the data table below as the primary context for generating the response for the question below.
-
-The response should contain list of points that you have derived from the data records. Each point should be put in <point> </point> tags. Each point should contain four components:
-
-- a title in <title> </title> tags.
-- a comprehensive description in <content> </content> tags.
-- a list record id(s) on which the point is based on in <ref> </ref> tags. This list should be id(s) only. Avoid explicitly mentioning "record" or record title.
-- an importance score which is an integer score between 0-100 that indicates how important the point is in answering the user's question in <score> </score> tags.
+- Title: A brief summary enclosed in <title> </title> tags.
+- Description: A comprehensive explanation of the key point enclosed in <content> </content> tags.
+- Importance Score: An integer score between 0-100 indicating how important the point is for answering the user's question, enclosed in <score> </score> tags.
 
 The response shall preserve the original meaning and use of modal verbs such as "shall", "may," or "will."
 
-If the data table does not contain sufficient information to provide an answer, just say so. Do not make anything up.
+If the text does not contain sufficient information to provide an answer, just say so. Do not make anything up.
 
 Do not include information where the supporting evidence for it is not provided.
 
 == Important Reminder
 
-Your response should answer the question below. Provide reference by stating the record id(s) for each point in your response. The response should be XML format.
+Your response should answer the question below. The response should be XML format.
 
 == Question
 
 {query}
 
-== Data Table
+== Text
 
 {input_text}
-
-== Important Reminder
-
-Your response should answer the question above. Provide reference by stating the record id(s) for each point in your response. The response should be XML format.
 '''
 
 
@@ -108,13 +85,12 @@ Do not include information where the supporting evidence for it is not provided.
 '''
 
 
-PROMPT1_RECORD_TEMPLATE = '''<record>
-<id>{id}</id>
+PROMPT1_RECORD_TEMPLATE = '''<text>
 <title>{title}</title>
 <content>
 {content}
 </content>
-</record>'''
+</text>'''
 
 
 FINAL_ANSWER_TEMPLATE_NO_TEXT = '''<question>
@@ -125,9 +101,9 @@ FINAL_ANSWER_TEMPLATE_NO_TEXT = '''<question>
 {answer}
 </answer>
 
-<reference_id>
-{reference_id}
-</reference_id>
+<reference>
+{reference}
+</reference>
 '''
 
 
@@ -150,19 +126,18 @@ FINAL_ANSWER_TEMPLATE_WITH_TEXT = '''<question>
 
 
 def convert_chunk_to_prompt1_format_for_graphrag(chunk):
-    return PROMPT1_RECORD_TEMPLATE.format(id=chunk['report_id'], content=chunk['report_content'], title=chunk['report_title'])
+    return PROMPT1_RECORD_TEMPLATE.format(content=chunk['report_content'], title=chunk['report_title'])
 
 
 def convert_chunk_to_prompt1_format_for_raptor_summary(chunk):
     content = chunk['summary_content']
     match = re.search(r'<heading>(.*?)</heading>', content, re.DOTALL)
     title = match.group(1) if match else ''
-    return PROMPT1_RECORD_TEMPLATE.format(id=chunk['summary_id'], content=content, title=title)
+    return PROMPT1_RECORD_TEMPLATE.format(content=content, title=title)
 
 
-def convert_prompt1_output(llm_response, id_list):
+def convert_prompt1_output(llm_response):
     point_list = []
-    ref_list_list = []
     try:
         point_blocks = re.findall(r"<point>(.*?)</point>", llm_response, re.DOTALL)
         for block in point_blocks:
@@ -177,23 +152,6 @@ def convert_prompt1_output(llm_response, id_list):
                 if not content:
                     continue
 
-                ref_match = re.findall(r"<ref>(.*?)</ref>", block, re.DOTALL)
-                ref = ref_match[0] if ref_match else None
-
-                if not ref:
-                    continue
-                else:
-                    ref_list = [int(i) for i in re.findall(r'\b\d+\b', ref)]
-                    correct_ref = True
-                    for i in ref_list:
-                        if i not in id_list:
-                            correct_ref = False
-                            break
-                    if not correct_ref:
-                        continue
-                    else:
-                        ref = ','.join(map(str, ref_list))
-
                 score_match = re.findall(r"<score>(.*?)</score>", block, re.DOTALL)
                 score = score_match[0] if score_match else None
                 if not score:
@@ -203,13 +161,11 @@ def convert_prompt1_output(llm_response, id_list):
                     if score <= 0:
                         continue
 
-                desp = '<title>%s</title>\n<content>%s</content>\n<ref>%s</ref>' % (title, content, ref)
+                desp = '<title>%s</title>\n<content>%s</content>' % (title, content)
                 point_list.append({
                     'answer': desp,
                     'score': score,
                 })
-
-                ref_list_list.append(ref_list)
 
             except Exception as e:
                 traceback.print_exc()
@@ -218,7 +174,7 @@ def convert_prompt1_output(llm_response, id_list):
         traceback.print_exc()
         pass
 
-    return point_list, ref_list_list
+    return point_list
 
 
 def count_tokens(text):
@@ -264,22 +220,15 @@ def get_cosine_sim(str1, str2):
 
 
 def query_step1(chunk_list, convert_chunk_to_prompt1_format, id_key):
-    batch_list = split_chunks_into_batches(chunk_list, PROMPT1_MAX_TOKENS, convert_chunk_to_prompt1_format)
-
     point_list = []
     ref_list_list = []
-    for batch in batch_list:
-        record_list = []
-        id_list = []
-        for chunk in batch:
-            record_list.append(convert_chunk_to_prompt1_format(chunk))
-            id_list.append(int(chunk[id_key]))
-
-        prompt1 = QUERY_PROMPT1.format(query=QUESTION, input_text='\n\n'.join(record_list))
+    for chunk in chunk_list:
+        chunk_id = int(chunk[id_key])
+        prompt1 = QUERY_PROMPT1.format(query=QUESTION, input_text=convert_chunk_to_prompt1_format(chunk))
         response1 = get_ollama_response(prompt1)
-        cur_point_list, cur_ref_list_list = convert_prompt1_output(response1, id_list)
+        cur_point_list = convert_prompt1_output(response1)
         point_list += cur_point_list
-        ref_list_list += cur_ref_list_list
+        ref_list_list += [[chunk_id] for _ in range(len(point_list))]
 
     sorted_point_indices = sorted(range(len(point_list)), key=lambda i: point_list[i]['score'], reverse=True)
     unique_point_list = []
@@ -436,13 +385,12 @@ def get_ref_id_and_text_for_summary(selected_indices, ref_list_list, chunk_list)
 
 
 def graphrag_query(include_summary=False, query_group_id=-1):
-    report_chunk_list = db.query_graphrag_community_report(QUESTION, top_k=TOP_K_COMMUNITY_REPORT, query_group_id=query_group_id)
+    report_chunk_list = db.query_graphrag_community_report(QUESTION, top_k=TOP_K_QUERY_CHUNK, query_group_id=query_group_id)
 
     report_point_list, report_ref_list_list = query_step1(report_chunk_list, convert_chunk_to_prompt1_format_for_graphrag, 'report_id')
 
     if include_summary:
-        summary_chunk_list = db.get_all_summary_chunks()
-        summary_chunk_list = [chunk for chunk in summary_chunk_list if query_group_id == -1 or chunk['group_id'] == str(query_group_id)]
+        summary_chunk_list = db.query_graphrag_summary_chunk(QUESTION, top_k=TOP_K_QUERY_CHUNK, query_group_id=query_group_id)
         summary_point_list, summary_ref_list_list = query_step1(summary_chunk_list, convert_chunk_to_prompt1_format_for_raptor_summary, 'summary_id')
     else:
         summary_chunk_list = []
@@ -514,11 +462,18 @@ def process_arguments():
         help='If True, run graphrag query. Default is True.'
     )
 
+    # parser.add_argument(
+    #     '--include_text', '-t',
+    #     type=lambda x: x.lower() == 'true',
+    #     default=False,
+    #     help='If True, final answer will include the reference chunk/summary chunk/community report text. If False, with reference id only. Default is False.'
+    # )
+
     parser.add_argument(
-        '--include_text', '-t',
-        type=lambda x: x.lower() == 'true',
-        default=False,
-        help='If True, final answer will include the reference chunk/summary chunk/community report text. If False, with reference id only. Default is False.'
+        '--top_k', '-k',
+        type=int,
+        default=20,
+        help='Top k number of chunks that query is based on.'
     )
 
     args = parser.parse_args()
@@ -590,30 +545,85 @@ def main():
 
     if args.raptor and args.graphrag:
         print('GraphRAG + Raptor query ...')
-        answer, ref_id, ref_text = graphrag_query(include_summary=True, query_group_id=args.group_id)
+        # answer, ref_id, ref_text = graphrag_query(include_summary=True, query_group_id=args.group_id)
+        query_type = 3
     elif args.raptor:
         print('Raptor query ...')
-        answer, ref_id, ref_text = raptor_query(QUESTION, query_group_id=args.group_id)
+        # answer, ref_id, ref_text = raptor_query(QUESTION, query_group_id=args.group_id)
+        query_type = 1
     elif args.graphrag:
         print('GraphRAG query ...')
-        answer, ref_id, ref_text = graphrag_query(include_summary=False, query_group_id=args.group_id)
+        # answer, ref_id, ref_text = graphrag_query(include_summary=False, query_group_id=args.group_id)
+        query_type = 2
     else:
         print('Please select at least one of the query options: "--raptor True" or "--graphrag True".')
         return
 
-    if args.include_text:
-        final_answer = FINAL_ANSWER_TEMPLATE_WITH_TEXT.format(
-            question=QUESTION,
-            answer=answer,
-            reference_id=ref_id,
-            reference_text=ref_text
-        )
-    else:
-        final_answer = FINAL_ANSWER_TEMPLATE_NO_TEXT.format(
-            question=QUESTION,
-            answer=answer,
-            reference_id=ref_id
-        )
+    # if args.include_text:
+    #     final_answer = FINAL_ANSWER_TEMPLATE_WITH_TEXT.format(
+    #         question=QUESTION,
+    #         answer=answer,
+    #         reference_id=ref_id,
+    #         reference_text=ref_text
+    #     )
+    # else:
+    #     final_answer = FINAL_ANSWER_TEMPLATE_NO_TEXT.format(
+    #         question=QUESTION,
+    #         answer=answer,
+    #         reference_id=ref_id
+    #     )
+
+    query_chunk_list = db.get_query_chunks(query_type, QUESTION, args.top_k, args.group_id)
+
+    # step 1
+    ref_paper_id_list = []
+    info_list = []
+    for chunk in query_chunk_list:
+        prompt_step1 = raptor.PROMPT_QUERY_STEP1.format(question=QUESTION, context=chunk['text'])
+        answer_step1 = get_ollama_response(prompt_step1)
+
+        result_content = re.search(r'<info>(.*?)</info>', answer_step1, re.DOTALL)
+        # ignore relevant, just get <info>
+        relevant_info = result_content.group(1).strip() if result_content else ''
+
+        is_relevant = relevant_info != ''
+        if is_relevant:
+            info_list.append(relevant_info)
+            ref_paper_id_list += chunk['paper_id_list']
+
+    # step 2
+    context_step2 = '\n\n'.join(['<info>\n%s\n</info>' % info for info in info_list])
+    prompt_step2 = raptor.PROMPT_QUERY_STEP2.format(question=QUESTION, context=context_step2)
+    answer_step2 = get_ollama_response(prompt_step2)
+
+    paper_list = db.get_all_papers()
+    group_dict = {}
+    for paper_id in list(set(ref_paper_id_list)):
+        for paper in paper_list:
+            if paper_id == paper['paper_id']:
+                group_id = paper['group_id']
+                paper_name = os.path.splitext(paper['paper_name'])[0]
+                group_name = db.get_group_name(group_id)
+
+                if group_name not in group_dict:
+                    group_dict[group_name] = []
+                group_dict[group_name].append(paper_name)
+
+                break
+
+    ref_text = []
+    group_name_list = list(group_dict.keys())
+    group_name_list.sort()
+    for group_name in group_name_list:
+        paper_name_list = group_dict[group_name]
+        paper_name_list.sort()
+        ref_text.append(f'{group_name}: {", ".join(paper_name_list)}')
+
+    final_answer = FINAL_ANSWER_TEMPLATE_NO_TEXT.format(
+        question=QUESTION,
+        answer=answer_step2,
+        reference='\n'.join(ref_text)
+    )
 
     print('--- final answer ---')
     print(final_answer)

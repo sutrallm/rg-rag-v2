@@ -223,7 +223,7 @@ python query.py [options]
 | `--group_id`  | `-i`  | `int`  | `-1 (query all)`                                              | Group ID to query. If not provided, query all.                            |
 | `--raptor`    | `-r`  | `bool` | `True`                                                        | If True, run raptor query.                                                |
 | `--graphrag`  | `-g`  | `bool` | `True`                                                        | If True, run graphrag query.                                              |
-| `--include_text`| `-t`  | `bool`  | `False`                                              | If True, final answer will include the reference chunk/summary chunk/community report text. If False, with reference id only.                            |
+| `--top_k`     | `-k`  | `int`  | `20`                                                          | Top k number of chunks that query is based on.                            |
 <details>
   <summary>Typical output...</summary>
 
