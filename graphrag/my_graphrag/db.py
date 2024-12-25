@@ -773,26 +773,31 @@ def query_report_chunk(query_text, top_k=20, query_group_id=-1):
     return result_list
 
 
-def get_query_chunks(query_type, query_text, top_k=20, query_group_id=-1):
+def get_query_chunks(query_option, query_text, top_k=20, query_group_id=-1):
     need_base_chunk = False
     need_summary_chunk = False
     need_report_chunk = False
 
-    if query_type == 1:
-        # raptor only, base + summary
+    if query_option == 1:
+        # 1. GraphRAG + Raptor: community report + summary
+        need_base_chunk = False
+        need_summary_chunk = True
+        need_report_chunk = True
+    elif query_option == 2:
+        # 2. Raptor: base + summary
         need_base_chunk = True
         need_summary_chunk = True
         need_report_chunk = False
-    elif query_type == 2:
-        # graphrag only, report
+    elif query_option == 3:
+        # 3. GraphRAG: community report
         need_base_chunk = False
         need_summary_chunk = False
         need_report_chunk = True
-    elif query_type == 3:
-        # graphrag + raptor, report + summary
-        need_base_chunk = False
-        need_summary_chunk = True
-        need_report_chunk = True
+    elif query_option == 4:
+        # 4. Base only: base
+        need_base_chunk = True
+        need_summary_chunk = False
+        need_report_chunk = False
 
     base_chunk_list = query_base_chunk(query_text, top_k, query_group_id) if need_base_chunk else []
     summary_chunk_list = query_summary_chunk(query_text, top_k, query_group_id) if need_summary_chunk else []

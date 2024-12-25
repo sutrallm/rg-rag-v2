@@ -449,25 +449,12 @@ def process_arguments():
     )
 
     parser.add_argument(
-        '--raptor', '-r',
-        type=lambda x: x.lower() == 'true',
-        default=True,
-        help='If True, run raptor query. Default is True.'
+        '--query_option', '-o',
+        type=int,
+        default=1,
+        choices=[1, 2, 3, 4],
+        help='1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Base only: base'
     )
-
-    parser.add_argument(
-        '--graphrag', '-g',
-        type=lambda x: x.lower() == 'true',
-        default=True,
-        help='If True, run graphrag query. Default is True.'
-    )
-
-    # parser.add_argument(
-    #     '--include_text', '-t',
-    #     type=lambda x: x.lower() == 'true',
-    #     default=False,
-    #     help='If True, final answer will include the reference chunk/summary chunk/community report text. If False, with reference id only. Default is False.'
-    # )
 
     parser.add_argument(
         '--top_k', '-k',
@@ -499,10 +486,6 @@ def process_arguments():
         if not has_group:
             print('Please input an valid Group ID. You can list group IDs by "--list_group True"')
             return None
-
-    if not args.raptor and not args.graphrag:
-        print('Please select at least one of the query options: "--raptor True" or "--graphrag True".')
-        return None
 
     return args
 
@@ -543,37 +526,19 @@ def main():
         db.rm_db_tmp_file()
         return
 
-    if args.raptor and args.graphrag:
+    if args.query_option == 1:
         print('GraphRAG + Raptor query ...')
-        # answer, ref_id, ref_text = graphrag_query(include_summary=True, query_group_id=args.group_id)
-        query_type = 3
-    elif args.raptor:
+    elif args.query_option == 2:
         print('Raptor query ...')
-        # answer, ref_id, ref_text = raptor_query(QUESTION, query_group_id=args.group_id)
-        query_type = 1
-    elif args.graphrag:
+    elif args.query_option == 3:
         print('GraphRAG query ...')
-        # answer, ref_id, ref_text = graphrag_query(include_summary=False, query_group_id=args.group_id)
-        query_type = 2
+    elif args.query_option == 4:
+        print('Base only query ...')
     else:
-        print('Please select at least one of the query options: "--raptor True" or "--graphrag True".')
+        print('Please select at least one of the query options: 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Base only: base.')
         return
 
-    # if args.include_text:
-    #     final_answer = FINAL_ANSWER_TEMPLATE_WITH_TEXT.format(
-    #         question=QUESTION,
-    #         answer=answer,
-    #         reference_id=ref_id,
-    #         reference_text=ref_text
-    #     )
-    # else:
-    #     final_answer = FINAL_ANSWER_TEMPLATE_NO_TEXT.format(
-    #         question=QUESTION,
-    #         answer=answer,
-    #         reference_id=ref_id
-    #     )
-
-    query_chunk_list = db.get_query_chunks(query_type, QUESTION, args.top_k, args.group_id)
+    query_chunk_list = db.get_query_chunks(args.query_option, QUESTION, args.top_k, args.group_id)
 
     # step 1
     ref_paper_id_list = []
