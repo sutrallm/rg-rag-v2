@@ -535,7 +535,7 @@ def main():
     elif args.query_option == 4:
         print('Base only query ...')
     else:
-        print('Please select at least one of the query options: 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Base only: base.')
+        print('Please select at least one of the query options: 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Basic RAG: base.')
         return
 
     query_chunk_list = db.get_query_chunks(args.query_option, QUESTION, args.top_k, args.group_id)
