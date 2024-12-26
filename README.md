@@ -221,7 +221,7 @@ python query.py [options]
 | `--db_path`   | `-p`  | `str`  | `./my_graphrag/vector_database`                               | Specify the database path.                                                |
 | `--list_group`| `-l`  | `bool` | `False`                                                       | If True, list group details. If False, execute the query.                 |
 | `--group_id`  | `-i`  | `int`  | `-1 (query all)`                                              | Group ID to query. If not provided, query all.                            |
-| `--query_option` | `-o`  | `int` | `1`                                                        | 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Base only: base                                                |
+| `--query_option` | `-o`  | `int` | `1`                                                        | 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Basic RAG: base                                                |
 | `--top_k`     | `-k`  | `int`  | `20`                                                          | Top k number of chunks that query is based on.                            |
 <details>
   <summary>Typical output...</summary>

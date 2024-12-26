@@ -453,7 +453,7 @@ def process_arguments():
         type=int,
         default=1,
         choices=[1, 2, 3, 4],
-        help='1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Base only: base'
+        help='1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Basic RAG: base'
     )
 
     parser.add_argument(
