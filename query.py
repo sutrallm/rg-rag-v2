@@ -24,6 +24,10 @@ PROMPT2_MAX_TOKENS = 4000  # 240909 Davie requires
 TOP_K_QUERY_CHUNK = 20
 
 
+FILE_DIR = os.path.dirname(os.path.realpath(__file__))
+OUTPUT_DIR = os.path.join(FILE_DIR, 'output')
+
+
 QUESTION = 'What improvement techniques have people implemented on RAG?'
 
 
@@ -463,6 +467,35 @@ def process_arguments():
         help='Top k number of chunks that query is based on.'
     )
 
+    parser.add_argument(
+        '--export_reports',
+        type=lambda x: x.lower() == 'true',
+        default=False,
+        help='If True, export the GraphRAG community reports or Raptor summaries. If False, do not export. Default is False.'
+    )
+
+    parser.add_argument(
+        '--export_type',
+        type=int,
+        default=1,
+        choices=[1, 2],
+        help='1. GraphRAG community reports; 2. Raptor summaries'
+    )
+
+    parser.add_argument(
+        '--export_group_name',
+        type=str,
+        default='',
+        help='You need to specify export_group_name or export_group_id.'
+    )
+
+    parser.add_argument(
+        '--export_group_id',
+        type=int,
+        default=-1,
+        help='You need to specify export_group_name or export_group_id.'
+    )
+
     args = parser.parse_args()
 
     QUESTION = args.question
@@ -511,6 +544,77 @@ def list_group():
                 first_line = False
 
 
+def export_reports(export_type, export_group_name, export_group_id):
+    if export_group_name == '' and export_group_id == -1:
+        print('Please specify export_group_name or export_group_id.')
+        return
+
+    group_list = db.get_all_groups()
+
+    group_name_exist = False
+    if export_group_name != '':
+        for group in group_list:
+            if group['group_name'] == export_group_name:
+                export_group_id = group['group_id']
+                group_name_exist = True
+                break
+
+    group_id_exist = False
+    if export_group_id != -1:
+        export_group_id = str(export_group_id)
+        for group in group_list:
+            if group['group_id'] == export_group_id:
+                export_group_name = group['group_name']
+                group_id_exist = True
+                break
+
+    if not group_name_exist and not group_id_exist:
+        print('Please specify a correct export_group_name or export_group_id.')
+        return
+
+    if not os.path.isdir(OUTPUT_DIR):
+        os.mkdir(OUTPUT_DIR)
+
+    db_name = os.path.basename(os.path.normpath(db.get_db_path()))
+    export_type_name = 'GraphRAG_community_reports' if export_type == 1 else 'Raptor_summaries'
+    timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+    folder_name = f'{export_group_id}-{export_group_name}-{export_type_name}-{db_name}-{timestamp}'
+    output_report_folder = os.path.join(OUTPUT_DIR, folder_name)
+    os.mkdir(output_report_folder)
+
+    if export_type == 1:
+        report_list = db.get_all_community_reports()
+        for report in report_list:
+            report_id = report['report_id']
+            report_title = report['report_title']
+            report_text = report['report_content']
+            group_id = report['group_id']
+            if group_id == export_group_id:
+                file_name = f'report_{report_id}.txt'
+                file_path = os.path.join(output_report_folder, file_name)
+                with open(file_path, 'w') as f:
+                    f.write(f'<title>{report_title}</title>\n')
+                    f.write('<text>\n')
+                    f.write(report_text)
+                    f.write('\n</text>')
+                print(f'Exported report {report_id} to {file_path}')
+
+    else:
+        summary_list = db.get_all_summary_chunks()
+        for summary in summary_list:
+            summary_id = summary['summary_id']
+            summary_text = summary['summary_content']
+            group_id = summary['group_id']
+            if group_id == export_group_id:
+                file_name = f'summary_{summary_id}.txt'
+                file_path = os.path.join(output_report_folder, file_name)
+                with open(file_path, 'w') as f:
+                    f.write(summary_text)
+                print(f'Exported summary {summary_id} to {file_path}')
+
+    print(f'Exported {export_type_name} of group {export_group_id} to {output_report_folder}')
+
+
 def main():
     start = datetime.now()
 
@@ -523,6 +627,11 @@ def main():
 
     if args.list_group:
         list_group()
+        db.rm_db_tmp_file()
+        return
+
+    if args.export_reports:
+        export_reports(args.export_type, args.export_group_name, args.export_group_id)
         db.rm_db_tmp_file()
         return
 

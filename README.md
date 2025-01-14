@@ -214,15 +214,19 @@ python index.py [options]
 python query.py [options]
 ```
 ##### Options
-| Argument      | Short | Type   | Default Value                                                 | Description                                                               |
-|---------------|-------|--------|---------------------------------------------------------------|---------------------------------------------------------------------------|
-| `--help`      | `-h`  |        |                                                               | Show the help message of all options and exit.                            |
-| `--question`  | `-q`  | `str`  | `What improvement techniques have people implemented on RAG?` | Provide a question for query.                                             |
-| `--db_path`   | `-p`  | `str`  | `./my_graphrag/vector_database`                               | Specify the database path.                                                |
-| `--list_group`| `-l`  | `bool` | `False`                                                       | If True, list group details. If False, execute the query.                 |
-| `--group_id`  | `-i`  | `int`  | `-1 (query all)`                                              | Group ID to query. If not provided, query all.                            |
-| `--query_option` | `-o`  | `int` | `1`                                                        | 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Basic RAG: base                                                |
-| `--top_k`     | `-k`  | `int`  | `20`                                                          | Top k number of chunks that query is based on.                            |
+| Argument              | Short | Type   | Default Value                  | Description                           |
+|-----------------------|---|--------|--------------------------------|---------------------------------------|
+| `--help`              | `-h` |        |                                | Show the help message of all options and exit. |
+| `--question`          | `-q` | `str`  | `What improvement techniques have people implemented on RAG?` | Provide a question for query.         |
+| `--db_path`           | `-p` | `str`  | `./my_graphrag/vector_database` | Specify the database path.            |
+| `--list_group`        | `-l` | `bool` | `False`                        | If True, list group details. If False, execute the query. |
+| `--group_id`          | `-i` | `int`  | `-1 (query all)`               | Group ID to query. If not provided, query all. |
+| `--query_option`      | `-o` | `int`  | `1`                            | 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Basic RAG: base |
+| `--top_k`             | `-k` | `int`  | `20`                           | Top k number of chunks that query is based on. |
+| `--export_reports`    |   | `bool` | `False`                        | If True, export the GraphRAG community reports or Raptor summaries. If False, do not export. Default is False. |
+| `--export_type`       |   | `int`    | `1`                            | 1. GraphRAG community reports; 2. Raptor summaries                                      |
+| `--export_group_name` |   | `str`    | `''`                             | You need to specify export_group_name or export_group_id. |
+| `--export_group_id`   |   | `int`    | `-1`                             | You need to specify export_group_name or export_group_id. |
 <details>
   <summary>Typical output...</summary>
 
