@@ -50,15 +50,16 @@ conda activate rg-rag
 python index.py [options]
 ```
 ##### Options
-| Argument            | Short | Type     | Default Value                   | Description                               |
-|---------------------|-------|----------|---------------------------------|-------------------------------------------|
-| `--help`            | `-h`  |          |                                 | Show the help message of all options and exit. |
-| `--db_path`         | `-p`  | `str`    | `./my_graphrag/vector_database` | Specify the database path. If the path already exists, check whether the document is in the db, if not, add to the db. |
-| `--raptor`          | `-r`  | `bool`   | `True`                          | If True, run raptor index. If False, skip raptor index. |
-| `--graphrag`        | `-g`  | `bool`   | `True`                          | If True, run graphrag index. If False, skip graphrag index. |
-| `--chunking`        | `-c`  | `bool`   | `True`                          | If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk. |
-| `--del_group`       | `-d`  | `int`    | `-1`                            | ID of the group to delete. If not provided, skip. |
-| `--del_option`      | `-o`  | `str`    | `all`                           | Options: ['all', 'graphrag', 'raptor']. Choose which part you want to delete in the group. |
+| Argument | Short | Type     | Default Value                   | Description                                                                                                                     |
+|--------|---|----------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| `--help` | `-h` |          |                                 | Show the help message of all options and exit.                                                                                  |
+| `--db_path` | `-p` | `str`    | `./my_graphrag/vector_database` | Specify the database path. If the path already exists, check whether the document is in the db, if not, add to the db.          |
+| `--raptor` | `-r` | `bool`   | `True`                          | If True, run raptor index. If False, skip raptor index.                                                                         |
+| `--graphrag` | `-g` | `bool`   | `True`                          | If True, run graphrag index. If False, skip graphrag index.                                                                     |
+| `--chunking` | `-c` | `bool`   | `True`                          | If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk.         |
+| `--del_group` | `-d` | `int`    | `-1`                            | ID of the group to delete. If not provided, skip.                                                                               |
+| `--del_option` | `-o` | `str`    | `all`                           | Options: ['all', 'graphrag', 'raptor']. Choose which part you want to delete in the group.                                      |
+| `--export_prompts`      |   | `bool`   | `False`                         | If True, export the input and output text of all 3 index prompts to prompts folder. If False, skip exporting. Default is False. |
 <details>
   <summary>Typical output...</summary>
 
