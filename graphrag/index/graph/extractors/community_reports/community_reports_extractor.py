@@ -20,6 +20,11 @@ import csv
 import json
 import xml.etree.ElementTree as ET
 
+import os
+import random
+from datetime import datetime
+from pathlib import Path
+
 log = logging.getLogger(__name__)
 
 
@@ -98,6 +103,27 @@ class CommunityReportsExtractor:
 
             converted_output1 = self._convert_output(output1)
 
+            tmp_prompt_dir = ''
+            prefix = ''
+            try:
+                cur_file_path = Path(os.path.realpath(__file__))
+                tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
+                if os.path.isdir(tmp_prompt_dir):
+                    timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+                    random_id = random.randint(100000, 999999)
+                    prefix = f'index_prompt3_{timestamp}_{random_id}_'
+
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}1_input.txt'), 'w') as f:
+                        f.write(COMMUNITY_REPORT_PROMPT.format(input_text=converted_input))
+                        f.flush()
+
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}1_output.txt'), 'w') as f:
+                        f.write(output1)
+                        f.flush()
+
+            except:
+                pass
+
             # 240808 try 2 times
             if converted_output1:
                 success1 = True
@@ -116,6 +142,19 @@ class CommunityReportsExtractor:
                 output2 = response2.output or ''
 
                 converted_output2 = self._convert_output(output2)
+
+                try:
+                    if tmp_prompt_dir and prefix:
+                        with open(os.path.join(tmp_prompt_dir, f'{prefix}2_input.txt'), 'w') as f:
+                            f.write(COMMUNITY_REPORT_PROMPT2.format(input_text=converted_input))
+                            f.flush()
+
+                        with open(os.path.join(tmp_prompt_dir, f'{prefix}2_output.txt'), 'w') as f:
+                            f.write(output2)
+                            f.flush()
+
+                except:
+                    pass
 
                 if converted_output2:
                     success2 = True

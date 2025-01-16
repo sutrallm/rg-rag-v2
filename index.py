@@ -16,6 +16,8 @@ CONFIG_EXAMPLE_DIR = os.path.join(PRJ_DIR, 'config_example')
 INPUT_DIR = os.path.join(PRJ_DIR, 'input_groups')
 TMP_CONFIG_DIR = os.path.join(PRJ_DIR, 'output/tmp_config')
 LOG_DIR = os.path.join(FILE_DIR, 'log')
+PROMPTS_DIR = os.path.join(FILE_DIR, 'prompts')
+TMP_PROMPTS_DIR = os.path.join(PROMPTS_DIR, 'tmp')
 
 
 def extract_text_from_pdf(pdf_path, save_txt_file=False):
@@ -194,6 +196,13 @@ def process_arguments():
         help='Choose which part you want to delete in the group.'
     )
 
+    parser.add_argument(
+        '--export_prompts',
+        type=lambda x: x.lower() == 'true',
+        default=False,
+        help=f'If True, export the input and output text of all 3 index prompts to {PROMPTS_DIR}. If False, skip exporting. Default is False.'
+    )
+
     args = parser.parse_args()
 
     if not args.raptor and not args.graphrag:
@@ -247,6 +256,11 @@ def main():
     if not os.path.isdir(LOG_DIR):
         os.mkdir(LOG_DIR)
 
+    if not os.path.isdir(PROMPTS_DIR):
+        os.mkdir(PROMPTS_DIR)
+    if os.path.isdir(TMP_PROMPTS_DIR):
+        shutil.rmtree(TMP_PROMPTS_DIR)
+
     log_path = os.path.join(LOG_DIR, 'index_progress_log_%s.csv' % (start_time.strftime('%Y-%m-%d-%H-%M-%S')))
 
     new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.chunking)
@@ -255,6 +269,11 @@ def main():
     if args.graphrag:
         for new_paper_list in new_paper_list_list_graphrag:
             start_time_one_group = datetime.now()
+
+            if os.path.isdir(TMP_PROMPTS_DIR):
+                shutil.rmtree(TMP_PROMPTS_DIR)
+            if args.export_prompts:
+                os.mkdir(TMP_PROMPTS_DIR)
 
             if os.path.isdir(TMP_CONFIG_DIR):
                 shutil.rmtree(TMP_CONFIG_DIR)
@@ -294,6 +313,12 @@ def main():
                 # shutil.rmtree(TMP_CONFIG_DIR)
                 # ymdhm = datetime.now().strftime('-%Y-%m-%d-%H-%M')
                 shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR + '-' + group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S'))
+
+            if args.export_prompts:
+                if os.path.isdir(TMP_PROMPTS_DIR):
+                    shutil.move(TMP_PROMPTS_DIR, os.path.join(PROMPTS_DIR, group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S')))
+                else:
+                    print(f'No prompts folder found for {group_name}')
 
             with open(log_path, 'a') as f:
                 writer = csv.writer(f)

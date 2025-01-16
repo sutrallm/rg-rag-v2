@@ -4,6 +4,10 @@
 """A module containing 'GraphExtractionResult' and 'GraphExtractor' models."""
 
 import json
+import os
+import random
+from datetime import datetime
+from pathlib import Path
 from dataclasses import dataclass
 
 from graphrag.index.typing import ErrorHandlerFn
@@ -134,4 +138,24 @@ class SummarizeExtractor:
             model_parameters={"max_tokens": self._max_summary_length},
         )
         # Calculate result
+
+        try:
+            cur_file_path = Path(os.path.realpath(__file__))
+            tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
+            if os.path.isdir(tmp_prompt_dir):
+                timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+                random_id = random.randint(100000, 999999)
+                prefix = f'index_prompt2_{timestamp}_{random_id}_'
+
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}input.txt'), 'w') as f:
+                    f.write(self._summarization_prompt.format(entity_name=json.dumps(items), description_list=json.dumps(sorted(descriptions))))
+                    f.flush()
+
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}output.txt'), 'w') as f:
+                    f.write(str(response.output))
+                    f.flush()
+
+        except:
+            pass
+
         return str(response.output)

@@ -7,6 +7,10 @@ import logging
 import numbers
 import re
 import traceback
+import os
+import random
+from datetime import datetime
+from pathlib import Path
 from collections.abc import Mapping
 from dataclasses import dataclass
 from typing import Any
@@ -163,6 +167,25 @@ class GraphExtractor:
             },
         )
         results = response.output or ""
+
+        try:
+            cur_file_path = Path(os.path.realpath(__file__))
+            tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
+            if os.path.isdir(tmp_prompt_dir):
+                timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+                random_id = random.randint(100000, 999999)
+                prefix = f'index_prompt1_{timestamp}_{random_id}_'
+
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}input.txt'), 'w') as f:
+                    f.write(self._extraction_prompt.format(input_text=text))
+                    f.flush()
+
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}output.txt'), 'w') as f:
+                    f.write(results)
+                    f.flush()
+
+        except:
+            pass
 
         # Repeat to ensure we maximize entity count
         for i in range(self._max_gleanings):
