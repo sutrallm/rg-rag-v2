@@ -23,7 +23,7 @@ from graphrag.index.typing import ErrorHandlerFn
 from graphrag.index.utils import clean_str
 from graphrag.llm import CompletionLLM
 
-from .prompts import CONTINUE_PROMPT, GRAPH_EXTRACTION_PROMPT, LOOP_PROMPT
+from .prompts import CONTINUE_PROMPT, GRAPH_EXTRACTION_PROMPT, LOOP_PROMPT, GLEANING_PROMPT, ENTITIES_IDENTIFICATION_PROMPT
 
 import xml.etree.ElementTree as ET
 
@@ -168,6 +168,8 @@ class GraphExtractor:
         )
         results = response.output or ""
 
+        tmp_prompt_dir = ''
+        prefix = ''
         try:
             cur_file_path = Path(os.path.realpath(__file__))
             tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
@@ -176,11 +178,11 @@ class GraphExtractor:
                 random_id = random.randint(100000, 999999)
                 prefix = f'index_prompt1_{timestamp}_{random_id}_'
 
-                with open(os.path.join(tmp_prompt_dir, f'{prefix}input.txt'), 'w') as f:
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}extraction_input.txt'), 'w') as f:
                     f.write(self._extraction_prompt.format(input_text=text))
                     f.flush()
 
-                with open(os.path.join(tmp_prompt_dir, f'{prefix}output.txt'), 'w') as f:
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}extraction_output.txt'), 'w') as f:
                     f.write(results)
                     f.flush()
 
@@ -189,53 +191,73 @@ class GraphExtractor:
 
         # Repeat to ensure we maximize entity count
         for i in range(self._max_gleanings):
-            # 240829 gleaning
-            # response = await self._llm(
-            #     CONTINUE_PROMPT,
-            #     name=f"extract-continuation-{i}",
-            #     history=response.history,
-            # )
-            gleaning_prompt = self._extraction_prompt + '\n\n' + results + '\n\n' + CONTINUE_PROMPT
+            tmp_conv_output = _clean_entities_text(results) + '\n' + _clean_relationships_text(results)
+            gleaning_prompt = GLEANING_PROMPT.format(input_text=text, previous_output=tmp_conv_output)
             response = await self._llm(
                 gleaning_prompt,
                 name=f"extract-continuation-{i}",
-                variables={
-                    self._input_text_key: text,
-                },
             )
+
+            try:
+                if tmp_prompt_dir and prefix:
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}gleaning{i}_input.txt'), 'w') as f:
+                        f.write(gleaning_prompt)
+                        f.flush()
+
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}gleaning{i}_output.txt'), 'w') as f:
+                        f.write(response.output)
+                        f.flush()
+
+            except:
+                pass
+
+            if response.output == "NOMORE":
+                break
+
             results += response.output or ""
 
             # if this is the final glean, don't bother updating the continuation flag
             if i >= self._max_gleanings - 1:
                 break
 
-            # 240829 gleaning
-            # response = await self._llm(
-            #     LOOP_PROMPT,
-            #     name=f"extract-loopcheck-{i}",
-            #     history=response.history,
-            #     model_parameters=self._loop_args,
-            # )
-            loop_prompt = self._extraction_prompt + '\n\n' + results + '\n\n' + LOOP_PROMPT
-            response = await self._llm(
-                loop_prompt,
-                name=f"extract-loopcheck-{i}",
-                model_parameters=self._loop_args,
-                variables={
-                    self._input_text_key: text,
-                },
-            )
-            if response.output != "YES":
-                break
+        entities_identification_prompt = ENTITIES_IDENTIFICATION_PROMPT.format(input_text=text, entities=_clean_entities_text(results))
+        response = await self._llm(
+            entities_identification_prompt,
+            name=f"entities_identification",
+        )
+        filtered_entities_results = response.output or results
+
+        try:
+            if tmp_prompt_dir and prefix:
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}entities_identification_input.txt'), 'w') as f:
+                    f.write(entities_identification_prompt)
+                    f.flush()
+
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}entities_identification_output.txt'), 'w') as f:
+                    f.write(response.output)
+                    f.flush()
+
+        except:
+            pass
 
         # 240805
+        clean_results = _filter_relationships(filtered_entities_results, results)
         conv_output = await self._convert_output(
-            results,
+            clean_results,
             prompt_variables.get(self._tuple_delimiter_key, DEFAULT_TUPLE_DELIMITER),
             prompt_variables.get(self._record_delimiter_key, DEFAULT_RECORD_DELIMITER),
             prompt_variables.get(self._completion_delimiter_key, DEFAULT_COMPLETION_DELIMITER),
             text
         )
+
+        try:
+            if tmp_prompt_dir and prefix:
+                with open(os.path.join(tmp_prompt_dir, f'{prefix}final_output.txt'), 'w') as f:
+                    f.write(clean_results)
+                    f.flush()
+
+        except:
+            pass
 
         results = conv_output
 
@@ -388,37 +410,17 @@ class GraphExtractor:
         if not output:
             return ''
 
-        entity_pattern = re.compile(r'<entity>(.*?)</entity>', re.DOTALL)
-        relationship_pattern = re.compile(r'<relationship>(.*?)</relationship>', re.DOTALL)
-
-        entities = entity_pattern.findall(output)
-        relationships = relationship_pattern.findall(output)
+        entity_list = _extract_entities(output)
+        relationship_list = _extract_relationships(output)
 
         original_format = []
-        for entity in entities:
-            try:
-                root = ET.fromstring(f"<root>{entity}</root>")
-                name = root.find('entity_name').text
-                etype = root.find('entity_type').text
-                desc = root.find('entity_description').text
-                if name and etype and desc:
-                    original_format.append(f'("entity"{tuple_delimiter}{name}{tuple_delimiter}{etype}{tuple_delimiter}{desc})')
-            except:
-                pass
+        for (name, etype, desc) in entity_list:
+            original_format.append(f'("entity"{tuple_delimiter}{name}{tuple_delimiter}{etype}{tuple_delimiter}{desc})')
 
-        for relationship in relationships:
-            try:
-                root = ET.fromstring(f"<root>{relationship}</root>")
-                source = root.find('source_entity').text
-                target = root.find('target_entity').text
-                desc = root.find('relationship_description').text
-                strength = root.find('relationship_strength').text
-                if source and target and desc and strength:
-                    original_format.append(f'("relationship"{tuple_delimiter}{source}{tuple_delimiter}{target}{tuple_delimiter}{desc}{tuple_delimiter}{strength})')
-                    # 240904 save relationship to chromadb
-                    save_new_relationship(input_chunk, source, target, desc, strength)
-            except:
-                pass
+        for (source, target, desc, strength) in relationship_list:
+            original_format.append(f'("relationship"{tuple_delimiter}{source}{tuple_delimiter}{target}{tuple_delimiter}{desc}{tuple_delimiter}{strength})')
+            # 240904 save relationship to chromadb
+            save_new_relationship(input_chunk, source, target, desc, strength)
 
         original_str = ('\n' + record_delimiter + '\n').join(original_format) + '\n' + completion_delimiter
         return original_str
@@ -433,3 +435,88 @@ def _unpack_source_ids(data: Mapping) -> list[str]:
     value = data.get("source_id", None)
     return [] if value is None else value.split(", ")
 
+
+def _extract_entities(text):
+    entity_list = []
+    if not text:
+        return entity_list
+
+    entity_pattern = re.compile(r'<entity>(.*?)</entity>', re.DOTALL)
+    entities = entity_pattern.findall(text)
+
+    for entity in entities:
+        try:
+            root = ET.fromstring(f"<root>{entity}</root>")
+            name = root.find('entity_name').text
+            etype = root.find('entity_type').text
+            desc = root.find('entity_description').text
+            if name and etype and desc:
+                entity_list.append((name, etype, desc))
+        except:
+            pass
+
+    return entity_list
+
+
+def _extract_relationships(text):
+    relationship_list = []
+    if not text:
+        return relationship_list
+
+    relationship_pattern = re.compile(r'<relationship>(.*?)</relationship>', re.DOTALL)
+    relationships = relationship_pattern.findall(text)
+
+    for relationship in relationships:
+        try:
+            root = ET.fromstring(f"<root>{relationship}</root>")
+            source = root.find('source_entity').text
+            target = root.find('target_entity').text
+            desc = root.find('relationship_description').text
+            strength = root.find('relationship_strength').text
+            if source and target and desc and strength:
+                relationship_list.append((source, target, desc, strength))
+        except:
+            pass
+
+    return relationship_list
+
+
+def _convert_entities_to_xml(entity_list):
+    xml_str = []
+    for (name, etype, desc) in entity_list:
+        xml_str.append(f'<entity>\n    <entity_name>{name}</entity_name>\n    <entity_type>{etype}</entity_type>\n    <entity_description>{desc}</entity_description>\n</entity>')
+    return '\n'.join(xml_str)
+
+
+def _convert_relationships_to_xml(relationship_list):
+    xml_str = []
+    for (source, target, desc, strength) in relationship_list:
+        xml_str.append(f'<relationship>\n    <source_entity>{source}</source_entity>\n    <target_entity>{target}</target_entity>\n    <relationship_description>{desc}</relationship_description>\n    <relationship_strength>{strength}</relationship_strength>\n</relationship>')
+    return '\n'.join(xml_str)
+
+
+def _clean_entities_text(text):
+    entity_list = _extract_entities(text)
+    clean_text = _convert_entities_to_xml(entity_list)
+    return clean_text
+
+
+def _clean_relationships_text(text):
+    relationship_list = _extract_relationships(text)
+    clean_text = _convert_relationships_to_xml(relationship_list)
+    return clean_text
+
+
+def _filter_relationships(entity_text, relationship_text):
+    entity_list = _extract_entities(entity_text)
+    relationship_list = _extract_relationships(relationship_text)
+
+    entity_name_list = [name for (name, _, _) in entity_list]
+    filtered_relationships = []
+    for (source, target, desc, strength) in relationship_list:
+        if source in entity_name_list and target in entity_name_list:
+            filtered_relationships.append((source, target, desc, strength))
+
+    clean_entity_text = _convert_entities_to_xml(entity_list)
+    clean_relationship_text = _convert_relationships_to_xml(filtered_relationships)
+    return clean_entity_text + '\n' + clean_relationship_text

@@ -341,3 +341,27 @@ Text:
 
 {input_text}
 '''
+
+GLEANING_PROMPT = '''
+A source text is provided below, along with the entities and relationships extracted from it in XML format. However, some entities or relationships might be missing. Please identify and list the missing ones if any using the same format. Ensure that only entities and relationships explicitly mentioned in the source text are added. Do not create any additional entities or relationships beyond those mentioned in the text. If you are not able to identify any additional ones, just put the single word NOMORE in your reply.
+
+== Source Text
+
+{input_text}
+
+== Entities and Relationships
+
+{previous_output}
+'''
+
+ENTITIES_IDENTIFICATION_PROMPT = '''
+A source text and a list of entities are provided below. Identify all entities whose <entity_name> appears in the source text. Return only the matching entities in their original xml format.
+
+== Source Text
+
+{input_text}
+
+== Entities
+
+{entities}
+'''
