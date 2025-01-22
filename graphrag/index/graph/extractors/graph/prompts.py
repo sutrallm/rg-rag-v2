@@ -365,11 +365,3 @@ A source text and a list of entities are provided below. Identify all entities w
 
 {entities}
 '''
-
-DENOISING_PROMPT = '''
-Reorganise the following text in bullet points. Focus on the principles described; remove the dialogue style and anything related to individuals. Do not omit details. No need to provide headings.
-
-== Text
-
-{input_text}
-'''

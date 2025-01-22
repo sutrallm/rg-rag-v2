@@ -6,6 +6,7 @@ import hashlib
 import pathlib
 import csv
 import pdftotext
+import ollama
 from datetime import datetime
 import graphrag.my_graphrag.db as db
 from graphrag.my_graphrag.raptor import raptor_index
@@ -18,6 +19,18 @@ TMP_CONFIG_DIR = os.path.join(PRJ_DIR, 'output/tmp_config')
 LOG_DIR = os.path.join(FILE_DIR, 'log')
 PROMPTS_DIR = os.path.join(FILE_DIR, 'prompts')
 TMP_PROMPTS_DIR = os.path.join(PROMPTS_DIR, 'tmp')
+DENOISING_PROMPT_DIR = os.path.join(PROMPTS_DIR, 'denoising')
+
+MODEL_NAME = 'llama3.1:8b-instruct-q8_0'
+
+
+DENOISING_PROMPT = '''
+Reorganise the following text in bullet points. Focus on the principles described; remove the dialogue style and anything related to individuals. Do not omit details. No need to provide headings.
+
+== Text
+
+{input_text}
+'''
 
 
 def extract_text_from_pdf(pdf_path, save_txt_file=False):
@@ -35,7 +48,39 @@ def extract_text_from_pdf(pdf_path, save_txt_file=False):
     return pdftotext_text
 
 
-def save_group_and_paper(chunking_option):
+def get_denoising_chunk(original_chunk, group_chunk_idx, denoising_group_dir=''):
+    prompt = DENOISING_PROMPT.format(input_text=original_chunk)
+
+    response = ollama.chat(
+        model=MODEL_NAME,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            },
+        ],
+        options={
+            'temperature': 0.1,
+        }
+    )
+    output = response['message']['content']
+
+    if denoising_group_dir and os.path.isdir(denoising_group_dir):
+        # export input and output
+        prefix = f'denoising_prompt_{group_chunk_idx}'
+
+        with open(os.path.join(denoising_group_dir, f'{prefix}_input.txt'), 'w') as f:
+            f.write(prompt)
+            f.flush()
+
+        with open(os.path.join(denoising_group_dir, f'{prefix}_output.txt'), 'w') as f:
+            f.write(output)
+            f.flush()
+
+    return output
+
+
+def save_group_and_paper(chunking_option, export_prompts):
     cur_group_list = db.get_all_groups()
     cur_paper_list = db.get_all_papers()
 
@@ -96,8 +141,17 @@ def save_group_and_paper(chunking_option):
             if paper_id is None:
                 paper_id = db.save_new_paper(paper_content, paper_name, group_id)
                 chunks = db.split_text_into_chunks(paper_content) if chunking_option else [paper_content]
-                for chunk in chunks:
-                    db.save_new_chunk(chunk, paper_id, group_id)
+
+                denoising_group_dir = ''
+                if export_prompts:
+                    denoising_group_dir = os.path.join(DENOISING_PROMPT_DIR, group_name)
+                    if os.path.isdir(denoising_group_dir):
+                        shutil.rmtree(denoising_group_dir)
+                    os.mkdir(denoising_group_dir)
+
+                for i, chunk in enumerate(chunks):
+                    denoising_chunk = get_denoising_chunk(chunk, i, denoising_group_dir)
+                    db.save_new_chunk(chunk, paper_id, group_id, denoising_chunk)
 
             new_paper_list.append(
                 {
@@ -263,7 +317,12 @@ def main():
 
     log_path = os.path.join(LOG_DIR, 'index_progress_log_%s.csv' % (start_time.strftime('%Y-%m-%d-%H-%M-%S')))
 
-    new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.chunking)
+    if args.export_prompts:
+        if os.path.isdir(DENOISING_PROMPT_DIR):
+            shutil.rmtree(DENOISING_PROMPT_DIR)
+        os.mkdir(DENOISING_PROMPT_DIR)
+
+    new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.chunking, args.export_prompts)
 
     start_time_graphrag = datetime.now()
     if args.graphrag:
@@ -315,6 +374,14 @@ def main():
                 shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR + '-' + group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S'))
 
             if args.export_prompts:
+                denoising_group_dir = os.path.join(DENOISING_PROMPT_DIR, group_name)
+                if os.path.isdir(denoising_group_dir) and os.path.isdir(TMP_PROMPTS_DIR):
+                    for fn in os.listdir(denoising_group_dir):
+                        shutil.move(os.path.join(denoising_group_dir, fn), os.path.join(TMP_PROMPTS_DIR, fn))
+                    shutil.rmtree(denoising_group_dir)
+                if os.path.isdir(DENOISING_PROMPT_DIR) and len(os.listdir(DENOISING_PROMPT_DIR)) == 0:
+                    shutil.rmtree(DENOISING_PROMPT_DIR)
+
                 if os.path.isdir(TMP_PROMPTS_DIR):
                     shutil.move(TMP_PROMPTS_DIR, os.path.join(PROMPTS_DIR, group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S')))
                 else:

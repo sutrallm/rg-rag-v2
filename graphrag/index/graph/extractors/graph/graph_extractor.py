@@ -23,7 +23,7 @@ from graphrag.index.typing import ErrorHandlerFn
 from graphrag.index.utils import clean_str
 from graphrag.llm import CompletionLLM
 
-from .prompts import GRAPH_EXTRACTION_PROMPT, GLEANING_PROMPT, ENTITIES_IDENTIFICATION_PROMPT, DENOISING_PROMPT
+from .prompts import GRAPH_EXTRACTION_PROMPT, GLEANING_PROMPT, ENTITIES_IDENTIFICATION_PROMPT
 
 import xml.etree.ElementTree as ET
 
@@ -158,8 +158,6 @@ class GraphExtractor:
     async def _process_document(
         self, text: str, prompt_variables: dict[str, str]
     ) -> str:
-        original_text = text
-
         tmp_prompt_dir = ''
         prefix = ''
         idx = 1
@@ -172,25 +170,6 @@ class GraphExtractor:
                 prefix = f'index_prompt1_{timestamp}_{random_id}_'
         except:
             pass
-
-        denoising_prompt = DENOISING_PROMPT.format(input_text=original_text)
-        response = await self._llm(
-            denoising_prompt,
-            name=f"denoising",
-        )
-        output = response.output
-
-        await self._export_prompt(
-            prompt_input=denoising_prompt,
-            prompt_output=output,
-            prompt_type_name=f'{idx}_denoising',
-            tmp_prompt_dir=tmp_prompt_dir,
-            prefix=prefix,
-        )
-        idx += 1
-
-        if output:
-            text = output
 
         response = await self._llm(
             self._extraction_prompt,
@@ -238,7 +217,7 @@ class GraphExtractor:
             if i >= self._max_gleanings - 1:
                 break
 
-        entities_identification_prompt = ENTITIES_IDENTIFICATION_PROMPT.format(input_text=original_text, entities=_clean_entities_text(results))
+        entities_identification_prompt = ENTITIES_IDENTIFICATION_PROMPT.format(input_text=text, entities=_clean_entities_text(results))
         response = await self._llm(
             entities_identification_prompt,
             name=f"entities_identification",
@@ -261,7 +240,7 @@ class GraphExtractor:
             prompt_variables.get(self._tuple_delimiter_key, DEFAULT_TUPLE_DELIMITER),
             prompt_variables.get(self._record_delimiter_key, DEFAULT_RECORD_DELIMITER),
             prompt_variables.get(self._completion_delimiter_key, DEFAULT_COMPLETION_DELIMITER),
-            original_text
+            text
         )
 
         try:

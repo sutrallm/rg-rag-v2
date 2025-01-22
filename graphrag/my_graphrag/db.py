@@ -44,7 +44,7 @@ def save_new_item(collection_name: str, documents: str, metadatas: dict):
     return new_ids
 
 
-def get_id(collection_name: str, query_content: str):
+def get_id(collection_name: str, query_content: str, metadatas=''):
     ids = '0'
     try:
         client = chromadb.PersistentClient(path=get_db_path())
@@ -54,8 +54,9 @@ def get_id(collection_name: str, query_content: str):
             all_data = collection.get()
             query_content_clean = re.sub(r'\s+', '', query_content)
             for i in range(len(all_data['ids'])):
-                documents_clean = re.sub(r'\s+', '', all_data['documents'][i])
-                if query_content_clean in documents_clean or query_content in all_data['documents'][i]:
+                documents = all_data['metadatas'][i][metadatas] if metadatas else all_data['documents'][i]
+                documents_clean = re.sub(r'\s+', '', documents)
+                if query_content_clean in documents_clean or query_content in documents:
                     ids = all_data['ids'][i]
                     break
 
@@ -74,8 +75,9 @@ def get_id(collection_name: str, query_content: str):
             for text in split_text:
                 text_clean = re.sub(r'\s+', '', text)
                 for i in range(len(all_data['ids'])):
-                    documents_clean = re.sub(r'\s+', '', all_data['documents'][i])
-                    if text_clean in documents_clean or text in all_data['documents'][i]:
+                    documents = all_data['metadatas'][i][metadatas] if metadatas else all_data['documents'][i]
+                    documents_clean = re.sub(r'\s+', '', documents)
+                    if text_clean in documents_clean or text in documents:
                         ids = all_data['ids'][i]
                         break
                 if ids != '0':
@@ -125,7 +127,7 @@ def save_new_paper(paper_content, paper_name, group_id):
     return paper_id
 
 
-def save_new_chunk(chunk, paper_id, group_id):
+def save_new_chunk(chunk, paper_id, group_id, denoising_chunk):
     # chunk
     # ids: chunk id
     # documents: chunk_content
@@ -137,6 +139,7 @@ def save_new_chunk(chunk, paper_id, group_id):
         {
             'paper_id': paper_id,
             'group_id': group_id,
+            'denoising_chunk': denoising_chunk,
         }
     )
 
@@ -149,7 +152,7 @@ def save_new_relationship(chunk, source_entity_name, target_entity_name, relatio
     # documents: relationship_description
     # metadatas: source entity name, target entity name, relationship description, relationship strength, chunk id
 
-    chunk_id = get_id(COLLECTION_CHUNK, chunk)
+    chunk_id = get_id(COLLECTION_CHUNK, chunk, metadatas='denoising_chunk')
 
     relationship_id = save_new_item(
         COLLECTION_RELATIONSHIP,
@@ -301,6 +304,7 @@ def get_all_chunks():
                     'chunk_content': all_data['documents'][i],
                     'paper_id': all_data['metadatas'][i]['paper_id'],
                     'group_id': all_data['metadatas'][i]['group_id'],
+                    'denoising_chunk': all_data['metadatas'][i]['denoising_chunk'],
                 }
             )
 
@@ -862,7 +866,7 @@ def split_text_into_chunks(text, min_num_char=1000):
 
 def get_chunks_for_graphrag(text):
     paper_id = get_id(COLLECTION_PAPER, text)
-    chunks = [chunk['chunk_content'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
+    chunks = [chunk['denoising_chunk'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
     return chunks
 
 
