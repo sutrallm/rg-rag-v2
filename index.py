@@ -362,6 +362,8 @@ def main():
                 writer.writerow(['Index type', 'GraphRAG'])
                 f.flush()
 
+            db.update_group_id_tmp_file(group_id)
+
             # python -m graphrag.index --root ./ragtest
             p = subprocess.Popen(['python', '-m', 'graphrag.index', '--root', TMP_CONFIG_DIR])
             p.wait()
@@ -392,6 +394,8 @@ def main():
                 writer.writerow(['Run time', end_time_one_group - start_time_one_group])
                 writer.writerow(['End time', end_time_one_group.strftime('%Y-%m-%d-%H-%M-%S')])
                 f.flush()
+
+            db.rm_group_id_tmp_file()
 
     end_time_graphrag = datetime.now()
 

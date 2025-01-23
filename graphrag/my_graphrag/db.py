@@ -9,6 +9,7 @@ from pathlib import Path
 FILE_DIR = Path(os.path.dirname(os.path.realpath(__file__))).parent.parent.absolute()
 DATABASE_PATH = os.path.join(FILE_DIR, './my_graphrag/vector_database')
 DB_TMP_FILE_PATH = os.path.join(FILE_DIR, './my_graphrag/db_tmp_file.txt')
+GROUP_ID_TMP_FILE_PATH = os.path.join(FILE_DIR, './my_graphrag/group_id_tmp_file.txt')
 COLLECTION_GROUP = 'group'
 COLLECTION_PAPER = 'paper'
 COLLECTION_CHUNK = 'chunk'
@@ -45,6 +46,9 @@ def save_new_item(collection_name: str, documents: str, metadatas: dict):
 
 
 def get_id(collection_name: str, query_content: str, metadatas=''):
+    group_id = get_group_id_by_tmp_file()
+    group_id_validity = check_group_id(group_id)
+
     ids = '0'
     try:
         client = chromadb.PersistentClient(path=get_db_path())
@@ -54,6 +58,9 @@ def get_id(collection_name: str, query_content: str, metadatas=''):
             all_data = collection.get()
             query_content_clean = re.sub(r'\s+', '', query_content)
             for i in range(len(all_data['ids'])):
+                if group_id_validity and 'group_id' in all_data['metadatas'][i] and all_data['metadatas'][i]['group_id'] != group_id:
+                    continue
+
                 documents = all_data['metadatas'][i][metadatas] if metadatas else all_data['documents'][i]
                 documents_clean = re.sub(r'\s+', '', documents)
                 if query_content_clean in documents_clean or query_content in documents:
@@ -64,7 +71,8 @@ def get_id(collection_name: str, query_content: str, metadatas=''):
             try:
                 results = collection.query(
                     query_texts=[query_content],
-                    n_results=1
+                    n_results=1,
+                    where=None if not group_id_validity else {'group_id': group_id}
                 )
                 ids = results['ids'][0][0]
             except:
@@ -75,6 +83,9 @@ def get_id(collection_name: str, query_content: str, metadatas=''):
             for text in split_text:
                 text_clean = re.sub(r'\s+', '', text)
                 for i in range(len(all_data['ids'])):
+                    if group_id_validity and 'group_id' in all_data['metadatas'][i] and all_data['metadatas'][i]['group_id'] != group_id:
+                        continue
+
                     documents = all_data['metadatas'][i][metadatas] if metadatas else all_data['documents'][i]
                     documents_clean = re.sub(r'\s+', '', documents)
                     if text_clean in documents_clean or text in documents:
@@ -175,6 +186,9 @@ def save_new_community_report(index_prompt3_input_text, community_report_text, t
     # documents: community report text
     # metadatas: relationship ids, title, summary, rating, rating explanation, findings (<insight> <insight_summary> ... </insight_summary> <insight_explanation> ... </insight_explanation> </insight>)
 
+    group_id = get_group_id_by_tmp_file()
+    _, group_chunk_id_list, _, _, _ = get_ref_ids_for_group(group_id)
+
     descriptions = re.findall(r'</target><description>(.*?)</description>', index_prompt3_input_text, re.DOTALL)
     chunk_id_list = []
 
@@ -188,48 +202,18 @@ def save_new_community_report(index_prompt3_input_text, community_report_text, t
                 n_results=1
             )
 
-            chunk_id_list.append(results['metadatas'][0][0]['chunk_id'])
+            chunk_id = results['metadatas'][0][0]['chunk_id']
+            if chunk_id in group_chunk_id_list:
+                chunk_id_list.append(chunk_id)
 
         chunk_id_list = list(set(chunk_id_list))
 
-    group_id_dict = {}
-    for chunk_id in chunk_id_list:
-        tmp_paper_id, tmp_group_id = get_ref_id_of_chunk(chunk_id)
-        if tmp_group_id:
-            if tmp_group_id not in group_id_dict:
-                group_id_dict[tmp_group_id] = 0
-            group_id_dict[tmp_group_id] += 1
-
-    discard = False
-    group_id = ''
-    keys = list(group_id_dict.keys())
-    if len(keys) == 0:
-        discard = True
-    elif len(keys) == 1:
-        group_id = keys[0]
-    else:
-        max_count = max(list(group_id_dict.values()))
-        max_count_group = []
-        for k, v in group_id_dict.items():
-            if v == max_count:
-                max_count_group.append(k)
-        if len(max_count_group) == 1:
-            group_id = max_count_group[0]
-        else:
-            discard = True
-
-    if not discard and group_id:
-        filter_chunk_id_list = []
-        for chunk_id in chunk_id_list:
-            tmp_paper_id, tmp_group_id = get_ref_id_of_chunk(chunk_id)
-            if tmp_group_id == group_id:
-                filter_chunk_id_list.append(chunk_id)
-
+    if check_group_id(group_id) and chunk_id_list:
         report_id = save_new_item(
             COLLECTION_COMMUNITY_REPORT,
             community_report_text,
             {
-                'chunk_id_list': json.dumps(filter_chunk_id_list),
+                'chunk_id_list': json.dumps(chunk_id_list),
                 'title': title,
                 'summary': summary,
                 'rating': rating,
@@ -834,6 +818,36 @@ def update_db_path(new_db_path):
 def rm_db_tmp_file():
     if os.path.isfile(DB_TMP_FILE_PATH):
         os.remove(DB_TMP_FILE_PATH)
+
+
+def get_group_id_by_tmp_file():
+    try:
+        with open(GROUP_ID_TMP_FILE_PATH, 'r') as f:
+            group_id = f.read()
+        group_id = group_id.strip()
+    except:
+        group_id = ''
+    return group_id
+
+
+def update_group_id_tmp_file(group_id):
+    with open(GROUP_ID_TMP_FILE_PATH, 'w') as f:
+        f.write(group_id)
+        f.flush()
+
+
+def rm_group_id_tmp_file():
+    if os.path.isfile(GROUP_ID_TMP_FILE_PATH):
+        os.remove(GROUP_ID_TMP_FILE_PATH)
+
+
+def check_group_id(group_id):
+    group_exist = False
+    for group in get_all_groups():
+        if group['group_id'] == str(group_id):
+            group_exist = True
+            break
+    return group_exist
 
 
 def split_text_into_chunks(text, min_num_char=1000):
