@@ -25,7 +25,7 @@ MODEL_NAME = 'llama3.1:8b-instruct-q8_0'
 
 
 DENOISING_PROMPT = '''
-Reorganise the following text in bullet points. Focus on the principles described; remove the dialogue style and anything related to individuals. Do not omit details. No need to provide headings.
+Reorganise the following text in bullet points. Focus on the principles described; remove the dialogue style and anything related to individuals. Do not omit details. No need to provide headings. Do not add anything beyond those mentioned in the text.
 
 == Text
 
@@ -62,6 +62,16 @@ def get_denoising_chunk(original_chunk, group_chunk_idx, denoising_group_dir='')
         options={
             'temperature': 0.1,
         }
+        # david suggestion based on Fireworks parameters
+        # options = {
+        #     'num_ctx': 4096,
+        #     'num_predict': 4096,
+        #     'top_p': 1,
+        #     'top_k': 40,
+        #     'presence_penalty': 0,
+        #     'frequency_penalty': 0,
+        #     'temperature': 0.6,
+        # }
     )
     output = response['message']['content']
 
@@ -150,8 +160,9 @@ def save_group_and_paper(chunking_option, export_prompts):
                     os.mkdir(denoising_group_dir)
 
                 for i, chunk in enumerate(chunks):
-                    denoising_chunk = get_denoising_chunk(chunk, i, denoising_group_dir)
-                    db.save_new_chunk(chunk, paper_id, group_id, denoising_chunk)
+                    # TODO denoising stuff
+                    # denoising_chunk = get_denoising_chunk(chunk, i, denoising_group_dir)
+                    db.save_new_chunk(chunk, paper_id, group_id, denoising_chunk='')
 
             new_paper_list.append(
                 {

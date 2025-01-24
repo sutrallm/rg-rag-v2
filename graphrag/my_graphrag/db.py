@@ -138,7 +138,9 @@ def save_new_paper(paper_content, paper_name, group_id):
     return paper_id
 
 
-def save_new_chunk(chunk, paper_id, group_id, denoising_chunk):
+# TODO denoising stuff
+# def save_new_chunk(chunk, paper_id, group_id, denoising_chunk):
+def save_new_chunk(chunk, paper_id, group_id, denoising_chunk=''):
     # chunk
     # ids: chunk id
     # documents: chunk_content
@@ -163,7 +165,9 @@ def save_new_relationship(chunk, source_entity_name, target_entity_name, relatio
     # documents: relationship_description
     # metadatas: source entity name, target entity name, relationship description, relationship strength, chunk id
 
-    chunk_id = get_id(COLLECTION_CHUNK, chunk, metadatas='denoising_chunk')
+    # TODO denoising stuff
+    # chunk_id = get_id(COLLECTION_CHUNK, chunk, metadatas='denoising_chunk')
+    chunk_id = get_id(COLLECTION_CHUNK, chunk)
 
     relationship_id = save_new_item(
         COLLECTION_RELATIONSHIP,
@@ -880,7 +884,9 @@ def split_text_into_chunks(text, min_num_char=1000):
 
 def get_chunks_for_graphrag(text):
     paper_id = get_id(COLLECTION_PAPER, text)
-    chunks = [chunk['denoising_chunk'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
+    # TODO denoising stuff
+    # chunks = [chunk['denoising_chunk'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
+    chunks = [chunk['chunk_content'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
     return chunks
 
 
