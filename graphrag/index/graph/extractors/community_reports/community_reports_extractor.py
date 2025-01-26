@@ -25,6 +25,8 @@ import random
 from datetime import datetime
 from pathlib import Path
 
+import asyncio
+
 log = logging.getLogger(__name__)
 
 
@@ -60,6 +62,24 @@ class CommunityReportsExtractor:
         self._extraction_prompt = extraction_prompt or COMMUNITY_REPORT_PROMPT
         self._on_error = on_error or (lambda _e, _s, _d: None)
         self._max_report_length = max_report_length or 1500
+
+        tmp_prompt_dir = ''
+        prefix = ''
+        try:
+            cur_file_path = Path(os.path.realpath(__file__))
+            tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
+            if os.path.isdir(tmp_prompt_dir):
+                now = datetime.now()
+                timestamp = now.strftime("%Y%m%d%H%M%S") + f"_{now.microsecond:06d}"
+                random_id = random.randint(100000, 999999)
+                prefix = f'index_prompt3_{timestamp}_{random_id}_'
+        except:
+            pass
+
+        self._tmp_prompt_dir = tmp_prompt_dir
+        self._prefix = prefix
+
+        self._lock = asyncio.Lock()
 
     async def __call__(self, inputs: dict[str, Any]):
         """Call method definition."""
@@ -103,26 +123,11 @@ class CommunityReportsExtractor:
 
             converted_output1 = self._convert_output(output1)
 
-            tmp_prompt_dir = ''
-            prefix = ''
-            try:
-                cur_file_path = Path(os.path.realpath(__file__))
-                tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
-                if os.path.isdir(tmp_prompt_dir):
-                    timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-                    random_id = random.randint(100000, 999999)
-                    prefix = f'index_prompt3_{timestamp}_{random_id}_'
-
-                    with open(os.path.join(tmp_prompt_dir, f'{prefix}1_input.txt'), 'w') as f:
-                        f.write(COMMUNITY_REPORT_PROMPT.format(input_text=converted_input))
-                        f.flush()
-
-                    with open(os.path.join(tmp_prompt_dir, f'{prefix}1_output.txt'), 'w') as f:
-                        f.write(output1)
-                        f.flush()
-
-            except:
-                pass
+            await self._export_prompt(
+                prompt_input=COMMUNITY_REPORT_PROMPT.format(input_text=converted_input),
+                prompt_output=output1,
+                prompt_type_name='1',
+            )
 
             # 240808 try 2 times
             if converted_output1:
@@ -143,18 +148,11 @@ class CommunityReportsExtractor:
 
                 converted_output2 = self._convert_output(output2)
 
-                try:
-                    if tmp_prompt_dir and prefix:
-                        with open(os.path.join(tmp_prompt_dir, f'{prefix}2_input.txt'), 'w') as f:
-                            f.write(COMMUNITY_REPORT_PROMPT2.format(input_text=converted_input))
-                            f.flush()
-
-                        with open(os.path.join(tmp_prompt_dir, f'{prefix}2_output.txt'), 'w') as f:
-                            f.write(output2)
-                            f.flush()
-
-                except:
-                    pass
+                await self._export_prompt(
+                    prompt_input=COMMUNITY_REPORT_PROMPT2.format(input_text=converted_input),
+                    prompt_output=output2,
+                    prompt_type_name='2',
+                )
 
                 if converted_output2:
                     success2 = True
@@ -347,4 +345,25 @@ class CommunityReportsExtractor:
             pass
 
         return result
+
+    async def _export_prompt(
+            self,
+            prompt_input: str,
+            prompt_output: str,
+            prompt_type_name: str,
+    ) -> None:
+        async with self._lock:
+            try:
+                tmp_prompt_dir = self._tmp_prompt_dir
+                prefix = self._prefix
+                if tmp_prompt_dir and prefix:
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}{prompt_type_name}_input.txt'), 'w') as f:
+                            f.write(prompt_input)
+                            f.flush()
+
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}{prompt_type_name}_output.txt'), 'w') as f:
+                            f.write(prompt_output)
+                            f.flush()
+            except:
+                pass
 

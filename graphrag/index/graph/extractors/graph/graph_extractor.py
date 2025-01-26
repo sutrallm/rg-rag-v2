@@ -29,6 +29,8 @@ import xml.etree.ElementTree as ET
 
 from graphrag.my_graphrag.db import save_new_relationship
 
+import asyncio
+
 DEFAULT_TUPLE_DELIMITER = "<|>"
 DEFAULT_RECORD_DELIMITER = "##"
 DEFAULT_COMPLETION_DELIMITER = "<|COMPLETE|>"
@@ -102,6 +104,24 @@ class GraphExtractor:
         no = encoding.encode("NO")
         self._loop_args = {"logit_bias": {yes[0]: 100, no[0]: 100}, "max_tokens": 1}
 
+        tmp_prompt_dir = ''
+        prefix = ''
+        try:
+            cur_file_path = Path(os.path.realpath(__file__))
+            tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
+            if os.path.isdir(tmp_prompt_dir):
+                now = datetime.now()
+                timestamp = now.strftime("%Y%m%d%H%M%S") + f"_{now.microsecond:06d}"
+                random_id = random.randint(100000, 999999)
+                prefix = f'index_prompt1_{timestamp}_{random_id}_'
+        except:
+            pass
+
+        self._tmp_prompt_dir = tmp_prompt_dir
+        self._prefix = prefix
+
+        self._lock = asyncio.Lock()
+
     async def __call__(
         self, texts: list[str], prompt_variables: dict[str, Any] | None = None
     ) -> GraphExtractionResult:
@@ -158,18 +178,7 @@ class GraphExtractor:
     async def _process_document(
         self, text: str, prompt_variables: dict[str, str]
     ) -> str:
-        tmp_prompt_dir = ''
-        prefix = ''
         idx = 1
-        try:
-            cur_file_path = Path(os.path.realpath(__file__))
-            tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
-            if os.path.isdir(tmp_prompt_dir):
-                timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-                random_id = random.randint(100000, 999999)
-                prefix = f'index_prompt1_{timestamp}_{random_id}_'
-        except:
-            pass
 
         response = await self._llm(
             self._extraction_prompt,
@@ -185,8 +194,6 @@ class GraphExtractor:
             prompt_input=self._extraction_prompt.format(input_text=text),
             prompt_output=results,
             prompt_type_name=f'{idx}_extraction',
-            tmp_prompt_dir=tmp_prompt_dir,
-            prefix=prefix,
         )
         idx += 1
 
@@ -203,8 +210,6 @@ class GraphExtractor:
                 prompt_input=gleaning_prompt,
                 prompt_output=response.output,
                 prompt_type_name=f'{idx}_gleaning{i}',
-                tmp_prompt_dir=tmp_prompt_dir,
-                prefix=prefix,
             )
             idx += 1
 
@@ -228,8 +233,6 @@ class GraphExtractor:
             prompt_input=entities_identification_prompt,
             prompt_output=response.output,
             prompt_type_name=f'{idx}_entities_identification',
-            tmp_prompt_dir=tmp_prompt_dir,
-            prefix=prefix,
         )
         idx += 1
 
@@ -243,14 +246,14 @@ class GraphExtractor:
             text
         )
 
-        try:
-            if tmp_prompt_dir and prefix:
-                with open(os.path.join(tmp_prompt_dir, f'{prefix}final_output.txt'), 'w') as f:
-                    f.write(clean_results)
-                    f.flush()
-
-        except:
-            pass
+        async with self._lock:
+            try:
+                if self._tmp_prompt_dir and self._prefix:
+                    with open(os.path.join(self._tmp_prompt_dir, f'{self._prefix}final_output.txt'), 'w') as f:
+                        f.write(clean_results)
+                        f.flush()
+            except:
+                pass
 
         results = conv_output
 
@@ -423,20 +426,21 @@ class GraphExtractor:
             prompt_input: str,
             prompt_output: str,
             prompt_type_name: str,
-            tmp_prompt_dir: str,
-            prefix: str,
     ) -> None:
-        try:
-            if tmp_prompt_dir and prefix:
-                with open(os.path.join(tmp_prompt_dir, f'{prefix}{prompt_type_name}_input.txt'), 'w') as f:
-                    f.write(prompt_input)
-                    f.flush()
+        async with self._lock:
+            try:
+                tmp_prompt_dir = self._tmp_prompt_dir
+                prefix = self._prefix
+                if tmp_prompt_dir and prefix:
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}{prompt_type_name}_input.txt'), 'w') as f:
+                            f.write(prompt_input)
+                            f.flush()
 
-                with open(os.path.join(tmp_prompt_dir, f'{prefix}{prompt_type_name}_output.txt'), 'w') as f:
-                    f.write(prompt_output)
-                    f.flush()
-        except:
-            pass
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}{prompt_type_name}_output.txt'), 'w') as f:
+                            f.write(prompt_output)
+                            f.flush()
+            except:
+                pass
 
 
 def _unpack_descriptions(data: Mapping) -> list[str]:

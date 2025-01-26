@@ -16,6 +16,8 @@ from graphrag.llm import CompletionLLM
 
 from .prompts import SUMMARIZE_PROMPT
 
+import asyncio
+
 # Max token size for input prompts
 DEFAULT_MAX_INPUT_TOKENS = 4_000
 # Max token count for LLM answers
@@ -63,6 +65,24 @@ class SummarizeExtractor:
         self._on_error = on_error or (lambda _e, _s, _d: None)
         self._max_summary_length = max_summary_length or DEFAULT_MAX_SUMMARY_LENGTH
         self._max_input_tokens = max_input_tokens or DEFAULT_MAX_INPUT_TOKENS
+
+        tmp_prompt_dir = ''
+        prefix = ''
+        try:
+            cur_file_path = Path(os.path.realpath(__file__))
+            tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
+            if os.path.isdir(tmp_prompt_dir):
+                now = datetime.now()
+                timestamp = now.strftime("%Y%m%d%H%M%S") + f"_{now.microsecond:06d}"
+                random_id = random.randint(100000, 999999)
+                prefix = f'index_prompt2_{timestamp}_{random_id}_'
+        except:
+            pass
+
+        self._tmp_prompt_dir = tmp_prompt_dir
+        self._prefix = prefix
+
+        self._lock = asyncio.Lock()
 
     async def __call__(
         self,
@@ -139,23 +159,31 @@ class SummarizeExtractor:
         )
         # Calculate result
 
-        try:
-            cur_file_path = Path(os.path.realpath(__file__))
-            tmp_prompt_dir = os.path.join(cur_file_path.parents[5], 'prompts', 'tmp')
-            if os.path.isdir(tmp_prompt_dir):
-                timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-                random_id = random.randint(100000, 999999)
-                prefix = f'index_prompt2_{timestamp}_{random_id}_'
-
-                with open(os.path.join(tmp_prompt_dir, f'{prefix}input.txt'), 'w') as f:
-                    f.write(self._summarization_prompt.format(entity_name=json.dumps(items), description_list=json.dumps(sorted(descriptions))))
-                    f.flush()
-
-                with open(os.path.join(tmp_prompt_dir, f'{prefix}output.txt'), 'w') as f:
-                    f.write(str(response.output))
-                    f.flush()
-
-        except:
-            pass
+        await self._export_prompt(
+            prompt_input=self._summarization_prompt.format(entity_name=json.dumps(items), description_list=json.dumps(sorted(descriptions))),
+            prompt_output=str(response.output),
+            prompt_type_name='',
+        )
 
         return str(response.output)
+
+    async def _export_prompt(
+            self,
+            prompt_input: str,
+            prompt_output: str,
+            prompt_type_name: str,
+    ) -> None:
+        async with self._lock:
+            try:
+                tmp_prompt_dir = self._tmp_prompt_dir
+                prefix = self._prefix
+                if tmp_prompt_dir and prefix:
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}{prompt_type_name}_input.txt'), 'w') as f:
+                            f.write(prompt_input)
+                            f.flush()
+
+                    with open(os.path.join(tmp_prompt_dir, f'{prefix}{prompt_type_name}_output.txt'), 'w') as f:
+                            f.write(prompt_output)
+                            f.flush()
+            except:
+                pass
