@@ -378,9 +378,59 @@ python query.py [options]
   <summary>Query the Diamond sutra</summary>
 
   ```
-  $  python query.py --db_path ./my_graphrag/vector_db_diamond/ -q "what is the meaning of pain?"
-  
-  
+  $  python query.py --db_path ./my_graphrag/vector_db_diamond/ -q "what is the meaning of suffering?"
+
+  GraphRAG + Raptor query ...
+  Number of requested results 20 is greater than number of elements in index 1, updating n_results = 1
+  Number of requested results 20 is greater than number of elements in index 17, updating n_results = 17
+  --- final answer ---
+  <question>
+  what is the meaning of suffering?
+  </question>
+
+  <answer>
+  **The Meaning of Suffering**
+
+  Suffering is a complex and multifaceted concept that is deeply intertwined with the notion of self. According to Buddhist teachings, suffering arises from our attachment to the idea of a permanent and fixed self. This attachment creates a sense of separation and distinction between ourselves and others, leading to feelings of dissatisfaction, anxiety, and pain.
+
+  The Tathagata emphasizes that clinging to the concept of self is an illusion that prevents us from understanding the true nature of reality. Non-attachment to the notion of self is essential for spiritual growth and enlightenment, as it allows us to transcend our limited perspectives and experience a deeper sense of interconnectedness with all phenomena.
+
+  Suffering is also closely related to the idea of impermanence and the lack of inherent existence in all things. The Tathagata teaches that all phenomena are transient and lack enduring existence, which can lead to feelings of uncertainty and insecurity. However, this understanding can also be a catalyst for spiritual growth, as it encourages us to let go of our attachments and cultivate a sense of detachment.
+
+  In Buddhist teachings, suffering is seen as a fundamental aspect of the human experience that arises from our ignorance of the true nature of reality. The ultimate goal of Bodhisattvas is to lead all sentient beings to Anuttara-samyak-sambodhi, the highest state of enlightenment, which implies liberation from suffering.
+
+  The concept of non-attachment is essential for achieving enlightenment and promoting compassion for all sentient beings. This involves letting go of attachments to concepts such as self, person, being, or lifespan, and cultivating a sense of detachment that allows us to see things as they truly are.
+
+  Suffering can also be understood in relation to the concept of Nirvana, which represents a state of being that is free from suffering, rebirth, and attachment. The attainment of Nirvana serves as a model for others to follow, emphasizing the potential for spiritual growth and enlightenment.
+
+  Ultimately, the meaning of suffering is deeply connected to our understanding of the nature of reality and our place within it. By cultivating a deeper understanding of the impermanence and interconnectedness of all phenomena, we can begin to transcend our limited perspectives and experience a sense of liberation from suffering.
+
+  **Key Aspects of Suffering**
+
+  1. **Attachment to self**: Clinging to the idea of a permanent and fixed self creates a sense of separation and distinction between ourselves and others, leading to feelings of dissatisfaction, anxiety, and pain.
+  2. **Impermanence**: The understanding that all phenomena are transient and lack enduring existence can lead to feelings of uncertainty and insecurity.
+  3. **Non-attachment**: Letting go of attachments to concepts such as self, person, being, or lifespan is essential for achieving enlightenment and promoting compassion for all sentient beings.
+  4. **Interconnectedness**: Recognizing the interconnectedness of all phenomena allows us to transcend our limited perspectives and experience a deeper sense of unity with all things.
+  5. **Nirvana**: The attainment of Nirvana represents a state of being that is free from suffering, rebirth, and attachment.
+
+  **Implications for Spiritual Growth**
+
+  1. **Cultivating detachment**: Letting go of attachments to concepts such as self, person, being, or lifespan allows us to cultivate a sense of detachment that enables us to see things as they truly are.
+  2. **Understanding impermanence**: Recognizing the impermanence of all phenomena encourages us to let go of our attachments and cultivate a sense of acceptance and equanimity.
+  3. **Developing compassion**: Cultivating non-attachment and understanding the interconnectedness of all phenomena allows us to develop compassion for all sentient beings.
+  4. **Achieving enlightenment**: The ultimate goal of Bodhisattvas is to lead all sentient beings to Anuttara-samyak-sambodhi, the highest state of enlightenment, which implies liberation from suffering.
+
+  **Conclusion**
+
+  Suffering is a complex and multifaceted concept that arises from our attachment to the idea of a permanent and fixed self. By cultivating non-attachment, understanding impermanence, and recognizing the interconnectedness of all phenomena, we can begin to transcend our limited perspectives and experience a sense of liberation from suffering. Ultimately, the meaning of suffering is deeply connected to our understanding of the nature of reality and our place within it.
+  </answer>
+
+  <reference>
+  diamond: diamond-en
+  </reference>
+
+  --- final answer ---
+  run time: 0:00:53.279285
   ```
 </details>
 
