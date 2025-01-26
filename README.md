@@ -31,17 +31,17 @@ ollama list
 ### Prepare documents
 Copy some documents into the `input_groups` folder:
 ```bash
-$ ls -al my_graphrag/input_groups/
-total 12
-drwxrwxr-x 3 ohho ohho 4096 Sep 30 10:44 .
-drwxrwxr-x 7 ohho ohho 4096 Sep 30 10:42 ..
-drwxrwxr-x 2 ohho ohho 4096 Sep 30 10:44 heart
+$ ls -alh my_graphrag/input_groups/
+total 12K
+drwxrwxr-x  3 user2 user2 4.0K Jan 26 15:20 .
+drwxrwxr-x 15 user2 user2 4.0K Jan 26 15:13 ..
+drwxrwxr-x  2 user2 user2 4.0K Jan 26 15:20 diamond
 
-$ ls -al my_graphrag/input_groups/heart/
-total 12
-drwxrwxr-x 2 ohho ohho 4096 Sep 30 10:44 .
-drwxrwxr-x 3 ohho ohho 4096 Sep 30 10:44 ..
--rw-r--r-- 1 ohho ohho 1492 Sep 30 10:44 the-heart-sutra.txt
+$ ls -alh my_graphrag/input_groups/diamond/
+total 40K
+drwxrwxr-x 2 user2 user2 4.0K Jan 26 15:20 .
+drwxrwxr-x 3 user2 user2 4.0K Jan 26 15:20 ..
+-rw-r--r-- 1 user2 user2  29K Jan 26 15:19 diamond-en.txt
 ```
 
 ### Index
@@ -61,18 +61,54 @@ python index.py [options]
 | `--del_option` | `-o` | `str`    | `all`                           | Options: ['all', 'graphrag', 'raptor']. Choose which part you want to delete in the group.                                      |
 | `--export_prompts`      |   | `bool`   | `False`                         | If True, export the input and output text of all 3 index prompts to prompts folder. If False, skip exporting. Default is False. |
 <details>
-  <summary>Typical output...</summary>
+  <summary>Index the Diamond sutra</summary>
 
   ```
-  $ python index.py
-  🚀 Reading settings from /home/ohho/codes/david/rg-rag-sutra/my_graphrag/output/tmp_config/settings.yaml
-  🚀 create_base_text_units
-                                   id  ... n_tokens
-  0  ac67bbf50ea59187cea5947b4e482e79  ...      300
-  1  0650fd69f66ac0d668f05d218942ac62  ...      201
-  2  7d902ccc1d6328cdf06ab78c6a43b5f8  ...        1
+  $ python index.py --db_path ./my_graphrag/vector_db_diamond/
   
-  [3 rows x 5 columns]
+  🚀 Reading settings from /home/user2/rg-rag-02/my_graphrag/output/tmp_config/settings.yaml
+  🚀 create_base_text_units
+                                    id  ... n_tokens
+  0   46537e893c14ae2e90018efca560b02f  ...      300
+  1   0c6d1237424d5858a69b554ce4b0cb28  ...      300
+  2   df28ae9610870345f62ce9897751fe3f  ...      121
+  3   b0e5dadd3ff4483ce4d97f3fdbb82a38  ...      300
+  4   54a89f340e7905b3663c8aa264c9bc3c  ...      300
+  5   9c92731278f57dd628524ceb6b64a30b  ...      300
+  6   d3769b2dc8bb800bcfea164265fd6353  ...      300
+  7   10340e865bfce75239b2992b0c5a44ea  ...      300
+  8   26c46f8070266944c29f76139a31d018  ...      300
+  9   f73974e8dff7b296bbe7746c4661a0fc  ...      300
+  10  38f8e3880b7a228945d44a068f6c0fcf  ...      300
+  11  5c06814e27f34cf5abe365a429a531a4  ...      300
+  12  bca6329d816ee1913a85a40dd7205aa8  ...      300
+  13  0f113b68cd94d981f44da57e7f8dc253  ...      300
+  14  2e6301f72dc7a7c0a69367e68751602f  ...      300
+  15  db3ac6eca284ddfbfb7068a7da56a505  ...      300
+  16  862980b81300473c47d1ad0f61b49469  ...      300
+  17  780fb493f07946a741b4526b9bb42a20  ...      300
+  18  c7b2180beb4b526d2c73fa005721cf76  ...      300
+  19  31cf4ea605ebf44b5f6a4c96e1c8d644  ...      300
+  20  949f147964ec2017a5b591de2264528e  ...      300
+  21  be93d980546b9af0c87b14b20565ba85  ...      300
+  22  d0d64db8e8ea5582dd2f03db84e52d31  ...      300
+  23  5a1a4fd0d8fac99cd7afa35659b8bf29  ...      300
+  24  1d86c14e76974deeb80751bd617308fb  ...      300
+  25  1c65f13918a96d13d3d75d8f106d3196  ...      300
+  26  483f9e4c6097de34ed65b71f0cb89ff0  ...      300
+  27  720a05238ff4b85665cbc0f8f781d2ee  ...      300
+  28  b34078be4f92ec3d9a984a068a878a46  ...      300
+  29  0932d2e4414c41c098e3bdbe96d47ca6  ...      300
+  30  3d98b1afd2e209a6301f31c9b497d3b4  ...      300
+  31  304d5a3144cc066881b165ae658b05eb  ...      300
+  32  8b1ada13ed9bad56010f5b0eb6db7500  ...      300
+  33  a81ea2c3169cf85b359216af3ed911b7  ...      300
+  34  87ddb2fe0952bee211b7934c047c3dc1  ...      300
+  35  28df9a0fe28d1c5ab0f125d95a43a714  ...      300
+  36  99ff8cbaff897ee5478df6c008dc871e  ...      251
+  37  e6eacdac5fae829f1486ef2bdba5daff  ...       51
+
+  [38 rows x 5 columns]
   🚀 create_base_extracted_entities
                                           entity_graph
   0  <graphml xmlns="http://graphml.graphdrawing.or...
@@ -83,105 +119,210 @@ python index.py [options]
      level                                    clustered_graph
   0      0  <graphml xmlns="http://graphml.graphdrawing.or...
   1      1  <graphml xmlns="http://graphml.graphdrawing.or...
+  2      2  <graphml xmlns="http://graphml.graphdrawing.or...
   🚀 create_final_entities
-                                    id  ...                              description_embedding
-  0   b45241d70f0e43fca764df95b2b81f77  ...  [0.9320005774497986, 1.397796392440796, -3.174...
-  1   4119fd06010c494caa07f439b333f4c5  ...  [0.24602527916431427, 1.054911494255066, -2.92...
-  2   d3835bf3dda84ead99deadbeac5d0d7d  ...  [0.41057634353637695, 1.5639721155166626, -3.4...
-  3   077d2820ae1845bcbb1803379a3d1eae  ...  [-0.05211891978979111, 1.8968952894210815, -3....
-  4   3671ea0dd4e84c1a9b02c5ab2c8f4bac  ...  [0.20558682084083557, 1.4166734218597412, -3.1...
-  ..                               ...  ...                                                ...
-  72  fa3c4204421c48609e52c8de2da4c654  ...  [-0.23991772532463074, 1.334349274635315, -3.4...
-  73  53af055f068244d0ac861b2e89376495  ...  [-0.057600777596235275, 0.6985769271850586, -3...
-  74  c03ab3ce8cb74ad2a03b94723bfab3c7  ...  [-0.2641189694404602, 1.2557107210159302, -3.4...
-  75  ed6d2eee9d7b4f5db466b1f6404d31cc  ...  [0.3077894151210785, 0.9161084294319153, -4.18...
-  76  fc01e9baa80e417c9206f941bb279407  ...  [-0.8715166449546814, 1.3191969394683838, -3.7...
-  
-  [77 rows x 8 columns]
+                                     id  ...                              description_embedding
+  0    b45241d70f0e43fca764df95b2b81f77  ...  [-0.5144325494766235, 1.35825777053833, -3.503...
+  1    4119fd06010c494caa07f439b333f4c5  ...  [0.2921435534954071, 1.5305653810501099, -3.20...
+  2    d3835bf3dda84ead99deadbeac5d0d7d  ...  [0.07312427461147308, 1.9807318449020386, -3.3...
+  3    077d2820ae1845bcbb1803379a3d1eae  ...  [-0.831592321395874, 1.4747486114501953, -3.20...
+  4    3671ea0dd4e84c1a9b02c5ab2c8f4bac  ...  [0.2537393569946289, 1.6637612581253052, -3.35...
+  ..                                ...  ...                                                ...
+  125  ce54725672a74ebcabe6127577dacb2b  ...  [0.797076404094696, 0.660879373550415, -4.0441...
+  126  ea2b28ca1a974ffab4517811dc1d1e5c  ...  [1.04007089138031, 1.6592302322387695, -3.6066...
+  127  aff21f1da1654e7babdcf3fb0e4a75fc  ...  [-0.3070426285266876, 0.7706987857818604, -3.7...
+  128  dc2cc9016e3f49dbac7232f05cce794d  ...  [0.8703882098197937, 0.5144550800323486, -4.22...
+  129  6ea0cef05f694dcea455478f40674e45  ...  [1.0551612377166748, 1.498018503189087, -3.959...
+
+  [130 rows x 8 columns]
   🚀 create_final_nodes
-       level                      title          type  ...                 top_level_node_id  x  y
-  0        0  BODHISATTVA OF COMPASSION        PERSON  ...  b45241d70f0e43fca764df95b2b81f77  0  0
-  1        0              PRAJNA WISDOM       CONCEPT  ...  4119fd06010c494caa07f439b333f4c5  0  0
-  2        0                    NIRVANA       CONCEPT  ...  d3835bf3dda84ead99deadbeac5d0d7d  0  0
-  3        0                BODHISATTVA        PERSON  ...  077d2820ae1845bcbb1803379a3d1eae  0  0
-  4        0                      SUTRA          TEXT  ...  3671ea0dd4e84c1a9b02c5ab2c8f4bac  0  0
-  ..     ...                        ...           ...  ...                               ... .. ..
-  149      1           PRESS_CONFERENCE         EVENT  ...  fa3c4204421c48609e52c8de2da4c654  0  0
-  150      1               RELEASE_DATE  EVENT_DETAIL  ...  53af055f068244d0ac861b2e89376495  0  0
-  151      1               RELEASE_TIME  EVENT_DETAIL  ...  c03ab3ce8cb74ad2a03b94723bfab3c7  0  0
-  152      1               EVENT_DETAIL  EVENT_DETAIL  ...  ed6d2eee9d7b4f5db466b1f6404d31cc  0  0
-  153      1                    SERVICE       SERVICE  ...  fc01e9baa80e417c9206f941bb279407  0  0
-  
-  [154 rows x 15 columns]
+       level         title        type  ...                 top_level_node_id  x  y
+  0        0  BODHISATTVAS       GROUP  ...  b45241d70f0e43fca764df95b2b81f77  0  0
+  1        0       SUBHUTI      PERSON  ...  4119fd06010c494caa07f439b333f4c5  0  0
+  2        0     TATHAGATA      PERSON  ...  d3835bf3dda84ead99deadbeac5d0d7d  0  0
+  3        0    MHASATTVAS       GROUP  ...  077d2820ae1845bcbb1803379a3d1eae  0  0
+  4        0       NIRVANA     CONCEPT  ...  3671ea0dd4e84c1a9b02c5ab2c8f4bac  0  0
+  ..     ...           ...         ...  ...                               ... .. ..
+  385      2     ILLUSIONS     CONCEPT  ...  ce54725672a74ebcabe6127577dacb2b  0  0
+  386      2       BUBBLES     CONCEPT  ...  ea2b28ca1a974ffab4517811dc1d1e5c  0  0
+  387      2        SADOWS     CONCEPT  ...  aff21f1da1654e7babdcf3fb0e4a75fc  0  0
+  388      2           DEW  PHENOMENON  ...  dc2cc9016e3f49dbac7232f05cce794d  0  0
+  389      2     LIGHTNING  PHENOMENON  ...  6ea0cef05f694dcea455478f40674e45  0  0
+
+  [390 rows x 14 columns]
   🚀 create_final_communities
-    id        title  ...                                   relationship_ids                       text_unit_ids
-  0  1  Community 1  ...  [6ea81acaf232485e94fff638e03336e1, d136b08d586...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  1  0  Community 0  ...  [af1d0fec22114a3398b8016f5225f9ed, b07a7f08836...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  2  3  Community 3  ...  [353d91abc68648639d65a549e59b5cf3, 7ce637e4f35...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  3  2  Community 2  ...  [9a6f414210e14841a5b0e661aedc898d, 30c9641543c...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  4  7  Community 7  ...  [6ea81acaf232485e94fff638e03336e1, d136b08d586...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  5  5  Community 5  ...  [af1d0fec22114a3398b8016f5225f9ed, b07a7f08836...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  6  8  Community 8  ...  [eeef6ae5c464400c8755900b4f1ac37a, cccfa151fed...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  7  6  Community 6  ...  [422433aa45804c7ebb973b2fafce5da6, 86505bca739...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  8  4  Community 4  ...  [1af9faf341e14a5bbf4ddc9080e8dc0b, 8870cf2b5df...  [7d902ccc1d6328cdf06ab78c6a43b5f8]
-  
-  [9 rows x 6 columns]
+      id  ...                                      text_unit_ids
+  0    4  ...                 [0c6d1237424d5858a69b554ce4b0cb28]
+  1    0  ...  [0932d2e4414c41c098e3bdbe96d47ca6,0c6d1237424d...
+  2    1  ...  [0c6d1237424d5858a69b554ce4b0cb28,9c92731278f5...
+  3    3  ...  [949f147964ec2017a5b591de2264528e,9c92731278f5...
+  4    5  ...                 
+  5    2  ...  [99ff8cbaff897ee5478df6c008dc871e,d3769b2dc8bb...
+  6    6  ...  [0932d2e4414c41c098e3bdbe96d47ca6,0c6d1237424d...
+  7    9  ...  [0c6d1237424d5858a69b554ce4b0cb28,9c92731278f5...
+  8   10  ...  [1c65f13918a96d13d3d75d8f106d3196,1d86c14e7697...
+  9    7  ...  [483f9e4c6097de34ed65b71f0cb89ff0,54a89f340e79...
+  10  13  ...  [949f147964ec2017a5b591de2264528e,9c92731278f5...
+  11   8  ...  [0932d2e4414c41c098e3bdbe96d47ca6,1d86c14e7697...
+  12  11  ...  [0932d2e4414c41c098e3bdbe96d47ca6,0f113b68cd94...
+  13  12  ...  [31cf4ea605ebf44b5f6a4c96e1c8d644,5c06814e27f3...
+  14  14  ...  [949f147964ec2017a5b591de2264528e,9c92731278f5...
+  15  15  ...                 [10340e865bfce75239b2992b0c5a44ea]
+  16  16  ...  [0f113b68cd94d981f44da57e7f8dc253,2e6301f72dc7...
+
+  [17 rows x 6 columns]
   🚀 join_text_units_to_entity_ids
-                        text_unit_ids                                         entity_ids                                id
-  0  ac67bbf50ea59187cea5947b4e482e79  [b45241d70f0e43fca764df95b2b81f77, 4119fd06010...  ac67bbf50ea59187cea5947b4e482e79
-  1  0650fd69f66ac0d668f05d218942ac62  [4119fd06010c494caa07f439b333f4c5, d3835bf3dda...  0650fd69f66ac0d668f05d218942ac62
-  2  7d902ccc1d6328cdf06ab78c6a43b5f8  [147c038aef3e4422acbbc5f7938c4ab8, b7702b90c7f...  7d902ccc1d6328cdf06ab78c6a43b5f8
+                         text_unit_ids  ...                                id
+  0   0c6d1237424d5858a69b554ce4b0cb28  ...  0c6d1237424d5858a69b554ce4b0cb28
+  1   0932d2e4414c41c098e3bdbe96d47ca6  ...  0932d2e4414c41c098e3bdbe96d47ca6
+  2   0f113b68cd94d981f44da57e7f8dc253  ...  0f113b68cd94d981f44da57e7f8dc253
+  3   10340e865bfce75239b2992b0c5a44ea  ...  10340e865bfce75239b2992b0c5a44ea
+  4   1c65f13918a96d13d3d75d8f106d3196  ...  1c65f13918a96d13d3d75d8f106d3196
+  5   1d86c14e76974deeb80751bd617308fb  ...  1d86c14e76974deeb80751bd617308fb
+  6   28df9a0fe28d1c5ab0f125d95a43a714  ...  28df9a0fe28d1c5ab0f125d95a43a714
+  7   2e6301f72dc7a7c0a69367e68751602f  ...  2e6301f72dc7a7c0a69367e68751602f
+  8   304d5a3144cc066881b165ae658b05eb  ...  304d5a3144cc066881b165ae658b05eb
+  9   31cf4ea605ebf44b5f6a4c96e1c8d644  ...  31cf4ea605ebf44b5f6a4c96e1c8d644
+  10  3d98b1afd2e209a6301f31c9b497d3b4  ...  3d98b1afd2e209a6301f31c9b497d3b4
+  11  483f9e4c6097de34ed65b71f0cb89ff0  ...  483f9e4c6097de34ed65b71f0cb89ff0
+  12  54a89f340e7905b3663c8aa264c9bc3c  ...  54a89f340e7905b3663c8aa264c9bc3c
+  13  5a1a4fd0d8fac99cd7afa35659b8bf29  ...  5a1a4fd0d8fac99cd7afa35659b8bf29
+  14  5c06814e27f34cf5abe365a429a531a4  ...  5c06814e27f34cf5abe365a429a531a4
+  15  720a05238ff4b85665cbc0f8f781d2ee  ...  720a05238ff4b85665cbc0f8f781d2ee
+  16  862980b81300473c47d1ad0f61b49469  ...  862980b81300473c47d1ad0f61b49469
+  17  87ddb2fe0952bee211b7934c047c3dc1  ...  87ddb2fe0952bee211b7934c047c3dc1
+  18  8b1ada13ed9bad56010f5b0eb6db7500  ...  8b1ada13ed9bad56010f5b0eb6db7500
+  19  949f147964ec2017a5b591de2264528e  ...  949f147964ec2017a5b591de2264528e
+  20  99ff8cbaff897ee5478df6c008dc871e  ...  99ff8cbaff897ee5478df6c008dc871e
+  21  9c92731278f57dd628524ceb6b64a30b  ...  9c92731278f57dd628524ceb6b64a30b
+  22  a81ea2c3169cf85b359216af3ed911b7  ...  a81ea2c3169cf85b359216af3ed911b7
+  23  b34078be4f92ec3d9a984a068a878a46  ...  b34078be4f92ec3d9a984a068a878a46
+  24  bca6329d816ee1913a85a40dd7205aa8  ...  bca6329d816ee1913a85a40dd7205aa8
+  25  c7b2180beb4b526d2c73fa005721cf76  ...  c7b2180beb4b526d2c73fa005721cf76
+  26  d0d64db8e8ea5582dd2f03db84e52d31  ...  d0d64db8e8ea5582dd2f03db84e52d31
+  27  d3769b2dc8bb800bcfea164265fd6353  ...  d3769b2dc8bb800bcfea164265fd6353
+  28  df28ae9610870345f62ce9897751fe3f  ...  df28ae9610870345f62ce9897751fe3f
+  29  f73974e8dff7b296bbe7746c4661a0fc  ...  f73974e8dff7b296bbe7746c4661a0fc
+
+  [30 rows x 3 columns]
   🚀 create_final_relationships
-                         source                  target  weight  ... source_degree target_degree rank
-  0   BODHISATTVA OF COMPASSION           PRAJNA WISDOM     4.0  ...             3             7   10
-  1   BODHISATTVA OF COMPASSION                 NIRVANA     5.0  ...             3            12   15
-  2   BODHISATTVA OF COMPASSION                   SUTRA     7.0  ...             3             3    6
-  3               PRAJNA WISDOM                 NIRVANA    11.0  ...             7            12   19
-  4               PRAJNA WISDOM             BODHISATTVA     4.0  ...             7             8   15
-  ..                        ...                     ...     ...  ...           ...           ...  ...
-  68                    YOUTUBE  VIDEO_SHARING_PLATFORM     1.0  ...             2             1    3
-  69                   FACEBOOK            SOCIAL_MEDIA     1.0  ...             4             1    5
-  70                   FACEBOOK                PLATFORM     2.0  ...             4             1    5
-  71                   FACEBOOK                 SERVICE     1.0  ...             4             1    5
-  72                    RELEASE                   EVENT     1.0  ...             2             1    3
-  
-  [73 rows x 10 columns]
+             source      target  weight  ... source_degree target_degree rank
+  0    BODHISATTVAS   TATHAGATA     7.0  ...             4            67   71
+  1    BODHISATTVAS  MHASATTVAS    13.0  ...             4             4    8
+  2    BODHISATTVAS     NIRVANA     1.0  ...             4             7   11
+  3    BODHISATTVAS     SUBHUTI     1.0  ...             4            46   50
+  4         SUBHUTI   TATHAGATA   284.0  ...            46            67  113
+  ..            ...         ...     ...  ...           ...           ...  ...
+  190        DREAMS      SADOWS     1.0  ...             3             3    6
+  191     ILLUSIONS     BUBBLES     1.0  ...             3             3    6
+  192     ILLUSIONS      SADOWS     1.0  ...             3             3    6
+  193       BUBBLES      SADOWS     1.0  ...             3             3    6
+  194           DEW   LIGHTNING     1.0  ...             1             1    2
+
+  [195 rows x 10 columns]
   🚀 join_text_units_to_relationship_ids
-                                   id                                   relationship_ids
-  0  ac67bbf50ea59187cea5947b4e482e79  [56d0e5ebe79e4814bd1463cf6ca21394, 7c49f2710e8...
-  1  0650fd69f66ac0d668f05d218942ac62  [0adb2d9941f34ef7b2f7743cc6225844, 6b02373137f...
-  2  7d902ccc1d6328cdf06ab78c6a43b5f8  [6ea81acaf232485e94fff638e03336e1, d136b08d586...
+                                    id                                   relationship_ids
+  0   0c6d1237424d5858a69b554ce4b0cb28  [7ab5d53a872f4dfc98f3d386879f3c75, af1d0fec221...
+  1   0f113b68cd94d981f44da57e7f8dc253  [cd130938a2844050be991af70baf5ee0, 422433aa458...
+  2   10340e865bfce75239b2992b0c5a44ea  [cd130938a2844050be991af70baf5ee0, 18b839da898...
+  3   1c65f13918a96d13d3d75d8f106d3196  [cd130938a2844050be991af70baf5ee0, 525f41ea202...
+  4   1d86c14e76974deeb80751bd617308fb  [cd130938a2844050be991af70baf5ee0, 525f41ea202...
+  5   28df9a0fe28d1c5ab0f125d95a43a714  [cd130938a2844050be991af70baf5ee0, 18b839da898...
+  6   304d5a3144cc066881b165ae658b05eb  [cd130938a2844050be991af70baf5ee0, 496f17c2f74...
+  7   3d98b1afd2e209a6301f31c9b497d3b4  [cd130938a2844050be991af70baf5ee0, 30c9641543c...
+  8   483f9e4c6097de34ed65b71f0cb89ff0  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  9   5a1a4fd0d8fac99cd7afa35659b8bf29  [cd130938a2844050be991af70baf5ee0, 422433aa458...
+  10  720a05238ff4b85665cbc0f8f781d2ee  [cd130938a2844050be991af70baf5ee0, 86505bca739...
+  11  87ddb2fe0952bee211b7934c047c3dc1  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  12  99ff8cbaff897ee5478df6c008dc871e  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  13  9c92731278f57dd628524ceb6b64a30b  [cd130938a2844050be991af70baf5ee0, a671bf7fea2...
+  14  a81ea2c3169cf85b359216af3ed911b7  [cd130938a2844050be991af70baf5ee0, 18b839da898...
+  15  b34078be4f92ec3d9a984a068a878a46  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  16  c7b2180beb4b526d2c73fa005721cf76  [cd130938a2844050be991af70baf5ee0, 4d999d7744b...
+  17  d0d64db8e8ea5582dd2f03db84e52d31  [cd130938a2844050be991af70baf5ee0, a671bf7fea2...
+  18  f73974e8dff7b296bbe7746c4661a0fc  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  19  df28ae9610870345f62ce9897751fe3f  [a671bf7fea2f4514b6e96ba99127fafd, 525f41ea202...
+  20  54a89f340e7905b3663c8aa264c9bc3c  [071a416efbec4f0886c19ac68f6d43cb, 6d8473ef3b1...
+  21  0932d2e4414c41c098e3bdbe96d47ca6  [30c9641543c24773938bd8ec57ea98ab, 18b839da898...
+  22  bca6329d816ee1913a85a40dd7205aa8  [30c9641543c24773938bd8ec57ea98ab, 422433aa458...
+  23  d3769b2dc8bb800bcfea164265fd6353  [30c9641543c24773938bd8ec57ea98ab, 422433aa458...
+  24  5c06814e27f34cf5abe365a429a531a4  [422433aa45804c7ebb973b2fafce5da6, 353d91abc68...
+  25  949f147964ec2017a5b591de2264528e  [422433aa45804c7ebb973b2fafce5da6, 1af9faf341e...
+  26  31cf4ea605ebf44b5f6a4c96e1c8d644  [4d999d7744b04a998475f8f8531589f0, 4465efb7f6e...
   🚀 create_final_community_reports
-    community  ...                                    id
-  0         4  ...  1e8045b0-3147-47c4-b208-e9f3f65aed25
-  1         5  ...  8e0481a8-b320-4484-a1cc-60cd7fee8c71
-  2         6  ...  2cc69642-bc13-4e64-8866-32c3f24fa4a8
-  3         7  ...  0c32904b-383b-4395-a38b-ca7ab5be48ef
-  4         8  ...  6f422588-9d9e-4574-90bd-6c549a304d27
-  5         0  ...  ea480c97-d7c2-4be0-9d8a-0752c03227d7
-  6         1  ...  c4034add-8149-4ddb-a669-ae9a8cd79ace
-  7         2  ...  618bd89f-282e-43b4-8777-2f9411f55514
-  8         3  ...  30bc8c70-c20c-4d6a-9f5f-28baf50ca481
-  
-  [9 rows x 10 columns]
+     community  ...                                    id
+  0         14  ...  b3a44cc1-4762-42b5-84f9-957b8d7c2d57
+  1         15  ...  cb2f0c3d-fd6c-4f77-9f02-846d200f6beb
+  2         16  ...  8d5dac89-04c8-4d62-8679-33b6d1ccb083
+  3         10  ...  b2fbd2e1-92e5-4f74-9a24-acff507c6ed1
+  4         11  ...  bb3fc4cc-e840-44a1-8c36-f29b42d07c58
+  5         12  ...  70e9333f-a32c-4afc-b974-58dcf39636c5
+  6         13  ...  a7a6b8d9-b9ab-4414-8463-f12c3bca6c7a
+  7          6  ...  b365a14e-bbb3-4202-bb87-57bb8dcc6741
+  8          7  ...  81534223-a1e2-48f6-83ea-3179bbe73fe1
+  9          8  ...  de8a2143-6c9e-4ef6-b96b-bf9c2075a0a1
+  10         9  ...  898399f9-95c7-47b1-8851-4635e84c9862
+  11         0  ...  dccfd1dd-3736-4104-8d1b-7f29ef5a15a7
+  12         1  ...  d41ea067-4e3b-4d43-aa98-7b8ed3f03f16
+  13         2  ...  132945a7-1c8f-44f3-b263-b6a1e8598e61
+  14         3  ...  12b0855a-dbba-4e91-acd5-1d18ebf89635
+  15         4  ...  a290fa3d-486f-41e7-867a-34f7e2f74d44
+  16         5  ...  01f18773-306c-4ed3-a992-842e73151627
+
+  [17 rows x 10 columns]
   🚀 create_final_text_units
-                                   id  ...                                   relationship_ids
-  0  ac67bbf50ea59187cea5947b4e482e79  ...  [56d0e5ebe79e4814bd1463cf6ca21394, 7c49f2710e8...
-  1  0650fd69f66ac0d668f05d218942ac62  ...  [0adb2d9941f34ef7b2f7743cc6225844, 6b02373137f...
-  2  7d902ccc1d6328cdf06ab78c6a43b5f8  ...  [6ea81acaf232485e94fff638e03336e1, d136b08d586...
-  
-  [3 rows x 6 columns]
+                                    id  ...                                   relationship_ids
+  0   0c6d1237424d5858a69b554ce4b0cb28  ...  [7ab5d53a872f4dfc98f3d386879f3c75, af1d0fec221...
+  1   df28ae9610870345f62ce9897751fe3f  ...  [a671bf7fea2f4514b6e96ba99127fafd, 525f41ea202...
+  2   54a89f340e7905b3663c8aa264c9bc3c  ...  [071a416efbec4f0886c19ac68f6d43cb, 6d8473ef3b1...
+  3   9c92731278f57dd628524ceb6b64a30b  ...  [cd130938a2844050be991af70baf5ee0, a671bf7fea2...
+  4   d3769b2dc8bb800bcfea164265fd6353  ...  [30c9641543c24773938bd8ec57ea98ab, 422433aa458...
+  5   10340e865bfce75239b2992b0c5a44ea  ...  [cd130938a2844050be991af70baf5ee0, 18b839da898...
+  6   f73974e8dff7b296bbe7746c4661a0fc  ...  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  7   5c06814e27f34cf5abe365a429a531a4  ...  [422433aa45804c7ebb973b2fafce5da6, 353d91abc68...
+  8   bca6329d816ee1913a85a40dd7205aa8  ...  [30c9641543c24773938bd8ec57ea98ab, 422433aa458...
+  9   0f113b68cd94d981f44da57e7f8dc253  ...  [cd130938a2844050be991af70baf5ee0, 422433aa458...
+  10  c7b2180beb4b526d2c73fa005721cf76  ...  [cd130938a2844050be991af70baf5ee0, 4d999d7744b...
+  11  31cf4ea605ebf44b5f6a4c96e1c8d644  ...  [4d999d7744b04a998475f8f8531589f0, 4465efb7f6e...
+  12  949f147964ec2017a5b591de2264528e  ...  [422433aa45804c7ebb973b2fafce5da6, 1af9faf341e...
+  13  d0d64db8e8ea5582dd2f03db84e52d31  ...  [cd130938a2844050be991af70baf5ee0, a671bf7fea2...
+  14  5a1a4fd0d8fac99cd7afa35659b8bf29  ...  [cd130938a2844050be991af70baf5ee0, 422433aa458...
+  15  1d86c14e76974deeb80751bd617308fb  ...  [cd130938a2844050be991af70baf5ee0, 525f41ea202...
+  16  1c65f13918a96d13d3d75d8f106d3196  ...  [cd130938a2844050be991af70baf5ee0, 525f41ea202...
+  17  483f9e4c6097de34ed65b71f0cb89ff0  ...  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  18  720a05238ff4b85665cbc0f8f781d2ee  ...  [cd130938a2844050be991af70baf5ee0, 86505bca739...
+  19  b34078be4f92ec3d9a984a068a878a46  ...  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  20  0932d2e4414c41c098e3bdbe96d47ca6  ...  [30c9641543c24773938bd8ec57ea98ab, 18b839da898...
+  21  3d98b1afd2e209a6301f31c9b497d3b4  ...  [cd130938a2844050be991af70baf5ee0, 30c9641543c...
+  22  304d5a3144cc066881b165ae658b05eb  ...  [cd130938a2844050be991af70baf5ee0, 496f17c2f74...
+  23  a81ea2c3169cf85b359216af3ed911b7  ...  [cd130938a2844050be991af70baf5ee0, 18b839da898...
+  24  87ddb2fe0952bee211b7934c047c3dc1  ...  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  25  28df9a0fe28d1c5ab0f125d95a43a714  ...  [cd130938a2844050be991af70baf5ee0, 18b839da898...
+  26  99ff8cbaff897ee5478df6c008dc871e  ...  [cd130938a2844050be991af70baf5ee0, 071a416efbe...
+  27  2e6301f72dc7a7c0a69367e68751602f  ...                                               None
+  28  862980b81300473c47d1ad0f61b49469  ...                                               None
+  29  8b1ada13ed9bad56010f5b0eb6db7500  ...                                               None
+  30  46537e893c14ae2e90018efca560b02f  ...                                               None
+  31  b0e5dadd3ff4483ce4d97f3fdbb82a38  ...                                               None
+  32  26c46f8070266944c29f76139a31d018  ...                                               None
+  33  38f8e3880b7a228945d44a068f6c0fcf  ...                                               None
+  34  db3ac6eca284ddfbfb7068a7da56a505  ...                                               None
+  35  780fb493f07946a741b4526b9bb42a20  ...                                               None
+  36  be93d980546b9af0c87b14b20565ba85  ...                                               None
+  37  e6eacdac5fae829f1486ef2bdba5daff  ...                                               None
+
+  [38 rows x 6 columns]
   🚀 create_base_documents
-                                   id  ...                title
-  0  41326c50c373b31d1a8d23b8ae48151a  ...  the-heart-sutra.txt
-  
+                                   id  ...           title
+  0  b0f66a39076ef23be0308fe7b13b7aaa  ...  diamond-en.txt
+
   [1 rows x 4 columns]
   🚀 create_final_documents
-                                   id  ...                title
-  0  41326c50c373b31d1a8d23b8ae48151a  ...  the-heart-sutra.txt
-  
+                                   id  ...           title
+  0  b0f66a39076ef23be0308fe7b13b7aaa  ...  diamond-en.txt
+
   [1 rows x 4 columns]
-  ⠇ GraphRAG Indexer 
+  ⠧ GraphRAG Indexer 
   ├── Loading Input (text) - 1 files loaded (0 filtered) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:00 0:00:00
   ├── create_base_text_units
   ├── create_base_extracted_entities
@@ -198,14 +339,19 @@ python index.py [options]
   ├── create_base_documents
   └── create_final_documents
   🚀 All workflows completed successfully.
-  graphrag run time: 0:09:45.906138
-  raptor run time: 0:00:03.178684
-  run time: 0:09:49.084822
+  Disconnection_distance = 2 has removed 0 edges.
+  It has fully disconnected 2 vertices.
+  You might consider using find_disconnected_points() to find and remove these points from your data.
+  Use umap.utils.disconnected_vertices() to identify them.
+    warn(
+  graphrag run time: 1:02:45.151868
+  raptor run time: 0:00:18.596147
+  run time: 1:03:05.802866
   count of group: 1
   count of paper: 1
-  count of chunk: 1
-  count of relationship: 234
-  count of community report: 9
+  count of chunk: 2
+  count of relationship: 775
+  count of community report: 17
   count of summary: 1
   ```
 </details>
@@ -229,56 +375,12 @@ python query.py [options]
 | `--export_group_name` |   | `str`    | `''`                             | You need to specify export_group_name or export_group_id. |
 | `--export_group_id`   |   | `int`    | `-1`                             | You need to specify export_group_name or export_group_id. |
 <details>
-  <summary>Typical output...</summary>
+  <summary>Query the Diamond sutra</summary>
 
   ```
-  $ python query.py -q "what's the meaning of suffering?"
-  [nltk_data] Downloading package punkt to /home/user2/nltk_data...
-  [nltk_data]   Package punkt is already up-to-date!
-  --- final answer ---
-  <question>
-  what's the meaning of suffering?
-  </question>
+  $  python query.py --db_path ./my_graphrag/vector_db_diamond/ -q "what is the meaning of pain?"
   
-  <answer>
-  **Summary of Analyst Reports**
   
-  The analysts' reports provide various perspectives on the concept of "suffering". However, it is essential to note that none of the reports directly address the question of what suffering means. The top-ranked report indicates that there is no information about suffering in the data table.
-  
-  **Key Points from Analyst Reports**
-  
-  1. **Suffering as a void concept**: Suffering may be seen as an empty or void concept, similar to wisdom and attainment (Score: 60).
-  2. **Suffering alleviated by Prajna wisdom and dharani mantra**: The great dharani mantra can alleviate all pain, implying that suffering can be alleviated through the use of this mantra (Score: 50).
-  3. **Suffering as a lack of Prajna wisdom**: Suffering is associated with the absence of Prajna wisdom, which is necessary for reaching the clearest state of Nirvana (Score: 70).
-  4. **Suffering as a result of ignorance and delusion**: Suffering is described as a consequence of ignorance, which leads to delusion (Score: 80).
-  5. **Suffering ultimately empty of inherent existence**: All phenomena, including suffering, are void of inherent existence (Score: 90).
-  
-  **Implications**
-  
-  While the analysts' reports provide various perspectives on suffering, it is essential to note that none of them directly answer the question of what suffering means. However, we can infer that suffering may be seen as:
-  
-  * A void concept
-  * Alleviated by Prajna wisdom and the dharani mantra
-  * Associated with the absence of Prajna wisdom
-  * A consequence of ignorance and delusion
-  * Ultimately empty of inherent existence
-  
-  **Conclusion**
-  
-  The analysts' reports provide a range of perspectives on suffering, but none directly address the question. However, we can synthesize the key points to understand that suffering may be seen as an empty or void concept, alleviated by Prajna wisdom and the dharani mantra, associated with the absence of Prajna wisdom, a consequence of ignorance and delusion, and ultimately empty of inherent existence.
-  
-  **Recommendation**
-  
-  To answer the question more directly, further analysis or additional data may be necessary to provide a clear understanding of what suffering means.
-  </answer>
-  
-  <reference_id>
-  paper id 1: chunk ids 1
-  paper id 1: summary ids 1
-  </reference_id>
-  
-  --- final answer ---
-  run time 0:00:15.993182
   ```
 </details>
 
