@@ -18,6 +18,8 @@ from .prompts import SUMMARIZE_PROMPT
 
 import asyncio
 
+import graphrag.my_graphrag.model as model
+
 # Max token size for input prompts
 DEFAULT_MAX_INPUT_TOKENS = 4_000
 # Max token count for LLM answers
@@ -148,24 +150,16 @@ class SummarizeExtractor:
         self, items: str | tuple[str, str] | list[str], descriptions: list[str]
     ):
         """Summarize descriptions using the LLM."""
-        response = await self._llm(
-            self._summarization_prompt,
-            name="summarize",
-            variables={
-                self._entity_name_key: json.dumps(items),
-                self._input_descriptions_key: json.dumps(sorted(descriptions)),
-            },
-            model_parameters={"max_tokens": self._max_summary_length},
-        )
-        # Calculate result
+        summarization_prompt = self._summarization_prompt.format(entity_name=json.dumps(items), description_list=json.dumps(sorted(descriptions)))
+        output = model.get_response_from_sgl(summarization_prompt)
 
         await self._export_prompt(
-            prompt_input=self._summarization_prompt.format(entity_name=json.dumps(items), description_list=json.dumps(sorted(descriptions))),
-            prompt_output=str(response.output),
-            prompt_type_name='',
+            prompt_input=summarization_prompt,
+            prompt_output=output,
+            prompt_type_name='summary',
         )
 
-        return str(response.output)
+        return output
 
     async def _export_prompt(
             self,

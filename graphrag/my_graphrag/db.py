@@ -61,7 +61,16 @@ def get_id(collection_name: str, query_content: str, metadatas=''):
                 if group_id_validity and 'group_id' in all_data['metadatas'][i] and all_data['metadatas'][i]['group_id'] != group_id:
                     continue
 
-                documents = all_data['metadatas'][i][metadatas] if metadatas else all_data['documents'][i]
+                documents = all_data['documents'][i]
+                if metadatas:
+                    m_text = ''
+                    try:
+                        m_text = all_data['metadatas'][i][metadatas]
+                    except:
+                        pass
+                    if m_text != '':
+                        documents = m_text
+
                 documents_clean = re.sub(r'\s+', '', documents)
                 if query_content_clean in documents_clean or query_content in documents:
                     ids = all_data['ids'][i]
@@ -86,7 +95,16 @@ def get_id(collection_name: str, query_content: str, metadatas=''):
                     if group_id_validity and 'group_id' in all_data['metadatas'][i] and all_data['metadatas'][i]['group_id'] != group_id:
                         continue
 
-                    documents = all_data['metadatas'][i][metadatas] if metadatas else all_data['documents'][i]
+                    documents = all_data['documents'][i]
+                    if metadatas:
+                        m_text = ''
+                        try:
+                            m_text = all_data['metadatas'][i][metadatas]
+                        except:
+                            pass
+                        if m_text != '':
+                            documents = m_text
+
                     documents_clean = re.sub(r'\s+', '', documents)
                     if text_clean in documents_clean or text in documents:
                         ids = all_data['ids'][i]
@@ -138,8 +156,6 @@ def save_new_paper(paper_content, paper_name, group_id):
     return paper_id
 
 
-# TODO denoising stuff
-# def save_new_chunk(chunk, paper_id, group_id, denoising_chunk):
 def save_new_chunk(chunk, paper_id, group_id, denoising_chunk=''):
     # chunk
     # ids: chunk id
@@ -165,9 +181,7 @@ def save_new_relationship(chunk, source_entity_name, target_entity_name, relatio
     # documents: relationship_description
     # metadatas: source entity name, target entity name, relationship description, relationship strength, chunk id
 
-    # TODO denoising stuff
-    # chunk_id = get_id(COLLECTION_CHUNK, chunk, metadatas='denoising_chunk')
-    chunk_id = get_id(COLLECTION_CHUNK, chunk)
+    chunk_id = get_id(COLLECTION_CHUNK, chunk, metadatas='denoising_chunk')
 
     relationship_id = save_new_item(
         COLLECTION_RELATIONSHIP,
@@ -184,7 +198,7 @@ def save_new_relationship(chunk, source_entity_name, target_entity_name, relatio
     return relationship_id
 
 
-def save_new_community_report(index_prompt3_input_text, community_report_text, title, summary, rating, rating_explanation, findings):
+def save_new_community_report(index_prompt3_input_text, community_report_text):
     # community report
     # ids: community report id
     # documents: community report text
@@ -212,17 +226,12 @@ def save_new_community_report(index_prompt3_input_text, community_report_text, t
 
         chunk_id_list = list(set(chunk_id_list))
 
-    if check_group_id(group_id) and chunk_id_list:
+    if check_group_id(group_id) and chunk_id_list and community_report_text:
         report_id = save_new_item(
             COLLECTION_COMMUNITY_REPORT,
             community_report_text,
             {
                 'chunk_id_list': json.dumps(chunk_id_list),
-                'title': title,
-                'summary': summary,
-                'rating': rating,
-                'rating_explanation': rating_explanation,
-                'findings': findings,
                 'group_id': group_id,
             }
         )
@@ -263,7 +272,6 @@ def get_all_community_reports():
                 {
                     'report_id': all_data['ids'][i],
                     'report_content': all_data['documents'][i],
-                    'report_title': all_data['metadatas'][i]['title'],
                     'chunk_id_list': json.loads(all_data['metadatas'][i]['chunk_id_list']),
                     'group_id': all_data['metadatas'][i]['group_id'],
                 }
@@ -511,147 +519,6 @@ def count_all_collection():
     print('count of summary:', summary_count)
 
 
-def get_text(collection_name: str, ids: str):
-    try:
-        client = chromadb.PersistentClient(path=get_db_path())
-        collection = client.get_collection(name=collection_name)
-
-        results = collection.get(
-            ids=[ids]
-        )
-
-        text = results['documents'][0]
-    except Exception as e:
-        # print(e)
-        # traceback.print_exc()
-        text = ''
-
-    return text
-
-
-def get_chunk(chunk_id):
-    return get_text(COLLECTION_CHUNK, str(chunk_id))
-
-
-def get_summary(summary_id):
-    return get_text(COLLECTION_SUMMARY, str(summary_id))
-
-
-def get_paper(paper_id):
-    return get_text(COLLECTION_PAPER, str(paper_id))
-
-
-def query_chunks(query_text, collection_list, top_k=10, group_id=-1):
-    client = chromadb.PersistentClient(path=get_db_path())
-    result_list = []
-    for collection_name in collection_list:
-        collection = client.get_collection(name=collection_name)
-
-        results = collection.query(
-            query_texts=[query_text],
-            n_results=top_k,
-            where=None if group_id == -1 else {'group_id': str(group_id)}
-        )
-
-        for i in range(len(results['ids'][0])):
-            result_list.append({
-                'id': results['ids'][0][i],
-                'text': results['documents'][0][i],
-                'distance': results['distances'][0][i],
-                'metadatas': results['metadatas'][0][i],
-                'collection_name': collection_name,
-            })
-
-    result_list.sort(key=lambda x: x['distance'], reverse=False)
-
-    return result_list[:top_k]
-
-
-def query_raptor_chunks(query_text, top_k=10, group_id=-1):
-    chunk_list = query_chunks(query_text, [COLLECTION_SUMMARY, COLLECTION_CHUNK], top_k, group_id)
-
-    base_chunk_list = []
-    summary_chunk_list = []
-    for chunk in chunk_list:
-        new_chunk = {
-            'id': chunk['id'],
-            'text': chunk['text'],
-            'group_id': chunk['metadatas']['group_id'],
-        }
-        if chunk['collection_name'] == COLLECTION_SUMMARY:
-            summary_chunk_list.append(new_chunk)
-        else:
-            base_chunk_list.append(new_chunk)
-
-    return base_chunk_list, summary_chunk_list
-
-
-def query_graphrag_community_report(query_text, top_k=20, query_group_id=-1):
-    client = chromadb.PersistentClient(path=get_db_path())
-    collection = client.get_collection(name=COLLECTION_COMMUNITY_REPORT)
-
-    total_community_report = collection.count()
-
-    results = collection.query(
-        query_texts=[query_text],
-        n_results=min(total_community_report, 500)
-    )
-
-    result_list = []
-    for i in range(len(results['ids'][0])):
-        is_group = True
-
-        chunk_id_list = json.loads(results['metadatas'][0][i]['chunk_id_list'])
-        if query_group_id != -1:
-            for chunk_id in chunk_id_list:
-                paper_id, group_id = get_ref_id_of_chunk(chunk_id)
-                if str(group_id) != str(query_group_id):
-                    is_group = False
-                    break
-
-        if is_group:
-            result_list.append({
-                'report_id': results['ids'][0][i],
-                'report_content': results['documents'][0][i],
-                'report_title': results['metadatas'][0][i]['title'],
-                'chunk_id_list': chunk_id_list,
-            })
-
-        if len(result_list) >= top_k:
-            break
-
-    return result_list
-
-
-def query_graphrag_summary_chunk(query_text, top_k=20, query_group_id=-1):
-    client = chromadb.PersistentClient(path=get_db_path())
-    collection = client.get_collection(name=COLLECTION_SUMMARY)
-
-    total_summary = collection.count()
-
-    results = collection.query(
-        query_texts=[query_text],
-        n_results=min(total_summary, 500),
-        where=None if query_group_id == -1 else {'group_id': str(query_group_id)}
-    )
-
-    result_list = []
-    for i in range(len(results['ids'][0])):
-        result_list.append({
-            'summary_id': results['ids'][0][i],
-            'summary_content': results['documents'][0][i],
-            'chunk_id_list': json.loads(results['metadatas'][0][i]['chunk_id_list']),
-            'from_base_chunk': results['metadatas'][0][i]['from_base_chunk'],
-            'root_summary': results['metadatas'][0][i]['root_summary'],
-            'group_id': results['metadatas'][0][i]['group_id'],
-        })
-
-        if len(result_list) >= top_k:
-            break
-
-    return result_list
-
-
 def query_base_chunk(query_text, top_k=20, query_group_id=-1):
     client = chromadb.PersistentClient(path=get_db_path())
     collection = client.get_collection(name=COLLECTION_CHUNK)
@@ -884,9 +751,13 @@ def split_text_into_chunks(text, min_num_char=1000):
 
 def get_chunks_for_graphrag(text):
     paper_id = get_id(COLLECTION_PAPER, text)
-    # TODO denoising stuff
-    # chunks = [chunk['denoising_chunk'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
-    chunks = [chunk['chunk_content'] for chunk in get_all_chunks() if chunk['paper_id'] == paper_id]
+    chunks = []
+    for chunk in get_all_chunks():
+        if chunk['paper_id'] == paper_id:
+            if chunk['denoising_chunk'] != '':
+                chunks.append(chunk['denoising_chunk'])
+            else:
+                chunks.append(chunk['chunk_content'])
     return chunks
 
 

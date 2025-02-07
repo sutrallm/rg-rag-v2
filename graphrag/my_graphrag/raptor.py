@@ -1,17 +1,14 @@
-import re
 import random
 import csv
-import ollama
 import umap
 import numpy as np
 from datetime import datetime
 from sentence_transformers import SentenceTransformer
 from sklearn.mixture import GaussianMixture
 import graphrag.my_graphrag.db as db
-from graphrag.my_graphrag.conf import TEXT_TEMPLATE
+import graphrag.my_graphrag.model as model
 
 
-OLLAMA_MODEL_NAME = 'llama3.1:8b-instruct-q8_0'
 EMBEDDING_MODEL_NAME = 'sentence-transformers/multi-qa-mpnet-base-cos-v1'
 EMBEDDING_MODEL = SentenceTransformer(EMBEDDING_MODEL_NAME)
 
@@ -39,28 +36,6 @@ PROMPT_SUMMARY3 = '''Please provide a concise and descriptive heading that captu
 <text>
 {text}
 </text>
-'''
-
-
-PROMPT_QUERY_STEP1 = '''You are provided with a question and a piece of text below. Please determine whether the text is relevant to the question. Indicate your answer by putting yes or no within <relevant> </relevant> tags. If the text is relevant, extract the relevant information in bullet points, placing the bullets within <info> </info> tags. Add a blank line between each bullet. Do not mention the source of information or "the text" in your response. Put a heading for the relevant informaton. The heading should be in <heading></heading> tags and within <info> </info> tags.
-
-<question>
-{question}
-</question>
-
-<text>
-{context}
-</text>
-'''
-
-
-PROMPT_QUERY_STEP2 = '''You are provided with a question and some pieces of information below. Please provide a structured answer to the question based on the given information. Do not mention that your answer is based on these information. Provide as much detail in the answer as possible.
-
-<question>
-{question}
-</question>
-
-{context}
 '''
 
 
@@ -135,25 +110,6 @@ def split_chunks_into_clusters(chunks):
     return clusters_list
 
 
-def get_ollama_response(prompt):
-    response = ollama.chat(
-        model=OLLAMA_MODEL_NAME,
-        messages=[
-            {
-                "role": "user",
-                'content': prompt
-            },
-        ],
-        options={
-            'temperature': 0.1,
-            'num_predict': 4096,  # 240704 David: ask the llm to limit the summary size to 4096
-            'num_ctx': 32000,
-        }
-    )
-    output = response['message']['content']
-    return output
-
-
 def gen_summary_chunks(chunks):
     clusters_list = split_chunks_into_clusters(chunks)
 
@@ -167,13 +123,13 @@ def gen_summary_chunks(chunks):
             children_idx.append(child_chunk.index)
 
         # step 1: generate summary text
-        summary_text = get_ollama_response(PROMPT_SUMMARY1.format(text=context))
+        summary_text = model.get_response_from_sgl(PROMPT_SUMMARY1.format(text=context))
 
         # step 2: review summary text
-        reviewed_summary_text = get_ollama_response(PROMPT_SUMMARY2.format(text=summary_text))
+        reviewed_summary_text = model.get_response_from_sgl(PROMPT_SUMMARY2.format(text=summary_text))
 
         # step 3: add heading
-        heading = get_ollama_response(PROMPT_SUMMARY3.format(text=reviewed_summary_text))
+        heading = model.get_response_from_sgl(PROMPT_SUMMARY3.format(text=reviewed_summary_text))
 
         summary = f'<heading>{heading}<\heading>\n{reviewed_summary_text}'
         summary_chunks.append((summary, children_idx))
@@ -244,89 +200,3 @@ def raptor_index(new_paper_id_list, log_path):
             writer.writerow(['Run time', end_time_one_group - start_time_one_group])
             writer.writerow(['End time', end_time_one_group.strftime('%Y-%m-%d-%H-%M-%S')])
             f.flush()
-
-
-def query_step1(question, chunk_list):
-    relevant_id_list = []
-    info_list = []
-    for chunk in chunk_list:
-        # chunk: {'id': , 'text': } defined in db query_raptor_chunks
-        prompt_step1 = PROMPT_QUERY_STEP1.format(question=question, context=chunk['text'])
-        answer_step1 = get_ollama_response(prompt_step1)
-
-        result_content = re.search(r'<info>(.*?)</info>', answer_step1, re.DOTALL)
-        # ignore relevant, just get <info>
-        relevant_info = result_content.group(1).strip() if result_content else ''
-
-        is_relevant = relevant_info != ''
-        if is_relevant:
-            info_list.append(relevant_info)
-            relevant_id_list.append(chunk['id'])
-
-    return info_list, relevant_id_list
-
-
-def get_ref_id_and_text(chunk_list, chunk_type):
-    ref_id_template = 'group id {group_id}: {chunk_type} chunk ids {chunk_ids}'
-    group_chunk_dict = {}
-    for chunk in chunk_list:
-        chunk_id = str(chunk['id'])
-        group_id = str(chunk['group_id'])
-        if group_id not in group_chunk_dict:
-            group_chunk_dict[group_id] = []
-        group_chunk_dict[group_id].append(chunk_id)
-
-    group_id_list = list(group_chunk_dict.keys())
-    group_id_list.sort(key=lambda x: int(x), reverse=False)
-
-    ref_id_list = []
-    ref_text_list = []
-    for group_id in group_id_list:
-        chunk_id_list = group_chunk_dict[group_id]
-        chunk_id_list = list(set(chunk_id_list))
-        chunk_id_list.sort(key=lambda x: int(x), reverse=False)
-        ref_id_list.append(ref_id_template.format(group_id=group_id, chunk_ids=', '.join(chunk_id_list), chunk_type=chunk_type))
-
-        for chunk_id in chunk_id_list:
-            for chunk in chunk_list:
-                if str(chunk['id']) == str(chunk_id):
-                    ref_text_list.append(TEXT_TEMPLATE.format(title=chunk_type + '_chunk', id=chunk_id, text=chunk['text']))
-                    break
-
-    # ref_id, ref_text
-    return '\n'.join(ref_id_list), '\n\n'.join(ref_text_list)
-
-
-def raptor_query(question, query_group_id=-1):
-    base_chunk_list, summary_chunk_list = db.query_raptor_chunks(question, top_k=10, group_id=query_group_id)
-
-    # step 1
-    info_list_base_chunk, relevant_id_list_base_chunk = query_step1(question, base_chunk_list)
-    info_list_summary_chunk, relevant_id_list_summary_chunk = query_step1(question, summary_chunk_list)
-    info_list = info_list_base_chunk + info_list_summary_chunk
-
-    # step 2
-    context_step2 = '\n\n'.join(['<info>\n%s\n</info>' % info for info in info_list])
-    prompt_step2 = PROMPT_QUERY_STEP2.format(question=question, context=context_step2)
-    answer_step2 = get_ollama_response(prompt_step2)
-
-    ref_id_base, ref_text_base = get_ref_id_and_text(base_chunk_list, 'base')
-    ref_id_summary, ref_text_summary = get_ref_id_and_text(summary_chunk_list, 'summary')
-
-    ref_id_list = []
-    if ref_id_base:
-        ref_id_list.append(ref_id_base)
-    if ref_id_summary:
-        ref_id_list.append(ref_id_summary)
-    ref_id = '\n'.join(ref_id_list)
-
-    ref_text_list = []
-    if ref_text_base:
-        ref_text_list.append(ref_text_base)
-    if ref_text_summary:
-        ref_text_list.append(ref_text_summary)
-    ref_text = '\n\n'.join(ref_text_list)
-
-    # answer, ref_id, ref_text
-    return answer_step2, ref_id, ref_text
-

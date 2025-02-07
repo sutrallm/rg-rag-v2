@@ -28,6 +28,7 @@ from .prompts import GRAPH_EXTRACTION_PROMPT, GLEANING_PROMPT, ENTITIES_IDENTIFI
 import xml.etree.ElementTree as ET
 
 from graphrag.my_graphrag.db import save_new_relationship
+import graphrag.my_graphrag.model as model
 
 import asyncio
 
@@ -180,18 +181,11 @@ class GraphExtractor:
     ) -> str:
         idx = 1
 
-        response = await self._llm(
-            self._extraction_prompt,
-            variables={
-                # 240805 only need input_text for new prompt
-                # **prompt_variables,
-                self._input_text_key: text,
-            },
-        )
-        results = response.output or ""
+        extraction_prompt = self._extraction_prompt.format(input_text=text)
+        results = model.get_response_from_sgl(extraction_prompt)
 
         await self._export_prompt(
-            prompt_input=self._extraction_prompt.format(input_text=text),
+            prompt_input=extraction_prompt,
             prompt_output=results,
             prompt_type_name=f'{idx}_extraction',
         )
@@ -201,37 +195,35 @@ class GraphExtractor:
         for i in range(self._max_gleanings):
             tmp_conv_output = _clean_entities_text(results) + '\n' + _clean_relationships_text(results)
             gleaning_prompt = GLEANING_PROMPT.format(input_text=text, previous_output=tmp_conv_output)
-            response = await self._llm(
-                gleaning_prompt,
-                name=f"extract-continuation-{i}",
-            )
+            output = model.get_response_from_sgl(gleaning_prompt)
 
             await self._export_prompt(
                 prompt_input=gleaning_prompt,
-                prompt_output=response.output,
+                prompt_output=output,
                 prompt_type_name=f'{idx}_gleaning{i}',
             )
             idx += 1
 
-            if response.output == "NOMORE":
+            if output == "NOMORE":
                 break
 
-            results += response.output or ""
+            results += output or ""
 
             # if this is the final glean, don't bother updating the continuation flag
             if i >= self._max_gleanings - 1:
                 break
 
         entities_identification_prompt = ENTITIES_IDENTIFICATION_PROMPT.format(input_text=text, entities=_clean_entities_text(results))
-        response = await self._llm(
-            entities_identification_prompt,
-            name=f"entities_identification",
-        )
-        filtered_entities_results = response.output or results
+        output = model.get_response_from_sgl(entities_identification_prompt)
+        filtered_entities_results = results
+        if output:
+            _clean_output = _clean_entities_text(output)
+            if _clean_output:
+                filtered_entities_results = output
 
         await self._export_prompt(
             prompt_input=entities_identification_prompt,
-            prompt_output=response.output,
+            prompt_output=output,
             prompt_type_name=f'{idx}_entities_identification',
         )
         idx += 1

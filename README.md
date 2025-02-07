@@ -4,9 +4,12 @@
 ```bash
 conda create -n rg-rag python=3.10
 conda activate rg-rag
+pip install --upgrade pip
 pip install pdftotext
 pip install chromadb sentence_transformers scikit-learn umap-learn graphrag nltk
 pip install ollama
+pip install sgl-kernel --force-reinstall --no-deps
+pip install "sglang[all]>=0.4.2.post2" --find-links https://flashinfer.ai/whl/cu124/torch2.5/flashinfer/
 ```
 
 ### Prepare models
@@ -50,16 +53,17 @@ conda activate rg-rag
 python index.py [options]
 ```
 ##### Options
-| Argument | Short | Type     | Default Value                   | Description                                                                                                                     |
-|--------|---|----------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| `--help` | `-h` |          |                                 | Show the help message of all options and exit.                                                                                  |
-| `--db_path` | `-p` | `str`    | `./my_graphrag/vector_database` | Specify the database path. If the path already exists, check whether the document is in the db, if not, add to the db.          |
-| `--raptor` | `-r` | `bool`   | `True`                          | If True, run raptor index. If False, skip raptor index.                                                                         |
-| `--graphrag` | `-g` | `bool`   | `True`                          | If True, run graphrag index. If False, skip graphrag index.                                                                     |
-| `--chunking` | `-c` | `bool`   | `True`                          | If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk.         |
-| `--del_group` | `-d` | `int`    | `-1`                            | ID of the group to delete. If not provided, skip.                                                                               |
-| `--del_option` | `-o` | `str`    | `all`                           | Options: ['all', 'graphrag', 'raptor']. Choose which part you want to delete in the group.                                      |
-| `--export_prompts`      |   | `bool`   | `False`                         | If True, export the input and output text of all 3 index prompts to prompts folder. If False, skip exporting. Default is False. |
+| Argument           | Short | Type   | Default Value                   | Description                                                                                                                     |
+|--------------------|-------|--------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| `--help`           | `-h`  |        |                                 | Show the help message of all options and exit.                                                                                  |
+| `--db_path`        | `-p`  | `str`  | `./my_graphrag/vector_database` | Specify the database path. If the path already exists, check whether the document is in the db, if not, add to the db.          |
+| `--raptor`         | `-r`  | `bool` | `True`                          | If True, run raptor index. If False, skip raptor index.                                                                         |
+| `--graphrag`       | `-g`  | `bool` | `True`                          | If True, run graphrag index. If False, skip graphrag index.                                                                     |
+| `--chunking`       | `-c`  | `bool` | `True`                          | If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk.         |
+| `--del_group`      | `-d`  | `int`  | `-1`                            | ID of the group to delete. If not provided, skip.                                                                               |
+| `--del_option`     | `-o`  | `str`  | `all`                           | Options: ['all', 'graphrag', 'raptor']. Choose which part you want to delete in the group.                                      |
+| `--export_prompts` |       | `bool` | `False`                         | If True, export the input and output text of all 3 index prompts to prompts folder. If False, skip exporting. Default is False. |
+| `--denoise`        |       | `bool` | `True`                          | If True, denoise each chunk and pass the denoise text to graphrag index instead of the original chunk.                          |
 <details>
   <summary>Index the Diamond sutra</summary>
 
@@ -361,19 +365,19 @@ python index.py [options]
 python query.py [options]
 ```
 ##### Options
-| Argument              | Short | Type   | Default Value                  | Description                           |
-|-----------------------|---|--------|--------------------------------|---------------------------------------|
-| `--help`              | `-h` |        |                                | Show the help message of all options and exit. |
-| `--question`          | `-q` | `str`  | `What improvement techniques have people implemented on RAG?` | Provide a question for query.         |
+| Argument              | Short | Type   | Default Value | Description                           |
+|-----------------------|---|--------|----|---------------------------------------|
+| `--help`              | `-h` |        |    | Show the help message of all options and exit. |
+| `--question`          | `-q` | `str`  | `Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?` | Provide a question for query.         |
 | `--db_path`           | `-p` | `str`  | `./my_graphrag/vector_database` | Specify the database path.            |
-| `--list_group`        | `-l` | `bool` | `False`                        | If True, list group details. If False, execute the query. |
-| `--group_id`          | `-i` | `int`  | `-1 (query all)`               | Group ID to query. If not provided, query all. |
-| `--query_option`      | `-o` | `int`  | `1`                            | 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Basic RAG: base |
-| `--top_k`             | `-k` | `int`  | `20`                           | Top k number of chunks that query is based on. |
-| `--export_reports`    |   | `bool` | `False`                        | If True, export the GraphRAG community reports or Raptor summaries. If False, do not export. Default is False. |
-| `--export_type`       |   | `int`    | `1`                            | 1. GraphRAG community reports; 2. Raptor summaries                                      |
-| `--export_group_name` |   | `str`    | `''`                             | You need to specify export_group_name or export_group_id. |
-| `--export_group_id`   |   | `int`    | `-1`                             | You need to specify export_group_name or export_group_id. |
+| `--list_group`        | `-l` | `bool` | `False` | If True, list group details. If False, execute the query. |
+| `--group_id`          | `-i` | `int`  | `-1 (query all)` | Group ID to query. If not provided, query all. |
+| `--query_option`      | `-o` | `int`  | `1` | 1. GraphRAG + Raptor: community report + summary; 2. Raptor: base + summary; 3. GraphRAG: community report; 4. Basic RAG: base |
+| `--top_k`             | `-k` | `int`  | `20` | Top k number of chunks that query is based on. |
+| `--export_reports`    |   | `bool` | `False` | If True, export the GraphRAG community reports or Raptor summaries. If False, do not export. Default is False. |
+| `--export_type`       |   | `int`    | `1` | 1. GraphRAG community reports; 2. Raptor summaries                                      |
+| `--export_group_name` |   | `str`    | `''` | You need to specify export_group_name or export_group_id. |
+| `--export_group_id`   |   | `int`    | `-1` | You need to specify export_group_name or export_group_id. |
 <details>
   <summary>Query the Diamond sutra</summary>
 

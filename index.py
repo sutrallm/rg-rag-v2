@@ -6,10 +6,11 @@ import hashlib
 import pathlib
 import csv
 import pdftotext
-import ollama
 from datetime import datetime
 import graphrag.my_graphrag.db as db
+import graphrag.my_graphrag.model as model
 from graphrag.my_graphrag.raptor import raptor_index
+
 
 FILE_DIR = os.path.dirname(os.path.realpath(__file__))
 PRJ_DIR = os.path.join(FILE_DIR, './my_graphrag')
@@ -20,8 +21,6 @@ LOG_DIR = os.path.join(FILE_DIR, 'log')
 PROMPTS_DIR = os.path.join(FILE_DIR, 'prompts')
 TMP_PROMPTS_DIR = os.path.join(PROMPTS_DIR, 'tmp')
 DENOISING_PROMPT_DIR = os.path.join(PROMPTS_DIR, 'denoising')
-
-MODEL_NAME = 'llama3.1:8b-instruct-q8_0'
 
 
 DENOISING_PROMPT = '''
@@ -51,29 +50,7 @@ def extract_text_from_pdf(pdf_path, save_txt_file=False):
 def get_denoising_chunk(original_chunk, group_chunk_idx, denoising_group_dir=''):
     prompt = DENOISING_PROMPT.format(input_text=original_chunk)
 
-    response = ollama.chat(
-        model=MODEL_NAME,
-        messages=[
-            {
-                "role": "user",
-                "content": prompt
-            },
-        ],
-        options={
-            'temperature': 0.1,
-        }
-        # david suggestion based on Fireworks parameters
-        # options = {
-        #     'num_ctx': 4096,
-        #     'num_predict': 4096,
-        #     'top_p': 1,
-        #     'top_k': 40,
-        #     'presence_penalty': 0,
-        #     'frequency_penalty': 0,
-        #     'temperature': 0.6,
-        # }
-    )
-    output = response['message']['content']
+    output = model.get_response_from_sgl(prompt)
 
     if denoising_group_dir and os.path.isdir(denoising_group_dir):
         # export input and output
@@ -90,13 +67,19 @@ def get_denoising_chunk(original_chunk, group_chunk_idx, denoising_group_dir='')
     return output
 
 
-def save_group_and_paper(chunking_option, export_prompts):
+def save_group_and_paper(chunking_option, export_prompts, denoise):
+    if denoise:
+        # use llama for denoise
+        model.start_sgl_server_llama()
+
     cur_group_list = db.get_all_groups()
     cur_paper_list = db.get_all_papers()
 
     new_paper_list_list_graphrag = []
     new_paper_list_list_raptor = []
-    for group_name in os.listdir(INPUT_DIR):
+    group_folder_list = os.listdir(INPUT_DIR)
+    group_folder_list.sort()
+    for group_name in group_folder_list:
         new_graphrag = False
         new_raptor = False
 
@@ -160,9 +143,8 @@ def save_group_and_paper(chunking_option, export_prompts):
                     os.mkdir(denoising_group_dir)
 
                 for i, chunk in enumerate(chunks):
-                    # TODO denoising stuff
-                    # denoising_chunk = get_denoising_chunk(chunk, i, denoising_group_dir)
-                    db.save_new_chunk(chunk, paper_id, group_id, denoising_chunk='')
+                    denoising_chunk = get_denoising_chunk(chunk, i, denoising_group_dir) if denoise else ''
+                    db.save_new_chunk(chunk, paper_id, group_id, denoising_chunk=denoising_chunk)
 
             new_paper_list.append(
                 {
@@ -177,6 +159,9 @@ def save_group_and_paper(chunking_option, export_prompts):
                 new_paper_list_list_graphrag.append(new_paper_list)
             if new_raptor:
                 new_paper_list_list_raptor.append(new_paper_list)
+
+    if denoise:
+        model.stop_sgl_server()
 
     return new_paper_list_list_graphrag, new_paper_list_list_raptor
 
@@ -268,6 +253,13 @@ def process_arguments():
         help=f'If True, export the input and output text of all 3 index prompts to {PROMPTS_DIR}. If False, skip exporting. Default is False.'
     )
 
+    parser.add_argument(
+        '--denoise',
+        type=lambda x: x.lower() == 'true',
+        default=True,
+        help=f'If True, denoise each chunk and pass the denoise text to graphrag index instead of the original chunk.'
+    )
+
     args = parser.parse_args()
 
     if not args.raptor and not args.graphrag:
@@ -315,6 +307,9 @@ def main():
     if not check_config_example_dir():
         return
 
+    model.remove_model_tmp_file()
+    model.check_model_dir()
+
     if os.path.isdir(TMP_CONFIG_DIR):
         shutil.rmtree(TMP_CONFIG_DIR)
 
@@ -333,10 +328,13 @@ def main():
             shutil.rmtree(DENOISING_PROMPT_DIR)
         os.mkdir(DENOISING_PROMPT_DIR)
 
-    new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.chunking, args.export_prompts)
+    new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.chunking, args.export_prompts, args.denoise)
 
     start_time_graphrag = datetime.now()
     if args.graphrag:
+        # use deepseek for graphrag indexing
+        model.start_sgl_server_deepseek()
+
         for new_paper_list in new_paper_list_list_graphrag:
             start_time_one_group = datetime.now()
 
@@ -396,7 +394,7 @@ def main():
                     shutil.rmtree(DENOISING_PROMPT_DIR)
 
                 if os.path.isdir(TMP_PROMPTS_DIR):
-                    shutil.move(TMP_PROMPTS_DIR, os.path.join(PROMPTS_DIR, group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S')))
+                    shutil.move(TMP_PROMPTS_DIR, os.path.join(PROMPTS_DIR, 'index-' + group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S')))
                 else:
                     print(f'No prompts folder found for {group_name}')
 
@@ -408,10 +406,17 @@ def main():
 
             db.rm_group_id_tmp_file()
 
+        model.stop_sgl_server()
+
     end_time_graphrag = datetime.now()
 
     if args.raptor:
+        # use llama for raptor summary
+        model.start_sgl_server_llama()
+
         raptor_index([p['paper_id'] for l in new_paper_list_list_raptor for p in l], log_path)
+
+        model.stop_sgl_server()
 
     end_time_raptor = datetime.now()
 

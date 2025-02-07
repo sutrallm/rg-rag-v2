@@ -12,8 +12,9 @@ from graphrag.index.typing import ErrorHandlerFn
 from graphrag.index.utils import dict_has_keys_with_types
 from graphrag.llm import CompletionLLM
 
-from .prompts import COMMUNITY_REPORT_PROMPT, COMMUNITY_REPORT_PROMPT2
+from .prompts import COMMUNITY_REPORT_PROMPT
 from graphrag.my_graphrag.db import save_new_community_report
+import graphrag.my_graphrag.model as model
 
 import re
 import csv
@@ -83,102 +84,35 @@ class CommunityReportsExtractor:
 
     async def __call__(self, inputs: dict[str, Any]):
         """Call method definition."""
-        original_input = ''
-        converted_input = ''
-        output1 = ''
-        output2 = ''
-        success1 = False
-        success2 = False
-        converted_output1 = {}
-        converted_output2 = {}
-        converted_output = {}
-
         try:
             original_input = inputs[self._input_text_key]
             converted_input = self._convert_input(original_input)
 
-            response1 = (
-                await self._llm(
-                    COMMUNITY_REPORT_PROMPT,
-                    # 240805 response will be new format, convert to json format at later step
-                    # json=True,
-                    name="create_community_report",
-                    # variables={self._input_text_key: inputs[self._input_text_key]},
-                    variables={self._input_text_key: converted_input},
-                    # is_response_valid=lambda x: dict_has_keys_with_types(
-                    #     x,
-                    #     [
-                    #         ("title", str),
-                    #         ("summary", str),
-                    #         ("findings", list),
-                    #         ("rating", float),
-                    #         ("rating_explanation", str),
-                    #     ],
-                    # ),
-                    model_parameters={"max_tokens": self._max_report_length},
-                )
-                or ''
-            )
-            output1 = response1.output or ''
+            desc_list = re.findall(r'<description>(.*?)</description>', converted_input, re.DOTALL)
+            desc_input = '\n\n'.join(desc_list)
 
-            converted_output1 = self._convert_output(output1)
+            community_prompt = COMMUNITY_REPORT_PROMPT.format(input_text=desc_input)
+            output = model.get_response_from_sgl(community_prompt)
 
             await self._export_prompt(
-                prompt_input=COMMUNITY_REPORT_PROMPT.format(input_text=converted_input),
-                prompt_output=output1,
-                prompt_type_name='1',
+                prompt_input=community_prompt,
+                prompt_output=output,
+                prompt_type_name='community_report',
             )
 
-            # 240808 try 2 times
-            if converted_output1:
-                success1 = True
-                converted_output = converted_output1
-
-            else:
-                response2 = (
-                        await self._llm(
-                            COMMUNITY_REPORT_PROMPT2,
-                            name="create_community_report",
-                            variables={self._input_text_key: converted_input},
-                            model_parameters={"max_tokens": self._max_report_length},
-                        )
-                        or ''
-                )
-                output2 = response2.output or ''
-
-                converted_output2 = self._convert_output(output2)
-
-                await self._export_prompt(
-                    prompt_input=COMMUNITY_REPORT_PROMPT2.format(input_text=converted_input),
-                    prompt_output=output2,
-                    prompt_type_name='2',
-                )
-
-                if converted_output2:
-                    success2 = True
-                    converted_output = converted_output2
+            save_new_community_report(
+                converted_input,
+                output,
+            )
 
         except Exception as e:
             log.exception("error generating community report")
             self._on_error(e, traceback.format_exc(), None)
 
-        text_output = self._get_text_output(converted_output)
-
-        # 240904 save community report to chromadb
-        if converted_output:
-            save_new_community_report(
-                converted_input,
-                text_output,
-                converted_output['title'],
-                converted_output['summary'],
-                converted_output['rating'],
-                converted_output['rating_explanation'],
-                json.dumps(converted_output['findings']),
-            )
-
+        # no need to continue the graphrag process
         return CommunityReportsResult(
-            structured_output=converted_output,
-            output=text_output,
+            structured_output={},
+            output='',
         )
 
     def _get_text_output(self, parsed_output: dict) -> str:

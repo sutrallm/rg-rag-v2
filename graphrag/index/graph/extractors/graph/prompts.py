@@ -355,7 +355,7 @@ A source text is provided below, along with the entities and relationships extra
 '''
 
 ENTITIES_IDENTIFICATION_PROMPT = '''
-A source text and a list of entities are provided below. Identify all entities whose <entity_name> appears in the source text. Return only the matching entities in their original xml format.
+A source text and a list of entities are provided below. Identify all entities whose <entity_name> appears in the source text. Return only the matching entities in their original XML format.
 
 == Source Text
 
@@ -364,4 +364,8 @@ A source text and a list of entities are provided below. Identify all entities w
 == Entities
 
 {entities}
+
+== Important Reminder
+
+You must output the entities in their original XML format.
 '''
