@@ -343,7 +343,7 @@ Text:
 '''
 
 GLEANING_PROMPT = '''
-A source text is provided below, along with the entities and relationships extracted from it in XML format. However, some entities or relationships might be missing. Please identify and list the missing ones if any using the same format. Ensure that only entities and relationships explicitly mentioned in the source text are added. Do not create any additional entities or relationships beyond those mentioned in the text. If you are not able to identify any additional ones, just put the single word NOMORE in your reply.
+A source text is provided below, along with the entities and relationships extracted from it in XML format. However, some entities or relationships might be missing. Please identify and list the missing ones if any using the same format. Ensure that only entities and relationships explicitly mentioned in the source text are added. Do not create any additional entities or relationships beyond those mentioned in the text. If you are not able to identify any additional ones, just put the single word NOMORE in your reply, do not add any extra punctuation, characters, or explanations.
 
 == Source Text
 
@@ -352,6 +352,10 @@ A source text is provided below, along with the entities and relationships extra
 == Entities and Relationships
 
 {previous_output}
+
+== Important Reminder
+
+If you find any missing entities or relationships, add them using the exact same tags as the provided XML format. Do not create new XML tags beyond those in the provided example.
 '''
 
 ENTITIES_IDENTIFICATION_PROMPT = '''

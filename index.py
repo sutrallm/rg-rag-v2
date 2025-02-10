@@ -143,7 +143,7 @@ def save_group_and_paper(chunking_option, export_prompts, denoise):
                     os.mkdir(denoising_group_dir)
 
                 for i, chunk in enumerate(chunks):
-                    denoising_chunk = get_denoising_chunk(chunk, i, denoising_group_dir) if denoise else ''
+                    denoising_chunk = get_denoising_chunk(chunk, f'{paper_id}_{i}', denoising_group_dir) if denoise else ''
                     db.save_new_chunk(chunk, paper_id, group_id, denoising_chunk=denoising_chunk)
 
             new_paper_list.append(

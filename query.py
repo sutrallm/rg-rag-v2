@@ -394,7 +394,7 @@ def main():
 
 
 def main_with_timeout():
-    timeout = 4 * 60  # 4 minutes timeout
+    timeout = 5 * 60  # 5 minutes timeout
     process = Process(target=main, args=())
     process.start()
     process.join(timeout)
