@@ -118,6 +118,13 @@ def save_group_and_paper(chunking_option, export_prompts, denoise):
 
         group_id = db.save_new_group(group_name) if existing_group_id is None else existing_group_id
 
+        denoising_group_dir = ''
+        if export_prompts:
+            denoising_group_dir = os.path.join(DENOISING_PROMPT_DIR, group_name)
+            if os.path.isdir(denoising_group_dir):
+                shutil.rmtree(denoising_group_dir)
+            os.mkdir(denoising_group_dir)
+
         new_paper_list = []
         for txt_file_path in txt_file_list:
             with open(txt_file_path, 'r') as txtf:
@@ -134,13 +141,6 @@ def save_group_and_paper(chunking_option, export_prompts, denoise):
             if paper_id is None:
                 paper_id = db.save_new_paper(paper_content, paper_name, group_id)
                 chunks = db.split_text_into_chunks(paper_content) if chunking_option else [paper_content]
-
-                denoising_group_dir = ''
-                if export_prompts:
-                    denoising_group_dir = os.path.join(DENOISING_PROMPT_DIR, group_name)
-                    if os.path.isdir(denoising_group_dir):
-                        shutil.rmtree(denoising_group_dir)
-                    os.mkdir(denoising_group_dir)
 
                 for i, chunk in enumerate(chunks):
                     denoising_chunk = get_denoising_chunk(chunk, f'{paper_id}_{i}', denoising_group_dir) if denoise else ''
