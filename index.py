@@ -17,10 +17,10 @@ PRJ_DIR = os.path.join(FILE_DIR, './my_graphrag')
 CONFIG_EXAMPLE_DIR = os.path.join(PRJ_DIR, 'config_example')
 INPUT_DIR = os.path.join(PRJ_DIR, 'input_groups')
 TMP_CONFIG_DIR = os.path.join(PRJ_DIR, 'output/tmp_config')
-LOG_DIR = os.path.join(FILE_DIR, 'log')
 PROMPTS_DIR = os.path.join(FILE_DIR, 'prompts')
 TMP_PROMPTS_DIR = os.path.join(PROMPTS_DIR, 'tmp')
 DENOISING_PROMPT_DIR = os.path.join(PROMPTS_DIR, 'denoising')
+OUTPUT_DIR = os.path.join(FILE_DIR, 'output')
 
 
 DENOISING_PROMPT = '''
@@ -250,7 +250,7 @@ def process_arguments():
         '--export_prompts',
         type=lambda x: x.lower() == 'true',
         default=False,
-        help=f'If True, export the input and output text of all 3 index prompts to {PROMPTS_DIR}. If False, skip exporting. Default is False.'
+        help=f'If True, export the input and output text of all 3 index prompts. If False, skip exporting. Default is False.'
     )
 
     parser.add_argument(
@@ -313,15 +313,21 @@ def main():
     if os.path.isdir(TMP_CONFIG_DIR):
         shutil.rmtree(TMP_CONFIG_DIR)
 
-    if not os.path.isdir(LOG_DIR):
-        os.mkdir(LOG_DIR)
+    if not os.path.isdir(OUTPUT_DIR):
+        os.mkdir(OUTPUT_DIR)
 
     if not os.path.isdir(PROMPTS_DIR):
         os.mkdir(PROMPTS_DIR)
     if os.path.isdir(TMP_PROMPTS_DIR):
         shutil.rmtree(TMP_PROMPTS_DIR)
 
-    log_path = os.path.join(LOG_DIR, 'index_progress_log_%s.csv' % (start_time.strftime('%Y-%m-%d-%H-%M-%S')))
+    db_output_dir = os.path.join(OUTPUT_DIR, os.path.basename(os.path.normpath(db.get_db_path())))
+    db_output_prompts_dir = os.path.join(db_output_dir, 'prompts')
+    os.makedirs(db_output_prompts_dir, exist_ok=True)
+    db_output_graphrag_output_dir = os.path.join(db_output_dir, 'graphrag_output')
+    os.makedirs(db_output_graphrag_output_dir, exist_ok=True)
+
+    log_path = os.path.join(db_output_dir, 'index_log_%s.csv' % (start_time.strftime('%Y-%m-%d-%H-%M-%S')))
 
     if args.export_prompts:
         if os.path.isdir(DENOISING_PROMPT_DIR):
@@ -380,9 +386,7 @@ def main():
             end_time_one_group = datetime.now()
 
             if os.path.isdir(TMP_CONFIG_DIR):
-                # shutil.rmtree(TMP_CONFIG_DIR)
-                # ymdhm = datetime.now().strftime('-%Y-%m-%d-%H-%M')
-                shutil.move(TMP_CONFIG_DIR, TMP_CONFIG_DIR + '-' + group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S'))
+                shutil.move(TMP_CONFIG_DIR, os.path.join(db_output_graphrag_output_dir, group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S')))
 
             if args.export_prompts:
                 denoising_group_dir = os.path.join(DENOISING_PROMPT_DIR, group_name)
@@ -394,7 +398,7 @@ def main():
                     shutil.rmtree(DENOISING_PROMPT_DIR)
 
                 if os.path.isdir(TMP_PROMPTS_DIR):
-                    shutil.move(TMP_PROMPTS_DIR, os.path.join(PROMPTS_DIR, 'index-' + group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S')))
+                    shutil.move(TMP_PROMPTS_DIR, os.path.join(db_output_prompts_dir, 'index-' + group_name + end_time_one_group.strftime('-%Y-%m-%d-%H-%M-%S')))
                 else:
                     print(f'No prompts folder found for {group_name}')
 
@@ -407,6 +411,9 @@ def main():
             db.rm_group_id_tmp_file()
 
         model.stop_sgl_server()
+
+    if os.path.isdir(PROMPTS_DIR) and len(os.listdir(PROMPTS_DIR)) == 0:
+        shutil.rmtree(PROMPTS_DIR)
 
     end_time_graphrag = datetime.now()
 

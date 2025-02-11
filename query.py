@@ -236,11 +236,14 @@ def export_reports(export_type, export_group_name, export_group_id):
         os.mkdir(OUTPUT_DIR)
 
     db_name = os.path.basename(os.path.normpath(db.get_db_path()))
+    db_output_export_reports_dir = os.path.join(OUTPUT_DIR, db_name, 'export_reports')
+    os.makedirs(db_output_export_reports_dir, exist_ok=True)
+
     export_type_name = 'GraphRAG_community_reports' if export_type == 1 else 'Raptor_summaries'
-    timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
-    folder_name = f'{export_group_id}-{export_group_name}-{export_type_name}-{db_name}-{timestamp}'
-    output_report_folder = os.path.join(OUTPUT_DIR, folder_name)
-    os.mkdir(output_report_folder)
+    timestamp = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+    folder_name = f'{export_group_id}-{export_group_name}-{export_type_name}-{timestamp}'
+    output_report_folder = os.path.join(db_output_export_reports_dir, folder_name)
+    os.makedirs(output_report_folder, exist_ok=True)
 
     if export_type == 1:
         report_list = db.get_all_community_reports()
@@ -318,7 +321,12 @@ def main():
 
     global EXPORT_PROMPTS_DIR
     if args.export_prompts:
-        EXPORT_PROMPTS_DIR = os.path.join(FILE_DIR, 'prompts', f'query-{datetime.now().strftime("%Y%m%d%H%M%S")}-{args.query_option}-{query_type.replace(" ", "")}')
+        EXPORT_PROMPTS_DIR = os.path.join(
+            OUTPUT_DIR,
+            os.path.basename(os.path.normpath(db.get_db_path())),
+            'prompts',
+            f'query-{datetime.now().strftime("%Y-%m-%d-%H-%M-%S")}-{args.query_option}-{query_type.replace(" ", "")}'
+        )
         os.makedirs(EXPORT_PROMPTS_DIR, exist_ok=True)
 
     query_chunk_list = db.get_query_chunks(args.query_option, QUESTION, args.top_k, args.group_id)
