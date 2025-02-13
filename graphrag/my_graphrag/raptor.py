@@ -54,7 +54,8 @@ def convert_chunk_list(chunk_list):
     # [{'chunk_id': , 'chunk_content': , 'group_id': }]
     new_chunk_list = []
     for chunk in chunk_list:
-        new_chunk_list.append(Chunk(text=chunk['chunk_content'], index=chunk['chunk_id'], children=[], group_id=chunk['group_id']))
+        for sub_chunk in chunk['sub_chunks']:
+            new_chunk_list.append(Chunk(text=sub_chunk, index=chunk['chunk_id'], children=[], group_id=chunk['group_id']))
     return new_chunk_list
 
 
@@ -188,6 +189,7 @@ def raptor_index(new_paper_id_list, log_path):
 
             chunks = []
             for summary, children_idx in summary_chunks:
+                children_idx = list(set(children_idx))
                 summary_id = db.save_new_summary(summary, children_idx, from_base_chunk, root_summary, group_id)
                 chunks.append(Chunk(summary, summary_id, children_idx, group_id, from_base_chunk, root_summary))
 

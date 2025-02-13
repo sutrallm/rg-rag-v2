@@ -2,7 +2,6 @@ import os
 import shutil
 import subprocess
 import argparse
-import hashlib
 import pathlib
 import csv
 import pdftotext
@@ -24,7 +23,13 @@ OUTPUT_DIR = os.path.join(FILE_DIR, 'output')
 
 
 DENOISING_PROMPT = '''
-Reorganise the following text in bullet points. Focus on the principles described; remove the dialogue style and anything related to individuals. Do not omit details. No need to provide headings. Do not add anything beyond those mentioned in the text.
+Reorganise the following text into bullet points. Focus on the principles described, removing any dialogue style or references to individuals. Do not omit any details. There is no need to include headings. Do not add anything beyond what is mentioned in the text. Use "#" as the bullet marker.
+
+e.g.
+
+# point 1
+# point 2
+# point 3
 
 == Text
 
@@ -67,10 +72,9 @@ def get_denoising_chunk(original_chunk, group_chunk_idx, denoising_group_dir='')
     return output
 
 
-def save_group_and_paper(chunking_option, export_prompts, denoise):
-    if denoise:
-        # use llama for denoise
-        model.start_sgl_server_llama()
+def save_group_and_paper(export_prompts):
+    # use llama for denoise
+    model.start_sgl_server_llama()
 
     cur_group_list = db.get_all_groups()
     cur_paper_list = db.get_all_papers()
@@ -140,11 +144,9 @@ def save_group_and_paper(chunking_option, export_prompts, denoise):
 
             if paper_id is None:
                 paper_id = db.save_new_paper(paper_content, paper_name, group_id)
-                chunks = db.split_text_into_chunks(paper_content) if chunking_option else [paper_content]
-
-                for i, chunk in enumerate(chunks):
-                    denoising_chunk = get_denoising_chunk(chunk, f'{paper_id}_{i}', denoising_group_dir) if denoise else ''
-                    db.save_new_chunk(chunk, paper_id, group_id, denoising_chunk=denoising_chunk)
+                chunk = paper_content
+                denoising_chunk = get_denoising_chunk(chunk, f'{paper_id}', denoising_group_dir)
+                db.save_new_chunk(chunk, paper_id, group_id, denoising_chunk=denoising_chunk)
 
             new_paper_list.append(
                 {
@@ -160,8 +162,7 @@ def save_group_and_paper(chunking_option, export_prompts, denoise):
             if new_raptor:
                 new_paper_list_list_raptor.append(new_paper_list)
 
-    if denoise:
-        model.stop_sgl_server()
+    model.stop_sgl_server()
 
     return new_paper_list_list_graphrag, new_paper_list_list_raptor
 
@@ -225,13 +226,6 @@ def process_arguments():
     )
 
     parser.add_argument(
-        '--chunking', '-c',
-        type=lambda x: x.lower() == 'true',
-        default=True,
-        help='If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk. Default is True.'
-    )
-
-    parser.add_argument(
         '--del_group', '-d',
         type=int,
         default=-1,
@@ -251,13 +245,6 @@ def process_arguments():
         type=lambda x: x.lower() == 'true',
         default=False,
         help=f'If True, export the input and output text of all 3 index prompts. If False, skip exporting. Default is False.'
-    )
-
-    parser.add_argument(
-        '--denoise',
-        type=lambda x: x.lower() == 'true',
-        default=True,
-        help=f'If True, denoise each chunk and pass the denoise text to graphrag index instead of the original chunk.'
     )
 
     args = parser.parse_args()
@@ -334,7 +321,7 @@ def main():
             shutil.rmtree(DENOISING_PROMPT_DIR)
         os.mkdir(DENOISING_PROMPT_DIR)
 
-    new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.chunking, args.export_prompts, args.denoise)
+    new_paper_list_list_graphrag, new_paper_list_list_raptor = save_group_and_paper(args.export_prompts)
 
     start_time_graphrag = datetime.now()
     if args.graphrag:

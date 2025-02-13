@@ -6,6 +6,10 @@ import chromadb
 import hashlib
 from pathlib import Path
 
+import nltk
+nltk.download('punkt')
+from nltk.tokenize import word_tokenize
+
 FILE_DIR = Path(os.path.dirname(os.path.realpath(__file__))).parent.parent.absolute()
 DATABASE_PATH = os.path.join(FILE_DIR, './my_graphrag/vector_database')
 DB_TMP_FILE_PATH = os.path.join(FILE_DIR, './my_graphrag/db_tmp_file.txt')
@@ -53,9 +57,9 @@ def get_id(collection_name: str, query_content: str, metadatas=''):
     try:
         client = chromadb.PersistentClient(path=get_db_path())
         collection = client.get_collection(name=collection_name)
+        all_data = collection.get()
 
         if ids == '0':
-            all_data = collection.get()
             query_content_clean = re.sub(r'\s+', '', query_content)
             for i in range(len(all_data['ids'])):
                 if group_id_validity and 'group_id' in all_data['metadatas'][i] and all_data['metadatas'][i]['group_id'] != group_id:
@@ -162,6 +166,8 @@ def save_new_chunk(chunk, paper_id, group_id, denoising_chunk=''):
     # documents: chunk_content
     # metadatas: paper_id
 
+    sub_chunks = split_text_into_sub_chunks(denoising_chunk) if denoising_chunk else []
+
     chunk_id = save_new_item(
         COLLECTION_CHUNK,
         chunk,
@@ -169,6 +175,7 @@ def save_new_chunk(chunk, paper_id, group_id, denoising_chunk=''):
             'paper_id': paper_id,
             'group_id': group_id,
             'denoising_chunk': denoising_chunk,
+            'sub_chunks': json.dumps(sub_chunks),
         }
     )
 
@@ -301,6 +308,7 @@ def get_all_chunks():
                     'paper_id': all_data['metadatas'][i]['paper_id'],
                     'group_id': all_data['metadatas'][i]['group_id'],
                     'denoising_chunk': all_data['metadatas'][i]['denoising_chunk'],
+                    'sub_chunks': json.loads(all_data['metadatas'][i]['sub_chunks']),
                 }
             )
 
@@ -749,13 +757,48 @@ def split_text_into_chunks(text, min_num_char=1000):
     return chunks
 
 
+def split_text_into_sub_chunks(denoised_text, min_num_tokens=300):
+    denoised_text = denoised_text.strip()
+
+    blank_line = '\n\n'
+    bullet = '#'
+    join_by = blank_line
+
+    paragraphs = denoised_text.split(blank_line)
+    if len(paragraphs) > 1:
+        points = paragraphs
+    else:
+        points = [bullet + p for p in denoised_text.split(bullet) if p]
+        join_by = ''
+
+    sub_chunks = []
+    current_chunk = []
+    current_length = 0
+
+    for point in points:
+        point_tokens = len(word_tokenize(point))
+
+        if current_length >= min_num_tokens and current_chunk:
+            sub_chunks.append(join_by.join(current_chunk))
+            current_chunk = [point]
+            current_length = point_tokens
+        else:
+            current_chunk.append(point)
+            current_length += point_tokens
+
+    if current_chunk:
+        sub_chunks.append(join_by.join(current_chunk))
+
+    return sub_chunks
+
+
 def get_chunks_for_graphrag(text):
     paper_id = get_id(COLLECTION_PAPER, text)
     chunks = []
     for chunk in get_all_chunks():
         if chunk['paper_id'] == paper_id:
-            if chunk['denoising_chunk'] != '':
-                chunks.append(chunk['denoising_chunk'])
+            if len(chunk['sub_chunks']) > 0:
+                chunks += chunk['sub_chunks']
             else:
                 chunks.append(chunk['chunk_content'])
     return chunks

@@ -57,34 +57,32 @@ def split_text_on_tokens(
         chunks = get_chunks_for_graphrag(text)
         for chunk in chunks:
             # no sub chunk
-            # result.append(
-            #     TextChunk(
-            #         text_chunk=chunk,
-            #         source_doc_indices=[source_doc_idx],
-            #         n_tokens=len(enc.encode(chunk)),
-            #     )
-            # )
-            #
-            # save_new_chunk(chunk, text)
+            result.append(
+                TextChunk(
+                    text_chunk=chunk,
+                    source_doc_indices=[source_doc_idx],
+                    n_tokens=len(enc.encode(chunk)),
+                )
+            )
 
             # add sub chunk
-            encoded = enc.encode(chunk)
-            input_ids: list[tuple[int, int]] = [(source_doc_idx, id) for id in encoded]
-
-            start_idx = 0
-            cur_idx = min(start_idx + enc.tokens_per_chunk, len(input_ids))
-            chunk_ids = input_ids[start_idx:cur_idx]
-            while start_idx < len(input_ids):
-                chunk_text = enc.decode([id for _, id in chunk_ids])
-                result.append(
-                    TextChunk(
-                        text_chunk=chunk_text,
-                        source_doc_indices=[source_doc_idx],
-                        n_tokens=len(chunk_ids),
-                    )
-                )
-                start_idx += enc.tokens_per_chunk - enc.chunk_overlap
-                cur_idx = min(start_idx + enc.tokens_per_chunk, len(input_ids))
-                chunk_ids = input_ids[start_idx:cur_idx]
+            # encoded = enc.encode(chunk)
+            # input_ids: list[tuple[int, int]] = [(source_doc_idx, id) for id in encoded]
+            #
+            # start_idx = 0
+            # cur_idx = min(start_idx + enc.tokens_per_chunk, len(input_ids))
+            # chunk_ids = input_ids[start_idx:cur_idx]
+            # while start_idx < len(input_ids):
+            #     chunk_text = enc.decode([id for _, id in chunk_ids])
+            #     result.append(
+            #         TextChunk(
+            #             text_chunk=chunk_text,
+            #             source_doc_indices=[source_doc_idx],
+            #             n_tokens=len(chunk_ids),
+            #         )
+            #     )
+            #     start_idx += enc.tokens_per_chunk - enc.chunk_overlap
+            #     cur_idx = min(start_idx + enc.tokens_per_chunk, len(input_ids))
+            #     chunk_ids = input_ids[start_idx:cur_idx]
 
     return result

@@ -12,6 +12,24 @@ pip install sgl-kernel --force-reinstall --no-deps
 pip install "sglang[all]>=0.4.2.post2" --find-links https://flashinfer.ai/whl/cu124/torch2.5/flashinfer/
 ```
 
+### Download huggingface models
+Download `llama3.1 8b bf16` from
+```
+https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct/tree/main
+```
+And put them in
+```
+models/Llama-3.1-8B-Instruct/
+```
+Download `Deepseek-r1 8b bf16` from
+```
+https://huggingface.co/deepseek-ai/Deepseek-R1-Distill-Llama-8B/tree/main
+```
+And put them in
+```
+models/Deepseek-R1-Distill-Llama-8B/
+```
+
 ### Prepare models
 ```bash
 ollama pull llama3.1:8b-instruct-q8_0
@@ -59,11 +77,9 @@ python index.py [options]
 | `--db_path`        | `-p`  | `str`  | `./my_graphrag/vector_database` | Specify the database path. If the path already exists, check whether the document is in the db, if not, add to the db.          |
 | `--raptor`         | `-r`  | `bool` | `True`                          | If True, run raptor index. If False, skip raptor index.                                                                         |
 | `--graphrag`       | `-g`  | `bool` | `True`                          | If True, run graphrag index. If False, skip graphrag index.                                                                     |
-| `--chunking`       | `-c`  | `bool` | `True`                          | If True, use our chunking method to chunk each file in the group. If False, consider each file in the group is a chunk.         |
 | `--del_group`      | `-d`  | `int`  | `-1`                            | ID of the group to delete. If not provided, skip.                                                                               |
 | `--del_option`     | `-o`  | `str`  | `all`                           | Options: ['all', 'graphrag', 'raptor']. Choose which part you want to delete in the group.                                      |
 | `--export_prompts` |       | `bool` | `False`                         | If True, export the input and output text of all 3 index prompts to prompts folder. If False, skip exporting. Default is False. |
-| `--denoise`        |       | `bool` | `True`                          | If True, denoise each chunk and pass the denoise text to graphrag index instead of the original chunk.                          |
 <details>
   <summary>Index the Diamond sutra</summary>
 
