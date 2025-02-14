@@ -7,7 +7,6 @@ conda activate rg-rag
 pip install --upgrade pip
 pip install pdftotext
 pip install chromadb sentence_transformers scikit-learn umap-learn graphrag nltk
-pip install ollama
 pip install sgl-kernel --force-reinstall --no-deps
 pip install "sglang[all]>=0.4.2.post2" --find-links https://flashinfer.ai/whl/cu124/torch2.5/flashinfer/
 ```
@@ -28,25 +27,6 @@ https://huggingface.co/deepseek-ai/Deepseek-R1-Distill-Llama-8B/tree/main
 And put them in
 ```
 models/Deepseek-R1-Distill-Llama-8B/
-```
-
-### Prepare models
-```bash
-ollama pull llama3.1:8b-instruct-q8_0
-ollama pull nomic-embed-text
-```
-Create a new 32K `ollama-8b-q8-32k-model` file:
-```
-FROM llama3.1:8b-instruct-q8_0
-PARAMETER num_ctx 32000
-```
-Create a new Ollama model from above model file:
-```bash
-ollama create llama3.1-32k-q8 -f ollama-8b-q8-32k-model
-```
-Check installed models:
-```base
-ollama list
 ```
 
 ### Prepare documents

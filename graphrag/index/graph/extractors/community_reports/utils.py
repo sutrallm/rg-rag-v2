@@ -8,7 +8,15 @@ from typing import cast
 import pandas as pd
 
 import graphrag.index.graph.extractors.community_reports.schemas as schemas
-from graphrag.query.llm.text_utils import num_tokens
+import tiktoken
+
+
+# graphrag.query.llm.text_utils.num_tokens
+def num_tokens(text: str, token_encoder: tiktoken.Encoding | None = None) -> int:
+    """Return the number of tokens in the given text."""
+    if token_encoder is None:
+        token_encoder = tiktoken.get_encoding("cl100k_base")
+    return len(token_encoder.encode(text))  # type: ignore
 
 
 def set_context_size(df: pd.DataFrame) -> None:
