@@ -2,34 +2,78 @@
 
 ![RG-RAG-Workflow](https://github.com/SutraAI/rg-rag/blob/6f56a40b5cb6746fb6d66d832816d2782050aef2/image/rg-rag-workflow-v1.png)
 
-### Setup environment
+# Introduction
+
+
+
+The basic processes are **Index** and **Query**:
+
+### Index
+
+1.	The user provides multiple groups, each containing one or more TXT or PDF files. If a file is in PDF format, it is first converted to TXT.
+2.	For each group, treat each file as a base chunk.
+3.	Denoise each base chunk.
+4.	Split the denoised text into points:
+    - If there are blank lines, use a blank line `\n\n` as the delimiter.
+    - If there are no blank lines, use `#` as the delimiter.
+    - Each split text segment is considered a point, and the number of tokens for each point is calculated.
+5.	Combine points into sub-chunks:
+    - If it is not the last sub-chunk, each sub-chunk must contain at least 300 tokens and should not overlap.
+    - Sub-chunks share the same chunk ID as the base chunk.
+6.	Apply different algorithms:
+    - **Raptor**: Generate summary chunks from sub-chunks using Raptor. Each summary chunk should be tagged with the base chunks it originates from.
+    - **GraphRAG**: Extract entities and relationships from the sub-chunks using GraphRAG. Establish a correspondence between relationships and the base chunks, and create community reports where the relationships are tagged with their originating base chunks.
+7.	Save the base chunks, Raptor's summary chunks, and GraphRAG's community reports in ChromaDB.
+8.	Repeat steps 2–7 for each group.
+
+### Query
+
+1.	Search top k number of chunks based on the query question:
+    - **Raptor** query: base chunk + summary chunks
+    - **Graphrag** query: community reports
+    - **Graphrag** + **Raptor**: community reports + summary chunks
+    - Basic RAG: base chunk
+2.	Process each chunk individually to extract the points relevant to the query.
+3.	Consolidate all relevant points to generate the final answer.
+4.	Tag the relevant chunks with the source group name and file name.
+
+# Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/SutraAI/rg-rag.git
+cd rg-rag
+```
+
+Create and activate a `conda` environment:
 ```bash
 conda create -n rg-rag python=3.10
 conda activate rg-rag
+```
+
+Install dependencies:
+```bash
 pip install --upgrade pip
-pip install pdftotext
 pip install chromadb sentence_transformers scikit-learn umap-learn graphrag nltk
+```
+
+Install `pdftotext`:
+```bash
+sudo apt install build-essential libpoppler-cpp-dev pkg-config python3-dev
+pip install pdftotext
+```
+
+Install `SGLang`:
+```bash
 pip install sgl-kernel --force-reinstall --no-deps
 pip install "sglang[all]>=0.4.2.post2" --find-links https://flashinfer.ai/whl/cu124/torch2.5/flashinfer/
 ```
 
-### Download huggingface models
-Download `llama3.1 8b bf16` from
-```
-https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct/tree/main
-```
-And put them in
-```
-models/Llama-3.1-8B-Instruct/
-```
-Download `Deepseek-r1 8b bf16` from
-```
-https://huggingface.co/deepseek-ai/Deepseek-R1-Distill-Llama-8B/tree/main
-```
-And put them in
-```
-models/Deepseek-R1-Distill-Llama-8B/
-```
+### Download models from HuggingFace
+Download [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct/tree/main) 
+and put them in `models/Llama-3.1-8B-Instruct/` folder.
+
+Download [deepseek-ai/DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/deepseek-ai/Deepseek-R1-Distill-Llama-8B/tree/main) and put them in `models/Deepseek-R1-Distill-Llama-8B/` folder.
 
 ### Prepare documents
 Copy some documents into the `input_groups` folder:
