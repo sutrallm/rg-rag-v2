@@ -1,6 +1,6 @@
 # Prompts
 
-### Index
+## Index
 
 **Denoise**
 
@@ -355,6 +355,7 @@ Entity:
 Description List:
 {description_list}
 ```
+</details>
 
 <details>
 <summary>5.	Generate community report</summary>
@@ -375,3 +376,36 @@ Insights: List and explain the insights derived from the text. Provide a heading
 {input_text}
 ```
 </details>
+
+## Query
+
+<details>
+<summary>1. Extract relevant points for each chunk</summary>
+
+```
+You are provided with a question and a piece of text below. Please determine whether the text is relevant to the question. Indicate your answer by putting yes or no within <relevant> </relevant> tags. If the text is relevant, extract the relevant information in bullet points, placing the bullets within <info> </info> tags. Add a blank line between each bullet. Do not mention the source of information or “the text” in your response. Put a heading for the relevant  nformation. The heading should be in <heading></heading> tags and within <info> </info> tags.
+
+<question>
+{question}
+</question>
+
+<text>
+{context}
+</text>
+```
+</details>
+
+<details>
+<summary>2.	Consolidate all relevant points to generate the final answer</summary>
+
+```
+You are provided with a question and some pieces of information below. Please provide a structured answer to the question based on the given information. Do not mention that your answer is based on these information. Provide as much detail in the answer as possible.
+
+<question>
+{question}
+</question>
+
+{context}
+```
+</details>
+
