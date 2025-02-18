@@ -1,12 +1,16 @@
 # RG-RAG
 
-![RG-RAG-Workflow](https://github.com/SutraAI/rg-rag/blob/6f56a40b5cb6746fb6d66d832816d2782050aef2/image/rg-rag-workflow-v1.png)
-
 # Introduction
 
+This is a small experiment with Raptor, Microsoft Graphrag (hereafter referred to as Graphrag), Llama 3.1, and Deepseek R1. Raptor essentially creates a hierarchy of summaries from a source document, while Graphrag gains insight through a graph representation of the same document. We integrate the Raptor and Graphrag methods and name the resulting system RG-Rag, as shown in the diagram below.
 
+![RG-RAG-Workflow](https://github.com/SutraAI/rg-rag/blob/6f56a40b5cb6746fb6d66d832816d2782050aef2/image/rg-rag-workflow-v1.png)
 
-The basic processes are **Index** and **Query**:
+Deepseek is used for reasoning tasks such as graph construction, insight derivation, and query processing. We found that Deepseek R1 tends to over-reason for simple denoising and summarization tasks; therefore, we use Llama 3.1 for these purposes. Buddhist sutras are typically repetitive and contain a lot of dialogue. Since we are more interested in the underlying concepts, we added a denoising step to remove dialogue styles and repetitive sentences, which shortens the processing time for subsequent steps. Details of the modifications made to the original Raptor and Graphrag methods are provided in the following sections.
+
+We aim to run the entire project locally on a single RTX4090, using the 8b versions of Llama 3.1 and Deepseek R1.
+
+For our experiments, we used several Buddhist sutras (including the Diamond Sutra and the Saṃyutta Nikāya of the Pali Canon) as knowledge sources. These sutras were obtained from CBETA (https://www.cbeta.org/) and translated from Chinese to English using the online version of the Deepseek R1 API. The vector databases for these sutras can be found in this repository.
 
 ### Index
 
