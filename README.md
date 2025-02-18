@@ -1,5 +1,7 @@
 # RG-RAG
 
+![RG-RAG-Workflow](https://github.com/SutraAI/rg-rag/blob/6f56a40b5cb6746fb6d66d832816d2782050aef2/image/rg-rag-workflow-v1.png)
+
 ### Setup environment
 ```bash
 conda create -n rg-rag python=3.10
