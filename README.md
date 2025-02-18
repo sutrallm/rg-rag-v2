@@ -37,6 +37,14 @@ The basic processes are **Index** and **Query**:
 3.	Consolidate all relevant points to generate the final answer.
 4.	Tag the relevant chunks with the source group name and file name.
 
+### Prompts
+
+Please refer to [Prompts.md](Prompts.md).
+
+### Comparison
+
+Please refer to [Comparison.md](Comparison.md).
+
 # Installation
 
 Clone the repository:
