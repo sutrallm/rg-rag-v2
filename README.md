@@ -53,6 +53,10 @@ Please refer to [Comparison.md](Comparison.md).
 
 Please refer to [Results.md](Results.md).
 
+### Translation
+
+Please refer to [sutrallm/loop](https://github.com/sutrallm/loop) about how to translate Chinese sutras to English.
+
 # Installation
 
 Clone the repository:
