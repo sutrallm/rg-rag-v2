@@ -223,7 +223,7 @@ python index.py -p my_graphrag/vector_db_t0235_20250213/ --export_prompts True
 <h4>GraphRAG + Raptor query</h4>
 
 ```
-python query.py -p "./my_graphrag/vector_db_t0235_20240213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 1
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 1
 ```
 
 ```
@@ -250,7 +250,7 @@ t0235: t0235
 <h4>Raptor query</h4>
 
 ```
-python query.py -p "./my_graphrag/vector_db_t0235_20240213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 2
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 2
 ```
 
 ```
@@ -268,7 +268,7 @@ t0235: t0235
 <h4>GraphRAG query</h4>
 
 ```
-python query.py -p "./my_graphrag/vector_db_t0235_20240213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 3
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 3
 ```
 
 ```
@@ -286,7 +286,7 @@ t0235: t0235
 <h4>Basic RAG query</h4>
 
 ```
-python query.py -p "./my_graphrag/vector_db_t0235_20240213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 4
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 4
 ```
 
 ```
