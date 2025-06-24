@@ -83,17 +83,19 @@ sudo apt install build-essential libpoppler-cpp-dev pkg-config python3-dev
 pip install pdftotext
 ```
 
-Install `SGLang`:
+Install `openai`:
 ```bash
-pip install sgl-kernel --force-reinstall --no-deps
-pip install "sglang[all]>=0.4.2.post2" --find-links https://flashinfer.ai/whl/cu124/torch2.5/flashinfer/
+pip install --upgrade openai
 ```
 
-### Download models from HuggingFace
-Download [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct/tree/main) 
-and put them in `models/Llama-3.1-8B-Instruct/` folder.
+### Check API connection
+```bash
+export DEEPSEEK_API_TOKEN='api-token'
+export DEEPSEEK_API_MODEL='deepseek/deepseek-r1'
+export DEEPSEEK_API_URL='https://openrouter.ai/api/v1'
 
-Download [deepseek-ai/DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/deepseek-ai/Deepseek-R1-Distill-Llama-8B/tree/main) and put them in `models/Deepseek-R1-Distill-Llama-8B/` folder.
+python check.py --prompt="Good morning"
+```
 
 ### Prepare documents
 Copy some documents into the `input_groups` folder:

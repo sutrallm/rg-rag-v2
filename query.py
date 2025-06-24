@@ -4,7 +4,7 @@ import argparse
 from datetime import datetime
 from multiprocessing import Process
 import graphrag.my_graphrag.db as db
-import graphrag.my_graphrag.model as model
+import graphrag.my_graphrag.cloud as model
 
 
 FILE_DIR = os.path.dirname(os.path.realpath(__file__))
