@@ -7,4 +7,5 @@ my_graphrag/input_groups/
 my_graphrag/output/
 my_graphrag/vector_database/
 my_graphrag/vector_db_*/
+my_graphrag/db_tmp_file.txt
 output/
