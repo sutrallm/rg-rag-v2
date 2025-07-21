@@ -14,7 +14,7 @@ from graphrag.llm import CompletionLLM
 
 from .prompts import COMMUNITY_REPORT_PROMPT
 from graphrag.my_graphrag.db import save_new_community_report
-import graphrag.my_graphrag.model as model
+import graphrag.my_graphrag.cloud as model
 
 import re
 import csv
