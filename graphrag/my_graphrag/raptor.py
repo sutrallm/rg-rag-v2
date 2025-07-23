@@ -6,7 +6,7 @@ from datetime import datetime
 from sentence_transformers import SentenceTransformer
 from sklearn.mixture import GaussianMixture
 import graphrag.my_graphrag.db as db
-import graphrag.my_graphrag.model as model
+import graphrag.my_graphrag.cloud as model
 
 
 EMBEDDING_MODEL_NAME = 'sentence-transformers/multi-qa-mpnet-base-cos-v1'

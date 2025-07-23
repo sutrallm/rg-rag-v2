@@ -18,7 +18,7 @@ from .prompts import SUMMARIZE_PROMPT
 
 import asyncio
 
-import graphrag.my_graphrag.model as model
+import graphrag.my_graphrag.cloud as model
 
 # Max token size for input prompts
 DEFAULT_MAX_INPUT_TOKENS = 4_000

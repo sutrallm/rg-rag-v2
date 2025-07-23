@@ -118,7 +118,7 @@ Basic RAG query
 </tr>
 <tr valign="top">
 <td>
-t0235
+t0235 (Local)
 </td>
 <td>
 0:01:43
@@ -131,6 +131,23 @@ t0235
 </td>
 <td>
 0:00:47
+</td>
+</tr>
+<tr valign="top">
+<td>
+t0235 (Cloud)
+</td>
+<td>
+0:01:09
+</td>
+<td>
+0:00:30
+</td>
+<td>
+0:01:18
+</td>
+<td>
+0:00:28
 </td>
 </tr>
 <tr valign="top">
@@ -220,10 +237,10 @@ python index.py -p my_graphrag/vector_db_t0235_20250213/ --export_prompts True
 ```
 
 <h3>Query</h3>
-<h4>GraphRAG + Raptor query</h4>
+<h4>GraphRAG + Raptor query (Local LLM)</h4>
 
 ```
-python query.py -p "./my_graphrag/vector_db_t0235_20240213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 1
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 1
 ```
 
 ```
@@ -247,10 +264,38 @@ t0235: t0235
 </reference>
 ```
 
-<h4>Raptor query</h4>
+<h4>GraphRAG + Raptor query (`deepseek/deepseek-chat`)</h4>
 
 ```
-python query.py -p "./my_graphrag/vector_db_t0235_20240213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 2
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 1
+```
+
+```
+<question>
+Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?
+</question>
+
+<answer>
+Buddhism places significant emphasis on the role of knowledge and scholarship in the practice and realization of its teachings. At its core, Buddhism seeks to cultivate wisdom and compassion, which are essential for achieving Nirvana, the ultimate goal of liberation from suffering. This pursuit of wisdom is deeply intertwined with understanding the true nature of existence, as articulated in the Dharma, the universal truth that serves as the foundation of Buddhist philosophy.
+
+The teachings of the Buddha, or the Tathagata, emphasize the importance of intellectual and spiritual inquiry. Concepts such as impermanence (Anicca) and interconnectedness (Pratītyasamutpāda) require a profound level of philosophical engagement to fully comprehend. This understanding is not merely academic but is integral to transforming one’s perception of reality and fostering spiritual growth. The Prajnaparamita Sutra, for instance, encourages practitioners to transcend material attachments through intellectual engagement with Buddhist teachings, highlighting the necessity of knowledge in the path to enlightenment.
+
+The Bodhisattva ideal further underscores the importance of scholarship in Buddhism. Bodhisattvas, who vow to attain enlightenment for the benefit of all sentient beings, embody the integration of compassion and wisdom. Their commitment to selfless service is supported by ethical and philosophical knowledge, which guides their actions and intentions. This alignment of knowledge with virtuous conduct is crucial for accumulating merit, a key aspect of spiritual progress in Buddhism. Merit, earned through positive actions and intentions, is deeply connected to the development of wisdom and compassion, fostering a mindset conducive to enlightenment.
+
+Moreover, the state of Anuttara-samyak-sambodhi, a high level of enlightenment, exemplifies the potential for profound intellectual and spiritual growth. This state is achieved through a combination of deep insight, ethical living, and compassionate action, all of which are informed by a thorough understanding of Buddhist teachings. The universal applicability of the Tathagata’s teachings further suggests that knowledge is essential for practicing Buddhism across diverse contexts and cultures.
+
+In summary, knowledge and scholarship are indispensable in Buddhism, as they provide the intellectual foundation for understanding the Dharma, cultivating wisdom, and practicing compassion. These elements are not only supportive of spiritual growth but are also integral to the ultimate goal of achieving Nirvana and benefiting all sentient beings.
+</answer>
+
+<reference>
+t0235: t0235
+</reference>
+```
+
+<h4>Raptor query (Local LLM)</h4>
+
+```
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 2
 ```
 
 ```
@@ -265,10 +310,36 @@ t0235: t0235
 </reference>
 ```
 
-<h4>GraphRAG query</h4>
+<h4>Raptor query (`deepseek/deepseek-chat`)</h4>
 
 ```
-python query.py -p "./my_graphrag/vector_db_t0235_20240213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 3
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 2
+```
+
+```
+<question>
+Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?
+</question>
+
+<answer>
+Buddhism places significant emphasis on both knowledge and scholarship as essential components of spiritual practice. The teachings of the Buddha, as conveyed in dialogues with disciples like Subhuti, reveal that a deep understanding of the Dharma is crucial for genuine practice. This involves not merely reciting or memorizing scriptures but engaging with their philosophical depth, such as comprehending concepts like emptiness (*sunyata*), non-attachment, and the true nature of phenomena.  
+
+The Buddha himself underscored the value of receiving, upholding, and explaining the sutras, indicating that intellectual engagement with the teachings is a form of practice. For instance, the merit of explaining even a brief verse from the scriptures is said to surpass that of material generosity, highlighting the importance of wisdom and discernment. Moreover, the Buddha cautioned against clinging to rigid notions of self or phenomena, which requires a refined understanding cultivated through study, reflection, and insight.  
+
+The dialogue between the Buddha and Subhuti illustrates that Buddhist practice transcends ritualistic observance—it demands an analytical and contemplative approach to grasp the subtleties of the teachings. Those who truly benefit from the sutras are described as having "planted good roots" through lifetimes of learning and practice, suggesting that wisdom is accumulated progressively through both scholarly engagement and experiential realization.  
+
+Thus, while devotion and ethical conduct are foundational, knowledge and scholarship serve as vital tools for deepening one’s understanding of the Dharma, dismantling misconceptions, and ultimately progressing on the path toward enlightenment.
+</answer>
+
+<reference>
+t0235: t0235
+</reference>
+```
+
+<h4>GraphRAG query (Local LLM)</h4>
+
+```
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 3
 ```
 
 ```
@@ -283,10 +354,48 @@ t0235: t0235
 </reference>
 ```
 
-<h4>Basic RAG query</h4>
+<h4>GraphRAG query (`deepseek/deepseek-chat`)</h4>
 
 ```
-python query.py -p "./my_graphrag/vector_db_t0235_20240213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 4
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 3
+```
+
+```
+<question>
+Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?
+</question>
+
+<answer>
+Yes, Buddhists can benefit from knowledge and scholarship in their practice, as these tools facilitate deeper understanding and spiritual growth. 
+
+### **1. Role of Knowledge in Dharma Practice**
+Buddhism emphasizes the importance of comprehending the Dharma—the universal truth taught by the Buddha. Without proper **understanding**, practitioners may struggle to recognize impermanence, suffering, and non-self, hindering their progress toward enlightenment. Knowledge allows Buddhists to discern right from wrong views, aiding in ethical conduct (Sila), meditation (Samadhi), and wisdom (Prajna).
+
+### **2. Scholarship and Dharma Study**
+Scriptural study reinforces practice by clarifying doctrinal concepts such as karma, dependent origination, and emptiness. Philosophical texts like the **Prajnaparamita Sutra** elucidate profound truths about reality, helping practitioners cultivate wisdom that transcends ignorance and attachment. Structured learning—through monastic education or lay study—supports this intellectual foundation, aligning actions with the Dharma.
+
+### **3. Merit and Wisdom Interconnection**
+While merit (punya) arises from virtuous deeds like generosity and ethical conduct, wisdom deepens its impact. Meritorious acts **alone** may lead to favorable rebirths but not **liberation**. True progress toward Nirvana requires **insight**—developed through study and meditation—to dissolve delusion. Thus, scholarship enhances merit by aligning it with wisdom, fostering spiritual maturity.
+
+### **4. Compassion and Knowledge Integration**
+Bodhisattvas, who strive for enlightenment to benefit others, exemplify how scholarship fuels compassionate action. Intellectual understanding of suffering’s roots (e.g., craving, ignorance) allows them to skillfully guide beings toward liberation. Hence, knowledge is indispensable for fulfilling the **Bodhisattva path**, merging compassion with profound insight.
+
+### **5. Misconceptions and Balance**
+While scholarship is beneficial, Buddhism warns against **intellectual arrogance**. The Tathagata’s teachings must be internalized **experientially**, not merely debated. Practitioners should balance study with meditation and ethical living, ensuring knowledge transforms into realization rather than remaining abstract theory.
+
+### **Conclusion**
+Knowledge and scholarship are **essential yet not sufficient alone**—they must be paired with meditative insight and virtuous conduct. By integrating learning with direct experience, Buddhists cultivate the wisdom and compassion needed to progress toward Nirvana. Hence, while devotion and merit matter, Dharma study **supplements** practice, ensuring a well-rounded path to liberation.
+</answer>
+
+<reference>
+t0235: t0235
+</reference>
+```
+
+<h4>Basic RAG query (Local LLM)</h4>
+
+```
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 4
 ```
 
 ```
@@ -297,6 +406,32 @@ Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?
 Buddhists indeed require knowledge and scholarship to practice their faith effectively. Central to Buddhism is the Four Noble Truths, which provide a foundational understanding of suffering, its origin, cessation, and the path to cessation. Without comprehension of these truths, practice remains superficial. The Dharma, the teachings of the Buddha, must be understood deeply, not just accepted on faith alone. This understanding fosters wisdom (prajna), which involves discernment and clarity, essential for viewing reality accurately.
 Scholarship and knowledge are crucial for cultivating a pure mind, enabling one to transcend attachment to views and concepts. While not everyone may grasp these teachings easily, the emphasis is on using knowledge as a tool for growth rather than an end in itself. Mental purity is vital, ensuring that the insights gained lead to true enlightenment. Thus, while belief is part of Buddhism, it is enriched by intellectual engagement and wisdom, guiding practitioners toward genuine realization.
 </answer>
+<reference>
+t0235: t0235
+</reference>
+```
+
+<h4>Basic RAG query (`deepseek/deepseek-chat`)</h4>
+
+```
+python query.py -p "./my_graphrag/vector_db_t0235_20250213" -q "Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?" -o 4
+```
+
+```
+<question>
+Do Buddhists Also Need Knowledge and Scholarship to Practice Buddhism?
+</question>
+
+<answer>
+Buddhists indeed need knowledge and scholarship to practice Buddhism effectively. The Buddha emphasized the importance of deeply understanding and practicing the Dharma, which inherently requires intellectual engagement and study. This involves reading, reciting, and explaining sutras, such as the Vajra Prajnaparamita, which are foundational to the teachings. Through such engagement, practitioners cultivate discernment and wisdom, essential qualities for navigating the path without clinging to appearances or fixed concepts.
+
+The Buddha also highlighted the immeasurable merit of hearing, believing, and upholding the teachings, even in challenging times. This underscores the value of scholarship and knowledge in preserving and propagating the Dharma. Moreover, the Buddha compared the merit of material generosity to that of understanding and teaching the Dharma, with the latter being far superior. This comparison reinforces the significance of intellectual and spiritual knowledge in Buddhist practice.
+
+At the same time, the Buddha cautioned against clinging to the Dharma itself, likening it to a raft—useful for crossing over but not to be held onto. This teaching emphasizes the need for a balanced approach, where knowledge and scholarship serve as tools for practical application rather than ends in themselves. In this way, Buddhists integrate intellectual understanding with mindful practice, ensuring that their scholarship supports their spiritual growth and realization. 
+
+Thus, knowledge and scholarship are not only beneficial but essential for a comprehensive and authentic practice of Buddhism, guiding practitioners toward wisdom and liberation.
+</answer>
+
 <reference>
 t0235: t0235
 </reference>

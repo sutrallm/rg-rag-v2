@@ -4,10 +4,9 @@ import subprocess
 import argparse
 import pathlib
 import csv
-import pdftotext
 from datetime import datetime
 import graphrag.my_graphrag.db as db
-import graphrag.my_graphrag.model as model
+import graphrag.my_graphrag.cloud as model
 from graphrag.my_graphrag.raptor import raptor_index
 
 
@@ -35,21 +34,6 @@ e.g.
 
 {input_text}
 '''
-
-
-def extract_text_from_pdf(pdf_path, save_txt_file=False):
-    # Load your PDF
-    with open(pdf_path, 'rb') as f:
-        pdf = pdftotext.PDF(f)
-    # Read all the text into one string
-    pdftotext_text = '\n\n'.join(pdf)
-
-    if save_txt_file:
-        with open(pdf_path[:-4] + '.txt', 'w') as f:
-            f.write(pdftotext_text)
-            f.flush()
-
-    return pdftotext_text
 
 
 def get_denoising_chunk(original_chunk, group_chunk_idx, denoising_group_dir=''):
@@ -112,9 +96,6 @@ def save_group_and_paper(export_prompts):
         for fn in os.listdir(group_dir):
             if fn.endswith('txt'):
                 txt_file_list.append(os.path.join(group_dir, fn))
-            elif fn.endswith('pdf'):
-                extract_text_from_pdf(os.path.join(group_dir, fn), save_txt_file=True)
-                txt_file_list.append(os.path.join(group_dir, os.path.splitext(fn)[0] + '.txt'))
             else:
                 # ignore
                 pass
