@@ -49,6 +49,9 @@ def stop_sgl_server():
 
 
 def get_response_from_sgl(prompt, remove_think=True):
+    if client is None:
+        start_sgl_server()
+
     output = ''
     completion = client.chat.completions.create(
         model=os.environ.get("DEEPSEEK_API_MODEL"),
