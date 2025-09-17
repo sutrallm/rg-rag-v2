@@ -4,6 +4,14 @@ import graphrag.my_graphrag.db as db
 from datetime import datetime
 
 
+relationship_xml_template = """<relationship>
+    <source_entity>{source_entity}</source_entity>
+    <target_entity>{target_entity}</target_entity>
+    <relationship_description>{description}</relationship_description>
+    <relationship_strength>{strength}</relationship_strength>
+</relationship>"""
+
+
 def main():
     parser = argparse.ArgumentParser(description="Export DB path")
     parser.add_argument("db_path")
@@ -48,7 +56,14 @@ def main():
     os.mkdir(relationship_dir)
     for relationship in db.get_all_relationships():
         with open(os.path.join(relationship_dir, f'{relationship["relationship_id"]}.txt'), 'w') as f:
-            f.write(relationship["relationship_description"])
+            xml_output = relationship_xml_template.format(
+                source_entity=relationship["source_entity_name"],
+                target_entity=relationship["target_entity_name"],
+                description=relationship["relationship_description"],
+                strength=relationship["relationship_strength"]
+            )
+
+            f.write(xml_output)
             f.flush()
 
     # community report
@@ -74,7 +89,6 @@ def main():
             f.flush()
 
     db.rm_db_tmp_file()
-    print(f'Exported to "{output_dir}"')
 
 
 if __name__ == "__main__":

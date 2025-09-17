@@ -21,7 +21,7 @@ DENOISING_PROMPT_DIR = os.path.join(PROMPTS_DIR, 'denoising')
 OUTPUT_DIR = os.path.join(FILE_DIR, 'output')
 
 
-DENOISING_PROMPT = '''
+DENOISING_PROMPT_EN = '''
 Reorganise the following text into bullet points. Focus on the principles described, removing any dialogue style or references to individuals. Do not omit any details. There is no need to include headings. Do not add anything beyond what is mentioned in the text. Use "#" as the bullet marker.
 
 e.g.
@@ -35,6 +35,28 @@ e.g.
 {input_text}
 '''
 
+DENOISING_PROMPT = '''
+请將下文翻譯成白話文，刪除人物與地點，將譬喻和對話整理成直接的法義闡述，並將標題改得更有代表性，讓每一段的主題更清晰，標題用数字1，2，3，4，… 排列下去，同時刪除結尾偈。
+
+格式例子如下:
+
+1. 禅定的本质  
+心念专注且保持正念时，便能远离纷扰。如同野兽在无蚊虫的丛林中安然行走，修行者通过禅定摆脱放逸与烦恼，获得内心安宁。
+
+2. 精进修行的重要性  
+遵循佛陀教导并持续精进者，能避免堕入死亡魔王的掌控。唯有始终不放逸，才能真正掌握禅定之法。
+
+3. 超越执着的智慧  
+通过禅修获得心解脱的修行者，能洞察世间无常。他们不执着于任何境界，即使追求成果也不被其束缚。
+
+4. 圣者的特质  
+具足戒律与智慧者，勤修心念、安住寂静，能断尽烦恼、超越痛苦。这样的修行者，连诸天都会敬重。
+
+...
+
+原文如下：
+--------------
+'''
 
 def get_denoising_chunk(original_chunk, group_chunk_idx, denoising_group_dir=''):
     prompt = DENOISING_PROMPT.format(input_text=original_chunk)
