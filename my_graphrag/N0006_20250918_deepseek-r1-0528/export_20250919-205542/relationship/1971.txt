@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING (MEDITATIVE CONCENTRATION)</source_entity>
+    <target_entity>JIE TUO (LIBERATION)</target_entity>
+    <relationship_description>The practice and mastery of Meditative Concentration (Chan Ding) directly leads to the state of mental Liberation (Jie Tuo), by calming the mind and enabling insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

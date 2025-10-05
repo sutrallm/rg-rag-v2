@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Practitioners follow the Buddha's teachings and engage in continuous practice to avoid falling under the control of the death demon.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

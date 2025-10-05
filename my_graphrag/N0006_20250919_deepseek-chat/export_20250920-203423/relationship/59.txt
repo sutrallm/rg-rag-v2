@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>寂静安详的境界</target_entity>
+    <relationship_description>Practitioners strive to attain a state of profound peace and stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

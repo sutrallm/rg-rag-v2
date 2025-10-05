@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUOUS ONE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>The virtuous one eliminates defilements through diligent practice and mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

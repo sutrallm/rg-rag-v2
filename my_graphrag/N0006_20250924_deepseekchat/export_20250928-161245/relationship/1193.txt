@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>成就无漏的境界</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过断除贪欲，成就无漏，不再受轮回之苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

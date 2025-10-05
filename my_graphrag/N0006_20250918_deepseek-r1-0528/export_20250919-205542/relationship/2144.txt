@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SIWANG MOWANG</target_entity>
+    <relationship_description>JINGJIN helps practitioners avoid falling under the control of SIWANG MOWANG (suffering/death).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

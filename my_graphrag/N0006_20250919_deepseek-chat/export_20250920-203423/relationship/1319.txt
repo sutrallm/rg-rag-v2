@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>智者能通过听闻正法，迅速远离恶行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

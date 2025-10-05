@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>邪见谬误</source_entity>
+    <target_entity>修行的必要前提</target_entity>
+    <relationship_description>修行的必要前提要求彻底破除邪见谬误作为解脱基础</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

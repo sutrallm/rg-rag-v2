@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>涅槃是修行者的最終目標，通過智慧與修行逐步超越生死，獲得究竟的安樂。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

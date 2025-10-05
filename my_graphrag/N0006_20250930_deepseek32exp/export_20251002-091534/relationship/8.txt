@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心识</target_entity>
+    <relationship_description>Practitioners must train and subdue their mind consciousness which is easily agitated.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

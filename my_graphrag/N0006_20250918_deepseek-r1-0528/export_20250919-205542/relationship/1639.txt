@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE (VĪRYA)</source_entity>
+    <target_entity>DEATH'S INFLUENCE</target_entity>
+    <relationship_description>Diligence prevents falling into the peril controlled by Death's Influence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

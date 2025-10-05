@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>修行者 observe 五蕴 (five aggregates) to understand their empty, impermanent nature and overcome attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

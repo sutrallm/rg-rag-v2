@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sustained diligence is the path that leads to ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

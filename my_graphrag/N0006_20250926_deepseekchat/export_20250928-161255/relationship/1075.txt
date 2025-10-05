@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Saints have attained ultimate liberation through the cultivation of wisdom and ethical discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

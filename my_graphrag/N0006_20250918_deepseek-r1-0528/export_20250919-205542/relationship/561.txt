@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CYCLE OF BIRTH AND DEATH</target_entity>
+    <relationship_description>Wisdom severs attachments binding beings to the cycle of birth and death by illuminating ultimate reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

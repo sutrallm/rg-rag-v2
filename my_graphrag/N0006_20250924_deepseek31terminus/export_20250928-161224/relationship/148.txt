@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>贪欲与我执都是解脱道需要拔除的根本障碍。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

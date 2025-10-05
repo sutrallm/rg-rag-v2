@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼罗网</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>Uncontrolled 心念 forms the 烦恼罗网 that binds beings, with the danger level exceeding that of venomous snakes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

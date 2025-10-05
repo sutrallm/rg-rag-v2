@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善法</source_entity>
+    <target_entity>恶</target_entity>
+    <relationship_description>善法帮助修行者远离恶行，避免恶带来的苦难。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

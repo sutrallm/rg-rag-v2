@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN (DILIGENCE / PERSEVERANCE)</source_entity>
+    <target_entity>JIE TUO (LIBERATION)</target_entity>
+    <relationship_description>Constant Diligence (Jing Jin) is necessary to overcome obstacles and ultimately transcend suffering, leading to Liberation (Jie Tuo).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

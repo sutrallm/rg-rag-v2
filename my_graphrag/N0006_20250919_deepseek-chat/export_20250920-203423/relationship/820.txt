@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN PRACTICE</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Chan practice involves focusing the mind on wholesome Dharma to achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Through diligent practice, individuals achieve the sanctified state representing the culmination of ethical and meditative attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

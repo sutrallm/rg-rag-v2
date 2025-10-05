@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>生死束缚</target_entity>
+    <relationship_description>Practicing according to 正法 helps transcend 生死束缚 (the cycle of birth and death).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

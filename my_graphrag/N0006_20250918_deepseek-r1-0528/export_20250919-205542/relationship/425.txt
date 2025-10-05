@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>六境</target_entity>
+    <relationship_description>达到心解脱的修行者超越对六境（感官对象）的攀缘执着，无有渴爱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

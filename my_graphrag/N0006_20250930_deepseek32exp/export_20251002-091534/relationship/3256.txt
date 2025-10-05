@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SHAME_AND_MORAL_PRINCIPLE</target_entity>
+    <relationship_description>Practitioners possess shame and moral principle as qualities that support their authentic dwelling in the middle way.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

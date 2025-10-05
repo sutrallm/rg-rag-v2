@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENTLY PRACTICE</source_entity>
+    <target_entity>MIND FREE FROM BONDS</target_entity>
+    <relationship_description>Diligent practice enables a mind free from bonds through constant vigilance, helping practitioners see impermanence and overcome attachments without craving results.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

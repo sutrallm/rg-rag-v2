@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHANDING</source_entity>
+    <target_entity>FANGYI</target_entity>
+    <relationship_description>ZHANDING enables practitioners to overcome FANGYI (heedlessness) along with FANNAO, leading to inner tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Wisdom involves seeing the impermanent and empty nature of the Five Aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

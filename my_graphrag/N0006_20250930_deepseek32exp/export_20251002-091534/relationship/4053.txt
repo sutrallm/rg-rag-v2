@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA'S TEACHINGS</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Following the Buddha's teachings enables practitioners to transcend the bonds of death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

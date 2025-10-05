@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四道支</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>四道支先以正见确立方向，正见是四道支的第一支</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

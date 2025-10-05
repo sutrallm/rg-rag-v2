@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>VIGILANCE</target_entity>
+    <relationship_description>The cultivator maintains vigilance to distance themselves from distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

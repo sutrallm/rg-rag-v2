@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>死主</target_entity>
+    <relationship_description>Enlightened beings transcend the dominion of the death-lord through liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

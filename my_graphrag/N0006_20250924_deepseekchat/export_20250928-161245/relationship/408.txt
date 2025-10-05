@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>迷悟</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>迷悟是修行中需要克服的状态，觉悟者洞察缘起法性，远离执著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

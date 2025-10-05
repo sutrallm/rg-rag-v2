@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>愚人</target_entity>
+    <relationship_description>文本通過對比智者和愚人的特徵、行為和結果，來闡明兩者的根本區別。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

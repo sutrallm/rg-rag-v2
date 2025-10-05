@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>RIGHTEOUS DHARMA</target_entity>
+    <relationship_description>Diligent practice requires adherence to righteous dharma as its foundational ethical framework.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

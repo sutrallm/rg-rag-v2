@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY PRACTITIONER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Saintly practitioners have the capacity to sever afflictive bonds through their cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

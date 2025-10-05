@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNDEFILED WISDOM</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Enlightened understanding destroys the roots of existential clinging</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

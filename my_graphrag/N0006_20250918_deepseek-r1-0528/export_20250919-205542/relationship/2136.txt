@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Diligence in cultivation causes the achievement of samadhi, as persistent meditative practice liberates one from suffering and realizes true meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定 (meditative concentration) is a practice that can lead to the development of 智慧 (wisdom) regarding impermanence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

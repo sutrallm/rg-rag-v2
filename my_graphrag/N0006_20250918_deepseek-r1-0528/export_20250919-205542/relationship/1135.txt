@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO LIBERATION</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>The path to liberation directly targets and severs the roots of defilements using methods like meditation and wisdom to eradicate suffering permanently.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

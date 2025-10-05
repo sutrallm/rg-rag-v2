@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Practitioners seek to transcend suffering through their spiritual practice and ultimately reach a state free from all suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

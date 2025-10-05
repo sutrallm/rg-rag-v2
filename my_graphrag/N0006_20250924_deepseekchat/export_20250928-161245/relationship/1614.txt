@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛教修行</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>佛教修行的终极目标是超越生死轮回，证得涅槃。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

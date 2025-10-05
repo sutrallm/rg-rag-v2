@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NECESSITY OF MINDFUL VIGILANCE</source_entity>
+    <target_entity>INSIGHT AND THROUGH DISSOLUTION OF ATTACHMENT</target_entity>
+    <relationship_description>Mindful vigilance allows for profound observation and meditation, essential for developing insight into the true nature of phenomena necessary for liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

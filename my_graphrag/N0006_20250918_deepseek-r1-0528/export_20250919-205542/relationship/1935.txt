@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KNOWING AS IT IS</source_entity>
+    <target_entity>GREED AND ATTACHMENT</target_entity>
+    <relationship_description>Knowing as it is liberates from greed and attachment by preventing clinging to forms or achievements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

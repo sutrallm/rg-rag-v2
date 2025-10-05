@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECTED ONE</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Perfected one has severed the bonds of desire to transcend causality</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

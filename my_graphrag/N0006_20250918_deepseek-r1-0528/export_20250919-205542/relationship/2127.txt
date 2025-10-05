@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE REALMS</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Beings within Three Realms deeply revere the Sage for transcending cyclic existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

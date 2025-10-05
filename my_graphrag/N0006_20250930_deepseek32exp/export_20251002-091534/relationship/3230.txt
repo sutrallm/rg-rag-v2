@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A saint is an individual who has achieved the state of liberation, having severed afflictions and transcended birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

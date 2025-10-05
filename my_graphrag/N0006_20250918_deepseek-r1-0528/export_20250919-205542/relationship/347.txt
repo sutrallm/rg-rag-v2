@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT AND THROUGH DISSOLUTION OF ATTACHMENT</source_entity>
+    <target_entity>TRAITS OF THE ACCOMPLISHED</target_entity>
+    <relationship_description>The transformative state of radical freedom and non-attachment resulting from insight defines the very nature of the Accomplished (enlightened sage).</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

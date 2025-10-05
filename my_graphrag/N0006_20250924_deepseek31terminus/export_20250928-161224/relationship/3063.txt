@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>The Sage abides or dwells in stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana represents liberation from the cycle of samsara</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

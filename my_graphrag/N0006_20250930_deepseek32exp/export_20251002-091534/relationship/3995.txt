@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>Practitioners who maintain constant vigilance in following the Dharma do not fall into the realm of the death king.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

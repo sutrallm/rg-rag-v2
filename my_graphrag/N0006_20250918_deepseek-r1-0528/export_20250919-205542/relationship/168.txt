@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Wisdom, particularly the insight into impermanence leading to liberation, arises through the practice and attainment of Samadhi (meditative absorption).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

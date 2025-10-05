@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>離執無缚的智慧</target_entity>
+    <relationship_description>The practitioner achieves the wisdom of non-attachment through meditation and mental liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

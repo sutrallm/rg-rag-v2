@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>菩萨</source_entity>
+    <target_entity>凡夫</target_entity>
+    <relationship_description>菩萨与凡夫形成对比，菩萨能舍身为法，而凡夫往往只能自利。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

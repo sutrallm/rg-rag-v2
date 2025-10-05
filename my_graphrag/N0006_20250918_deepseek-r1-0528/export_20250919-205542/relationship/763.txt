@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>CESSATION OF SUFFERING</target_entity>
+    <relationship_description>Liberated beings achieve cessation of suffering by eliminating its root causes through insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

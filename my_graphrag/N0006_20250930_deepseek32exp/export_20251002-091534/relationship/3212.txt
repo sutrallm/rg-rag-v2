@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>FOUR NOBLE TRUTHS</target_entity>
+    <relationship_description>The Buddha revealed the Four Noble Truths as the fundamental framework for understanding and ending suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

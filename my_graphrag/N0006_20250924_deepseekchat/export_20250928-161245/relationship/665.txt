@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Meditation trains the mind to achieve focus and awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

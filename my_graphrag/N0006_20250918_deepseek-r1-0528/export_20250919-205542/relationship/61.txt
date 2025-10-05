@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Wisdom cultivates and sustains mindfulness as a defensive quality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

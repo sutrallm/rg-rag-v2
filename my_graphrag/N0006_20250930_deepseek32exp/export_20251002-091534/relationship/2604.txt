@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Zen meditation involves maintaining mindfulness to keep the mind focused and aware, distancing from distractions and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Zen meditation (concentration) gives rise to wisdom as part of the Three Non-Outflow Studies path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>This meditation practice fundamentally involves anchoring awareness exclusively in present-moment experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

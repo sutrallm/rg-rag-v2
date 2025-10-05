@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>次第修行</target_entity>
+    <relationship_description>修行者遵循次第修行，渐次达至究竟涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

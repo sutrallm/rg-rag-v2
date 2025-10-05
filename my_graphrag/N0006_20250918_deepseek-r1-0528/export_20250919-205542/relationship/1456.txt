@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Source must relinquish target even regarding sublime attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

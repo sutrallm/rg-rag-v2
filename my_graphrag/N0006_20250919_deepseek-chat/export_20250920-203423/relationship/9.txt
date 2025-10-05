@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WHOLESOME TEACHINGS</target_entity>
+    <relationship_description>Meditation involves focusing the mind on wholesome teachings to achieve spiritual goals.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

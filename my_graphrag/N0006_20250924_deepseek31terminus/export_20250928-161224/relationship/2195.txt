@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>戒律清净后需要确立法正念，这是解脱道的实践次第。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

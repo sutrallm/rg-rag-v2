@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需深刻體悟無我，放下對自我的執著，以獲得解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

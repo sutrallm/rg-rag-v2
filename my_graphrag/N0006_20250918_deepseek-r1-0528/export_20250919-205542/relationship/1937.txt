@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>The sage has severed all bonds of defilements, leading to complete freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING (MEDITATIVE CONCENTRATION)</source_entity>
+    <target_entity>SANJIE (THREE REALMS)</target_entity>
+    <relationship_description>Meditative concentration prevents afflictions arising from the Three Realms from disturbing the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

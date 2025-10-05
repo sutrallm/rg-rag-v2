@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>EMPTINESS WISDOM</target_entity>
+    <relationship_description>Practitioners cultivate emptiness wisdom by observing the nature of the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

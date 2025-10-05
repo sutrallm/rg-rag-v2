@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUTH SEEKER</source_entity>
+    <target_entity>WISE PERSON</target_entity>
+    <relationship_description>The truth seeker embodies the qualities of a wise person by renouncing superficialities and seeking deep understanding, aligning with the path of wisdom described in the text.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_FOUNDATIONS_MINDFULNESS</source_entity>
+    <target_entity>FIVE_HINDRANCES</target_entity>
+    <relationship_description>Observing the four foundations (body, feelings, mind, dhammas) directly facilitates detachment from the Five Hindrances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT ARISING</source_entity>
+    <target_entity>EXTINCTION OF CRAVING</target_entity>
+    <relationship_description>Insight into dependent arising causes extinction of craving by exposing the conditioned nature of desires.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

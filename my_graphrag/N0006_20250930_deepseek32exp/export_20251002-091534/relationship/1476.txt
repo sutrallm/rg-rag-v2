@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>正念能穿透无明黑暗，照见五蕴虚妄。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

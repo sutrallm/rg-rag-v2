@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUNDATION OF PRECEPTS</source_entity>
+    <target_entity>UNIVERSAL VIGILANCE</target_entity>
+    <relationship_description>Vigilance serves as the source of coolness and peace that arises from maintaining the Foundation of Precepts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

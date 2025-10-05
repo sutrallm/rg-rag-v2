@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSES</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>The senses become gateways for ignorance when uncontrolled, enabling deluded perceptions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>SAGE FREE FROM DESIRE</target_entity>
+    <relationship_description>Diligent practice leads to the state of the sage, characterized by freedom from desire and afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

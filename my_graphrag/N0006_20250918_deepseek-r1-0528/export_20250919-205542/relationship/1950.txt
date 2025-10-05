@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-VIEW</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Self-View is the mistaken identification of the impermanent Five Aggregates (especially the physical form) as a true, permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

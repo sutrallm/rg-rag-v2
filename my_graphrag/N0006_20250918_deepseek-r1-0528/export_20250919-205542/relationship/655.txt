@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Liberation signifies freedom from defilements through the cessation of attachment and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>A 修行者 can attain 心解脱 (liberation of the mind) through meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

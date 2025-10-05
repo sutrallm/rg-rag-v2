@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>寂静境界</target_entity>
+    <relationship_description>修行者安住于寂静境界，远离世俗喧嚣，如实觉知一切现象的本质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

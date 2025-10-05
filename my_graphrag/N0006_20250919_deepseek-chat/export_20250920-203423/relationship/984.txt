@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>心无染着</target_entity>
+    <relationship_description>禅修的目标是达到心无染着的境界，超越善恶分别，不被世俗标准束缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

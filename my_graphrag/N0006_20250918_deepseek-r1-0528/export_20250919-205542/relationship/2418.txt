@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>AWAKENED_ONE</target_entity>
+    <relationship_description>Non-grasping and non-aversion define the perfected state of an awakened being.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

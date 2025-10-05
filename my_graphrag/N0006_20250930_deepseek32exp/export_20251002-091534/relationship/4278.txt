@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>解脱道</target_entity>
+    <relationship_description>涅槃 is the ultimate goal and final destination achieved through practicing the 解脱道 (path to liberation).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

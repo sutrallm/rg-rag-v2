@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Cultivators seek to transcend samsara through diligent practice, aiming to overcome the cycle of birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

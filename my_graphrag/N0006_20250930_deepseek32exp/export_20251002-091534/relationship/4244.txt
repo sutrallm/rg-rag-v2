@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEITIES</target_entity>
+    <relationship_description>Deities respect and honor saintly practitioners who have achieved high spiritual states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

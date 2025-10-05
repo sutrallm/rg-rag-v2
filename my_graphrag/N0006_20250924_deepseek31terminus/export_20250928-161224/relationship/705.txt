@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉者</source_entity>
+    <target_entity>清净心</target_entity>
+    <relationship_description>觉者是拥有清净心的存在。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

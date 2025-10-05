@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Through meditation practice, practitioners develop wisdom to observe the arising and ceasing of phenomena and understand reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

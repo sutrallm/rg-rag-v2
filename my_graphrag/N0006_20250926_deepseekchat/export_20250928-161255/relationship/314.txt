@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>清净戒律</target_entity>
+    <relationship_description>持守清净戒律是修行者的根本，帮助他们远离恶业，趋向善法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

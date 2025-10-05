@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE PERSON</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>A wise person attains enlightenment through diligent practice and meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

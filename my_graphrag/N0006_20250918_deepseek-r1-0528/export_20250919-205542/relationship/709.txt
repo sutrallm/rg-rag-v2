@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>TRANSCENDENT STATE</target_entity>
+    <relationship_description>Saints attain a transcendent state beyond worldly existence and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

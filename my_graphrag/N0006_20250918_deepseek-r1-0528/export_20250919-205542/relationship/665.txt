@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom provides the insight required to achieve liberation from cyclic existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

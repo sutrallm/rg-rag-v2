@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SAMANAS AND BRAHMINS</target_entity>
+    <relationship_description>The Buddha establishes criteria for authenticating spiritual teachers based on doctrinal understanding.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

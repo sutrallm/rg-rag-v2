@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>呼吸观照</target_entity>
+    <relationship_description>呼吸观照是禅修中对治散乱的方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

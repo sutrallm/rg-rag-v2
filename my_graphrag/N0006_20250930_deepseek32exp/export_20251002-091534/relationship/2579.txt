@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>Through spiritual practice, one gains wisdom that enables mental liberation and insight into impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

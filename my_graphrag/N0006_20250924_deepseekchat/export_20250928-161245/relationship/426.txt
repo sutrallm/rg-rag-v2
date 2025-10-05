@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>究竟解脱</target_entity>
+    <relationship_description>圣者是达到究竟解脱的修行者，其心如同虚空般清净无染。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

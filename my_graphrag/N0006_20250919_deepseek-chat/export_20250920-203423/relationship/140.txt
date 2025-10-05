@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN MEDITATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chan meditation leads to the realization of non-attachment through the perception of impermanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

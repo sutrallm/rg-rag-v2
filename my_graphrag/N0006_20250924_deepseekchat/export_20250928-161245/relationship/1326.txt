@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>深入觀察</target_entity>
+    <relationship_description>修行者應深入觀察身心現象，理解其生滅變化，破除執著，覺悟真諦。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

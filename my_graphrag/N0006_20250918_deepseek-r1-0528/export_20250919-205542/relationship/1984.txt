@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QING JING BO QI (PURE ALMS BOWL)</source_entity>
+    <target_entity>NIE PAN (NIRVANA)</target_entity>
+    <relationship_description>The metaphor of the Pure Alms Bowl (Qing Jing Bo Qi) soaring without attachment is used to illustrate the Sage's state of abiding in Nirvana (Nie Pan), free from notions of self and without a fixed abode.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

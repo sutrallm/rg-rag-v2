@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>禅修的圆满结果是达到涅槃，断尽一切烦恼，不再受后有，获得究竟解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

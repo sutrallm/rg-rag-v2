@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAHULA</source_entity>
+    <target_entity>BODY MINDFULNESS</target_entity>
+    <relationship_description>Rahula practices body mindfulness under the guidance of the Buddha, observing the impermanent nature of the body to overcome attachment and desire.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

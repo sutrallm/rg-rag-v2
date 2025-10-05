@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脫是達到涅槃境界的關鍵步驟，通過解脫修行者最終實現涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

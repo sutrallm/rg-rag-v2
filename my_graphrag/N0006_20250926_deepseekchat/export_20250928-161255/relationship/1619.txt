@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>遵循修行次第是达到解脱的必要过程。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

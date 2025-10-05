@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSES</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Unguarded sensory experiences through the six senses serve as primary channels for afflictions to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

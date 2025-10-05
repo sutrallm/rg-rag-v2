@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_DISCIPLINE</source_entity>
+    <target_entity>WISDOM_CULTIVATION</target_entity>
+    <relationship_description>Ethical discipline provides the necessary foundation for cultivating wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

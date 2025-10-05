@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪修</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>精進是禪修實踐中的持續不懈態度，是掌握禪定要領的基礎。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

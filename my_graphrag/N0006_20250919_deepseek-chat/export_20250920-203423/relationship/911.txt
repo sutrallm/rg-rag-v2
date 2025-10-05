@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>The practitioner's ultimate goal is to achieve涅槃, representing liberation and supreme peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

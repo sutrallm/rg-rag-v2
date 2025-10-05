@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>证果</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>证果 requires perfecting 戒律 (morality) as one of the three essential practices for enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

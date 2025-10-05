@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无执着</source_entity>
+    <target_entity>究竟圣者</target_entity>
+    <relationship_description>无执着的智慧是究竟圣者成就的关键之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

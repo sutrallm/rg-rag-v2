@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>Negligence (放逸) is the opposite of diligence (精进).</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

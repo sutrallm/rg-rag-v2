@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Heedlessness gives rise to desires and attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

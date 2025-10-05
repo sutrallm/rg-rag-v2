@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>修行境界</target_entity>
+    <relationship_description>智慧帮助修行者达到安住于自在与清净的修行境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

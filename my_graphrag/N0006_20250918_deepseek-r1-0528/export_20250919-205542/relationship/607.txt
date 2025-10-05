@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>死亡威胁</target_entity>
+    <relationship_description>Persistent diligence allows practitioners to transcend the threat of death by maintaining unwavering vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

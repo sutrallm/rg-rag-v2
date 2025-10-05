@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE SKANDHAS</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Attachment to the Five Skandhas leads to a state of Heedlessness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

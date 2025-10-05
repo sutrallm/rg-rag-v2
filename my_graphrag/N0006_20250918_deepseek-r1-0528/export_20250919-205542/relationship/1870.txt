@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>FALSE VIEWS</target_entity>
+    <relationship_description>Exhaustion of afflictions ceases false discriminations between tainted and pure phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MALICIOUS SPEECH</source_entity>
+    <target_entity>PHYSICAL POISONS AND PERILS</target_entity>
+    <relationship_description>Surpasses in harm, as malicious speech causes irreparable psychological damage while dangers like venomous creatures/weapons/natural disasters inflict limited physical harm that can be healed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

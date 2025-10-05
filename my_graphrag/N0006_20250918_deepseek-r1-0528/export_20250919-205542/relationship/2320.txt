@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SNAKE IDEA</source_entity>
+    <target_entity>MISTAKEN VIEWS</target_entity>
+    <relationship_description>The Snake Idea is synonymous with concrete manifestations of Mistaken Views to be eradicated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

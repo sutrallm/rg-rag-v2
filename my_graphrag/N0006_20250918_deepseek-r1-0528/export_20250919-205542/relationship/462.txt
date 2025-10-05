@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SIX SENSE BASES</target_entity>
+    <relationship_description>The Buddha asserts complete knowledge of the Six Sense Bases as essential for enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

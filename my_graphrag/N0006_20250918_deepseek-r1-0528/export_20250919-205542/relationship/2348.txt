@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>专注修习破邪网</source_entity>
+    <target_entity>毒蛇</target_entity>
+    <relationship_description>Poisonous snake depicts perils in the cycle of birth and death that diligent practice overcomes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

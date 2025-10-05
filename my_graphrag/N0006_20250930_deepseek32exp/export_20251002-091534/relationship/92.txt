@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE PATH</source_entity>
+    <target_entity>VAJRA</target_entity>
+    <relationship_description>The stability of the mind on the ultimate path is compared to the indestructibility of a vajra.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

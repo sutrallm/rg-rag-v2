@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感受</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>All feelings are understood to be impermanent and subject to change.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

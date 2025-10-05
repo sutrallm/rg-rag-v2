@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉照成就无漏慧</source_entity>
+    <target_entity>持戒守护安稳道</target_entity>
+    <relationship_description>Culminating connection where wisdom realization necessitates ethical grounding through precepts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

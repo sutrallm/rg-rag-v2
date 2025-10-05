@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Wisdom directly dispels ignorance through penetrating insight into phenomena's nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

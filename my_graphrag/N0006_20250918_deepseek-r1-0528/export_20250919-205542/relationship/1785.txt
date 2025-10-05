@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>心解脱是禅定的最终目标，文本描述通过禅修获得心解脱，体现直接因果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

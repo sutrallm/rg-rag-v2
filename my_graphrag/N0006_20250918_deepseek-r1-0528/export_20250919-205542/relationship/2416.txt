@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GIVING</source_entity>
+    <target_entity>HELPING_OTHERS</target_entity>
+    <relationship_description>Financial generosity provides tangible resources required for assisting others effectively.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

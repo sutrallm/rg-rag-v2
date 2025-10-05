@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Wisdom enables the attainment of stillness by severing afflictions and allowing the mind to abide in tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

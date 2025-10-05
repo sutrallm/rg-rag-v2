@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净圣者</source_entity>
+    <target_entity>完善戒律</target_entity>
+    <relationship_description>清净圣者 (accomplished saints) possess 完善戒律 (perfected ethical conduct) as a defining trait.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

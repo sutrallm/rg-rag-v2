@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESOLUTE PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The Resolute Practitioner is defined by unwavering diligence in practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

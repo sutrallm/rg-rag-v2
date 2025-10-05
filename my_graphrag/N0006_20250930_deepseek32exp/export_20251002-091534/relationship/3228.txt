@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Wisdom is used to observe and perceive the emptiness and illusory nature of the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

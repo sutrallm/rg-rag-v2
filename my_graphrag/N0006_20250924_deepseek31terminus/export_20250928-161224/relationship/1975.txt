@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善行</source_entity>
+    <target_entity>善惡業果</target_entity>
+    <relationship_description>Good deeds contribute to the accumulation of positive karma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

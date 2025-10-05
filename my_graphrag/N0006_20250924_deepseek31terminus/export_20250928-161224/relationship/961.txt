@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMANA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A true Samana is one who practices rightly and attains liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

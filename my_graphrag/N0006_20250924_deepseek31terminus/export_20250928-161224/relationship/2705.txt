@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Attachment is identified as the root cause of suffering that practitioners must overcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

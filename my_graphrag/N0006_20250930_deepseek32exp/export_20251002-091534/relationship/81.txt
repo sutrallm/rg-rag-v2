@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Saints are revered even by heavenly beings because they have transcended all suffering.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

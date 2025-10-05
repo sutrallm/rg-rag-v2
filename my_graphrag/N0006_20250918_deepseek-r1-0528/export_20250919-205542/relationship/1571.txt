@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOCUSED MIND</source_entity>
+    <target_entity>METAPHOR TRANSFORMATION</target_entity>
+    <relationship_description>Simplifies to core teaching on mental fortitude, omitting detailed narratives.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECT TRAITS OF THE SAINT</source_entity>
+    <target_entity>WISDOM TRANSCENDS ATTACHMENT TO STATES</target_entity>
+    <relationship_description>The saint's trait of "ultimate wisdom" directly embodies the principle of transcending attachment to states, as both involve non-clinging perception of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

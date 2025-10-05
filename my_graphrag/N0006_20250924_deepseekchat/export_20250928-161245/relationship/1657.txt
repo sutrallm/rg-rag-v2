@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY MINDFULNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practicing body mindfulness helps in overcoming attachment and desire, leading to liberation from suffering and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

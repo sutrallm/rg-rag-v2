@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>散乱是禅修过程中可能遇到的障碍，需要调整心念来对治。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>AGING AND DEATH</target_entity>
+    <relationship_description>Heedlessness enables Aging and Death to dominate an individual.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

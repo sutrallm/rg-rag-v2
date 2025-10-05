@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN CONCENTRATION</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Zen Concentration is presented as the direct antidote to Negligence, allowing the practitioner to overcome distraction and achieve tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Celestial beings admire and hold reverence for the saint due to the saint's supreme purity and attainment, as explicitly mentioned in the saint's traits section.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECTING SAGELY VIRTUES</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Mindfulness is actively cultivated as part of Perfecting Sagely Virtues, supporting the practitioner's focus and ethical practice, per the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

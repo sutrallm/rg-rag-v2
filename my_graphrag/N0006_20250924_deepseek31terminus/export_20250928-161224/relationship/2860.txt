@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>荷葉</source_entity>
+    <target_entity>水珠</target_entity>
+    <relationship_description>The 水珠 does not adhere to the 荷葉, symbolizing non-attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

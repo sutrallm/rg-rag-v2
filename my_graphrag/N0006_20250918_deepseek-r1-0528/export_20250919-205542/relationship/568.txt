@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>VIGILANCE</target_entity>
+    <relationship_description>Vigilance directly counteracts heedlessness to prevent suffering</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

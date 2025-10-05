@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>FOOLISH PERSON</target_entity>
+    <relationship_description>Emotional poison dominating the speaker's consciousness and facilitating destructive communication.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

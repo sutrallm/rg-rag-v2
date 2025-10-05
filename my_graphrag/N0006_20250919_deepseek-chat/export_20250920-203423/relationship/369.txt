@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>人世间</target_entity>
+    <relationship_description>圣者在人世间受到普遍的敬重与赞叹。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

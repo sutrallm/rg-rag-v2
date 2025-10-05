@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>死魔</target_entity>
+    <relationship_description>通过精进修行能够超越死魔的领域，精进是对抗死魔束缚的修行方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>VIRTUE OF PRECEPTS</target_entity>
+    <relationship_description>The practitioner observes ethical precepts to generate joy and favorable rebirth, following the saints' example.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

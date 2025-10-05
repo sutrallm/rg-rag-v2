@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE ONES</source_entity>
+    <target_entity>SUPERNORMAL ATTAINMENTS</target_entity>
+    <relationship_description>Wise ones do not cling to supernormal attainments, recognizing their impermanent nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

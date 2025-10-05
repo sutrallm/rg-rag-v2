@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者通过正念专注观察心念变化，不被过去或未来束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

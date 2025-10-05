@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERTNESS</source_entity>
+    <target_entity>DEATH-REBIRTH CYCLE</target_entity>
+    <relationship_description>Alertness enables transcendence of the death-rebirth cycle.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

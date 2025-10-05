@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真の帰依</source_entity>
+    <target_entity>煩悩</target_entity>
+    <relationship_description>真の帰依を達成するには貪りや憎しみを含む煩悩を滅することが必須条件として求められる</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

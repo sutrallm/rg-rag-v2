@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMIC LAW</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Karmic law describes the path of purifying actions that leads to nirvana as the ultimate destination.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

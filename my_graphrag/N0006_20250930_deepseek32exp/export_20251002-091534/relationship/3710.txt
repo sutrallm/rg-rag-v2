@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>魔王</target_entity>
+    <relationship_description>对于不贪恋过去、不企求未来的修行者，魔王也无法寻其踪迹。</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

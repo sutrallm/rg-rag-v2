@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>Mindfulness enables practitioners to observe the five aggregates and understand their impermanent nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

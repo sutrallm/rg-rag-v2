@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>BREATH AND BODY SENSATIONS</target_entity>
+    <relationship_description>The Four Foundations of Mindfulness includes the observation of breath and body sensations as part of its practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

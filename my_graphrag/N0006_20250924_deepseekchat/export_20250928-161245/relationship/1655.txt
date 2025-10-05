@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAHULA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Rahula attains liberation through his diligent practice of mindfulness and meditation, achieving freedom from suffering and the cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

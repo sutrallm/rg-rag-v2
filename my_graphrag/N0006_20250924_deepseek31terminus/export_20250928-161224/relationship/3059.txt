@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>Wisdom is used to筛选法义 (sift through the meaning of the Dharma) skillfully.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>究竟安穩处</target_entity>
+    <relationship_description>A liberated being abides in the ultimate state of peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

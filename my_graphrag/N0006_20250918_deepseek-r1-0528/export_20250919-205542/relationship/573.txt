@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>TWO PRACTICE PATHS</target_entity>
+    <relationship_description>The practitioner implements the two complementary methods (eradicating afflictions and realizing truth) to attain mental stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

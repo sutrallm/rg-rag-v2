@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心</target_entity>
+    <relationship_description>禅定是专注和调伏心念的方法，目的是使心清净无染。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

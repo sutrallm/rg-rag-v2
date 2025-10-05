@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS OF DEATH</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Mindfulness of Death motivates diligent engagement in the Threefold Training (precepts, concentration, wisdom).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

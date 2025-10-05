@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道见</source_entity>
+    <target_entity>缘起法性</target_entity>
+    <relationship_description>中道见 involves observing 缘起法性 (dependent origination) without falling into extremes of eternalism or nihilism.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

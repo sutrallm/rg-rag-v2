@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>信仰</target_entity>
+    <relationship_description>信仰是修行的基础，但修行者必须将信仰与实践相结合才能达到解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

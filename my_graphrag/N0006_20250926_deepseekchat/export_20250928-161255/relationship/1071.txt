@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PRACTITIONER</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Spiritual practitioners aim to transcend the rebirth cycle through ethical living and meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

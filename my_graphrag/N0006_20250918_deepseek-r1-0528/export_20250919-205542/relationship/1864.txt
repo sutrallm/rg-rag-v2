@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FALSE VIEWS</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>False views obstruct guarding of six senses by distorting perception enabling attachment to sensory phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

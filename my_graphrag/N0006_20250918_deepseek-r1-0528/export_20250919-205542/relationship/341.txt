@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>MISERABLE_REALMS</target_entity>
+    <relationship_description>Negligence results in falling into miserable realms, where suffering increases as a consequence of spiritual laxness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

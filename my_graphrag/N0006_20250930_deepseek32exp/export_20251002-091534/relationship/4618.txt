@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实证果位</source_entity>
+    <target_entity>我见</target_entity>
+    <relationship_description>实证果位需要切断我见烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

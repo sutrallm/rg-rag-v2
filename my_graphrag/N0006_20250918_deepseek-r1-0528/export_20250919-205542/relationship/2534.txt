@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOOLISH PEOPLE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Foolish beings are trapped in the cycle of rebirth, experiencing suffering through aging and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

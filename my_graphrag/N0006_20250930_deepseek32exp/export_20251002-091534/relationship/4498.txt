@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PRACTITIONER</source_entity>
+    <target_entity>RIGHT AWARENESS</target_entity>
+    <relationship_description>Spiritual practitioners use right awareness to tame and correct their restless minds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

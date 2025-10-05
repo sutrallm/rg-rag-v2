@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Understanding impermanence helps cultivate non-attachment to all phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

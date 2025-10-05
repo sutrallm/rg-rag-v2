@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPREME VIRTUE AND WISDOM</source_entity>
+    <target_entity>INNER STABILITY</target_entity>
+    <relationship_description>Supreme Virtue and Wisdom enable the Enlightened Being to keep the mind still and firm (attain/maintain Inner Stability).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

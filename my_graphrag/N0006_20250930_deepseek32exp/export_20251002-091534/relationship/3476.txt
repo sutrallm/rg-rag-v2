@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>具足戒定慧的修行者能达到解脱境界，戒定慧是通向解脱的完整修行体系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

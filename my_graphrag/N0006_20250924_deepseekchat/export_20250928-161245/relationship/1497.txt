@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE WISDOM</source_entity>
+    <target_entity>THREE TRAININGS</target_entity>
+    <relationship_description>Ultimate Wisdom represents the culmination of the Three Trainings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

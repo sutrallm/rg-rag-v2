@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE COUNTERING LAZINESS</source_entity>
+    <target_entity>ELIMINATING SAMSARIC CYCLE</target_entity>
+    <relationship_description>Diligence prevents regression, enabling the sustained practice required to sever samsaric bonds.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

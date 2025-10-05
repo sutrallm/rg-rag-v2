@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>業果法則</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>業果法則是修行者需謹慎對待的原則，有助於最終達到涅槃境界。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

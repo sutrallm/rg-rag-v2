@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A sage is one who has attained liberation through spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

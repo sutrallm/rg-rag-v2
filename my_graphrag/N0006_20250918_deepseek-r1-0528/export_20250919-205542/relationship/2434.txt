@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者 represents one who has achieved 解脱 (liberation) and extinguished afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

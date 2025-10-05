@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHANDING</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>ZHANDING enables practitioners to overcome FANNAO (afflictions), leading to inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

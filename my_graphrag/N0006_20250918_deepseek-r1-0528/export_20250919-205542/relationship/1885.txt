@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORTAL PERIL</source_entity>
+    <target_entity>MORAL TORPOR</target_entity>
+    <relationship_description>MORTAL PERIL arises from indulgence in MORAL TORPOR (negligence and sensual indulgence).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

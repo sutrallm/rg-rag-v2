@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Concentration dispels ignorance by stabilizing the mind and preventing distraction, allowing insight into reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

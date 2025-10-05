@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>PERFECTED STAGE</target_entity>
+    <relationship_description>Liberation culminates in the perfected stage of sainthood, marked by complete purification and abiding in ultimate stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

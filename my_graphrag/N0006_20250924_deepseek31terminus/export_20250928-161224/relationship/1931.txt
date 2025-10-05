@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂灭</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>寂灭是证得的寂静状态，涅槃是最终的解脱境界，二者在概念上紧密相关，都指向解脱的果报。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

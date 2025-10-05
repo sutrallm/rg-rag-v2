@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATOR</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>The meditator cultivates mindfulness to achieve pure concentration and eliminate distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

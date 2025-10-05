@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNWAVERING MIND</source_entity>
+    <target_entity>DANGEROUS STATES</target_entity>
+    <relationship_description>An unwavering mind allows transcendence of perilous conditions like death and rebirth by establishing inner stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

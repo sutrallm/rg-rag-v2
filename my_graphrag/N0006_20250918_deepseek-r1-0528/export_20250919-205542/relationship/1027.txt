@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>NON-NEGLIGENCE</target_entity>
+    <relationship_description>Awareness cultivates non-negligent mental discipline.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

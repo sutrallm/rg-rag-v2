@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘僧眾</source_entity>
+    <target_entity>目犍連尊者</target_entity>
+    <relationship_description>比丘僧众由目犍连尊者带领，前往拜见佛陀。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

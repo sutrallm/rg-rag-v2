@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>蓮花</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>The lotus symbolizes purity, representing the idea of being unstained by worldly attachments, similar to mental liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

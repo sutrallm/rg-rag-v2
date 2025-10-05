@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是戒定慧三学之一，修行者通过圆满具足三学来证得智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

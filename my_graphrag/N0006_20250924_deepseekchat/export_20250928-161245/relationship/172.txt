@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧能指引修行者如实了知诸法实相，远离颠倒妄想，最终迈向解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

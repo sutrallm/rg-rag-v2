@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念是离忧之路</source_entity>
+    <target_entity>了知无常的本质</target_entity>
+    <relationship_description>正念是离忧之路强调放下执着，了知无常的本质进一步解析无常特性以实现苦的止息，逻辑自然衔接。</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

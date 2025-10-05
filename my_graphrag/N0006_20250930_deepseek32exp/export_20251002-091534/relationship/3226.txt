@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Zen meditation, through achieving mental liberation, enables the practitioner to develop wisdom and insight into the nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

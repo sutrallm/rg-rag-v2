@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>SUFFERING_OF_BIRTH_DEATH</target_entity>
+    <relationship_description>Sage transcends suffering of birth-death by eradicating its causes through enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

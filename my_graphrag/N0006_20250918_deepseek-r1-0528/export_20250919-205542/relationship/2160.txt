@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT EFFORT</source_entity>
+    <target_entity>ENLIGHTENED BEING</target_entity>
+    <relationship_description>Diligent Effort is necessary for overcoming the disturbances (Mara) associated with worldly existence and ultimately eradicating all Afflictions, leading to becoming an Enlightened Being.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

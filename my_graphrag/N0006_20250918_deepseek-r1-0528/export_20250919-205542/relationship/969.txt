@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCRIPTURES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Scripture study ignites transformative wisdom illuminating dharma truths</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

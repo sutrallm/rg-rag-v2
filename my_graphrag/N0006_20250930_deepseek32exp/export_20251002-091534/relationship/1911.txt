@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>内心安宁</target_entity>
+    <relationship_description>修行者 achieve 内心安宁 through meditation practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

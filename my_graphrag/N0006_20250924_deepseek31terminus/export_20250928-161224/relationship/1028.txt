@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>修行道业</target_entity>
+    <relationship_description>解脱者是完成修行道业的人。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

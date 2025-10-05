@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四禅</source_entity>
+    <target_entity>舍念清净</target_entity>
+    <relationship_description>通过四禅的修行过程，逐步舍离喜乐感受，达到舍念清净的境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

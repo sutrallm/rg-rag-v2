@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Continuous diligence allows transcendence of death's control through vigilant mindfulness, like fortifying a city against invasion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

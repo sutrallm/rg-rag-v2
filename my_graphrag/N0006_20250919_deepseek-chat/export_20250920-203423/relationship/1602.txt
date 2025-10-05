@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>佛法</target_entity>
+    <relationship_description>禅定是佛法修行中的重要手段，通过心念的专注与稳定，修行者能够断除烦恼，证悟真理。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

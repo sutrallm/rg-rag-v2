@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>The practice of Chan Ding allows one to be free from or远离 (distance from) distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL ATTUNEMENT</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Mental attunement is a method of diligent practice for mind regulation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

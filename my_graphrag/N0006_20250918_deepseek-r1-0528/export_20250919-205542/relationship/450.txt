@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESTRAINT OF SENSES</source_entity>
+    <target_entity>STABLE MIND</target_entity>
+    <relationship_description>Restraint of senses enables stable mind by eliminating sensory distractions that cause mental agitation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_CULTIVATION</source_entity>
+    <target_entity>INNER_PURITY</target_entity>
+    <relationship_description>Successful mind cultivation leads to inner purity as its primary outcome.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

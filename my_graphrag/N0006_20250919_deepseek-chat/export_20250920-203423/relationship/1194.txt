@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲的力量</source_entity>
+    <target_entity>智慧的观照</target_entity>
+    <relationship_description>慈悲 arises from智慧, emphasizing the interconnectedness of compassion and wisdom in觉悟后的修行.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>破执离妄</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>破执离妄 involves contemplation of 无常 (impermanence) as explicitly stated in the teaching.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

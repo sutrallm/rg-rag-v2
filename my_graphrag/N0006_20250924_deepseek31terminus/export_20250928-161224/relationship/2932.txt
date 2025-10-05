@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>In 涅槃 (Nirvana), all 煩惱 (afflictions) are burned away.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

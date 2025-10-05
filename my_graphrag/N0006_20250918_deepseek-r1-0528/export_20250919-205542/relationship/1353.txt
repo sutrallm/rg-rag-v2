@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSISTENT PRACTICE NECESSITY</source_entity>
+    <target_entity>THEORETICAL KNOWLEDGE</target_entity>
+    <relationship_description>This principle identifies theoretical knowledge alone as futile without practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

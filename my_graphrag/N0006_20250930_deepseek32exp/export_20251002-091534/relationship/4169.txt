@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观双运</source_entity>
+    <target_entity>缘起法性</target_entity>
+    <relationship_description>通过止观双运可以彻见缘起法性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

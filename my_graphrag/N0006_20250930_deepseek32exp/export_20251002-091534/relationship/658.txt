@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>Noble beings constantly practice calming the mind and insight meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

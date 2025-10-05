@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE PRECEPTS</source_entity>
+    <target_entity>PENETRATIVE WISDOM</target_entity>
+    <relationship_description>Pure precepts are intrinsically combined with penetrative wisdom in saintly individuals.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

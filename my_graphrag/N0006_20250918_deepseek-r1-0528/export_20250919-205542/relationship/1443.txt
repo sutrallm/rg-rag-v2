@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATE CONCENTRATION TO DETACH FROM DESIRE</source_entity>
+    <target_entity>MIND FREE FROM BONDS</target_entity>
+    <relationship_description>Cultivating concentration helps achieve a mind free from bonds by providing a foundation for avoiding desires and delusions, enabling liberation from attachments.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

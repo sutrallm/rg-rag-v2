@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>毒蛇</target_entity>
+    <relationship_description>Practitioners should avoid craving and desire as they would avoid poisonous snakes.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

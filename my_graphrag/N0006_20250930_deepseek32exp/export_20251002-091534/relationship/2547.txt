@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>Genuine wisdom naturally gives rise to boundless compassion, which manifests as altruistic actions benefiting all beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

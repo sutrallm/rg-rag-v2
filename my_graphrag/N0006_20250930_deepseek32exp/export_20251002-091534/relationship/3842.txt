@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Renunciation practice through gradual sensory abandonment leads to ultimate liberation by eradicating craving and attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN PRACTICE</source_entity>
+    <target_entity>LIBERATED ONE</target_entity>
+    <relationship_description>The ultimate goal of Chan practice is to become a liberated one, transcending dualities and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

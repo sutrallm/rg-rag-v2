@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>梵行</source_entity>
+    <target_entity>尘染</target_entity>
+    <relationship_description>Perfecting '梵行' (the holy life) washes away all '尘染' (impurities).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

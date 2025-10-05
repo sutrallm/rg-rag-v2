@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DISCIPLINE</target_entity>
+    <relationship_description>Practitioners embody discipline as the foundation of their practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

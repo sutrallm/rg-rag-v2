@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ACHIEVER</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>Achievers have drunk the nectar of the Dharma, attaining purity and perfection in their actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

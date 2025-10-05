@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>衣钵</target_entity>
+    <relationship_description>修行者通过舍弃对衣钵的依赖获得自由。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>争论</source_entity>
+    <target_entity>佛法</target_entity>
+    <relationship_description>执着于争论会迷失于无常等佛法根本问题的本质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

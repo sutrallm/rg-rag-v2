@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无漏智慧</target_entity>
+    <relationship_description>Perfect wisdom is the culmination of insight and understanding gained through meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

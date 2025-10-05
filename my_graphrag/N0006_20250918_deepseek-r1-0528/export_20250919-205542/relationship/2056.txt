@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_FOUNDATIONS_MINDFULNESS</source_entity>
+    <target_entity>SUPERIOR_KNOWLEDGE</target_entity>
+    <relationship_description>Practicing mindfulness on the four foundations enables the letting go of harmful thoughts and mental hindrances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>教法</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过实践佛陀的教法，体悟并将其传承给有缘之人。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

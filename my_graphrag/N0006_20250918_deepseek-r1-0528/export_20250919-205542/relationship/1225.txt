@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>MENTAL_AUTONOMY</target_entity>
+    <relationship_description>Transcending Attachment is explicitly described as enabling the attainment of Mental_Autonomy, where practitioners are no longer bound by worldly perceptions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

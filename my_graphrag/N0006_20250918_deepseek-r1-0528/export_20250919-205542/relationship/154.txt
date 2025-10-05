@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Diligence avoids neglect of meditation practice as explicitly stated among the five faults to be abandoned.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

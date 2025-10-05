@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTAINMENT OF LIBERATION</source_entity>
+    <target_entity>FIRST JHĀNA</target_entity>
+    <relationship_description>First Jhāna serves as the initial meditative milestone in the progression toward full Attainment of Liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

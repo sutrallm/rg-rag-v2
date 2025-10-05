@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>教义</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>所有修行最终指向苦的彻底止息，这是教义的核心目标</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

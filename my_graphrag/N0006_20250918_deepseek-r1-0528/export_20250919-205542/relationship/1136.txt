@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO LIBERATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The path to liberation leads practitioners to freedom from suffering through its structured practices, ultimately concluding with liberation as the goal.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Meditation frees practitioners from defilements by abating disturbances and afflictions, enabling freedom from their bondage as described in the liberating qualities of concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

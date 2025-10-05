@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CARELESS SPEECH</source_entity>
+    <target_entity>MALICIOUS SPEECH</target_entity>
+    <relationship_description>Described as inherently poisonous speech that directly constitutes a harmful verbal expression.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

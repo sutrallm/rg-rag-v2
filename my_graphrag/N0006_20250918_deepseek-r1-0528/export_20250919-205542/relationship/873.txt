@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAMING THE MIND</source_entity>
+    <target_entity>DEFILEMENTS AND FETTERS</target_entity>
+    <relationship_description>Taming the mind facilitates the eradication of defilements and fetters.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

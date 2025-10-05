@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>善知识</target_entity>
+    <relationship_description>Practitioners should associate with spiritual friends as part of their practice.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

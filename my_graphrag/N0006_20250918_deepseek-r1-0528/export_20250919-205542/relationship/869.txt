@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>NATURE OF WORLDLY EXISTENCE</target_entity>
+    <relationship_description>Mind liberation entails direct perception of existence's cyclic nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

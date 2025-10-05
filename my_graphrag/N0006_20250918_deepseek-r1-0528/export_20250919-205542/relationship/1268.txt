@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERTNESS</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Alertness directly counteracts negligence by recognizing and avoiding spiritual dangers.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

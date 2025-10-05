@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>BIRTH AND DEATH</target_entity>
+    <relationship_description>Afflictions bind individuals to birth and death by generating karmic causes for rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

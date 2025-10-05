@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实修</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>实修方法中的观呼吸与禅定的专注一处有密切联系，都是修行的重要方法。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

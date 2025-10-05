@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GODS</source_entity>
+    <target_entity>CULTIVATOR</target_entity>
+    <relationship_description>Gods respect cultivators for their achieved virtue and wisdom, as highlighted in the description of the saintly state.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

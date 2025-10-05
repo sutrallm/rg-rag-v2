@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Discipline and wisdom complement each other in spiritual practice like two wings of a bird.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

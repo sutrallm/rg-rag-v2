@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DEPENDENT ORIGINATION</target_entity>
+    <relationship_description>Wisdom enables practitioners to truly understand dependent origination, allowing them to penetrate the darkness of ignorance and see the light of truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

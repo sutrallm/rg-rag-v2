@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Emptiness involves realizing the five aggregates are not truly existent.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

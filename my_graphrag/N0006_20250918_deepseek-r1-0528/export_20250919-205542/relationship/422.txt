@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>纯净智慧</target_entity>
+    <relationship_description>修行者依靠老师传授的纯净智慧进行禅修实践，以实现灭除痛苦。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

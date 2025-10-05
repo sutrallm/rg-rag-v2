@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DISCIPLINE</target_entity>
+    <relationship_description>Practitioners possess discipline to eradicate afflictions and transcend suffering, explicitly noted in the section describing the qualities of sages.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

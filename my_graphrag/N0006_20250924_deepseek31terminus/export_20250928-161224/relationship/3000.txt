@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉</source_entity>
+    <target_entity>智慧高台</target_entity>
+    <relationship_description>智慧高台是警觉修行者境界的比喻</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

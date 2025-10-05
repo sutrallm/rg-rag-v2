@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>观慧</target_entity>
+    <relationship_description>修行次第 culminates in the development of 观慧.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

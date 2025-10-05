@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>信仰</target_entity>
+    <relationship_description>修行者需要信仰正法，与智慧共同作用，找到正确的修行之路。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

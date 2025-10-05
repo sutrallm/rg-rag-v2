@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Strict observance of precepts eliminates ignorance's accumulated habits through ethical clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

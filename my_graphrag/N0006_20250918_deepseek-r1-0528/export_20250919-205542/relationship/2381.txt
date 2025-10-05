@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>Maintains equanimity amidst changing conditions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence directly counters heedlessness, preventing spiritual decline and danger.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

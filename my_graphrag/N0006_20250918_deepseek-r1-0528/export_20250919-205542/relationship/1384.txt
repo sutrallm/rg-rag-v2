@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>PLEASURE-SEEKING</target_entity>
+    <relationship_description>Effort removes the flood of pleasure-seeking (desire) therefore one does not drift in the flow of birth-death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

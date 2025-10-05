@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A meditation practitioner aims to achieve liberation through meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

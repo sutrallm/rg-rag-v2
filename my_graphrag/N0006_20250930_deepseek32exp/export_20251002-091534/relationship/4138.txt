@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修证</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>修证的检验标准包括断除我执习气，我执是修证过程中需要克服的根本障碍</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

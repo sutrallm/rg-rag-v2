@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY DESIRES</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Sensory desires are to be countered by observing the impermanent nature of feelings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

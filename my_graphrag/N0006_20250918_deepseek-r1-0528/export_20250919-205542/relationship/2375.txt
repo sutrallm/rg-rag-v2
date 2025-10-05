@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT STATE OF MEDITATION</source_entity>
+    <target_entity>DELUSIONS</target_entity>
+    <relationship_description>Directly penetrates and eliminates delusions through mindful insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

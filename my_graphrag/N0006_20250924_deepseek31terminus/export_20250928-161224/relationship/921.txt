@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM (ZHI HUI)</source_entity>
+    <target_entity>ATTACHMENT (ZHI ZHUO)</target_entity>
+    <relationship_description>Wisdom allows one to be free from attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

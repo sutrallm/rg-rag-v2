@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>BORROWED EXISTENCE</target_entity>
+    <relationship_description>Sages fully comprehend the truth of borrowed existence, recognizing all phenomena as transient.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

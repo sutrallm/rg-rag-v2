@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Compassion and Wisdom are described as two complementary qualities that must be developed together, like two wings of a bird.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

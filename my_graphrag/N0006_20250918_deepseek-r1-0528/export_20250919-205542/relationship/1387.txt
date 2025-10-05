@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>MENTAL_FORMATIONS</target_entity>
+    <relationship_description>The Sage is skilled at severing continuously arising mental formations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

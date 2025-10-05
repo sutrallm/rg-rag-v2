@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOTUS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The lotus symbolizes the purity and detachment of a liberated mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

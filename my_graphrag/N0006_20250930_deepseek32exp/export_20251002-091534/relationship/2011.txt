@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>彼岸</target_entity>
+    <relationship_description>Liberation leads to reaching the shore beyond birth and death, characterized by non-arising and non-ceasing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定的修行者</source_entity>
+    <target_entity>无常与执着的超越</target_entity>
+    <relationship_description>The meditating practitioner attains mental liberation by transcending attachment through insight into impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHING</source_entity>
+    <target_entity>PATH</target_entity>
+    <relationship_description>The teachings outline the path to be followed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

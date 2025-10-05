@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>修行者通过具足戒定慧，断尽烦恼，最终达到圣者的无上解脱境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

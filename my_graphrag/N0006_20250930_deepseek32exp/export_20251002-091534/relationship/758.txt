@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>FOREST</target_entity>
+    <relationship_description>Zen meditation creates a mind like a cool forest without insects where wild animals can dwell peacefully.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

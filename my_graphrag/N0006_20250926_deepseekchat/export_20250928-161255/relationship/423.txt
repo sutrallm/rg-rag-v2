@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Sheng Zhe achieve Jie Tuo through diligent practice, moral conduct, and prajna wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

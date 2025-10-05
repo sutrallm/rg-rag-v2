@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Wisdom leads to liberation from suffering and attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

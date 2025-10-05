@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者的内在境界</source_entity>
+    <target_entity>佛法</target_entity>
+    <relationship_description>修行者的内在境界是佛法修行的终极目标，通过精进、禅定与智慧，修行者能够超越生死轮回，达到究竟解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

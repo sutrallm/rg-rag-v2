@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>守护心念</target_entity>
+    <relationship_description>守护心念是在禅定中进行的具体修行实践，通过持续不懈地实施来达成效果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

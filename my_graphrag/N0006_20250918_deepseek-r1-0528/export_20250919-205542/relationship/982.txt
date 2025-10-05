@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WHOLESOME_DHARMAS</source_entity>
+    <target_entity>ACTION</target_entity>
+    <relationship_description>Beneficial teachings are implemented through concentrated diligent practice in actions</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

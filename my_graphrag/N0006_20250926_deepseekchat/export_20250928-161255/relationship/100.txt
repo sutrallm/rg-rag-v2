@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>懈怠</target_entity>
+    <relationship_description>精进与懈怠是修行者修行的两种对立状态，前者有助于修行，后者阻碍修行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

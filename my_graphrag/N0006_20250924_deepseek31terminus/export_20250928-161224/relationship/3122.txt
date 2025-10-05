@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文內容</source_entity>
+    <target_entity>數字標題分段</target_entity>
+    <relationship_description>處理後的原文內容需要用數字標題分段。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

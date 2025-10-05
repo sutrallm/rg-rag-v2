@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Sustained meditation prevents defiled thoughts from adhering to consciousness, comparable to water repelling from bronze surfaces.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

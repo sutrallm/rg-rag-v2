@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>通过四念处观察身心现象，了知五蕴无常苦空之理。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

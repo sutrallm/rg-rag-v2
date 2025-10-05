@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEATH-REBIRTH CYCLE</target_entity>
+    <relationship_description>Diligence navigates through the death-rebirth cycle using wisdom as the vessel.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>解脱是圣者证得无生法忍后的状态，不为毁誉所动。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

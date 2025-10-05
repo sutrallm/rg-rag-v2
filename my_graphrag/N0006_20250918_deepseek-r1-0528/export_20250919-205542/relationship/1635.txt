@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN CONCENTRATION (SAMĀDHI)</source_entity>
+    <target_entity>DILIGENCE (VĪRYA)</target_entity>
+    <relationship_description>Both Zen Concentration and Diligence are presented as core practices leading to mental stability and safety, forming part of the path to liberation.</relationship_description>
+    <relationship_strength>3</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>贪嗔</target_entity>
+    <relationship_description>修行者通过修行使心脱离贪嗔的系缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

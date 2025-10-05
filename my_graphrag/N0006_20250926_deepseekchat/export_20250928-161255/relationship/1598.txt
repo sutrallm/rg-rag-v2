@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>离垢成就</target_entity>
+    <relationship_description>修行者在一切境界中保持无染，证得离垢成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

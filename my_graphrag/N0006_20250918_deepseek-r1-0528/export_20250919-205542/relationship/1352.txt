@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATED MEDITATION STATE</source_entity>
+    <target_entity>OBSCURATIONS</target_entity>
+    <relationship_description>Profound concentration removes obscurations that veil correct understanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

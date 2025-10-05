@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱道</source_entity>
+    <target_entity>贪嗔</target_entity>
+    <relationship_description>解脱道的实践能够脱离贪嗔的系缚，贪嗔是解脱道要克服的对象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

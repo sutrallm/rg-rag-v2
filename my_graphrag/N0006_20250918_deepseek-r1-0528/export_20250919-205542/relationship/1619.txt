@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditative Concentration cultivates Wisdom by creating the clarity needed to penetrate ultimate truths during contemplative practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

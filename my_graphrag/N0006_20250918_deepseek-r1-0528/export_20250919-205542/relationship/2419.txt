@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation represents the ultimate freedom from cyclic existence achieved by awakened beings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

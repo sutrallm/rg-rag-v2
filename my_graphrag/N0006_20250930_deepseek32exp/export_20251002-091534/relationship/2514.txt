@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照</source_entity>
+    <target_entity>身体感受</target_entity>
+    <relationship_description>观照以身体感受作为重要的观察对象</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

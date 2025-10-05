@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Liberated Beings are permanently freed from suffering by eradicating the causes of attachment and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

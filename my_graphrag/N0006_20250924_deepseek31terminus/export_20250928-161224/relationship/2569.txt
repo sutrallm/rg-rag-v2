@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Desire and craving are the causes of continued existence in samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

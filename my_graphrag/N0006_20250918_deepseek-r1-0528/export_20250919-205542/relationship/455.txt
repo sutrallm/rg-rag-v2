@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT AWARENESS</source_entity>
+    <target_entity>STABLE MIND</target_entity>
+    <relationship_description>Holding firmly to right awareness prevents disturbance from others' words and deeds, fostering mental stability and independence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

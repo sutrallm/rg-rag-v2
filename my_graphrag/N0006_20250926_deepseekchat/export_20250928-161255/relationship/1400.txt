@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>圣者不贪恋五欲，不受世俗诱惑。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

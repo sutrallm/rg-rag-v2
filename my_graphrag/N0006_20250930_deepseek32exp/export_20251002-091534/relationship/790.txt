@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>恶行</target_entity>
+    <relationship_description>Practitioners distance themselves from all evil actions and misconduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

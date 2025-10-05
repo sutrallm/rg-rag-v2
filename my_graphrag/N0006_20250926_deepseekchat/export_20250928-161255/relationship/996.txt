@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>精進修行是掌握禪定之法的必要條件，唯有持續不懈的努力才能進入禪定境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

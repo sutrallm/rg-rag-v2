@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>正法是修行者依照的教导，指导修行次第的实践，从持戒清净开始，进而修定发慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

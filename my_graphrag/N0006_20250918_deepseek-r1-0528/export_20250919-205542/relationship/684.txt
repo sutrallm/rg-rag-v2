@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNWHOLESOME THINGS</source_entity>
+    <target_entity>OBSTACLES</target_entity>
+    <relationship_description>Unwholesome mental states and actions directly hinder spiritual progress by functioning as obstacles to practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

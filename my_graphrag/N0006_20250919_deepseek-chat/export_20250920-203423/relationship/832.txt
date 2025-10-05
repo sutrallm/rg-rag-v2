@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>禅定是修行者达到解脱的重要方法，通过心念安定，自然息灭烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

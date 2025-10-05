@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERIL OF DELUSION</source_entity>
+    <target_entity>DILIGENCE IN TRANSCENDING DEATH</target_entity>
+    <relationship_description>Vigilance against delusion (Peril of Delusion) supports the mindful awareness needed at death emphasized in Diligence in Transcending Death.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

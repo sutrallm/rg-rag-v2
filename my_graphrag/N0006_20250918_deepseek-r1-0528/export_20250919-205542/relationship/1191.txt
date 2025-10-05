@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Mindfulness directly counteracts negligence by blocking its harmful "flood" through vigilant awareness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

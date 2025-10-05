@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>MORAL DISCIPLINE</target_entity>
+    <relationship_description>Saintly beings possess pure moral discipline as part of their perfected qualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

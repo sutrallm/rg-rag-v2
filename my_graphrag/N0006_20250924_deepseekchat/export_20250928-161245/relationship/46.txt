@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>般若波罗蜜</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>般若波罗蜜是修行成就的根本，帮助修行者破除无明，证得涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Ultimate liberation represents the highest state of liberation where all afflictions are completely eliminated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

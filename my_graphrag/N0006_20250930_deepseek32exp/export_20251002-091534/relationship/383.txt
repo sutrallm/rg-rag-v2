@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>修行者需要断除我执妄想才能证得自在安住。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>MERIT</target_entity>
+    <relationship_description>Precepts lead to the accumulation of merit and enhancement of spiritual reputation through ethical conduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>THREE REALMS</target_entity>
+    <relationship_description>Sage transcends all Three Realms through perfected realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

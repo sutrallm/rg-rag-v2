@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>禅修是调伏心念的方法，通过专注与观想平息内心的波动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

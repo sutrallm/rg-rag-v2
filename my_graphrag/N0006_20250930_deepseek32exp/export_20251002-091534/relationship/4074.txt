@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHTFOLD PATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Eightfold Path is the complete spiritual practice that leads practitioners to ultimate liberation and purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

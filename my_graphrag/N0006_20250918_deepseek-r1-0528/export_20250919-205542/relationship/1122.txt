@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AGITATION</source_entity>
+    <target_entity>FIVE DESIRES</target_entity>
+    <relationship_description>Agitation in beginners originates from entanglement in the Five Desires, which obscure comprehension.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARHAT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Arhats attain nirvana by extinguishing all defilements and severing the cycle of rebirth, abiding in ultimate peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

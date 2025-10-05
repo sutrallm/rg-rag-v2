@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>般若智慧</target_entity>
+    <relationship_description>禪定是培育般若智慧的基础，智慧又能深化禪定的境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

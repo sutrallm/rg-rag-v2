@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>自在解脱</target_entity>
+    <relationship_description>彻证无我能达到自在解脱</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

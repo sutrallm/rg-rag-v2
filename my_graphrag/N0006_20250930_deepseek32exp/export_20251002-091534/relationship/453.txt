@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREATH AND BODY SENSATIONS</source_entity>
+    <target_entity>DEPENDENT ORIGINATION</target_entity>
+    <relationship_description>Continuous awareness of breath and body sensations helps understand the truth of dependent origination.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

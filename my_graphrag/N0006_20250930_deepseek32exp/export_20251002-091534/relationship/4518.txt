@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修心</source_entity>
+    <target_entity>觉性</target_entity>
+    <relationship_description>修心 gradually purifies the mind until it ultimately reveals the innate 觉性 (awareness) that is inherently present.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

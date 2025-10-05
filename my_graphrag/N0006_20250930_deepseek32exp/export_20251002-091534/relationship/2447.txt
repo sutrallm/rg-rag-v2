@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无常观 involves observing the arising and ceasing of 五蕴 (five aggregates) to break attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

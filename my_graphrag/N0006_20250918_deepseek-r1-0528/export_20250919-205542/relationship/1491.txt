@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECTING SAGELY VIRTUES</source_entity>
+    <target_entity>PURE PRECEPTS</target_entity>
+    <relationship_description>Perfecting Sagely Virtues involves possessing Pure Precepts, which are integral to the practitioner's ethical discipline as stated in the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

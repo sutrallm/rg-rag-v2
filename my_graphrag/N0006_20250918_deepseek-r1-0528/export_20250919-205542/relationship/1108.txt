@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFICATION</source_entity>
+    <target_entity>INHERENT_WISDOM</target_entity>
+    <relationship_description>Purification reveals inherent wisdom by eliminating obscurations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

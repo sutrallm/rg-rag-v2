@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念和智慧是智者用来止息内心恐惧的两种相辅相成的修行方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

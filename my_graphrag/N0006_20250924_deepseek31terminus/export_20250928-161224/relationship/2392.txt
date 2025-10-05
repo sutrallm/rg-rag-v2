@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Meditative concentration enables practitioners to achieve liberation from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

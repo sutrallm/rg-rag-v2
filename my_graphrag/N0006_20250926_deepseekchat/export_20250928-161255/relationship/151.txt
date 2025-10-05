@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过遵循戒律，净化内心，远离恶行，趋向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

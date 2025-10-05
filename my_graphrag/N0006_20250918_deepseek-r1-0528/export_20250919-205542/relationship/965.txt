@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>DILIGENT_EFFORT</target_entity>
+    <relationship_description>Moral precepts provide foundational support for effective diligent effort in practice</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

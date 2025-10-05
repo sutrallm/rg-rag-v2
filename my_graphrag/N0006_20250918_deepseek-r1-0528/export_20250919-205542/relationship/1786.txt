@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Desire is the object that fuels attachment, leading to clinging and bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

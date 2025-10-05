@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Practitioners overcome and abandon all forms of attachment, including to extremes, views, self and others, and past, present, and future states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

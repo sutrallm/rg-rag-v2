@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行圓滿</source_entity>
+    <target_entity>究竟安穩</target_entity>
+    <relationship_description>修行圆满意味着证得了究竟安稳。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

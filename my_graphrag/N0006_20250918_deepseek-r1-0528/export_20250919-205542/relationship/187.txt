@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>BOND</target_entity>
+    <relationship_description>Liberation represents freedom from all bonds and fetters, described as becoming traceless like the wind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

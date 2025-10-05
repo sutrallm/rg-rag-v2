@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>佛法</target_entity>
+    <relationship_description>修行者遵循佛法的教导，通过智慧与慈悲离苦得乐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

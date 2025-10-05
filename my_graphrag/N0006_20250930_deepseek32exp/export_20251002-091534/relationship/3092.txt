@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>Practitioners use mindfulness to refine their minds and maintain continuous awareness in their spiritual cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOCUS</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Focus supports the practice of mindfulness by allowing one to stay present and avoid distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

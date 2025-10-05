@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>SWORD</target_entity>
+    <relationship_description>A well-trained mind through meditation is like a tempered sword that cuts through all afflictions.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

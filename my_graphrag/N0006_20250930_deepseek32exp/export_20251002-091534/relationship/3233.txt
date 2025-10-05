@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>The path to liberation involves the realization of the no-self nature of all phenomena, which destroys afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

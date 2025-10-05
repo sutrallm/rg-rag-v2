@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSES GUARDIANSHIP</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Six Senses Guardianship prevents afflictions by shielding the mind from sensory disturbances and impurities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

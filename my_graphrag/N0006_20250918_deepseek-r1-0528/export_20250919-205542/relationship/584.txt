@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT MINDFULNESS</source_entity>
+    <target_entity>AUTHENTIC CONCENTRATION</target_entity>
+    <relationship_description>Right mindfulness directly establishes authentic concentration as specified in the method description.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我境界</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无我境界是修行者达到解脱的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>彼岸</target_entity>
+    <relationship_description>解脱 is described as reaching the 彼岸, a state of safety and no suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

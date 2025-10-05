@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUARDING_THE_MIND</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Guarding the mind enables practitioners to cease afflictions and suffering and enter the peaceful blissful state of liberation</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>A sage embodies ultimate wisdom to understand reality's essence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

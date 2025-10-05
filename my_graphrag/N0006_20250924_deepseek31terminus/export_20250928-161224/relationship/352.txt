@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慾望</target_entity>
+    <relationship_description>A practitioner strives to overcome desire and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

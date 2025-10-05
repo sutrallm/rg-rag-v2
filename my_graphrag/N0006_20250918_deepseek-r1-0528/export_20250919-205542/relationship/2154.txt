@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHANDING</target_entity>
+    <relationship_description>JINGJIN enables practitioners to master ZHANDING by guarding thoughts and preventing FANGYI, ensuring true acquisition of meditative accomplishment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

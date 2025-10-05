@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世间</source_entity>
+    <target_entity>生灭无常</target_entity>
+    <relationship_description>The 世间 has the nature of 生灭无常 (impermanence).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>禅修能熄灭贪欲的火焰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

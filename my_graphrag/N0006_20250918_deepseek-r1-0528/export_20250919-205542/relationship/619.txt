@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHTFUL WISDOM OF LIBERATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Insightful Wisdom of Liberation specifically enables Non-Attachment, freeing one from clinging to any state or outcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

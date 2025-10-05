@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>精进修行是修行的核心方法，通过持续努力帮助修行者达到解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

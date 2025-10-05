@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>觉者安住于永恒寂静的涅槃，涅槃是觉者达到的究竟境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

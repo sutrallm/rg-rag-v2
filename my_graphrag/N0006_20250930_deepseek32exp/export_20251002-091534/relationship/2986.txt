@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>斯陀含</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>Once-returner has weakened greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

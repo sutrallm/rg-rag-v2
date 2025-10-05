@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STEADFAST MIND TRAINING</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Steadfast mind training produces a stability that the five hindrances cannot disturb.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

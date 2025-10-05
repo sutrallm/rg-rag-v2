@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH-REBIRTH CYCLE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Crossing the death-rebirth cycle requires diligent practice fortified by alertness and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

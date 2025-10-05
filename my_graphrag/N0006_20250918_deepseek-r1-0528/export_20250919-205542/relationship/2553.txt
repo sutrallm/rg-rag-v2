@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom enables liberation through non-attachment to outcomes and recognition of ultimate truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

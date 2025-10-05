@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFICATION</source_entity>
+    <target_entity>MENTAL_DEFILEMENTS</target_entity>
+    <relationship_description>Purification process specifically removes mental defilements through deliberate practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>Overcoming贪欲 is a necessary step for the practitioner to achieve涅槃.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>想蕴</source_entity>
+    <target_entity>阳焰</target_entity>
+    <relationship_description>想蕴 is observed as 阳焰 (mirage) in the contemplation of impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

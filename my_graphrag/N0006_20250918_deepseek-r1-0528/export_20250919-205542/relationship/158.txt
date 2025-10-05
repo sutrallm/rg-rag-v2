@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超脫繫縛</source_entity>
+    <target_entity>寂滅修持</target_entity>
+    <relationship_description>Liberation from attachments culminates in abiding in ultimate stillness with perfect virtue</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念禅修</source_entity>
+    <target_entity>掉举</target_entity>
+    <relationship_description>正念禅修能够消除内心的掉举。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

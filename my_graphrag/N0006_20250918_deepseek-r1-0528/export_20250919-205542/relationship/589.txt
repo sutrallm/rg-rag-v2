@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>野兽</target_entity>
+    <relationship_description>Beasts symbolically represent practitioners using meditation to escape mental distractions, as beasts leave troubled forests.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

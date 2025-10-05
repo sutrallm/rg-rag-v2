@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>禅定需要心念专注作为基础，心念是禅定修行的核心要素。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

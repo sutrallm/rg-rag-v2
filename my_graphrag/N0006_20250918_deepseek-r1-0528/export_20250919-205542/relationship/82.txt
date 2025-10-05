@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣德成就</source_entity>
+    <target_entity>破执离妄</target_entity>
+    <relationship_description>圣德成就 (saintly virtue) inherently includes the wisdom of 破执离妄 (seeing ultimate reality).</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

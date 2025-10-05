@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>FOOLISH PERSON</target_entity>
+    <relationship_description>Defiling influence that corrupts the individual's mind, enabling impulsive harmful expressions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

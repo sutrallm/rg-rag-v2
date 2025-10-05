@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>FREEDOM_FROM_REMORSE</target_entity>
+    <relationship_description>Purity in precepts generates freedom from remorse through ethical integrity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECTED_SAINT</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>The perfected saint has completely extinguished greed, hatred, and delusion (the Three Poisons).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

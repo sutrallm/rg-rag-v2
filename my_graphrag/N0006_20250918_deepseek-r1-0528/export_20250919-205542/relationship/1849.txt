@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED LEADS TO DISASTER</source_entity>
+    <target_entity>CONCRETE ROLES</target_entity>
+    <relationship_description>Stemmed from the rat-in-bamboo analogy to warn against entrapment by desire.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

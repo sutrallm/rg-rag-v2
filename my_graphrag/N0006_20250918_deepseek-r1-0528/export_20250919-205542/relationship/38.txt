@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ERADICATION OF LAZINESS</source_entity>
+    <target_entity>MENTAL SHARPNESS</target_entity>
+    <relationship_description>Eliminating laziness sharpens mental faculties according to the explicit statement about diligent practitioners.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

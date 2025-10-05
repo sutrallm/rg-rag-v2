@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BIRTH AND DEATH</source_entity>
+    <target_entity>AGING</target_entity>
+    <relationship_description>Birth and death is characterized by the suffering of aging, as explicitly stated (老、病、死的流转).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

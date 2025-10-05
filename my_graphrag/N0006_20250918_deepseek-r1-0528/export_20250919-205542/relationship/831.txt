@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VENERABLE CITTA</source_entity>
+    <target_entity>CRAVING DEMON</target_entity>
+    <relationship_description>Venerable Citta explicitly conquered the craving demon (representing sensory desire) through steadfast diligent cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

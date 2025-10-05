@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts provide the foundation for developing wisdom, as moral discipline creates the conditions for clear understanding and insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL DISCIPLINE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Moral discipline and wisdom are interdependent virtues cultivated together through diligent practice to eliminate defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

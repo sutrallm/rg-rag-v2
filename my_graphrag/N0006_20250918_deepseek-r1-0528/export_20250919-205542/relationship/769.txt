@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT TO FAME</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Attachment to fame is recognized as a source of significant burden and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Pure precepts and dwelling in the Dharma lead to clarity and liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

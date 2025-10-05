@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者应当实践慈悲，修习四无量心，摄受众生拔济苦难。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

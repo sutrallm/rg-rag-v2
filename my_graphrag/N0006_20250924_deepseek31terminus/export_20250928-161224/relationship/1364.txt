@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>Wisdom (慧) leads to the achievement of liberation (解脫).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

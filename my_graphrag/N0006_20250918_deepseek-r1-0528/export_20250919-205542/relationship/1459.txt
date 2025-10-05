@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND CONCENTRATION</source_entity>
+    <target_entity>INNER CLARITY</target_entity>
+    <relationship_description>Mind Concentration directly enables the achievement of Inner Clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

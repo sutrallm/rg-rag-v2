@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念清净</source_entity>
+    <target_entity>真实的自由</target_entity>
+    <relationship_description>A pure mind leads to genuine freedom by releasing attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

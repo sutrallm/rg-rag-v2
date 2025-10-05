@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE WISDOM</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Ultimate wisdom is the experiential state that characterizes ultimate liberation, beyond all dualistic concepts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

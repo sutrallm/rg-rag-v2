@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>精进 sustains adherence to 戒律 by resisting temptations that violate ethical precepts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

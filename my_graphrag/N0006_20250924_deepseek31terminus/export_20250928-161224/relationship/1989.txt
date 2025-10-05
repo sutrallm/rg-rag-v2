@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Pure precepts and proper conduct are cultivated by those who diligently practice mindfulness and abide in cessation, leading to the cutting off of afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

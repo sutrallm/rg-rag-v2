@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners actively engage in meditation to achieve spiritual benefits and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

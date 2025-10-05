@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>TRUE LIBERATION</target_entity>
+    <relationship_description>Possessing saintly qualities leads to true liberation by eradicating all defilements and fears.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

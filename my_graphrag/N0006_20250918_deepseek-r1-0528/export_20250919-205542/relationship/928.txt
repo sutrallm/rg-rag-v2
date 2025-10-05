@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DILIGENT EXERTION</target_entity>
+    <relationship_description>Meditation fundamentally requires diligent exertion as a core principle; continuous, unrelenting effort is essential for mastering meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>A Saint is the result of successfully treading the Path to Liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

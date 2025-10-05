@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>知足少欲</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>知足少欲为禅定提供心理基础，减少欲望有助于专注安定的状态。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>存在状态</target_entity>
+    <relationship_description>精进要求不贪着任何存在状态，不贪着存在状态是精进的修行方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

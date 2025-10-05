@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>The 圣者 (sage) is endowed with 戒律 (moral discipline).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

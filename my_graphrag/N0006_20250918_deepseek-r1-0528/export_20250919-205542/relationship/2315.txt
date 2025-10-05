@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIAO GU</source_entity>
+    <target_entity>FIVE SKANDHAS</target_entity>
+    <relationship_description>Miao Gu is erroneous because it involves clinging to the Five Skandhas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

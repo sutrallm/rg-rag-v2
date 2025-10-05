@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORDINARY PEOPLE</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Ordinary people exhibit vulnerability to indulgence due to ignorance of Dharma principles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

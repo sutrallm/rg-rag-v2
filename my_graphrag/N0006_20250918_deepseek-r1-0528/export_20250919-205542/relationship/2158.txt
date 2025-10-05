@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM WITHOUT ATTACHMENT</source_entity>
+    <target_entity>INNER STABILITY</target_entity>
+    <relationship_description>Wisdom Without Attachment (non-craving) contributes to the purification of the mind and the maintenance of true Inner Stability by preventing clinging to experiences or states.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

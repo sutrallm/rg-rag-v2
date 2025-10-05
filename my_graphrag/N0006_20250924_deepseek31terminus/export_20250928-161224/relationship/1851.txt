@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The practitioner who sees the true nature of reality (with wisdom) will attain Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

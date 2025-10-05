@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>VIRTUE_MEDITATION_WISDOM</target_entity>
+    <relationship_description>Practitioners possess and cultivate virtue, meditation, and wisdom to sever afflictions completely.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

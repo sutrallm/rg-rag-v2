@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>A practitioner engages in the practice of Chan Ding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

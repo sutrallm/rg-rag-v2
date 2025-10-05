@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SKILLFULLY RESTRAINING THE BODY</source_entity>
+    <target_entity>HOLDING PRECEPTS STEADFASTLY</target_entity>
+    <relationship_description>Skillfully restraining the body is a specific application of holding precepts steadfastly, focusing on preventing physical misconduct.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

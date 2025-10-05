@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>六尘</target_entity>
+    <relationship_description>修行者 observe 六尘 (six sense objects) as being empty and dependently originated.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

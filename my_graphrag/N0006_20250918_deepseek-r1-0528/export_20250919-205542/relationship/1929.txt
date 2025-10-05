@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>CYCLE OF BIRTH AND DEATH</target_entity>
+    <relationship_description>Diligence overcomes the perils of the cycle of birth and death by enabling mastery over the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Wisdom involves contemplating the emptiness and impermanence of the five aggregates to understand the true nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANAPANASATI</source_entity>
+    <target_entity>SUPREME_CONCENTRATION</target_entity>
+    <relationship_description>Consistent practice of Anapanasati leads to the development of profound concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

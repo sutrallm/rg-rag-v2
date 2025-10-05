@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>耳</source_entity>
+    <target_entity>生</target_entity>
+    <relationship_description>The ear arises due to conditions and is subject to the characteristic of birth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

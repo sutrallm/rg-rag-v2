@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>专注</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>专注和正念相辅相成，共同帮助修行者获得内心的安宁与稳定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

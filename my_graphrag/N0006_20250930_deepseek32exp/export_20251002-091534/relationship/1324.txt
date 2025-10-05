@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>最后身</target_entity>
+    <relationship_description>已彻底超越生死的修行者被称为最后身。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

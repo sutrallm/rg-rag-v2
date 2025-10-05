@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Indulgence directly causes suffering by accumulating unwholesome actions and increasing pain as described in the water accumulation analogy.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

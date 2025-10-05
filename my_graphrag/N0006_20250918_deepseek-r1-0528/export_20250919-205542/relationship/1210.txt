@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSES</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>The six senses generate ignorance through their obscuring and disturbing influences on perception.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

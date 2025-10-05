@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WO SUO (THE 'SELF' AND 'MINE')</source_entity>
+    <target_entity>ZHI ZHUO (ATTACHMENT / GRASPING)</target_entity>
+    <relationship_description>The erroneous notions of "self" and "mine" (Wo Suo) are the fundamental root and primary objects of Attachment and Grasping (Zhi Zhuo).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

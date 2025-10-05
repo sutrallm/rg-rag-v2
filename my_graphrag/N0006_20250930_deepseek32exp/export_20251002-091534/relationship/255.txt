@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND REGULATION</source_entity>
+    <target_entity>GREED AND AVERSION</target_entity>
+    <relationship_description>Mind regulation gradually eliminates greed and aversion habits through continuous correction of distorted cognition.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

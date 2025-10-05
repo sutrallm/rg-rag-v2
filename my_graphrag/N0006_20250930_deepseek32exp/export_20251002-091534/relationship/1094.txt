@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>根门</target_entity>
+    <relationship_description>修行者应当如避开毒蛇般谨慎防护根门，通过层层破除执着抵达涅槃。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

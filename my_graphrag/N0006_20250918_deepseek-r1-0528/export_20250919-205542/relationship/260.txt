@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESOLUTE PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Resolute Practitioner achieves liberation as the culmination of their diligent practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

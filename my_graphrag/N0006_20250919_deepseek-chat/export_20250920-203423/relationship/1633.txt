@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>佛法的核心真谛是帮助修行者证入涅槃，超越生死轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SEVEN FACTORS OF ENLIGHTENMENT</target_entity>
+    <relationship_description>Practitioners cultivate the Seven Factors of Enlightenment through continuous practice to reach Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>世间无常</target_entity>
+    <relationship_description>Wisdom allows one to透彻看见 (clearly see) the principle of 世间无常 (impermanence).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

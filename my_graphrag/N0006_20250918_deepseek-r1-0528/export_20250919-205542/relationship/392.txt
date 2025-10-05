@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_CONCENTRATION_TECHNIQUE</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Applying this technique allows practitioners to avoid heedlessness (slackness), as explicitly stated in section five's conclusion linking controlled focus to prevention of indulgence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

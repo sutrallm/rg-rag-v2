@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>福田</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者因其德行与智慧而成为世间无上的福田，受到众生的敬仰与供养。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

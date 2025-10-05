@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS CONCENTRATION WISDOM</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Mastery of these three trainings enables sainthood by eradicating afflictions at their root.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom, by realizing the illusory nature of desire, allows one to sever it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM OF NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION FROM SAMSARA</target_entity>
+    <relationship_description>Wisdom of non-attachment helps practitioners avoid attachment to liberation itself, leading to ultimate freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

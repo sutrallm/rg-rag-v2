@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Practitioners develop wisdom through meditation practice to gain insight into reality and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无漏智慧</target_entity>
+    <relationship_description>Practitioners attain non-outflow wisdom by severing all fetters and transcending distinctions between good and evil.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

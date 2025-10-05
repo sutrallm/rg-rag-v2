@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慈悲心</target_entity>
+    <relationship_description>慈悲心是修行者的重要品质，帮助他们与众生建立真正的联系，实现自他二利。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

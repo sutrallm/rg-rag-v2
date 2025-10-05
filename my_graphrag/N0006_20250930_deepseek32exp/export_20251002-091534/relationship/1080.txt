@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>具足戒定慧的修行者能通过持续修心住于寂静，彻底断除烦恼根源。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

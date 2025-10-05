@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>OBSTACLES</target_entity>
+    <relationship_description>A concentrated mind breaks through obstacles gradually, akin to water penetrating stone.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

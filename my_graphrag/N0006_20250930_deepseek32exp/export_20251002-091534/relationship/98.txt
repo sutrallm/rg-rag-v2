@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>The practitioner transcends the power of death through diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

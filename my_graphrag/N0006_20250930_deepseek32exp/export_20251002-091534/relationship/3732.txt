@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND TRAINING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Mind training employs wisdom as the means to tame and shape mental states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

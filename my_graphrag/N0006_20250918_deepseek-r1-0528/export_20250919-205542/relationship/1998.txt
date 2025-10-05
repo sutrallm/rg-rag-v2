@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>FEAR</target_entity>
+    <relationship_description>The Sage has transcended all fear.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

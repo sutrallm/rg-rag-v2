@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>The three studies provide the sequential path that practitioners follow to achieve liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

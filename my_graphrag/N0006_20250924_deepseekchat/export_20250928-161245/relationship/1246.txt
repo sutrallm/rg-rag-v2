@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>解脫是修行的終極目標，超越生死輪迴，不受業力束縛。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

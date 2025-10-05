@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROGRESS</source_entity>
+    <target_entity>DECLINE</target_entity>
+    <relationship_description>Constant diligence prevents personal decline and the faults associated with negligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DRAGON_KING</source_entity>
+    <target_entity>GARUDA</target_entity>
+    <relationship_description>The Dragon King avoids harm from the garuda bird, symbolizing vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

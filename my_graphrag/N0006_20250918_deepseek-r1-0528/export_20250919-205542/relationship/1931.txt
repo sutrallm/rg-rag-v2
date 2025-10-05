@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>THE AWAKENED ONE</target_entity>
+    <relationship_description>The awakened one achieves liberation through meditative practice and insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

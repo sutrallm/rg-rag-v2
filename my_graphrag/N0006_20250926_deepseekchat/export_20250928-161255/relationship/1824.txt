@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>禪定是達到解脫的一種重要修習方法，通過專注於當下，幫助修行者實現心靈解脫。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

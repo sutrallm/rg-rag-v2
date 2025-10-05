@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY TEMPTATIONS</source_entity>
+    <target_entity>SIX SENSE BASES</target_entity>
+    <relationship_description>Sensory temptations exploit engagement through the six sense bases as entry points.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

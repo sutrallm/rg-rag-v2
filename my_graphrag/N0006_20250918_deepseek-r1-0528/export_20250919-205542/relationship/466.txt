@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>ARAHANT</target_entity>
+    <relationship_description>Arhatship requires complete understanding and detachment from the Six Sense Bases.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

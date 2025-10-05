@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Concentration secures the mind against scattering and distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

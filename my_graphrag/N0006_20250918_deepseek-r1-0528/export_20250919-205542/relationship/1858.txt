@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Attachment creates suffering through clinging to impermanent phenomena as permanent sources of satisfaction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

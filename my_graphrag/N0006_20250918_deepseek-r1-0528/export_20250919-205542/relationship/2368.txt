@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAKADAGAMI (SECOND FRUIT)</source_entity>
+    <target_entity>ANAGAMI (THIRD FRUIT)</target_entity>
+    <relationship_description>Second Fruit represents substantial progression facilitating Third Fruit attainment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>FOREST WITHOUT MOSQUITOES</target_entity>
+    <relationship_description>Zen meditation leads to a state of peace comparable to a forest without mosquitoes, free from disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

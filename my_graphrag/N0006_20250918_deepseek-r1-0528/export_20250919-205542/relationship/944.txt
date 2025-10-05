@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTITIONER</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>The practitioner cultivates concentration to achieve meditation stability.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

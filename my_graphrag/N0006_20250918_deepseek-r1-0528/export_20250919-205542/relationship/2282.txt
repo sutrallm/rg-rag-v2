@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHMENT</source_entity>
+    <target_entity>THREE TRAININGS</target_entity>
+    <relationship_description>Freedom from attachment enables full mastery of the integrated spiritual practices: moral discipline, concentration, and insight wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

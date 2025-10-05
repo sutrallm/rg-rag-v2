@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Eradication of the three poisons enables attainment of nirvana by removing obstacles to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

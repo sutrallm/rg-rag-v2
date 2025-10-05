@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>THREE WORLD BUDDHAS</target_entity>
+    <relationship_description>The Three World Buddhas confirm that the complete purification of afflictions in liberated beings is the ultimate verification of accomplishment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

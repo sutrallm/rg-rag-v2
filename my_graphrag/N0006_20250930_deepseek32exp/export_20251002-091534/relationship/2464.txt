@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>修行者通过系统修习四念处来了知身心实相，生起中道正见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT STATE OF THE AWAKENED</source_entity>
+    <target_entity>PRACTICAL ATTITUDE BEYOND DUALITY</target_entity>
+    <relationship_description>The described transcendent state manifests as the experiential result of consistently maintaining non-dual practice in all circumstances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

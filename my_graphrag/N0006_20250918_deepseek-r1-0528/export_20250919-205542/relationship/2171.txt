@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERIL OF DELUSION</source_entity>
+    <target_entity>DISCIPLINE AS FOUNDATION</target_entity>
+    <relationship_description>Guarding against delusion (Peril of Delusion) is achieved through vigilant ethical conduct (Discipline as Foundation).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

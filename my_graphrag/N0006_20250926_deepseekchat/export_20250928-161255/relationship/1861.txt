@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>菩提</target_entity>
+    <relationship_description>Nirvana (涅槃) is the state of ultimate awakening (菩提).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

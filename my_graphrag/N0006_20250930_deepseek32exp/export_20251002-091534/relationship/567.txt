@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Clinging to the six sense bases and their objects is a primary cause for the arising of afflictions and bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

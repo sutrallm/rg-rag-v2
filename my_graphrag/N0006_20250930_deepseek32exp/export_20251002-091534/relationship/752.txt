@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY PRACTITIONER</source_entity>
+    <target_entity>GODS</target_entity>
+    <relationship_description>Saintly practitioners are respected and praised by gods for their spiritual attainment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

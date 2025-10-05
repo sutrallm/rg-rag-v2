@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>WRONG_VIEWS</target_entity>
+    <relationship_description>Wisdom actively dismantles wrong views (外破邪见) by functioning as a sharp sword to penetrate distorted perceptions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

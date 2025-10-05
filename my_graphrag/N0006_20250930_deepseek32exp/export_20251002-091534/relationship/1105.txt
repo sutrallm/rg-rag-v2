@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者应当圆满具足戒定慧三学，这是实证教法的检验标准。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

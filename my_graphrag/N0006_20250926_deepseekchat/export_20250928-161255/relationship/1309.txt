@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>精进是成就的动力，通过不懈努力，修行者能超越烦恼，接近解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Meditation fundamentally incorporates right mindfulness as its core component for sustaining awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TURTLE AND VULTURE</source_entity>
+    <target_entity>GUARDING THE ROOTS</target_entity>
+    <relationship_description>The turtle and vulture metaphor directly illustrates the principle of vigilant protection in guarding the roots.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

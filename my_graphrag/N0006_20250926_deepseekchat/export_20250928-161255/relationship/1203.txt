@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律 supports the development of 智慧 by creating a stable foundation for practice.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

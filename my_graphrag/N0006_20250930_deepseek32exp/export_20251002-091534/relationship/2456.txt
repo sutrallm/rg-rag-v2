@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>识蕴</target_entity>
+    <relationship_description>无常观 involves observing 识蕴 as illusion to understand impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

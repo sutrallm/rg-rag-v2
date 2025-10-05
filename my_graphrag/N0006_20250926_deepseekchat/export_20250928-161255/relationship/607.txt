@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行道路</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>修行道路从持戒入手，戒律是修行的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Saints are described as those who can sever all afflictions through their practice and cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

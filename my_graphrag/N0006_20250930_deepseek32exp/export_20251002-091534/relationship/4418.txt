@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>彻底觉悟的修行者已破除一切执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

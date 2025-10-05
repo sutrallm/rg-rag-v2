@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS MEDITATION</source_entity>
+    <target_entity>CORE BENEFITS OF CONCENTRATION</target_entity>
+    <relationship_description>Practicing Mindfulness Meditation leads to achieving the Core Benefits of Concentration like freedom from disturbance and inner stability.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

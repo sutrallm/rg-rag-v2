@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT VIEW</source_entity>
+    <target_entity>BUDDHA'S TEACHINGS</target_entity>
+    <relationship_description>Right view is the foundation established through correct understanding and application of Buddha's teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

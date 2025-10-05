@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom, arising from insight into dependent origination and emptiness, directly enables the attainment of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

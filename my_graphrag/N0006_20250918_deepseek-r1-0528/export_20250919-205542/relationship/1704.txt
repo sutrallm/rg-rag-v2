@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE MIND</source_entity>
+    <target_entity>LOTUS</target_entity>
+    <relationship_description>Is likened to a pure lotus unpolluted by muddy water.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

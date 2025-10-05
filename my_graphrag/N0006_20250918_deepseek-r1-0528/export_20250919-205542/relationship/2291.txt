@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUIET PLACE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>A quiet environment provides optimal external conditions for developing and sustaining mindfulness practice by removing sensory distractions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

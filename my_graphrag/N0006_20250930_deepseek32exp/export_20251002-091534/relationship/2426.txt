@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Zen meditation practice helps practitioners naturally distance themselves from negligence and distraction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

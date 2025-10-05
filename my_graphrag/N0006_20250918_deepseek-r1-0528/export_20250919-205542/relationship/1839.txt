@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>散乱心(DISTRACTED MIND)</source_entity>
+    <target_entity>解脱者(LIBERATED BEING)</target_entity>
+    <relationship_description>Liberated beings have permanently transcended the state of distracted mind.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

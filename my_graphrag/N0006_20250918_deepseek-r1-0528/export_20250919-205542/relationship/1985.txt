@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOCAL_ATTENTION</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Focal attention is cultivated specifically to overcome distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

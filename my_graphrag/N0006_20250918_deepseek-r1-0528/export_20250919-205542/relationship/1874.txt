@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SOLITARY PRACTICE</source_entity>
+    <target_entity>NECESSARY CONDITIONS</target_entity>
+    <relationship_description>SOLITARY PRACTICE requires fulfilment of all five NECESSARY CONDITIONS to avoid becoming a spiritual dead end.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

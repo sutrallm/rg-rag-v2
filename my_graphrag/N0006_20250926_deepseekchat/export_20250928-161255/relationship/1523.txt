@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>Attachment arises from the illusion of a permanent self, which is dispelled through the realization of no-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION PRACTITIONER</source_entity>
+    <target_entity>BUDDHA'S TEACHINGS</target_entity>
+    <relationship_description>Meditation practitioners follow and implement the Buddha's teachings to achieve liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

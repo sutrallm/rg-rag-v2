@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>MORAL DISCIPLINE</target_entity>
+    <relationship_description>Saints possess complete moral discipline as part of their perfected spiritual qualities that enable them to sever afflictions.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

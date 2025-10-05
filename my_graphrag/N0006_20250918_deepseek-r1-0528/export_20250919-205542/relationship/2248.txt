@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ESSENTIAL PITH OF ALL DHARMAS</source_entity>
+    <target_entity>NATURE OF KLESHAS AND BODHI</target_entity>
+    <relationship_description>The core principle explicitly references and builds upon the concept that afflictions directly transform into enlightenment during confrontation, making it the foundational teaching.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

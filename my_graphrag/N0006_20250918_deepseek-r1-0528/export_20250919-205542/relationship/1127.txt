@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Nirvana results from total eradication of craving, enabling perception of ultimate reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

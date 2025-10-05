@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>身体感受</target_entity>
+    <relationship_description>修行者通过观察身体感受来觉知心念的迁流变化。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

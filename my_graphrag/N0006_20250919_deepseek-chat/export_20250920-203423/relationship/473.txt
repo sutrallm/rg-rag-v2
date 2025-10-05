@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者具足智慧，能够不执着于任何境界，获得内心的解脱与超越。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

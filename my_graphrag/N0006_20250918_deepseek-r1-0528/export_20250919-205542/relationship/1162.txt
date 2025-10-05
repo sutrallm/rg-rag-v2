@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Renunciation frees one from death's control, as death has no power over the renounced mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

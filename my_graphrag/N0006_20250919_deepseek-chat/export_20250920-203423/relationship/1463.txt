@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定的力量</source_entity>
+    <target_entity>内心的净化</target_entity>
+    <relationship_description>禅定通过集中精神，帮助修行者远离散乱，净化内心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

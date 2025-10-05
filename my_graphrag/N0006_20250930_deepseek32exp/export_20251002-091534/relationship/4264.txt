@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实证</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>Actual verification in practice is measured by the reduction of afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

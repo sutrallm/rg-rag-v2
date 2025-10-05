@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>VIPASSANA</target_entity>
+    <relationship_description>Samadhi (calming) and Vipassana (insight) are described as a dual path of cultivation for mastering the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

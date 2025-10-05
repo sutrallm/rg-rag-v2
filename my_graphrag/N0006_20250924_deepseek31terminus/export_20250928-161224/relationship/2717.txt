@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Desire and attachment are the root causes of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

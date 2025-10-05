@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧能破除无明，了悟诸法实相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

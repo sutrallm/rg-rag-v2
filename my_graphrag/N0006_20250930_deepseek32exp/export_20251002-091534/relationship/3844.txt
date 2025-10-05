@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>ACCOMPLISHMENT VERIFICATION</target_entity>
+    <relationship_description>Complete mastery of the three studies leads to the accomplishment verification of true merit completion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

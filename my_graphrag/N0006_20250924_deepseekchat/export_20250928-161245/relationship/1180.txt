@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者具足智慧，通过勤修心念和安住寂静，断尽烦恼并超越痛苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

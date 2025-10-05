@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NECESSARY CONDITIONS</source_entity>
+    <target_entity>EXTINGUISHING DISTRACTIONS</target_entity>
+    <relationship_description>EXTINGUISHING DISTRACTIONS constitutes the fifth component of the NECESSARY CONDITIONS for solitary practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

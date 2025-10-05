@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOREST</source_entity>
+    <target_entity>WILD ANIMALS</target_entity>
+    <relationship_description>The cool forest without insects allows wild animals to dwell peacefully and securely.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

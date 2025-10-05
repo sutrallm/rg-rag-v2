@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PRACTITIONER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Spiritual practitioners work to eliminate afflictions through their spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

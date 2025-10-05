@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>禅修的根本目的是彻底断除烦恼，达到解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

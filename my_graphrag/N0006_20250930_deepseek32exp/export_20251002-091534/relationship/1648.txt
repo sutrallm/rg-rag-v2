@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>THREE TRAININGS</target_entity>
+    <relationship_description>Practitioners perfect the threefold training of virtue, meditation, and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

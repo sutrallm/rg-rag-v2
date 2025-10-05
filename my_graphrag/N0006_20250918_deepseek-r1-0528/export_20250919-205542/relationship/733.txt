@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>龙族五法</source_entity>
+    <target_entity>《中阿含经》</target_entity>
+    <relationship_description>Doctrine existing in the source scripture directly adapted into core mind-training principles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A sage is a practitioner who has achieved complete liberation and severed all affliction roots.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

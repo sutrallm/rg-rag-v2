@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Meditative Concentration provides the mental stability required for deep observation and analysis of the Five Aggregates' true nature.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERTNESS</source_entity>
+    <target_entity>FREEDOM_FROM_REBIRTH_FEAR</target_entity>
+    <relationship_description>Continuous attentiveness leads to liberation from fear of future rebirth according to point 13.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

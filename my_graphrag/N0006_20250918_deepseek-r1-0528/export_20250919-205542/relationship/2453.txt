@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>EASE</target_entity>
+    <relationship_description>Concentration cultivates peace and gives rise to a state of ease.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

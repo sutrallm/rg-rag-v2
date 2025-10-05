@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>禅修是修行者断除烦恼的方法之一，通过专注与正觉，远离外界的干扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

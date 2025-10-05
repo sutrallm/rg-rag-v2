@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>HEEDFULNESS</target_entity>
+    <relationship_description>Meditation leads to the cultivation of heedfulness by enabling the practitioner to overcome negligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

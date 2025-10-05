@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>空性见</source_entity>
+    <target_entity>因缘和合</target_entity>
+    <relationship_description>空性见 recognizes that all phenomena arise through 因缘和合 dependent origination.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

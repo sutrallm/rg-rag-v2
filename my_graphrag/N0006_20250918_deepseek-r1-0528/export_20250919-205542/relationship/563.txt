@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Complete removal of defilements is definitive characteristic of liberation, resulting in irreversible clarity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

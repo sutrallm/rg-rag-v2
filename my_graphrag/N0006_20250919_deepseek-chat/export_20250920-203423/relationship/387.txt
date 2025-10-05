@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>世间无常</target_entity>
+    <relationship_description>修行者通过禅修洞察世间无常的真理。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

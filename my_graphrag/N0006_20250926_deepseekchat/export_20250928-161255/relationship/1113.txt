@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>烦恼是修行中需要断除的障碍，从粗重到细微逐步超越。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

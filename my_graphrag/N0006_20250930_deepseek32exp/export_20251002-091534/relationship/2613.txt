@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEAVENLY BEINGS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Heavenly beings respect and honor saints who have severed all afflictions and transcended the suffering of birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

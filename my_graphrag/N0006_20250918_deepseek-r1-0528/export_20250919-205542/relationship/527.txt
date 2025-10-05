@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Precepts establish ethical purity and mindfulness, creating the foundation necessary for achieving liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DILIGENT CULTIVATION</target_entity>
+    <relationship_description>Wisdom is achieved and maintained through diligent cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VINES_BINDING_METAPHOR</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Vines symbolically represent how afflictions entangle those who indulge desires.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

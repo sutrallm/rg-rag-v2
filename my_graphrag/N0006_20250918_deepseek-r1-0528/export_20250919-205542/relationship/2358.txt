@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧者的超脱特质</source_entity>
+    <target_entity>爱憎对待</target_entity>
+    <relationship_description>The enlightened state described transcends the duality of attachment and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

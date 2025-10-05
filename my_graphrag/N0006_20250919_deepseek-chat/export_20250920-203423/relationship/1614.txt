@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>怨恨</target_entity>
+    <relationship_description>放逸和怨恨都是修行者应舍弃的负面状态，它们会束缚修行者并带来烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

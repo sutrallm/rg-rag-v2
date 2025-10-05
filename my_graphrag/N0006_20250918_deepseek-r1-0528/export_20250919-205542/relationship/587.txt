@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT'S ULTIMATE ACHIEVEMENT</source_entity>
+    <target_entity>VIRTUE OF PRECEPTS</target_entity>
+    <relationship_description>The ultimate achievement embodies the perfected state of ethical discipline, completing the triad with concentration and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DISCIPLINE</target_entity>
+    <relationship_description>Practitioners establish discipline as the foundation of their spiritual path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

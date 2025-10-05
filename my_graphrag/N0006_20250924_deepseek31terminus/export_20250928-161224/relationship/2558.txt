@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST MONK</source_entity>
+    <target_entity>FOUR IMMEASURABLES</target_entity>
+    <relationship_description>The Buddhist monk develops the four immeasurables as part of spiritual practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

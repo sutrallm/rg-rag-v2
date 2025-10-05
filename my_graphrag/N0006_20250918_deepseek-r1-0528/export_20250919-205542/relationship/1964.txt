@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>GUARDING SENSE FACULTIES</target_entity>
+    <relationship_description>Guarding sense faculties directly protects the six sense bases from exploitation by sensory temptations.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

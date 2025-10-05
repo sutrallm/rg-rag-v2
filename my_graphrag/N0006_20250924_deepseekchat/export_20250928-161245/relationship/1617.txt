@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SURVIVAL</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Fear of death arises from attachment to survival.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

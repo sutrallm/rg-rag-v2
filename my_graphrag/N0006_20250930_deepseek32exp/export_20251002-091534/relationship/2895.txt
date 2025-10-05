@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>EIGHT_WINDS</target_entity>
+    <relationship_description>Practitioners who have attained non-outflow wisdom remain unmoved by the eight worldly winds.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

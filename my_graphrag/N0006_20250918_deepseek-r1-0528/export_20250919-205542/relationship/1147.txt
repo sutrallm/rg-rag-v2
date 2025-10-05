@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>BIRTH AND DEATH</target_entity>
+    <relationship_description>Heedlessness risks plunging individuals into the dangerous cycle of birth and death, as explicitly warned in the section on vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

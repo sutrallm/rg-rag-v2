@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>修行者在禅修中保持觉知与警觉，修正心动摇。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

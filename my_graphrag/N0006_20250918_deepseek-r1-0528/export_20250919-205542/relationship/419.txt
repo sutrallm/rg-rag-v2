@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL DISCIPLINE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Jointly operate to achieve liberation through integrated ethical conduct and insight, as explicitly stated in the dual cultivation principle.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

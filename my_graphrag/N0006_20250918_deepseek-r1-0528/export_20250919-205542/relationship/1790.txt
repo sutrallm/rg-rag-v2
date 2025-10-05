@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Heedlessness acts as a path to death by perpetuating unwholesome actions within cyclic existence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom facilitates liberation by enabling clear perception of reality's transient nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

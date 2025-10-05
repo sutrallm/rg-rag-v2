@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>愚者</target_entity>
+    <relationship_description>智者与愚者在认识生死轮回本质和修行态度上形成对比。</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

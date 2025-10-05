@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>超越欲望</target_entity>
+    <relationship_description>修行者通过修行，平息欲望，使心念宁静而深远。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>安住當下</source_entity>
+    <target_entity>把握當下</target_entity>
+    <relationship_description>安住當下 enables 把握當下 by releasing temporal attachments to focus on present opportunities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

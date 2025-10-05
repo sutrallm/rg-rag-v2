@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WORLDLY WISDOM</target_entity>
+    <relationship_description>Practitioners use worldly wisdom to skillfully teach sentient beings according to circumstances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

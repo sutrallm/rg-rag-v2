@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>佛陀 teaches the importance of 精进 in spiritual practice to avoid distractions and attain liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE PERSON</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A wise person achieves liberation through diligent practice and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

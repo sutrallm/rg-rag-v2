@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死轮回</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>生死轮回是修行者试图超越的境界，通过断除烦恼与执着达到涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

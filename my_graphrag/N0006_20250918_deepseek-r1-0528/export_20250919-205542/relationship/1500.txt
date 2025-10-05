@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT MEDITATION</source_entity>
+    <target_entity>PEACE AND HAPPINESS</target_entity>
+    <relationship_description>Diligent Meditation is the direct method to attain genuine joy and tranquility by avoiding negligence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

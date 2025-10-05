@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE PRACTITIONER</source_entity>
+    <target_entity>INTERNAL DEMONS</target_entity>
+    <relationship_description>The true practitioner subdues the fundamental inner demons of attachment and aversion, not external entities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

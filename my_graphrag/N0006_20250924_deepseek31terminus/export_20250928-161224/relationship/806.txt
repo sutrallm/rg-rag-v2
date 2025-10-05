@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>世间无常</target_entity>
+    <relationship_description>Those with 心解脱 (liberation of the mind) deeply realize the truth of 世间无常 (impermanence).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

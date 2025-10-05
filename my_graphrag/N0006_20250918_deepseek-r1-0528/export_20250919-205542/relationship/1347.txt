@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment facilitates liberation by preventing fixation on transient states or achievements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

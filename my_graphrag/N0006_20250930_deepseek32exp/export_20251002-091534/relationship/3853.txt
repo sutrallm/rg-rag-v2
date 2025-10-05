@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MIDDLE WAY</target_entity>
+    <relationship_description>Practitioners follow the Middle Way by not clinging to extremes, remaining peaceful and desireless, and abandoning attachment to self and others.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

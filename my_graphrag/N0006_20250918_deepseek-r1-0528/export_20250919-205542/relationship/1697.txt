@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Desire perpetuates the cycle of rebirth by creating binding karmic forces.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

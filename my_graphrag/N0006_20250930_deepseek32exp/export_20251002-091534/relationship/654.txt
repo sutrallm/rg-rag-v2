@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>Practitioners naturally distance themselves from negligence and heedlessness in a tranquil meditative state.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

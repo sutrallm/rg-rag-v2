@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Sages command reverence from heavenly beings due to their spiritual achievements and eradication of afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

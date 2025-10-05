@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DEPENDENT ORIGINATION</target_entity>
+    <relationship_description>Mindfulness is used to observe phenomena to understand the principle of dependent origination.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

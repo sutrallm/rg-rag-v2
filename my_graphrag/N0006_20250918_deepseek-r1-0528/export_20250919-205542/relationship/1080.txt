@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執着</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>物質的執着を放棄することで涅槃獲得への道が開けるという因果関係</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

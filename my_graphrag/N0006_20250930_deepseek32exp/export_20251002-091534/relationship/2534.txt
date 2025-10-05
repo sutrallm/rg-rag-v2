@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照</source_entity>
+    <target_entity>起心动念</target_entity>
+    <relationship_description>观照逐步扩展至一切起心动念</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

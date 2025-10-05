@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅师</source_entity>
+    <target_entity>弟子</target_entity>
+    <relationship_description>禅师教导弟子关于清净、精进和智慧的修持方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

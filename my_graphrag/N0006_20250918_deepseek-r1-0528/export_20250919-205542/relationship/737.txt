@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>破障三原则</source_entity>
+    <target_entity>圣者证悟境界</target_entity>
+    <relationship_description>Method for removing obstacles (破障三原则) directly supports achieving the enlightenment state described in this principle.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

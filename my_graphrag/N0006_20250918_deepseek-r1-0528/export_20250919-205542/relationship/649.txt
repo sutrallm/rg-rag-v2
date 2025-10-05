@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Concentration requires mindfulness to maintain focus on the chosen object and achieve mental stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

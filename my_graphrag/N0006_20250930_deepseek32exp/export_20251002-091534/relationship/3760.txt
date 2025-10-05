@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ULTIMATE PATH</target_entity>
+    <relationship_description>Saints embody the ultimate path, having transcended all dualistic distinctions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧与方便</source_entity>
+    <target_entity>实践</target_entity>
+    <relationship_description>The integration of wisdom and skillful means is applied in the actual practice process.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

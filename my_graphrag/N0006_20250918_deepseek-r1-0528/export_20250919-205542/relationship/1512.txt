@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>Afflictions originate from unguarded engagement with the Six Senses, leading to mental turbulence and suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

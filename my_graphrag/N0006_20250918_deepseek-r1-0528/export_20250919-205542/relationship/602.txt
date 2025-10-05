@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>渴爱</source_entity>
+    <target_entity>洪水</target_entity>
+    <relationship_description>Craving attaches beings destructively like a devastating flood that crushes reeds, as perceived by the wise.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

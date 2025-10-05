@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>教法</target_entity>
+    <relationship_description>戒定慧三学是实证教法的检验标准，真正通达教法者圆满具足戒定慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

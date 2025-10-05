@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Practitioners cultivate mindfulness as a core technique to achieve mental clarity and distance from disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

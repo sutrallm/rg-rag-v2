@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE DHARMA TEACHINGS</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Diligent practice constitutes the application of True Dharma teachings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

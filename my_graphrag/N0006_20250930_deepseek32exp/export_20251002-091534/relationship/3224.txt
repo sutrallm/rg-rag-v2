@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>RIGHT DHARMA</target_entity>
+    <relationship_description>The Buddha expounded the right Dharma as the teaching for liberation from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

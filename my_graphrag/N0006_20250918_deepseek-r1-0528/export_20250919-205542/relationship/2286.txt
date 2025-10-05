@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>ELEPHANT KING PRINCIPLE</target_entity>
+    <relationship_description>Mindfulness practice includes acting with caution in daily movement, testing situations like the elephant tests water depth, to avoid risks and adhere to the middle path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

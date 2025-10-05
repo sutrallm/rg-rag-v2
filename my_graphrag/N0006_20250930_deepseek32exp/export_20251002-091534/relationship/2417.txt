@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ETHICAL CONDUCT</target_entity>
+    <relationship_description>Practitioners maintain ethical conduct as a foundation for their spiritual development.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

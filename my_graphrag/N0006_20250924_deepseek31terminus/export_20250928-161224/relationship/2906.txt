@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Wisdom is a key quality of saints that allows them to achieve liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

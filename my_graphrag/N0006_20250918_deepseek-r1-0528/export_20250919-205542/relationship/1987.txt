@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOCAL_ATTENTION</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>The development of focal attention leads to genuine tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

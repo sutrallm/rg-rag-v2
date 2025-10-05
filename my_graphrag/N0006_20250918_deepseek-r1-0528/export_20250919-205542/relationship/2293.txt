@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE STAGE</source_entity>
+    <target_entity>FINAL STAGE</target_entity>
+    <relationship_description>Skills developed in observing afflictions during the middle stage enable attainment of the final stage's unshakeable mental stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

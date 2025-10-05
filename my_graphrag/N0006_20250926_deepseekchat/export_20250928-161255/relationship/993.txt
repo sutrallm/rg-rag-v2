@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者境界</source_entity>
+    <target_entity>解脫知見</target_entity>
+    <relationship_description>聖者境界包含了解脫知見的智慧觀照。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

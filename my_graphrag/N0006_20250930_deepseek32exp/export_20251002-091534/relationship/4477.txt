@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wisdom enables freedom from attachment to any state or achievement, including spiritual accomplishments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

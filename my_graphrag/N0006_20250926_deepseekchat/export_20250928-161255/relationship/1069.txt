@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟解脱</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>究竟解脱是智慧的终极目标，修行者通过智慧断除烦恼与无明，超越生死轮回。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

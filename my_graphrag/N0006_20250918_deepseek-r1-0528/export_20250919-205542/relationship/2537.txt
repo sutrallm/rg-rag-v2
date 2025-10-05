@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED SAINT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The liberated saint abides in nirvana, a state of complete purification and eternal peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

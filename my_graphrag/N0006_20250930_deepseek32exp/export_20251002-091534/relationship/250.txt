@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>GREED AND AVERSION</target_entity>
+    <relationship_description>Greed and aversion are specific types of afflictions and habits that are eliminated through practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

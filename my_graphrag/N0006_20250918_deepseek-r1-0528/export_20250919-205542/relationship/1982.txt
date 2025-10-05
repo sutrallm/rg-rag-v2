@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WO SUO (THE 'SELF' AND 'MINE')</source_entity>
+    <target_entity>RAN AI (DEFILED DESIRE / LUST)</target_entity>
+    <relationship_description>The erroneous notions of "self" and "mine" (Wo Suo) are the source from which Defiled Desire and Lust (Ran Ai) arises.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

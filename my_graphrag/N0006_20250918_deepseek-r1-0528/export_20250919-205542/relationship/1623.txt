@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS OF SELF AND PHENOMENA</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Emptiness of Self and Phenomena leads directly to Nirvana as its realization constitutes the liberating insight that ends suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

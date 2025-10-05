@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>禅修的练习会逐渐提升修行者的觉知能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

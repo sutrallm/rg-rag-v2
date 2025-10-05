@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Practitioners progress toward becoming sages through diligent spiritual cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

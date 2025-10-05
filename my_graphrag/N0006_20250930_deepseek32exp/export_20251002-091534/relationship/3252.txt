@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>Saints are respected and protected by celestial beings due to their spiritual accomplishments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

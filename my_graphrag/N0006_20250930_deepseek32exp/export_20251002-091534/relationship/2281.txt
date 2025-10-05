@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>LOTUS FLOWER</target_entity>
+    <relationship_description>Saints are symbolized by the lotus flower, representing purity amid worldly defilements.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

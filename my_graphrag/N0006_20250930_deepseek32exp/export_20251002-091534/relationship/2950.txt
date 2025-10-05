@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>菩提道果</target_entity>
+    <relationship_description>通过次第修习戒定慧三学最终能够圆满菩提道果，菩提道果是戒定慧修习的最终成果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

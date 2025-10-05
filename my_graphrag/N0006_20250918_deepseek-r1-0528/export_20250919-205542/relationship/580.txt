@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>UNSTAINED MIND</target_entity>
+    <relationship_description>The practitioner cultivates a mind free from defilements that remains untouched by worldly troubles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

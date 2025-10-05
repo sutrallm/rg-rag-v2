@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Mental liberation manifests as non-attachment to all states and possessions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

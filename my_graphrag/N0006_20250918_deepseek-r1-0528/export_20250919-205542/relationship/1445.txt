@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENTLY PRACTICE</source_entity>
+    <target_entity>CULTIVATE CONCENTRATION TO DETACH FROM DESIRE</target_entity>
+    <relationship_description>Diligent practice involves constant effort to maintain focus, which directly supports the cultivation of concentration as a key aspect of meditation practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>成就</target_entity>
+    <relationship_description>修行者 are not bound by their 成就 (attainments) when they transcend attachments.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

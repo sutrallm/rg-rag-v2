@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>OPPORTUNITY_FOR_PRACTICE</source_entity>
+    <target_entity>DILIGENT_EFFORT</target_entity>
+    <relationship_description>Seizing practice opportunities requires urgent diligent effort comparable to crossing a dangerous river</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

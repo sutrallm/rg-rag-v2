@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是通向解脱的途径，通过智慧断除烦恼，获得内心自由。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

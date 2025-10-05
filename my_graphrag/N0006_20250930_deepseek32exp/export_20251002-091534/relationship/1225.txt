@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律能增长定慧，为智慧开展的基础</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>Practitioners seek to eliminate the three fundamental defilements of greed, hatred, and delusion through spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

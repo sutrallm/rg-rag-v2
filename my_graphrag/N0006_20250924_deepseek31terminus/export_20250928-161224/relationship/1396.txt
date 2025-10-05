@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>生滅法性</target_entity>
+    <relationship_description>A practitioner who achieves 心解脫 sees the true nature of phenomena, which is 生滅法性.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

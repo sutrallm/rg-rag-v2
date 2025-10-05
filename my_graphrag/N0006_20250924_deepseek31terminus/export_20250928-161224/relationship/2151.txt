@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心念安住的狀態</target_entity>
+    <relationship_description>The practitioner achieves and relies on the state of mental focus and stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

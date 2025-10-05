@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED MASTER</source_entity>
+    <target_entity>CYCLE OF EXISTENCE</target_entity>
+    <relationship_description>The ENLIGHTENED MASTER transcends the CYCLE OF EXISTENCE through perfected discipline and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

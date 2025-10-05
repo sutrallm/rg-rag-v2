@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERTNESS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Alertness serves as the indispensable foundation for sustained diligent practice which overcomes negligence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

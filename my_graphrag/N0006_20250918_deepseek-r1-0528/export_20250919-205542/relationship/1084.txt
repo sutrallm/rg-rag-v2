@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>怒り</source_entity>
+    <target_entity>平安</target_entity>
+    <relationship_description>怒りの感情を制御することで初めて平安な心境を獲得できるという相克的関係</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

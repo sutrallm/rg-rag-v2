@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>精进是智慧开展的必要条件，通过持续践行正道和保持觉照，修行者能够穿透无明的遮蔽。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

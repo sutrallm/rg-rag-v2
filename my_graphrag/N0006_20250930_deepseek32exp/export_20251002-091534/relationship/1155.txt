@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无为</target_entity>
+    <relationship_description>圣者能安住无为，无为是圣者修行成就的境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

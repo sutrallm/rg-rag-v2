@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION STATE OF THE SAINT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Saints achieve nirvana by transcending all suffering and defilements.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

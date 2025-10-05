@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者是已經達到解脫的修行者，他們具足戒律與智慧，斷盡煩惱，超越痛苦，獲得究竟解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

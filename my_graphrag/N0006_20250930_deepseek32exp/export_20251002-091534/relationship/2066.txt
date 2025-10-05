@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>观照身心现象是智慧开展的重要途径，智慧通过观照而了知缘起缘灭。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FILIAL_PIETY</source_entity>
+    <target_entity>FAMILY_CARE</target_entity>
+    <relationship_description>Both represent forms of harmonious familial responsibility required for holistic auspiciousness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

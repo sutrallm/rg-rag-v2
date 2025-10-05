@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无学圣位</target_entity>
+    <relationship_description>圣者成就无学圣位，身口意业完全清净，已断尽一切烦恼习气。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

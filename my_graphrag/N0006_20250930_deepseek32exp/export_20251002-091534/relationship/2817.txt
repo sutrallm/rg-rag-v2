@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱道</target_entity>
+    <relationship_description>修行者实践解脱道，通过观照五蕴虚妄和感受生灭觉悟苦谛本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

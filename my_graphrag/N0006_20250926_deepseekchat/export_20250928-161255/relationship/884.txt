@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>禅定帮助修行者摆脱烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

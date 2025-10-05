@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners should cultivate Diligence as an essential quality for spiritual progress.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>LIBERATION OF MIND</target_entity>
+    <relationship_description>Meditative concentration leads to the liberation of mind where practitioners perceive worldly impermanence without attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

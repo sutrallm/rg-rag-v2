@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫者是已證涅槃者，超越了現象的對待和分別。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CI BEI</source_entity>
+    <target_entity>ZHI HUI</target_entity>
+    <relationship_description>Ci Bei is practiced alongside Zhi Hui, combining compassion with wisdom to benefit oneself and others.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

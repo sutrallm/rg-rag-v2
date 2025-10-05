@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEXT PROCESSING REQUEST</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The processing request specifies how the original text should be handled and transformed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

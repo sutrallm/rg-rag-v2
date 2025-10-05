@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Concentration enables liberation by establishing inner tranquility and clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

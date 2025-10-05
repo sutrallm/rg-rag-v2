@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉性</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>觉性的妙用能自然显现般若光明，这与智慧的开展密切相关。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE FACULTIES</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Lack of sensory restraint defines careless spiritual neglect</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence is required to achieve mastery in meditation and sustain mindfulness consistently.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM LIBERATION</source_entity>
+    <target_entity>THREE STUDIES</target_entity>
+    <relationship_description>Wisdom liberation represents the culmination of the three studies path after discipline and meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

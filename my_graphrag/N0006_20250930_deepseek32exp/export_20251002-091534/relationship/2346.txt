@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟解脱</source_entity>
+    <target_entity>飞鸟</target_entity>
+    <relationship_description>究竟解脱者不为业力所系缚，如飞鸟过空无迹可寻。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION PATH</source_entity>
+    <target_entity>FINAL LIBERATION</target_entity>
+    <relationship_description>The liberation path leads practitioners toward the achievement of final liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

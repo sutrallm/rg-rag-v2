@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>名相执着</target_entity>
+    <relationship_description>修行者需要舍弃所有名相执着，才能成为圆满成就者。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>Practitioners recognize the impermanence of all phenomena to detach from worldly attachments and achieve liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

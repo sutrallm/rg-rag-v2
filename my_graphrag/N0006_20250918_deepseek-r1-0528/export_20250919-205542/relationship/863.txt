@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Vigilance enables practitioners to break free from bondage and perceive the nature of suffering, achieving liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

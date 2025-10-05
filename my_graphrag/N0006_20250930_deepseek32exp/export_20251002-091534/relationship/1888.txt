@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>彼岸</target_entity>
+    <relationship_description>已达彼岸的修行者无畏无忧、断除系缚，如同灯火熄灭般彻底解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

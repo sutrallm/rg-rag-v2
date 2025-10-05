@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>利他行</target_entity>
+    <relationship_description>慈悲心是利他行的基礎，通過幫助他人來淨化心靈，提升修行境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

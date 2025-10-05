@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>莲花</target_entity>
+    <relationship_description>修行者应如同莲花出淤泥而不染，保持内心的清净不因外境而改变。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

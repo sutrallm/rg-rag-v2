@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>ENLIGHTENED BEING</target_entity>
+    <relationship_description>Compassion is a key trait of enlightened beings, who embody boundless care for all sentient beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

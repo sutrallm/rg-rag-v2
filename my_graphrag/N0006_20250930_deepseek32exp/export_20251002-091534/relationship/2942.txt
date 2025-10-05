@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅修通过禅定消除烦恼，禅定是禅修的重要内容和目标。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

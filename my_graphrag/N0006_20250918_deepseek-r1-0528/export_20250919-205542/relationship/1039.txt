@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE IN ELIMINATING CONFUSION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Diligence functions as the activating force for Wisdom, enabling it to cut through mental obstacles.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

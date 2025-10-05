@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善法</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>Wholesome practices are part of the true teachings that lead to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>觉悟</target_entity>
+    <relationship_description>禅修是修行者觉悟的重要修行方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

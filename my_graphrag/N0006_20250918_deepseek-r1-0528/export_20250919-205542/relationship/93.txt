@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATOR</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Meditators achieve purification and freedom from disturbances by cultivating stillness through meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

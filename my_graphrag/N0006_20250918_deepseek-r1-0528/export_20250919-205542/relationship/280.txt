@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>圣人完全断除一切烦恼束缚。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

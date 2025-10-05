@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FASCILE ONE</source_entity>
+    <target_entity>DHAMMAPADA</target_entity>
+    <relationship_description>Fascile One is a section within the Dhammapada text.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

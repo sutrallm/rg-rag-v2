@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>懈怠</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>懈怠 leads to sinking in afflictions, contrasting with the path to 解脱 (liberation).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

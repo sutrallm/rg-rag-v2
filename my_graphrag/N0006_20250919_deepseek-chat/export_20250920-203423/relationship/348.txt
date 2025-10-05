@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>持续精进有助于断除烦恼，避免堕入痛苦。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

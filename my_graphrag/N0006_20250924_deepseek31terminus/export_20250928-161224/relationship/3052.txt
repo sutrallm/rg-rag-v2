@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>善恶业果</target_entity>
+    <relationship_description>A sage is no longer bound by the results of good and evil actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

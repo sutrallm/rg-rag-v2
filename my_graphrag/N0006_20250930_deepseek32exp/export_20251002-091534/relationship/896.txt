@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>持戒是解脱的基石，清净的律仪能自然积聚解脱资粮。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟涅槃</source_entity>
+    <target_entity>寂灭诸行</target_entity>
+    <relationship_description>究竟涅槃 is characterized by 寂灭诸行 (cessation of formations).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

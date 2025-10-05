@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>BUDDHA'S TEACHINGS</target_entity>
+    <relationship_description>The Buddha originated and delivered the core teachings that form the foundation of practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

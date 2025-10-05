@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUOUS_SURROUNDINGS</source_entity>
+    <target_entity>AUSPICIOUSNESS</target_entity>
+    <relationship_description>Residing among virtuous people establishes foundational support for auspicious life conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

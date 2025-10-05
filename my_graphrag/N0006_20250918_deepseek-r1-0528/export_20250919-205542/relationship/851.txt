@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO (LIBERATION)</source_entity>
+    <target_entity>SHI XIANG (TRUE REALITY)</target_entity>
+    <relationship_description>Liberation involves the realization that phenomena are empty like space, which is the perception of True Reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>精进 requires following 正法 (the true Dharma).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

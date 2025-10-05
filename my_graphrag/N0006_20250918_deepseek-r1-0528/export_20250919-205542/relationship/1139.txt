@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGES</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Sages attain their enlightened state through practices like meditation, which is implied as part of their journey in the described non-attached realm.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死解脱</source_entity>
+    <target_entity>死亡魔军</target_entity>
+    <relationship_description>烦恼永尽者已摧毁死亡魔军，达成无上的寂静境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>修习不放逸者，能避开死亡魔王的掌控。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

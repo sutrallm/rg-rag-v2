@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>已断除贪嗔痴的修行者不受后世轮回牵引，轮回是修行者要超越的生死循环。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

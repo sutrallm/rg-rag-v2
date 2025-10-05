@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>BONDS_OF_ATTACHMENT</target_entity>
+    <relationship_description>Liberation severs all bonds of attachment as part of final realization.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>憎爱之境</target_entity>
+    <relationship_description>修行者对憎爱之境皆能超越，如是安住者即为真实修行者。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

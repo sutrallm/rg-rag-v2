@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHYANA</source_entity>
+    <target_entity>VIGOROUS EFFORT</target_entity>
+    <relationship_description>Vigorous effort is described as the key to truly abiding in Dhyana (meditative concentration).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

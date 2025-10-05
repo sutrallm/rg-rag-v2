@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Ethical discipline is a necessary component for achieving liberation, establishing the moral groundwork required for ultimate freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>A sage has completely cut off the roots of all afflictions through spiritual cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

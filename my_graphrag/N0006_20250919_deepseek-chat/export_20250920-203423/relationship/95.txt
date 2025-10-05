@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无知</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>无知者即使身处修行环境，也难以深入领悟佛法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

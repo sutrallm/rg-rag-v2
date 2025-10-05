@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIE PAN (NIRVANA)</source_entity>
+    <target_entity>FAN NAO (AFFLICTIONS / DEFILEMENTS)</target_entity>
+    <relationship_description>The state of Nirvana (Nie Pan) is the result and condition where all Afflictions and Defilements (Fan Nao) have been completely exhausted and severed at the root, leading to permanent cessation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

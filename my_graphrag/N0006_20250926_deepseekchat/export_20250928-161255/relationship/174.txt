@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>超越执着</target_entity>
+    <relationship_description>通过禅定修行者能够获得心解脱，从而超越对世间万物的执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

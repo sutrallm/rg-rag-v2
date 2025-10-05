@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFICATION</source_entity>
+    <target_entity>BRIGHT WISDOM</target_entity>
+    <relationship_description>Purification removes mental obscurations allowing bright wisdom to emerge naturally.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

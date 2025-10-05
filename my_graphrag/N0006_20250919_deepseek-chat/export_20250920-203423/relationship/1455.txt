@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律的重要性</source_entity>
+    <target_entity>修行的目标</target_entity>
+    <relationship_description>持戒是修行的基础，帮助修行者远离恶行，从而更好地追求觉悟与解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

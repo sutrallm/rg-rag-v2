@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE HINDRANCES</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>The Five Hindrances are specific manifestations or consequences of the fundamental defilements (Three Poisons).</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

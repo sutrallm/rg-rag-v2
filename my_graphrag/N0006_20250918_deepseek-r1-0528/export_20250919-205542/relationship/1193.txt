@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mindfulness is the foundational practice for achieving liberation through sustained mental discipline.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

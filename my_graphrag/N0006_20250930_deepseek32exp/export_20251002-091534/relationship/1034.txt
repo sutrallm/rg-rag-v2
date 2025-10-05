@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>调伏六根是禅修的重要方法，在感官接触外缘时保持觉知而不执取。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

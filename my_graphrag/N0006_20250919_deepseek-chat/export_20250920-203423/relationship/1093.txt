@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>妇</source_entity>
+    <target_entity>瓮</target_entity>
+    <relationship_description>妇在瓮中看到自己的影子，误以为有第三者。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

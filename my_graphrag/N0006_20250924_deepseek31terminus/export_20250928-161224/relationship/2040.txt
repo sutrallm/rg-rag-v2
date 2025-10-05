@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法句經</source_entity>
+    <target_entity>六方</target_entity>
+    <relationship_description>The scripture 法句經 teaches about the concept of 六方 that should be properly understood.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

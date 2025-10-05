@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>通过禅修达至心解脱的修行者，能透彻观察世间生灭。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Craving identified as root cause of suffering and rebirth</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATING WISDOM</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Liberating wisdom completely severs craving at its root, preventing its future arising through transcendental insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

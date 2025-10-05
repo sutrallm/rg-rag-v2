@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行者通过智慧达到涅槃的彼岸，获得永恒的解脱与自由。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

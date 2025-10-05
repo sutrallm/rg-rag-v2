@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORDINARY_PERSON</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Ordinary persons fail to guard their minds, leading to affliction and inability to find peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

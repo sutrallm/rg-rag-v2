@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LIBERATION FROM SAMSARA</target_entity>
+    <relationship_description>Diligence in practice is essential for achieving liberation from the cycle of rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Foolish people take the Five Aggregates to be real, which binds them to the cycle of birth and death (Samsara).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

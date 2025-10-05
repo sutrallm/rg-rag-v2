@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>呼吸</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>呼吸是禅修的根本方法，帮助修行者专注于身心变化。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

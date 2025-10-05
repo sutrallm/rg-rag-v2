@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VENERABLE GOTAMA</source_entity>
+    <target_entity>SLEEP DEMON</target_entity>
+    <relationship_description>Venerable Gotama explicitly overcame the sleep demon (representing laziness) through persistent diligent effort in practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

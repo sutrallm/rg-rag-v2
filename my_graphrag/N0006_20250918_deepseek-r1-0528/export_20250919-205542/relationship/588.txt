@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>VIRTUE OF PRECEPTS</target_entity>
+    <relationship_description>Saints universally uphold the virtue of precepts as their common principle.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

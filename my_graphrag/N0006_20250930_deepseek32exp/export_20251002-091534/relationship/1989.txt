@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>智者深知生死轮回的本质，因此精勤修行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

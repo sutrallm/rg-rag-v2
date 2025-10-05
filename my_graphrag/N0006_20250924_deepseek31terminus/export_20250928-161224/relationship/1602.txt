@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners develop insight into the impermanent nature of the five aggregates.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

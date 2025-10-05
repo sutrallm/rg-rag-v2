@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION PRACTITIONER</source_entity>
+    <target_entity>SIX DUSTS</target_entity>
+    <relationship_description>A liberated meditation practitioner remains unstained by the six dusts, like a lotus.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

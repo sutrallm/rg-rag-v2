@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BEAST</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The Beast metaphor represents the practitioner undisturbed by afflictions (symbolized by mosquitoes).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

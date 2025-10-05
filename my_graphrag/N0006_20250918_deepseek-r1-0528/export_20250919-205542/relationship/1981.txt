@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WO SUO (THE 'SELF' AND 'MINE')</source_entity>
+    <target_entity>JIE TUO (LIBERATION)</target_entity>
+    <relationship_description>The utter extinction and complete abandonment of notions of "self" and "mine" (Wo Suo) enable liberation from craving, attachment, and the cycle of existence (Jie Tuo).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>永恒的安宁</target_entity>
+    <relationship_description>Advanced practitioners achieve eternal peace and tranquility, transcending time and space.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

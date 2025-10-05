@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION PATH</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The liberation path leads practitioners toward the ultimate attainment of Nirvana, transcending the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

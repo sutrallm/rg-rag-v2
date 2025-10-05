@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>究竟解脱</target_entity>
+    <relationship_description>修行者通过完成戒定慧三学修持，抵达涅槃彼岸。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

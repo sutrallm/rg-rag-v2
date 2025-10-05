@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>VIRTUE</target_entity>
+    <relationship_description>The Three Studies framework begins with the establishment of pure precepts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

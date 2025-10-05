@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>BAMBOO GROVE MONASTERY</target_entity>
+    <relationship_description>The Buddha delivered teachings on cultivation in the Bamboo Grove Monastery.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

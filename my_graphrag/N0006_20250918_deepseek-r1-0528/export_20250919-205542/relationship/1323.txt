@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROOT_DEFILEMENTS</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Root defilements explicitly refer to the Three Poisons (greed, hatred, delusion) eradicated by the perfected saint.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

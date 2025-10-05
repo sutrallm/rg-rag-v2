@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PROPER CONTEMPLATION</target_entity>
+    <relationship_description>Practitioners engage in proper contemplation to break through attachments to mental and physical phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

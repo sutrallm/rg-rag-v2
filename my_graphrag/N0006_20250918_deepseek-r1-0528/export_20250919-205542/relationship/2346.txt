@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>奉行正法解忧患</source_entity>
+    <target_entity>国王</target_entity>
+    <relationship_description>King represents wise application of Dharma for protection and well-being.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

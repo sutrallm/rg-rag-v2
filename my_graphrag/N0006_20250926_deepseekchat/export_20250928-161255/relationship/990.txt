@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟解脫</source_entity>
+    <target_entity>禪修</target_entity>
+    <relationship_description>究竟解脫是禪修達到最終境界的結果，其心念清淨無染。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

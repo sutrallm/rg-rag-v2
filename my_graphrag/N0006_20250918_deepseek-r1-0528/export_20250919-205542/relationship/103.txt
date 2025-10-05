@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATOR</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Meditators cultivate diligence to guard their minds against laxity and distractions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无上菩提</target_entity>
+    <relationship_description>Fully accomplished practitioners attain supreme enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>彼岸</source_entity>
+    <target_entity>善恶相对概念</target_entity>
+    <relationship_description>Those who reach the 彼岸 (other shore) transcend 善恶相对概念 (dualistic concepts of good and evil).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

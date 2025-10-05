@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT STATE OF MEDITATION</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Severs the root of heedlessness through focused meditative discipline.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

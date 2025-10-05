@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>修行者通过观察五蕴的无常与无我，断除对身心的执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

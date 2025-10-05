@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>修行者通过彻见五蕴虚妄而不再累积业行，达到解脱状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

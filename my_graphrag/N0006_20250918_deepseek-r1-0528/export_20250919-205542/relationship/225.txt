@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UPHOLDING PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Upholding precepts is closely linked to wisdom, as moral discipline cultivates insight that eradicates defilements and garners reverence from celestial beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

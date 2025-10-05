@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM OBSERVATION</target_entity>
+    <relationship_description>Practitioners apply wisdom observation to understand the nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

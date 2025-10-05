@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE PATH</source_entity>
+    <target_entity>RIGHT VIEW</target_entity>
+    <relationship_description>The practice path begins with establishing right view as the foundational step in the sequential stages of practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

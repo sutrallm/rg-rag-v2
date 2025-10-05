@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>VIRTUE</target_entity>
+    <relationship_description>Perfect ethical conduct and virtue define saints; they embody liberation and freedom from all afflictions, earning admiration for their purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

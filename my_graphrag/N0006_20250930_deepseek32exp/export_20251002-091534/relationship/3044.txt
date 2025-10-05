@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MUNI</source_entity>
+    <target_entity>BURDEN</target_entity>
+    <relationship_description>The Muni lays down the burden of defilements when attaining liberation from all bonds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

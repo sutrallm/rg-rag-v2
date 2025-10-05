@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>中道智慧</target_entity>
+    <relationship_description>修行者运用中道智慧，不执着于有为或无为，以此超越生死轮回。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

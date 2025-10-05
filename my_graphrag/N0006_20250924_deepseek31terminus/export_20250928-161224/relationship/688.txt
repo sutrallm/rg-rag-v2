@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>精进和不放逸是相辅相成的修行品质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

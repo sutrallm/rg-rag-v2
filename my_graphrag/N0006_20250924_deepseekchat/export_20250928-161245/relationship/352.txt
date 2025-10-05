@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN NIAN TIAO FU</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Xin Nian Tiao Fu (taming the mind) is a prerequisite for effective Chan Ding (meditation), as a stable mind is necessary for deep concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

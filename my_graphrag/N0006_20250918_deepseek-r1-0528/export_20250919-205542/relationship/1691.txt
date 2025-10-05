@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ALL-PHENOMENA</target_entity>
+    <relationship_description>Liberation manifests as complete non-attachment to all phenomena, eliminating clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

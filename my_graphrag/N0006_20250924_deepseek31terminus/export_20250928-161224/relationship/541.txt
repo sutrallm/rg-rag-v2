@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>OBSERVATION OF PHENOMENA</target_entity>
+    <relationship_description>The saint, with an inwardly free mind, truthfully observes the arising and passing of all worldly phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

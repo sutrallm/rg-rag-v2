@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>业力</target_entity>
+    <relationship_description>圣者不为业力所系缚，超越善恶对待的智者能超越业力的束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>佛陀的教导为修行者提供了摆脱烦恼与轮回的指引。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

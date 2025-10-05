@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>智慧帮助修行者洞察世间无常，走向涅槃，达到无漏的解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

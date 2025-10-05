@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Diligence in practice leads to liberation by helping one avoid the grip of death and achieve freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

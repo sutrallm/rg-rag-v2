@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>INNER_STABILITY</target_entity>
+    <relationship_description>Concentration is the practice that leads directly to and manifests as inner stability.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

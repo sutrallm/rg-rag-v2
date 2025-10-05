@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>修行 is the practice that helps eliminate 煩惱 and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>善根</target_entity>
+    <relationship_description>修行者應注重培養善根，積累善業與福德。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

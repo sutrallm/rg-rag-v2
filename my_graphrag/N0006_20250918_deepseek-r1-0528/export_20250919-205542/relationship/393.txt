@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation drives away afflictions such as internal scattering and disturbances, providing protection from their negative effects.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

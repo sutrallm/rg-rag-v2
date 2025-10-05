@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>圣者是修行者的一种高级状态或成就，指那些具足戒律正见并已斩断烦恼的修行者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

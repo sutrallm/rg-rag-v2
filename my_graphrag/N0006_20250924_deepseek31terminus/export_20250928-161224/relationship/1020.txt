@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>正念用来观察五蕴的虚妄本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

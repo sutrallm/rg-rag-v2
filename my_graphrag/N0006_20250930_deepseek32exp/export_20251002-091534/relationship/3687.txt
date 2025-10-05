@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners strive to achieve liberation through their spiritual practice, eliminating afflictions and transcending the cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

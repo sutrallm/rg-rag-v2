@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROPER VIEW</source_entity>
+    <target_entity>SERENE SAMADHI</target_entity>
+    <relationship_description>Proper View is a prerequisite and supportive factor for attaining Serene Samadhi and subsequently realizing Emptiness Wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>修行者通过修行超越生死轮回的束缚，生死轮回是修行者需要解脱的领域。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

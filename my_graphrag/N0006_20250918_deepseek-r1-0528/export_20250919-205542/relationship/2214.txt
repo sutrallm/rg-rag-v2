@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISPASSION</source_entity>
+    <target_entity>LETTING GO</target_entity>
+    <relationship_description>Dispassion enables the release of attachments through letting go.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

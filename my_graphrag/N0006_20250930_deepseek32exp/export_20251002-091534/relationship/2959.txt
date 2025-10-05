@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天界众生</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>天界众生都会礼敬圣者这样的成就者。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

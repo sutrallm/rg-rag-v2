@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>EXTERNAL DISTRACTIONS</target_entity>
+    <relationship_description>Awareness dissipates external distractions like a dense net that scatters intrusive thoughts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

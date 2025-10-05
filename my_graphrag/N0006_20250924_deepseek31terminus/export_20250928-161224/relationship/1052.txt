@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪爱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>The cessation of 贪爱 is part of the path to 涅槃.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

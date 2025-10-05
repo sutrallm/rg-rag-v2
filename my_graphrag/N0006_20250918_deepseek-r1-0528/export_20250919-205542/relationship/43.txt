@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM OF NON-ATTACHMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The wisdom prevents suffering by eliminating bondage, as stated in its role of severing the root of entanglement.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

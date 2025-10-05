@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進之道 (PATH OF DILIGENCE)</source_entity>
+    <target_entity>心念 (MIND)</target_entity>
+    <relationship_description>The Path of Diligence provides the method for mastering and taming the Mind (symbolized as an elephant).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

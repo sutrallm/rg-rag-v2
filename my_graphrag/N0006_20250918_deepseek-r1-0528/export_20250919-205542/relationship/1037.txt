@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GRADUAL CULTIVATION AND REALIZATION</source_entity>
+    <target_entity>CONCENTRATION AND INSIGHT MEDITATION</target_entity>
+    <relationship_description>Concentration and Insight Meditation represents the advanced stage following foundational ethics in Gradual Cultivation and Realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

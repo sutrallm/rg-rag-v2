@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>修行者精进不懈，努力修习佛法，避免被死亡的恐惧所掌控。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

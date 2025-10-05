@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无漏智慧</target_entity>
+    <relationship_description>修行者断尽烦恼后证得无漏智慧，超越生死轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

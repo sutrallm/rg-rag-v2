@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTITIONER</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>The diligent practitioner actively practices the Dharma (Buddha's teachings) as a path to liberation, integrating core principles into their spiritual effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>依循八正道实践能彻底粉碎无明枷锁，八正道是对治无明的修行路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

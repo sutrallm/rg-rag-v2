@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS WISDOM</source_entity>
+    <target_entity>ZEN CONCENTRATION</target_entity>
+    <relationship_description>Emptiness Wisdom represents the realization achieved through advanced meditative focus like Zen Concentration, going beyond its stabilizing function to insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

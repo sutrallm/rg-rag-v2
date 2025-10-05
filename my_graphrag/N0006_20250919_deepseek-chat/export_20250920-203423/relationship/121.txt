@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善行</source_entity>
+    <target_entity>善业</target_entity>
+    <relationship_description>善行积累善业，善业在现世与来世带来安乐与保护。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FRIVOLOUS SPEECH</source_entity>
+    <target_entity>MALICIOUS SPEECH</target_entity>
+    <relationship_description>Constitutes a damaging speech-form through inducing mental dispersion within the spectrum of harmful expression.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

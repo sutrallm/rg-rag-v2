@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTAINMENT OF LIBERATION</source_entity>
+    <target_entity>NEITHER PERCEPTION NOR NON-PERCEPTION</target_entity>
+    <relationship_description>Neither Perception Nor Non-Perception represents the penultimate stage before reaching Nirvana within the Attainment of Liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

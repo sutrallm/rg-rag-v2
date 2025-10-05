@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHED STATE</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Detached state enables the emergence of the saint through liberation from attachments and insight into reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

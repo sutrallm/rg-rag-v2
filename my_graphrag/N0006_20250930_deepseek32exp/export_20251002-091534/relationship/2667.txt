@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>Defilements include the three root poisons of greed, hatred, and delusion that must be eradicated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

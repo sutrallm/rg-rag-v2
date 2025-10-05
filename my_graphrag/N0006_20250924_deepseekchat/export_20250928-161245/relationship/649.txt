@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>有为法</source_entity>
+    <target_entity>缘起性空</target_entity>
+    <relationship_description>Conditioned phenomena are understood through the doctrine of dependent origination and emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

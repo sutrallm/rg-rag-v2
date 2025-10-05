@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>Practitioners diligently cultivate their mental states and thoughts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

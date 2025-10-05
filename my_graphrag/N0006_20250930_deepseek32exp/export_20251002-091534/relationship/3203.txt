@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Zen meditation relies on the practice of mindfulness to achieve concentration and inner stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>修行者彻见五蕴虚幻的本质后便能脱离生死轮回，五蕴是修行者需要观照的对象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

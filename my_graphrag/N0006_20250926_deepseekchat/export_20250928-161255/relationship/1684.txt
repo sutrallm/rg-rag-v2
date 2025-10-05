@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STATE OF NON-GREED AND NON-HATRED</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Attaining a state of non-greed and non-hatred is a step toward ultimate liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

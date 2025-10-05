@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAHULA</source_entity>
+    <target_entity>FOUR ELEMENTS</target_entity>
+    <relationship_description>Rahula observes the four elements of the body to understand their impermanent and suffering nature, aiding his path to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

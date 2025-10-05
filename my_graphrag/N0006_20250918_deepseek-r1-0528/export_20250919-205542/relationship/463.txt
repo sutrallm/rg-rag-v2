@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE ROOTS</source_entity>
+    <target_entity>ARAHANT</target_entity>
+    <relationship_description>Complete fulfillment of the Five Roots leads to Arhat status according to the Buddha's teaching.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

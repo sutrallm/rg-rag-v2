@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>贪嗔</target_entity>
+    <relationship_description>A sage is defined as one who has completely eradicated greed and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

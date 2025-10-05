@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT LIFE BENEFITS</source_entity>
+    <target_entity>PRACTICE</target_entity>
+    <relationship_description>Engaging in spiritual practice brings immediate benefits such as inner peace and happiness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

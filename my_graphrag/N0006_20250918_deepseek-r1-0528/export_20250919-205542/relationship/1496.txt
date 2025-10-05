@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom directly conquers attachments, leading to Liberation of the mind from afflictions and conditioning.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

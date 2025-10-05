@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>嗔恨</target_entity>
+    <relationship_description>Practitioners should not commit evil deeds due to anger or aversion.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

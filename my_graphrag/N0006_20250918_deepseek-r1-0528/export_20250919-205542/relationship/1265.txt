@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲念</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>欲念的增长直接导致烦恼的加剧，两者存在因果关联，欲念是烦恼产生的重要根源。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

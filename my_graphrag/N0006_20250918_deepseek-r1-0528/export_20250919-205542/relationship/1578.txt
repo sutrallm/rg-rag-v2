@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECT WISDOM</source_entity>
+    <target_entity>SAINTLY ATTRIBUTES</target_entity>
+    <relationship_description>Perfect wisdom is a core component of the saintly attributes defining enlightened beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

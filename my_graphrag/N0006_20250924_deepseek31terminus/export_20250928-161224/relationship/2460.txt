@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARHAT</source_entity>
+    <target_entity>LIBERATED BEING</target_entity>
+    <relationship_description>An Arhat is a specific type of Liberated Being, characterized by being a field of merit.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

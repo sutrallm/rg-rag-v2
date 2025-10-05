@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>修习无常观能削弱执着，如同日光消融冰雪，不需刻意对治烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

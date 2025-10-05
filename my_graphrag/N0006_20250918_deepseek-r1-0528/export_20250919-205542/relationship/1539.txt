@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION OF WORLDLY LIFE</source_entity>
+    <target_entity>BREAKING FREE FROM BONDAGE</target_entity>
+    <relationship_description>Renunciation initiates liberation from constraints, metaphorically represented as breaking bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

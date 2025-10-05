@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONK</source_entity>
+    <target_entity>CONTENTMENT</target_entity>
+    <relationship_description>A Monk is advised to practice Contentment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

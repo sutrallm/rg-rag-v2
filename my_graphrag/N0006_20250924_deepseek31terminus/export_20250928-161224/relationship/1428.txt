@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>达到心解脱意味着不再执著于自我和外境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

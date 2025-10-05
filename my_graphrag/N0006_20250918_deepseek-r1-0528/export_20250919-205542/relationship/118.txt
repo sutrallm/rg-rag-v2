@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENT_PRACTICE</target_entity>
+    <relationship_description>Buddha defined and emphasized diligent practice as the essential method to progress on the spiritual path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

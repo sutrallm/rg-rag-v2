@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无欲者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Those without desires who do not crave acquisitions represent the state of liberation where one is free from craving.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

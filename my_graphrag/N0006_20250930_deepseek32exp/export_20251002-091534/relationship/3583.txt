@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修习止观使修行者心念专注涅槃境界，最终证得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧观照</source_entity>
+    <target_entity>空</target_entity>
+    <relationship_description>智慧观照 enables practitioners to realize the principle of 空 (emptiness) through direct insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

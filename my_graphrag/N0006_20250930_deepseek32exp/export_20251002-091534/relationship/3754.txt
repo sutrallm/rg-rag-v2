@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>THREE STUDIES</target_entity>
+    <relationship_description>Zen meditation represents the second stage of the three studies path between discipline and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

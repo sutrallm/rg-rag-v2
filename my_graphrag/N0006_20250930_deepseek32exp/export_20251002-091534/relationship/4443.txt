@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>涅槃 (nirvana) is characterized by the complete cessation of 烦恼 (afflictions) as directly stated in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

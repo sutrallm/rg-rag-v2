@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE REALM OF LIBERATION</source_entity>
+    <target_entity>CORE BENEFITS OF CONCENTRATION</target_entity>
+    <relationship_description>The Sage Realm of Liberation embodies the perfected state of the deep inner stability and freedom initially experienced as Core Benefits of Concentration.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

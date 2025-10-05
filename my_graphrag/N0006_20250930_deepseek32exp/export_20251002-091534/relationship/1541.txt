@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>渴爱</target_entity>
+    <relationship_description>彻底熄灭渴爱的修行者已斩断生死轮回之链，成就无漏的究竟安乐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

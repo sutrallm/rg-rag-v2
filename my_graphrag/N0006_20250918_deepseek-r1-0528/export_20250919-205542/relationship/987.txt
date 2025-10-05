@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脫者</target_entity>
+    <relationship_description>The attainment of 智慧 (wisdom) and non-attachment directly enables one to become a 解脫者 (liberated one), breaking the cycle of rebirth and achieving nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

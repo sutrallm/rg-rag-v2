@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>实践</target_entity>
+    <relationship_description>精进与实践相关联，持续依照正法修行需要精进的态度。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

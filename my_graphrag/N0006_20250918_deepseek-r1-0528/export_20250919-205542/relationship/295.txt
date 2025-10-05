@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>Sages utilize mindfulness to stabilize the mind and dwell within fundamental reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

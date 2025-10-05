@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>圣者是完成八正道修习的成就者，已熄灭一切烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

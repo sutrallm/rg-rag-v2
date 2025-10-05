@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NARRATIVE_REDUCTION</source_entity>
+    <target_entity>THEMATIC_TITLE</target_entity>
+    <relationship_description>The removal of narrative elements allows for the creation and use of concise, practical thematic titles summarizing core doctrines.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

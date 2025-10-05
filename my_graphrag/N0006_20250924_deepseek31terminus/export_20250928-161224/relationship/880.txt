@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>An untamed mind is the source of suffering and danger in the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE_WAY</source_entity>
+    <target_entity>BODILY_ACTIONS</target_entity>
+    <relationship_description>The Middle Way principle directly regulates bodily actions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

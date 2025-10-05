@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>无漏智慧</target_entity>
+    <relationship_description>禅定是生起无漏智慧的基础，能洞察实相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

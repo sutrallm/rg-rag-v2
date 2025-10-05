@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REWRITE EXPLANATION</source_entity>
+    <target_entity>CONCRETE ROLES</target_entity>
+    <relationship_description>Explains transformation of story elements (e.g., cow herder → sensory restraint) into abstract principles.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

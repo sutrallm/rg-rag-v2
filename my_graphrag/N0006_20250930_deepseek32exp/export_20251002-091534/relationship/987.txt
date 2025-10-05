@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>通过持续修习禅定，可对治放逸习气。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CONTEMPLATION</target_entity>
+    <relationship_description>Precepts provide foundation for successful contemplation practice</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

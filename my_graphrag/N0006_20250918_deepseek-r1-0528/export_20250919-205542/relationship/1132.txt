@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Meditation enables liberation by reducing disturbances and freeing the mind from afflictions, as described in the teachings on its liberating qualities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

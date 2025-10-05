@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>JETA GROVE OF ANATHAPINDIKA</target_entity>
+    <relationship_description>The Buddha delivered teachings in the Jeta Grove of Anathapindika.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

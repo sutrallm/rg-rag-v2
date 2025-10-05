@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Diligent Meditation develops insight by enabling focused observation of phenomena, revealing reality's true nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

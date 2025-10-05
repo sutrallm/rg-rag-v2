@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>空性见</source_entity>
+    <target_entity>缘起性空</target_entity>
+    <relationship_description>空性见 involves realizing 缘起性空 the emptiness of dependently originated phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

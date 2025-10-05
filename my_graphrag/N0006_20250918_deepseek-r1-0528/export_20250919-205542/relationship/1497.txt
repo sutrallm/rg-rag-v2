@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAINTLY STATE</target_entity>
+    <relationship_description>Liberation from defilements results in the perfected Saintly State characterized by purity and transcendence of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

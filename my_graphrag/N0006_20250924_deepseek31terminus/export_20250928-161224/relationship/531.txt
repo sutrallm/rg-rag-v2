@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>八風</target_entity>
+    <relationship_description>安住正念的心如磐石，不被八风撼动。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

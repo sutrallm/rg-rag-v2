@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离贪者</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>Non-attached individuals naturally align with the Middle Way in actions and speech, free from extremes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

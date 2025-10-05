@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Saints are described as possessing pure precepts as part of their spiritual attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

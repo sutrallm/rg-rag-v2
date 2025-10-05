@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>诸法生灭</target_entity>
+    <relationship_description>禅修 allows practitioners to observe 诸法生灭 as they truly are.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

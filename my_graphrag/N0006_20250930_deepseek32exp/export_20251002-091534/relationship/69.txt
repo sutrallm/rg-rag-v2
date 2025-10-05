@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>Liberation is achieved through meditative concentration that enables clear perception of existence's nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

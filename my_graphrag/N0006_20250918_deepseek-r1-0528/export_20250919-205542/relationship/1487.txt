@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE OVERCOMING LAZINESS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Diligence Overcoming Laziness leads to the attainment and opening of Meditation, as emphasized in the section on Diligence Overcoming Laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

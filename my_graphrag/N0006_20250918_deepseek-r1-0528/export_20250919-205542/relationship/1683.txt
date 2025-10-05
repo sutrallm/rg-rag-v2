@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Meditation enables liberation by freeing practitioners from afflictions and attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

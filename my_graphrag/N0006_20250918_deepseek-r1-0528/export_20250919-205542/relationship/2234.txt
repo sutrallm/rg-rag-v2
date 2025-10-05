@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Indulgence directly causes suffering according to the teaching, as carelessness leads to spiritual downfall.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

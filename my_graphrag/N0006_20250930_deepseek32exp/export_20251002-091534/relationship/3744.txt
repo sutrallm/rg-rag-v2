@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>INNER STILLNESS</target_entity>
+    <relationship_description>Zen meditation enables practitioners to attain inner stillness by abandoning negligence and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Zen meditation represents the meditation component of the threefold training path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

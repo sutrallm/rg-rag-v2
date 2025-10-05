@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>THREE STUDIES</target_entity>
+    <relationship_description>A sage has fully perfected the three studies of precepts, concentration, and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

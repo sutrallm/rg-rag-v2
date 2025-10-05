@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>通过持戒成就禅定，依禅定生起智慧，戒律是智慧产生的根本基础</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

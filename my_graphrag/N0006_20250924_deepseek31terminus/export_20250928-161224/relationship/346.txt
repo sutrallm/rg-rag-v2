@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>諸天</target_entity>
+    <relationship_description>A sage is respected by the gods.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

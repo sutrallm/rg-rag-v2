@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLDING PRECEPTS STEADFASTLY</source_entity>
+    <target_entity>NON-HARMING OTHERS</target_entity>
+    <relationship_description>Pure ethical conduct (holding precepts) inherently includes the principle of non-harming others, leading to inner peace from both sources.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越生死的觉悟</source_entity>
+    <target_entity>究竟之境</target_entity>
+    <relationship_description>Both concepts describe the ultimate state of liberation and unity with universal truth, transcending所有 concepts and discriminations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANAGAMI (THIRD FRUIT)</source_entity>
+    <target_entity>FIVE LOWER FETTERS</target_entity>
+    <relationship_description>Third Fruit attainment requires severing all Five Lower Fetters perpetuating desire-realm rebirths.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

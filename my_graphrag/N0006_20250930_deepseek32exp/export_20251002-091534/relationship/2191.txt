@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>The three studies begin with precepts as the foundational discipline necessary for spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

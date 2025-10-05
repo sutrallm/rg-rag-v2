@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFICATION</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Desire is identified as a key defilement eradicated through purification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

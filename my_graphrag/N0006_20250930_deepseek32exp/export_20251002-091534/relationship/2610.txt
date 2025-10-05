@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NAME AND FORM</target_entity>
+    <relationship_description>Practitioners should abandon attachment to name and form by observing the five aggregates as impermanent, suffering, and without self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

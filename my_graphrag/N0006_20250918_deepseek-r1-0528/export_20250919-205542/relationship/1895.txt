@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS CONCENTRATION</source_entity>
+    <target_entity>MEDITATIVE ABSORPTION</target_entity>
+    <relationship_description>Mindfulness concentration develops into deeper meditative absorption states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

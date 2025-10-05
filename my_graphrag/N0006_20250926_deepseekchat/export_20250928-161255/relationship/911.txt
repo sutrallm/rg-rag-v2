@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>修行者的最终目标是安住于寂静的境界，体验无上的安宁与自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

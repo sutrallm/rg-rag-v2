@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THEMATIC_TITLE</source_entity>
+    <target_entity>MIDDLE_WAY</target_entity>
+    <relationship_description>The thematic title '不落两边的中道' (Avoiding Extremes: The Middle Way) encapsulates the core doctrine of the Middle Way for the section.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

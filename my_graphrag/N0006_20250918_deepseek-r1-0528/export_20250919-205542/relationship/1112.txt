@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_CULTIVATION</source_entity>
+    <target_entity>ULTIMATE_PEACE</target_entity>
+    <relationship_description>Wisdom cultivation enables realization of ultimate peace through insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

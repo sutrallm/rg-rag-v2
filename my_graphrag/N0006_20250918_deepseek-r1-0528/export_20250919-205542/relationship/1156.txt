@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>FAULTS</target_entity>
+    <relationship_description>Awareness detects and prevents minor faults from escalating into serious karmic consequences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

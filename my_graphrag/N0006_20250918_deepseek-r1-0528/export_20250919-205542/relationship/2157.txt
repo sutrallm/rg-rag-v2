@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT EFFORT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Diligent Effort is necessary for overcoming the disturbances (Mara) associated with worldly existence and ultimately eradicating all Afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

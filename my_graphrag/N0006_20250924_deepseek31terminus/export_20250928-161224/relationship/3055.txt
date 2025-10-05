@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Chan Ding is a specific, concentrated state of the mind characterized by focus and awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

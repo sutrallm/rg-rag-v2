@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进能帮助稳固禅定境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE (THE SAGE)</source_entity>
+    <target_entity>NIE PAN (NIRVANA)</target_entity>
+    <relationship_description>The Sage (Sheng Zhe) diligently abides and dwells in the ultimate state of Nirvana (Nie Pan).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

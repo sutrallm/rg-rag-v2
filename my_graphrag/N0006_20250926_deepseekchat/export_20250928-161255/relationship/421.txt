@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Jing Jin supports the practice of Chan Ding by ensuring diligent effort and avoiding negligence. The former depends on the latter to achieve liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

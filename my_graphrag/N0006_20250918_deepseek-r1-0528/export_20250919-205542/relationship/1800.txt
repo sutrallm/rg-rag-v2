@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Diligence leads to liberation by cleansing afflictions and freeing from cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

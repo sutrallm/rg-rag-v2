@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGOROUS EFFORT</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Vigorous effort is practiced by following the teachings of the Buddha.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

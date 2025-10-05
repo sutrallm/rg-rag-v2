@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Non-attachment fosters inner stillness, enabling practitioners to remain undisturbed by external distractions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

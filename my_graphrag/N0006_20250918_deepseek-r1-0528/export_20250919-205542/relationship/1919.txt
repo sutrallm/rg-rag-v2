@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>根本烦恼</target_entity>
+    <relationship_description>The mastery and complete subduing of the 心 is described as the means to irrevocably cut off the 根本烦恼.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

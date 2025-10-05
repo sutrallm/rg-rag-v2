@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心的净化</source_entity>
+    <target_entity>觉悟的境界</target_entity>
+    <relationship_description>内心清净是实现觉悟境界的前提，去除烦恼使修行者安住于究竟真理。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

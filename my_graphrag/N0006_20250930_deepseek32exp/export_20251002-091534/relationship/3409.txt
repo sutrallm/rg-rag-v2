@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>名色</target_entity>
+    <relationship_description>Practitioners detach from mental and physical phenomena to achieve enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

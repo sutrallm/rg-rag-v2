@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>日常生活</target_entity>
+    <relationship_description>禅修可以融入日常生活，通过保持觉知持续净化心念。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

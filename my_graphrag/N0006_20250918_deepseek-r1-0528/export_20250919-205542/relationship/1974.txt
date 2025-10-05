@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO (LIBERATION)</source_entity>
+    <target_entity>ZHI ZHUO (ATTACHMENT / GRASPING)</target_entity>
+    <relationship_description>Achieving Liberation (Jie Tuo) requires and results in the abandonment and absence of all Attachment and Grasping (Zhi Zhuo).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

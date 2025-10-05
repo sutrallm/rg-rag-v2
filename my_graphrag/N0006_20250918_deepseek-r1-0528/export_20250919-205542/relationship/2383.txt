@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Precepts serve as the foundation for developing discernment into impermanence and ultimately achieving penetration of reality, leading to awakening.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Non-negligence enables one to thoroughly master concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

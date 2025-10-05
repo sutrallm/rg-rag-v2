@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE AGAINST NEGLIGENCE</source_entity>
+    <target_entity>HOLDING PRECEPTS STEADFASTLY</target_entity>
+    <relationship_description>Vigilance against negligence is crucial for maintaining the pure conduct described by holding precepts steadfastly over time. Negligence directly threatens ethical conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

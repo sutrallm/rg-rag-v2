@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECEPT</target_entity>
+    <relationship_description>Saints possess perfect adherence to ethical precepts, as stated in their description of having comprehensive precept-keeping without flaws.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

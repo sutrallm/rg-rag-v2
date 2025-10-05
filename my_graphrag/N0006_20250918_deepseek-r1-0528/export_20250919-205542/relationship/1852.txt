@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REWRITE EXPLANATION</source_entity>
+    <target_entity>METAPHOR CONVERSIONS</target_entity>
+    <relationship_description>Includes the method of converting concrete metaphors into doctrinal principles as documented in the conversion table.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

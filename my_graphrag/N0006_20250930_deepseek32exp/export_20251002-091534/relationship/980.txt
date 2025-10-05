@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>八正道包含了戒定慧三学的实践内容，是正确修持三学的具体道路。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

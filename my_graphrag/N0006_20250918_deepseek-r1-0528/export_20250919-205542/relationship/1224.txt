@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MODERNIZED TEXT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Modernized Text structures its themes logically towards achieving Liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

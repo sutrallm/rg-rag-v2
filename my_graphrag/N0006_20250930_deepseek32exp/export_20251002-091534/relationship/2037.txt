@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>无始无明</target_entity>
+    <relationship_description>止观 practice completely eradicates 无始无明 beginningless ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

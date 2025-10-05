@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>Practitioners who follow Buddha's teachings can脱离 (free themselves from) the束缚 (bondage) of the death king.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

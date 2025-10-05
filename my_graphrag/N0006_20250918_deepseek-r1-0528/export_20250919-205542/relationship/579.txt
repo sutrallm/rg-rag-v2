@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SAINT'S ULTIMATE ACHIEVEMENT</target_entity>
+    <relationship_description>The saint embodies the ultimate achievement through perfected spiritual qualities, serving as the culmination of the path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

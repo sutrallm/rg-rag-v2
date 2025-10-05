@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>精進 is practiced by following the 教诲 of 佛陀 (the Buddha).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

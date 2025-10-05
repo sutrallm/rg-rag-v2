@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>精进是抵达解脱彼岸的必要条件，懈怠则无法成就解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

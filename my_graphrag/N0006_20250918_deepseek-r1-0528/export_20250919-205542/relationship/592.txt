@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸法空性</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>Understanding emptiness involves recognizing the impermanent, insubstantial nature of the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

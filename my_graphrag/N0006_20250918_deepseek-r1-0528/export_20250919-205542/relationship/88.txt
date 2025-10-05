@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣德成就</source_entity>
+    <target_entity>寂静境界</target_entity>
+    <relationship_description>圣德成就 involves achieving and abiding in 寂静境界 (tranquil state) as explicitly described in the teaching.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>解脱者不被世俗欲望所困，断除一切烦恼与执取。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

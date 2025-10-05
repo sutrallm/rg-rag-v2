@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>寂静与智慧相辅相成，帮助修行者在寂静中培养智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

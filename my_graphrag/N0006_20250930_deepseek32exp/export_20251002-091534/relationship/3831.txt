@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>善法</target_entity>
+    <relationship_description>对于生起的善法要持续增长，精进包括增长善法的实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

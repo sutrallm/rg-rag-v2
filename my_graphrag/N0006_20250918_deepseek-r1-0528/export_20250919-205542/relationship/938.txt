@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>Accomplished practitioners earn reverence from celestial beings by eradicating afflictions through discipline and wisdom, as noted in the section on sage qualities.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

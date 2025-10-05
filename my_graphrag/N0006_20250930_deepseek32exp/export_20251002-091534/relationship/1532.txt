@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>解脱者需要彻见五蕴的虚妄性，于一切境界不生贪著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

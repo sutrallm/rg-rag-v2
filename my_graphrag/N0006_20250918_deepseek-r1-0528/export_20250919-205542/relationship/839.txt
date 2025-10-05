@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>Practitioners cultivate meditative concentration to eliminate distraction and achieve inner tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

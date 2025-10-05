@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Chan Ding brings about liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

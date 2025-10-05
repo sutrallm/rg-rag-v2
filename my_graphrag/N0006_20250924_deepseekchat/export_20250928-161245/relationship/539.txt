@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BHIKKHU</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>Bhikkhus strive to overcome the Death Demon through diligent practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>Practitioners avoid falling under the control of the metaphorical "Death Lord" through diligent practice.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED ONE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Enlightened ones have destroyed the darkness of ignorance</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

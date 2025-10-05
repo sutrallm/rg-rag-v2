@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>The sage represents the successful culmination of the practitioner's path.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

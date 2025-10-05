@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧观照</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>智慧观照的修持内容是以正观照见五蕴无常苦空，破除对色受想行识的执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

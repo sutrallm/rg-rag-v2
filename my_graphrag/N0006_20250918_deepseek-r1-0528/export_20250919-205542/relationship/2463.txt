@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Concentration training enables freedom from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

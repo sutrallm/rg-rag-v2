@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>UNWHOLESOME THINGS</target_entity>
+    <relationship_description>Guarding the senses prevents engagement with unwholesome mental states and actions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

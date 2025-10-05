@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>FETTERS</target_entity>
+    <relationship_description>Saints represent fully liberated beings who have completely severed all mental fetters through spiritual accomplishment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

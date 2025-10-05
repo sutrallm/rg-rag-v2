@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>NON-CRAVING STATE</target_entity>
+    <relationship_description>Deep concentration leads to mental liberation, resulting in a non-craving state of clarity undisturbed by phenomena or attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

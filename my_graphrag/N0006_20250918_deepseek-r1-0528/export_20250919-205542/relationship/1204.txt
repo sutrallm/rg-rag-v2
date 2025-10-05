@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FISH</source_entity>
+    <target_entity>POND</target_entity>
+    <relationship_description>Fish depend on the pond environment, whose depletion causes their distress according to the metaphor.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

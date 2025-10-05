@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ACTUAL_PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Actual practice is the essential requirement for attaining liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

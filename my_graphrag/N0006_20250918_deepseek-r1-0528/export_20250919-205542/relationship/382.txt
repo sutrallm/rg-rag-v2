@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTITIONER</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>The diligent practitioner remembers and follows the Buddha's teachings to avoid negative outcomes and achieve peace, as emphasized in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

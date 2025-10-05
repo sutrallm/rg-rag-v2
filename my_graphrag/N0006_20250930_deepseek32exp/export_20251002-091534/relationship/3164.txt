@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Wisdom allows practitioners to observe the five aggregates as illusory and false, cutting through afflictions like a sharp sword cutting through tangled vines.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

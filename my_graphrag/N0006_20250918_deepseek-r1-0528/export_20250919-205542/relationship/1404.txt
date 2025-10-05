@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Cultivators must train and tame their minds through focused practice to avoid suffering and achieve stability, as described in the section on taming the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

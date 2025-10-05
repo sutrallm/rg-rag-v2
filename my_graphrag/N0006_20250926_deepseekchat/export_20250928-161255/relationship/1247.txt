@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FIVE DESIRES</target_entity>
+    <relationship_description>Wisdom enables practitioners to see through the illusory nature of the Five Desires.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

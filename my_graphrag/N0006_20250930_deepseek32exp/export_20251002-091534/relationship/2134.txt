@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>Practitioners engage in concentration and insight meditation practices to stabilize their minds and pacify afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

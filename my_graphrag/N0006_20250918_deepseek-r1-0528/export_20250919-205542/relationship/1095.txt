@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真の帰依</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>真の帰依が成立するためには戒律の遵守が不可欠な構成要素として位置付けられる</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

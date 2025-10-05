@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>Subtle mental activities are said to牵引牵引 (lead to) cyclic existence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

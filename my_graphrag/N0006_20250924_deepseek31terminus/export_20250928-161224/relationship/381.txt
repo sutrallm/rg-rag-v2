@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>執著網羅</target_entity>
+    <relationship_description>The practitioner aims to break through the net of attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>精進是持續實踐禪定的前提，能幫助修行者掌握禪定與智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>布施與修行的結合</source_entity>
+    <target_entity>佛</target_entity>
+    <relationship_description>佛 teaches the importance of combining布施 with正見 to attain true福報.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

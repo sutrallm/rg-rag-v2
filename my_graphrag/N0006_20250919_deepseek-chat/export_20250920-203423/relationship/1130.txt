@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定的修行者</source_entity>
+    <target_entity>修行的最终目标</target_entity>
+    <relationship_description>The meditating practitioner works toward the ultimate goal of liberation through meditation and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

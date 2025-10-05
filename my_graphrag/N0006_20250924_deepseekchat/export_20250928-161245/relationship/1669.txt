@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念专注</source_entity>
+    <target_entity>烦恼与痛苦</target_entity>
+    <relationship_description>心念专注帮助修行者摆脱烦恼与痛苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

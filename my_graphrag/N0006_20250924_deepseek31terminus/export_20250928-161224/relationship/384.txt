@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DHYANA</target_entity>
+    <relationship_description>Practitioners engage in dhyana meditation to achieve inner peace and freedom from distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

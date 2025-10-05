@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE (ENLIGHTENED BEING)</source_entity>
+    <target_entity>JIETUO (LIBERATION)</target_entity>
+    <relationship_description>The Enlightened Being embodies the state of Liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

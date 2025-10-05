@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警惕精进的陷阱</source_entity>
+    <target_entity>圣者的究竟安稳</target_entity>
+    <relationship_description>警惕精进的陷阱强调修行的纯净性，圣者的究竟安稳描述达成此纯净后的终极解脱状态。</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

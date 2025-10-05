@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL CONCENTRATION</source_entity>
+    <target_entity>VIGILANCE</target_entity>
+    <relationship_description>Mindful concentration establishes the foundation for maintaining vigilance against distractions, forming sequential stages in the meditative path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>DHYANA</target_entity>
+    <relationship_description>Sages have mastered dhyana and abide in the tranquility it brings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

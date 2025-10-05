@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL DISCIPLINE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Moral discipline supports the practice of meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

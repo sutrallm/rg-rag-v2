@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM OBSERVATION</target_entity>
+    <relationship_description>Meditation practice supports the development of wisdom observation capabilities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

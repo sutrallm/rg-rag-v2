@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENCE OF CRAVINGS</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Attaining transcendence of cravings results in the complete severance of hatred.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

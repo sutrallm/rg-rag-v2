@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARROW EXTRACTION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Arrow extraction symbolizes the removal of suffering's root cause, preventing future affliction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

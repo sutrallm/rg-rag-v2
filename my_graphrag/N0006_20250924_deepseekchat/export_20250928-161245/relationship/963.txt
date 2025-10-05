@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三藐三菩提</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>Supreme enlightenment leads to the attainment of nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

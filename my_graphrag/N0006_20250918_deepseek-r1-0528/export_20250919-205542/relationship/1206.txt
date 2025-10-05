@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Consistent meditation practice directly leads to liberation by eliminating mental disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

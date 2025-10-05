@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>The three studies include concentration as the intermediate stage that follows the establishment of precepts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

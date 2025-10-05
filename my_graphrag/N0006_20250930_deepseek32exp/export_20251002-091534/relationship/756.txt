@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY PRACTITIONER</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Saintly practitioners have reached the shore beyond suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

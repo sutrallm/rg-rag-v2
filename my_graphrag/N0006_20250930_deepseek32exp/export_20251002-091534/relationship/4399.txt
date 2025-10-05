@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>教法传承</source_entity>
+    <target_entity>知识积累</target_entity>
+    <relationship_description>Authentic teachings require more than just accumulation of knowledge.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

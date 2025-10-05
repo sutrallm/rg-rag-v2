@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ELEPHANT AND LOTUS POND</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>The elephant in lotus pond metaphor symbolizes the untainted mental state cultivated by meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

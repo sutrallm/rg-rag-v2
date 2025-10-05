@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>解脱是通过超越执着而达到的境界，不执取任何境界才能实现心无牵挂的彻底觉悟。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

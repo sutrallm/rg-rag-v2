@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM OF DETACHMENT</source_entity>
+    <target_entity>DHYANA</target_entity>
+    <relationship_description>The wisdom of detachment is developed through the practice of dhyana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

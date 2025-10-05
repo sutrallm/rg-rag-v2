@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FRUITS OF PRACTICE</target_entity>
+    <relationship_description>Practitioners do not become attached to the fruits of practice even when they achieve them.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

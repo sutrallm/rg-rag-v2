@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAMING DESIRES</source_entity>
+    <target_entity>DESIRES</target_entity>
+    <relationship_description>Taming Desires serves as the practice of prohibiting and eliminating desires to attain mental freedom and avoid indulgence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

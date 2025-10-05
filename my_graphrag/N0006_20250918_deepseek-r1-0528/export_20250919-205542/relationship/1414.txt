@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Wisdom governs the mind's state; through insight, the mind achieves liberation by eliminating delusions and attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

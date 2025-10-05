@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE QUALITIES</source_entity>
+    <target_entity>TRANSCENDING ATTACHMENT</target_entity>
+    <relationship_description>Sage qualities include the profound realization of impermanence that constitutes transcending attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

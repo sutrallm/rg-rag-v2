@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>外在形式</target_entity>
+    <relationship_description>觉悟者通过智慧洞察，超越了外在形式的迷惑，达到解脱境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

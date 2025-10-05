@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION OF MIND</source_entity>
+    <target_entity>ENLIGHTENED MASTER</target_entity>
+    <relationship_description>The LIBERATION OF MIND constitutes the experiential core of the ENLIGHTENED MASTER's existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

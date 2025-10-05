@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文內容</source_entity>
+    <target_entity>結尾偈語</target_entity>
+    <relationship_description>原文內容中的結尾偈語需要被刪除。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

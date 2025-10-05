@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>城池</target_entity>
+    <relationship_description>Mindfulness should be guarded like a city wall to prevent negligence from invading.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

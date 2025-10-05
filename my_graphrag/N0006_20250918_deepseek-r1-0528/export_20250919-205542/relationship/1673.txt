@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>LIBERATION FROM DEATH</target_entity>
+    <relationship_description>Diligent practice enables liberation from death by cultivating vigilant spiritual discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

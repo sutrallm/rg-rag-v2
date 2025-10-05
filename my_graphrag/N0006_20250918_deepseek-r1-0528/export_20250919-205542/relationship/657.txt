@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FULL LIBERATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Full liberation transcends Samsara, ending the cycle of rebirth and suffering permanently.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

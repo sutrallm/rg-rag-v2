@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATION</source_entity>
+    <target_entity>SENSE RESTRAINT</target_entity>
+    <relationship_description>Sense restraint is a key aspect of the practice of cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

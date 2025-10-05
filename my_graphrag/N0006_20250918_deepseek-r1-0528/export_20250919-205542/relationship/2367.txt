@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SROTAPANNA (FIRST FRUIT)</source_entity>
+    <target_entity>SAKADAGAMI (SECOND FRUIT)</target_entity>
+    <relationship_description>First Fruit serves as prerequisite foundation for advancing to Second Fruit enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

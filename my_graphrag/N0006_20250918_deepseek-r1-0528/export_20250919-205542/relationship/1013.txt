@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>CYCLIC EXISTENCE</target_entity>
+    <relationship_description>Diligence through Dharma practice enables transcendence of cyclic existence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

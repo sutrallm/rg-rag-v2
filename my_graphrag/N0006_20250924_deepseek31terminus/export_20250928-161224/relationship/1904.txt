@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>野兽</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>野兽在无蚊虫丛林中安稳行走比喻修行者通过禅定获得的内心安稳</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

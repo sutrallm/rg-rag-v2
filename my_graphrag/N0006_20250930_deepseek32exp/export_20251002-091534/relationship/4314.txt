@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>LEAK-FREE MIND</target_entity>
+    <relationship_description>Saints abide in a leak-free mind state through their practice of tranquility and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

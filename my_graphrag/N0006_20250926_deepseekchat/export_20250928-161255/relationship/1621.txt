@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>The Dharma teaches practitioners to eliminate mental disturbances and afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

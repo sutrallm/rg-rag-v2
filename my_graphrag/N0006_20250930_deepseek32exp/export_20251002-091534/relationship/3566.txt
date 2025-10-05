@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>尘境</target_entity>
+    <relationship_description>六根与尘境接触产生识蕴，这是观察智慧生起的重要环节。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

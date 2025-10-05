@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GIVING</source_entity>
+    <target_entity>MERITS</target_entity>
+    <relationship_description>Selfless generosity directly results in the accumulation of spiritual merit according to teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

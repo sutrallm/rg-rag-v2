@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>般若智慧</target_entity>
+    <relationship_description>真实安住于正法的修行者以般若智慧观照诸法，般若智慧是修行者的重要修持工具。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

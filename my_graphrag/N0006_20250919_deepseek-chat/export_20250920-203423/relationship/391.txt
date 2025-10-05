@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The Buddha emphasizes the importance of diligence to avoid放逸 and摆脱束缚.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

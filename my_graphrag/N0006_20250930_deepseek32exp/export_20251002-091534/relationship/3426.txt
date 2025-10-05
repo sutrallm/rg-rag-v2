@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>通过实践八正道，修行者终将证得涅槃寂静的终极解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

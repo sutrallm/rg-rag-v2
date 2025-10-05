@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>调伏感官的作用机制</source_entity>
+    <target_entity>意根</target_entity>
+    <relationship_description>The mechanism emphasizes mastering the mind-root to regulate sensory functions.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

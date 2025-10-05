@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>世间</target_entity>
+    <relationship_description>圣者堪为世间所敬仰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

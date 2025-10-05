@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Concentration provides a primary pathway to liberation by stilling the mind and overcoming obstacles to enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

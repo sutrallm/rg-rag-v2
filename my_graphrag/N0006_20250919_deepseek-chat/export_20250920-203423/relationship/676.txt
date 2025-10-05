@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Through meditation and understanding of the Dharma, practitioners gain wisdom to see the impermanence of all phenomena and achieve liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>诸佛</target_entity>
+    <relationship_description>觉悟者达到了诸佛所指的终极真理境地</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

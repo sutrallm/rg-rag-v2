@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Renunciation involves letting go of aversion and ill-will</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

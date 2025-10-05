@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE AWAKENED ONE</source_entity>
+    <target_entity>RIGHT VIEW</target_entity>
+    <relationship_description>The awakened one embodies right view, perceiving reality's true nature without distortion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

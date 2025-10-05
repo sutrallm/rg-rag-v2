@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>善知识</target_entity>
+    <relationship_description>修行者在修行的道路上需要善知识的引导，帮助其远离迷惑，走向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

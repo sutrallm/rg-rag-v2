@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS PRACTICE</source_entity>
+    <target_entity>LIBERATION OF MIND</target_entity>
+    <relationship_description>Mindfulness practice develops the concentration necessary to achieve mental liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

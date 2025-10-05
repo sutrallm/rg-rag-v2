@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>Applying 智慧 through observation prevents falling into the perilous path of 轮回 (samsara).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

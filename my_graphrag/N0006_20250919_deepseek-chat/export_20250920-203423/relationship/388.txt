@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONK</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>The monk seeks guidance from the Buddha on how to overcome烦恼 and achieve解脱.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

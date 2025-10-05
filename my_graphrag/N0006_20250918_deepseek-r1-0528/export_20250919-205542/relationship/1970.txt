@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Craving manifests as a core component of the three poisons perpetuating suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

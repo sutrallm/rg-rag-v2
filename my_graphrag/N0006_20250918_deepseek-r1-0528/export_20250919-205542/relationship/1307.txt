@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINED PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The disciplined practitioner attains Nirvana through pure conduct and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

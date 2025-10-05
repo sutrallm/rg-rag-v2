@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SPIRITUAL-FRUITS</target_entity>
+    <relationship_description>Wisdom discerns not clinging to spiritual fruits even during diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

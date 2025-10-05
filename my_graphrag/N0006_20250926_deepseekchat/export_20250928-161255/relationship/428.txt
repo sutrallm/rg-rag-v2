@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIU JING JIE TUO</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Jiu Jing Jie Tuo is the ultimate verification of Jie Tuo, where practitioners fully manifest the nature of Dharma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

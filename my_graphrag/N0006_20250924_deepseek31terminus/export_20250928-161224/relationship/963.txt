@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALMS_GIVING</source_entity>
+    <target_entity>STREAM-ENTRY</target_entity>
+    <relationship_description>The merit from achieving Stream-Entry far surpasses the merit obtained from almsgiving.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

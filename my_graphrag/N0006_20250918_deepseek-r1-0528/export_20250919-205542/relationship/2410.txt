@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KINDNESS</source_entity>
+    <target_entity>MERITS</target_entity>
+    <relationship_description>Benevolent interactions generate merit and support communal harmony as virtuous conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行者通过观照无常之理，远离执著，可以断除烦恼，证得涅槃。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实证</source_entity>
+    <target_entity>顺逆境界</target_entity>
+    <relationship_description>实证功夫的检验标准是面对顺逆境界时心念能否保持平等安定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCERNMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Cultivating discernment through practice leads directly to achieving liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN MEDITATION</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Chan meditation requires sustained diligence to achieve its full liberating effects.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

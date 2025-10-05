@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>LOTUS LEAF</target_entity>
+    <relationship_description>Liberated practitioners are like lotus leaves that contact water but remain untainted by it.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

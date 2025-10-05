@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧(WISDOM)</source_entity>
+    <target_entity>禅定中断(BREAK IN CONCENTRATION)</target_entity>
+    <relationship_description>Wisdom helps understand causes and dangers of concentration interruptions, guiding practitioners to overcome them.</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>EIGHTFOLD PATH</target_entity>
+    <relationship_description>Saints have completely practiced the eightfold path and achieved ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

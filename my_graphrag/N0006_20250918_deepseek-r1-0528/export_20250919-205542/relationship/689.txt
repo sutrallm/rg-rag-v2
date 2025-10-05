@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO NIRVANA</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Mindfulness is explicitly identified as a core component of the path's practical implementation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

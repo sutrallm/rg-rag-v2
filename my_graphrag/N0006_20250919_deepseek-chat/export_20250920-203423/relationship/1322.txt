@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善知识</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>亲近善知识，修行者能增长智慧，避免堕入邪见与恶行。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

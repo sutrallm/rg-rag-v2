@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO ZHI HUI</source_entity>
+    <target_entity>JIU JING JIE TUO</target_entity>
+    <relationship_description>Jie Tuo Zhi Hui (wisdom of liberation) leads to Jiu Jing Jie Tuo (ultimate liberation) by eradicating all afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

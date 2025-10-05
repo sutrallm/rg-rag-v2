@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISTRACTION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Distraction, caused by conflicting desires, weakens mental defenses and causes afflictions to invade.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

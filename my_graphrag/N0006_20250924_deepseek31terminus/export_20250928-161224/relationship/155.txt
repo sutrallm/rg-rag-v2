@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>懈怠</target_entity>
+    <relationship_description>精进要求不陷于懈怠。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

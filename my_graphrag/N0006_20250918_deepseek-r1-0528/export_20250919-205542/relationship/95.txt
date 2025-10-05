@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL OBSERVATION</source_entity>
+    <target_entity>SELF-NATURE</target_entity>
+    <relationship_description>Mindful observation enables practitioners to penetrate and realize the empty self-nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

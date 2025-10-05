@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERIL OF DELUSION</source_entity>
+    <target_entity>GUARDING THE SENSES</target_entity>
+    <relationship_description>Guarding the senses (six roots) is the direct method prescribed to counter the danger of delusion and indulgence in sensual pleasures.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

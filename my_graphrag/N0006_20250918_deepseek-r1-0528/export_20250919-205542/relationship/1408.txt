@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Cultivators develop wisdom through meditation, enabling deep insights into reality and the path to liberation, as they progress beyond suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BEGINNER</source_entity>
+    <target_entity>GUIDE</target_entity>
+    <relationship_description>Beginners require guidance from a qualified meditation Guide to learn Anapanasati correctly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

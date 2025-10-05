@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>智者 understands the dangers related to 煩惱.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

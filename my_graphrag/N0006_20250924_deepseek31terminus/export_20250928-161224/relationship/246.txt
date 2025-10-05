@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>生死束缚</target_entity>
+    <relationship_description>Meditation allows one to transcend the bondage of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱道</target_entity>
+    <relationship_description>修行者实践解脱道的核心，以斩断贪爱和运用般若智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

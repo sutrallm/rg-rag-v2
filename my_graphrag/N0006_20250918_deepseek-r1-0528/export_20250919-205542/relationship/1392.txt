@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Meditation trains and refines the mind, enabling it to maintain concentration and awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

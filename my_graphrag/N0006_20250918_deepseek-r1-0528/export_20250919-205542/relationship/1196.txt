@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>HARM</target_entity>
+    <relationship_description>Negligence inevitably causes harm by leaving practitioners vulnerable to dangers.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

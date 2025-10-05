@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL PURITY</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Moral purity contributes to achieving liberation as one of the essential components alongside concentration and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

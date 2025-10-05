@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SENSORY PLEASURES</target_entity>
+    <relationship_description>When practitioners are no longer动摇 by sensory pleasures and their minds become firm like a rock, this indicates they have attained purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

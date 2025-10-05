@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>修行者通过正念观察五蕴，了悟事物的本质，不陷入迷执。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

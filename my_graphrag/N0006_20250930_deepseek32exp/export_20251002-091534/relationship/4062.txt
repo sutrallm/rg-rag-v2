@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM LIBERATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom liberation enables practitioners to thoroughly observe the impermanent nature of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

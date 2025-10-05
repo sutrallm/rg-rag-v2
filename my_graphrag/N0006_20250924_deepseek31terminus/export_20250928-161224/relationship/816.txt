@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>工匠</target_entity>
+    <relationship_description>The activity of the 智者 (wise person) in observing the mind is compared to a 工匠 (artisan) removing flaws.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

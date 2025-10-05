@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>NEGATIVE KARMA</target_entity>
+    <relationship_description>Ignorance causes negative karma through persistent wrong views and deliberate unwholesome actions, as described in the delusion-driven creation of evil deeds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>The five aggregates are characterized by impermanence, one of the three marks of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

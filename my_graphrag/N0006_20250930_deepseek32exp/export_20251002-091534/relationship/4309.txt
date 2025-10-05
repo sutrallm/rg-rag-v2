@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>When mind is sustained in concentration on one point, it becomes free from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

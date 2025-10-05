@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平等捨心</source_entity>
+    <target_entity>顺境逆境</target_entity>
+    <relationship_description>安住于平等捨心，意味着在面对顺境逆境时心不摇动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

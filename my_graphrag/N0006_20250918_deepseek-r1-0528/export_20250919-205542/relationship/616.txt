@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KEY TECHNIQUES FOR DILIGENT PRACTICE</source_entity>
+    <target_entity>SAGE REALM OF LIBERATION</target_entity>
+    <relationship_description>Mastery of the Key Techniques for Diligent Practice is necessary to reach the Sage Realm of Liberation by providing the sustained effort required.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

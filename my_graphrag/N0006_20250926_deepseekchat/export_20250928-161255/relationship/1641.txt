@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>禅修遵循从持戒到修定再到开发智慧的修行次第，三学相辅相成，缺一不可。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

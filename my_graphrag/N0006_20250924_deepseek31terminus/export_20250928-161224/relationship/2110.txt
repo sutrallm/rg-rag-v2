@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>禅定 involves focusing and maintaining awareness of the 心念 (mental activities).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

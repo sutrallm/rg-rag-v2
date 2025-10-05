@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_EFFORT</source_entity>
+    <target_entity>WHOLESOME_DHARMAS</target_entity>
+    <relationship_description>Practicing diligent effort involves concentrated engagement with wholesome dharmas</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

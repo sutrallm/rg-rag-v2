@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILENT ATTAINMENT (SANTI)</source_entity>
+    <target_entity>PURE DISCIPLINE AND PROFOUND WISDOM</target_entity>
+    <relationship_description>Silent Attainment is achieved by a practitioner possessing Pure Discipline and Profound Wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>END OF CYCLIC SUFFERING</target_entity>
+    <relationship_description>Mental liberation results in the end of cyclic suffering through eradication of afflictions and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

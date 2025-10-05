@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Moral discipline (戒律) and wisdom (智慧) are qualities possessed by the noble person and are foundational for practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

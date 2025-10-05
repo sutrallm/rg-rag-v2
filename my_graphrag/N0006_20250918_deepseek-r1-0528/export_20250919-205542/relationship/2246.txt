@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIMPIDITY AND SERENITY</target_entity>
+    <relationship_description>Attaining non-attachment leads to a mind state of limpidity and serenity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

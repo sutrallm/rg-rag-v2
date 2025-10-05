@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN (DILIGENT EFFORT)</source_entity>
+    <target_entity>FANNAO (AFFLICTIONS/KLESHAS)</target_entity>
+    <relationship_description>Diligent Effort enables overcoming the bonds of suffering created by afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

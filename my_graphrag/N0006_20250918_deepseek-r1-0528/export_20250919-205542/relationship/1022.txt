@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Accomplished practitioners completely transcend suffering through diligent practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

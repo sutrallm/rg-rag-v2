@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE_FINANCIAL_MANAGEMENT</source_entity>
+    <target_entity>HELPING_OTHERS</target_entity>
+    <relationship_description>Resource management enables material support to others through generosity and reciprocation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

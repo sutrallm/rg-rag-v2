@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>涅槃是解脱的最终目标，修行者通过彻底断除烦恼、安住于正念，达到究竟的安乐境界。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

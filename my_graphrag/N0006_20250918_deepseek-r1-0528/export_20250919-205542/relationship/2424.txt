@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAMILY_CARE</source_entity>
+    <target_entity>AUSPICIOUSNESS</target_entity>
+    <relationship_description>Caring for spouse and children is directly described as a component that generates auspiciousness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

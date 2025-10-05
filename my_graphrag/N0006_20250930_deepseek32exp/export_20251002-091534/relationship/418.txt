@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH KING</target_entity>
+    <relationship_description>Diligent practitioners can avoid falling under the control of the Death King through continuous practice and non-negligence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟果位</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>Accomplished practitioners thoroughly perceive the true nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNWHOLESOME THINGS</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Unwholesome things obstruct enlightenment by acting as hindrances to spiritual awakening, as explicitly stated in the context of guarding the six sense bases.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE (THE SAGE)</source_entity>
+    <target_entity>FAN NAO (AFFLICTIONS / DEFILEMENTS)</target_entity>
+    <relationship_description>A Sage (Sheng Zhe) is defined by having utterly extinguished all Afflictions and Defilements (Fan Nao), leaving no trace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

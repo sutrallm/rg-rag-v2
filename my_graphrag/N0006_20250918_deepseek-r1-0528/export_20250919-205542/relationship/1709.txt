@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修证次第</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修证次第 defines the progressive meditative stages that anchor 禅定 practice through specific attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

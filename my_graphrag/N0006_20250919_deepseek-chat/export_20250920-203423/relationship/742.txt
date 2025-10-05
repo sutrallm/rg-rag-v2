@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>圣者通过心解脱获得智慧，面对诱惑与威胁时始终保持清净与解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

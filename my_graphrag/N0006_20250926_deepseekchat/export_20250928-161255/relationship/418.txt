@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>观察世间无常能帮助修行者远离执着，迈向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

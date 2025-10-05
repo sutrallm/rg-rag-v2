@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE EIGHTFOLD PATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is achieved through diligent practice of the Noble Eightfold Path as the direct cause of awakening.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

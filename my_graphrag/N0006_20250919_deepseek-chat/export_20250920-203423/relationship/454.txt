@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行者的终极目标是证得涅槃，彻底断除一切烦恼与痛苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

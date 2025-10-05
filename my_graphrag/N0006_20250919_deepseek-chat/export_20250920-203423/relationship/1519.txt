@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIE PAN</source_entity>
+    <target_entity>JUE WU</target_entity>
+    <relationship_description>Nie Pan is the realization of Jue Wu, where ultimate peace and freedom are achieved.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

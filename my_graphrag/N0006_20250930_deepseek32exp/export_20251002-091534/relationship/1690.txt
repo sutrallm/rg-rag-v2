@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>通过精进修行能够证得禅定成就。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

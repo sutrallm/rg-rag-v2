@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Wisdom directly facilitates mental liberation through insight into impermanence and non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

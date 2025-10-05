@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is the defining attribute of a sage, developed through insight and realization.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

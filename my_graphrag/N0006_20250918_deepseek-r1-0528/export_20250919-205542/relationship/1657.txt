@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Diligent practice enables mastery of meditation by developing focused awareness and concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

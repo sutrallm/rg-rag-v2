@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE HOLY ONE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The holy one possesses ultimate wisdom, enabling complete understanding of reality and freedom from attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

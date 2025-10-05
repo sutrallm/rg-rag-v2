@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CYCLE OF BIRTH AND DEATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation represents freedom from the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

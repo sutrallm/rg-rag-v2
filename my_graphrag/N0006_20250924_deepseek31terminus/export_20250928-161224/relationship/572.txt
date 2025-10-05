@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>精进能帮助修行者真正主宰心念。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

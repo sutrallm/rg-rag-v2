@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT TO PERCEPTIONS</source_entity>
+    <target_entity>SENSORY PLEASURES</target_entity>
+    <relationship_description>Non-attachment to perceptions provides the fundamental wisdom to avoid being deceived by sensory pleasures.</relationship_description>
+    <relationship_strength>2</relationship_strength>
+</relationship>

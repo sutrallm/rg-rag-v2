@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实修</source_entity>
+    <target_entity>观呼吸</target_entity>
+    <relationship_description>实修当从观呼吸入手，观呼吸是实修的方法要点。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

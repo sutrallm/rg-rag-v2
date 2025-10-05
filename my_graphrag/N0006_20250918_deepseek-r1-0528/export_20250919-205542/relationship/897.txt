@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>世间无常本质</target_entity>
+    <relationship_description>智慧 allows perception of 世间无常本质 (the impermanent nature of phenomena).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

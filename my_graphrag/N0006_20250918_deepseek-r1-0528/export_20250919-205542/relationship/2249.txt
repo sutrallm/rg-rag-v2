@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ESSENTIAL PITH OF ALL DHARMAS</source_entity>
+    <target_entity>PRACTICAL ATTITUDE BEYOND DUALITY</target_entity>
+    <relationship_description>The non-dual principle directly enables the practice attitude of not clinging to merit/fault distinctions, providing its philosophical basis.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

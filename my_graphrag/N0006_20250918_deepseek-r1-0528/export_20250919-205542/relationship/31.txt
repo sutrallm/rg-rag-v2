@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM OF NON-ATTACHMENT</source_entity>
+    <target_entity>TRUE LIBERATION STATE</target_entity>
+    <relationship_description>This wisdom leads to liberation by eliminating bondage through detachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

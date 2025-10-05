@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧观照</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>智慧观照 enables practitioners to understand the nature of 苦 (suffering) through systematic observation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

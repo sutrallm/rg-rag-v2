@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>昏沉</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>昏沉和散乱是修行过程中常见的两种障碍，需分别克服。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

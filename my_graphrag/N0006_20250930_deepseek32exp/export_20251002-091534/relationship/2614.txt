@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Practitioners who engage in meditation can achieve mental liberation, freeing their minds from defilements and gaining insight into the impermanent nature of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NOBLE PRACTITIONERS</target_entity>
+    <relationship_description>Liberation is attained by noble practitioners who embody moral discipline and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

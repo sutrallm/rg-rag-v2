@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>八正道是智者所护持的究竟归宿和实践方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

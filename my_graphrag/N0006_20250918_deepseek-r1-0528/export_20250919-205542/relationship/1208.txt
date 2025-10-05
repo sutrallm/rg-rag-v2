@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>OBSERVING CONSCIOUSNESS</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Observing consciousness reveals desire's illusory nature, enabling its elimination through direct insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

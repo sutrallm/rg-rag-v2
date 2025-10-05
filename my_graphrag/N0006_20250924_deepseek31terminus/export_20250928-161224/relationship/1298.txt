@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>Wise people (智者) are not overcome by afflictions (烦恼).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NAME AND FORM</target_entity>
+    <relationship_description>Wisdom is used to observe the arising and ceasing of Name and Form.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

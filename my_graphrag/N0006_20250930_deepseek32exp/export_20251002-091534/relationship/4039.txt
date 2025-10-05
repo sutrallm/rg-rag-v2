@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>唯有持续实践禅定（精进）方能真正驾驭心念</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

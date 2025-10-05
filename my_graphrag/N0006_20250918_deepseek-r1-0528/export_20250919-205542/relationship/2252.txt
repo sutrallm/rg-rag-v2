@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NATURE OF KLESHAS AND BODHI</source_entity>
+    <target_entity>PRACTICAL ATTITUDE BEYOND DUALITY</target_entity>
+    <relationship_description>Understanding the inherent unity of affliction/enlightenment naturally eliminates dualistic perceptions of faults/merits to be eliminated/acquired.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

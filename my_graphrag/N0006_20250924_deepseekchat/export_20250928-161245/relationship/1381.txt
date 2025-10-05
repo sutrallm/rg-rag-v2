@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行道路</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行道路的終極目標是徹底覺知五蘊虛幻本質，到達不生不滅的涅槃彼岸。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

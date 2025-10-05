@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ENLIGHTENED BEING</target_entity>
+    <relationship_description>Liberation constitutes the perfected state of an enlightened being—freed from all fetters, dualities, and residual traces of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

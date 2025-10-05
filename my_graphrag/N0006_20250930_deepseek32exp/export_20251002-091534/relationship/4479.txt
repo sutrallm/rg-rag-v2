@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT AWARENESS</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Right awareness is used to tame and correct the restless mind, bringing it back to proper focus and clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

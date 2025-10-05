@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>禅定是戒定慧中修行禅定的一部分，用于降伏心之波动。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEARING TRUE DHARMA</source_entity>
+    <target_entity>SUBTLE WISDOM</target_entity>
+    <relationship_description>Hearing and accepting true Dharma generates profound wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

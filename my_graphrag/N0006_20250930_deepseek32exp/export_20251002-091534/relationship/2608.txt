@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Ultimate liberation requires the complete eradication of ignorance along with craving and conceit, destroying all structures of affliction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

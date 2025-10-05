@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧(WISDOM)</source_entity>
+    <target_entity>解脱者(LIBERATED BEING)</target_entity>
+    <relationship_description>Perfecting wisdom through practice is a defining characteristic and cause of becoming a liberated being.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

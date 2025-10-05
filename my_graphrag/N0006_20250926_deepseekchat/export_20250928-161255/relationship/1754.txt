@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>禅定是禅修的核心修炼方法，修行者通过专注于内心的止观修炼来达到解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

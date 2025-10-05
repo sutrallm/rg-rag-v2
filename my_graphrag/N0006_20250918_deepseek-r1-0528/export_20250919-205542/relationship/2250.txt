@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ESSENTIAL PITH OF ALL DHARMAS</source_entity>
+    <target_entity>TRANSCENDENT STATE OF THE AWAKENED</target_entity>
+    <relationship_description>Realization of the affliction-enlightenment unity is the prerequisite for achieving the described transcendent state of undisturbed awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

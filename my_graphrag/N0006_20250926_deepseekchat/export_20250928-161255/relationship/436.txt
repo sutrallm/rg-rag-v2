@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>智慧与禅定相辅相成，共同导向烦恼的彻底止息，禅定是智慧的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PURIFICATION</target_entity>
+    <relationship_description>Meditation purifies the mind by refining consciousness and removing impurities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SERENE SAMADHI</source_entity>
+    <target_entity>FUNDAMENTAL AFFLICTIONS</target_entity>
+    <relationship_description>Serene Samadhi, achieved through diligent cultivation, possesses the power to sever the roots of the Fundamental Afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

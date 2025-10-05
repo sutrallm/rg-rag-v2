@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Non-attachment is the true abode for the practitioner as explicitly stated in section 4 of the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

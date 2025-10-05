@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH OF LIBERATION</source_entity>
+    <target_entity>FLOOD OF BIRTH AND DEATH</target_entity>
+    <relationship_description>The Path of Liberation is the means to cross the Flood of Birth and Death, the cycle of samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

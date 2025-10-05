@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WRONG_VIEW</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The erroneous view that the body is the self is a fundamental fallacy leading to suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

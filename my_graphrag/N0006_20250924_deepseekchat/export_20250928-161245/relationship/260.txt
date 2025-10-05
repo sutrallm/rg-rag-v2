@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是达到解脱的最终手段，通过彻见诸法实相，修行者不再被现象迷惑，获得真正的自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHI XIANG</source_entity>
+    <target_entity>JIE TUO DAO</target_entity>
+    <relationship_description>Shi Xiang is the ultimate realization of the Jie Tuo Dao, where one sees the true nature of phenomena and attains liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

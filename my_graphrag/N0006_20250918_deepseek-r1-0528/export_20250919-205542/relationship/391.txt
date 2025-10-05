@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_CONCENTRATION_TECHNIQUE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>This technique directly subdues afflictions and distracting thoughts, as stated in the analogy comparing it to a craftsman's device controlling movements to achieve stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

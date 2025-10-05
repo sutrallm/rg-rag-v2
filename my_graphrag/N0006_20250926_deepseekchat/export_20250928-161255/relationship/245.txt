@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Negligence in practice leads to distraction and creates new suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

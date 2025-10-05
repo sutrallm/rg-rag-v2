@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>婆罗门</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>真实的婆罗门指已摧毁一切烦恼的修行成就者，即圣者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

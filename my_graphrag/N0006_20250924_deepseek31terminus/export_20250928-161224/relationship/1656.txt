@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>A SAGE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>A sage is a person who has transcended suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

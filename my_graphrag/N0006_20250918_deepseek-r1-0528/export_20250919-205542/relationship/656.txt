@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FULL LIBERATION</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Full liberation represents the complete eradication of defilements and their root causes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

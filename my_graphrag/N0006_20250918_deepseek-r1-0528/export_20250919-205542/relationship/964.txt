@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_EFFORT</source_entity>
+    <target_entity>TRUE_DHARMA</target_entity>
+    <relationship_description>Diligent effort involves persistent application of true dharma in practical actions</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

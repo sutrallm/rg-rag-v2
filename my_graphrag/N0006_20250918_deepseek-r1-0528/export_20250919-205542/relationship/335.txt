@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>GODS</target_entity>
+    <relationship_description>Cultivators are revered by gods for their virtue and wisdom attained through diligent practice and liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Failure to guard sensory faculties causes mental impurities to accumulate like dust</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

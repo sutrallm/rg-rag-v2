@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Sage practices meditation diligently to cultivate mental stillness and insight towards liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

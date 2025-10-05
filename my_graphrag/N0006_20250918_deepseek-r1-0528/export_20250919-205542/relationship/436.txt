@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>业报成果</target_entity>
+    <relationship_description>达到心解脱的修行者脱离对业报成果的渴爱和执着，超越感官领域的系缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

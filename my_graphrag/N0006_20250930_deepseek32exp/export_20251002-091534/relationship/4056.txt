@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>In ultimate liberation, no new karma is generated and old karma is extinguished like fire without fuel.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

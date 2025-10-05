@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>STAGES_OF_ENLIGHTENMENT</target_entity>
+    <relationship_description>Saints embody one of the Stages of Enlightenment (Sotapanna, Sakadagami, Anagami, Arhat) as milestones of spiritual liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

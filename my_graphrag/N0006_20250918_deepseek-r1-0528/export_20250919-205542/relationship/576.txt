@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHMENT AND PURITY</source_entity>
+    <target_entity>UNSTAINED MIND</target_entity>
+    <relationship_description>Mastering detachment and purity directly enables the attainment of an unstained mind free from defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

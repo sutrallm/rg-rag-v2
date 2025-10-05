@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Diligence is manifested through the constant maintenance of mindfulness in all situations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>感官欲乐</target_entity>
+    <relationship_description>动摇不安的心总是追逐感官欲乐，但已被调伏的心能带来真实安乐。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

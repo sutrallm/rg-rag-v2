@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>中道强调不执着于有或无，是对执着的一种超越。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

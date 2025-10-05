@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT CULTIVATION</source_entity>
+    <target_entity>TRUE DHARMA</target_entity>
+    <relationship_description>Diligent cultivation involves following the true Dharma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

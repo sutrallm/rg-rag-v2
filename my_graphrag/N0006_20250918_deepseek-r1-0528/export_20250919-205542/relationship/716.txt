@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT FOR LIBERATION</source_entity>
+    <target_entity>SAGE TRANSCENDENT STATE</target_entity>
+    <relationship_description>Attaining liberation through non-attachment culminates in the sage's transcendent state. The text describes this as the final stage where freedom from afflictions and impermanence wisdom leads to an unshakeable, pure dwelling.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

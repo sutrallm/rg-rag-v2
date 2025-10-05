@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定中断(BREAK IN CONCENTRATION)</source_entity>
+    <target_entity>散乱心(DISTRACTED MIND)</target_entity>
+    <relationship_description>A break in concentration represents the resurgence or vulnerability to the state of distracted mind.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners seek and work toward achieving liberation through their spiritual cultivation and practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

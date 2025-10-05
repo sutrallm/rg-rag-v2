@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JIE TUO DAO</target_entity>
+    <relationship_description>Chan Ding is a crucial component of the Jie Tuo Dao, as it develops the concentration needed for deeper insights into the nature of reality.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

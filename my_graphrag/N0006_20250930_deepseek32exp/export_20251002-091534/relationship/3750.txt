@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Practitioners can achieve ultimate liberation by destroying all mental fetters and ceasing karma creation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

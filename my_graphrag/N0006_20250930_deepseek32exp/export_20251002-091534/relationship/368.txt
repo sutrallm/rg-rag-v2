@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观双运</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>通过止观双运的修持方法，修行者最终能够证得寂灭涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

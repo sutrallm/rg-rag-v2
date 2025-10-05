@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>业行</target_entity>
+    <relationship_description>解脱者不再造作新的业行，过去累积的业力也无法生长。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

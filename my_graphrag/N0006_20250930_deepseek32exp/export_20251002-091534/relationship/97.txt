@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>SUMMERU MOUNTAIN</target_entity>
+    <relationship_description>The wisdom of one who has reached ultimate liberation is as immovable as Mount Sumeru.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

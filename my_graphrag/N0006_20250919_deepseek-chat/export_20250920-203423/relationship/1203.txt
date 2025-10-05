@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>证悟</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>证悟是修行者断尽烦恼、达到解脱的境界，内心平静安详，不为生死所动。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

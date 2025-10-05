@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>专注修行能消解懈怠等烦恼障碍。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Heedlessness creates favorable conditions for craving (and other unwholesome states) to grow and flourish.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者是實踐禪定的主體，通過禪定達到修行目標。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

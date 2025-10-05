@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>OBJECT OF OBSERVATION</target_entity>
+    <relationship_description>Concentration requires an Object of Observation for the mind to adhere to during focused practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

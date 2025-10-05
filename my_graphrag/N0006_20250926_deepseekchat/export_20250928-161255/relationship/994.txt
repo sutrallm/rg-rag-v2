@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟解脫</source_entity>
+    <target_entity>聖者境界</target_entity>
+    <relationship_description>究竟解脫是聖者境界的最終體現，超越一切繫縛。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>愚者</target_entity>
+    <relationship_description>智者与愚者在体悟真理的能力上形成鲜明对比。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

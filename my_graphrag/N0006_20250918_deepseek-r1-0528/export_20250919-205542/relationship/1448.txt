@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND FREE FROM BONDS</source_entity>
+    <target_entity>ACHIEVE THE HOLY PATH</target_entity>
+    <relationship_description>A mind free from bonds directly enables the achievement of the holy path by fostering a state of unhindered cultivation, which leads to tranquility and saintly liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

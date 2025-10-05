@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPONTANEOUSLY_BORN_GARUDA</source_entity>
+    <target_entity>BEAUTY</target_entity>
+    <relationship_description>Spontaneously-born garudas are characterized by beauty per the Buddha's discourse.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

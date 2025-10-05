@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Practitioners aim to attain Nirvana, the ultimate state of fearlessness, transcendence of dualistic concepts, and cessation of afflictions and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

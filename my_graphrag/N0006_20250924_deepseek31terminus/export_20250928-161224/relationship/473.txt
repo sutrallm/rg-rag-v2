@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>智慧是经由禅修获得内心解脱后产生的。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

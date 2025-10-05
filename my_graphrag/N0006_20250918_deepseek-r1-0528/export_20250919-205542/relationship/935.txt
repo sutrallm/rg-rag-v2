@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT EXERTION</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Diligent Exertion is the driving force enabling continuous practice and mastery of meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

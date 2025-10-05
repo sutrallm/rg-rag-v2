@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Awareness prevents defilements from arising.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

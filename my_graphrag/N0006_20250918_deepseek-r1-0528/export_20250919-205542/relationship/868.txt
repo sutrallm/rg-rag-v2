@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>METHOD OF ABIDING</target_entity>
+    <relationship_description>Non-negligence is the foundational principle enabling mastery of the abiding method.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

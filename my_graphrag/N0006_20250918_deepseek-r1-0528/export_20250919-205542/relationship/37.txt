@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL OBSERVATION</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Through mindful observation, ignorance and the darkness obscuring truth are eliminated per the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

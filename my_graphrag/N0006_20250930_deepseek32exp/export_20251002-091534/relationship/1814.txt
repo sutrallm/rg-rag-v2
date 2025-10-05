@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Ultimate liberation is achieved by severing all craving and destroying the root of the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

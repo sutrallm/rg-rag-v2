@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED INDUCED CALAMITY</source_entity>
+    <target_entity>DILIGENCE BREAKS BONDAGE</target_entity>
+    <relationship_description>The principle of greed's negative consequences serves as a warning that motivates the adoption of diligent practice to overcome bondage. The text positions greed as the problem requiring diligence as the solution, forming a logical progression in the cultivation path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

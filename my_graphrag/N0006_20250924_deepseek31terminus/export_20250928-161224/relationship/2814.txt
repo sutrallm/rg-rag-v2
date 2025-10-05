@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱彼岸</target_entity>
+    <relationship_description>The wise use 智慧 to reach the 解脱彼岸.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>修行者应遵循中道修行，不执着世间欲乐亦不追求苦行</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

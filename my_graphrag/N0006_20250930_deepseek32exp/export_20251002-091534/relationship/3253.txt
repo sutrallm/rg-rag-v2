@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>In liberation, practitioners no longer generate new karma that would lead to rebirth in samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

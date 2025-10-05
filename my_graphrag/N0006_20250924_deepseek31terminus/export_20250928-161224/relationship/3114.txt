@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE-FREE STATE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The desire-free state progresses toward nirvana.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

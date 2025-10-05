@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STABLE MIND</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Stable mind facilitates liberation by enabling non-reactive perception of sensory phenomena without attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

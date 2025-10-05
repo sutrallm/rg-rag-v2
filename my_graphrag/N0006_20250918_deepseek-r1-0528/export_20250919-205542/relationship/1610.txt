@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Practitioners actively engage in Concentration to achieve mental stabilization.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

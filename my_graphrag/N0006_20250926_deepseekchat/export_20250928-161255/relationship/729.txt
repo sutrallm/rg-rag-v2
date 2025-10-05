@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱的境界</source_entity>
+    <target_entity>解脱的最终目标</target_entity>
+    <relationship_description>解脱的境界是实现解脱最终目标后的状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

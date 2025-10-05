@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECT TRAITS OF THE SAINT</source_entity>
+    <target_entity>DILIGENCE AS ANTIDOTE TO LAZINESS</target_entity>
+    <relationship_description>Diligence without negligence (the core of this principle) is explicitly listed as one of the essential perfected traits of the saint.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

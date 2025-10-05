@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>究竟解脱</target_entity>
+    <relationship_description>禅修的终极目标是究竟解脱，达到心如虚空无所染着的境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

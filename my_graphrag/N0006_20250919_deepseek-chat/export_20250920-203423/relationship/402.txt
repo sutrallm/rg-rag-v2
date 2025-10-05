@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执法者</source_entity>
+    <target_entity>判决</target_entity>
+    <relationship_description>执法者负责作出公正无误的判决。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

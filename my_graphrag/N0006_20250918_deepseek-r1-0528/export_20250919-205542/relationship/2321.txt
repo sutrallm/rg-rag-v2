@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED MIND</source_entity>
+    <target_entity>MISTAKEN VIEWS</target_entity>
+    <relationship_description>The Liberated Mind state involves complete abandonment of Mistaken Views.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

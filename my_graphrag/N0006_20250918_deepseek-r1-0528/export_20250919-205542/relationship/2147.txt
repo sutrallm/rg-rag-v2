@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN JIETUO</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>XIN JIETUO arises from overcoming FANNAO, leading to non-attachment even amidst effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

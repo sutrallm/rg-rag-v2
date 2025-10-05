@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Meditation fosters inner calm and stability, a precursor to and manifestation of non-attachment.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

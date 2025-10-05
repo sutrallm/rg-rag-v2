@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT MINDFULNESS</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>Right mindfulness is exercised through vigilant guarding of the six senses to maintain mental clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

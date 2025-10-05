@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BRIGHT WISDOM</source_entity>
+    <target_entity>ULTIMATE TRUTH</target_entity>
+    <relationship_description>Attainment of bright wisdom leads directly to realizing ultimate truth through seeing reality's non-attachment nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

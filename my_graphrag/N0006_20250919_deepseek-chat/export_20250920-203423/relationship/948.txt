@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>GOLD_REFINER</target_entity>
+    <relationship_description>Practitioners are likened to gold refiners in purifying their minds from desires and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

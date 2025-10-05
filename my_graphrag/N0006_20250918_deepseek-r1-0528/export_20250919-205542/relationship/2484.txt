@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>DECLINE</target_entity>
+    <relationship_description>Maintaining the precepts avoids the decline and negativity caused by unethical actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

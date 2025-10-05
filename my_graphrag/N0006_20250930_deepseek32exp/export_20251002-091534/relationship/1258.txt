@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧 (wisdom) is the third component of the threefold training of 戒定慧 (morality, concentration, wisdom).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>PATIENCE WITH THE UNPRODUCED NATURE</target_entity>
+    <relationship_description>Ultimate liberation is characterized by attainment of patience with the unproduced nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

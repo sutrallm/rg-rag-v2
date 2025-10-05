@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Sustained awareness acts as a defense mechanism, blocking the intrusion of afflictions during daily activities and engagements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

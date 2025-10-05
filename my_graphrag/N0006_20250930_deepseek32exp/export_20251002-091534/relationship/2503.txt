@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Mindfulness is used to observe the five aggregates and understand their nature, leading to relinquishment of attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

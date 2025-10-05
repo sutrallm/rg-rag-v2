@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自制</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>六根や衝動的な感情への自制が解脱達成の必須条件であるという実践的関係</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

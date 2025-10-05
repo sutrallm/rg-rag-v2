@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT (SHENG ZHE)</source_entity>
+    <target_entity>AFFLICTION (FAN NAO)</target_entity>
+    <relationship_description>A saint has severed all afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

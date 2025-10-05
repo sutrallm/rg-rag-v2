@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Threefold Training develops the ethical-meditative-wisdom foundations required for Liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

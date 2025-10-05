@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE WISDOM</source_entity>
+    <target_entity>DEPENDENT ARISING</target_entity>
+    <relationship_description>Ultimate wisdom involves thoroughly seeing the nature of dependent arising and understanding the truth of phenomena's lack of inherent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

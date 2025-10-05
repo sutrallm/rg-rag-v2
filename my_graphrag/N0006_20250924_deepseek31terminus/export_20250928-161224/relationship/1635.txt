@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>THE MIND</target_entity>
+    <relationship_description>Meditative concentration is the focused and aware state of the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

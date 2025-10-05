@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE PERSON</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Wise persons actively cultivate diligence as their defining practice to avoid suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

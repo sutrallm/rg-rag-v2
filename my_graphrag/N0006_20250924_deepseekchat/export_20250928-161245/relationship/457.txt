@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者以智慧为基础，断尽烦恼，超越生死轮回。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

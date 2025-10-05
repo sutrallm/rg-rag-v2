@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON-ATTACHMENT TO PERCEPTIONS</target_entity>
+    <relationship_description>Liberation inherently involves the realization and practice of non-attachment to all perceptions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

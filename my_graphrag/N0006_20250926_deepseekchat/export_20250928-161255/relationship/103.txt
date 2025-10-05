@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHAMADHI</source_entity>
+    <target_entity>PURIFICATION OF THE MIND</target_entity>
+    <relationship_description>Shamadhi is a means to purify the mind by focusing attention and maintaining mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

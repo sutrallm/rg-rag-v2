@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must maintain diligence in their spiritual practice to achieve liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

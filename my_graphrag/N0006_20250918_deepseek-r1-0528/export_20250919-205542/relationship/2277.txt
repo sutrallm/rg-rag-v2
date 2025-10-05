@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE-MINDED PRACTITIONER</source_entity>
+    <target_entity>USELESS ACTIONS</target_entity>
+    <relationship_description>The practitioner consciously avoids meaningless behaviors to preserve mental purity and focus on wisdom development.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

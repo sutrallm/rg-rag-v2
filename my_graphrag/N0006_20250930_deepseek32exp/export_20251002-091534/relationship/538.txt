@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>The Three Studies framework advances to the cultivation of meditation and concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

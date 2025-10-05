@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JI JING</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Ji Jing is a form of Chan Ding practiced in tranquility, allowing practitioners to understand Dharma.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

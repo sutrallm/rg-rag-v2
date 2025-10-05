@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGES</source_entity>
+    <target_entity>EIGHT WINDS</target_entity>
+    <relationship_description>Sages remain unmoved by the eight worldly winds, demonstrating their attained liberation and non-attachment as described.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

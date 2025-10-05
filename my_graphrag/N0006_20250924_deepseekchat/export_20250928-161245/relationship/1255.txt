@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>持戒清净者心无愧疚，自然能生定发慧，获得智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

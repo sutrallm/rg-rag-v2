@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>The mind is the subject that engages in Zen meditation to achieve concentration and overcome afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

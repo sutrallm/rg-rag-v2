@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PRACTITIONER</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Spiritual practitioners engage in diligent practice as the means to progress toward liberation and overcome spiritual obstacles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

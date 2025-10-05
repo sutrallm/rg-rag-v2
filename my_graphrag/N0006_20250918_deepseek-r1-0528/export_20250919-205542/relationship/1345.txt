@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPLETE LIBERATION</source_entity>
+    <target_entity>MENTAL FORMATIONS</target_entity>
+    <relationship_description>Complete liberation extinguishes all mental formations and conditioned thought patterns.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

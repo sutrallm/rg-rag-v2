@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>DISCIPLINE and WISDOM are cultivated together as essential qualities of the PERFECTED PRACTITIONER.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

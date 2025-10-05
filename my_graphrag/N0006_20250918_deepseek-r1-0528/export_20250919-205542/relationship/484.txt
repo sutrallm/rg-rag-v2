@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>懈堕</source_entity>
+    <target_entity>死魔</target_entity>
+    <relationship_description>懈堕 (sloth) leads practitioners to fall into the power of 死魔 (the demon of death).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

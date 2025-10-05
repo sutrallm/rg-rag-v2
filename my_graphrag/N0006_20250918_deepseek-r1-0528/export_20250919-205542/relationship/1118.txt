@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE_CONCENTRATION</source_entity>
+    <target_entity>INNER_PURITY</target_entity>
+    <relationship_description>Meditative concentration establishes and deepens inner purity through sustained focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners maintain constant diligence in their practice to penetrate the darkness of ignorance and reach the state of wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

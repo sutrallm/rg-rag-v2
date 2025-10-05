@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>精进 involves the quality of 不放逸 (vigilance and non-negligence).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

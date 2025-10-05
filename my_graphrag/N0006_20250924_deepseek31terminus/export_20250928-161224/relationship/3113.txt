@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>The Dharma provides the instructions for diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

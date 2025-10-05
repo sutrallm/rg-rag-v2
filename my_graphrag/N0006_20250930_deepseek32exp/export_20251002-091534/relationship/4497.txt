@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PRACTITIONER</source_entity>
+    <target_entity>MORAL DISCIPLINE</target_entity>
+    <relationship_description>Spiritual practitioners maintain moral discipline as part of their spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

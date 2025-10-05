@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>业</target_entity>
+    <relationship_description>Liberated beings no longer create new karmic actions and old karma is exhausted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

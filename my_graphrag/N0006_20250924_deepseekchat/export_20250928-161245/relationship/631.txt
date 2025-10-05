@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>修行者透過禪修深刻體悟世間的無常本質。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

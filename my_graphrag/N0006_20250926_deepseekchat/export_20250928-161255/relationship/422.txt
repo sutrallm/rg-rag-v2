@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHI</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Wu Zhi facilitates Jie Tuo by enabling practitioners to perceive the impermanence of phenomena and avoid attachment, leading to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

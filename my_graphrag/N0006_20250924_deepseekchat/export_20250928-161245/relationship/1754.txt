@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>戒律帮助修行者保持清净无染，安住于寂静之中。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

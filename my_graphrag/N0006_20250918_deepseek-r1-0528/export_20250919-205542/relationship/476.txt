@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>无著</target_entity>
+    <relationship_description>解脱 (liberation) is characterized fundamentally by 无著 (non-attachment). Non-attachment is the state of being liberated. Liberation achieves non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

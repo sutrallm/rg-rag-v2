@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>消除欲念的根本</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>消除欲念的根本指出固执自我主张会导致烦恼增长，两者存在因果关系，断欲念可消烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

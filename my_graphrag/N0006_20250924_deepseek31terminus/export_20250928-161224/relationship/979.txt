@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>Meditation leads to the attainment of a peaceful and quiet state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

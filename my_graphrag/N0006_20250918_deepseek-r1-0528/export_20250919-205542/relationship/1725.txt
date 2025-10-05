@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Wisdom enables understanding of impermanence, leading directly to non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

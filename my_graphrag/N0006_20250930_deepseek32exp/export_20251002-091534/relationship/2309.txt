@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>行法</target_entity>
+    <relationship_description>修行者通过持续观察行法的生灭来认清苦、无常、无我的本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

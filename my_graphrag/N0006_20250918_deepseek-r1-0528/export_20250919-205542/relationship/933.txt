@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Liberation is characterized by the wisdom that realizes emptiness and leads to non-attachment; it is the ultimate expression of wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

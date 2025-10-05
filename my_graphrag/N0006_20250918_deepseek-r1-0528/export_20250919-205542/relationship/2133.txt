@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>SPIRITUAL-AUTONOMY</target_entity>
+    <relationship_description>Vigilance protects and preserves spiritual autonomy by preventing disturbances from overcoming the mind's sovereignty.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>STREAM-ENTERER</target_entity>
+    <relationship_description>Understanding the Six Sense Bases defines the Stream-Enterer stage of enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PRESENT AWARENESS</target_entity>
+    <relationship_description>Meditation develops present awareness by training the mind to remain fully attentive to the current moment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

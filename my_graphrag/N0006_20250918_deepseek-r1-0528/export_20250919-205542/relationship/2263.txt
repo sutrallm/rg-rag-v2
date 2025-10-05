@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ACTUAL_PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Actual practice leads to the holy fruit of liberation (圣果), attainable solely through experiential cultivation rather than nominal discourse.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

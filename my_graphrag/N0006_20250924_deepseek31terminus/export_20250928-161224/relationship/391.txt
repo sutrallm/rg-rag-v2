@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正察</target_entity>
+    <relationship_description>保持正察是禅定修行的一个重要方面。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

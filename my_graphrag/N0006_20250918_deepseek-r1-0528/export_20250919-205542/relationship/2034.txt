@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation entails freedom from the Three Poisons (greed, hatred, delusion).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

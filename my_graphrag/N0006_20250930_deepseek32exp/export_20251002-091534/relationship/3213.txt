@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>EIGHTFOLD PATH</target_entity>
+    <relationship_description>Practitioners follow the Eightfold Path as the prescribed method for spiritual development and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

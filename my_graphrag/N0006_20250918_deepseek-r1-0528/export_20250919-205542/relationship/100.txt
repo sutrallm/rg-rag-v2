@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>VIRTUE_AND_WISDOM</target_entity>
+    <relationship_description>Saints possess perfected virtue and wisdom which form the foundation for their liberation from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

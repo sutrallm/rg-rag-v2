@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATED BEING</target_entity>
+    <relationship_description>Upholding precepts enables the development of liberated beings through disciplined practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

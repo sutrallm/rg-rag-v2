@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>精进使修行者持续不懈怠地修行，掌握禅定之法，在修行道路上不断进步。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Awareness enables recognition of phenomena leading to non-attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行者通过体证无我真理达到无动的涅槃境界，涅槃是修行者的终极成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

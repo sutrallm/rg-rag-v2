@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行的價值 (VALUE OF DILIGENT PRACTICE)</source_entity>
+    <target_entity>戒慎 (PRUDENCE)</target_entity>
+    <relationship_description>Diligent practice enables practitioners to understand death's terror and cultivate prudence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

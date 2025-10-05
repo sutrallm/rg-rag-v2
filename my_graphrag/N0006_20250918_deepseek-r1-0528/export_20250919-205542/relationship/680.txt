@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA'S TEACHINGS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Correct application of the Buddha's teachings eliminates defilements, leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

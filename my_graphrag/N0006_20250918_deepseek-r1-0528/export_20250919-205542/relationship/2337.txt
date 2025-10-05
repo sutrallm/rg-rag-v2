@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Awakened being has completely eradicated root causes of mental disturbances</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

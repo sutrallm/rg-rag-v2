@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>Liberation includes attaining equanimity, where the mind has no disturbances, similar to still water.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>长者子</source_entity>
+    <target_entity>妇</target_entity>
+    <relationship_description>新婚夫妇，因误解瓮中的影子而发生争吵。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

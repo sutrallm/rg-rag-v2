@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过安住寂静减少干扰，使心念更易专注。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

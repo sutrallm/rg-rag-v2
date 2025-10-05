@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Practitioners should sever the flow of craving to achieve liberation from the cycle of birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

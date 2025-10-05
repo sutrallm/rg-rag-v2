@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Wisdom gained through meditation enables practitioners to achieve ultimate liberation by completely eradicating craving, conceit, and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

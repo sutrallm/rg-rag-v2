@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>HEART</target_entity>
+    <relationship_description>A wise person uses wisdom to guard and contemplate the heart.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

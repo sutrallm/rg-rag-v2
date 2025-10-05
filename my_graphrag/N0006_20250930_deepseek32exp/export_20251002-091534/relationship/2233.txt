@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRELESSNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Desirelessness through abandoning attachment to physical form and senses leads to the complete cessation of suffering characteristic of nirvana.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

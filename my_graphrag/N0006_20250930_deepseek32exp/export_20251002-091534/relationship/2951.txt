@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>死魔</target_entity>
+    <relationship_description>通过恒常精进可以避免堕入死魔的领域。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

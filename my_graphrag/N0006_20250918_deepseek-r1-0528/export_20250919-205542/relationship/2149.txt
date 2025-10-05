@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIELV</target_entity>
+    <relationship_description>SHENGZHE embodies perfected JIELV (ethical discipline) to maintain tranquility and eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

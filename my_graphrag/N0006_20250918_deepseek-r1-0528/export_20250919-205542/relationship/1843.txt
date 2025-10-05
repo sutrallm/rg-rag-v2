@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONSCIOUSNESS ACTIVITIES</source_entity>
+    <target_entity>FOUR FOUNDATIONS OF MINDFULNESS</target_entity>
+    <relationship_description>Observation of consciousness activities forms the third pillar in the Four Foundations framework.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

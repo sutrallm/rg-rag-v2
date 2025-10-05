@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUSAL_CONDITIONS</source_entity>
+    <target_entity>OPPORTUNITY_FOR_PRACTICE</target_entity>
+    <relationship_description>Favorable causal conditions create decisive opportunities for dharma practice</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

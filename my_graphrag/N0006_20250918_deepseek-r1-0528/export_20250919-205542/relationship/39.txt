@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LAZINESS</target_entity>
+    <relationship_description>Meditation practice explicitly enables transcending laziness, as directly stated in the description of the focused mind state.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

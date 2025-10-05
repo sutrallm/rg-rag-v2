@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>善法</target_entity>
+    <relationship_description>修行者修習善法，消除惡業，帶來福報與安樂，為解脫之道打下基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WHOLESOME TEACHINGS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practicing wholesome teachings leads to liberation from the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

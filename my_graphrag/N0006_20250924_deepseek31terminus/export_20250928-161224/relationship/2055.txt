@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>调伏心念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>调伏心念是禅定修行中实现专注和觉知的具体实践方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

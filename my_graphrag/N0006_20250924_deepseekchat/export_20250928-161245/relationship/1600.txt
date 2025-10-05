@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>觉醒</target_entity>
+    <relationship_description>修行者通过禅定达到觉醒的境界，超越生死流转。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

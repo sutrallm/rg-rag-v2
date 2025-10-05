@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE TATHAGATA'S TEACHINGS</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Following the Tathagata's Teachings diligently allows one to overcome Death (spiritual stagnation).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

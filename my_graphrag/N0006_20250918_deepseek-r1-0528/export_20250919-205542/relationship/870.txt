@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>CRAVING AND ATTACHMENT</target_entity>
+    <relationship_description>Mind liberation fundamentally severs craving and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

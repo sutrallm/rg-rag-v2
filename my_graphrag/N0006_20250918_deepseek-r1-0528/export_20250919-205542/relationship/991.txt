@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>結構處理</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>The 結構處理 (structural processing) involved modifying the presentation of the original teachings where concepts like 禪定 were originally conveyed through metaphors and anecdotes. Its goal was to clarify teachings like 禪定.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

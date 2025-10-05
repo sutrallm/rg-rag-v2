@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>禅定通过精进得以深化和体证，精进是禅定修行的必要条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

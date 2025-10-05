@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOCAL_ATTENTION</source_entity>
+    <target_entity>WILDERNESS</target_entity>
+    <relationship_description>Achieves freedom comparable to beasts traversing distraction-free wilderness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

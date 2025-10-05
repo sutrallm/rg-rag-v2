@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>佛陀是修行者的导师，教导修行者通过戒律、禅定和智慧寻求解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

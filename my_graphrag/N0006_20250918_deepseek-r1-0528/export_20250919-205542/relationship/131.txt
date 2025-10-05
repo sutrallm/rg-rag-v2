@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Liberation frees practitioners from attachment by dissolving clinging to states and outcomes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

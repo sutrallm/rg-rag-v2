@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Ignorance of reality's true nature is a fundamental cause of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死轮回</source_entity>
+    <target_entity>无执着</target_entity>
+    <relationship_description>无执着的智慧能切断生死轮回的链条。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

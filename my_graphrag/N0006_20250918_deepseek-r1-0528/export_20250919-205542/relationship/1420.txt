@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼根源</source_entity>
+    <target_entity>不善念头</target_entity>
+    <relationship_description>烦恼根源 is identified as the fundamental source from which 不善念头 arise and grow like toxic seeds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

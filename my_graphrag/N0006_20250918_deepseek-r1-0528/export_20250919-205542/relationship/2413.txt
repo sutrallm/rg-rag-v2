@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_PEACE</source_entity>
+    <target_entity>ULTIMATE_AUSPICIOUSNESS</target_entity>
+    <relationship_description>Inner tranquility forms a core constituent of the supreme state of fulfillment described.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

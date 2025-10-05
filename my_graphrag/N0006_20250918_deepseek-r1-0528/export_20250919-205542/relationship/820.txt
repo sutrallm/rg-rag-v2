@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行者以智慧洞察抉择，辅助持戒与修定。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

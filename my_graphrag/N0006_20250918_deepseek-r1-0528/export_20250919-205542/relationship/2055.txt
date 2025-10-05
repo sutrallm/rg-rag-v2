@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_DELUSIVE_KNOWLEDGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-Delusive Knowledge leads directly to the cessation of defilements and ultimate Liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

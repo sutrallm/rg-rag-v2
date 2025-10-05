@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>圣人通过智慧修习达至觉悟。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

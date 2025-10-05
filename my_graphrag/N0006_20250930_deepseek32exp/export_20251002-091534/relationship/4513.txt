@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>证果</source_entity>
+    <target_entity>三轮体空</target_entity>
+    <relationship_description>证果 is characterized by 三轮体空 (emptiness of the three spheres) without creating or seeking.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

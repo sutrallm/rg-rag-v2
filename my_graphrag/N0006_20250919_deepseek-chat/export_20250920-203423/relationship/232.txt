@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>感官享受</target_entity>
+    <relationship_description>修行者应避免感官享受，通过不执着于此，远离欲望的干扰。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

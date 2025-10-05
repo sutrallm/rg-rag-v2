@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED STATE</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>The liberated state is characterized by the complete extinction of craving.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

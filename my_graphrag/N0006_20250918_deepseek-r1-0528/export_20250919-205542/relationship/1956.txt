@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUARDING THE MIND</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Guarding the Mind is equated with severing Negligence, constituting the true practice of Zen Concentration.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED MIND</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The ultimate outcome of the Liberated Mind state is Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

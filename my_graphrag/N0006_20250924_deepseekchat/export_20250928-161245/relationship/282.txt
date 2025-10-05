@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHI ZHUO</source_entity>
+    <target_entity>SHI XIANG</target_entity>
+    <relationship_description>Wu Zhi Zhuo directly perceives the Shi Xiang, understanding the emptiness and dependent origination of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

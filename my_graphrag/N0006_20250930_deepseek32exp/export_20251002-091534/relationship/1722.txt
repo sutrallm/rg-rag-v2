@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>圣者是完成修行道业的成就者，已证得究竟圆满的解脱和涅槃境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

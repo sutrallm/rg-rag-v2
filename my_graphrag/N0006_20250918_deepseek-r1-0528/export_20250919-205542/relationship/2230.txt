@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE AS ANTIDOTE TO LAZINESS</source_entity>
+    <target_entity>RIGHT DHARMA</target_entity>
+    <relationship_description>Diligence explicitly entails practicing the Right Dharma as the method to overcome laziness and suffering, directly linking these concepts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

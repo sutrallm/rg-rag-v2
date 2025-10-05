@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>解脱者不被任何境界束缚，了知所有现象皆如镜花水月，这种智慧超越二元对立。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT MINDFULNESS</source_entity>
+    <target_entity>HEART</target_entity>
+    <relationship_description>Right mindfulness is the method used by the wise to rectify the heart.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

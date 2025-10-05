@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Wisdom is applied through the practice of right mindfulness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

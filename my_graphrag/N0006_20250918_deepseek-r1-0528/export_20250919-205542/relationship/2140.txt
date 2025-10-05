@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Negligence contrasts directly with diligence, as the latter overtakes the former to overcome common impediments to meditative progress.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>FASCILE TWO</target_entity>
+    <relationship_description>Fascile Two focuses on the importance of diligent practice for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

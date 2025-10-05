@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECT TRAITS OF THE SAINT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Abiding in Nirvana is explicitly described as one of the defining characteristics of a saint's perfected state in the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

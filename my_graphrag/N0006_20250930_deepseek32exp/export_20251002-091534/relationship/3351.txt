@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>COMPASSION</target_entity>
+    <relationship_description>Renunciation and compassion are complementary practices that develop detachment and loving-kindness respectively.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

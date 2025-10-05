@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>BREATH</target_entity>
+    <relationship_description>Meditation involves continuous awareness of the breath.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom represents the liberating insight component (third part) of the Threefold Training.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

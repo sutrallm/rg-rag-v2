@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Nirvana is the ultimate state of liberation achieved through the complete elimination of craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

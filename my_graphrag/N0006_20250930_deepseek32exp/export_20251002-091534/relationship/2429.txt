@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Nirvana represents the end of all life phenomena and the cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

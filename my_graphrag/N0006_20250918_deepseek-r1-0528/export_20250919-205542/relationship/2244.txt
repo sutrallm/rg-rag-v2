@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>POWER OF AWARENESS</source_entity>
+    <target_entity>CONCENTRATED MIND</target_entity>
+    <relationship_description>This power is utilized to achieve and maintain concentrated mind by restraining mental restlessness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STABILITY OF HEART-MIND (CRITICAL CAPABILITY)</source_entity>
+    <target_entity>NECESSITY OF MINDFUL VIGILANCE</target_entity>
+    <relationship_description>A stable and focused mind enables the vigilance required to guard against distractions, forming a core foundation for practice.</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

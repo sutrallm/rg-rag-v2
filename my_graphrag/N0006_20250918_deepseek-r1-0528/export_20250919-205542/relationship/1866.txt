@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Desire's cessation directly yields liberation by removing the source of mental proliferation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

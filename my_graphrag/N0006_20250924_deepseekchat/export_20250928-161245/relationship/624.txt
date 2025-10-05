@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>持戒</target_entity>
+    <relationship_description>持戒是修行的实践之一，两者皆强调不执着于外在形式。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

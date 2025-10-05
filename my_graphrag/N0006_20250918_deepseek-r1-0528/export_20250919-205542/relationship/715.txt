@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE BREAKS BONDAGE</source_entity>
+    <target_entity>NON-ATTACHMENT FOR LIBERATION</target_entity>
+    <relationship_description>Diligence in practice allows for the attainment of non-attachment, leading to true liberation. The text implies that disciplined effort is a prerequisite for freeing the mind from clinging, creating a direct causal link in the cultivation sequence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

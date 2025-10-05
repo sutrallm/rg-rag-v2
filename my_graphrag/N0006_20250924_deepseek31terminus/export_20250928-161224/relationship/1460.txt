@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-CONTROL</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Self-control is enabled by the continuous practice of right mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

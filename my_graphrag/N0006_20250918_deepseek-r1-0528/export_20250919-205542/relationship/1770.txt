@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念 (MIND)</source_entity>
+    <target_entity>真實安樂 (TRUE BLISS)</target_entity>
+    <relationship_description>Mastery over the Mind leads to the attainment of True Bliss.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

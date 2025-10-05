@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCRIPTURES</source_entity>
+    <target_entity>MEANING_OF_DHARMA</target_entity>
+    <relationship_description>Scriptural teachings enable precise understanding of dharma's essential meanings</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

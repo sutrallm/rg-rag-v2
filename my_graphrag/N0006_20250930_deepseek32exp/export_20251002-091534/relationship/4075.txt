@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ENLIGHTENED BEING</target_entity>
+    <relationship_description>Practitioners who complete the spiritual path become enlightened beings with perfect wisdom and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>想</target_entity>
+    <relationship_description>解脱 requires completely abandoning attachment to 想 (perception) as one of the five aggregates.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

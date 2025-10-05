@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts (moral discipline) and Wisdom are described as complementary qualities possessed by accomplished practitioners.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

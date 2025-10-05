@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>邪见</target_entity>
+    <relationship_description>修行者应避免邪见，以专注正念与智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

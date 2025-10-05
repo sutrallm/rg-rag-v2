@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PERFECTING SAGELY VIRTUES</target_entity>
+    <relationship_description>Practitioners cultivate Perfecting Sagely Virtues by engaging in mindful practice to sever afflictions and transcend sorrow, as detailed in the final section.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

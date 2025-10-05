@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>BONDS_OF_EXISTENCE</target_entity>
+    <relationship_description>The Three Poisons are the fundamental causes that create and maintain the bonds of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

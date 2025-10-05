@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>依照正法修行可以免于被死亡力量束缚，正法是禅定的指导原则。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

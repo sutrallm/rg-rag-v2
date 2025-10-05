@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEANING OF UNCEASING DILIGENCE</source_entity>
+    <target_entity>ERADICATING DEFILEMENTS THE HOLY WAY</target_entity>
+    <relationship_description>Unceasing diligence is the sustained effort required throughout the path to eradicate defilements and achieve cessation of suffering (the Holy Way).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

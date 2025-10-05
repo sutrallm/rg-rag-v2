@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>BRAHMIN</target_entity>
+    <relationship_description>A practitioner who is free from desires and attachments is called a Brahmin.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

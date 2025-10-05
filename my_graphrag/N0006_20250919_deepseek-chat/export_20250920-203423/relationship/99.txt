@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>Ethical discipline is essential for practitioners to attain the state of perfect peace and happiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

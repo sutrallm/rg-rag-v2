@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION PATH</target_entity>
+    <relationship_description>Meditation constitutes the foundation of the liberation path, explicitly stated in theme 5.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

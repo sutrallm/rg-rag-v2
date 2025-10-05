@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者是已完成修行道業的修行者，徹底超越輪迴苦海，達到解脫的終極狀態。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

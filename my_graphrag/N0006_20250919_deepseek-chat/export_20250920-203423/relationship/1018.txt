@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>野兽</target_entity>
+    <relationship_description>修行者被比喻为野兽，因为他们能够在安宁无干扰的环境中自由行动，摆脱贪爱与执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

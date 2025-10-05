@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>白話文轉換</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>Modern language conversion replaces terms like "afflictions" with contemporary equivalents.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧观照</target_entity>
+    <relationship_description>禅定提供的专注力是进行智慧观照的基础，两者相辅相成。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

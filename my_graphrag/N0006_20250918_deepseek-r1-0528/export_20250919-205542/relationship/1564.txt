@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>洞彻无常与苦</source_entity>
+    <target_entity>破除无明的根本</target_entity>
+    <relationship_description>洞彻无常与苦是智慧认知，破除无明的根本提出从根源斩断无明，二者构成“见地-修持”的直接递进。</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

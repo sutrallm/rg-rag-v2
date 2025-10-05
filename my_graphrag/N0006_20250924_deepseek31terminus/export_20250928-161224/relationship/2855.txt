@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪爱</source_entity>
+    <target_entity>生死流转</target_entity>
+    <relationship_description>Letting go of 贪爱 allows one to be free from the snares that lead to 生死流转.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

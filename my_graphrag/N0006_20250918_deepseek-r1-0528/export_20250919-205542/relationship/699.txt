@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARISING AND CESSATION</source_entity>
+    <target_entity>LIBERATION OF MIND</target_entity>
+    <relationship_description>Direct insight into the law of arising and cessation eliminates ignorance and facilitates complete mental liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

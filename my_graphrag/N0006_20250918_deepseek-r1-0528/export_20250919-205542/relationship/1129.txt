@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom enables liberation by illuminating the impermanent nature of phenomena and severing attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

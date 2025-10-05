@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>PROGRESS</target_entity>
+    <relationship_description>Upholding the precepts requires applying diligence and constant effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

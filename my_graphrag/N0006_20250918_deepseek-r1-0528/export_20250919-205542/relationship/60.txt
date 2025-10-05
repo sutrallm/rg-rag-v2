@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>The Death Demon exploits a scattered mind to induce peril.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

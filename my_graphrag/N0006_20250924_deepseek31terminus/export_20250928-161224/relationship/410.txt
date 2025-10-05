@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離欲者</source_entity>
+    <target_entity>世間繫縛</target_entity>
+    <relationship_description>离欲者超脱了世间繫缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

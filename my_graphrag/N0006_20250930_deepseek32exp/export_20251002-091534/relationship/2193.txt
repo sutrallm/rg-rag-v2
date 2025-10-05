@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The three studies culminate in wisdom as the final and highest achievement of the spiritual path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

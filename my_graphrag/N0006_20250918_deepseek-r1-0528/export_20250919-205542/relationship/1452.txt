@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISTRACTION AND NEGLIGENCE</source_entity>
+    <target_entity>AFFLICTIONS AND DEFILEMENTS</target_entity>
+    <relationship_description>Source inevitably causes entanglement in target.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三十七道品</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>三十七道品包括四念处等法要，通过系统实践逐步净除心垢。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

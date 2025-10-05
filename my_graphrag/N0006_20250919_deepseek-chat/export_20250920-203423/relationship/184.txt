@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>修行者的終極目標是通過修行實現解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

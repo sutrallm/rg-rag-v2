@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICS</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Adherence to ETHICS (the right path) prevents the occurrence of DISTRACTION, ensuring one remains undisturbed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

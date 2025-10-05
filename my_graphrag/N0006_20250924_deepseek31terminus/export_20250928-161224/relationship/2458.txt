@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PURITY OF PRECEPTS</target_entity>
+    <relationship_description>A Practitioner cultivates Purity of Precepts as part of their moral foundation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

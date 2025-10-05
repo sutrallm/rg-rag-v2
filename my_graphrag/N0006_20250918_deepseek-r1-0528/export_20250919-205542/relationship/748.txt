@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>MALICIOUS SPEECH</target_entity>
+    <relationship_description>Identified as a primary generative source for malicious speech according to the text's analysis of verbal toxicity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

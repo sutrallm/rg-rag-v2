@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>無我是修行者體悟的真理，通過深入觀照無我，修行者能徹底斷除執著，達到究竟涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

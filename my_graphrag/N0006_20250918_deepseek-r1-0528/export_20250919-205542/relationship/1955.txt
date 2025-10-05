@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Diligent Practice enables practitioners to transcend the bondage of Death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

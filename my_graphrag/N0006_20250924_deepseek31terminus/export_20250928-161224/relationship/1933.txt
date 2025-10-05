@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>觉悟者是已证得究竟智慧的圣者，二者都是指达到最高修行境界的个体。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE BLISS OF NIRVĀṆA</source_entity>
+    <target_entity>DESIRE REALM</target_entity>
+    <relationship_description>Explicitly states that Ultimate Bliss of Nirvāṇa transcends the bindings of the Desire Realm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NAME_AND_FORM</source_entity>
+    <target_entity>CONSCIOUSNESS</target_entity>
+    <relationship_description>When name-and-form are extinguished, consciousness ceases functioning.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

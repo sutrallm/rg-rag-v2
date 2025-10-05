@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The true practitioner engages in practice knowing the Dharma's meaning to achieve the goal of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Liberation enables unobstructed perception of impermanence by removing attachment to static concepts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

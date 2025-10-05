@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Meditation is a key practice that leads practitioners toward liberation from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CALM ABIDING AND INSIGHT</source_entity>
+    <target_entity>UNDEFILED WISDOM</target_entity>
+    <relationship_description>Unified meditative practice generates transcendental knowledge that severs suffering</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

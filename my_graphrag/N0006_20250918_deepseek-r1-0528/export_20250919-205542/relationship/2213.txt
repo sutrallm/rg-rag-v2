@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE KNOWLEDGE</source_entity>
+    <target_entity>DISPASSION</target_entity>
+    <relationship_description>True knowledge leads to dispassion by revealing the futility of craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

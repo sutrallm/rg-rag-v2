@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>佛陀弟子</target_entity>
+    <relationship_description>Enlightened beings are true disciples of the Buddha.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

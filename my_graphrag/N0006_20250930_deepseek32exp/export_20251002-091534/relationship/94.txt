@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>FAR SHORE</target_entity>
+    <relationship_description>Ultimate liberation is metaphorically described as reaching the far shore.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

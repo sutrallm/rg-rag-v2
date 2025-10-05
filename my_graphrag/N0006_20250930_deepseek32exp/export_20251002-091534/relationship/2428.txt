@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Liberation involves freedom from the cycle of rebirth with no further bodily existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

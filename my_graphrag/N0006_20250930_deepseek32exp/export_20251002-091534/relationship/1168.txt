@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>生死彼岸</target_entity>
+    <relationship_description>圣者已达生死彼岸，心无挂碍如虚空无痕。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

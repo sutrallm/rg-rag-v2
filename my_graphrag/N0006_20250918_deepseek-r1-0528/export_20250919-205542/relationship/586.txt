@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM OF LIBERATION</target_entity>
+    <relationship_description>The practitioner attains the state of wisdom and liberation by taming the mind and realizing the impermanent nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

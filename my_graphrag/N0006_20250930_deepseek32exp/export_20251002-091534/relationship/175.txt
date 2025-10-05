@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FUNDAMENTAL TEACHINGS</source_entity>
+    <target_entity>BREATH AWARENESS</target_entity>
+    <relationship_description>Fundamental teachings include the practice of continuous awareness of breath to observe phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

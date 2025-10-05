@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>修行者通过戒定慧的完整修持来断除烦恼根源，抵达无苦境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

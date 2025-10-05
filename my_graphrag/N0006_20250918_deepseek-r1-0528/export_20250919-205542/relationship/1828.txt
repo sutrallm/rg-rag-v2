@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENMENT</source_entity>
+    <target_entity>NAMA-RUPA</target_entity>
+    <relationship_description>Enlightenment brings freedom from delusory concepts of nama-rupa.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

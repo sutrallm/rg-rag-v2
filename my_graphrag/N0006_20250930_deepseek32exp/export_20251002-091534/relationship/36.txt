@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>调伏心念</target_entity>
+    <relationship_description>修行者应善调心念，当躁动之心获得调御便能带来真实安乐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

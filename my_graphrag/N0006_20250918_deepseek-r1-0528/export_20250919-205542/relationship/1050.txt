@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>ATTAINMENT OF LIBERATION</target_entity>
+    <relationship_description>Threefold Training systematically leads to the Attainment of Liberation as its ultimate outcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

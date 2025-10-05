@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE IN PRACTICE</source_entity>
+    <target_entity>SAINTLY QUALITIES</target_entity>
+    <relationship_description>Diligence in practice cultivates saintly qualities such as discipline, wisdom, and tranquility.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

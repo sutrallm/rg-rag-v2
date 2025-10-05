@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO LIBERATION</source_entity>
+    <target_entity>BIRTH AND DEATH</target_entity>
+    <relationship_description>The path to liberation enables crossing the flood of birth and death to reach the sorrowless safety of liberation, as stated in its practice outline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

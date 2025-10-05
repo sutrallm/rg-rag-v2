@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲望</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>欲望是修行者需要断除的，智慧的获得有助于修行者摆脱欲望的束缚。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

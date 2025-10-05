@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>Meditation helps pacify and purify the six senses.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

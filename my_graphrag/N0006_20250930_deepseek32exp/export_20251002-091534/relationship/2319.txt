@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>厌离</target_entity>
+    <relationship_description>当修行者如实知见五蕴无常特性而生起智慧时，便会生起厌离。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

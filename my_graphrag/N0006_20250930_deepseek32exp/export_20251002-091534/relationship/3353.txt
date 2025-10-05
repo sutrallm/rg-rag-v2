@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>MIDDLE WAY</target_entity>
+    <relationship_description>Emptiness realization is central to the Middle Way view, avoiding both substantial existence and complete non-existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

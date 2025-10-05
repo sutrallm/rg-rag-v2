@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>圣果</target_entity>
+    <relationship_description>心解脱的修行者可能成就圣果，但即使成就圣果也不染着。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

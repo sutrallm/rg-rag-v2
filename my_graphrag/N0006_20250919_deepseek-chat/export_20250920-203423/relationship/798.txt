@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Wisdom helps practitioners dispel delusion by illuminating the truth of impermanence and emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

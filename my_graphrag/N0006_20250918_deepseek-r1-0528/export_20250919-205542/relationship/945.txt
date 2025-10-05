@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>BASIS OF MEDITATION ACHIEVEMENT</target_entity>
+    <relationship_description>Concentration is a core attribute of the meditation foundation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

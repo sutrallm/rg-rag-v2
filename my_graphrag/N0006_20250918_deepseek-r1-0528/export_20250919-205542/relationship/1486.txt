@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE OVERCOMING LAZINESS</source_entity>
+    <target_entity>DEATH FORCE</target_entity>
+    <relationship_description>Diligence Overcoming Laziness enables practitioners to escape the control and pursuit of the Death Force, directly stated in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

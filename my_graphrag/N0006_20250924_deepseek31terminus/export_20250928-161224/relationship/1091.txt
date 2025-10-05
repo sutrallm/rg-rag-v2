@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Craving is identified as the root cause that perpetuates the cycle of rebirth and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

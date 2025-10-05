@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE PATH</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Zen meditation is practiced as part of the sequential stages in the practice path toward ultimate wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>道人</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>The practitioner achieves liberation through contemplation and practice of mindfulness and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

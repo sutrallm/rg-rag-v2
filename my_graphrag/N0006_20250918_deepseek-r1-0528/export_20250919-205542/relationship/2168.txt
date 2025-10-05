@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NATURE OF MEDITATION</source_entity>
+    <target_entity>SAGE'S TRANSCENDENT PATH</target_entity>
+    <relationship_description>Meditative concentration enables the mental clarity essential for achieving the sage's transcendent state free from distraction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

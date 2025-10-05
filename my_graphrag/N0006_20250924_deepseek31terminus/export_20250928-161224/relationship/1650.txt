@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE CYCLE OF EXISTENCE</source_entity>
+    <target_entity>THE SEA OF SUFFERING</target_entity>
+    <relationship_description>The cycle of existence is characterized by drifting in a sea of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

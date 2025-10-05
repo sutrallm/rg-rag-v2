@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者的超越特質</source_entity>
+    <target_entity>解脫不著境界</target_entity>
+    <relationship_description>聖者的超越特質 describe the qualities of one who has achieved the liberated state described in 解脫不著境界.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

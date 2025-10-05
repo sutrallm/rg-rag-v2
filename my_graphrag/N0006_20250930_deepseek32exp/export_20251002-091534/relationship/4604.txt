@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禅修的核心是保持正念专注，正念是禅修的重要方法和状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

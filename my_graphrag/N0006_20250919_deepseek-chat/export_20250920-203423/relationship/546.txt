@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>觉者</target_entity>
+    <relationship_description>断除贪欲的修行者能够达到觉者的境界，获得究竟自在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

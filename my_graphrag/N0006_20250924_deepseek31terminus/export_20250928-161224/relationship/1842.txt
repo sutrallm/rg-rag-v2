@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>MORAL DISCIPLINE</target_entity>
+    <relationship_description>Moral Discipline is the first and foundational component of the Three Studies.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

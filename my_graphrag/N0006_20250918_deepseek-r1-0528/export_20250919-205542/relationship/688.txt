@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO NIRVANA</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>The path contains specific methods for overcoming attachment to worldly phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Practitioners avoid falling under Death's control through diligent practice and non-negligence according to Buddhist teachings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

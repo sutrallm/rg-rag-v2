@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>纯净智慧</target_entity>
+    <relationship_description>纯净智慧是通过不放逸的禅定实践而获得的修行成果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

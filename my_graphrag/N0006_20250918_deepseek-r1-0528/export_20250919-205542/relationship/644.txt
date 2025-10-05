@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation creates protective barriers that neutralize afflictions and disruptive thoughts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

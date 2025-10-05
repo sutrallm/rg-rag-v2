@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIN JIN LI</source_entity>
+    <target_entity>SHI XIU</target_entity>
+    <relationship_description>Jin Jin Li (diligence) is essential for the continuous practice of Shi Xiu (practical cultivation).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

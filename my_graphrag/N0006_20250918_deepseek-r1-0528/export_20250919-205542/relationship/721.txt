@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Defilements are eradicated when Clinging ceases, described as naturally shedding away.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

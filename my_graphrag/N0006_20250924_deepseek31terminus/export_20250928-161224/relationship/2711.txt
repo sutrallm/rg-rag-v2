@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom is used to observe the revolving of birth and death (the nature of suffering) and to ultimately extinguish all suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲的过患</source_entity>
+    <target_entity>离执着的境界</target_entity>
+    <relationship_description>断除贪欲是达成离执着境界的必要前提，存在直接进阶关系</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

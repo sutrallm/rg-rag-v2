@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE (ENLIGHTENED BEING)</source_entity>
+    <target_entity>JINGJIE (PURE PRECEPTS)</target_entity>
+    <relationship_description>Possesses pure morality as a foundational attribute.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

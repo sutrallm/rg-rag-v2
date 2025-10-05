@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UPHOLDING PRECEPTS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Upholding precepts cultivates the purity and ethical fragrance that characterizes a saint in the text.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

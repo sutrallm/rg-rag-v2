@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平等心</source_entity>
+    <target_entity>二元对立</target_entity>
+    <relationship_description>平等心即名为超越二元对立的自在</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

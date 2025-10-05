@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS AND FETTERS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Destruction of defilements and fetters directly causes transcendence of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

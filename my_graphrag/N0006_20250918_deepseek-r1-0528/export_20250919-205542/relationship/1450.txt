@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE ENLIGHTENED ONE</source_entity>
+    <target_entity>HOLY COMMUNITY</target_entity>
+    <relationship_description>Source guides target's practice to completeness as living embodiments of the teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

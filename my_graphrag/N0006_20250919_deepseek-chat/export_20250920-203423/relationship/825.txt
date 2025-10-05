@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN PRACTICE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom in Chan practice completely eradicates fundamental ignorance, leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

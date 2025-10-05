@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>恭敬供养</source_entity>
+    <target_entity>佛</target_entity>
+    <relationship_description>恭敬供养 is directed towards佛及僧 to accumulate功德 and祈求福報.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

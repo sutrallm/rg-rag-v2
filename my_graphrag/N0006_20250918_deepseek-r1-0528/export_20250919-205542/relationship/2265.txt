@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Precepts support liberation by enabling practitioners to transcend the chasm of birth and death (越生死渊壑) through ethical integrity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

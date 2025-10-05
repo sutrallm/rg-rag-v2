@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行者通过禅定、智慧、持戒和精进等方法，达到无上的解脱，远离一切苦厄。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

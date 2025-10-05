@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Ignorance directly manifests rebirth in samsara through misinterpretation causing binding karma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

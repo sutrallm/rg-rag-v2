@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LEAK-PROOF WISDOM</target_entity>
+    <relationship_description>Practitioners who have attained leak-proof wisdom no longer generate new karmic formations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

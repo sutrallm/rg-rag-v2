@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA</source_entity>
+    <target_entity>PRESENT AWARENESS</target_entity>
+    <relationship_description>Dharma teachings emphasize present awareness as the method to transcend temporal illusions and realize truth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

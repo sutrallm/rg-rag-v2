@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>怒り</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>怒りを根本的に制御することが解脱達成の絶対条件の一つである</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

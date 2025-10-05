@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>三种根本烦恼</target_entity>
+    <relationship_description>圣者已断除三种根本烦恼：对存在的渴求、对存在的厌恶、对实相的无明。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

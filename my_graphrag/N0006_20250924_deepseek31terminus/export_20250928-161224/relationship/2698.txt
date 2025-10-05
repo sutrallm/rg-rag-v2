@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净心</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>清净心是智慧显现的基础，心念纯净无染能促进本具清明觉性的显发。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

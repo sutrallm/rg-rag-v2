@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFICATION THROUGH DISCIPLINE AND INSIGHT</source_entity>
+    <target_entity>PERFECTED SAGE</target_entity>
+    <relationship_description>Practitioners of Purification through Discipline and Insight receive reverence and protection from devas.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

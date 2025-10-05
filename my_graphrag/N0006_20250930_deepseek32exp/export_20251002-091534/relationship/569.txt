@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>The practitioner works to eradicate craving completely as it is identified as a fundamental cause of attachment and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

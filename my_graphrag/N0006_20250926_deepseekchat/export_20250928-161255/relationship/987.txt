@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫知見</source_entity>
+    <target_entity>禪修</target_entity>
+    <relationship_description>解脫知見是禪修達到一定境界後的智慧觀照，不執取任何禪修成果。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

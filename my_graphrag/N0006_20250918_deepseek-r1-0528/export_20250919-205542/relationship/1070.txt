@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUOUS ONE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The virtuous one eliminates suffering by upholding Dharma practice and precepts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

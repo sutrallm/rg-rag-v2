@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN NIAN TIAO FU</source_entity>
+    <target_entity>SHENG ZHE JIE DING HUI</target_entity>
+    <relationship_description>Xin Nian Tiao Fu (taming the mind) is a step towards achieving Sheng Zhe Jie Ding Hui (perfection of precepts, meditation, and wisdom).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

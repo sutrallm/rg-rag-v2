@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>专注力</target_entity>
+    <relationship_description>止观修习先以专注力平息妄念波动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

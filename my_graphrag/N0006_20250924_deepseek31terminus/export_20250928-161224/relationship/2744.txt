@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚人</source_entity>
+    <target_entity>惡友</target_entity>
+    <relationship_description>愚人就是惡友，是應當被遠離的對象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

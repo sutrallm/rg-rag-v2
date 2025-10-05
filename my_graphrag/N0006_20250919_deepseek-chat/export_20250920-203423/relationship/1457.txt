@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心的净化</source_entity>
+    <target_entity>修行的目标</target_entity>
+    <relationship_description>净化内心是修行的核心，去除烦恼以实现真正的解脱与自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

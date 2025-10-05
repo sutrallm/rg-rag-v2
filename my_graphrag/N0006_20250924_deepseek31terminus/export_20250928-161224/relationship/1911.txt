@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mindfulness practice leads to liberation by cutting off craving.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

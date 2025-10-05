@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION PATH</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The liberation path leads directly to nirvana as the ultimate outcome, outlined in themes 5-6.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

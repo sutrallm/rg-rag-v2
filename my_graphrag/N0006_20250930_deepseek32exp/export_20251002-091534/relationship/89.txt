@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>LOTUS</target_entity>
+    <relationship_description>The ultimate liberation is symbolically described as being like a lotus, unstained by worldly phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

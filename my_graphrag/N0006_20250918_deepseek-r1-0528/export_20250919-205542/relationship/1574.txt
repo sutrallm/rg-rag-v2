@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION STATE</source_entity>
+    <target_entity>DETACHED STATE</target_entity>
+    <relationship_description>Deepening concentration leads to the detached state where self-perception and sensory awareness dissolve.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

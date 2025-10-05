@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>禅定修行是达到心解脱的重要方法和基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

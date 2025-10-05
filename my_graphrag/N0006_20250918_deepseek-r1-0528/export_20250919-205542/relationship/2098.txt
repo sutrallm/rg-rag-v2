@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>Dharma provides the means to escape Samsara by offering teachings that lead to liberation from the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

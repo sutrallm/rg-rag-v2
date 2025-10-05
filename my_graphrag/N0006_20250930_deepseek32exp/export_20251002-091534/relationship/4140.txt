@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>身口意三门</target_entity>
+    <relationship_description>精进是持续修正身口意三门的实践方法，身口意三门是精进修行的对象</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

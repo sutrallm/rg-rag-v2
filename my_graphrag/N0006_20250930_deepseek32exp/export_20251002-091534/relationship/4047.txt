@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Sages achieve ultimate liberation, characterized by freedom from all attachments and obstructions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

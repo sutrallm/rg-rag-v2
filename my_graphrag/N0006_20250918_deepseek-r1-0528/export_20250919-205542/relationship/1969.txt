@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUARDING SENSE FACULTIES</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Guarding sense faculties prevents the arising of craving by controlling sensory engagement.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

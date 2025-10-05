@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AUTHORITY</source_entity>
+    <target_entity>PURE-MINDED PRACTITIONER</target_entity>
+    <relationship_description>Positions of power hinder the practitioner's spiritual progress by promoting carelessness and creating mental distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>现象</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>现象具有无常本质</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

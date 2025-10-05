@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>灯火熄灭</target_entity>
+    <relationship_description>Practitioners attain ultimate nirvana like an extinguished lamp flame, having severed all bonds of birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

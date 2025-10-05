@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI ZHUO (ATTACHMENT / GRASPING)</source_entity>
+    <target_entity>FAN NAO (AFFLICTIONS / DEFILEMENTS)</target_entity>
+    <relationship_description>Attachment and Grasping (Zhi Zhuo) gives rise to all kinds of Afflictions and Defilements (Fan Nao), which cause suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

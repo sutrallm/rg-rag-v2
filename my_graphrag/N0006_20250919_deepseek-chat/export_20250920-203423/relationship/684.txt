@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>目犍连</source_entity>
+    <target_entity>须陀洹</target_entity>
+    <relationship_description>目犍连通过修行证得须陀洹果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>梵行</source_entity>
+    <target_entity>生老病死</target_entity>
+    <relationship_description>梵行 is practiced to achieve complete liberation from 生老病死.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

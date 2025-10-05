@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The sage achieves liberation through diligent cultivation, eliminating all afflictions to reach a state characterized by unmoving peace and reverence from celestial beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Karma is the law of cause and effect that determines the happiness or suffering of a practitioner in this life and the next based on their actions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>DESIRELESSNESS</target_entity>
+    <relationship_description>Understanding the non-self nature of the five aggregates enables the development of desirelessness and cessation of suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

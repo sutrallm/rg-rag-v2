@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>行走于八正道者必将耗尽苦难，清除尘垢，抵达清净境界，这与涅槃的寂静解脱相一致。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Zhi Hui is cultivated through Chan Ding, enabling practitioners to transcend attachment and understand impermanence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

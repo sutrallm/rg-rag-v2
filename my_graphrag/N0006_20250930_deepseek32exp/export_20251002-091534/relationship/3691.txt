@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The practice of the four foundations of mindfulness leads practitioners to the realization of nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

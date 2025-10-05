@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SENSES</target_entity>
+    <relationship_description>Practitioners work to overcome attachment to sensory experiences and transcend their influence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SROTAPANNA (FIRST FRUIT)</source_entity>
+    <target_entity>THREE FETTERS</target_entity>
+    <relationship_description>Attainment of First Fruit is defined by elimination of the Three Fetters binding beings to suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

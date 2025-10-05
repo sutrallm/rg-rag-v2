@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PERSEVERANCE</target_entity>
+    <relationship_description>Meditation requires perseverance to maintain focus and achieve liberation from distractions and afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

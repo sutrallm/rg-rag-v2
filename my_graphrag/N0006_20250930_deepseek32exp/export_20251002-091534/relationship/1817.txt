@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Enlightened beings abide in joy whether in a village or quiet place.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

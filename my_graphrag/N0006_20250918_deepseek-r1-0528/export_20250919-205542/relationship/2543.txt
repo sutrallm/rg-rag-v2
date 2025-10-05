@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟成就者</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>究竟成就者 have thoroughly eradicated the internal roots (内在根基) of 烦恼, making them immune to afflictions like arrows finding a gap.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

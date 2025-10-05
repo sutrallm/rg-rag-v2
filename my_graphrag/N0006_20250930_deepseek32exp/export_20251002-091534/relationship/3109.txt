@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>Practitioners follow the teachings of the Buddha in their spiritual cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

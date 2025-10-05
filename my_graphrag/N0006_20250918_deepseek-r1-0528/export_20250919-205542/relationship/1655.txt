@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH CONTROL</target_entity>
+    <relationship_description>Practitioners avoid falling under death control through diligent practice following the teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

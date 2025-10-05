@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED ONE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Enlightened One exemplifies the state of liberation, embodying unshakable wisdom and freedom from all bonds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

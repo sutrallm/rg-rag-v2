@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>The Buddha taught that diligence is essential for overcoming death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

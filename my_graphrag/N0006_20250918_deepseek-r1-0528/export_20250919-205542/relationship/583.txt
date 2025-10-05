@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CUTTING DELUSION AND GENERATING WISDOM</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>This method requires the application of right mindfulness to achieve authentic concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱道</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>八正道是解脱道的根本要素。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

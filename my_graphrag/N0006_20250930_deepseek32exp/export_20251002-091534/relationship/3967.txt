@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUTH SEEKER</source_entity>
+    <target_entity>TEACHING</target_entity>
+    <relationship_description>The teachings are applicable to all truth seekers.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

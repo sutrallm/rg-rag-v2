@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>TRUTH</target_entity>
+    <relationship_description>Obsession with desire obstructs the realization of truth by clouding perception of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

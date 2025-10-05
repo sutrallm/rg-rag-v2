@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Persistent practitioners may attain the state of a Saint through perfected practice and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

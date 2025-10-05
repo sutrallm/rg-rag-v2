@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>生死河流</target_entity>
+    <relationship_description>智者修习禅定与智慧，渡过难以跨越的生死河流。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

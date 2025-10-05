@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静与解脱</source_entity>
+    <target_entity>解脱者</target_entity>
+    <relationship_description>寂静与解脱是解脱者的特质，他们通过持续的禅修与智慧达到究竟解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

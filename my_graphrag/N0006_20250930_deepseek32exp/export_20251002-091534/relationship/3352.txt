@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUSAL LAW</source_entity>
+    <target_entity>MIDDLE WAY</target_entity>
+    <relationship_description>The causal law of karma operates within the framework of the Middle Way, avoiding extremes of eternalism and nihilism.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

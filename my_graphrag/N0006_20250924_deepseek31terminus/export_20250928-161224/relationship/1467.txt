@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Meditation trains and purifies the mind, enabling it to become focused and free from distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

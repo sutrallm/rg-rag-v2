@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>毁誉</target_entity>
+    <relationship_description>Enlightened beings are unmoved by praise and blame.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

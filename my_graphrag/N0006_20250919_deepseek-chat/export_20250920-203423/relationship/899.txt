@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>圣者是彻底断除贪嗔痴并安住在涅槃清净境界中的修行者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

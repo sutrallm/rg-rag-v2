@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心灵自在</source_entity>
+    <target_entity>世间现象</target_entity>
+    <relationship_description>心灵自在的人能澈见世间现象的虚妄流变。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

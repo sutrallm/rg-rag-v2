@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者通過解脫達到戒律清淨與智慧圓滿，已斷除所有煩惱繫縛。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

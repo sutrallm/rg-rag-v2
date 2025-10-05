@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>A sage is defined by having attained liberation through insight and practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORALITY</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Morality serves as the foundation for the development of wisdom in the spiritual path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

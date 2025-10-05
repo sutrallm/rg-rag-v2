@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARHAT</source_entity>
+    <target_entity>ENLIGHTENED BEING</target_entity>
+    <relationship_description>An arhat is a perfected manifestation of an enlightened being who has extinguished all defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

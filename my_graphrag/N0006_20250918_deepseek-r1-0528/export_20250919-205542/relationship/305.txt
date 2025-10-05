@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Meditation is a key practice fostering the stable and peaceful state characteristic of ultimate liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

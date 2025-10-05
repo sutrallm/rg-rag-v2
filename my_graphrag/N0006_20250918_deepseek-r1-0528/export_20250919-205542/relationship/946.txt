@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT KNOWLEDGE</source_entity>
+    <target_entity>NEGLIGENCE AND DISTRACTION</target_entity>
+    <relationship_description>Sustained awareness prevents negligence and distractions during practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>圣者具足清净戒律与圆满智慧，通过持续修心住于寂静。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

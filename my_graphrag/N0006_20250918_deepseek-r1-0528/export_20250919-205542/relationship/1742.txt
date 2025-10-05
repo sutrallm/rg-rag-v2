@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MOISTURE_BORN_GARUDA</source_entity>
+    <target_entity>PLEASURE</target_entity>
+    <relationship_description>Moisture-born garudas are described as having pleasure in the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

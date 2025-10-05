@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Practitioners observe the five aggregates as impermanent, suffering, and without self to abandon attachment to name and form.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

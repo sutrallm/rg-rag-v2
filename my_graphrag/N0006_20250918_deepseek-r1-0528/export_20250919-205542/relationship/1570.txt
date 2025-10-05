@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见是坚固堤防</source_entity>
+    <target_entity>离忧的究竟解脱</target_entity>
+    <relationship_description>正见是坚固堤防守护修行之路，最终导向离忧的究竟解脱，二者构成手段与终极目标的联系。</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

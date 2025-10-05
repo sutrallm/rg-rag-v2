@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>SAMANAS AND BRAHMINS</target_entity>
+    <relationship_description>Authenticity of religious practitioners is judged by their comprehension of the Six Sense Bases.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正知</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>Clear comprehension observes the contact between the six sense bases and their objects.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

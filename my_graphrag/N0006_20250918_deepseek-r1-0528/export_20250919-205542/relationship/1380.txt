@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-Negligence is declared essential for penetrating the Dharma and escaping danger/existence, leading towards Liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

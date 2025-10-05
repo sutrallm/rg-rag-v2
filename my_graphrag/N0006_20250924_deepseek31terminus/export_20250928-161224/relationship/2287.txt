@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD FRIEND</source_entity>
+    <target_entity>TRUE TEACHINGS</target_entity>
+    <relationship_description>A good friend provides the true teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

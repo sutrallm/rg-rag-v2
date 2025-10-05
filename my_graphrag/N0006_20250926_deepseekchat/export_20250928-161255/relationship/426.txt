@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG SI</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Sheng Si contributes to Jie Tuo by enabling practitioners to see the impermanence of life and transcend the duality of life and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PRACTICAL ESSENTIALS</target_entity>
+    <relationship_description>Practitioners follow practical essentials in their daily practice to progress spiritually.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

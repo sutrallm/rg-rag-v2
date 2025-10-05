@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAMING_THE_MIND</source_entity>
+    <target_entity>ULTIMATE_PEACE</target_entity>
+    <relationship_description>Taming the mind allows abiding in ultimate peace through mastery of mental states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

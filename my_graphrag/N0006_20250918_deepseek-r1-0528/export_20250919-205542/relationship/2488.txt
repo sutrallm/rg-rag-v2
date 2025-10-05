@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>PLEASURE</target_entity>
+    <relationship_description>The liberated sage no longer craves or grasps at worldly pleasures.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

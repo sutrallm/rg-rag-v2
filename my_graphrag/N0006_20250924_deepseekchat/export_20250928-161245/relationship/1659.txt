@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR ELEMENTS</source_entity>
+    <target_entity>BODY MINDFULNESS</target_entity>
+    <relationship_description>Understanding the four elements of the body is part of the practice of body mindfulness, aiding in the realization of its impermanent nature.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

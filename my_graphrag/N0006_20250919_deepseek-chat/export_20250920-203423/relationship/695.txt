@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Enlightened beings have fully realized liberation and freedom from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

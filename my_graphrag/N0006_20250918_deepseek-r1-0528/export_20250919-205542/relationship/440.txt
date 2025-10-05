@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧觀</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>Wisdom insight allows direct perception of the fundamental principle that all phenomena are impermanent.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

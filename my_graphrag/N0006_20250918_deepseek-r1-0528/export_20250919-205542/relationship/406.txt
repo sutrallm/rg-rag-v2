@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BEAST</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>The undisturbed movement of the Beast in the forest metaphorically represents the inner peace achieved by the practitioner.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

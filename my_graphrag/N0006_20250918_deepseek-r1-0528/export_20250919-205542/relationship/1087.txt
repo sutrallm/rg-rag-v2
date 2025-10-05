@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>真の保護</target_entity>
+    <relationship_description>智慧による真理の悟りが真の保護実現の不可欠な基盤であるという構成要素的関係</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

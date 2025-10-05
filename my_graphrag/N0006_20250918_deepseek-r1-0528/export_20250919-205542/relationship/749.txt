@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>MALICIOUS SPEECH</target_entity>
+    <relationship_description>Directly fuels toxic speech through emotional combustion, creating harmful verbal expressions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

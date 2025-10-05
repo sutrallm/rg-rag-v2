@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>实相</target_entity>
+    <relationship_description>修行者通达实相之理，于一切境不生分别</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

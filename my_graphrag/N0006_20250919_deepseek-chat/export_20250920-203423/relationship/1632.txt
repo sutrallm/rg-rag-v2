@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行者通过持戒、禅定和智慧，断尽无明，证悟无生，达到究竟的解脱境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

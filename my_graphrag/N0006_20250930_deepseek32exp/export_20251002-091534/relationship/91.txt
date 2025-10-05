@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>UNBLEMISHED WISDOM</target_entity>
+    <relationship_description>A sage possesses unblemished wisdom, having cut off all defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

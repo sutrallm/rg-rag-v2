@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>修行者若不能避免放逸，会导致修行的退失。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

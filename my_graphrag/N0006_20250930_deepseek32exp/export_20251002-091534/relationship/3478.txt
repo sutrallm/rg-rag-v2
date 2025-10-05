@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>具足戒定慧的修行者能斩断一切烦恼束缚，戒定慧是断除烦恼的根本方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

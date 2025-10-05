@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PRACTITIONER</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Spiritual practitioners employ mindfulness as a key method to maintain focus and awareness during their spiritual development.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

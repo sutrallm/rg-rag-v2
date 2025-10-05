@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>禅定是修行的重要方法，通过专注和正念帮助修行者获得内心安宁。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

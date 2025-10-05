@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Ignorance perpetuates Samsara by obscuring the true nature of reality and binding beings to cyclic existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

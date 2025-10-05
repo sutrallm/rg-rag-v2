@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Discipline enables the complete ending of Afflictions when cultivated by enlightened beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

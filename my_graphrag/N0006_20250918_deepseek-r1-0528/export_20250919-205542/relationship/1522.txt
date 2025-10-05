@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Mindfulness, characterized by mental stability and focus, leads to Tranquility where burdens are released and peace is attained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURITY</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A purified mind free from defilements achieves liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

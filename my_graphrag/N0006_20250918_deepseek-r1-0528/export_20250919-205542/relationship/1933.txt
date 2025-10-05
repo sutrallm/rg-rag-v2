@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE AWAKENED ONE</source_entity>
+    <target_entity>KNOWING AS IT IS</target_entity>
+    <relationship_description>Knowing as it is characterizes the awakened one's perception of all phenomena without attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

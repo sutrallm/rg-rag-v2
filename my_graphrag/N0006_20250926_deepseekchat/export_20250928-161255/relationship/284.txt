@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>解脱之道</target_entity>
+    <relationship_description>佛陀的教法是解脱之道的指引，帮助众生远离烦恼，证悟涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

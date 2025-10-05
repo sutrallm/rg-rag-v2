@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧观</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慧观 is a practice that cultivates 智慧 (wisdom) by allowing practitioners to observe the impermanence and selflessness of the body and mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>禅定是帮助修行者达成心无系缚（解脱）的重要力量。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

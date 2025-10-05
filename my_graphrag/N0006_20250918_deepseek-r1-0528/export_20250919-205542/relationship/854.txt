@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE (ENLIGHTENED BEING)</source_entity>
+    <target_entity>ZHENGJIAN (CORRECT VIEW)</target_entity>
+    <relationship_description>Possesses correct perception or understanding as a foundational attribute.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

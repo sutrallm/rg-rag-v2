@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL STAGES</source_entity>
+    <target_entity>MERIT</target_entity>
+    <relationship_description>Spiritual stages involve progressively accumulating merit resources.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

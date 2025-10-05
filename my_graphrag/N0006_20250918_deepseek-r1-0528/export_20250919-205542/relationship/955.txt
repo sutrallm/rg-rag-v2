@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE OF DILIGENT CULTIVATION</source_entity>
+    <target_entity>GUARDING MINDFULNESS</target_entity>
+    <relationship_description>Diligent practice relies on guarding mindfulness to prevent defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

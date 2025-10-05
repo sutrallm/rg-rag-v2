@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence is essential for mastering the essence of Zen meditation through constant non-negligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

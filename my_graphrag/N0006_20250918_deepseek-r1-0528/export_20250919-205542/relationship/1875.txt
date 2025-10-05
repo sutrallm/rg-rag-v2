@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NECESSARY CONDITIONS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>The NECESSARY CONDITIONS (particularly extinguishing distractions) directly counter DEFILEMENTS like greed and delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

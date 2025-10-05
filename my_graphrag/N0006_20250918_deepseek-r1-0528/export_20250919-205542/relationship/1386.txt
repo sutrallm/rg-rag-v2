@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MENTAL_FORMATIONS</target_entity>
+    <relationship_description>Wisdom discerns the illusory and disturbing nature of mental formations.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

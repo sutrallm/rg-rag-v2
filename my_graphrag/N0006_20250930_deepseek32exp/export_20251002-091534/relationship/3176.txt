@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无生境界</target_entity>
+    <relationship_description>圣者证得无生境界，不再受轮回束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

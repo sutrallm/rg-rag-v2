@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>觉悟者</target_entity>
+    <relationship_description>Liberated beings and enlightened beings share similar characteristics of freedom from defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

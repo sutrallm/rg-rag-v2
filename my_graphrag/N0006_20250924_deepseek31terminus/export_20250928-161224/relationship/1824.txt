@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>智者</target_entity>
+    <relationship_description>智者能够善加防护和调伏心念，使心趋向正道，这是智者修行的重要内容和能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

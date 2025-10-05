@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION OF MIND</source_entity>
+    <target_entity>BEYOND GRASPING</target_entity>
+    <relationship_description>LIBERATION OF MIND leads to the state of BEYOND GRASPING, characterized by non-attachment to objects and freedom from bonds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

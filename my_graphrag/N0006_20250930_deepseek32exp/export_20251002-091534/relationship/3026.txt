@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOTUS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>The lotus symbolizes the saint's purity and non-attachment, emerging unstained like the lotus from muddy water.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

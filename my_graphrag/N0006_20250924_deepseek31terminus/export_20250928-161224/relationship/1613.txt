@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PATH</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The spiritual path aims to develop wisdom as one of its three essential disciplines.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

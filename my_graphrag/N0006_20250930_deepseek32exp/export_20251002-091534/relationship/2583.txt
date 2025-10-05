@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修心</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>Mind cultivation practice involves maintaining awareness without clinging to past attachments, future expectations, or present conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

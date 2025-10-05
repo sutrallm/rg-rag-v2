@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE ABSORPTION</source_entity>
+    <target_entity>WISDOM OF LIBERATION</target_entity>
+    <relationship_description>Meditative absorption leads to the wisdom of liberation by freeing the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

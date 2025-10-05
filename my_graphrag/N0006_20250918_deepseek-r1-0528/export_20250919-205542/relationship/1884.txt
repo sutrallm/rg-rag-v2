@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SOLITARY PRACTICE</source_entity>
+    <target_entity>OBSTRUCTION REMOVAL</target_entity>
+    <relationship_description>SOLITARY PRACTICE requires OBSTRUCTION REMOVAL as its fourth indispensable element.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

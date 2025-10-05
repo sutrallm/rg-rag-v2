@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY PRACTITIONER</source_entity>
+    <target_entity>LIBERATION FROM SAMSARA</target_entity>
+    <relationship_description>A saintly practitioner achieves liberation by overcoming afflictions and maintaining discipline and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

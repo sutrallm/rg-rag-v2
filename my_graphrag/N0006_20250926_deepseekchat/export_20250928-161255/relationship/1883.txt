@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>佛陀教导修行者以涅槃为终极目标，实现断尽烦恼，超越生死轮迴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

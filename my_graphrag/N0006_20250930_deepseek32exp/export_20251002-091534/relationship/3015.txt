@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>Liberation of mind enables practitioners to not grasp at any state of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

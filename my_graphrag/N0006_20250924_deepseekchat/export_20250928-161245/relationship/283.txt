@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JIE TUO DAO</target_entity>
+    <relationship_description>The Sheng Zhe embodies the practices and realization of the Jie Tuo Dao, having perfected ethical discipline, concentration, and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

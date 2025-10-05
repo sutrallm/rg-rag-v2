@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚者</source_entity>
+    <target_entity>戏论</target_entity>
+    <relationship_description>愚者执着于无意义的戏论，迷失于佛法的根本问题。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正智</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>正智能用于观照并灭除贪爱的根源。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMERGENCE OF CONCENTRATION AND WISDOM</source_entity>
+    <target_entity>ATTAINMENT OF WISDOM</target_entity>
+    <relationship_description>Wisdom born from concentration leads directly to the Attainment of Wisdom and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>修行者通过四念处的方法培养持续觉知，在行住坐卧中体证法性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

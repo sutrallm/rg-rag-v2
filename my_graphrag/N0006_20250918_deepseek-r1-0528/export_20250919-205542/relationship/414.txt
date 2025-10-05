@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL DISCIPLINE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Integral to achieving liberation through restraining destructive actions and creating foundational purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

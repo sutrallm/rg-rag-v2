@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NOTIONS OF DOING</target_entity>
+    <relationship_description>LIBERATION transcends all notions of doing, action, or creation ("造作概念").</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

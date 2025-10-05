@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者保持正念相续，正念如同守护城门的卫兵帮助修行者。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

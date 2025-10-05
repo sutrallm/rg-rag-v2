@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>精进 must be applied according to the 正法 (correct Dharma).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

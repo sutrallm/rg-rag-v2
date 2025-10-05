@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHI XIU</source_entity>
+    <target_entity>JIE TUO ZHI HUI</target_entity>
+    <relationship_description>Shi Xiu (practical cultivation) involves maintaining awareness, which supports the realization of Jie Tuo Zhi Hui (wisdom of liberation).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

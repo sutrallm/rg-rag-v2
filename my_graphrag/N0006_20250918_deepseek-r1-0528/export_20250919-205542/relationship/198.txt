@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL_BEINGS</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Celestial beings revere enlightened sages for their supreme attainments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

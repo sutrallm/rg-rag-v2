@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>MARAS</target_entity>
+    <relationship_description>Heedlessness makes one vulnerable to being overcome by Mara (inner demons/afflictions).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

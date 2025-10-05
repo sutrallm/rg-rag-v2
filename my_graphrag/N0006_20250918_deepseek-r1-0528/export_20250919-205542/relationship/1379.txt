@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Strong Effort is directed specifically against Attachment to sever its influence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

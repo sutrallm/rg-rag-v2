@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MISTAKEN VIEWS</target_entity>
+    <relationship_description>Wisdom abandons mistaken views and eradicate the Snake Idea.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

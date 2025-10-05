@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Wisdom destroys ignorance completely, piercing through the net of delusion to reveal inherent purity instantly upon realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

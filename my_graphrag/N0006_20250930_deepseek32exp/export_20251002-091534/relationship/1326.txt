@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>正觉</target_entity>
+    <relationship_description>当心念专注且保持正觉时，便能远离纷扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

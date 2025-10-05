@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUOUS ONE</source_entity>
+    <target_entity>DHARMA PRACTICE</target_entity>
+    <relationship_description>The virtuous one diligently upholds Dharma practice, including precepts and mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

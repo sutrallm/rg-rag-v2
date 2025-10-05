@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADAPTATION NOTES</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Adaptation notes intentionally preserve the core teaching of the threefold training path</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

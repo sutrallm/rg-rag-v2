@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-CORRECTION</source_entity>
+    <target_entity>SINGLE-POINTEDNESS</target_entity>
+    <relationship_description>Self-correction directly supports the restoration and maintenance of the single-pointed state of focus whenever distraction arises.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

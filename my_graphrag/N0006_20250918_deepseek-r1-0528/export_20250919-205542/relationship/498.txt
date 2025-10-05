@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修行</source_entity>
+    <target_entity>正念覺知</target_entity>
+    <relationship_description>日常修行 incorporates 正念覺知 as foundational practice across multiple principles.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

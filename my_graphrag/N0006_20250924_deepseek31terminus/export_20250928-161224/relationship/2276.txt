@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION AND WISDOM</source_entity>
+    <target_entity>SPIRITUAL ATTAINMENT</target_entity>
+    <relationship_description>The balanced development of compassion and wisdom is indicative of genuine spiritual attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

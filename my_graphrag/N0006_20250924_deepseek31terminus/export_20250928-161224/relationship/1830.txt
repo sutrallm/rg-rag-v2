@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHYANA</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Non-attachment is the wisdom achieved by a practitioner who reaches mental liberation through Dhyana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

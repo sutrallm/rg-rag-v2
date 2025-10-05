@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATED MEDITATION STATE</source_entity>
+    <target_entity>SENSORY DESIRES</target_entity>
+    <relationship_description>Attaining a concentrated meditation state naturally causes sensory desires to cease.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

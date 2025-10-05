@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行者 (practitioners) strive to realize and attain 涅槃 (nirvana) as the ultimate state of liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

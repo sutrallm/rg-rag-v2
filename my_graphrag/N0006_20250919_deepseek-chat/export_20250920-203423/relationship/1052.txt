@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官欲望</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>通过觉知感官欲望的无常性，修行者能摆脱欲望的束缚，获得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

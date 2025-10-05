@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧观照</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>智慧观照 (wisdom contemplation) enables practitioners to realize and approach 涅槃 (nirvana) through direct experiential knowledge.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

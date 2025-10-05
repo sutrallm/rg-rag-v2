@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ULTIMATE STATE</target_entity>
+    <relationship_description>Saints attain the ultimate state where afflictions are extinguished and mind becomes immeasurable.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>痛苦</target_entity>
+    <relationship_description>禅定帮助持戒者进一步远离痛苦。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

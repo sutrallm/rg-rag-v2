@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Abandonment of attachment and desire is directly stated as the means to achieve liberation from cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

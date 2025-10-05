@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KEY TECHNIQUES FOR DILIGENT PRACTICE</source_entity>
+    <target_entity>MINDFULNESS MEDITATION</target_entity>
+    <relationship_description>Diligent Practice Techniques are crucial for developing and sustaining Mindfulness Meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

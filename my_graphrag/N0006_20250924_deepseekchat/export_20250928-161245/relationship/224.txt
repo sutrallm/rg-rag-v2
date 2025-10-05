@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>修行是通过控制心念来摆脱痛苦和欲望的过程。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

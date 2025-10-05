@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>現法樂住</target_entity>
+    <relationship_description>修行者若在當下專注於法義，實踐並理解，便能獲得現法樂住的境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>世间无常</target_entity>
+    <relationship_description>通过禅修达到心解脫的修行者能澈见世间无常本质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

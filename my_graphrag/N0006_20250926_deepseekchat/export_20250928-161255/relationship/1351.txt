@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>阿罗汉</target_entity>
+    <relationship_description>修行者通过彻底断除烦恼，可以成为阿罗汉，超越一切境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

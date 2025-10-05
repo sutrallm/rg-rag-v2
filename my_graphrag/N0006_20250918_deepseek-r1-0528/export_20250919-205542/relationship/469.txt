@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>FEMININITY FACULTY</target_entity>
+    <relationship_description>The Buddha explicitly defines the Femininity Faculty as part of the Three Roots.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

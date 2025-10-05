@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PRACTICE</source_entity>
+    <target_entity>DILIGENT MEDITATION</target_entity>
+    <relationship_description>Spiritual Practice incorporates Diligent Meditation as a core method for developing mental focus and insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

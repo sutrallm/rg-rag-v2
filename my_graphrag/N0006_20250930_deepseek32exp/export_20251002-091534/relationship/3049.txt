@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HEART</target_entity>
+    <relationship_description>When practitioners maintain mindful concentration, their heart becomes free from distractions and disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

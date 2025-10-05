@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CUTTING DELUSION AND GENERATING WISDOM</source_entity>
+    <target_entity>AUTHENTIC CONCENTRATION</target_entity>
+    <relationship_description>The method of cutting delusion and generating wisdom leads to establishing authentic meditative concentration through right mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

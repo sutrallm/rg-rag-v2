@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE CYCLE OF EXISTENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is what illuminates the path through the cycle of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

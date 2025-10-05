@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_OF_LIBERATION</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>The path leads practitioners to become sages through complete liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

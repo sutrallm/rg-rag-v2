@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHI ZHUO</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Wu Zhi Zhuo is a key attribute of the Sheng Zhe, who embodies the wisdom to see through all attachments and dualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

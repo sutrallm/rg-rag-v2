@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST MONK</source_entity>
+    <target_entity>SEVEN FACTORS OF ENLIGHTENMENT</target_entity>
+    <relationship_description>The Buddhist monk cultivates the seven factors of enlightenment to progress toward liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

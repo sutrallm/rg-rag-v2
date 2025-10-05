@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UPHOLDING PRECEPTS</source_entity>
+    <target_entity>FRAGRANCE</target_entity>
+    <relationship_description>Upholding ethical precepts generates a fragrance of virtue that permeates all directions and surpasses worldly scents.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>Through 禅修 practice, practitioners can achieve 心解脱 (mental liberation).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

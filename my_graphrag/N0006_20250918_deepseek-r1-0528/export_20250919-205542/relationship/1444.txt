@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATE CONCENTRATION TO DETACH FROM DESIRE</source_entity>
+    <target_entity>ACHIEVE THE HOLY PATH</target_entity>
+    <relationship_description>Cultivating concentration contributes to achieving the holy path by establishing mental focus, which is a prerequisite for subd the mind and attaining tranquility described in the holy path.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

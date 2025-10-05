@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The sage who has attained unobstructed wisdom does not fall into the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>悲智双运</target_entity>
+    <relationship_description>慈悲心 when combined with wisdom achieves 悲智双运 the union of compassion and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

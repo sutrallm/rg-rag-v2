@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>Meditation requires the mind to be focused and mindful to achieve a state of concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

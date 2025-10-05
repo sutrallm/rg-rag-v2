@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行者通过舍弃贪嗔习性，层层破除执着，最终抵达无死涅槃境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

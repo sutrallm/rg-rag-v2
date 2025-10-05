@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MERIT</target_entity>
+    <relationship_description>Diligence facilitates the accumulation of merit through persistent virtuous actions, essential for spiritual growth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

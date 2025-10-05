@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TUO</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>FO TUO is the source of teachings that inspire JINGJIN (diligence) in guarding one's thoughts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

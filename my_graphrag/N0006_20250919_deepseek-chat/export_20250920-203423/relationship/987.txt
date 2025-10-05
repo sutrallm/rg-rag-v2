@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>色空不二</target_entity>
+    <relationship_description>智慧包含理解色空不二的真理，觉悟者既不执著于有，也不落于无，安住于中道实相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS MEDITATION</source_entity>
+    <target_entity>FOUNDATIONAL ELEMENTS OF MEDITATION</target_entity>
+    <relationship_description>Mindfulness Meditation embodies the foundational elements required to establish meditation by requiring focus and avoiding distraction for stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

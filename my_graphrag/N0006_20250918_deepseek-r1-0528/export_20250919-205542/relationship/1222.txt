@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REWRITING PROCESS</source_entity>
+    <target_entity>MODERNIZED TEXT</target_entity>
+    <relationship_description>The Rewriting Process resulted in the creation of the Modernized Text with structured themes and universal language.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

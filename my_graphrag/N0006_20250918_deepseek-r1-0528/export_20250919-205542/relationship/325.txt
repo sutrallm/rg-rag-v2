@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>安住平静</source_entity>
+    <target_entity>忧悲</target_entity>
+    <relationship_description>Abiding steadfastly in tranquility enables transcendence over sorrow and grief.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

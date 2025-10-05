@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>眼耳鼻舌身意</source_entity>
+    <target_entity>苦聚</target_entity>
+    <relationship_description>Not generating greed for the six senses leads to the cessation of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

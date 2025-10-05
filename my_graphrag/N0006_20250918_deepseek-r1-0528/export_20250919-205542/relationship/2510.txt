@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-CRAVING STATE</source_entity>
+    <target_entity>PERFECTED STAGE</target_entity>
+    <relationship_description>The non-craving liberated state is a precursor to the perfected stage where all defilements are eradicated, representing full enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

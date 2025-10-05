@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>Practitioners maintain mindfulness as the foundation of their spiritual practice, guiding them towards wisdom and enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

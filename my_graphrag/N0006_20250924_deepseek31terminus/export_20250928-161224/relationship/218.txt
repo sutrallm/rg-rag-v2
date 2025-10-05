@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED MIND</source_entity>
+    <target_entity>WORLDLY PHENOMENA</target_entity>
+    <relationship_description>A liberated mind clearly perceives the nature of worldly phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>梵行者</target_entity>
+    <relationship_description>A practitioner who diligently cultivates meditation becomes a true spiritual practitioner.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

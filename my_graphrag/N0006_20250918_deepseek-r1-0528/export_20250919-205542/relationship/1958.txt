@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS PRACTICE</source_entity>
+    <target_entity>SENSORY TEMPTATIONS</target_entity>
+    <relationship_description>Mindfulness practice offers protection against sensory temptations by developing mental stability.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

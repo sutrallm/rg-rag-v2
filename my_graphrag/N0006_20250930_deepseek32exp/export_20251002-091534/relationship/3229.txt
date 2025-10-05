@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>MORALITY CONCENTRATION WISDOM</target_entity>
+    <relationship_description>A saint is defined as one who is fully endowed with and practices the three core trainings of morality, concentration, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

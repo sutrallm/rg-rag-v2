@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>破除无明的根本</source_entity>
+    <target_entity>超越欲乐的清净</target_entity>
+    <relationship_description>破除无明的根本断除苦因，超越欲乐的清净描述断尽贪欲后的清净超越状态，展示成果。</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>持戒与智慧结合是修行者解脱的路径。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

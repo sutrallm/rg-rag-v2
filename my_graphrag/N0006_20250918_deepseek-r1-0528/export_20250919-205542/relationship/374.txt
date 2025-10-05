@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Enlightened beings embody ultimate wisdom, having eradicated all afflictive obscurations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

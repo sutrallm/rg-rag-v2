@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVOIDING NEGLIGENCE</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Avoiding negligence is necessary to progress on the path toward ultimate liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

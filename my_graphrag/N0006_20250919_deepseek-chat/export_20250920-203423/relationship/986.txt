@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟</source_entity>
+    <target_entity>离相的智慧</target_entity>
+    <relationship_description>觉悟者不执著于任何形象或概念，包括佛、法、僧，达到无得无失的真实境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

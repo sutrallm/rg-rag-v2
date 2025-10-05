@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>修行者通过中道的态度，超越贪嗔的束缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

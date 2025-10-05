@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY RESTRAINT METHOD</source_entity>
+    <target_entity>CONCRETE ROLES</target_entity>
+    <relationship_description>Derived from the cow herder metaphor, representing disciplined sensory management.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

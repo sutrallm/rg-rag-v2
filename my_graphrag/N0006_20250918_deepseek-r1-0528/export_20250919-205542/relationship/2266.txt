@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom achieves liberation by illuminating primordial ignorance (破无始痴暗) to reveal the universally shining pure mind (解脱心光普照).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

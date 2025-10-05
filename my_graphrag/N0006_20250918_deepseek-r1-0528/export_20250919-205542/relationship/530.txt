@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>THE HOLY ONE</target_entity>
+    <relationship_description>Liberation represents the perfected state of the holy one, marked by severed defilements and unshakable tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

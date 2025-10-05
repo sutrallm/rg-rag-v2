@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditation cultivates wisdom by revealing the impermanent nature of all phenomena and liberating practitioners from attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

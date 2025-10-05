@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>修行者的修行目标之一就是克服放逸，文本指出修行者应了知放逸是真正的险路并保持警觉。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

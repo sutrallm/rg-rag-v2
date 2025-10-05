@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>SENSE FACULTIES</target_entity>
+    <relationship_description>Mindfulness is the practice used to guard the Sense Faculties from external disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

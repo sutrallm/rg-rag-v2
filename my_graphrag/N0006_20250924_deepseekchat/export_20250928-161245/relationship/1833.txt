@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律为智慧提供稳固的支撑，持戒清净者能更好地修习智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

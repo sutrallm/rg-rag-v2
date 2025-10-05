@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行者的終極目標是涅槃，超越一切痛苦與妄執，進入究竟的寂靜與解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

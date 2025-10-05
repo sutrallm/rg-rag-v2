@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANAPANASATI</source_entity>
+    <target_entity>PROGRESSIVE_KNOWLEDGE</target_entity>
+    <relationship_description>The practice of Anapanasati systematically develops deeper stages of meditative knowledge and insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

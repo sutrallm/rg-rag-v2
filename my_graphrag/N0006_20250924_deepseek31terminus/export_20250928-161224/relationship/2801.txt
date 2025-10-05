@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>圣者 who possess 戒律 diligently cultivate their mind and abide in 寂静.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

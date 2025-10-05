@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SPIRITUAL ACCOMPLISHMENTS</target_entity>
+    <relationship_description>Wisdom prevents attachment to spiritual accomplishments, allowing complete freedom even from positive achievements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

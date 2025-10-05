@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>DESIRE-FREE STATE</target_entity>
+    <relationship_description>Liberated beings exist in a desire-free state of purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

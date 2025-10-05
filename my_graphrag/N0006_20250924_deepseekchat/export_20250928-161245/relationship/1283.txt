@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>修行者安住于寂静，远离世间纷扰，内心清净无染。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Upholding precepts is foundational for developing wisdom; breaking precepts leads to loss of wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

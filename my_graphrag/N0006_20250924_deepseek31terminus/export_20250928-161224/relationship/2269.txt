@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED SAGE</source_entity>
+    <target_entity>COMPASSION AND WISDOM</target_entity>
+    <relationship_description>Enlightened sages naturally embody the balanced qualities of compassion and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

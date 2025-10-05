@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTEMPLATION OF IMPERMANENCE</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>The Contemplation of Impermanence involves the direct observation of the constant decay and instability of the Five Aggregates that constitute existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

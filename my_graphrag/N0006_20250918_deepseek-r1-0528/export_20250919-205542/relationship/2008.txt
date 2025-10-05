@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER PEACE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Inner peace provides the foundational mental stability required for achieving advanced meditative states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

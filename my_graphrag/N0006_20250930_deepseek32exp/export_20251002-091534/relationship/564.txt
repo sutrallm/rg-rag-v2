@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Meditative concentration is a key practice that leads to mental liberation and insight into the nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

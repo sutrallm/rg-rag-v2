@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟解脱</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>究竟解脱是彻底觉悟者心无挂碍，不被任何境界所系缚的终极境界，是解脱的最终目标。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>精进与智慧是修行者应平衡的两个要素，如同驾车需要两匹良马。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

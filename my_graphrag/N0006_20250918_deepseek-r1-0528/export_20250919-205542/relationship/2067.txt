@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>PATH_OF_MEDITATION</target_entity>
+    <relationship_description>Vigilance is essential for mastering the path of meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

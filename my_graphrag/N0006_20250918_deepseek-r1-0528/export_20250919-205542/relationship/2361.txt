@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟解脱的境界</source_entity>
+    <target_entity>三业清净</target_entity>
+    <relationship_description>This perfected state manifests as complete purity in body, speech, and mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

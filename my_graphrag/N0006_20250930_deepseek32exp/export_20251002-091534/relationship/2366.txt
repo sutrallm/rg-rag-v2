@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION PRACTITIONER</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>The meditation practitioner works with and cultivates the mind through focused attention and mindfulness practices.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>BODY OPERATIONS</target_entity>
+    <relationship_description>Meditation involves awareness of bodily operations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

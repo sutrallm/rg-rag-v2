@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Insight into impermanence of the five aggregates enables eradication of craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

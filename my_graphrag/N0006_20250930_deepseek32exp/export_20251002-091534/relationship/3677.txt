@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS WISDOM</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Emptiness wisdom is cultivated through observing the impermanent, suffering, and empty nature of the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

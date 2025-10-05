@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DISTRACTION AND NEGLIGENCE</target_entity>
+    <relationship_description>Source becomes endangered when target dominates practice, comparable to entering beast-infested areas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

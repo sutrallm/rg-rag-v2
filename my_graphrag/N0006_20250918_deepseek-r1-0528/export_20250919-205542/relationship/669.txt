@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLDING PRECEPTS STEADFASTLY</source_entity>
+    <target_entity>ILLUMINATING WISDOM</target_entity>
+    <relationship_description>Holding precepts steadfastly leads to a purified mind, which is the necessary condition for illuminating wisdom to arise and dispel ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

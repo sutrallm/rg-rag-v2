@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_CULTIVATION</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Mind cultivation directly counteracts distraction by developing vigilant awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

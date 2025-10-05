@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FOUR PROTECTIONS</target_entity>
+    <relationship_description>Wisdom coordinates the effective application of the Four Protections against defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

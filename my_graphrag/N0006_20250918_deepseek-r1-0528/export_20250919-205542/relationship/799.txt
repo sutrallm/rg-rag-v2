@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTAINMENT OF WISDOM</source_entity>
+    <target_entity>FOUNDATION OF PRECEPTS</target_entity>
+    <relationship_description>N/A</relationship_description>
+    <relationship_strength>N/A</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE DESIRES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Staining the mind with the five desires prevents true liberation by reinforcing attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

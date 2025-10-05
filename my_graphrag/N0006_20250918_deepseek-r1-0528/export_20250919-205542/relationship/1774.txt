@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸 (NEGLIGENCE)</source_entity>
+    <target_entity>禍害 (DISASTERS)</target_entity>
+    <relationship_description>Negligence causes disasters to pursue those who are not diligently guarding against distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

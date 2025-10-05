@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINE</source_entity>
+    <target_entity>THREE STUDIES</target_entity>
+    <relationship_description>Discipline forms the foundational first stage of the three studies path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

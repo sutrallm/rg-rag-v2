@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>精进是修行者解脱的关键，通过不懈追求佛法真理，修行者可以避免堕入生死轮回。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

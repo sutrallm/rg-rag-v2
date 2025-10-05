@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Meditation directly produces inner peace by eliminating disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

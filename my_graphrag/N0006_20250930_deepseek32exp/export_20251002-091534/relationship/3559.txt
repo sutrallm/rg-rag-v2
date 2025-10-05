@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧的生起是达到解脱的重要条件，通过智慧能够彻底洞察名色法的本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

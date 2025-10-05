@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Liberated beings directly perceive the nature of impermanence through insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>LIBERATION MERIT</target_entity>
+    <relationship_description>Concentration enables the manifestation of liberation merit when the six senses are undisturbed by external objects.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

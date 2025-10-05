@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>安稳之境</target_entity>
+    <relationship_description>Meditation leads to a state of peace and stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

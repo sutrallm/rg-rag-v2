@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGEHOOD</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sagehood is characterized by the achievement of complete liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

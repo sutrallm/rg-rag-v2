@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>內心的安穩與清涼</target_entity>
+    <relationship_description>The meditative state directly produces inner peace and mental coolness as immediate results.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

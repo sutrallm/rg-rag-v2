@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SINGLE-POINTEDNESS</target_entity>
+    <relationship_description>Meditation cultivates and maintains the state of single-pointed focus and mental stability, leading to freedom from distraction and affliction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

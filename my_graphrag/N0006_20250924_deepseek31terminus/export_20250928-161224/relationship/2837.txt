@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>圣者生活</target_entity>
+    <relationship_description>解脫者过着圣者般的生活，其特质体现了内心清净、言行柔和的状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

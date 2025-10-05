@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>道</target_entity>
+    <relationship_description>四圣谛包括道谛</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

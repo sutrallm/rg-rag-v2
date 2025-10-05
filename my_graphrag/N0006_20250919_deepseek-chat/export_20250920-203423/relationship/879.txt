@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>解脱是修行者证得心性后的状态，能如实观察诸法无常。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

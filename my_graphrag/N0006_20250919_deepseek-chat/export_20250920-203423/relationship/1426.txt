@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精进不懈</target_entity>
+    <relationship_description>精进不懈是修行者的动力，推动其不断前进。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

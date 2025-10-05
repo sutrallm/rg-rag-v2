@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行者通过禅修、智慧和戒律，断除贪嗔痴三毒，达到解脱的涅槃境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

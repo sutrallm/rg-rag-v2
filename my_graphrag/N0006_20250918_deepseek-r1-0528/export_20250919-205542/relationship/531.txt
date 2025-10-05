@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Nirvana constitutes the highest expression of liberation, characterized by the cessation of suffering and attainment of supreme tranquility.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

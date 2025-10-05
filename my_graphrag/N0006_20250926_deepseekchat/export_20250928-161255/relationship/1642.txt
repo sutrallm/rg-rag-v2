@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>禅修实践离不开八正道，这是一种远离享乐与苦行极端的中道修行方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Through concentration, practitioners can clearly perceive the arising and passing away of the five aggregates without attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

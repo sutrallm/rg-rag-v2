@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>诸法缘起</target_entity>
+    <relationship_description>智慧能彻见诸法缘起之理，通过如实观照获得对缘起法的理解</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

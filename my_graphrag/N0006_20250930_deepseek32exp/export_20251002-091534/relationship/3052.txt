@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>INNER STILLNESS</target_entity>
+    <relationship_description>Through Zen meditation one can attain inner stillness and peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正思维</target_entity>
+    <relationship_description>修行者以正思维为依归进行修行，正思维是教法实践的重要准则</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

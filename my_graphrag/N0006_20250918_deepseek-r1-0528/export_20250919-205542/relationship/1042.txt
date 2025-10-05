@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTAINMENT OF LIBERATION</source_entity>
+    <target_entity>EXTINCTION AND NIRVĀṆA</target_entity>
+    <relationship_description>Extinction and Nirvāṇa constitutes the ultimate culmination of the Attainment of Liberation process.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

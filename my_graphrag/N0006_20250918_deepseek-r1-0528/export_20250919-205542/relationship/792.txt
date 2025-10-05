@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ESSENTIAL REALM</source_entity>
+    <target_entity>ATTAINMENT OF WISDOM</target_entity>
+    <relationship_description>The Essential Realm establishes the initial conditions for achieving the ultimate Attainment of Wisdom.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

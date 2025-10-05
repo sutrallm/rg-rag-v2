@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>修行者需要持守清净戒律，戒律为禅定奠定稳固基础，帮助修行者远离悔恨和烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

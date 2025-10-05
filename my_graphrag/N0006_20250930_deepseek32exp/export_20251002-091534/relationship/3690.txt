@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FOUR FOUNDATIONS OF MINDFULNESS</target_entity>
+    <relationship_description>Practitioners diligently cultivate the four foundations of mindfulness as a method to realize nirvana.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

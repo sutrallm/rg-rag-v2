@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A refined and liberated mind attains complete freedom when purified of defilements and illusions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

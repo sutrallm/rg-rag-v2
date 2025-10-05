@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>Practicing mindfulness is described as an act of diligence and non-negligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Craving is explicitly identified as one of the afflictions that must be severed, representing the thirst that binds one to suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

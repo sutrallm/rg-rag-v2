@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation manifests as the ultimate result of sustained and correct meditation practice, leading to the realization of emptiness and non-attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

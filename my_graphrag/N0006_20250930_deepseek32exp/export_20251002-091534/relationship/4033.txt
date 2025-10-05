@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>临终心念</target_entity>
+    <relationship_description>修行者需要常修清净心念以应对临终时刻</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

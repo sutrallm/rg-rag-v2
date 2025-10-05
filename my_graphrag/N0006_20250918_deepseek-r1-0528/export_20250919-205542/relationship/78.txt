@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>破执离妄</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者是 the practitioner achieving 破执离妄 (transcending delusion through wisdom).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟清净</source_entity>
+    <target_entity>天人</target_entity>
+    <relationship_description>Beings who reach ultimate purity elicit reverence even from celestial beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

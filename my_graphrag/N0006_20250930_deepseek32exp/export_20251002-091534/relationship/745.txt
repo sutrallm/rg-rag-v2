@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The Buddha taught the importance of diligence in spiritual practice, guiding practitioners to maintain constant effort in their cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

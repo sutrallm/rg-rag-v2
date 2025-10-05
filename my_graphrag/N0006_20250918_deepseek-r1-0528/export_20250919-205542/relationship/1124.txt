@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Death actively targets those who exhibit negligence, as spiritual laxity increases vulnerability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

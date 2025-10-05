@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE_REALIZED_ONE</source_entity>
+    <target_entity>EMPTINESS-REALITY</target_entity>
+    <relationship_description>The Realized One has perceived the true nature of emptiness-reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

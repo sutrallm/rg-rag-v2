@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅师</source_entity>
+    <target_entity>僧</target_entity>
+    <relationship_description>禅师为僧解答关于道、保任、放逸、禅、静和心的问题。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

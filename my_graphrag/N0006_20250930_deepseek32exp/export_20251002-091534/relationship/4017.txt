@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱道</source_entity>
+    <target_entity>感受</target_entity>
+    <relationship_description>解脱道需要认清感受的无常本质，感受是解脱道观察的对象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>《中阿含经》</source_entity>
+    <target_entity>圣者证悟境界</target_entity>
+    <relationship_description>Represents an enlightenment framework abstracted from the scripture's core concepts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

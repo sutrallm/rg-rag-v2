@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MIDDLE WAY</target_entity>
+    <relationship_description>Practitioners follow the Middle Way approach to spiritual practice, regulating their minds like tuning a string to avoid extremes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>MORALITY-CONCENTRATION-WISDOM</target_entity>
+    <relationship_description>Saints possess and cultivate the complete training in morality, concentration, and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

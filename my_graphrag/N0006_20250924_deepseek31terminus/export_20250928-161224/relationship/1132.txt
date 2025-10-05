@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>胜果</target_entity>
+    <relationship_description>The 修行者 does not cling to even the 胜果 (supreme fruits) they achieve.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

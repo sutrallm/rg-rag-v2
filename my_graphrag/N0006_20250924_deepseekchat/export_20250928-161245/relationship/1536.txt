@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正见是智慧的基础，通过正确认知真理，修行者能发起真实的出离心与菩提心，逐步通达智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

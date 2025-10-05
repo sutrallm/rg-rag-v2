@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEMATIC MEDITATION STAGES</source_entity>
+    <target_entity>FORMLESS REALMS</target_entity>
+    <relationship_description>Formless realms constitute the advanced phase within the structured meditation progression.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

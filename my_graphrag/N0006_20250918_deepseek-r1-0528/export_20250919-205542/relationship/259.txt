@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESOLUTE PRACTITIONER</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>The Resolute Practitioner masters meditative concentration through diligent effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

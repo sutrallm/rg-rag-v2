@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>贪着</target_entity>
+    <relationship_description>Meditative concentration enables distancing from attachment by focusing the mind on present-moment abiding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

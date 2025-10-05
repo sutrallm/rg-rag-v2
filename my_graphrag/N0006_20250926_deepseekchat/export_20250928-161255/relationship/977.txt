@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>精进是持续践行正法，超越生死束缚，最终导向解脱的修行态度。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

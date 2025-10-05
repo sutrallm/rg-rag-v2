@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>修行者通过禅修获得心解脱，能够深刻洞察世间一切皆无常，不被任何境界所束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

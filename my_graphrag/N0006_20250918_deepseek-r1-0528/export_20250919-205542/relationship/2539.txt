@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY LIFE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Dedicated practice of the holy life leads to ultimate liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

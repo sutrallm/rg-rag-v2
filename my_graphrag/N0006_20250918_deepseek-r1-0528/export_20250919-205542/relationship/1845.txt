@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>SLOTH</target_entity>
+    <relationship_description>Vigilance dismantles sloth by exposing its future suffering consequences and energizing effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>禅定帮助修行者安住于寂静之中，净化心灵，达到深层的定境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

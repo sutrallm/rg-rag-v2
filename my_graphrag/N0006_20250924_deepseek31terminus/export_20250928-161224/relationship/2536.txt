@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PEACE</target_entity>
+    <relationship_description>Meditation leads to a state of inner peace and stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

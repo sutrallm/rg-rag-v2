@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圆满成就</source_entity>
+    <target_entity>彼岸</target_entity>
+    <relationship_description>圆满成就者已抵达烦恼永尽的彼岸</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

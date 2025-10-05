@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>A sage is able to cut off all roots of affliction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

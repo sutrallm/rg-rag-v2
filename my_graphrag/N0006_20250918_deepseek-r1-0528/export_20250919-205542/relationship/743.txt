@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>死亡魔障</target_entity>
+    <relationship_description>Enables transcendence over the control and obstacles posed by death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>轮回之苦</target_entity>
+    <relationship_description>抵达涅槃彼岸时，一切轮回之苦皆已止息</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

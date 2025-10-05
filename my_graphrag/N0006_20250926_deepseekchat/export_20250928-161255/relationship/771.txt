@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>慈悲心济度众生，帮助他人离苦得乐，是修行的重要部分，有助于证悟涅槃。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

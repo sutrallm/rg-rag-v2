@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND TRAINING</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Mind training involves direct observation of the five aggregates' arising and cessation as its primary method.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

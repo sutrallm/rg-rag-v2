@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>The practitioner aims to achieve wisdom liberation through meditation and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

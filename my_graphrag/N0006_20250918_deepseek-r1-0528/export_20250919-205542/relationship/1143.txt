@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Diligence enables mastery of the path to liberation and is essential for reaching ultimate freedom, as explicitly stated in the section on vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

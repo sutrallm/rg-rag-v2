@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行者通过禅定与智慧，达到究竟涅槃的境界。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

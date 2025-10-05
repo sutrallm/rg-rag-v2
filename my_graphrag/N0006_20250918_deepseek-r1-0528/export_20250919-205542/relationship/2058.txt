@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>ETHICAL_CONDUCT</target_entity>
+    <relationship_description>The Sage possesses and maintains ethical conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

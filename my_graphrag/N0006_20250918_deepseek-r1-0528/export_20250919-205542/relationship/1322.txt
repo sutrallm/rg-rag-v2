@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REMOVAL_OF_NARRATIVE_ELEMENTS</source_entity>
+    <target_entity>NARRATIVE_REDUCTION</target_entity>
+    <relationship_description>Removal of narrative elements is the concrete implementation of the narrative reduction principle applied during rewriting.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

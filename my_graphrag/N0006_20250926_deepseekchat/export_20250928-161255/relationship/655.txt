@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>修行者深刻了知无常，不再执着于任何境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

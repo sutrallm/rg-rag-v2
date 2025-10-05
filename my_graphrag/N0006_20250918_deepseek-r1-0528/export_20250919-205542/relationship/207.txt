@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>NIRVANA represents the ultimate state of LIBERATION, the final emancipation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

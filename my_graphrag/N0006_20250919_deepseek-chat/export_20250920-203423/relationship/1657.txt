@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>警觉</target_entity>
+    <relationship_description>Negligence is the opposite of mindfulness and vigilance.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

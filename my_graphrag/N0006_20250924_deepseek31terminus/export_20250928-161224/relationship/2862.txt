@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪爱</source_entity>
+    <target_entity>水珠</target_entity>
+    <relationship_description>Letting go of 贪爱 allows the mind to be like a 水珠 on a lotus leaf, unstained.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

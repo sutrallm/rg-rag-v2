@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>禅定的实践要求心念专注且保持正念。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

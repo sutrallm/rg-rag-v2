@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHOR_TRANSFORMATION</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>The defilements (as a concept) are presented as the direct doctrinal meaning behind the transformed 'Evil One' metaphor.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

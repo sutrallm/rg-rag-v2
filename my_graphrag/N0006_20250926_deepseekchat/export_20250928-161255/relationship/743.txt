@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>无常观是禅修的一部分，通过观察生灭现象，修行者能够实证无常真理。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

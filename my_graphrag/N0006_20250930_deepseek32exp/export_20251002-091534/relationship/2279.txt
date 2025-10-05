@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION PATH</target_entity>
+    <relationship_description>Practitioners follow the liberation path as a sequential practice toward spiritual attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

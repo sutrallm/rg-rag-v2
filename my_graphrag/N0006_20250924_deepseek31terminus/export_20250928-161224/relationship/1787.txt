@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is the third of the three essential trainings</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

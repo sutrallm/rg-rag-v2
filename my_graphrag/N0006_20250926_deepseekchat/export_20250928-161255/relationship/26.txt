@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>恶业</target_entity>
+    <relationship_description>戒律是远离恶行的方法，能防护修行者不被烦恼侵扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>持戒</target_entity>
+    <relationship_description>修行者持戒清净，为修行提供稳固根基，成就一切善法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

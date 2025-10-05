@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Moral discipline enables practitioners to abide in tranquil stillness through diligent cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

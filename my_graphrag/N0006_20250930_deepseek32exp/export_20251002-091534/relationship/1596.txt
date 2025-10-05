@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>三界</target_entity>
+    <relationship_description>The threefold training enables practitioners to eradicate afflictions of the three realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

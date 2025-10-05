@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>ENLIGHTENMENT_SHORE</target_entity>
+    <relationship_description>Cultivators attain the enlightenment shore, a state of peace and freedom from attachment, through diligent cultivation and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

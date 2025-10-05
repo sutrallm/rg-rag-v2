@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>Abiding in '禅定' (meditative concentration) makes one undisturbed by '放逸' (negligence) and its associated烦恼 (defilements).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

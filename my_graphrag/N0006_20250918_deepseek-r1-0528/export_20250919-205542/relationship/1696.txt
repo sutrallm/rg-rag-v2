@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Attachment generates desire and craving for sensory experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

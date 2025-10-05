@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进不放逸</target_entity>
+    <relationship_description>禅定需依赖精进不放逸才能达成，两者共同构成修行基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SACRED SPEECH</source_entity>
+    <target_entity>GOOD SPIRITUAL FRIEND</target_entity>
+    <relationship_description>Defining characteristic of an enlightened guide whose communication counteracts verbal poisons through consistent practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

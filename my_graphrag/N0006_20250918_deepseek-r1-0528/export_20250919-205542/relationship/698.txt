@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAMING THE FACULTIES</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Mastery over thoughts and emotions through taming enables entry into deep meditative absorption (samadhi).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

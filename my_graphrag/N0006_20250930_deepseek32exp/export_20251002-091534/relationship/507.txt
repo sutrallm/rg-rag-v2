@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>保持正念专注能使内心脱离烦恼的扰动，正念是对治烦恼的重要方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

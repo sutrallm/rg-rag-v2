@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>RAHULA</target_entity>
+    <relationship_description>The Buddha provides guidance and teachings to Rahula, helping him attain enlightenment through meditation and mindfulness practices.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行者通过智慧观照洞察生死本质，超越烦恼与束缚。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

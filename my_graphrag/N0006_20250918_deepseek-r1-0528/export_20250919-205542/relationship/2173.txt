@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDING SAMSARA</source_entity>
+    <target_entity>NATURE OF MEDITATION</target_entity>
+    <relationship_description>Tranquil meditation (Nature of Meditation) provides the mental stability necessary to realize emptiness and transcend samsara.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

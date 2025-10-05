@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>THREE DEFILEMENTS</target_entity>
+    <relationship_description>Practitioners work to eliminate the three defilements of greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

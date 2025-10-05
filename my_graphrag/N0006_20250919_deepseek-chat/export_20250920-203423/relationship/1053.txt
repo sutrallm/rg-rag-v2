@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定如同稳固的容器，智慧则是照破黑暗的明灯，二者相辅相成，帮助修行者深入观照。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

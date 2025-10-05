@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INTERNAL DEMONS</source_entity>
+    <target_entity>GRASPING_AND_AVERSION</target_entity>
+    <relationship_description>Internal demons are explicitly defined as the fundamental inner grasping and aversion within the mind.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

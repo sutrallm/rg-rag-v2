@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法性平等</source_entity>
+    <target_entity>觉悟本性</target_entity>
+    <relationship_description>法性平等说明一切众生皆具觉悟本性</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>SENSE ORGANS</target_entity>
+    <relationship_description>Mindfulness helps protect the sense organs from attachment to sensory experiences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

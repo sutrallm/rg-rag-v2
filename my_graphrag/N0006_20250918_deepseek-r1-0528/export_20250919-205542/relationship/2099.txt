@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT AWARENESS</source_entity>
+    <target_entity>TRUE NATURE OF PHENOMENA</target_entity>
+    <relationship_description>Present awareness directly reveals the true nature of phenomena by transcending illusory perceptions of time and space.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

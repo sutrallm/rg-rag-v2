@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>懈怠懒惰</target_entity>
+    <relationship_description>Diligence is presented as the direct opposite and antidote to laziness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

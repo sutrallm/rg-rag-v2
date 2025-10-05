@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>SPIRITUAL ATTAINMENT</target_entity>
+    <relationship_description>The three trainings lead to spiritual attainment when fully mastered.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>PEACE AND HAPPINESS</target_entity>
+    <relationship_description>Wisdom enables sustained joy by providing clear perception that eliminates disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

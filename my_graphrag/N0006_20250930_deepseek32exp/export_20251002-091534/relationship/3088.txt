@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>Enlightened beings have extinguished the three poisons of greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

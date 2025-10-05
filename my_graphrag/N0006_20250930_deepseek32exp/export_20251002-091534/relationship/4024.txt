@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是禅修的核心实践方法，两者密切相关</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

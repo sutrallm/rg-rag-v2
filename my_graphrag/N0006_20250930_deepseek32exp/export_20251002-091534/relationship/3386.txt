@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正智</source_entity>
+    <target_entity>生死苦海</target_entity>
+    <relationship_description>通过正智如实证见可以从生死苦海中得度。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

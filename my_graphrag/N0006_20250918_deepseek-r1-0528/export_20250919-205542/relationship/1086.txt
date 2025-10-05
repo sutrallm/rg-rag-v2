@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>解脱の実現が愚痴の完全克服を必須的要素として求める相互排他関係</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

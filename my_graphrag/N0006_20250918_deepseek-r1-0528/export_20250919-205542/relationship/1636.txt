@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN CONCENTRATION (SAMĀDHI)</source_entity>
+    <target_entity>OVERCOMING ATTACHMENT AND VIEWS (ASAVA ANICCA)</target_entity>
+    <relationship_description>Zen Concentration facilitates the meditative practice necessary for developing the insight into Impermanence that leads to Overcoming Attachment and Views.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

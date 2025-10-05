@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>傲慢与虚伪</source_entity>
+    <target_entity>清净心</target_entity>
+    <relationship_description>傲慢与虚伪是阻碍修行者获得清净心的负面心理。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

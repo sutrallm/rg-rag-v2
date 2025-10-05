@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>The wise person is not attached to the five aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

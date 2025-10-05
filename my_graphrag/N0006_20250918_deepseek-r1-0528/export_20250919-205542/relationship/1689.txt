@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>DEFILEMENT-PURITY</target_entity>
+    <relationship_description>Liberation abandons distinctions between impurity and purity, undoing dualistic conditioning.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

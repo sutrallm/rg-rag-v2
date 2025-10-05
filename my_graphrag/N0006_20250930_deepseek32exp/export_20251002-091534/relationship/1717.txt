@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>修行者通过系统修习止观来清晰照见五蕴虚妄，止观是修行者的重要修学方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

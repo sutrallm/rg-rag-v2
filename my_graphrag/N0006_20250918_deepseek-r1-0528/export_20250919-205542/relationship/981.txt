@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>ACTION</target_entity>
+    <relationship_description>Moral discipline purifies the source of bodily, verbal, and mental actions</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

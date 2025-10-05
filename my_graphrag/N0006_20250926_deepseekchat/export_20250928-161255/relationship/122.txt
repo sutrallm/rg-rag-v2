@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>精进修行是解脱的根本，通过持续努力超越死亡的威胁。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

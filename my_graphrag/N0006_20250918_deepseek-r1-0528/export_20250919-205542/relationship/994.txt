@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>聖者 (saints) are characterized as individuals who possess and embody 智慧 (wisdom) through liberation and non-attachment, a key attribute of their state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者已证得解脱境界，不为过去未来所困，不取不着任何现象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

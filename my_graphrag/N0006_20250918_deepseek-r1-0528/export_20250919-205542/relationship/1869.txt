@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>Corrective effort to straighten distorted mind nature enables guarding of the six senses' purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

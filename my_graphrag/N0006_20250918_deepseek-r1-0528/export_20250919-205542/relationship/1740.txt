@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOMB_BORN_GARUDA</source_entity>
+    <target_entity>PLEASURE</target_entity>
+    <relationship_description>Womb-born garudas possess pleasure as a defining quality in teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

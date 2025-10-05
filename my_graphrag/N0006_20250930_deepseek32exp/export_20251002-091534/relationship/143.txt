@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>诸天众生</target_entity>
+    <relationship_description>Heavenly beings respect and honor accomplished practitioners who have attained enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

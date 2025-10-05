@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正知见</source_entity>
+    <target_entity>贪嗔惯性</target_entity>
+    <relationship_description>Using 正知见, one abandons 贪嗔惯性.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

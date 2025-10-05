@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES (WU YUN)</source_entity>
+    <target_entity>LIBERATED BEING (JIE TUO ZHE)</target_entity>
+    <relationship_description>A liberated being has no greed for the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

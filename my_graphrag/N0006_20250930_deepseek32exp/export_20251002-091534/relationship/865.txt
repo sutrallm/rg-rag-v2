@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>唯有恒常保持精进，方能真正驾驭禅定之力，精进是掌握禅定的关键。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

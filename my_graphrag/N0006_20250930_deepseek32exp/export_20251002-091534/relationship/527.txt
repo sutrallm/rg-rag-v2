@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Three Studies framework guides practitioners step by step toward liberation beyond birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

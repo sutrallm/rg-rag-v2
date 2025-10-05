@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>明觉</target_entity>
+    <relationship_description>Enlightened beings maintain clear awareness in all activities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

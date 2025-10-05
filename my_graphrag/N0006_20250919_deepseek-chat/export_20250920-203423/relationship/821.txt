@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>WHOLESOME DHARMA</target_entity>
+    <relationship_description>The mind must be continuously focused on wholesome Dharma to liberate from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

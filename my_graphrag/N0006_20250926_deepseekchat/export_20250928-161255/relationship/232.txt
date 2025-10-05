@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>解脱者通过禅定达到心无挂碍的境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

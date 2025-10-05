@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINE AS FOUNDATION</source_entity>
+    <target_entity>SAGE'S TRANSCENDENT PATH</target_entity>
+    <relationship_description>Perfected ethical conduct is explicitly named as the first component of the Sage's Transcendent Path state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

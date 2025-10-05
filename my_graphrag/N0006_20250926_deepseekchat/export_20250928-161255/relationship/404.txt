@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净心</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>清净心是修行成就的关键，纯粹的心境能令修行者在任何情况下都保持平静与觉知，最终达到解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

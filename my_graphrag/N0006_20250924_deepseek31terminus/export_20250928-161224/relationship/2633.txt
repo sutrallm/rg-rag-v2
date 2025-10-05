@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉照</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Sustained 觉照 leads to the manifestation of 智慧.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

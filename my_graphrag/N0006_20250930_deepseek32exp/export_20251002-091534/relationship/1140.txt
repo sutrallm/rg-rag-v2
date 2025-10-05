@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>清净境界</target_entity>
+    <relationship_description>禅修使修行者安住于清净境界，内心脱离烦恼束缚</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

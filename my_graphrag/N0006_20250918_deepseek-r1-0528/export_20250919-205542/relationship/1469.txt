@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FULFILLED REALIZER</source_entity>
+    <target_entity>MENTAL CONSTRUCTS</target_entity>
+    <relationship_description>A Fulfilled Realizer transcends all limitations of Mental Constructs.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

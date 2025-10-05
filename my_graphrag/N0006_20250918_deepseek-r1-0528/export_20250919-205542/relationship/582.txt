@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT'S ULTIMATE ACHIEVEMENT</source_entity>
+    <target_entity>AUTHENTIC CONCENTRATION</target_entity>
+    <relationship_description>Authentic concentration is a perfected component in the saint's ultimate achievement, alongside ethics and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING CESSATION</source_entity>
+    <target_entity>BLISSFUL STATE</target_entity>
+    <relationship_description>Complete cessation of suffering results in attainment of a blissful state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

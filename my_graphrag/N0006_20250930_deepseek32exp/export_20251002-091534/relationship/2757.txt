@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法性</source_entity>
+    <target_entity>如来智慧</target_entity>
+    <relationship_description>法性平等意味着一切众生皆具如来智慧</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST DISCIPLE</source_entity>
+    <target_entity>SAGEHOOD</target_entity>
+    <relationship_description>A Buddhist disciple who cultivates correctly can attain the ultimate state of Sagehood.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

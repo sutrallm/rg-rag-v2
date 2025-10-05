@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>智慧了知无常、苦、无我的真相，有助于断尽烦恼，证悟涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

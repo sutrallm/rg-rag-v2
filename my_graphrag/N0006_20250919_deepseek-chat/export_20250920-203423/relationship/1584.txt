@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>Practitioners learn to release attachments to outcomes or states to progress spiritually.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定的本质</source_entity>
+    <target_entity>防退转的精进</target_entity>
+    <relationship_description>禅定成就需精进防退转来巩固，两者构成修行持续性的因果衔接</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Wisdom enables non-attachment through direct insight into the illusory nature of all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

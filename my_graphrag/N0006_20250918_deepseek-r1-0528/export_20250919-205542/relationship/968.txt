@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_EFFORT</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Sustained diligent effort purifies mental impurities and refines consciousness</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

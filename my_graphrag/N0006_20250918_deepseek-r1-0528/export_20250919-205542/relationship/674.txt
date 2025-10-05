@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE AGAINST NEGLIGENCE</source_entity>
+    <target_entity>MEANING OF UNCEASING DILIGENCE</target_entity>
+    <relationship_description>Vigilance against negligence is the practice that realizes the meaning of unceasing diligence; diligence is the antidote to negligence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

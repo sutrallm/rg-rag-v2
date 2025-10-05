@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Heavenly beings feel reverence for the saint who has completely severed internal attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>身念处</source_entity>
+    <target_entity>四大</target_entity>
+    <relationship_description>通过身念处修行能彻知四大假合之身的虚妄。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

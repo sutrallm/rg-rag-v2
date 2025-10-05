@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>彻见五蕴皆空者能达到究竟解脱的境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

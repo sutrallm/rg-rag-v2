@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>诸天</target_entity>
+    <relationship_description>具足戒律与智慧的修行者受到诸天的敬重。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

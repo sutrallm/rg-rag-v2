@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>EMANCIPATION</target_entity>
+    <relationship_description>Sage fully actualizes emancipation as the culmination of spiritual practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

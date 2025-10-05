@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>GODS</target_entity>
+    <relationship_description>Gods respect and honor saints who have attained spiritual realization and severed all afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

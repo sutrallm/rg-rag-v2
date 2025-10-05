@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECTED ONE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Perfected one has achieved liberation from the cycle of life and death</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDING ATTACHMENT</source_entity>
+    <target_entity>SAGE QUALITIES</target_entity>
+    <relationship_description>Transcending attachment is a fundamental characteristic that enables the attainment of sage qualities and ultimate liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

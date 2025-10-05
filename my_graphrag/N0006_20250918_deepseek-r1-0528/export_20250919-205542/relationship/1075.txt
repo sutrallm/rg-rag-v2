@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>餓鬼道</target_entity>
+    <relationship_description>放逸の結果として満たされない飢餓状態である餓鬼道へ堕ちる可能性がある</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

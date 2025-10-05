@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MASTER OF DEATH</target_entity>
+    <relationship_description>Diligence allows spiritual practitioners to conquer the master of death through unwavering commitment to the path, as emphasized in the text on overcoming life's cyclical nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

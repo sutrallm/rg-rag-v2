@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO (LIBERATION)</source_entity>
+    <target_entity>ZHANZHI (GRASPING ATTACHMENT)</target_entity>
+    <relationship_description>Liberation is achieved by eliminating Grasping Attachment and perceiving phenomena without clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

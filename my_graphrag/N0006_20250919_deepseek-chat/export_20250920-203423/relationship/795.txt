@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Transcending worldly pursuits leads to non-discriminatory wisdom, essential for enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

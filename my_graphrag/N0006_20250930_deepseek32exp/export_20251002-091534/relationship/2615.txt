@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Zen meditation practice leads to mental liberation, where practitioners free their minds from defilements and gain insight into the impermanent nature of the world.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

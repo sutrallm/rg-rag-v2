@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正知正见</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需要时刻保持正知正见，这是修行的核心要旨。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Meditative concentration is the method through which practitioners achieve the state of mental liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

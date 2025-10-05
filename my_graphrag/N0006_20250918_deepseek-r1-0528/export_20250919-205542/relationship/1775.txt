@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>馴服心念這頭大象 (TAMING THE MIND-ELEPHANT)</source_entity>
+    <target_entity>心念 (MIND)</target_entity>
+    <relationship_description>The metaphor directly describes how vigilance masters the mind through diligent taming.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>The liberation of the mind leads to the ultimate attainment of Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

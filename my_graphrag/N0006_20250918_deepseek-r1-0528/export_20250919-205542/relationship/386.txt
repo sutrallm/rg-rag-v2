@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Eradicating afflictions is essential for attaining liberation, as any trace of attachment hinders the achievement of true tranquility and freedom from suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

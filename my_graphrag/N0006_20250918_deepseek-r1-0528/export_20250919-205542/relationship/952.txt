@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION STATE OF THE SAINT</source_entity>
+    <target_entity>PURITY OF BODY SPEECH AND MIND</target_entity>
+    <relationship_description>Saints exhibit flawless conduct in physical, verbal, and mental actions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

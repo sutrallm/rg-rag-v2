@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN JIN HUO MIE (FIRE EXTINGUISHED WHEN FUEL EXHAUSTED)</source_entity>
+    <target_entity>NIE PAN (NIRVANA)</target_entity>
+    <relationship_description>The metaphor of Fire Extinguished When Fuel Exhausted (Xin Jin Huo Mie) is used to explain the state of Nirvana (Nie Pan), where the cessation of mental activities leads to ultimate peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

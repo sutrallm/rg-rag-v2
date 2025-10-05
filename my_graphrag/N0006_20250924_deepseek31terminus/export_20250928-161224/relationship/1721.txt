@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-RELIANCE</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Self-Reliance involves taking refuge in and taming one's own mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

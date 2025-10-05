@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERTNESS</source_entity>
+    <target_entity>LAZINESS</target_entity>
+    <relationship_description>Alertness counters laziness by preventing complacency in spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

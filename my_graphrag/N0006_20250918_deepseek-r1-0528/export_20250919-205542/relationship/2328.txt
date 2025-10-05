@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MISTAKEN VIEWS</source_entity>
+    <target_entity>FIVE SKANDHAS</target_entity>
+    <relationship_description>Mistaken views are fundamentally rooted in and directed towards the Five Skandhas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

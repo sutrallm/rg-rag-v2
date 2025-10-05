@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION OF MIND</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Liberation inherently entails the complete severing of all afflictions and mental impurities.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

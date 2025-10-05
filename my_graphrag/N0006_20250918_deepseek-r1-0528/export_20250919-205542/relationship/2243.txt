@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CONCENTRATED MIND</target_entity>
+    <relationship_description>Moral precepts establish the ethical foundation required for developing concentrated mind in meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

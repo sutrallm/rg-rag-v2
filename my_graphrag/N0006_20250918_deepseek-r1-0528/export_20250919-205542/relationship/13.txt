@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉放逸的危害</source_entity>
+    <target_entity>法句经·放逸品</target_entity>
+    <relationship_description>First theme in restructured sequence of core teachings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The Buddha's teachings guide practitioners to cultivate diligence in their spiritual practice for liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FULFILLED REALIZER</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>A Fulfilled Realizer has completely vanquished the root cause of suffering, Ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

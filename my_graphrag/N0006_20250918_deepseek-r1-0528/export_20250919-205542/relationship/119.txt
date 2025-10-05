@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Diligent practice enables practitioners to overcome the mastery of death by transcending vulnerability to mortality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

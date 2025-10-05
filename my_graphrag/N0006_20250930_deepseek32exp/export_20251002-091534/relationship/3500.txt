@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Wisdom enables practitioners to cross beyond all sorrow and suffering in birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>七觉支</target_entity>
+    <relationship_description>四念处和七觉支都是圣道修习的重要组成部分</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

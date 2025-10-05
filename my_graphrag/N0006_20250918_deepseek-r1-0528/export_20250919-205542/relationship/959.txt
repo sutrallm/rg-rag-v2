@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUARDING_THE_MIND</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Proper guarding of mind prevents afflictions from arising</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

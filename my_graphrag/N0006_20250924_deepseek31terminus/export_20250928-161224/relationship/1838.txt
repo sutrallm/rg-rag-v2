@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DWELLING IN MEDITATIVE JOY</source_entity>
+    <target_entity>TRUEST QUIESCENCE</target_entity>
+    <relationship_description>Dwelling in Meditative Joy, by transcending extremes, leads to or embodies the Truest Quiescence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

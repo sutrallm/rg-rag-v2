@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION (CHAN DING)</source_entity>
+    <target_entity>WISDOM (ZHI HUI)</target_entity>
+    <relationship_description>Meditation leads to the wisdom of observing the rise and fall of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

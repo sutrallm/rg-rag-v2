@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESTRAINT</source_entity>
+    <target_entity>UNWHOLESOME_ACTIONS</target_entity>
+    <relationship_description>Disciplined restraint is required to eliminate harmful behaviors and tendencies effectively.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

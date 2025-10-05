@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>修行者以解脫為目標，超越世間的輪迴與痛苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

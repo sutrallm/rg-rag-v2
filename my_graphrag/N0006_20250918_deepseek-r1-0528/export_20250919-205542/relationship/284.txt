@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>DEATH_REBIRTH_CYCLE</target_entity>
+    <relationship_description>禅定修习能超越生死轮回的束缚。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

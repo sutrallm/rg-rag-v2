@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>贪嗔</target_entity>
+    <relationship_description>智慧能斩断贪嗔的连锁，使心从情绪波动中获得自在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

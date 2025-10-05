@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修心</source_entity>
+    <target_entity>安乐</target_entity>
+    <relationship_description>All happiness (安乐) comes from a clear and trained mind, which is the goal of mind cultivation (修心).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

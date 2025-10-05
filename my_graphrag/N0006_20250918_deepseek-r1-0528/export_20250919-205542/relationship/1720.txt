@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>解脱 (liberation) involves direct insight into 无常 (impermanence) as the nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

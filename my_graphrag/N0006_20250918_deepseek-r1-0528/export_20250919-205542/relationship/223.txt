@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAW OF IMPERMANENCE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>The law of impermanence dictates that death is certain and universal, overriding all temporal powers and highlighting the futility of relying on authority.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

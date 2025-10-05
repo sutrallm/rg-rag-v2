@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA</source_entity>
+    <target_entity>INNER_ENEMIES</target_entity>
+    <relationship_description>Dharma practice subdues inner enemies like hatred and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

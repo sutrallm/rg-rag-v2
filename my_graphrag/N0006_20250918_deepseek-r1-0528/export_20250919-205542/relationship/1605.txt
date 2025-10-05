@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RANDOM THOUGHTS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Random Thoughts hinder Concentration by preventing single-pointed focus during spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

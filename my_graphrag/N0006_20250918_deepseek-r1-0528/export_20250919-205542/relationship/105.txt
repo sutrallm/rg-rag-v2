@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PHENOMENA</source_entity>
+    <target_entity>SELF-NATURE</target_entity>
+    <relationship_description>Physical and mental phenomena inherently possess the fundamental quality of emptiness, discerned through mindful insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

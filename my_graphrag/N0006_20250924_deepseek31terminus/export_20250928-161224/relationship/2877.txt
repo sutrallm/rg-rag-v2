@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditation gives rise to wisdom, as described in the text's sequential cultivation path where concentration leads to the emergence of illuminating knowledge.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

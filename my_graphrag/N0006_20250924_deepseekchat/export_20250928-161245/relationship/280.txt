@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Chan Ding is a practice that helps the Sheng Zhe to perfect concentration and achieve deep states of meditative absorption.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

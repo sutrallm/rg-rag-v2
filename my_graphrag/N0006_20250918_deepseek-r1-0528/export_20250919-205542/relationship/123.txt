@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>CESATION</target_entity>
+    <relationship_description>Saints dwell in the Cessation state to eradicate all afflictions and attain irreversible liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

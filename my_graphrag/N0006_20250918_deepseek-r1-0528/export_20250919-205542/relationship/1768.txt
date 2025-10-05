@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸 (NEGLIGENCE)</source_entity>
+    <target_entity>死亡魔王 (LORD OF DEATH)</target_entity>
+    <relationship_description>Negligence attracts suffering and destruction, metaphorically embodied by the Lord of Death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

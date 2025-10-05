@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CYCLE OF BIRTH AND DEATH</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Death is an inescapable phase within the continuous sequence of rebirth that defines the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

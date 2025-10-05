@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Attachment manifests from craving, both to be transcended through practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

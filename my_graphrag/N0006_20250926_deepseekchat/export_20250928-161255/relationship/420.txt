@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Chan Ding leads practitioners to Jie Tuo by helping them achieve inner peace and transcend suffering through focused meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

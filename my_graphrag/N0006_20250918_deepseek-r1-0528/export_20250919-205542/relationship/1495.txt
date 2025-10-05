@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Mindfulness establishes the mental stability necessary to cultivate and sustain Diligence in spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

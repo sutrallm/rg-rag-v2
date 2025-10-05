@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL ACHIEVEMENT</source_entity>
+    <target_entity>FAR SHORE</target_entity>
+    <relationship_description>The one who has achieved the spiritual path has reached the far shore.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

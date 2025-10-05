@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>NEGLIGENCE AND DISTRACTION</target_entity>
+    <relationship_description>Defilements directly arise from states of negligence and distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

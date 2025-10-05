@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>智慧洞察微细烦恼，助修行者断除根本束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

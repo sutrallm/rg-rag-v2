@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>禪修</target_entity>
+    <relationship_description>禪修幫助修行者斷除煩惱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

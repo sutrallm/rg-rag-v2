@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>世间无常</target_entity>
+    <relationship_description>Wisdom enables practitioners to perceive the impermanent nature of existence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

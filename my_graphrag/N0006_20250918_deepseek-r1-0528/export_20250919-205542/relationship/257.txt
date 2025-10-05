@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>Diligence is the driving force that allows resolute individuals to master meditative concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

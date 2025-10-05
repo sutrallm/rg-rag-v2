@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是智慧修行次第中的第二步，通过禅定收摄心念为智慧照破无明创造条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

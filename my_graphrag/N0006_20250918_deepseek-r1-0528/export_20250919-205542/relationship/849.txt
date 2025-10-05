@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE (ENLIGHTENED BEING)</source_entity>
+    <target_entity>SHI XIANG (TRUE REALITY)</target_entity>
+    <relationship_description>The Enlightened Being abides in True Reality through meditative concentration and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Celestial beings hold liberation sages in high regard due to their attainment through practices like upholding precepts and wisdom, reflecting divine admiration for the liberated state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Ethical conduct together with deep wisdom enables practitioners to sever the roots of afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

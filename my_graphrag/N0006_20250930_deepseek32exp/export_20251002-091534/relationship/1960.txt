@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>精进与放逸是相对的概念，精进就是要克服放逸的状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

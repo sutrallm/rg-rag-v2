@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧圆满</source_entity>
+    <target_entity>忧悲</target_entity>
+    <relationship_description>Perfected wisdom enables the transcendence of sorrow and grief.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

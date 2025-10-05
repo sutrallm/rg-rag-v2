@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初阶修行者</source_entity>
+    <target_entity>细微执着</target_entity>
+    <relationship_description>初阶修行者 (beginning practitioners) still have 细微执着 (subtle attachments) that continue to arise even after subduing coarse afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

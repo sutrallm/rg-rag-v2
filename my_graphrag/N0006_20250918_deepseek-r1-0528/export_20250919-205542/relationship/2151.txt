@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TIANREN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>TIANREN (heavenly beings) hold SHENGZHE in reverence due to their transcendence of suffering and afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

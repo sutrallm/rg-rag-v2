@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪修</source_entity>
+    <target_entity>心念專注</target_entity>
+    <relationship_description>禪修是一種達到心念專注的方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

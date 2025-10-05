@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE PATH</source_entity>
+    <target_entity>ULTIMATE WISDOM</target_entity>
+    <relationship_description>The practice path progresses from establishing right view to perfecting ultimate wisdom through sequential cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

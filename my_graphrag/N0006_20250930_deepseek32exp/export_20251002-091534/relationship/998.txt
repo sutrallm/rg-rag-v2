@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>成就者</source_entity>
+    <target_entity>众生</target_entity>
+    <relationship_description>成就者的言行自然利益众生，如同云雨滋润草木。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成就</source_entity>
+    <target_entity>纯金</target_entity>
+    <relationship_description>Spiritual attainment is verified like pure gold refined by fire to remove impurities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

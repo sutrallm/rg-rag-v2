@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practice is the path that leads to liberation from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

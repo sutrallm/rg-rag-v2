@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持續修行</source_entity>
+    <target_entity>不執著</target_entity>
+    <relationship_description>持續修行能夠幫助達到不執著的狀態，通過不斷實踐，澈見現象的虛幻本質。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

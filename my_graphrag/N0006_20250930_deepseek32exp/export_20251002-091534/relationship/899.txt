@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>无生法忍</target_entity>
+    <relationship_description>解脱是证得无生法忍的圣者状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

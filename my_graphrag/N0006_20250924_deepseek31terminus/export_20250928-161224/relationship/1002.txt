@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者是具足深广智慧的修行者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

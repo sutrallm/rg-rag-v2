@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>修行者通过持戒来规范行为、净化心灵。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

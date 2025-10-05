@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者的超越特質</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>聖者的超越特質 result from diligently cultivating 心念 (mindfulness) and abiding in stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

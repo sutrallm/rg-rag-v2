@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>ILLUSION</target_entity>
+    <relationship_description>The mind generates illusion through deceptive mental activities, which must be ceased for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

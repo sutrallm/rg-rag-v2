@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ULTIMATE ACHIEVEMENT</target_entity>
+    <relationship_description>A saint embodies the state of ultimate achievement, being a field of merit and the most honorable being.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

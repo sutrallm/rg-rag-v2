@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>WORLDLY PLEASURES</target_entity>
+    <relationship_description>Wisdom understands that even the greatest worldly pleasures cannot compare to the happiness of learning the liberating Dharma.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

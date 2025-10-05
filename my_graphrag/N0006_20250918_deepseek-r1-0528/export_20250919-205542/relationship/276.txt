@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>洞察虚妄的智慧直接导致不执着的解脱状态。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

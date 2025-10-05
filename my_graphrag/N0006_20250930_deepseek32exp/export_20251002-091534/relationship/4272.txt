@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无常观 involves observing the impermanent nature of the 五蕴 (five aggregates) to recognize the transient nature of all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

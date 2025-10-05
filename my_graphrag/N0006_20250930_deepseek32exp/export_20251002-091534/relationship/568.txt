@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HEEDFULNESS</target_entity>
+    <relationship_description>The practitioner cultivates heedfulness through continuous diligence to master meditative practice and avoid negative forces.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

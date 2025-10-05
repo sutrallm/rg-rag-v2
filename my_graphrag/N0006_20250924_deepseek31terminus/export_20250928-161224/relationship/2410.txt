@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>三界</target_entity>
+    <relationship_description>When the mind is free from attachment, it is not bound by the three realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

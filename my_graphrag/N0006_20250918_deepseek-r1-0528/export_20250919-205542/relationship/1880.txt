@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BEYOND GRASPING</source_entity>
+    <target_entity>CYCLE OF EXISTENCE</target_entity>
+    <relationship_description>BEYOND GRASPING achieves complete transcendence over the CYCLE OF EXISTENCE.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

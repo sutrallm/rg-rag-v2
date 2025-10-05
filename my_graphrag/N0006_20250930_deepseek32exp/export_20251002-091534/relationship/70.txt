@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARHAT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Arhats have attained nirvana, a state where all craving is eradicated and no new karmic actions are generated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

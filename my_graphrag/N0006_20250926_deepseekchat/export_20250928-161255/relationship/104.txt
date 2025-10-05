@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE AND NON-SELF</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Understanding impermanence and non-self is a key aspect of wisdom, enabling practitioners to detach from worldly attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BEGINNER</source_entity>
+    <target_entity>SEQUESTERED_LOCALE</target_entity>
+    <relationship_description>A quiet, sequestered location is recommended for beginners to practice Anapanasati effectively.</relationship_description>
+    <relationship_strength>3</relationship_strength>
+</relationship>

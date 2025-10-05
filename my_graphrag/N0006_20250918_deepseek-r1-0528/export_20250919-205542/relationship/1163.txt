@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>UNCONTAMINATED MIND</target_entity>
+    <relationship_description>Complete destruction of defilements results in attainment of the Uncontaminated Mind state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The true practitioner diligently abides in practice as stated in the context of meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Concentration is a necessary practice for severing bonds and achieving liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

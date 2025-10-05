@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTEMPLATION OF IMPERMANENCE</source_entity>
+    <target_entity>LIBERATED BEING</target_entity>
+    <relationship_description>Diligent practitioners of the Contemplation of Impermanence, who truly grasp the nature of the Aggregates, become worthy individuals known as 'true possessors of longevity' (beyond birth/death).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

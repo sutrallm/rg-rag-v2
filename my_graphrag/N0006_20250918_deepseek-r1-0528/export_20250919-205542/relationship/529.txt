@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>THE WISE</target_entity>
+    <relationship_description>Liberation defines the state of the wise, who comprehend ultimate truths after attaining freedom from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

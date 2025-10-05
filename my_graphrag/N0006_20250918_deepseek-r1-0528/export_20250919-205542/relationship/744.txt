@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>境界优劣</target_entity>
+    <relationship_description>Liberates practitioners from attachment to both positive and negative meditative states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

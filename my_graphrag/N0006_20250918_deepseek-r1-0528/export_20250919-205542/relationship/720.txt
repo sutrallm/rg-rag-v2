@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Clinging is identified as the root cause of Suffering in dependent origination.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

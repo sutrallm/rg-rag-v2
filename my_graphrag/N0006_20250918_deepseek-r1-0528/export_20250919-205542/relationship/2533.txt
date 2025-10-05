@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SIX SENSE FACULTIES</target_entity>
+    <relationship_description>Disciplined practice restrains sensory engagement from external stimuli</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

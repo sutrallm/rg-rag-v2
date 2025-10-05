@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUAL ROOTS</source_entity>
+    <target_entity>TUSK-LESSENING SIMILE</target_entity>
+    <relationship_description>Reinterprets original elephant-tusk parable as a principle about moral foundations.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>精进 involves diligent practice of the teachings of the 佛陀 to avoid falling under the control of death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

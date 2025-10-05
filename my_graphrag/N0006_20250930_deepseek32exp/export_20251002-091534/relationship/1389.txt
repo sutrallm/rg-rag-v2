@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圆满成就者</source_entity>
+    <target_entity>福智二资粮</target_entity>
+    <relationship_description>圆满成就者已圆满福智二资粮</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

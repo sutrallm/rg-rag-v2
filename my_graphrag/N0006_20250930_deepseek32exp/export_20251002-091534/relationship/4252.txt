@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>教法</source_entity>
+    <target_entity>实践</target_entity>
+    <relationship_description>Spiritual teachings require practical application to reveal their true value and meaning.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>佛陀为修行者指明了解脱之道，禅定是遵循佛陀教导的重要修习方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

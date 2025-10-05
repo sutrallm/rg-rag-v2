@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>诸天</target_entity>
+    <relationship_description>Accomplished practitioners are respected by celestial beings (诸天).</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

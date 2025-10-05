@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸的根本意义</source_entity>
+    <target_entity>精进对治生死束缚</target_entity>
+    <relationship_description>The principle of non-negligence (不放逸) is the foundation enabling diligent practice (精进) to overcome life-death bonds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

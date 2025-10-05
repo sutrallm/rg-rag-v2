@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚昧者</source_entity>
+    <target_entity>善知识</target_entity>
+    <relationship_description>愚昧者即使经过善知识的开导，仍难以领悟法义。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

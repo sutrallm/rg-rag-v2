@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>须弥山</target_entity>
+    <relationship_description>究竟成就的圣者心无动摇，如须弥山安住，是真实的梵行者。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

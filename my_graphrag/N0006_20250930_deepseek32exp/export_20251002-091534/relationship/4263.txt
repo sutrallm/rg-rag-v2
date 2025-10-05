@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>生死困境</target_entity>
+    <relationship_description>Practitioners who continuously practice teachings can transcend the predicament of birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

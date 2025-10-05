@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>Thoroughly enlightened saints are no longer bound by the force of karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

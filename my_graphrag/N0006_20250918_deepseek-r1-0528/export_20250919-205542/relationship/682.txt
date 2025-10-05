@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SIX SENSE BASES</target_entity>
+    <relationship_description>Practitioners actively guard the six sensory faculties as a defensive practice against distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

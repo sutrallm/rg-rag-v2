@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>LIBERATION WISDOM</target_entity>
+    <relationship_description>Meditative concentration leads to the development of liberation wisdom by enabling clear observation of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

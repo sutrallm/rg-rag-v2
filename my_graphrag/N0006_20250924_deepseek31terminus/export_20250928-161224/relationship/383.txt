@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著網羅</source_entity>
+    <target_entity>究竟安穩</target_entity>
+    <relationship_description>Breaking the net of attachment leads to ultimate peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

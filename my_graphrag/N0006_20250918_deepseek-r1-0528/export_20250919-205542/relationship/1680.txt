@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT AWARENESS</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Awareness of the present liberates the mind from mental entanglements, enabling inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

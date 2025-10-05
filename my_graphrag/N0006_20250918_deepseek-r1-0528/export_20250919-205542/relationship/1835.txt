@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定(MEDITATIVE CONCENTRATION)</source_entity>
+    <target_entity>智慧(WISDOM)</target_entity>
+    <relationship_description>Stable meditative concentration serves as the necessary foundation for cultivating profound wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

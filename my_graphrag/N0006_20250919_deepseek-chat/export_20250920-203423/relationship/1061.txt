@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>圣者是具足戒律与智慧的修行者，断尽烦恼、超越痛苦，自利利他，受到诸天与世人的敬重。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

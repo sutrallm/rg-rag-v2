@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Adherence to precepts provides the foundation for cultivating wisdom and cutting through delusions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

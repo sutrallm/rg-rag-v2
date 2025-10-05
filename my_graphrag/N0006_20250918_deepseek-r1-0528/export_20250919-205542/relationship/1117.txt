@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE_PEACE</source_entity>
+    <target_entity>FREEDOM</target_entity>
+    <relationship_description>Ultimate peace is experienced upon attainment of complete freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

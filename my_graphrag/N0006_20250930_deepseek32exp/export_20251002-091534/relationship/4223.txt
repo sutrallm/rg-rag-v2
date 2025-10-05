@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>NAME_AND_FORM</target_entity>
+    <relationship_description>The cycle of birth and death ends when name-and-form are completely extinguished.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>感受对象</target_entity>
+    <relationship_description>圣者不执取任何感受对象，不执取感受对象是圣者的修行特质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

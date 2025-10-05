@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>DEMONIC_DISTURBANCES</target_entity>
+    <relationship_description>negligence leads to harm from demonic disturbances, making it a major threat to spiritual safety.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

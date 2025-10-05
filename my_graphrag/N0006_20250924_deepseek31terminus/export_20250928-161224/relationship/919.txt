@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER (XIU XING ZHE)</source_entity>
+    <target_entity>MEDITATION (CHAN DING)</target_entity>
+    <relationship_description>A practitioner engages in meditation to achieve peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

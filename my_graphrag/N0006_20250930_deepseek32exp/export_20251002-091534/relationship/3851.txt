@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Practitioners train their minds to not incline toward greed and anger, remaining unattached and liberated from all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

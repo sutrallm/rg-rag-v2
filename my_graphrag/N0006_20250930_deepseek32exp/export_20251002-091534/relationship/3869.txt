@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初果到四果</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需要经历从初果到四果的修行次第，依次断除不同层次烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

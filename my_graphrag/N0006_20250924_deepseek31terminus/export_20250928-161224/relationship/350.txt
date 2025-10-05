@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善知識</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>A virtuous friend helps one learn and practice the true Dharma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

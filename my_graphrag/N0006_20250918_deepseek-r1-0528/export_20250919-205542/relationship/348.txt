@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NECESSITY OF MINDFUL VIGILANCE</source_entity>
+    <target_entity>TRAITS OF THE ACCOMPLISHED</target_entity>
+    <relationship_description>Mindful vigilance, leading to mastery of the mind and eradication of craving, directly contributes to cultivating the perfect discipline and wisdom that characterize the Accomplished.</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

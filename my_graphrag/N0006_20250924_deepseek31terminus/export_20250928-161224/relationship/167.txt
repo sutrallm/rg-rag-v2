@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟解脫者</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>究竟解脫者是达到最终解脫境界的圣者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

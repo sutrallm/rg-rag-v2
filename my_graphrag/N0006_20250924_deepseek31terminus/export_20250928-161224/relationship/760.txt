@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>法性</target_entity>
+    <relationship_description>践行八正道有助于直观法性本源。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Afflictions actively produce and perpetuate experiential suffering for the practitioner.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

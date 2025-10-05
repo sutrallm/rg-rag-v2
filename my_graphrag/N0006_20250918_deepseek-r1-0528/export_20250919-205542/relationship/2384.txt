@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Meditation (concentration and mindfulness) is used to abandon laziness and afflictions (defilements).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

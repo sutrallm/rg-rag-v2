@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE (THE SAGE)</source_entity>
+    <target_entity>JIE TUO (LIBERATION)</target_entity>
+    <relationship_description>A Sage (Sheng Zhe) is an individual who has fully realized the state of Liberation (Jie Tuo).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEATH'S DEMON</target_entity>
+    <relationship_description>Diligence breaks the bondage of metaphorical Death's Demon.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_DHARMA</source_entity>
+    <target_entity>ACTION</target_entity>
+    <relationship_description>Authentic teachings must be diligently implemented through practical conduct</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

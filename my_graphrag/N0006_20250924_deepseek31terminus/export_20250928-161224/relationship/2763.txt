@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观慧</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>观慧 involves observing the true nature of the 五蕴.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

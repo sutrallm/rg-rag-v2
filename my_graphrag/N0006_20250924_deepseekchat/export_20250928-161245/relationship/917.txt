@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>修行者遵循修行次第，由戒得定，因定发慧，依慧断惑。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

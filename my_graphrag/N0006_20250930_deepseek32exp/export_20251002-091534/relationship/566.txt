@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>UNCONDITIONED STATE</target_entity>
+    <relationship_description>Liberation culminates in the realization of the unconditioned state, which is beyond all dualistic concepts and actions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

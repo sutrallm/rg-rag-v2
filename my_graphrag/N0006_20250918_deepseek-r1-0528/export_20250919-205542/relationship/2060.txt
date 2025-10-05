@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANAPANASATI</source_entity>
+    <target_entity>NON_DELUSIVE_KNOWLEDGE</target_entity>
+    <relationship_description>Anapanasati practice leads to Non-Delusive Knowledge.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

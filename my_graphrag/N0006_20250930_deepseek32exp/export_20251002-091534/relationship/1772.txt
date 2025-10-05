@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>具足清净戒律与如实智慧是圣者修学的完整体系</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

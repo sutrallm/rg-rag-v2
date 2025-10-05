@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>修行者通过安住于寂静，心无动摇，体验到内心的自在与安宁。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

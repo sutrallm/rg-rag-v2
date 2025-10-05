@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CUTTING DELUSION AND GENERATING WISDOM</source_entity>
+    <target_entity>WISDOM OF LIBERATION</target_entity>
+    <relationship_description>The method of dispelling delusion and cultivating wisdom leads directly to the experiential state of liberating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

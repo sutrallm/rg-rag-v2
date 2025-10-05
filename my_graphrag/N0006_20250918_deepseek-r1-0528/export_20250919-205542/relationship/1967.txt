@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS PRACTICE</source_entity>
+    <target_entity>GUARDING SENSE FACULTIES</target_entity>
+    <relationship_description>Mindfulness cultivation provides the foundation for effective guarding of sense faculties.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

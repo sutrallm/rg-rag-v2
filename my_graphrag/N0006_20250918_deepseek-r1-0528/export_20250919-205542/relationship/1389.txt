@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLEASURE-SEEKING</source_entity>
+    <target_entity>BIRTH-DEATH</target_entity>
+    <relationship_description>The flood of pleasure-seeking binds beings to the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

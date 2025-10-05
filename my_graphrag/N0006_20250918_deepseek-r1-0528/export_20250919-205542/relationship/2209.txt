@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Purity in precepts generates inner joy through freedom from ethical remorse.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

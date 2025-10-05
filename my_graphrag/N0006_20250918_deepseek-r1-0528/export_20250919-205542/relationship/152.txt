@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>NEGATIVE KARMA</target_entity>
+    <relationship_description>Mindfulness prevents the arising of negative karma by eliminating conditions for evil deeds through sustained awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

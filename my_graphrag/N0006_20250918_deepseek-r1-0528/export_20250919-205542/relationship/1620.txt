@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Meditative Concentration directly enables attainment of Nirvana by freeing the mind from defilements and facilitating liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

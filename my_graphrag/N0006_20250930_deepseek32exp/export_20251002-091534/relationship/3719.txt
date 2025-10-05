@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>修行者应当守护六根门户，保持正念，最终抵达安乐彼岸。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

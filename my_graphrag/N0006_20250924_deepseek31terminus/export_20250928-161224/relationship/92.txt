@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Practitioners engage in Chan Ding (meditative concentration) as their core practice to achieve peace and overcome afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

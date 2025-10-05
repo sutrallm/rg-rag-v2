@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Liberation represents complete freedom from afflictions, achieving a state beyond all mental disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

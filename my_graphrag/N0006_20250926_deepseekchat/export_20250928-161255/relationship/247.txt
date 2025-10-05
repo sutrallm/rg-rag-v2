@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Attachment perpetuates the cycle of rebirth and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL VIRTUE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Moral virtue provides the indispensable ethical groundwork without which liberation cannot be attained, as per doctrinal teachings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

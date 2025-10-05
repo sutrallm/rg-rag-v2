@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>Overcoming negligence is essential for achieving and maintaining meditative concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>善惡業果</target_entity>
+    <relationship_description>Practitioners must understand and respect the nature of karma from good and evil deeds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

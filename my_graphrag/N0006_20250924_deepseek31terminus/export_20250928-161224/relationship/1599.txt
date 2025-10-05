@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>The Middle Way is the recommended path for practitioners to follow.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

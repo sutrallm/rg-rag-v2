@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>STABLE MIND</target_entity>
+    <relationship_description>Negligence actively hinders stable mind by generating mental disturbances that disrupt focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>贪欲之网</target_entity>
+    <relationship_description>A wise person (智者) guards their mind to avoid the net of craving (贪欲之网).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

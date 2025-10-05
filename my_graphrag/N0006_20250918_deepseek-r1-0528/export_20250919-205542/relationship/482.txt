@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>懈堕</target_entity>
+    <relationship_description>精进 (diligence) prevents and counteracts 懈堕 (sloth/negligence).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

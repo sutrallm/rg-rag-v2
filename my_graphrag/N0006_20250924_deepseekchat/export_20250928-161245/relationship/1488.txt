@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无执</source_entity>
+    <target_entity>解脱者</target_entity>
+    <relationship_description>无执是解脱者的特质，通过无执修行者如同莲花不染淤泥，超越一切相对概念。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

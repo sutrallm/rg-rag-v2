@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARHAT (FOURTH FRUIT)</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Fourth Fruit attainment equals full realization of Liberation from cyclic existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION PATH</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The liberation path destroys all bonds of affliction, directly asserted in theme 5.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

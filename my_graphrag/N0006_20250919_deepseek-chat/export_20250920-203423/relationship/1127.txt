@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>修行的最终目标</target_entity>
+    <relationship_description>The sage, having eradicated afflictions and transcended suffering, achieves the ultimate goal of practice, liberation from birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

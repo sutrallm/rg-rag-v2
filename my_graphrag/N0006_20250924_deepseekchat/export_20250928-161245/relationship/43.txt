@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出离世间</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>出离世间需要以智慧超越五欲与烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

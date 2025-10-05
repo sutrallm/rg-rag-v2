@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣果证悟</source_entity>
+    <target_entity>三结十缚</target_entity>
+    <relationship_description>圣果证悟 involves complete eradication of 三结十缚 (three fetters and ten bonds).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

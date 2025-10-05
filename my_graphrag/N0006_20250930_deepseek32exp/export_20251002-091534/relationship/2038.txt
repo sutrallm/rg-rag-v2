@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>烦恼习气</target_entity>
+    <relationship_description>止观 practice purifies all 烦恼习气 afflictions and habitual tendencies.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

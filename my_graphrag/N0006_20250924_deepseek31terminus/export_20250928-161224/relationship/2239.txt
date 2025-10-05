@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧观照</source_entity>
+    <target_entity>对立与执取</target_entity>
+    <relationship_description>智慧观照 enables the mind to be unmoved and transcend 对立与执取 (duality and grasping).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

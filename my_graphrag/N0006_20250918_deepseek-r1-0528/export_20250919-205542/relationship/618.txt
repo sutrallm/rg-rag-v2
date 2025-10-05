@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE REALM OF LIBERATION</source_entity>
+    <target_entity>ETHICAL DISCIPLINE AND WISDOM</target_entity>
+    <relationship_description>The Sage Realm of Liberation is characterized by the perfected state of Ethical Discipline and Wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WORLDLY_ATTACHMENTS</target_entity>
+    <relationship_description>Saints abandon all attachments and delight in worldly realms</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

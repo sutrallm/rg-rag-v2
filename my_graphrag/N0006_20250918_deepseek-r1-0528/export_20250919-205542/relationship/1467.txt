@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSON OF COMPLETE REALIZATION</source_entity>
+    <target_entity>EXTINCTION</target_entity>
+    <relationship_description>A Person of Complete Realization dwells in the state of Nirvana (Extinction), having ended afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

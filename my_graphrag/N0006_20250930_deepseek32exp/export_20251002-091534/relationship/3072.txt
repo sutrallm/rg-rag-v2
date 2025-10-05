@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>觉悟者</target_entity>
+    <relationship_description>Sages and enlightened beings both represent advanced stages of spiritual attainment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

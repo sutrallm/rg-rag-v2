@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ERADICATING DEFILEMENTS THE HOLY WAY</source_entity>
+    <target_entity>ILLUMINATING WISDOM</target_entity>
+    <relationship_description>Eradicating defilements culminates in the full realization of illuminating wisdom and freedom from suffering. Full wisdom leads to final eradication; eradication confirms and utilizes ultimate wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

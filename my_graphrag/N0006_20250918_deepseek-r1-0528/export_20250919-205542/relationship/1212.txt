@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSES</source_entity>
+    <target_entity>ENLIGHTENED ONE</target_entity>
+    <relationship_description>Cessation of the six senses' functions defines the enlightened state of unobscured awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

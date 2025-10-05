@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEITIES</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Deities respect and honor saints who have attained spiritual accomplishments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

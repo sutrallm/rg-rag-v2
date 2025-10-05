@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS OF DEATH</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Awareness of Death generates the profound urgency that fuels genuine Diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

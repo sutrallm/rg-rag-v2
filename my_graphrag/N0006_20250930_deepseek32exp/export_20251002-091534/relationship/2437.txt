@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>持戒</target_entity>
+    <relationship_description>持戒 is the first component of the 戒定慧 threefold training system that establishes the foundation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

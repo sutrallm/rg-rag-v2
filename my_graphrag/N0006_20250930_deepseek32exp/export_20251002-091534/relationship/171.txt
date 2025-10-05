@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Saints are advanced practitioners who have achieved high levels of spiritual attainment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEITIES</target_entity>
+    <relationship_description>Saints who have attained high spiritual realization are respected and honored by deities.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

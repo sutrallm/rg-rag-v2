@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正道</target_entity>
+    <relationship_description>精进 must be made according to 正道 (依循正道) to achieve true mastery over one's mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

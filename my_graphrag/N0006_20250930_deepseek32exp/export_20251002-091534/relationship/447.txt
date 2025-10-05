@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHTFOLD PATH</source_entity>
+    <target_entity>THREE STUDIES</target_entity>
+    <relationship_description>The Eightfold Path encompasses and perfects the three studies of precepts, concentration, and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行者通过修行追求解脱，超越生死轮回。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

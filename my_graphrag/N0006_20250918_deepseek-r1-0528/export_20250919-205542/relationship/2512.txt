@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY PLEASURES</source_entity>
+    <target_entity>DILIGENT CULTIVATION</target_entity>
+    <relationship_description>Sensory pleasures are dangers that diligent cultivation protects practitioners against.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

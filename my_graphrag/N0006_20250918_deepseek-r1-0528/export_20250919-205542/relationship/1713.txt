@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>七种防护</source_entity>
+    <target_entity>修证次第</target_entity>
+    <relationship_description>七种防护 represents a dimension of liberation that parallels the mechanism of 修证次第.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>觉察力</target_entity>
+    <relationship_description>修行者时刻培养觉察力，观察心念的起落，彻底断除贪嗔痴。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

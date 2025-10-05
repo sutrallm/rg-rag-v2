@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>圣者是彻悟者，已达到涅槃境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

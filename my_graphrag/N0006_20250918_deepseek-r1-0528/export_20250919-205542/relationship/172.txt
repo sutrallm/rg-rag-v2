@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wisdom enables practitioners to transcend all forms of Attachment, including attachment to states and results, by perceiving the impermanent nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

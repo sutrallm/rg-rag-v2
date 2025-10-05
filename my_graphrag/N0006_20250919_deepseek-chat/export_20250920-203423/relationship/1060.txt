@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过修行获得智慧，洞察世间无常性，不执着于任何境界，达到真正的自由与解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

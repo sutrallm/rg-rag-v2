@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念专注</source_entity>
+    <target_entity>干扰</target_entity>
+    <relationship_description>心念专注 (mental concentration) leads to freedom from 干扰 (disturbances). Achieving concentration allows the practitioner to transcend hindrances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

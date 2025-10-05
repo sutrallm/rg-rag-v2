@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE ESSENTIALS</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Practice essentials include mindfulness as a core method for guarding consciousness and restraining the senses.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

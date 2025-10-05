@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸 (NEGLIGENCE)</source_entity>
+    <target_entity>修行正道 (RIGHT PATH)</target_entity>
+    <relationship_description>Negligence is the antithesis of the diligence required to follow the Right Path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

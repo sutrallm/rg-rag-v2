@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脫者是達到涅槃的修行者，已超脫生死，不再受業力牽引。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

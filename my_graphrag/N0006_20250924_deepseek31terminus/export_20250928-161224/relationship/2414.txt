@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>Through moral discipline and practice, one can extinguish the flames of affliction and attain nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

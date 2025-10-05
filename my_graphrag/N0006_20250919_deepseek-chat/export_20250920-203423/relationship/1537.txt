@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>寂靜</target_entity>
+    <relationship_description>修行者安住于寂靜，能断除烦恼与执着，获得洞察力，看清世间的真相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

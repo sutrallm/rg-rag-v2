@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>善知识</target_entity>
+    <relationship_description>未亲证法义的修行者应当亲近已证悟的善知识以获得指导和启发。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

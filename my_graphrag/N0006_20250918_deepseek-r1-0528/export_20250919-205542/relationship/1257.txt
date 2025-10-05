@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正道不被魔扰</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>正道不被魔扰的实践基础是遵循八正道前行，八正道是实现此原则的具体路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

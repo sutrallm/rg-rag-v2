@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>通过禅定修行可以证得涅槃境界</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>When mindfulness is continuously maintained, wisdom naturally arises and reveals the true nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

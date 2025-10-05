@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saints embody complete liberation through permanent cessation of birth-death suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

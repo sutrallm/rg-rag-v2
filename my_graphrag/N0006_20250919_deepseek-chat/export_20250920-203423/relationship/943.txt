@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FANGYI</target_entity>
+    <relationship_description>Practitioners must avoid indulgence (放逸) to achieve wisdom and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>佛法</target_entity>
+    <relationship_description>通过体悟佛法的深义，修行者可以证得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

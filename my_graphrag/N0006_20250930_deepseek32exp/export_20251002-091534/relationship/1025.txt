@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>身念处</target_entity>
+    <relationship_description>The progressive stages of practice gradually develop mindfulness of the body.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

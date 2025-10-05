@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ABIDING IN TRANQUILITY</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Abiding in tranquility enables transcendence of all suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

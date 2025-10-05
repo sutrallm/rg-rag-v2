@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHA JUE</source_entity>
+    <target_entity>JING JIN XIU XING</target_entity>
+    <relationship_description>Cha Jue is developed through Jing Jin Xiu Xing, enabling practitioners to avoid wrong views and actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

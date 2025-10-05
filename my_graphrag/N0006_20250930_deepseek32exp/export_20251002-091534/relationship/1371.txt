@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正法修持</target_entity>
+    <relationship_description>修行者依教奉行正法修持，无论何种根基皆得受益。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Liberated beings recognize the five aggregates as illusory, thereby severing attachment to self and phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

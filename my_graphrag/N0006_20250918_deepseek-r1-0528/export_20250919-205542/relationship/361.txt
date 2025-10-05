@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sustained diligent practice enables liberation from cyclic existence and its inherent sufferings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

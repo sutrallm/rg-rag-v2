@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts serve as the foundational step for developing wisdom.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

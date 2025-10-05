@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PAST_MERIT</source_entity>
+    <target_entity>AUSPICIOUSNESS</target_entity>
+    <relationship_description>Accumulated merit from previous virtuous actions serves as a necessary base for auspicious developments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

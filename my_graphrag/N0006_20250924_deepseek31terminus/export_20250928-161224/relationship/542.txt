@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>The saint is free from attachment to all phenomena, including not clinging to the fruits of practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

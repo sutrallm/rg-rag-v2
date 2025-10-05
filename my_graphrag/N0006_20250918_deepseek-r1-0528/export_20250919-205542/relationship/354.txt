@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>證悟者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>Enlightened beings naturally express non-attached compassion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

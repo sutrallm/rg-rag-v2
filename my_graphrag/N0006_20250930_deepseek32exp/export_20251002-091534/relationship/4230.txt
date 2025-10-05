@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>FLAME</target_entity>
+    <relationship_description>The conduct of thoroughly awakened saints cannot be measured, like a flame that has gone out leaves no trace.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

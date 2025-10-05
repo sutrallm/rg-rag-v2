@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONKEY AND BEANS STORY</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Buddha is the storyteller who uses the monkey parable to teach a spiritual lesson.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

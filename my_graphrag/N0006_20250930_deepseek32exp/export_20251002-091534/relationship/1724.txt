@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>法性真如</target_entity>
+    <relationship_description>涅槃境界的终极体现是寂然安住法性真如，法性真如是涅槃的真实本性。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

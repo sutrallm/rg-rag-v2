@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DWELLING IN MEDITATIVE JOY</source_entity>
+    <target_entity>DHYANA</target_entity>
+    <relationship_description>Dwelling in Meditative Joy describes the advanced, unattached state of abiding within Dhyana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

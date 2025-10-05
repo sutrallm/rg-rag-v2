@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE_MEDITATION_WISDOM</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The threefold training of virtue, meditation, and wisdom enables complete severance of afflictions' roots.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARROGANCE</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>Arrogance prevents purification of six senses by reinforcing self-centered engagement with stimuli.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

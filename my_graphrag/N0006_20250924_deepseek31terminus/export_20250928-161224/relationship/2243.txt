@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>譬喻和對話</source_entity>
+    <target_entity>法義闡述</target_entity>
+    <relationship_description>在轉化過程中，譬喻和對話被改寫為直接的法義闡述。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

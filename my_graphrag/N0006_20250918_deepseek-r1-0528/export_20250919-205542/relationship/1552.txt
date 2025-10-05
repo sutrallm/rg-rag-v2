@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAMSAARA</target_entity>
+    <relationship_description>Liberation signifies complete freedom from the Samsaara cycle of rebirth and associated sufferings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>True achievers have extinguished all attachments, including the craving for nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

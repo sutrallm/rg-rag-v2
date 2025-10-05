@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸法空性</source_entity>
+    <target_entity>芭蕉</target_entity>
+    <relationship_description>The banana tree symbolizes the perceived emptiness inherent in all things when their true nature is examined.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

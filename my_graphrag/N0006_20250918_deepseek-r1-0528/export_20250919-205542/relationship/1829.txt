@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Virtue enables and supports the attainment of enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

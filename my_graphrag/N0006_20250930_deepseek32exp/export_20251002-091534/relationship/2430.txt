@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HEEDFULNESS</target_entity>
+    <relationship_description>Practitioners practice heedfulness according to the Buddha's teachings to overcome death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

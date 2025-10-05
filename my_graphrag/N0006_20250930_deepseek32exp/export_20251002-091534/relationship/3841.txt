@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE ESSENTIALS</source_entity>
+    <target_entity>RENUNCIATION</target_entity>
+    <relationship_description>Practice essentials provide the foundation for the renunciation path by teaching sense restraint and mental guarding.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

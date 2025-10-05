@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAMING THE MIND</source_entity>
+    <target_entity>QUALITIES OF A SAINT</target_entity>
+    <relationship_description>Taming the mind is a step toward developing the qualities of a saint, such as discipline and tranquility.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

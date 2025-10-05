@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_CULTIVATION</source_entity>
+    <target_entity>AWARENESS_AND_FOCUS</target_entity>
+    <relationship_description>Mind cultivation fundamentally relies on maintaining awareness and focus to achieve its goals.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

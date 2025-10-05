@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Taming the mind serves as the fundamental root for attaining liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

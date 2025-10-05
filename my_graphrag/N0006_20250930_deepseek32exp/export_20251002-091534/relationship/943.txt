@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实修</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过实修来验证教义和触及真理</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>兔</source_entity>
+    <target_entity>仙人</target_entity>
+    <relationship_description>兔为供养仙人而投身火中，仙人因此获得神通。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

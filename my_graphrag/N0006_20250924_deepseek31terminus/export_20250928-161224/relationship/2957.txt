@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mastery of the heart leads to liberation and freedom from all bonds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

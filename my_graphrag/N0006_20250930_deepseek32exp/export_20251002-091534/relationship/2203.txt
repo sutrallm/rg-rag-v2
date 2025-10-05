@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM OBSERVATION</source_entity>
+    <target_entity>ARISING AND CEASING</target_entity>
+    <relationship_description>Wisdom observation allows practitioners to thoroughly observe the phenomena of arising and ceasing in the world.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

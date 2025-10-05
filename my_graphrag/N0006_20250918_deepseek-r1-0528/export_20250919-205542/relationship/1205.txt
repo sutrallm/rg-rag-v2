@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Meditation fundamentally relies on right mindfulness to maintain focus and awareness during practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

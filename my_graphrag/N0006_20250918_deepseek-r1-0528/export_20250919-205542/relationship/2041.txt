@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA'S TEACHINGS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence requires not abandoning the Buddha's teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

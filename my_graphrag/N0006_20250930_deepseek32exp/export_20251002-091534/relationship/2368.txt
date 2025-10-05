@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>MEDITATION PRACTITIONER</target_entity>
+    <relationship_description>A saint is an advanced meditation practitioner who has achieved high levels of spiritual attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

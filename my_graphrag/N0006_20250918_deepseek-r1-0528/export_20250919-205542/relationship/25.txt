@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>FOCUSED MIND STATE OF TRANQUILITY</target_entity>
+    <relationship_description>Meditation practice directly induces the focused mind state by transcending disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

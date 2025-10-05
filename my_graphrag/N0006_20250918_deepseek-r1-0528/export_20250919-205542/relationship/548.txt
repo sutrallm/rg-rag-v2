@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>ETHICS</target_entity>
+    <relationship_description>Sages possess pure ethics as one of their defining characteristics.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

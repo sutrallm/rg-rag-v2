@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>GODS</target_entity>
+    <relationship_description>Sages, who possess precepts and wisdom and have severed afflictions, are respected by the Gods.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

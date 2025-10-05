@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>长者子</source_entity>
+    <target_entity>比丘尼</target_entity>
+    <relationship_description>比丘尼是长者子所敬奉的人，因误解瓮中的影子而离开。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

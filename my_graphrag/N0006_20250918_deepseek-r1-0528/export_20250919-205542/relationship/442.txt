@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂滅</source_entity>
+    <target_entity>內心的安穩與清涼</target_entity>
+    <relationship_description>The state of complete cessation of mental formations (寂滅) represents the ultimate form of inner peace and supreme happiness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

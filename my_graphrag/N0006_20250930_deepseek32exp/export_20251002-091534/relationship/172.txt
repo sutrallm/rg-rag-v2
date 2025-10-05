@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FUNDAMENTAL TEACHINGS</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>Fundamental teachings provide the foundation for the sequential path to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMERGENCE OF CONCENTRATION AND WISDOM</source_entity>
+    <target_entity>FOUNDATION OF PRECEPTS</target_entity>
+    <relationship_description>N/A</relationship_description>
+    <relationship_strength>N/A</relationship_strength>
+</relationship>

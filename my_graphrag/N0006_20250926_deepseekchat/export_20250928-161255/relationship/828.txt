@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>戒律帮助修行者断尽烦恼，超越痛苦，受到敬重。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

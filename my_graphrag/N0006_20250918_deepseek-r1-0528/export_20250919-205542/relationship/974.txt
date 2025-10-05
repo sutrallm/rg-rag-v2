@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_EFFORT</source_entity>
+    <target_entity>FETTERS</target_entity>
+    <relationship_description>Focused diligent effort breaks mental fetters perpetuating cyclic suffering</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

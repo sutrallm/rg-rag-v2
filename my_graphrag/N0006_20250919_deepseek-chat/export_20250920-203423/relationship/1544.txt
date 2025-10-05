@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者的戒律与智慧</source_entity>
+    <target_entity>精进修行的必要性</target_entity>
+    <relationship_description>The discipline and wisdom of a sage are built upon the foundation of diligent practice, which is necessary to overcome afflictions and achieve tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

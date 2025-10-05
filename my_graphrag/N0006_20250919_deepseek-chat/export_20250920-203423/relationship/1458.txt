@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定的力量</source_entity>
+    <target_entity>修行的目标</target_entity>
+    <relationship_description>禅定帮助修行者集中精神，远离散乱，逐步迈向觉悟。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

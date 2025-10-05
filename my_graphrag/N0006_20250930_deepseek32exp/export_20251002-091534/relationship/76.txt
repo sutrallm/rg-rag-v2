@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>JOY OF MEDITATION</target_entity>
+    <relationship_description>Dwelling in meditative concentration produces joy and bliss that surpasses worldly pleasures.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>精进是解脱的关键，通过不懈追求佛法真理，修行者可以渡过烦恼之海，达到解脱的彼岸。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

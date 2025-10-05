@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN (DILIGENCE / PERSEVERANCE)</source_entity>
+    <target_entity>CHAN DING (MEDITATIVE CONCENTRATION)</target_entity>
+    <relationship_description>Diligence (Jing Jin) is the persistent effort required to successfully practice and attain Meditative Concentration (Chan Ding).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

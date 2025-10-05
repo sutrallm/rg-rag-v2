@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE_FINANCIAL_MANAGEMENT</source_entity>
+    <target_entity>GRATITUDE</target_entity>
+    <relationship_description>Prudent resource management explicitly enables the expression of gratitude through repayment of kindnesses.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>修行者通过观照无常的本质，从生死的束缚中解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

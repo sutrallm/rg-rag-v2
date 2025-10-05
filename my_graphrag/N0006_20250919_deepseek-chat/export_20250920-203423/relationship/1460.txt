@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>外道的局限</source_entity>
+    <target_entity>佛法的超越性</target_entity>
+    <relationship_description>外道的局限凸显了佛法的超越性，唯有佛法揭示了通向解脱的终极真理。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

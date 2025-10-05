@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>成就者</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>成就者 (accomplished practitioners) have completed the training in 戒定慧三学 (threefold training of morality, concentration, and wisdom).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

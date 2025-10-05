@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MORALITY-CONCENTRATION-WISDOM</target_entity>
+    <relationship_description>Diligence is essential for cultivating the threefold training of morality-concentration-wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

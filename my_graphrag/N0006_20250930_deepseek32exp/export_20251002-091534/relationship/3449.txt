@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>如实知见五蕴无常能帮助斩断一切轮回之根。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

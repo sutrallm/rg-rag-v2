@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>TRANSIENCE</target_entity>
+    <relationship_description>Saints obtain deep understanding of the transient nature of existence through spiritual realization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

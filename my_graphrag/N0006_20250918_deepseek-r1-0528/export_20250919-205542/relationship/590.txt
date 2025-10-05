@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>渴爱</source_entity>
+    <target_entity>鱼群</target_entity>
+    <relationship_description>Fish symbolize beings hopelessly caught by craving hooks, illustrating the destructive nature of sensual attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

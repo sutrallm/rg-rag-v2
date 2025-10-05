@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>Diligence in practice is essential for attaining Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

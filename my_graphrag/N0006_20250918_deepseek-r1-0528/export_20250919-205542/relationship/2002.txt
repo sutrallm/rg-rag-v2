@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX_SENSE_BASES</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Well-restrained sense bases enable crossing beyond the stream of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

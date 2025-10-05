@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>HOLY DHARMA</target_entity>
+    <relationship_description>Wisdom is a core practice achieving purity in the Holy Dharma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

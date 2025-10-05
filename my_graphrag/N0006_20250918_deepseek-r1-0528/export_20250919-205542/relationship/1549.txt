@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORALITY</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Morality constitutes a core attribute of the Sage, enabling mental tranquility and ethical perfection.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

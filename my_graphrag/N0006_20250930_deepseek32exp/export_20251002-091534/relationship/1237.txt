@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行者通过昼夜不懈观照心念，念念分明不间断而趋向涅槃</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The Three Studies form the complete path leading directly to Nirvana's ultimate peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

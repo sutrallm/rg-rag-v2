@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSISTENT PRACTICE NECESSITY</source_entity>
+    <target_entity>PRACTICAL APPLICATION</target_entity>
+    <relationship_description>This principle asserts that practical application is equally necessary as theoretical knowledge for genuine progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

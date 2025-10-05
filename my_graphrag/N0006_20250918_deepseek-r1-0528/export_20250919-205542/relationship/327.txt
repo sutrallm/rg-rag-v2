@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精勤修习心念</source_entity>
+    <target_entity>忧悲</target_entity>
+    <relationship_description>The diligent practice of cultivating the mind enables transcendence over sorrow and grief.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

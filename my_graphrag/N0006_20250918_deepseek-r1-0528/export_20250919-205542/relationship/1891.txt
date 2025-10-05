@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM OF LIBERATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Wisdom of liberation results in non-attachment to meditative states or attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

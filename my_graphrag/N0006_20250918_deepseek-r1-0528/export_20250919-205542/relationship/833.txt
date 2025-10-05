@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>TRANSCENDING ATTACHMENT</target_entity>
+    <relationship_description>Meditative concentration cultivates the mental clarity needed to realize impermanence and transcend attachment.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

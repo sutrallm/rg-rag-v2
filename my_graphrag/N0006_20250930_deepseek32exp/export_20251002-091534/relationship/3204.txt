@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Zen meditation is the method through which practitioners can attain liberation by seeing the true nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT EFFORT</source_entity>
+    <target_entity>INNER STABILITY</target_entity>
+    <relationship_description>Perseverance in Diligent Effort enables the practitioner to master meditative concentration (dhyana) and attain Inner Stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

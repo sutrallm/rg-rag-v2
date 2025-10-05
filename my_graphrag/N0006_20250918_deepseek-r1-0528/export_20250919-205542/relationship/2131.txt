@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom provides direct realization and profound insight into the nature of impermanence in all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

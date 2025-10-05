@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Craving maintains bondage to suffering; abandoning craving is essential to achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

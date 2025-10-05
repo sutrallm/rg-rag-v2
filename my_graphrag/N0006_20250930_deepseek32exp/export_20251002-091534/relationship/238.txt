@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND REGULATION</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Mind regulation is a practical method used within Zen meditation to subdue deluded thoughts and correct distorted cognition.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

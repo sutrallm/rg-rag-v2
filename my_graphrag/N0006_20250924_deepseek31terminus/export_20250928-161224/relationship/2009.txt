@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>A 修行者 is the practitioner who uses 禅定 as a method for spiritual advancement.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

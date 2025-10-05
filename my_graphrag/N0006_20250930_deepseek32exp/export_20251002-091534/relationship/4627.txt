@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实证果位</source_entity>
+    <target_entity>能所双亡</target_entity>
+    <relationship_description>实证果位在能所双亡时自然证得无生法忍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

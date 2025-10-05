@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>戒律是修行次第的基础阶段，修行次第从基础戒律开始。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

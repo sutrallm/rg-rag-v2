@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOOLISH PERSON</source_entity>
+    <target_entity>MALICIOUS SPEECH</target_entity>
+    <relationship_description>Directly generates harmful speech due to contamination by the three root poisons governing consciousness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

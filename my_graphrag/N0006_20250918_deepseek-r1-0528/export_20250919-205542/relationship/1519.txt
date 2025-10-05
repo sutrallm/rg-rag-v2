@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNVIRTUOUS THOUGHT</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Thoughts, speech, or behavior that lack virtue create the conditions for Distraction to arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

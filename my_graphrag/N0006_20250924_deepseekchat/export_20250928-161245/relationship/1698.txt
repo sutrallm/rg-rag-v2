@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无常观帮助修行者超越对生死的恐惧，达到解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

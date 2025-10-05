@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE MIND</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>A pure mind is completely free from defilements like fear and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

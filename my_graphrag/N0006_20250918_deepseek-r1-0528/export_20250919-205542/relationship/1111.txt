@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_DISCIPLINE</source_entity>
+    <target_entity>TAMING_THE_MIND</target_entity>
+    <relationship_description>Ethical discipline is fundamental for taming mental afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

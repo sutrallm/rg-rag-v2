@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无住心</target_entity>
+    <relationship_description>修行者可以达到无住心的境界，不滞于内外诸境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

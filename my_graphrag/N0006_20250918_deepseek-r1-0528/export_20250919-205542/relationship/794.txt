@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ESSENTIAL REALM</source_entity>
+    <target_entity>UNIVERSAL VIGILANCE</target_entity>
+    <relationship_description>The Essential Realm of stillness enables the practice of Universal Vigilance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

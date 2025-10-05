@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>梵行者</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>梵行者是实践戒定慧完整修持的修行者。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

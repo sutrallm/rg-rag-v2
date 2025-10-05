@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNWHOLESOME ROOTS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Unwholesome roots perpetuate suffering's cyclic flow; their elimination is necessary to sever it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATION OF PRECEPTS AND WISDOM</source_entity>
+    <target_entity>TRUE LIBERATION STATE</target_entity>
+    <relationship_description>The combined practice results in complete transcendence of suffering, achieving liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

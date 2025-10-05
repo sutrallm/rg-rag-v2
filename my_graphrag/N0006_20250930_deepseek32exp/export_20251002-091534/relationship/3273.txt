@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起正见</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>缘起正见是八正道中正见的基础</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

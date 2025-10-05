@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Deep meditative absorption is essential for achieving mental calm and insight, leading to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

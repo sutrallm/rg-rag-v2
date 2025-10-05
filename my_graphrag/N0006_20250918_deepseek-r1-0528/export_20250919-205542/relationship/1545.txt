@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>BINARY ATTACHMENT</target_entity>
+    <relationship_description>Achieving ultimate liberation requires abandoning all binary attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILENT ATTAINMENT (SANTI)</source_entity>
+    <target_entity>FEARLESSNESS AND FREEDOM FROM WORRY</target_entity>
+    <relationship_description>Silent Attainment brings about fearlessness and freedom from worry by transcending all suffering and affliction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

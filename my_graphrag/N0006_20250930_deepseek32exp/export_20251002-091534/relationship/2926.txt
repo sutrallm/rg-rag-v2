@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>缘起法性</target_entity>
+    <relationship_description>Practitioners fully realize the nature of dependent origination to overcome attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

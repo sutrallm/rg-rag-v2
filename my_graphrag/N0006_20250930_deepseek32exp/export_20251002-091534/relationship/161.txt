@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION PRACTITIONER</source_entity>
+    <target_entity>THREE TRAININGS</target_entity>
+    <relationship_description>Meditation practitioners follow the threefold training of moral discipline, meditation, and wisdom to progress on the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

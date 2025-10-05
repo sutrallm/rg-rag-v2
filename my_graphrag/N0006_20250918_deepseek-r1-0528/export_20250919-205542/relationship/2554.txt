@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Precepts contribute to liberation when practiced alongside wisdom to sever afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

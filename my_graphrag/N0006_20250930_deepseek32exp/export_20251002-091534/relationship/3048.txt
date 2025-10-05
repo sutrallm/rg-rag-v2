@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECTED ONE</source_entity>
+    <target_entity>MOONLIGHT</target_entity>
+    <relationship_description>Perfected ones remain cool and tranquil like moonlight that illuminates everywhere.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

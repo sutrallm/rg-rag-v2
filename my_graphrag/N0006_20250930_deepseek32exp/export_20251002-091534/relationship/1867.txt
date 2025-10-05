@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The practitioner cultivates wisdom through insight meditation to see the true nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

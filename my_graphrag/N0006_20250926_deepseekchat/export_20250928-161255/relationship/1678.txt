@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>QUALITIES OF A SAINT</target_entity>
+    <relationship_description>Zen meditation helps practitioners develop qualities akin to those of a saint, such as discipline and tranquility.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

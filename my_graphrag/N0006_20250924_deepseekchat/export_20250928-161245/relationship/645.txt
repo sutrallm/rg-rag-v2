@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>Liberation from suffering leads to the ultimate state of peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

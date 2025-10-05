@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>正念 (mindfulness) is used to observe the 五蕴 (five aggregates) and their impermanence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

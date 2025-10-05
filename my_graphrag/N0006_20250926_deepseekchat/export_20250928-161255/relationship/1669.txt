@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>死亡</source_entity>
+    <target_entity>魔王</target_entity>
+    <relationship_description>Death is described as a force that can lead to falling under the control of the metaphorical '魔王' (demon).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

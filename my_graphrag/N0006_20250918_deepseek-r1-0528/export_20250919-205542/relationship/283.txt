@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL_BEINGS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>诸天赞叹敬仰修行圣者的庄严境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

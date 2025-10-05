@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation enables resistance against afflictions which are metaphorically described as winds that disturb the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

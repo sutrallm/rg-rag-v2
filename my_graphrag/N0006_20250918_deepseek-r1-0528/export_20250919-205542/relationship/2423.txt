@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FILIAL_PIETY</source_entity>
+    <target_entity>AUSPICIOUSNESS</target_entity>
+    <relationship_description>Practicing filial piety is explicitly identified as a requirement for generating auspicious outcomes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROOT-OBJECT CONTACT</source_entity>
+    <target_entity>CONSCIOUSNESS ACTIVITIES</target_entity>
+    <relationship_description>Sensory contact mechanics (Root-Object Contact) trigger conscious awareness activities observable during mindfulness practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

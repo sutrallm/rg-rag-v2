@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS WISDOM</source_entity>
+    <target_entity>LIBERATED BEING</target_entity>
+    <relationship_description>Liberated beings are defined as those who have realized Emptiness Wisdom, leading to their liberation state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

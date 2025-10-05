@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生法品</source_entity>
+    <target_entity>舍卫城</target_entity>
+    <relationship_description>The chapter's teachings were delivered in the city of Savatthi.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

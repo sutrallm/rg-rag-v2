@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>死亡之力</target_entity>
+    <relationship_description>修行者通过遵循佛陀教导并持续实践，能免于被死亡之力所控制。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

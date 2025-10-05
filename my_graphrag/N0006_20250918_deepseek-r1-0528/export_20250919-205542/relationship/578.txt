@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM OF LIBERATION</source_entity>
+    <target_entity>SAINT'S ULTIMATE ACHIEVEMENT</target_entity>
+    <relationship_description>Wisdom of liberation is a core component of the saint's final attainment, enabling transcendence of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

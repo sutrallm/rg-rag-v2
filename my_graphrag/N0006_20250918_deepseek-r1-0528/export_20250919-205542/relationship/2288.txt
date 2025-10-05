@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Freedom from desire and attachment enables the ultimate attainment of nirvana, the state of perfect peace and spiritual purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

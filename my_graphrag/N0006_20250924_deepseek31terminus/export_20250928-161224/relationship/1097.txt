@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SELF</target_entity>
+    <relationship_description>Wisdom provides insight into the non-existence of a permanent self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

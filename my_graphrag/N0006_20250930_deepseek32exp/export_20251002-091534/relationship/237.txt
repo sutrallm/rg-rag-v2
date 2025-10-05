@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A sage is an accomplished practitioner who has attained liberation through meditation practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

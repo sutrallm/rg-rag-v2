@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Meditation frees practitioners from the obstacle of negligence through concentrated effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

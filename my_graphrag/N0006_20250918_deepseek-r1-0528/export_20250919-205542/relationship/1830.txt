@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Meditative concentration enables the attainment of inner tranquility by freeing from disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

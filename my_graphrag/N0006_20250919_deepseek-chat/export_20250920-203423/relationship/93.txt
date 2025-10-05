@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官欲望</source_entity>
+    <target_entity>无知</target_entity>
+    <relationship_description>沉溺于感官欲望会导致愚昧无知，难以领悟佛法真义。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

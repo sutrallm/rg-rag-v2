@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无垢</target_entity>
+    <relationship_description>Practitioners achieve a stainless and pure state free from defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

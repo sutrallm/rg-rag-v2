@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行正道 (RIGHT PATH)</source_entity>
+    <target_entity>心念 (MIND)</target_entity>
+    <relationship_description>The Right Path involves the practice of taming and guarding the Mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

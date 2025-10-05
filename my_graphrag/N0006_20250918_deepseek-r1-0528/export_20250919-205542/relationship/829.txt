@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment represents the relinquishment of all clinging, including to liberation itself, which constitutes the final stage of mental freedom and release.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

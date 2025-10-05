@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Letting go of attachment to the five aggregates is essential for achieving liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

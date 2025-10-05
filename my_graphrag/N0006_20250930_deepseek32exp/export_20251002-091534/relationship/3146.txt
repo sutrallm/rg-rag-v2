@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>佛陀教导修行者要通过不放逸来避免堕入死亡魔王的掌控。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

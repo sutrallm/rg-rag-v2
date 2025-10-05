@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERFECTED SAINT</source_entity>
+    <target_entity>FASCILE FOUR</target_entity>
+    <relationship_description>Fascile Four describes the qualities and attainment of the perfected saint.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

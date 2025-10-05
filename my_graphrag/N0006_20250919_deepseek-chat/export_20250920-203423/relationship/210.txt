@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>戒律 helps individuals avoid actions that lead to 煩惱.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

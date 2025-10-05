@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARHAT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Arhats possess perfected wisdom, having dismantled all delusions about existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

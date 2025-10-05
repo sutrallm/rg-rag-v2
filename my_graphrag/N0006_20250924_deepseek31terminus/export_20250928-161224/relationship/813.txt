@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>良木</target_entity>
+    <relationship_description>The 心念 (mind) is compared to 良木 (fine wood) that is to be carved.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

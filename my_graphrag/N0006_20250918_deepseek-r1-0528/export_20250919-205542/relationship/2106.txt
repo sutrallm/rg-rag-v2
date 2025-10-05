@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Liberated beings eradicate ignorance, the root cause of cyclic existence, achieving freedom from rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO ZHI HUI</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Jie Tuo Zhi Hui (wisdom of liberation) helps practitioners avoid attachment to meditative states achieved through Chan Ding (meditation).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

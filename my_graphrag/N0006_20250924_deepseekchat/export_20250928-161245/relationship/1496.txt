@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>Overcoming ignorance is the central objective of the Path to Liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

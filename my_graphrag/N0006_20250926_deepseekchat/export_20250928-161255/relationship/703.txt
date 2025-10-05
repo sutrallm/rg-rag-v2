@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>无执的智慧</target_entity>
+    <relationship_description>觉悟者通过无执的智慧从一切执着中解脱，不被世俗的欲望所动摇。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

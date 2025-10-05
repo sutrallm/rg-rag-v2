@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Ultimate liberation leads to Nirvana, the supreme state beyond conceptual description.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

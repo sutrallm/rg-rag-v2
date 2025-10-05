@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>Awareness (觉知) involves penetrating the illusory nature of the five aggregates (五蕴).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>精进是禅修的重要实践方法，通过持续修正身口意三门来支持禅修修行</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

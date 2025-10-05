@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE LY</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Jie Ly forms the foundation for Jie Tuo by ceasing evil karma and aligning behavior with the righteous path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

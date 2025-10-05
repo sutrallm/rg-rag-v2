@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment directly enables liberation by eliminating obsessive clinging to spiritual states, disrupting affliction cycles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

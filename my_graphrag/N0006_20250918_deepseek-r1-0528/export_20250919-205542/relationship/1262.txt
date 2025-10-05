@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉观的去染机制</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>觉观的去染机制通过识破染污本因来净化烦恼，烦恼是觉观修行所要消除的核心染污。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

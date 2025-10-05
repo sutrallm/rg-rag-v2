@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死流转</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>生死流转是未觉悟者轮回的现象，涅槃是其终极解脱的境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

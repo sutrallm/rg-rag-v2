@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Vigilance guards the autonomy of the mind by preventing afflictions and disturbances from overcoming it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

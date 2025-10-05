@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED SAGE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Enlightened sages have realized the state of nirvana through their practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

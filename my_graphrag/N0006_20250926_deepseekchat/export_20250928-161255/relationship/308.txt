@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>修行者应保持精进不懈的修行态度，逐步断除烦恼，证得无上的智慧与解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

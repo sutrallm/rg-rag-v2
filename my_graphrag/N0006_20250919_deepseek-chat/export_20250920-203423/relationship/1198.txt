@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>猎犬</source_entity>
+    <target_entity>野兔</target_entity>
+    <relationship_description>猎犬被野兔引诱掉入深坑而死。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>蔽覆觉性的普遍障碍</source_entity>
+    <target_entity>远离诱惑的精进</target_entity>
+    <relationship_description>蔽覆觉性的普遍障碍论述烦恼危害，远离诱惑的精进提出解决方法，体现教导中的逻辑递进。</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

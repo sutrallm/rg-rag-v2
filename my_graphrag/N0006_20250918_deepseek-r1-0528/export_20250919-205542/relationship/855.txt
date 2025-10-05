@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Concentration directly counteracts and overcomes the state of distraction and its resulting inner conflict.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

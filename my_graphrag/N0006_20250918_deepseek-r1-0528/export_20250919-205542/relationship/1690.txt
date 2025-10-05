@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>EMPTINESS-REALITY</target_entity>
+    <relationship_description>Liberation transcends tensions between perceived emptiness and substantial reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

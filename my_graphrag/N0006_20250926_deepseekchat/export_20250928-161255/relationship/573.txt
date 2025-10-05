@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>贪欲与瞋恨</target_entity>
+    <relationship_description>圣者断尽贪欲与瞋恨，超越痛苦，证得究竟涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

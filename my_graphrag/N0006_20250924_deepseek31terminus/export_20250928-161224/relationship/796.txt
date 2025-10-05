@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SIX SENSE BASES</target_entity>
+    <relationship_description>Practitioners learn to not grasp at the six sense bases and their objects</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

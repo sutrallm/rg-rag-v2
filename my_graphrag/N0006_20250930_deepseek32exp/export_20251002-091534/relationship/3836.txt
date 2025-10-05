@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Zen meditation practice relies on mindfulness as its fundamental method for maintaining concentration and awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

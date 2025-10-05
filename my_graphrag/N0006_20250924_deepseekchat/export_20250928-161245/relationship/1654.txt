@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAHULA</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Rahula observes the impermanent nature of the five aggregates to transcend sensory attachment and progress toward liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

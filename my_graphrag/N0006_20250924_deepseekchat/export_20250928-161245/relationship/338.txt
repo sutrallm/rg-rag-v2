@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒者</source_entity>
+    <target_entity>天界</target_entity>
+    <relationship_description>持戒者因戒行圆满而在天界享受喜悦。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

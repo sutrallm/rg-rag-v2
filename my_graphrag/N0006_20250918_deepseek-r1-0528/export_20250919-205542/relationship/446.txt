@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY DESIRES</source_entity>
+    <target_entity>STABLE MIND</target_entity>
+    <relationship_description>Sensory desires obstruct the development of stable mind by binding consciousness to worldly phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

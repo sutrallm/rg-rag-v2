@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom follows concentration in the sequential path to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

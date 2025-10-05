@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE</source_entity>
+    <target_entity>EMANCIPATION</target_entity>
+    <relationship_description>Consistent practice leads to emancipation by transcending all concepts and achieving ultimate liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

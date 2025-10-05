@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints possess complete wisdom as part of their spiritual qualities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

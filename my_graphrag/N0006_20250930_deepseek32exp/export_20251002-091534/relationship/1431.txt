@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>彼岸</target_entity>
+    <relationship_description>Practitioners can eventually reach the shore beyond suffering through continuous awareness and mental stabilization.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

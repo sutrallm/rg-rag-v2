@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者是进行精进实践的主体，通过精进能够超越束缚并体证禅定深度。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

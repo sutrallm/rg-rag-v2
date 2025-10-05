@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>精进通过不放逸来实现，唯有不放逸者能超越死主领域</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

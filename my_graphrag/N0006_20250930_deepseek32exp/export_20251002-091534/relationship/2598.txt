@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>FEELINGS</target_entity>
+    <relationship_description>Feelings arise from the contact between the six sense bases and their corresponding objects, which practitioners learn to observe without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

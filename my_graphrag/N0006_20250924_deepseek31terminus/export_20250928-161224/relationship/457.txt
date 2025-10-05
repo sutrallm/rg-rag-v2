@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>精进能帮助修行者免于堕入死亡魔王的掌控。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

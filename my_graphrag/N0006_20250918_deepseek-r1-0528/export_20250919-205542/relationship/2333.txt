@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION PRACTICE</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>Concentration practice involves restraining the six senses to protect mental focus</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

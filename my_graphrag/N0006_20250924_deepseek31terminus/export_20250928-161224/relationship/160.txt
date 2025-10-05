@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定修行者</source_entity>
+    <target_entity>死亡之主</target_entity>
+    <relationship_description>不放逸的禅定修行者，死亡之主便无法侵扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>正念是修行者體證涅槃的重要基礎，通過保持正念，修行者能夠放下執著，達到涅槃。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

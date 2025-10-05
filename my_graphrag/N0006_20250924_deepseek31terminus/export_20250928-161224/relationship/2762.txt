@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观慧</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>观慧 is the practice of applying 智慧 to observe phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

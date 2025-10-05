@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL PRECEPTS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Moral precepts require diligent effort in action and mental restraint to uphold.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

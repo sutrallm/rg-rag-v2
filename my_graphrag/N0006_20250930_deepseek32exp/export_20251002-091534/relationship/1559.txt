@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>念住</source_entity>
+    <target_entity>魔罗</target_entity>
+    <relationship_description>通过念住修习可以斩断魔罗的束缚</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

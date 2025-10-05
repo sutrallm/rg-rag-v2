@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEN EVIL DEEDS</source_entity>
+    <target_entity>THREE EVIL REALMS</target_entity>
+    <relationship_description>Committing the ten evil deeds causes rebirth in the three evil realms of intense suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNCONTAMINATED MIND</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Achieving the Uncontaminated Mind state defines one as a Sage, who has truly transcended birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

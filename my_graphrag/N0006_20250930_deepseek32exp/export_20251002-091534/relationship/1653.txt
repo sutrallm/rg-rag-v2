@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>VIRTUE</target_entity>
+    <relationship_description>Practitioners possess virtue and moral discipline as part of their spiritual cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

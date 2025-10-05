@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE IN PRACTICE</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Diligence in practice is essential for following the Noble Eightfold Path and achieving ultimate liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

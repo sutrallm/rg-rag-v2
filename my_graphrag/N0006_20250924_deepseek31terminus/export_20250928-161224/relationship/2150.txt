@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE MIND</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>A pure mind, free from defilements, is the condition that allows wisdom to arise and observe phenomena accurately.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

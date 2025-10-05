@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>精进需要通过恒常保持觉知来实践，觉知是精进的重要方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

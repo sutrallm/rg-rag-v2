@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>FIVE ROOTS</target_entity>
+    <relationship_description>The Buddha claims full understanding of the Five Roots' origin, cessation, and liberation potential.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

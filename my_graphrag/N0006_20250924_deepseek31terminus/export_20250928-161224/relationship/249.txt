@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天众</target_entity>
+    <relationship_description>The sage is revered by all celestial beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无上福田</target_entity>
+    <relationship_description>圣者是真正值得供奉的无上福田，因为他们已证悟涅槃、超越一切相对概念。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

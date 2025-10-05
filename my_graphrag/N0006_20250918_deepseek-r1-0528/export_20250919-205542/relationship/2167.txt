@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM WITHOUT ATTACHMENT</source_entity>
+    <target_entity>LOTUS LEAF WATER DROPLET METAPHOR</target_entity>
+    <relationship_description>The Lotus Leaf Water Droplet Metaphor is used to directly describe the state of Wisdom Without Attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

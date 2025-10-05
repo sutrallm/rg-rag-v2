@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>修行者 practice 四念处 (four foundations of mindfulness) to contemplate the true nature of body and mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Precepts contribute to destroying ignorance when practiced completely together with concentration and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

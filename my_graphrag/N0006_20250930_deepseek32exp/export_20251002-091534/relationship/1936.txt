@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实相</source_entity>
+    <target_entity>缘起法则</target_entity>
+    <relationship_description>实相的认识包括理解缘起法则，即一切现象依因缘生灭</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

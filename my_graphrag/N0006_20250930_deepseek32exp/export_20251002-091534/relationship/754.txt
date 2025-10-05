@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Practitioners dwelling in the present moment do not generate attachment to what is seen and heard.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

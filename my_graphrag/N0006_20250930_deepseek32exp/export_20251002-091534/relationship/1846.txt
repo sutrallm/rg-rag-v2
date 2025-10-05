@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>佛陀指出执取五蕴即是苦因，教导众生舍离对五蕴的执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

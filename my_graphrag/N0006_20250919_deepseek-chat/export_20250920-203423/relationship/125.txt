@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善业</source_entity>
+    <target_entity>善法</target_entity>
+    <relationship_description>善业是善法的结果，两者共同带来现世与来世的安乐。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

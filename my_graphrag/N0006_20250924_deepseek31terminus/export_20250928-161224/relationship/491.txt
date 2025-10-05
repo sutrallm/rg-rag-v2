@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>業</target_entity>
+    <relationship_description>心若散乱则会随业流转。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

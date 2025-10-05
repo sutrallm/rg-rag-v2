@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Liberation through understanding arising and passing away develops into ultimate liberation through complete eradication of craving and attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

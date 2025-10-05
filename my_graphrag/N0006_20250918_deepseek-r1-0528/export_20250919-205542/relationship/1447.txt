@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENTLY PRACTICE</source_entity>
+    <target_entity>ACHIEVE THE HOLY PATH</target_entity>
+    <relationship_description>Diligent practice is essential for achieving the holy path, as it provides the sustained effort needed to cultivate discipline, wisdom, and ultimately eradicate afflictions to reach liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

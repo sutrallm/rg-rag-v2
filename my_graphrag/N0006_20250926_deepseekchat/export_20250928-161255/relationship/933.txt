@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>昏沉</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>昏沉是禅定修行中的障碍，需要通过提振精神克服。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

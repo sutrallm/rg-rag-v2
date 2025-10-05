@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST MONK</source_entity>
+    <target_entity>SPIRITUAL TEACHER</target_entity>
+    <relationship_description>The Buddhist monk should follow virtuous spiritual teachers for guidance, though ultimately practices independently.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

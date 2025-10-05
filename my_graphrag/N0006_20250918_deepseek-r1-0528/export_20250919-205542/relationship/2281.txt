@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The sage embodies complete liberation through transcendent wisdom, manifesting freedom while engaging with worldly phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

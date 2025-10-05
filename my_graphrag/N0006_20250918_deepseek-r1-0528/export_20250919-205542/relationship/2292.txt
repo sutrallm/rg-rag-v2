@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRELIMINARY STAGE</source_entity>
+    <target_entity>MIDDLE STAGE</target_entity>
+    <relationship_description>The preliminary stage establishes the foundation of sensory discipline necessary to progress to the middle stage's work of observing mental phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

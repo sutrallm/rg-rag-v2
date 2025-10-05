@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED ONE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Enlightened ones have fully achieved liberation, living in timeless freedom beyond craving.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

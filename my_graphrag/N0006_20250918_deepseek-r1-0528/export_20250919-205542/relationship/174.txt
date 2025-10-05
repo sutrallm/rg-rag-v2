@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARISEN ONES</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>The Arisen Ones abide in Stillness as a fundamental aspect of their enlightened state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

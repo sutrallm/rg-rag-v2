@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Defilements act as instruments for Mara to invade the mind and maintain control.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

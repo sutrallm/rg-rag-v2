@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE IN ELIMINATING CONFUSION</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Diligence in Eliminating Confusion specifically targets the removal of the Five Hindrances through persistent effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

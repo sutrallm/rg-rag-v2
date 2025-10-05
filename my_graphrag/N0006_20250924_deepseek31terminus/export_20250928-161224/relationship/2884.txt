@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The liberated being abides in the state of Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

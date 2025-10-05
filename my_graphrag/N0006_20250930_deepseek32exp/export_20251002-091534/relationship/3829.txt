@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>十种结缚</target_entity>
+    <relationship_description>通过持续安住于正念，修行者将逐渐斩断束缚心灵的十种结缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

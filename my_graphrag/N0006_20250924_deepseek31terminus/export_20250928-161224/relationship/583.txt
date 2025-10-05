@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Practitioners understand the inevitability of death to abandon attachment to longevity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

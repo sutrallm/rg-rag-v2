@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST MONK</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The Buddhist monk seeks to attain Nirvana as the ultimate goal of spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

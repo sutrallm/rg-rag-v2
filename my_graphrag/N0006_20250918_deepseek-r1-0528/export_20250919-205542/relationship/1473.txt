@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSON OF COMPLETE REALIZATION</source_entity>
+    <target_entity>FULFILLED REALIZER</target_entity>
+    <relationship_description>The Fulfilled Realizer represents the ultimate state of the Person of Complete Realization.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

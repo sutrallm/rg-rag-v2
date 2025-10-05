@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN CONCENTRATION (SAMĀDHI)</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Zen Concentration directly results in inner peace and mental stability by removing distracting disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

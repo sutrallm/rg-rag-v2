@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Practitioners follow the teachings of the Buddha as their guide on the spiritual path to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

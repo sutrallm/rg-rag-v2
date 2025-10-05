@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>涅槃是修行的终极目标，通过戒律、禅定与智慧的实践逐步趋近。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

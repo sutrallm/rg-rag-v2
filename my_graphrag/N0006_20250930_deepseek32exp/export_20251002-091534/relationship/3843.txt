@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>ACCOMPLISHMENT VERIFICATION</target_entity>
+    <relationship_description>Ultimate liberation represents the achievement that is verified through accomplishment confirmation of having reached the other shore of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

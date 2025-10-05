@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Understanding impermanence helps practitioners detach from worldly concerns and progress towards liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

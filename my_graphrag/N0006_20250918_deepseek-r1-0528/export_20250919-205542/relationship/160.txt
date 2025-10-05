@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>超脫繫縛</target_entity>
+    <relationship_description>The liberated one embodies the state of freedom from attachments</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

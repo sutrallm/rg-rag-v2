@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>BIRTH-DEATH</target_entity>
+    <relationship_description>Effort spares one from falling captive to death and danger (the cycle of birth-death).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

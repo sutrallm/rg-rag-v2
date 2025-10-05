@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE TATHAGATA'S TEACHINGS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The Tathagata's Teachings provide the basis and guidance for practicing and maintaining Diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

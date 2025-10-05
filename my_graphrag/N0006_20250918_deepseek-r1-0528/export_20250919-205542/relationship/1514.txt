@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>True Insight into the nature of phenomena overcomes Attachment and clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

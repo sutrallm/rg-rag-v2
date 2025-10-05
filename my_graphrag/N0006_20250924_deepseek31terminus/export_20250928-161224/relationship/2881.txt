@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO NIRVANA</source_entity>
+    <target_entity>MORAL DISCIPLINE</target_entity>
+    <relationship_description>The path to Nirvana includes moral discipline as one of its essential components for achieving liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

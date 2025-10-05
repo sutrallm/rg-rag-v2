@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>因果法则</target_entity>
+    <relationship_description>修行者觉悟因果法则，谨慎行事，避免造作恶业，追求善果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THREE_TEMPORAL_WORLDS</target_entity>
+    <relationship_description>Thoroughly awakened saints have seen the illusory nature of the three temporal worlds.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

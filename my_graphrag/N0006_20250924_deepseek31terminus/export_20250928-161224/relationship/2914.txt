@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FASCILE THREE</target_entity>
+    <relationship_description>Fascile Three discusses wisdom and transcending attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

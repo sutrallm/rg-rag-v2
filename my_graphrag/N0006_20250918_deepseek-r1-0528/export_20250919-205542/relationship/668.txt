@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATED INSIGHT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Concentrated insight contributes to achieving liberation as one of the essential components alongside morality and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行的價值 (VALUE OF DILIGENT PRACTICE)</source_entity>
+    <target_entity>死亡魔王 (LORD OF DEATH)</target_entity>
+    <relationship_description>Those practicing diligently understand the terror of the Lord of Death and maintain vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

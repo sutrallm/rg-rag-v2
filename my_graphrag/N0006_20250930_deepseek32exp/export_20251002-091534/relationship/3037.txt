@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH KING</target_entity>
+    <relationship_description>Practitioners can脱离 (free themselves from) the束缚 (bonds) of the Death King through diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

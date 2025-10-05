@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Zen meditation leads to the attainment of liberation through mental emancipation and observation of arising and ceasing phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

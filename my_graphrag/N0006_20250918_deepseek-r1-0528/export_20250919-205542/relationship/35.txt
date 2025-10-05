@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FUNDAMENTAL PATH OF LIBERATION</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>The path directly dispels ignorance that obscures truth, as explicitly stated in the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

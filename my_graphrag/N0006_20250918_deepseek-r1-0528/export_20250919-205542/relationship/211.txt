@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>DILIGENCE is essential for truly mastering and following the path of MEDITATIVE CONCENTRATION.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>解脱是圣者的德行之一，圣者通过解脱断尽三界烦恼结使，成就天人共仰的功德。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

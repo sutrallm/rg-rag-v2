@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进的必要</source_entity>
+    <target_entity>戒律的根基</target_entity>
+    <relationship_description>Both concepts highlight the importance of discipline and persistent effort in修行 to achieve deeper practice and liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

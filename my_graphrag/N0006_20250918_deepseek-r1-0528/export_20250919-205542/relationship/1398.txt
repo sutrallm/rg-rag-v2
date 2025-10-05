@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Attachment disturbs the mind's stability; freedom from it allows the mind to achieve undisturbed focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

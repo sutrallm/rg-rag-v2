@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>EMPTINESS OF SELF AND PHENOMENA</target_entity>
+    <relationship_description>Contemplation of the Five Aggregates' transient nature directly reveals the emptiness of self and phenomena, dismantling core misconceptions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

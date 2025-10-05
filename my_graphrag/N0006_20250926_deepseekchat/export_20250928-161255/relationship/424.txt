@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Zheng Nian supports Jie Tuo by cultivating mindfulness and dismantling habitual attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

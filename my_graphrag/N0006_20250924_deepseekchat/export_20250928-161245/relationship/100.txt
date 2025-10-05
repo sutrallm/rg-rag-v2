@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Diligent and continuous practice of meditation and adherence to teachings lead to ultimate liberation from the cycle of rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

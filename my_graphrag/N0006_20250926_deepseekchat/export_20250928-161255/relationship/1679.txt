@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>TAMING THE MIND</target_entity>
+    <relationship_description>Zen meditation is a key practice for taming the mind and achieving mental purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPHERE OF NEITHER PERCEPTION NOR NON-PERCEPTION</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Transcending this highest meditative state is prerequisite for achieving ultimate liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

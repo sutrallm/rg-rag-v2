@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The mind is prone to afflictions like scattered thoughts and desires; controlling the mind through concentration helps reduce or eliminate these disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

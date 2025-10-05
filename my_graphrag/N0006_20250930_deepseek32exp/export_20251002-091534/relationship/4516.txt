@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>证果</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>Those who attain 证果 do not dwell in or become attached to 涅槃 (nirvana) even when attaining it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

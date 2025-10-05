@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Contact through the six sense bases generates craving leading to entanglement.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

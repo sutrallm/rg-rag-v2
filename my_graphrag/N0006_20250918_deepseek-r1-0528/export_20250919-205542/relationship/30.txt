@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ERADICATION OF LAZINESS</source_entity>
+    <target_entity>TRUE LIBERATION STATE</target_entity>
+    <relationship_description>Eradicating laziness enables attainment of the ultimate liberation state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

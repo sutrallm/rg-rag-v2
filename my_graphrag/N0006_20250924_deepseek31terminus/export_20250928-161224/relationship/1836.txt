@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EQUANIMITY</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Equanimity is a practical expression of non-attachment, being free from love, hate, and the concept of "mine".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

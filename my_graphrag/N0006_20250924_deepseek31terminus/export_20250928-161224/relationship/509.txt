@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>妄念</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>放任心念散乱是放逸的表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

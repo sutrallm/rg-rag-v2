@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGGREGATES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realization of the five aggregates' nature enables transcendence of conditioned existence and attainment of the unconditioned state of nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

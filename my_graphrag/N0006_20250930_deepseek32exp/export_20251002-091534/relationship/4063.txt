@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE ESSENTIALS</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Practice essentials include dwelling in the present moment without recalling past or anticipating future.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

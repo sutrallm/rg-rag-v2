@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS OF DEATH</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Mindfulness of Death generates awareness about the fragility of the Five Aggregates that constitute existence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

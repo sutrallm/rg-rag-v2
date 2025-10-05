@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧(WISDOM)</source_entity>
+    <target_entity>禅定(MEDITATIVE CONCENTRATION)</target_entity>
+    <relationship_description>Wisdom includes insight into conditioned nature of meditative states themselves, preventing attachment to them.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

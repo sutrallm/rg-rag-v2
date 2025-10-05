@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>清净心</target_entity>
+    <relationship_description>戒律守护身心，防止行为过失，使修行者内心安稳，保持清净心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

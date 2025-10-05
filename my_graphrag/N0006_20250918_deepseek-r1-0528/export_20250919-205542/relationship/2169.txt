@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE IN TRANSCENDING DEATH</source_entity>
+    <target_entity>DILIGENCE COUNTERING LAZINESS</target_entity>
+    <relationship_description>Both concepts emphasize relentless effort as the antidote to spiritual obstacles (death fear and laziness respectively).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

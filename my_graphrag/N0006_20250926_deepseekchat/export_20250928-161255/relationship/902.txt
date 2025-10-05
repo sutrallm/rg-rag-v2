@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>莲花</target_entity>
+    <relationship_description>修行者如莲花出淤泥而不染，虽处于世间却已超越世间之束缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

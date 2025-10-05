@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉者</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>觉者是圣者的更高层次，是圆满成就的修行者，心已彻底解脱系缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

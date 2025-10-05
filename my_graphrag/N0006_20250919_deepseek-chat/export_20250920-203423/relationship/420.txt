@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>通过智慧的修习，修行者能够逐步断除烦恼，迈向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

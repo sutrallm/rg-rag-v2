@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进是深入禅定境界的必要条件，帮助修行者掌握解脱之道。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

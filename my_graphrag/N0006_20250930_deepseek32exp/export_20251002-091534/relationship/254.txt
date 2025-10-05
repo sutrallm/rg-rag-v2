@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE PATH</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>The practice path leads to ultimate liberation through sequential cultivation and purification of mental states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

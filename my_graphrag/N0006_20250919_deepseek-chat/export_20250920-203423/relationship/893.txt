@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善知识</source_entity>
+    <target_entity>听闻正法</target_entity>
+    <relationship_description>修行者应亲近善知识以听闻正法，获得正确的指导。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Mindfulness prevents the disturbance of defilements by avoiding scattered thoughts and maintaining awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

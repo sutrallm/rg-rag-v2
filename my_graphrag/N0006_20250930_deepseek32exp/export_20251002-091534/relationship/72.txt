@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>EIGHTFOLD PATH</target_entity>
+    <relationship_description>Buddha established the Eightfold Path as the complete teaching for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

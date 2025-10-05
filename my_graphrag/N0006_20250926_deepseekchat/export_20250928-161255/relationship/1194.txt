@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禅定 requires the practice of 正念 to achieve deep concentration and inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

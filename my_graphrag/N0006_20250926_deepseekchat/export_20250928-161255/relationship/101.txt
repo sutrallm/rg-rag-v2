@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHAMADHI</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Shamadhi (meditation) is supported by diligent practice to avoid distractions and attain inner peace.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom removes attachments and illusions, forming the path to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

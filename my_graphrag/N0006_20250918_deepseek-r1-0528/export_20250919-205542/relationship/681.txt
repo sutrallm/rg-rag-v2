@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>LIBERATION AND BLISS</target_entity>
+    <relationship_description>Removing defilements directly results in the attainment of liberation and inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>OVER-SPECULATION</source_entity>
+    <target_entity>MISTAKEN VIEWS</target_entity>
+    <relationship_description>Over-Speculation (on concepts/names) leads to Mistaken Views.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

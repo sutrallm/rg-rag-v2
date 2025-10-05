@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>ALL-PHENOMENA</target_entity>
+    <relationship_description>Attachment arises through clinging to phenomena, which wisdom reveals as impermanent and empty.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

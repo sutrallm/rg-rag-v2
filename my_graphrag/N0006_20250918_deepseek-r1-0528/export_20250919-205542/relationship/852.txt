@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN (DILIGENT EFFORT)</source_entity>
+    <target_entity>SHENGSIWANG / REINCARNATION</target_entity>
+    <relationship_description>Enables practitioners to overcome the bounds of death and transcend reincarnation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>The practice of upholding moral precepts involves following the discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

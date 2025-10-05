@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>通过禅修能够获得解脱，达到心灵自在状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

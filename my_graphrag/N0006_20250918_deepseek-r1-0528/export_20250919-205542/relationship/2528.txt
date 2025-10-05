@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Direct insight into impermanence enables detachment leading to liberation</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

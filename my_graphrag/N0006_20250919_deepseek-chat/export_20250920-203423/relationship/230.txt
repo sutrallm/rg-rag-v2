@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>智者</target_entity>
+    <relationship_description>修行者通过修行，能够如同智者一样脱离贪爱与执着的束缚，迈向自在之境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

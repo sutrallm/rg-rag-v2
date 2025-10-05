@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>欲乐</target_entity>
+    <relationship_description>贪欲是对欲乐的渴求。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>Compassion motivates enlightened beings to spread the Dharma to help sentient beings open their wisdom and collectively progress toward liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

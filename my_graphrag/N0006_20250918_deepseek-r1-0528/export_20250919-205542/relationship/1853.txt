@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PARADOX OF WEALTHY PRACTITIONERS</source_entity>
+    <target_entity>CONCRETE ROLES</target_entity>
+    <relationship_description>Derived from the wealthy seeker metaphor, illustrating wealth as an obstacle to spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

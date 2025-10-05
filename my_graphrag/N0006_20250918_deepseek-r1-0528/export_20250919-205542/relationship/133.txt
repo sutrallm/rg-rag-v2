@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Sage has completely eliminated afflictions through diligent cultivation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

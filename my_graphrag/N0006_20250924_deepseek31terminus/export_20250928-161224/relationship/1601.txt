@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHT WINDS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners learn to remain undisturbed by the Eight Winds of worldly conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

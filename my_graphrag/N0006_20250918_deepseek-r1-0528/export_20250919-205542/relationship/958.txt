@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUARDING_THE_MIND</source_entity>
+    <target_entity>SIX_SENSES</target_entity>
+    <relationship_description>Guarding the mind requires vigilant protection of the six senses as entry points for defilements</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

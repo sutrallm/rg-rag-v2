@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智者</source_entity>
+    <target_entity>根本戒律</target_entity>
+    <relationship_description>智者首先应当守护根本戒律。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

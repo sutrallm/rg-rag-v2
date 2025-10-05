@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom accomplishes liberation by uprooting the causes of suffering and enabling a state free from defilements, directly stated as the method for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

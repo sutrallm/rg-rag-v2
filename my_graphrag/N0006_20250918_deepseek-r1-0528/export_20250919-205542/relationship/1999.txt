@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERTNESS</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Alertness prevents falling into the state of heedlessness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>苦谛</target_entity>
+    <relationship_description>修行者通过观照感受的生起灭去，觉悟苦谛本质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

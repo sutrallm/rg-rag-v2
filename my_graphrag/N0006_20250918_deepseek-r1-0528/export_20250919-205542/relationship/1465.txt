@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSON OF COMPLETE REALIZATION</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>A Person of Complete Realization possesses perfect Meditative Concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

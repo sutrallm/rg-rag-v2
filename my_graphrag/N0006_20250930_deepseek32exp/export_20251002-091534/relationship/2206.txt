@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Wisdom destroys ignorance when precepts, concentration, and wisdom are completely practiced together.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>断灭</target_entity>
+    <relationship_description>涅槃 is not 断灭 (annihilation).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

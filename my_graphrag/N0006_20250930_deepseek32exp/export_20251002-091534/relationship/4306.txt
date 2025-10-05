@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>HOLY FRUIT</target_entity>
+    <relationship_description>Wisdom enables practitioners to not become attached to holy fruits even when attained.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

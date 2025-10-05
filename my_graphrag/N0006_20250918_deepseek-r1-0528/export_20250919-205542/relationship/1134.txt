@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sages embody liberation through their attainment of an unwavering, non-attached state free from worldly influences and afflictions, as per their characterization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

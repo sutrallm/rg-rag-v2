@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Sustained mindfulness in ethical observance facilitates profound realization of existential truths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>LIBERATION is characterized by freedom from concepts of self ("I did this") and other ("another did that"), embodying the realization of NON-SELF.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

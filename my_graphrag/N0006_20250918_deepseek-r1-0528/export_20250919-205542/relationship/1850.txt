@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIMPLICITY AND CONTENTMENT</source_entity>
+    <target_entity>CONCRETE ROLES</target_entity>
+    <relationship_description>Evolved from the poor monk allegory, emphasizing asceticism and non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

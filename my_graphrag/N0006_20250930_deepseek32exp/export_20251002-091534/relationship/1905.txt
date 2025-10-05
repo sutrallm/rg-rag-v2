@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>禅定 requires the concentration of 心念 to achieve its state of focused awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

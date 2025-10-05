@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Renunciation involves abandoning desire and craving</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

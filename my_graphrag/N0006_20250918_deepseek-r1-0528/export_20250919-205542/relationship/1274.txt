@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE STUDIES</source_entity>
+    <target_entity>FOUR PROTECTIONS</target_entity>
+    <relationship_description>The Four Protections operate within the Three Studies framework for accomplishing the spiritual path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

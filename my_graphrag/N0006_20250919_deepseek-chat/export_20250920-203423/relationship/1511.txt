@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JING JIN XIU XING</target_entity>
+    <relationship_description>Chan Ding is achieved through Jing Jin Xiu Xing, emphasizing diligent practice and mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

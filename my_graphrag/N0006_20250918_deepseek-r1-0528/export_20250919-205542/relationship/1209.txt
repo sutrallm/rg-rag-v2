@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>OBSERVING CONSCIOUSNESS</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>This practice severs attachment by demonstrating the impermanent nature of sensory experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

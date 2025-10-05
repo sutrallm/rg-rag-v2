@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>梵行</source_entity>
+    <target_entity>三业</target_entity>
+    <relationship_description>梵行要求言语平和、心意调柔、身行清净，三业纯净</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

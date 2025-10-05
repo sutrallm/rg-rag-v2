@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMIC ACTIONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Karmic actions generate future suffering as their inevitable consequence according to cause and effect.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

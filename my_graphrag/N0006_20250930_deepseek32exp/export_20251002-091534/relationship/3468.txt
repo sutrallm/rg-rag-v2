@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天界众生</target_entity>
+    <relationship_description>达到圣者境界的修行者会得到天界众生的敬仰，圣者具有超越天界的功德。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

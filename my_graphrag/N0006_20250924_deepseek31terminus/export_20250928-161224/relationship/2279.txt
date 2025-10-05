@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT ORIGINATION</source_entity>
+    <target_entity>TWELVE LINKS</target_entity>
+    <relationship_description>The doctrine of dependent origination is explained through the specific sequence of the twelve links.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

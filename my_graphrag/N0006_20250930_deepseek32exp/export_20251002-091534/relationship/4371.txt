@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成就</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>Spiritual attainment verifies and demonstrates the essence of the true teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

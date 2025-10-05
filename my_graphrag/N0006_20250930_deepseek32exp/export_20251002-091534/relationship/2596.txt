@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Practitioners aim to realize Nirvana by gradually abandoning craving and attachment through continuous awareness of body and mind phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

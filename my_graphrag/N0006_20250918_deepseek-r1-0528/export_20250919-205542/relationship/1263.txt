@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识的无常本质</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>心识的无常本质指出止息妄念可降服心识并达到解脱，解脱是克服心识无常后的稳定状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

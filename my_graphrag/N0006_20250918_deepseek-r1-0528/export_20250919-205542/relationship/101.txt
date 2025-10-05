@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATOR</source_entity>
+    <target_entity>SENSORY FACULTIES</target_entity>
+    <relationship_description>Meditators maintain constant vigilance to guard their sensory faculties against distractions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

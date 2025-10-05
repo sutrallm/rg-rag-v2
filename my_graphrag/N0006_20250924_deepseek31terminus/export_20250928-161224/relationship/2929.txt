@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>定</target_entity>
+    <relationship_description>A 聖者 cultivates 定 (concentration).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

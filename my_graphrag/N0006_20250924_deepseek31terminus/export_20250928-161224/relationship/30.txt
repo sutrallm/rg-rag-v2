@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>修行者应当广行慈悲，以无嗔心对待一切众生。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

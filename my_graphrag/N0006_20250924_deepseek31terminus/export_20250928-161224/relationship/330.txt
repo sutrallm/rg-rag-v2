@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>守护心念包括防护六根而不放逸。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

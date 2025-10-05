@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>放逸是修行的障碍，而精进是修行的根本，二者对立。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

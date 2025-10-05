@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>UNWAVERING MIND</target_entity>
+    <relationship_description>Sustained diligent practice cultivates a steadfast mind capable of overcoming obstacles and maintaining focus.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

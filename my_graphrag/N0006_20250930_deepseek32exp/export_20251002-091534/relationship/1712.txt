@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PATH STAGES</target_entity>
+    <relationship_description>Practitioners follow the path stages by progressing sequentially from basic precepts to profound wisdom through continuous purification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

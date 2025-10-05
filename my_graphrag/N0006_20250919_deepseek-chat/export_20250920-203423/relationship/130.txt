@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者的心性</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>禅修的最终目标是达到圣者的心性，圆满戒定慧，断除一切系缚，证得究竟安稳。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

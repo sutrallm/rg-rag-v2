@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>调伏身口意三业</source_entity>
+    <target_entity>觉照成就无漏慧</target_entity>
+    <relationship_description>Integrated practice of purified actions leads to wisdom through insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

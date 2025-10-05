@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>DILIGENCE IN PRACTICE</target_entity>
+    <relationship_description>Zen meditation requires diligence in practice to achieve mastery and inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

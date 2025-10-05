@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SEVEN FACTORS OF ENLIGHTENMENT</source_entity>
+    <target_entity>FURTHER_SHORE</target_entity>
+    <relationship_description>Through complete cultivation of the seven factors of enlightenment, practitioners reach the further shore beyond all worldly dualistic concepts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

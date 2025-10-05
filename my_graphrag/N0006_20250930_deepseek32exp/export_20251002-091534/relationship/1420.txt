@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>果位</source_entity>
+    <target_entity>初果</target_entity>
+    <relationship_description>The stages of spiritual attainment include the first stage where three fetters are eliminated.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

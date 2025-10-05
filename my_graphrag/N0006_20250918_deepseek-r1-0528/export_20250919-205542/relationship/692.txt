@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>OBSTACLES</source_entity>
+    <target_entity>LIBERATION AND BLISS</target_entity>
+    <relationship_description>Obstacles prevent the attainment of liberation and bliss, explicitly described in the discussion of wrong views as blocking the path to freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

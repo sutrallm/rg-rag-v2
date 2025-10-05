@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>烦恼刺棘</target_entity>
+    <relationship_description>The practitioner destroys the thorns of affliction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

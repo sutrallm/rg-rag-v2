@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE QUALITIES</source_entity>
+    <target_entity>DISCIPLINE AND WISDOM</target_entity>
+    <relationship_description>Sage qualities specifically include the possession of discipline and wisdom according to the explicit wording in the source text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

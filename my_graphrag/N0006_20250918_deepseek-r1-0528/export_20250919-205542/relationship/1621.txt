@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FOUR FLOODS</target_entity>
+    <relationship_description>Wisdom overcomes the Four Floods by exposing their illusory nature and severing their power to bind consciousness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

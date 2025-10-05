@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND CONCENTRATION</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Mind Concentration allows escape from the state of Distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

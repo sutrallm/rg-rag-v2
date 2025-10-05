@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATING WISDOM</source_entity>
+    <target_entity>NIHILISM</target_entity>
+    <relationship_description>Liberating wisdom transcends nihilism through understanding of dependent origination and the continuity of consciousness beyond death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

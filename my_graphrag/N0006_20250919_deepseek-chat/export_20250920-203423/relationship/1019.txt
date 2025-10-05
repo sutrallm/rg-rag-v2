@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>修行者应专注于不放逸的境界，通过正念和警觉远离贪爱与执着，获得清净与解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

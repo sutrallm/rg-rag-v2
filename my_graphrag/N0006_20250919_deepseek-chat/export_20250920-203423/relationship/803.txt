@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORALITY</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Morality serves as the foundation, while mindfulness protects and maintains the practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

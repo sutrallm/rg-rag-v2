@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY RESTRAINT METHOD</source_entity>
+    <target_entity>MISCONCEPTION OF ASCETICISM</target_entity>
+    <relationship_description>Both address balanced self-discipline; sensory control complements the Middle Way against extremes.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

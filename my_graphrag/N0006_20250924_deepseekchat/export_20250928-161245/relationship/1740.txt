@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进不放逸</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进不放逸是修行者证得禅定究竟利益的重要实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>標題修改</source_entity>
+    <target_entity>段落主題清晰化</target_entity>
+    <relationship_description>Title modification supports paragraph theme clarification by providing thematic headings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

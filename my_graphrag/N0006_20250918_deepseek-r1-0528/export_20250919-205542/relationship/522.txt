@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Diligence actively destroys defilements through sustained effort, likened to an army routing its adversaries.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHANZHI (GRASPING ATTACHMENT)</source_entity>
+    <target_entity>FANNAO (AFFLICTIONS/KLESHAS)</target_entity>
+    <relationship_description>Grasping Attachment is the root cause of the intensification of Afflictions, likened to poison and fire.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>圣者是修行的典范，具足戒律与智慧，断尽烦恼、超越痛苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

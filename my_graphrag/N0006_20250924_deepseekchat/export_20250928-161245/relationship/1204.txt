@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪修</source_entity>
+    <target_entity>心靈的解脫</target_entity>
+    <relationship_description>通過禪修，修行者能達到心靈的解脫。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

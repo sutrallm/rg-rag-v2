@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>戒律是禅修的基础，为禅修提供稳固的根基。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

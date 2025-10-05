@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>觉悟者超越生死轮回，达到解脱之境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>圣者安住于禅定觉观的修行境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

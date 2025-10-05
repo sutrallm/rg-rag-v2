@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Through dedicated practice, cultivators achieve ultimate liberation, freeing them from all afflictions and bringing freedom from death and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>NON-SELF TRUTH</target_entity>
+    <relationship_description>Ultimate liberation requires insight into the truth of non-self as a core understanding that enables severing all attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

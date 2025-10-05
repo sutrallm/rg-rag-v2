@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>A concentrated and stabilized mind has the power to sever cravings at their roots.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

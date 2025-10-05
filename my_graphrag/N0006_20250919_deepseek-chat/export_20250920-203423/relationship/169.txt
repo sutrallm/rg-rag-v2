@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>涅槃是解脱的最终目标，超越概念分别，息灭一切造作，安住无所得之境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>恶行</source_entity>
+    <target_entity>善行</target_entity>
+    <relationship_description>恶行和善行是相对的行为，善行的力量能够抵御恶行的负面影响。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

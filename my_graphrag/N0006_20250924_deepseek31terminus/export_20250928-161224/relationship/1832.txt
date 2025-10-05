@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGOROUS EFFORT</source_entity>
+    <target_entity>LORD OF DEATH</target_entity>
+    <relationship_description>Vigorous effort allows one to avoid falling under the dominion of the Lord of Death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

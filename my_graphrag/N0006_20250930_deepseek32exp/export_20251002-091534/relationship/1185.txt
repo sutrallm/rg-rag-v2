@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四道支</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>四道支最终以智慧照破无明，智慧是四道支的最终目标</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

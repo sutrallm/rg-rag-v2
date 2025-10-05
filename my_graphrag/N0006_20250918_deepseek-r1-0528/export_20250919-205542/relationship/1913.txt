@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The sage attains complete liberation by extinguishing all afflictions and abandoning attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

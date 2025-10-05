@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>死亡</target_entity>
+    <relationship_description>Diligent practice enables practitioners to avoid falling under death's dominion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

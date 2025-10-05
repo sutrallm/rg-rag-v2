@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE BLISS OF NIRVĀṆA</source_entity>
+    <target_entity>EXTINCTION AND NIRVĀṆA</target_entity>
+    <relationship_description>Ultimate Bliss of Nirvāṇa describes the same state as Extinction and Nirvāṇa, focusing on its supreme peaceful quality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

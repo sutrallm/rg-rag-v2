@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>修行者通过八正道的实践逐步净化心识，通往解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

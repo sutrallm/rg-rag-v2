@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>关键改写示例</source_entity>
+    <target_entity>精进持戒的要领</target_entity>
+    <relationship_description>Examples include transformation of original dialogues about diligence into warnings against complacency.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

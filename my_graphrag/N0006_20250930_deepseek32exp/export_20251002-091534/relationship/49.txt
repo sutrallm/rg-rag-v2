@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>修行者应通过如实知见，彻底舍离对五蕴的执取</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定(MEDITATIVE CONCENTRATION)</source_entity>
+    <target_entity>禅定中断(BREAK IN CONCENTRATION)</target_entity>
+    <relationship_description>Maintaining meditative concentration is vulnerable to interruption/break, caused by unresolved afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

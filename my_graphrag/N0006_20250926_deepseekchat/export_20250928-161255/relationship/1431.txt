@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>保持正念可以帮助修行者避免散乱和放逸，从而逐渐消融烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

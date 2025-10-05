@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我见</source_entity>
+    <target_entity>生死根本</target_entity>
+    <relationship_description>完全破除对我见的执着可以如斩断芦苇般摧毁生死根本。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

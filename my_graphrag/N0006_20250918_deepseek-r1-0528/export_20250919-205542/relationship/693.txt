@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>OBSTACLES</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Obstacles hinder enlightenment by impeding spiritual progress, explicitly mentioned in both guarding the senses and wrong view contexts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

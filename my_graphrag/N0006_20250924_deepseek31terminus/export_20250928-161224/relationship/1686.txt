@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>戒律和正见是圣者具足的两种基础功德。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

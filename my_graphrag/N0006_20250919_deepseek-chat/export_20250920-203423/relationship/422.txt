@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>佛法的教导有助于修行者获得智慧，洞察世间的无常本质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

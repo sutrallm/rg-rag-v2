@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Samadhi is achieved and maintained through the application of Mindfulness (focused, non-distracted awareness).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

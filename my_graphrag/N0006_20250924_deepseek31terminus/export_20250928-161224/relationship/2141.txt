@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PURE MIND</target_entity>
+    <relationship_description>Meditation is the method for achieving a pure mind, free from defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

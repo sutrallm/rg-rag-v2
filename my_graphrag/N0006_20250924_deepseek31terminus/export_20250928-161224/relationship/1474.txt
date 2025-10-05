@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND CONTROL</source_entity>
+    <target_entity>SENSORY DESIRES</target_entity>
+    <relationship_description>Mind control techniques are used specifically to overcome sensory desires and attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

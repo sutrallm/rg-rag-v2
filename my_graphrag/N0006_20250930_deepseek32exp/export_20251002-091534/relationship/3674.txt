@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Liberated beings have attained the Nirvana state of ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

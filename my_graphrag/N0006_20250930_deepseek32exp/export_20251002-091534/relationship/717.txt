@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行者 practice 禅定 to achieve inner peace and liberation from afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Mindfulness, characterized by mental stability and virtuous focus, prevents the arising of distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

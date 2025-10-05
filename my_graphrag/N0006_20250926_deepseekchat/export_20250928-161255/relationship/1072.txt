@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL PRACTITIONER</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Spiritual practitioners focus on purifying the mind to achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BLAMELESS_CONDUCT</source_entity>
+    <target_entity>MERITS</target_entity>
+    <relationship_description>Upright faultless behavior is stated as producing merit alongside giving and kindness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

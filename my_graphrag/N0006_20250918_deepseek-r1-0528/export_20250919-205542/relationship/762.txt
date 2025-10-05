@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED BEING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Liberated beings embody non-attachment by observing phenomena without craving or clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

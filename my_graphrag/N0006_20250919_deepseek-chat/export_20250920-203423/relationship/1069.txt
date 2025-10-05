@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>神明</target_entity>
+    <relationship_description>神明对具足戒律与智慧的修行者心存敬意，因为这些修行者的生活展现了真正的清净与智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DRAGON_KING</target_entity>
+    <relationship_description>Practitioners are likened to the Dragon King in maintaining vigilance against external dangers.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

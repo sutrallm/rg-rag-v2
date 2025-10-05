@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八支圣道</source_entity>
+    <target_entity>智慧观照</target_entity>
+    <relationship_description>八支圣道包含了智慧观照的实践纲领，正见和正思维是智慧观照的核心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

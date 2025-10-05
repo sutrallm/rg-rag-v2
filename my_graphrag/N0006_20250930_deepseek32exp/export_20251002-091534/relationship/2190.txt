@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Ultimate liberation culminates in the realization of nirvana, the state of complete peace and cessation of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

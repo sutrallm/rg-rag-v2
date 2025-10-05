@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>A saint, having realized the nature of existence, remains unmoved by worldly changes, embodying equanimity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

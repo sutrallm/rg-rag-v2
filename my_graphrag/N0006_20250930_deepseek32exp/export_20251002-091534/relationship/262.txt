@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>正确认知四圣谛是修行者解脱修行的基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

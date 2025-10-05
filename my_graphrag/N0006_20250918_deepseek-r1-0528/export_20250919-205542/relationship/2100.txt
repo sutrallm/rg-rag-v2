@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Meditation cultivates concentration, enabling the mind to achieve single-pointed focus essential for spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

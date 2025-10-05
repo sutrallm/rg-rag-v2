@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>A THOROUGHLY LIBERATED ONE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A thoroughly liberated one is a person who has achieved ultimate liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

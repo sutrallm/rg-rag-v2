@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The law of karma determines the experience of suffering or happiness based on actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

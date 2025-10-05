@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>When the six senses contact external objects, one maintains awareness to perceive the emptiness of phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

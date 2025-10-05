@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Practitioners recognize the five aggregates as illusory and cease constructing new attachments around them to achieve liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

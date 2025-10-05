@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需要遵循戒定慧的修学次第</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

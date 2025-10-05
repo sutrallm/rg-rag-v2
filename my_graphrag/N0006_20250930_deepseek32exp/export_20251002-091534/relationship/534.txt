@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>VIRTUE</target_entity>
+    <relationship_description>Practitioners establish pure precepts as the beginning of their spiritual path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

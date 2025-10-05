@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART</source_entity>
+    <target_entity>THOUGHTS</target_entity>
+    <relationship_description>The heart is the source from which thoughts arise. Guarding the heart involves controlling the thoughts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

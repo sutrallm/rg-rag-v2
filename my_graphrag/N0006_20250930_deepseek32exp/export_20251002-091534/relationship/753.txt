@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOTUS FLOWER</source_entity>
+    <target_entity>SAINTLY PRACTITIONER</target_entity>
+    <relationship_description>The lotus flower symbolizes saintly practitioners who remain unstained by defilements while living in the world.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

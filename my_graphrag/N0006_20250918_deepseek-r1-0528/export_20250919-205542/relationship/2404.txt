@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT_DIRECTION</source_entity>
+    <target_entity>AUSPICIOUSNESS</target_entity>
+    <relationship_description>Establishing wholesome life orientation directly underpins the foundation for achieving auspiciousness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The teachings aim to guide beings away from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

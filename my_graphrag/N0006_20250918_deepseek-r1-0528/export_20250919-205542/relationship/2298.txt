@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATING WISDOM</source_entity>
+    <target_entity>ETERNALISM</target_entity>
+    <relationship_description>Liberating wisdom overcomes eternalism by revealing the conditioned, impermanent nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

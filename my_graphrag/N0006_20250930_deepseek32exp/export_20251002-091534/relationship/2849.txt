@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>Practitioners engage in the dual practice of calm abiding and insight meditation to eliminate craving.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

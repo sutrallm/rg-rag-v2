@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念禅修</source_entity>
+    <target_entity>散乱失念</target_entity>
+    <relationship_description>正念禅修使修行者远离散乱失念。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

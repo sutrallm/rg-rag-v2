@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>法性</target_entity>
+    <relationship_description>涅槃 is the state of abiding eternally in 法性 (the nature of reality), free from all attachments and dualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>CONSCIOUSNESS</target_entity>
+    <relationship_description>The cycle of birth and death ends when consciousness ceases functioning.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

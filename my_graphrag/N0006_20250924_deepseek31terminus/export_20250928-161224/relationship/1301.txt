@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>Practitioners use meditation (禅修) to achieve liberation (解脫).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE LIVING</source_entity>
+    <target_entity>SIX SENSE FACULTIES (LIU GEN)</target_entity>
+    <relationship_description>Pure living involves guarding the six sense faculties.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

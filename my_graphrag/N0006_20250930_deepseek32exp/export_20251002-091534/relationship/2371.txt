@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT VIEW</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Right view serves as the foundation while wisdom serves as the guide in the spiritual path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

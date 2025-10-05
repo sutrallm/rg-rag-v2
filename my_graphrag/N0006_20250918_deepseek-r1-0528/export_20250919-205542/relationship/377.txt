@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>CYCLE OF BIRTH AND DEATH</target_entity>
+    <relationship_description>Mindfulness enables understanding of the dangers inherent in the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

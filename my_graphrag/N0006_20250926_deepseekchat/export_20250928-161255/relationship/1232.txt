@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>野兽</target_entity>
+    <relationship_description>修行者通过专注摆脱外界纷扰，如同野兽在安静环境中行走。（仅供参考）</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

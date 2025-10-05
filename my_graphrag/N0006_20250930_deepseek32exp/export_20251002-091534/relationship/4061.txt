@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT CULTIVATION</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Diligent cultivation enables practitioners to progress toward becoming sages.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

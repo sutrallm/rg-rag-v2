@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUNDATION OF PRECEPTS</source_entity>
+    <target_entity>EMERGENCE OF CONCENTRATION AND WISDOM</target_entity>
+    <relationship_description>Purified discipline forms the necessary foundation for concentration and wisdom to arise in sequence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

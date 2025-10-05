@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>CYCLE OF REBIRTH</target_entity>
+    <relationship_description>Attachment to the mind perpetuates the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

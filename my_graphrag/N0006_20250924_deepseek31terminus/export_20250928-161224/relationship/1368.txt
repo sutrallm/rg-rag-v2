@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧鎧甲</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>The armor of wisdom (智慧鎧甲) is used to protect the six sense faculties (六根).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

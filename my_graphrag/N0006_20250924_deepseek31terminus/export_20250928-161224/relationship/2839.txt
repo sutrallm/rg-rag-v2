@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进修行包含了对禅定的实践，通过不懈努力来维持心念的专注。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

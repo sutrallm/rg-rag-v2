@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>Negligence allows afflictions to arise and attack.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

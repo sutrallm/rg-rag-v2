@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Mindfulness cultivates mental stability and purity, supporting the realization of samadhi by preventing distractions that hinder deeper meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

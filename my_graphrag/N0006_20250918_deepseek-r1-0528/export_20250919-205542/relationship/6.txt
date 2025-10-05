@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者的超越特質</source_entity>
+    <target_entity>真實智慧</target_entity>
+    <relationship_description>聖者的超越特質 include the attainment of 真實智慧 (authentic wisdom).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

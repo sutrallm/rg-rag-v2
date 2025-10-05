@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Zen meditation leads to the attainment of wisdom liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

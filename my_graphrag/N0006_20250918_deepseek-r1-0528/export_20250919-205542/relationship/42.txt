@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FUNDAMENTAL PATH OF LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>This path liberates from suffering caused by rebirth according to the explicit statement about ending new afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANAGAMI (THIRD FRUIT)</source_entity>
+    <target_entity>ARHAT (FOURTH FRUIT)</target_entity>
+    <relationship_description>Third Fruit achievers advance to culminate enlightenment at the ultimate Fourth Fruit stage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>
