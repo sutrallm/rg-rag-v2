@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>PARAGRAPH</target_entity>
+    <relationship_description>USER requests a translation of a specific paragraph of the original text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

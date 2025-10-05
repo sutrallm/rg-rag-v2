@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>私伽陀</source_entity>
+    <target_entity>私伽陀</target_entity>
+    <relationship_description>Private village within which the Buddha taught ethical instruction; indicates the setting of the discourse.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>具壽阿㝹羅度</source_entity>
+    <target_entity>祇樹林給孤獨園</target_entity>
+    <relationship_description>具壽阿㝹羅度 resides and practices in the garden.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

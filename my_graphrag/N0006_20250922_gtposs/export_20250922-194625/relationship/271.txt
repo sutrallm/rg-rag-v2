@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASTE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Taste is a source of suffering when taken reflexively.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

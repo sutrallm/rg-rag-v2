@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERBAL TRANSLATION</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>VERBAL TRANSLATION is produced by translating the content of the ORIGINAL TEXT.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

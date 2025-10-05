@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>SEND TEXT</target_entity>
+    <relationship_description>User is supposed to provide original text to the assistant.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

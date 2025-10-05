@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>REQUIREMENTS</target_entity>
+    <relationship_description>User communicates the specific requirements that the translation must meet.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>QUOTATION</target_entity>
+    <relationship_description>Original text contains quoted or poetic material that must be omitted.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

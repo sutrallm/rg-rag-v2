@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DOCUMENT</source_entity>
+    <target_entity>TRANSLATION_SERVICE</target_entity>
+    <relationship_description>The full document will be processed by the translation service.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

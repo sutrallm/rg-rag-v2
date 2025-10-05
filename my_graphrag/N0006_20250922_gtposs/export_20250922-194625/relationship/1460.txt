@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>TASK</target_entity>
+    <relationship_description>The user is requesting that the task be performed on the original text.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>論</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>Discussion is admonished if it does not advance understanding of suffering and its cessation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

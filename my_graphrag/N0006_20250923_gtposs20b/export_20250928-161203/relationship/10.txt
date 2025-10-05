@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>SEND TEXT</target_entity>
+    <relationship_description>Assistant needs the user to provide the original text in order to proceed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

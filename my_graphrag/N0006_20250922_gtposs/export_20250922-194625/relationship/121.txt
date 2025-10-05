@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL ARTICLE</target_entity>
+    <relationship_description>The user must provide the original article for the transformation process.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定根</source_entity>
+    <target_entity>五根</target_entity>
+    <relationship_description>定根是構成五根的五個成分之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

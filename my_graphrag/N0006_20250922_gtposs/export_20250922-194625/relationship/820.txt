@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>火界</source_entity>
+    <target_entity>風界</target_entity>
+    <relationship_description>火界 and 風界 are successive realms in the hierarchical chain.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

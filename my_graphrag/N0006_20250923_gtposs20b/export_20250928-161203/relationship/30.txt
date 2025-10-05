@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>The ASSISTANT requests the USER to provide the original text so it can perform translation, modification, and organization tasks.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

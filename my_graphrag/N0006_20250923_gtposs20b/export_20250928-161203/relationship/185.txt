@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESPONDER</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>RESPONDER is willing to process ORIGINAL_TEXT if provided.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

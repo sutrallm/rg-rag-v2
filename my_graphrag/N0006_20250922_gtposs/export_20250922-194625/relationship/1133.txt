@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>妙勝</source_entity>
+    <target_entity>濕生龍</target_entity>
+    <relationship_description>The excellence section compares the moist‑born dragon as more superior than the previous types.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

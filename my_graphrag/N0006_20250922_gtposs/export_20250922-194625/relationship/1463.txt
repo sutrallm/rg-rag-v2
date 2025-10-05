@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>ACTION_REMOVE_ENTITIES</target_entity>
+    <relationship_description>The task includes removing character and place references from the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

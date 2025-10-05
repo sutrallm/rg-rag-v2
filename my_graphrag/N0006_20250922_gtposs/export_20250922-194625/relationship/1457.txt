@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>APOLOGY</source_entity>
+    <target_entity>TRANSLATION PROCESS</target_entity>
+    <relationship_description>The apology introduces the need to initiate the translation process once the original content is provided.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

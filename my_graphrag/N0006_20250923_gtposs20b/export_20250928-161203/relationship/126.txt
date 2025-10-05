@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTENT</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The content the user will paste is intended to replace or serve as the original text that was previously referenced.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>凡尘</source_entity>
+    <target_entity>世俗</target_entity>
+    <relationship_description>凡尘处于不与世俗打交道的情境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

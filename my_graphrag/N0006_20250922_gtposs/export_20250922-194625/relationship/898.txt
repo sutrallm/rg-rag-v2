@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>針毛夜叉</source_entity>
+    <target_entity>伽耶之石牀</target_entity>
+    <relationship_description>針毛夜叉 approaches 世尊 at 伽耶之石牀, establishing the location for their encounter.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY FEMALE DISCIPLES</source_entity>
+    <target_entity>FIVE GROWTHS</target_entity>
+    <relationship_description>Holy female disciples are cultivated through the Five Growths.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

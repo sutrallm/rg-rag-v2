@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離欲</source_entity>
+    <target_entity>厭患</target_entity>
+    <relationship_description>厭患 arises from離欲.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>第二阿羅漢品</target_entity>
+    <relationship_description>無我 is the sixth section within the second book of Arhants.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

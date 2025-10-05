@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>The assistant apologizes to the user for not having received the original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

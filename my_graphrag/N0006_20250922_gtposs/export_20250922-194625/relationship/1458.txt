@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION PROCESS</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The translation process requires the original content as an input to produce translations and organized output.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

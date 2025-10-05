@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ME</source_entity>
+    <target_entity>TITLE EDITING SERVICE</target_entity>
+    <relationship_description>Assistant will edit or provide a title for the original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

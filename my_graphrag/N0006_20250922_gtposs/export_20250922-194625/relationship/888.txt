@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PARAGRAPH</source_entity>
+    <target_entity>TRANSLATION_SERVICE</target_entity>
+    <relationship_description>A paragraph of the original text will be processed by the translation service.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

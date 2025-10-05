@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>王舍城耆闍崛山</source_entity>
+    <target_entity>世尊</target_entity>
+    <relationship_description>The mountain near King Saha’s city serves as a location where the Buddha continues his teachings after Mara’s departure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

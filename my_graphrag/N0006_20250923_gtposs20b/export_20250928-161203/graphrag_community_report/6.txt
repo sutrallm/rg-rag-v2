@@ -1,0 +1,34 @@
+**Title**  
+Structured Transformation Process: Mandatory Removal of Personal, Geographical, Poetic, and Quoted Elements
+
+**Executive Summary**  
+The procedure described that the user first supply the complete original material. Once received, the assistant will rewrite the content in colloquial Chinese, remove all personal names, place names, and any quoted or poetic passages, and then reorganize the text under specified section headings. These steps are mandatory, forming a step‑by‑step workflow that guarantees consistent anonymization and stylistic conformity across all transformed documents.
+
+---
+
+### 1. Source Material Must Be Supplied First
+The transformation can only begin after the user posts the full original content. Without this complete material, the assistant cannot apply the required rules.
+
+### 2. Personal Names Must Be Stripped Out
+All references to individuals are to be removed or anonymized. The assistant is instructed not to retain any personal identifiers.
+
+### 3. Geographical References Are Eliminated
+Place names appear in the source and must be deleted before transformation. This guarantees that the output contains no location data.
+
+### 4. Quoted and Poetic Material Is Omitted
+Any quotations or poetic fragments are excluded from the rewritten version, ensuring a purely expository text.
+
+### 5. Conversion to Colloquial Chinese
+The rewritten text should adopt a plain, everyday Chinese style, moving away from formal or literary language.
+
+### 6. Structured Headings Are Added
+The transformed piece is organized under a predefined list of section headings, providing clear sections for each component of the original content.
+
+### 7. Assistant’s Role Is Defined
+The assistant’s function is strictly to rewrite and reorganize content once it has been received, acting solely on the instructions provided.
+
+### 8. User’s Responsibility
+The user must paste the entire original material into the conversation, following the specification that the content be fully supplied before processing.
+
+### 9. Interaction Flow
+The exchange is driven by the user’s initial request followed by the assistant’s subsequent transformation, ensuring a clear and predictable sequence of actions.

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ME</source_entity>
+    <target_entity>YOU</target_entity>
+    <relationship_description>ME will help YOU with translation and editing only after receiving the ORIGINAL_TEXT.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

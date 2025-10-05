@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ME</source_entity>
+    <target_entity>YOU</target_entity>
+    <relationship_description>Assistant replies to the user with an offer of service.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

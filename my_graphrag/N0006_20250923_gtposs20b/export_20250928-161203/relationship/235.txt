@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMATTING</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>After formatting, a new title is created based on the translated content.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

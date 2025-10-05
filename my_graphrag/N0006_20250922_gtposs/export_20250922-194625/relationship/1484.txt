@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTENT</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>The FORMAT specifies how the CONTENT should be organized or styled in the final output.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

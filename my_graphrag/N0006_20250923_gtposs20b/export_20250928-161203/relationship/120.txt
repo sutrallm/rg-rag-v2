@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>The assistant speaks to the user, asking them to paste the necessary content.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

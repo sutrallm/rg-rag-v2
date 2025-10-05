@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>VERSES DELETION</target_entity>
+    <relationship_description>ASSISTANT will delete verse‑style passages (偈語) during re‑organization.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

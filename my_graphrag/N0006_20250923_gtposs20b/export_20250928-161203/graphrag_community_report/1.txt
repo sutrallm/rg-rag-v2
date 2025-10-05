@@ -1,0 +1,30 @@
+**Title**  
+Requirements and Constraints for the Translation‑Organization Workflow  
+
+**Summary**  
+The assistant can only perform translation, title revision, content formatting, metaphor refinement, and name removal when the user supplies the complete source material. The user must paste the full passage; until then the assistant remains idle. The assistant repeatedly confirms its inability to act without the source and informs the user that no transformations can be carried out. The user’s role is to provide the content and specify desired changes. All tasks are strictly limited to the supplied material and include removal of personal and geographic references, restructuring chapter headings, and delivering a plain‑style Chinese rendition.  
+
+**Key Observations**
+
+- **Dependence on Source Information**  
+  The assistant repeatedly states that it cannot access the original source independently. Every operational step—translation, title reconstruction, punctuation editing, and layout organization—restes on the user’s input. Without the user’s submission, the assistant remains in a waiting state, reflecting the system design that entrusts data provision to the user.
+
+- **Repeated Solicitation of Input**  
+  The assistant consistently echoes a request for the complete passage, using the same phrasing to prompt the user. This repetition indicates a workflow that expects immediate user response and is built around iterative user‑assistant interaction.
+
+- **Defined Duties of the Assistant**  
+  When the source is supplied, the assistant is prepared to:  
+  1. Translate the material into colloquial Chinese  
+  2. Strip all personal and location identifiers  
+  3. Refine metaphors and dialogue structure  
+  4. Rename and rearrange chapter headings  
+  5. Produce a coherent, numbered format for the user  
+  Hence, the assistant’s functional scope is purely transformation‑focused and does not involve any form of content extraction or autonomous decision making.
+
+- **User's Obligations**  
+  The user must provide the entire original passage and any specific transformation directives (such as new title suggestions). The user is also the intended recipient of the final output, ensuring that responsibilities for content accuracy and completeness lie with the user until the assistant processes the supplied material.
+
+- **Scope of Transformations**  
+  All requested modifications are explicitly listed: elimination of personal and geographic references, conversion to plain Chinese, organization of metaphoric elements, reformatting of chapter labels, and removal of any concluding epigraph. No additional alterations beyond these directives are mentioned, showing a narrowly defined transformation requirement set.
+
+These observations provide a complete picture of the interaction dynamics, the assistant’s limitations, and the user’s responsibilities within this translation‑organization framework.

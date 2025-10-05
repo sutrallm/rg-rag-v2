@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>ASSISTANT will process ORIGINAL_TEXT once received, performing translation, removal of named entities, metaphor organization, dialogue restructuring, legal exposition, and title renaming.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,24 @@
+**Title**  
+System‑Driven Apology and Translation Request Workflow
+
+**Executive Summary**  
+The automated system initiates communication with the user by notifying them that the requested original text has not been received. It apologizes for the omission and explicitly instructs the user to supply the missing content. Once the original text is provided, the system is configured to perform a range of processing tasks: simplified translation, removal of specified characters and locations, organization of metaphors and dialogue, and title adjustment. This workflow ensures that all translation and formatting steps can be completed only after the user supplies the necessary source material.
+
+**Apology and Missing Content Notice**  
+The message informs the user that the original text was not included in the prior communication. It conveys regret and emphasizes that the omission must be addressed before further actions can take place.
+
+**User Action Requirement**  
+The user is expected to paste the missing content into the designated channel or text box. The system specifically requests the original text (labeled “ORIGINALTEXT”) so that translation and reconstruction tasks can proceed.
+
+**Translation and Organization Scope**  
+Upon receipt of the original text, the system is prepared to:  
+- Perform simplified translation of the content.  
+- Reduce or remove specified characters and place information.  
+- Organize metaphoric references and dialogue elements.  
+- Adjust the title of the original text as requested.
+
+**System‑User Interaction Flow**  
+The system’s first message to the user includes an apology, a statement of lack of the original text, and a direct call‑to‑action. Once the user supplies the text, the system will automatically execute the translation and organization services without further prompts.
+
+**Metadata of Original Text Handling**  
+The message references several key processing directives: character and location reduction, simplified translation, metaphor and dialogue organization, and title adjustment. These directives indicate the comprehensive set of transformations the system will apply once the original content is available.

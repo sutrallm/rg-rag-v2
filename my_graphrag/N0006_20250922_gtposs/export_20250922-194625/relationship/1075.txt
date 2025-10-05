@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UPASAKA</source_entity>
+    <target_entity>LACUNE_GARDEN</target_entity>
+    <relationship_description>UPASAKA visited the garden where the Buddha resided during the parama-lesson on the four laws.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

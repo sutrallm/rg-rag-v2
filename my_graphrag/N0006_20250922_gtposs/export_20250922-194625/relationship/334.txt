@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHATBOT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>Chatbot requests the original text from the user in order to proceed with translation and organization.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

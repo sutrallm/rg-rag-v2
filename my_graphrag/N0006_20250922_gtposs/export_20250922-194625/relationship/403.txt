@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>薩羅</source_entity>
+    <target_entity>舍衛城</target_entity>
+    <relationship_description>薩羅 is mentioned as a locale within the broader setting of 舍衛城’s monastic sphere.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

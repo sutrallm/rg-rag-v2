@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>具壽羅陀</target_entity>
+    <relationship_description>BUDDHA teaches and answers questions posed by 具壽羅陀.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

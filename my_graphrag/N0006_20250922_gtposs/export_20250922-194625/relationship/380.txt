@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPI</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>缘起的相互依赖关系体现了无我的观照。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MAHA MAN</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Venerable 釋氏摩訶男 consults the Buddha about illness and doctrines.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

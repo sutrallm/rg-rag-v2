@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUEST</source_entity>
+    <target_entity>ORIGINAL_PARAGRAPH</target_entity>
+    <relationship_description>The system’s request is specifically to receive the original paragraph from the user.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

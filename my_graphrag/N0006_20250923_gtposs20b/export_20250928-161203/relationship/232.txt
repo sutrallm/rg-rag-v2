@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SOURCE TEXT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>Translation cannot proceed without the original source text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

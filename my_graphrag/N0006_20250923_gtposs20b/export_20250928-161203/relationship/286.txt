@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLAIN_CHINESE_VERSION</source_entity>
+    <target_entity>REQUIREMENT</target_entity>
+    <relationship_description>The final plain Chinese version is shaped to align with the user’s requirement in terms of style, format, or other constraints.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

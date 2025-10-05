@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>想</target_entity>
+    <relationship_description>世尊 discusses the aggregate '想' and its binding effect when clinging is practiced.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

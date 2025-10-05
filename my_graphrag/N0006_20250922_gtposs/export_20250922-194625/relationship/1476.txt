@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION PROCESS</source_entity>
+    <target_entity>VERNACULAR CHINESE OUTPUT</target_entity>
+    <relationship_description>Translation Process produces the Vern Chinese Output as its result.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

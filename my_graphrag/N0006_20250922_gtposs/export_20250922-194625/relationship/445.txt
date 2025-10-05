@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICING GOOD DEEDS</source_entity>
+    <target_entity>FIVE POSITIONS</target_entity>
+    <relationship_description>Women who practice good deeds occupy the second set of positions described.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

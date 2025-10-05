@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生之法</source_entity>
+    <target_entity>眼識</target_entity>
+    <relationship_description>眼識是眼与色的识别过程，生之法组成。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

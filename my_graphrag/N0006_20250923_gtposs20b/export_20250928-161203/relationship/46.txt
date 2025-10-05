@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>PROSE_TRANSLATION</target_entity>
+    <relationship_description>Assistant will translate the user’s text into vernacular Chinese.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

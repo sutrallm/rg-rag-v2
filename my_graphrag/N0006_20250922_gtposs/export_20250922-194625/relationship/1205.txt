@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TOUCH</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>The sense of touch, involving contact with objects, generates suffering, disease, old age, and death as depicted in the scripture.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

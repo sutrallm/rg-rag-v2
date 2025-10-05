@@ -1,0 +1,10 @@
+<heading>Request for Original Text to Enable Content Transformation<\heading>
+- Apologizes for not having the original text and repeatedly asks the user to provide it.
+
+- Offers to convert the content into plain language, remove specific names and locations, and reorganize dialogues and similes into direct doctrinal statements.
+
+- Notes that titles will be renamed numerically and concluding verses omitted.
+
+- The same request is repeated in both Chinese and English to accommodate different languages.
+
+- The tone remains helpful and encourages the user to supply the missing material.

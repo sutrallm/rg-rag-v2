@@ -1,0 +1,6 @@
+<heading>Awaiting Original Text for Translation and Formatting<\heading>
+- Apologies repeatedly for the missing original text and requests the user to paste the passage for translation and formatting.  
+
+- Promises that translation, organization, and title renaming will follow once the content is provided.  
+
+- Makes no reference to tables, figures, or other resources; focus remains solely on the absent source material.

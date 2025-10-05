@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The ORIGINAL TEXT serves as the source input from which the TRANSLATION is generated.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

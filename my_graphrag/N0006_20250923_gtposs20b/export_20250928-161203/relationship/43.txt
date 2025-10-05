@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ASSISTANT</target_entity>
+    <relationship_description>User requests the assistant to perform text‑processing tasks.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

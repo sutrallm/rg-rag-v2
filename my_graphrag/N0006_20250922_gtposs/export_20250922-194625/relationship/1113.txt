@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>龍相應</source_entity>
+    <target_entity>布薩</target_entity>
+    <relationship_description>The scripture includes four Bussa parts, each dealing with a dragon type.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

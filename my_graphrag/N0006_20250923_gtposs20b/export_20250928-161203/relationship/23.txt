@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>Assistant will output the transformed paragraph back to the user, and may request further instructions if needed.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

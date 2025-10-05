@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>MESSAGE</target_entity>
+    <relationship_description>The System generated and sent this MESSAGE to the User.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

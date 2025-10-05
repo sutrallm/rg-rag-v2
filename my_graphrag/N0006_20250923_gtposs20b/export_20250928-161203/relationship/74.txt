@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE_REWRITING</target_entity>
+    <relationship_description>The Original Text is the source material that needs title rewriting.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

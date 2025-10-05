@@ -1,0 +1,30 @@
+**Plain Chinese Translation Guidelines – Roles of FORMAT, USER, Assistant**
+
+---
+
+### Executive Summary  
+The document specifies a procedure for converting original content into plain Chinese. The process hinges on a user‑supplied format definition. The assistant must follow that format precisely, ensuring the translated text appears in the requested style. The key logic is:
+
+1. Receive the format specification from the user.  
+2. Translate the original material into plain Chinese.  
+3. Output the translated content strictly according to the provided format.  
+
+This procedure guarantees consistency and clarity for the end user.
+
+---
+
+#### Mandate on Plain Chinese  
+The text explicitly requires that the output be a readable, plain Chinese rendition. Formal or complex phrasing is to be replaced with straightforward language.
+
+#### User‑Defined Format  
+All formatting instructions are supplied by the user. The assistant’s responsibility is to adhere strictly to those instructions for translation and organization.
+
+#### Output Adherence  
+The translated content must be rendered in the formatting style specified. No deviations or additions are permitted beyond what the user’s format dictates.
+
+#### Role of the Assistant  
+The assistant reads the original text, applies the user’s format, and delivers the plain Chinese output in that exact structure. The assistant acts as an executor of the user’s formatting commands.
+
+---
+
+*All statements derive solely from the provided text.*

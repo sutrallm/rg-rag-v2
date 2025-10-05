@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正行</source_entity>
+    <target_entity>八支聖道</target_entity>
+    <relationship_description>正行, or Right Conduct, is defined by following the Eightfold Path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

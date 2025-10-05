@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>REORGANIZED TITLE</target_entity>
+    <relationship_description>Original text will have its title rearranged as per user instructions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

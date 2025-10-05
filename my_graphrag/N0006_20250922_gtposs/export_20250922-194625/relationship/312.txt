@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>鹿子母堂</target_entity>
+    <relationship_description>佛陀於鹿子母堂說法並領導聽眾。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

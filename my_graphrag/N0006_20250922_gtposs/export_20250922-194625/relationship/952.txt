@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERBAL TRANSLATION</source_entity>
+    <target_entity>COLLOQUIAL CHINESE</target_entity>
+    <relationship_description>VERBAL TRANSLATION is rendered in COLLOQUIAL CHINESE.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

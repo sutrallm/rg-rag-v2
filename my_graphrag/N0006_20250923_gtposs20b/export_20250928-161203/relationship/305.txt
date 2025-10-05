@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>Original text must be output in the specified formatting style.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

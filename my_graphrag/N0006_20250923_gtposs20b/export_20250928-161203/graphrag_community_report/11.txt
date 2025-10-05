@@ -1,0 +1,20 @@
+**Title**  
+User‑Provided Text Required for Translation and Reorganization  
+
+**Executive Summary**  
+The passage states that the assistant cannot begin any processing until the user supplies the original text. Once received, the assistant will translate the content, reorganize it into a new structure, and format the result. The process hinges on the user’s submission and the assistant’s defined tasks of translation, reorganization, and formatting.  
+
+**Action Requirement**  
+The user must paste the source material. Without this input, the assistant is unable to carry out translation, structure, or formatting work.  
+
+**Scope of Assistant Functions**  
+Upon receipt of the original text, the assistant will produce:  
+- A translated version of the content.  
+- A reorganized arrangement of the same material.  
+- Formatting adjustments appropriate to the new structure.  
+
+**Data Flow**  
+1. The user provides the original text.  
+2. The assistant translates the text.  
+3. The assistant reorganizes the translated material into a new form.  
+4. The final output is formatted and presented.

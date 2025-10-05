@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>七覺支</target_entity>
+    <relationship_description>Monks practice the Seven Mind Concentrations as described in the chapter.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

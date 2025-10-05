@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL_PARAGRAPH</target_entity>
+    <relationship_description>Assistant will receive the original paragraph from the user and perform simplification, removal of characters and locations, metaphor refinement, direct legal interpretation of dialogue, renaming of section titles, and numbering of sections.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

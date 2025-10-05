@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>比丘</target_entity>
+    <relationship_description>世尊 teaches to the group of monastic disciples.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

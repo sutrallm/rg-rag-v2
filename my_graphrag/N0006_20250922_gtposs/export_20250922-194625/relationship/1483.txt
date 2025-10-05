@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTENT</source_entity>
+    <target_entity>MESSAGE</target_entity>
+    <relationship_description>The CONTENT is transmitted within the MESSAGE sent by the user.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

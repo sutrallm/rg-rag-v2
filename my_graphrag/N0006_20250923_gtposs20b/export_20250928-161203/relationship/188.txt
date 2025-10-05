@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>TEXT_TO_TRANSLATE</target_entity>
+    <relationship_description>User provides the TEXT_TO_TRANSLATE for translation and rewriting.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

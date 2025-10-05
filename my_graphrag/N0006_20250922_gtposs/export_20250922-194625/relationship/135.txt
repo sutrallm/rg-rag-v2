@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL ARTICLE</source_entity>
+    <target_entity>VERSES DELETION</target_entity>
+    <relationship_description>The original article contains verse-style passages to be deleted.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

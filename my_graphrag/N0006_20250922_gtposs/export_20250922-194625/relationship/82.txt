@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>This relationship represents the assistant’s request to the user to supply the original text, establishing a communication link and dependency for the task.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

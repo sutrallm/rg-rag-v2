@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IDENTIFICATION</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>Recognition and naming of objects lead to the established pattern of suffering, disease, old age, and death according to the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

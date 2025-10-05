@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BENDA</source_entity>
+    <target_entity>BOHROMON</target_entity>
+    <relationship_description>The Buddha directly converses with the Brahmin, imparting instruction on the post‑nirvāṇa permanence of the Dhamma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>DOCTRINE ORGANIZATION</target_entity>
+    <relationship_description>The ORIGINAL TEXT provides doctrinal content that the assistant will categorize and整理教義 (organise doctrines) in the DOCTRINE ORGANIZATION process.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

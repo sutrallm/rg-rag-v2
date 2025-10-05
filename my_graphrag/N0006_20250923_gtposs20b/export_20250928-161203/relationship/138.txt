@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我</source_entity>
+    <target_entity>您</target_entity>
+    <relationship_description>译者将帮助请求者完成翻译和排版工作。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

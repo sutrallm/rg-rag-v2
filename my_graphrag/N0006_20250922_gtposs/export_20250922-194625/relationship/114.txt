@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AI ASSISTANT</source_entity>
+    <target_entity>DELETING ENDING</target_entity>
+    <relationship_description>AI Assistant can delete the ending portion of the Content.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

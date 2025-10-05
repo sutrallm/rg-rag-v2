@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>VERNACULAR TRANSLATION</target_entity>
+    <relationship_description>The ORIGINAL TEXT is the input that the assistant will translate into plain, conversational Chinese in the VERNACULAR TRANSLATION process.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

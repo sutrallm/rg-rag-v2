@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ME</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>ME can provide translation and editing services only after receiving the ORIGINAL_TEXT.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

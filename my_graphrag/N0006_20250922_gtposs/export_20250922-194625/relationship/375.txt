@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>OBSERVATION</target_entity>
+    <relationship_description>正念与静观相互强化，形成完整的专注方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>TEACHINGS EXTRACTION</target_entity>
+    <relationship_description>The user requests the assistant to extract key teachings from the original article.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

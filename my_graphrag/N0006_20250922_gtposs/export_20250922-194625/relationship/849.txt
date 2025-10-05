@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>眼</source_entity>
+    <target_entity>想</target_entity>
+    <relationship_description>觀 eye sight can lead to mental thinking (想) about what is seen.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

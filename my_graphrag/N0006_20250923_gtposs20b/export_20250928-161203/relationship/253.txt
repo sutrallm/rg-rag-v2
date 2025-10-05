@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUEST</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>Request is directed to the user to paste the full original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

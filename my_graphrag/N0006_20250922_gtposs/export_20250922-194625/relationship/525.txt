@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>ASSISTANT is responding to the USER’s request, offering help with translation and formatting.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

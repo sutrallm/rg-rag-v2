@@ -1,0 +1,8 @@
+<heading>Repeated Request for Original Text<\heading>
+- Apologizes for missing original text and asks the user to paste it after “原文如下”.
+
+- Consistently requests the original content so translation, formatting, or title redesign can proceed.
+
+- Declares that without the original text, tasks cannot be performed.
+
+- Repeats similar wording across messages in simplified/traditional Chinese, and occasionally other languages, but the core information remains unchanged.

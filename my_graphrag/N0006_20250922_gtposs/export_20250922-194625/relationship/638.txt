@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHATGPT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>ChatGPT will perform the translation on the original text once received.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

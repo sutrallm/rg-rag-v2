@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL ARTICLE</target_entity>
+    <relationship_description>ASSISTANT requires the user to provide the original article for transformation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

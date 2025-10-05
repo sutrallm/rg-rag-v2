@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FULL CONTENT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The FULL CONTENT is a more comprehensive version that includes the ORIGINAL TEXT.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

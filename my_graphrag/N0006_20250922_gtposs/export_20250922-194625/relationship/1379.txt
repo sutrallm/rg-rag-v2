@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT CONTENT</source_entity>
+    <target_entity>DIALOGUE REWRITE</target_entity>
+    <relationship_description>Original text includes dialogue that will be rewritten.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

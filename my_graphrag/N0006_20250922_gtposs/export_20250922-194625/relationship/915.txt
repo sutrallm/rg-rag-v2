@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍衛城</source_entity>
+    <target_entity>比丘</target_entity>
+    <relationship_description>舍衛城是比丘聚集、讲法的所在地。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

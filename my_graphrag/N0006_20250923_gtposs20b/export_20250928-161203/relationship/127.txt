@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SORRY_MESSAGE</source_entity>
+    <target_entity>ACTION_REQUEST</target_entity>
+    <relationship_description>The apology is followed by a request for the missing original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

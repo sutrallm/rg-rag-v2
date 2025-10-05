@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>METAPHOR</target_entity>
+    <relationship_description>Original Text contains metaphors that need to be reorganized during translation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

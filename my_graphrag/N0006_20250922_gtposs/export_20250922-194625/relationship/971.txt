@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>阿難</source_entity>
+    <target_entity>遮婆羅塔</target_entity>
+    <relationship_description>阿難 is instructed to go to the tower and sit there as directed by 世尊.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

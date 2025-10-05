@@ -1,0 +1,29 @@
+**Title**  
+Original Text → Translation and Cleanup Workflow  
+
+**Summary**  
+The document explains that no translation, title re‑organization, or formatting can be performed until the user supplies the full original material. It enumerates several distinct processing stages—translating into plain Chinese, refining titles, adapting language culturally, removing personal and geographic references, excising poetic or witticisms, summarising doctrinal content, and delivering a legal‑style explanation. The repeated statements emphasize the assistant’s inability to act without the source content and repeatedly ask the user to provide that source.
+
+**Prerequisite Requirement**  
+The assistant cannot proceed with any transformation tasks without the original material. Multiple assertions stress that the original text must be pasted by the user before translation or re‑structuring can begin.
+
+**Processing Stages Identified**  
+The document lists granular functions:  
+- **Translation Service**: converts source language into a target language.  
+- **Title Organization**: restructures or refines titles for clarity.  
+- **Cultural Reframing**: adjusts expressions to suit target culture.  
+- **Legal Interpretation**: presents content in a definitive legal format.  
+- **Doctrinal Summarisation**: categorises and summarises theoretical points.  
+- **Cleanup Actions**: remove concluding poetic lines, witticisms, personal and place references.  
+
+**User‑Assisted Submission Emphasis**  
+Repeated phrasing (“The user must paste the ORIGINAL TEXT…” “The assistant requires this input…”) highlights that providing the source is a critical user responsibility.
+
+**Security‑Like Redundancy**  
+The text deliberately repeats the same notes across several paragraphs, ensuring the user cannot overlook the requirement that the original content must be supplied.
+
+**Structure and Flow Clarification**  
+Specific directives (“refining sentence structure and flow for improved readability and coherence,” “modifying or optimizing the heading of the content”) indicate a desire to produce a polished final document from the supplied material.
+
+**Removal Constraints**  
+Explicit instructions to eliminate references to individuals, places, and certain poetic or identifying elements signal a strict filtering policy for the final output.

@@ -1,0 +1,27 @@
+**Role of Self, Source Material, and Teaching Tasks in the Assistant’s Workflow**
+
+**Executive Summary**  
+The document outlines how the assistant manages a self‑referential term, user‑provided source material, and a series of translation, organization, and conversion actions. It identifies the procedural steps required for the assistant to deliver services and highlights the teaching setting in which the first‑person pronoun is emphasized. Decision‑makers can use this information to align user support processes, ensure clear instructions for material submission, and appreciate the doctrinal emphasis on individual identity.
+
+**Key Findings**
+
+1. **Self‑Reference as Core Doctrine**  
+   The pronoun “我” (Wǒ) is presented as the primary marker of self or ego within discourse. Its use underscores an important conceptual point linked to the Eightfold Path, demonstrating that the material focuses on individual identity within a Buddhist teaching context. This focus informs the assistant’s handling of user content and supports tasks targeting self‑conceptual analysis.
+
+2. **User Input Requirements**  
+   The user must supply the original source material, called “原文,” to activate the assistant’s operations. The term “文字” denotes the material that the user is asked to paste. Until the user performs the “貼上” action, the original remains unavailable, preventing translation, organization, or transformation. Clear instructions on this step are essential to prevent user frustration and ensure smooth workflow.
+
+3. **Assistant Task Sequence**  
+   Once the source material is available, the assistant proceeds in a defined order:  
+   - **Translation (“翻譯”)** of the source into the target language.  
+   - **Organization (“整理”)**, rearranging the translated content for clarity.  
+   - **Transformation (“轉化”)**, converting the organized material into the required format or style.  
+   Each step depends on the preceding one, creating a linear process that can be monitored and managed.
+
+4. **Teaching Context for Individual Self**  
+   The passage notes that “世尊 teaches about the individual self (我) to the monks.” This situates the entire workflow within a pedagogical framework, emphasizing that the assistant’s services support educational or spiritual instruction about personal identity. Decision‑makers should recognize the sensitivity and doctrinal relevance when designing user interfaces or support documentation.
+
+5. **Consistency Between Source Demands**  
+   The terms “原文” and “文字” represent the same conceptual need: the user‑provided material. Their interchangeable definition underlines the importance of consistent terminology in user instructions. Misalignment could lead to confusion about what portion of the material must be pasted and which actions can be performed.
+
+These observations collectively describe the operational model for managing self‑related doctrinal content, user interaction, and sequential translation services. They provide a foundational understanding for structuring user guidance, monitoring workflow efficiency, and aligning content handling with doctrinal objectives.

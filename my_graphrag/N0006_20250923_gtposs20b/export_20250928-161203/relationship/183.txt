@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESPONDER</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>RESPONDER apologizes to USER for not being able to complete the task because ORIGINAL_TEXT is missing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>有綱</target_entity>
+    <relationship_description>BUDDHA explains the nature of 有綱 to 具壽羅陀.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

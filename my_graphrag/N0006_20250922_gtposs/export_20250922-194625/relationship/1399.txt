@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>阿臘毘</source_entity>
+    <target_entity>阿伽羅婆奢提耶</target_entity>
+    <relationship_description>阿伽羅婆奢提耶為阿臘毘城中之寺院，呈現行政與地理關聯。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

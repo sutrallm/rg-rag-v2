@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION SERVICE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The translation service operates on the ORIGINAL TEXT to produce a translated version.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERT_OUTSIDE_PRESSURE</source_entity>
+    <target_entity>EMOTIONS</target_entity>
+    <relationship_description>警觉外在逼迫时需识别自身的情绪与反应。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

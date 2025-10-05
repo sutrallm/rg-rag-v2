@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHATGPT</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>ChatGPT will structure the translated output according to the supplied format.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>ALL_LIVING</target_entity>
+    <relationship_description>COMPASSION的实践面向所有生命，强调不分种族、语言与社会地位。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

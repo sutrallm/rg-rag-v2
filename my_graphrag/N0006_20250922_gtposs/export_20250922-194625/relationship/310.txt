@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>具壽舍利弗</source_entity>
+    <target_entity>鹿子母堂</target_entity>
+    <relationship_description>具壽舍利弗同樣於鹿子母堂禮敬佛陀。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

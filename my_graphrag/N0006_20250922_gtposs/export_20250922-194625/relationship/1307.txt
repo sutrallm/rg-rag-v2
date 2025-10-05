@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TRANSLATION TASK</target_entity>
+    <relationship_description>The translation task requires the original text to perform translation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

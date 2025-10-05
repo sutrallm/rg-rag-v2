@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>INSTRUCTIONS</target_entity>
+    <relationship_description>The ASSISTANT follows the INSTRUCTIONS to transform the CONTENT appropriately.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

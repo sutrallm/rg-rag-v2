@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERNACULAR CHINESE OUTPUT</source_entity>
+    <target_entity>DOCTRINE DETAIL</target_entity>
+    <relationship_description>Verdicanular Chinese Output retains all doctrine details from the Original Text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

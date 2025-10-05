@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>鷹</source_entity>
+    <target_entity>鶉</target_entity>
+    <relationship_description>鷹 captures 鶉, depicting a lesson on non-attachment.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

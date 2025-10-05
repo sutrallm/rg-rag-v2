@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MAHA MAN</source_entity>
+    <target_entity>FOUR_SUSPENSION_METHODS</target_entity>
+    <relationship_description>MAHA MAN discusses the four relief methods with the Buddha.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

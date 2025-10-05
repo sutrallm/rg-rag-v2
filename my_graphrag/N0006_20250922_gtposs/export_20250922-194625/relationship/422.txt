@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOMEN</source_entity>
+    <target_entity>FIVE POWERS</target_entity>
+    <relationship_description>WOMEN possess the Five Powers, which constitute their defining powers in the discourse.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

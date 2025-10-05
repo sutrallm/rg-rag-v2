@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONK</source_entity>
+    <target_entity>SANGHA</target_entity>
+    <relationship_description>Monks are members of the Sangha, the community of practitioners.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>ASSISTANT cannot read the ORIGINAL TEXT and is requesting its copy in order to perform translation, rewriting, and organization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

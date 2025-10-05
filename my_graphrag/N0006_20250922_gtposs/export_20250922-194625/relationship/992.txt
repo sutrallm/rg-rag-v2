@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU BADIUORA</source_entity>
+    <target_entity>BENDA</target_entity>
+    <relationship_description>Gu Shou Baduor seeks the Buddha’s explication on the Four Mind States, indicating a direct teacher‑student advisory exchange.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

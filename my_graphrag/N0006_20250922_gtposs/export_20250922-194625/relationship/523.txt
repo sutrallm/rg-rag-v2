@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION WORK</source_entity>
+    <target_entity>DOCTRINE DETAILS</target_entity>
+    <relationship_description>The translation must preserve doctrinal details from the original text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

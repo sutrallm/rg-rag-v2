@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAPTER SECOND SEA</source_entity>
+    <target_entity>TEACHING</target_entity>
+    <relationship_description>Chapter Second Sea elaborates on the ocean teaching and sensory aspects.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

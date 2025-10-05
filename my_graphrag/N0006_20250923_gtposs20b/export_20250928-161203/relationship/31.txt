@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>VERBOSE_TEXT</target_entity>
+    <relationship_description>Original text is to be translated into a plain conversational form.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

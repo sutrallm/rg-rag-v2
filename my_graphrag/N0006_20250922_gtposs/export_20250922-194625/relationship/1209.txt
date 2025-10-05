@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOVE</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>Love, as emotional attachment, perpetuates suffering, disease, old age, and death following the scriptural account.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

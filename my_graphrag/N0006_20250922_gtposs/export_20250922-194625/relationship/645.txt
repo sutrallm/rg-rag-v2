@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>魔</target_entity>
+    <relationship_description>BUDDHA explains the nature of 魔 to 具壽羅陀.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

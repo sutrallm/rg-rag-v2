@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貼上</source_entity>
+    <target_entity>原文</target_entity>
+    <relationship_description>貼上 the 文字 results in the 原文 becoming available for processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

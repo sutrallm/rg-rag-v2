@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PERSON AND LOCATION REMOVAL</target_entity>
+    <relationship_description>Original text must be processed to remove all person and place references.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

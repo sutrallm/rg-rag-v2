@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>樹</source_entity>
+    <target_entity>芒</target_entity>
+    <relationship_description>Both natural elements (Tree and Reeds) share a thematic connection as representations of nature.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

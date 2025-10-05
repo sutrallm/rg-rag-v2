@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>HEADINGS ARRANGEMENT</target_entity>
+    <relationship_description>The assistant will reorganize heading structures in the translated text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

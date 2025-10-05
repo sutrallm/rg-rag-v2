@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>Assistant will create a new title for the revised content.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

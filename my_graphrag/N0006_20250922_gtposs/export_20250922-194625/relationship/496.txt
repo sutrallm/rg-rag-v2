@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>HEADLINE RENAMING</target_entity>
+    <relationship_description>ASSISTANT offers rewriting or renaming the title of the document to better reflect its content.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

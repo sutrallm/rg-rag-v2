@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>TRANSLATION is applied to the ORIGINAL_TEXT.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

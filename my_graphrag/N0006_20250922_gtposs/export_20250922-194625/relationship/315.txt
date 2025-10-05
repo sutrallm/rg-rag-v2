@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>沙祇城</target_entity>
+    <relationship_description>佛陀於沙祇城住說，並向比丘傳授五根的教理。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

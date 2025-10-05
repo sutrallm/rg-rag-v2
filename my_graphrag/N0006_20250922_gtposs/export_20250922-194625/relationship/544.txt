@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净</source_entity>
+    <target_entity>比丘</target_entity>
+    <relationship_description>清净 is the pure state a 比丘 ultimately attains after mastering the five roots.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

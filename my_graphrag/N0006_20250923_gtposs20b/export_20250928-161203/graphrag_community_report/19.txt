@@ -1,0 +1,31 @@
+**Title**  
+Automated Chinese Translation and Editing Service Workflow – Roles, Processes, and Requirements  
+
+**Executive Summary**  
+A user‑initiated request activates an automated assistant that offers plain‑Chinese translation, content pruning, metaphor and dialogue conversion, and title adjustment. The assistant cannot begin any activity until the user supplies the original content. A short apology message informs the user of the missing input and repeatedly requests the content in a designated channel. After reception, the system carries out a sequence of modular tasks, each with specified steps, to transform the original material into an edited, reorganized, and appropriately titled result.  
+
+**Workflow Structure and Communication Flow**  
+The assistant launches service by dispatching an apology message that also functions as a prompt. The message explicitly states the absence of the original material and explains that supplying it will enable the assistant to perform translation, editing, and title modifications. The user, referred to as “YOU,” must paste the original content into the correct communication field. This interaction loop ensures that no transformation is attempted without user-provided material.  
+
+**Dependency on User‑Supplied Content**  
+Every operation—plain‑Chinese translation, character and location removal, metaphor and dialogue organization, title adjustment—requires the original material. The text describes that the system “cannot perform translation and editing… only after receiving the ORIGINAL_TEXT.” Therefore, user compliance is the single prerequisite for all downstream processing.  
+
+**Modular Task Architecture**  
+The service decomposes transformation into four primary modules:  
+1. **Plain‑Chinese Translation (白話化翻譯)** – converting source language into colloquial Chinese.  
+2. **Deletion Module** – removing specified characters and location references.  
+3. **Metaphor and Dialogue Conversion (整理譬喻及對話)** – turning figurative or dialogic expressions into direct statements.  
+4. **Title Adjustment (調整標題)** – renaming or generating an appropriate title.  
+
+Within the modification process, each module follows a clear step‑by‑step procedure, enabling consistent application across different user submissions.  
+
+**Automated Interaction Pattern**  
+The assistant consistently combines apology, explanation of functionality, and a concrete request for the original content in one message. This pattern guarantees that the user understands both the need for input and the capabilities of the service before any processing occurs.  
+
+**Language‑Focused Transformation Priorities**  
+The description emphasizes specific transformations: simplifying language, stripping extraneous characters or places, and clarifying figurative and dialogic elements. The combination of these actions tailors the output to users who require succinct, direct Chinese versions of their original narratives, which is valuable for content localization or editorial refinement.  
+
+**Clarified Role Definitions**  
+The report outlines the distinct responsibilities of the assistant (“ME”), the user (“YOU”), the apology message (“MESSAGE”), and the system’s automated response framework. Each role is defined by the type of communication or action it performs, ensuring a predictable and repeatable service flow.  
+
+---

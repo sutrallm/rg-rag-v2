@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>User provides the format instructions that guide the structure of the translation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

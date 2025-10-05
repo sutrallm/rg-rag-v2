@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU DAI MU JIAN LIAN</source_entity>
+    <target_entity>GU SHOU ANALU</target_entity>
+    <relationship_description>Gu Shui Damu Jianlian expounds the partial aspect of the Four Mind States to Gu Shui Anan.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

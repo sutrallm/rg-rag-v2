@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>After receiving the text, the assistant will deliver the translated and reorganized version to the user.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

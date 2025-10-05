@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>波旬</source_entity>
+    <target_entity>世尊</target_entity>
+    <relationship_description>波旬 is a demon opposed to the Buddha and seeks to hinder his final liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

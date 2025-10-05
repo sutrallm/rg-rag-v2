@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION</source_entity>
+    <target_entity>FORMATTING</target_entity>
+    <relationship_description>Formatting is performed on the translated text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

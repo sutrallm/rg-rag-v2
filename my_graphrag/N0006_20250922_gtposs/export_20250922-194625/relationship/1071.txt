@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SAKYAMUNI_COUNTRY</target_entity>
+    <relationship_description>The Buddha resides and teaches within the Shakya country.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

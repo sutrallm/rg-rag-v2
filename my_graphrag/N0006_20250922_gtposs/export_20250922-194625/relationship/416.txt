@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>具壽阿難</source_entity>
+    <target_entity>竹林叢</target_entity>
+    <relationship_description>具壽阿難 reside in 竹林叢 where he recovers from illness under the Buddha’s care.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

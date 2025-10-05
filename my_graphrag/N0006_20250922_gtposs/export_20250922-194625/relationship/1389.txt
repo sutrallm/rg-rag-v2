@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>婆耆沙</source_entity>
+    <target_entity>舍利弗</target_entity>
+    <relationship_description>婆耆沙在祇樹給孤獨園等地點，對舍利弗教化及和蔼之語進行讚揚與感謝。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

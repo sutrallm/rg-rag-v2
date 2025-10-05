@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>FORMATTING</target_entity>
+    <relationship_description>The USER will receive the formatted version of the translated text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

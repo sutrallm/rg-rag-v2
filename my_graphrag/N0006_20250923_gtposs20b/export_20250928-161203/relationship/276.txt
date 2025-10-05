@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENTENCE REARRANGEMENT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Sentence rearrangement modifies the structure of the original text for better flow.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

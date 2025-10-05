@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ENDING EPISTLE</target_entity>
+    <relationship_description>The assistant deletes the ending epigraph from the ORIGINAL TEXT.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

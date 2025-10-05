@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU ANAN</source_entity>
+    <target_entity>FOUR MIND STATES</target_entity>
+    <relationship_description>Gu Shou Anan engages in discussions about the efficacy of the Four Mind States and explains their application.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

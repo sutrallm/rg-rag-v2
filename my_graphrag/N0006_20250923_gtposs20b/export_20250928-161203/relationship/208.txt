@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>REQUEST</target_entity>
+    <relationship_description>The user initiates the request to provide the original text and specify transformations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Assistant acknowledges that it cannot see the original text and asks the user to provide it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,8 @@
+<heading>Apologetic Requests for Original Chinese Text<\heading>
+- Messages repeatedly state they cannot proceed without the original text.  
+
+- Each message asks the user to paste the paragraph for translation and formatting.  
+
+- Text is in Chinese (both simplified and traditional), with occasional brief English instructions.  
+
+- Tone is consistently apologetic and courteous.

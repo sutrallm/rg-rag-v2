@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>CONTENT ORGANIZATION</target_entity>
+    <relationship_description>The USER is the one requesting that the translated material be subject to CONTENT ORGANIZATION for structured output.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

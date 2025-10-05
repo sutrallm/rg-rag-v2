@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四正勤</source_entity>
+    <target_entity>已生之惡不善法</target_entity>
+    <relationship_description>The second right effort is the breaking of existing unwholesome actions (已生之惡不善法).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

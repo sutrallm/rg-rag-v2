@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘尼</source_entity>
+    <target_entity>四念處</target_entity>
+    <relationship_description>比丘尼 also engage in the practice of the Four Mindfulnesss as taught by 世尊.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

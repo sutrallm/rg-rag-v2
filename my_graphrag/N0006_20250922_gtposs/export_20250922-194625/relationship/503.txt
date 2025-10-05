@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>第十五</source_entity>
+    <target_entity>第一～十二</target_entity>
+    <relationship_description>Volume 15 contains 12 chapters numbered 1–12.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

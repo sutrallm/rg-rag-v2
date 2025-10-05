@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE EDITING SERVICE</target_entity>
+    <relationship_description>Original text is the context for the title editing service.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>APOLOGY</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>APOLOGY relates specifically to the inability to provide a TRANSLATION at this time.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

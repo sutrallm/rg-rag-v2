@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>CONTENT</target_entity>
+    <relationship_description>The assistant indicates that once the content is received, it will perform translation and organization tasks.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

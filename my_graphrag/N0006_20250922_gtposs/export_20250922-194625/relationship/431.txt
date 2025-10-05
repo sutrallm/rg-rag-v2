@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE GROWTHS</source_entity>
+    <target_entity>HEARING</target_entity>
+    <relationship_description>Hearing is one of the Five Growths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

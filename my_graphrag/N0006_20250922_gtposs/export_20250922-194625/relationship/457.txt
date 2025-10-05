@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>力</source_entity>
+    <target_entity>客河</target_entity>
+    <relationship_description>'力' permeates the Guest River, suggesting that the river flows due to underlying energy or will.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

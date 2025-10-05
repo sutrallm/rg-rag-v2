@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SOVEREIGN POWER</source_entity>
+    <target_entity>MAN</target_entity>
+    <relationship_description>Sovereign Power grants a man the ability to overcome women.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERNACULAR_TEXT</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>The vernacular text will reorder or create headings for clarity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

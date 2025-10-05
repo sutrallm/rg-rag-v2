@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>二天神</target_entity>
+    <relationship_description>世尊與二天神在夜間相遇、對話，二天神以問答方式與世尊交流悟理。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

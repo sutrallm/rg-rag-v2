@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PERSONS</target_entity>
+    <relationship_description>Original text includes person references that need to be removed.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

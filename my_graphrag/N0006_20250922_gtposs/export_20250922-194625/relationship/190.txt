@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHER</source_entity>
+    <target_entity>MONKS</target_entity>
+    <relationship_description>Teacher addresses the monks, delivering teachings and guiding practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

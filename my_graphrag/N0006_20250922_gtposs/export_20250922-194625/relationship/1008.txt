@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MO NA TI NA CUI SHI</source_entity>
+    <target_entity>GU SHOU ANAN</target_entity>
+    <relationship_description>While no direct dialogue is recorded, Mo Na Ti Na’s situation may motivate Gu Shou Anan’s intervention, representing a weak indirect relation.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

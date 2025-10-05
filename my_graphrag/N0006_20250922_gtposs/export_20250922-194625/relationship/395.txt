@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘尼</source_entity>
+    <target_entity>比丘</target_entity>
+    <relationship_description>比丘尼 is a sub‑group or type within the broader monastic community of 比丘.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

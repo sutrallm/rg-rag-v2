@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>那羅犍陀</target_entity>
+    <relationship_description>The Buddha spent time in Narada, engaging in dialogue with local merchants.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

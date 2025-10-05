@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The user is requesting the original text to be provided.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

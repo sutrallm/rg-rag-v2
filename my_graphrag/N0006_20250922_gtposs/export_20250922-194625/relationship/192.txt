@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SEA</source_entity>
+    <target_entity>SEA DEMONS</target_entity>
+    <relationship_description>Sea demons inhabit the sea, symbolizing lower realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

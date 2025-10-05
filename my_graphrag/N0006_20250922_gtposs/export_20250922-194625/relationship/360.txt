@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTYNESS</source_entity>
+    <target_entity>CAUSAL_CYCLE</target_entity>
+    <relationship_description>教义指出一切现象皆为空性，与因果循环密切相关，二者共同揭示事物无固定实相且受因缘影响。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

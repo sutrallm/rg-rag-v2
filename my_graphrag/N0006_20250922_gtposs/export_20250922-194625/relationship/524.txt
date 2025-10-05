@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORGANIZING PARAGRAPH TITLES</source_entity>
+    <target_entity>DOCTRINE DETAILS</target_entity>
+    <relationship_description>Paragraph titles are designed to reflect doctrinal divisions present in the content.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

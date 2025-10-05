@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>有綱</source_entity>
+    <target_entity>色</target_entity>
+    <relationship_description>有綱 arises from 色 (form) in its binding aspect.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

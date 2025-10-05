@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>ACTION_RENAME_TITLES</target_entity>
+    <relationship_description>The task includes renaming the titles in the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

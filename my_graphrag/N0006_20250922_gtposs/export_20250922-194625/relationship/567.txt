@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>第八 滅品</target_entity>
+    <relationship_description>無常 is the fifth theme covered in Section 八.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,42 @@
+**Title**  
+Requirements and Current Status for the Requested Translation  
+
+**Executive Summary**  
+The user has outlined a detailed procedure for translating, simplifying, and formatting a source document. Key steps include:  
+
+- Requiring the original material before any processing.  
+- Removing personal and place names.  
+- Eliminating poetic passages.  
+- Converting the content to plain, conversational language.  
+- Re‑organizing headings and titles into a coherent structure.  
+
+At this moment, the original source text has not been supplied, so no further action can be taken.  
+
+**Chosen Titles for Sections**  
+
+1. Missing Original Content  
+2. Process Overview  
+3. Required Actions  
+
+---
+
+### Missing Original Content  
+The instructions repeatedly state that the primary source file is absent. All transformation steps hinge on receiving this material. Without it, translation, simplification, and formatting cannot proceed.
+
+### Process Overview  
+The user has defined a multi‑stage workflow:  
+
+- **Translation** – converting from the source language to the target language.  
+- **Plain‑Language Simplification** – stripping literary devices and complex phrasing.  
+- **Removal of Personal and Place Mentions** – anonymizing the text.  
+- **Omission of Poetic Material** – excising verses or quoted poetry.  
+- **Formatting** – reorganizing sections, refining titles, and arranging headings.  
+
+This sequence ensures the final output is concise, clear, and devoid of unnecessary references.
+
+### Required Actions  
+1. The user must paste the complete original text into the conversation.  
+2. Once received, the assistant will carry out the translation and subsequent steps as described.  
+3. The assistant will respond with the finished plain‑language version, properly formatted and titled.  
+
+If the user is unable to provide the requisite content, a brief apology is offered in the instructions, emphasizing the need for the source material.

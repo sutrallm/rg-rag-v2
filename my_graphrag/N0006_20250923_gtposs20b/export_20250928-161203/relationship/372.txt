@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>您</source_entity>
+    <target_entity>翻譯</target_entity>
+    <relationship_description>The user (您) wants to translate the original text.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

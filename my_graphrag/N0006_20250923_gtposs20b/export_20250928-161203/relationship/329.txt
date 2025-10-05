@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TITLE REORGANISATION</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Title reorganisation adjusts the title of the ORIGINAL TEXT as part of the editing process.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

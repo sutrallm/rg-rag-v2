@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>System has not yet received the original text that the user wants translated.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

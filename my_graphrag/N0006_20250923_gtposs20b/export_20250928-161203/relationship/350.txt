@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>ASSISTANT requires ORIGINAL_TEXT in order to translate, reconstruct a title, and format the content.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

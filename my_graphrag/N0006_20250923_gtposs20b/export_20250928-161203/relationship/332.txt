@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FULL PARAGRAPH</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The paragraph is the specific content the user wants translated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

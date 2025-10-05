@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>ACTION_WHITE_LANGUAGE</target_entity>
+    <relationship_description>The task includes converting the text into plain language.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

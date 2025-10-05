@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>卵生龍</target_entity>
+    <relationship_description>Monks ask the Buddha about the egg‑ in the first section.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

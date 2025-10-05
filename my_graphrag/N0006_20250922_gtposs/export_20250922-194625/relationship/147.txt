@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>第一五</source_entity>
+    <target_entity>以覺支相應之不放逸品</target_entity>
+    <relationship_description>Chapter fifteen contains the phrase “以覺支相應之不放逸品”.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>MENTAL_DISCERNMENT</target_entity>
+    <relationship_description>心灵通过唯心辨识，进行精神领悟并引导修行实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU BADIUORA</source_entity>
+    <target_entity>BASU FUI YI JI LIN</target_entity>
+    <relationship_description>Gu Shou Baduor shares the same monastic dwelling with Anan, indicating a shared living environment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

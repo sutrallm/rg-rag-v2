@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>我等</target_entity>
+    <relationship_description>世尊 refers to the audience as “我等” when addressing the monks.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

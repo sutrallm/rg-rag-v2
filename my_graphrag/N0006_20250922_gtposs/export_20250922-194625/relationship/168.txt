@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>夏生花</source_entity>
+    <target_entity>不放逸品</target_entity>
+    <relationship_description>夏生花 is an element of the ten verses in 不放逸品.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

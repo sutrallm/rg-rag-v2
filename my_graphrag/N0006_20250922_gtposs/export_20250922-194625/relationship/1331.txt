@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>取</source_entity>
+    <target_entity>有</target_entity>
+    <relationship_description>Grasping (取) produces existence or being (有).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

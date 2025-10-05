@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>ASSISTANT offers translation service for the provided original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

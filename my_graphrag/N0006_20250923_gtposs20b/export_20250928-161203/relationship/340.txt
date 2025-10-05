@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The Assistant requires the Original Text to perform translation or rewrite tasks.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

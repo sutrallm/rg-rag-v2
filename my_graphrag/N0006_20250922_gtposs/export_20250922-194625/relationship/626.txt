@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUIDELINES</source_entity>
+    <target_entity>PARAGRAPH</target_entity>
+    <relationship_description>Guidelines dictate the translation and formatting approach for the paragraph.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

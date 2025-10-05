@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>翻譯</source_entity>
+    <target_entity>原始文本</target_entity>
+    <relationship_description>Translation is performed on the original text (原始文本).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

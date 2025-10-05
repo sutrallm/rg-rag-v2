@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BENDA</source_entity>
+    <target_entity>SHE WEI CHENG</target_entity>
+    <relationship_description>The Buddha resided and taught in She Wei Cheng, highlighting a primary teaching locale.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

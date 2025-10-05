@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>PERSON AND LOCATION EXCLUSION</target_entity>
+    <relationship_description>ASSISTANT offers deletion or reduction of people and place references in the original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

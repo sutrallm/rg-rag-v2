@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>REQUIREMENT</target_entity>
+    <relationship_description>The user sets or communicates the specific requirement that guides how the translation should be reconstructed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

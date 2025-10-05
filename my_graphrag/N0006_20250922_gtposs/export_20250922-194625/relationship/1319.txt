@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>婆羅門</source_entity>
+    <target_entity>老死</target_entity>
+    <relationship_description>婆羅門 are also portrayed as unaware of the phenomena of aging and death.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>布薩</source_entity>
+    <target_entity>龍</target_entity>
+    <relationship_description>The Bussa portions discuss renunciation as it relates to dragon forms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

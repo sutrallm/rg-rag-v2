@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>質多居士</source_entity>
+    <target_entity>牛達多</target_entity>
+    <relationship_description>質多居士向牛達多學習「無量心」「無所有心」等解脫觀點。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

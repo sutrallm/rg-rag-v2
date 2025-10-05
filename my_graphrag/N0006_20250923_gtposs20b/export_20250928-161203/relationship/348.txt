@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>TITLE_MODIFICATION</target_entity>
+    <relationship_description>助手将完成标题修改任务。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

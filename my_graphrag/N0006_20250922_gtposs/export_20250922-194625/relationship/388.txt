@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RITUAL</source_entity>
+    <target_entity>PRACTICAL_GUIDELINES</target_entity>
+    <relationship_description>礼仪是必要修行准则的一部分，体现了实践中的仪式性要求。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

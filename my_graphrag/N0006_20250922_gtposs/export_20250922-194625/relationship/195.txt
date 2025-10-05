@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SARIPUTRA</source_entity>
+    <target_entity>KUCCHARA</target_entity>
+    <relationship_description>Sariputra engages in dialogue with Kuccha about perception of eye and mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

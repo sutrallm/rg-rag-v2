@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAPTER THREE</source_entity>
+    <target_entity>HAIPIN</target_entity>
+    <relationship_description>Chapter Three is a part of the work HAIPIN.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

@@ -1,0 +1,12 @@
+<heading>Repeated Apology Messages Asking for Missing Text<\heading>
+- Messages repeatedly apologize for not receiving the original passage.  
+
+- Each apology requests the user to paste the missing text for further processing.  
+
+- The processing involves translation, formatting, and renaming titles.  
+
+- Requests appear in English, simplified Chinese, and traditional Chinese.  
+
+- No substantive content beyond apologies and the request for the source material is provided.  
+
+- The tone stays courteous and focuses solely on obtaining the text.

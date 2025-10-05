@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLAIN LANGUAGE</source_entity>
+    <target_entity>LOCATIONS</target_entity>
+    <relationship_description>Locations present in the plain language text are identified for removal.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

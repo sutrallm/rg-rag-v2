@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>OWN_NATURE</target_entity>
+    <relationship_description>修行者必须听从自性（内在指引），以此管理生活与修行方向。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

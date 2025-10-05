@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>男子</source_entity>
+    <target_entity>四部軍</target_entity>
+    <relationship_description>男子觀察四部軍進入藕根。此為男子與四部軍關係的直接程式。</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

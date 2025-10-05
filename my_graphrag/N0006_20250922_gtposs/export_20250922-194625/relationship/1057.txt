@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SHAVASTI_CITY</target_entity>
+    <relationship_description>The Buddha resides and teaches in the city of Shravasti.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

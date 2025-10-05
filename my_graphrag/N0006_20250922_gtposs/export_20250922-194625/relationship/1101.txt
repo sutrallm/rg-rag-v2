@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>SYSTEM RESPONSE</target_entity>
+    <relationship_description>User initiates the request and expects the System Response to address that request.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,28 @@
+**Title**  
+ME–YOU Workflow: Translation, Editing, and Modification Services  
+
+**Executive Summary**  
+The assistant, ME, provides a structured pipeline that begins when the user, YOU, supplies source content. ME first offers its services and awaits the content. Once received, ME translates the source material into plain or colloquial Chinese (TRANSLATION_PROCESS). This translation step incorporates modifications such as deletion of specified characters or locations, conversion of metaphors and dialogues into direct statements, and renaming of paragraph titles. After translation, ME may reorganize the content and refine the title. The editing operations cover correcting errors, enhancing style, adjusting content, and improving overall quality. The overall workflow—ME ↔ YOU—consists of clear stages: service offer, content receipt, translation, and editing, ensuring the assistant delivers a refined, user‑suitable end product.  
+
+**Key Observation: Service Limits**  
+ME only initiates translation and editing once YOU supplies the source material, indicating the assistant’s operations are conditional on receiving the content.  
+
+**Key Observation: Dual‑Phase Process**  
+The pipeline splits into two interrelated phases: first, a plain‑Chinese translation (TRANSLATION_PROCESS); second, a series of editing actions—deletion, conversion of figurative language, title renaming, and content reorganization.  
+
+**Key Observation: Defined Operation Set**  
+The assistant’s actions are grouped into a specific set: colloquial translation, removal of characters or places, organization of metaphors and dialogues, and rearrangement of paragraph titles.  
+
+**Key Observation: Editing Definition**  
+Editing is framed as a comprehensive practice that corrects errors, improves style, adjusts content, and boosts overall quality, with the additional function of title editing.  
+
+**Key Observation: Interaction Flow**  
+1. ME prompts the user with an offer of service.  
+2. YOU supplies the source material.  
+3. ME executes translation and subsequent modifications.  
+4. The revised material is delivered back to YOU.  
+
+**Key Observation: Role Clarification**  
+Within this framework, ME functions strictly as a tool, while YOU serves as the operator who supplies the source material for processing.  
+
+The report consolidates the essential mechanics of the ME‑YOU interaction, highlighting the sequence and scope of translation and editing operations directly derived from the provided description.

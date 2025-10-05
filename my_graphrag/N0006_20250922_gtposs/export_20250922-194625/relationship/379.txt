@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>HELP</target_entity>
+    <relationship_description>慈悲的实践包括主动帮助需要援助的人。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

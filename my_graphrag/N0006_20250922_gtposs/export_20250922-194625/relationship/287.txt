@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EAR</source_entity>
+    <target_entity>INTERNAL</target_entity>
+    <relationship_description>EAR is an internal sense organ.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

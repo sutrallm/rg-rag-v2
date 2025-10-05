@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我</source_entity>
+    <target_entity>譬喻</target_entity>
+    <relationship_description>The assistant will convert metaphors (譬喻) into straightforward explanations (直接法義闡述).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

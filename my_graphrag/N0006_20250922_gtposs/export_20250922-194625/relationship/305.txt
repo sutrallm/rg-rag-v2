@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>具壽阿難</source_entity>
+    <target_entity>世尊</target_entity>
+    <relationship_description>具壽阿難親前向世尊致敬並與其對話，顯示師徒關係。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU SHEERILL</source_entity>
+    <target_entity>FOUR MIND STATES</target_entity>
+    <relationship_description>Gu Shui Sherf presents the full portion of the Four Mind States, indicating doctrinal depth.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

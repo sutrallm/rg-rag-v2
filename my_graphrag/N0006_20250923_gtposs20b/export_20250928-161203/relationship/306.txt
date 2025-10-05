@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLAIN CHINESE</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>Plain Chinese output must adhere to the requested format.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

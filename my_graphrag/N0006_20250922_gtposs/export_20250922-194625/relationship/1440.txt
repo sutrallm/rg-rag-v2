@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>终极的印记</source_entity>
+    <target_entity>佛性</target_entity>
+    <relationship_description>终极的印记让佛性在心中永存。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

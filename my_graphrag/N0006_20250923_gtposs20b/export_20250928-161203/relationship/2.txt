@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>Requests the user to paste the original text into the chat so that processing can continue.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

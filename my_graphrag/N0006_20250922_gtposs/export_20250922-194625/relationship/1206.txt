@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSATION</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>Sensation, the affective response to contact, is causally linked to suffering, disease, old age, and death in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

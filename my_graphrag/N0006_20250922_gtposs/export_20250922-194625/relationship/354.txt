@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>DOCTRINE_DETAILS</target_entity>
+    <relationship_description>The task retains all doctrinal details.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

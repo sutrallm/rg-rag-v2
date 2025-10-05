@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>VERSES DELETION</target_entity>
+    <relationship_description>The user requests the assistant to delete verse-style passages (偈语) from the original article.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MESSAGE</source_entity>
+    <target_entity>CHARACTER_AND_LOCATION_REDUCTION</target_entity>
+    <relationship_description>Message requests to perform character and location reduction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

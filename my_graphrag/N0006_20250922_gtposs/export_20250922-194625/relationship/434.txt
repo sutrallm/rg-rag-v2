@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOMEN</source_entity>
+    <target_entity>FEARLESSNESS</target_entity>
+    <relationship_description>Women who possess all Five Powers are described as fearless.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>指示</source_entity>
+    <target_entity>原文</target_entity>
+    <relationship_description>指示說明「原文」是需要提供的素材。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

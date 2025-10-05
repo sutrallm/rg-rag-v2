@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>面与度并行</source_entity>
+    <target_entity>说法</target_entity>
+    <relationship_description>面与度并行说明说法与现实的对应关系。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

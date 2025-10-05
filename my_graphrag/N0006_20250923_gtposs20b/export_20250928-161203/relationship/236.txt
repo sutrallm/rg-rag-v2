@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The assistant cannot perform translation or organization until it receives the original content from the user.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

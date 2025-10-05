@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTENT</source_entity>
+    <target_entity>DELETING ENDING</target_entity>
+    <relationship_description>Ending portion of the content is removed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

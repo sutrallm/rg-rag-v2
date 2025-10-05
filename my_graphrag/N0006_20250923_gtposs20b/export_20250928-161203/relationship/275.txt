@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTURAL ADAPTATION</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Cultural adaptation is performed on the original text to adjust language for target culture.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_GUIDANCE</source_entity>
+    <target_entity>OWN_NATURE</target_entity>
+    <relationship_description>INNER_GUIDANCE源自自性，提供内在指引以助修行者明辨行程。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

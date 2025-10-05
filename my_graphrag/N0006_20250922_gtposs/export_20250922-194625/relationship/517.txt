@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The system will continue processing (translate and organize) the original text after the user supplies it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

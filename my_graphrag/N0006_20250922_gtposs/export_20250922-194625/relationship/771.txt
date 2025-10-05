@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>鼻</target_entity>
+    <relationship_description>世尊 discusses the impermanent nature of the sense of smell (鼻).</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

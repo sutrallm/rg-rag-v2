@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>具壽羅陀</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>具壽羅陀 seeks instruction and engages in dialogue with BUDDHA.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

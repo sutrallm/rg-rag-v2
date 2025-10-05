@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY</source_entity>
+    <target_entity>INTERNAL</target_entity>
+    <relationship_description>BODY is an internal sense component.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

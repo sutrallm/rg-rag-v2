@@ -1,0 +1,26 @@
+**Title Revision, Translation, and Content Sanitization Process**
+
+### Summary
+The procedure described transforms original documents into a clearer, legally neutral format. It begins by keeping the original source, then removes characters and locations, replaces metaphoric language and dialogues with plain legal terminology, and finally reorganizes and renames all titles. The assistant leads these steps, is able to generate new titles that better reflect the updated content, and relies on the existence of the original text to execute the conversion.
+
+### Title Adjustment Mechanism
+A new heading is created after the text is translated.  
+The assistant chooses a title that aligns with the revised, more doctrinal exposition of the material. If a title already exists in the source, it is restructured and renamed to match the updated content.
+
+### Content Sanitization
+Characters, their names, attributes, and specific places or geographical references present in the original text are omitted during translation.  
+This removal ensures that the resulting document is free of the original narrative elements that may be irrelevant or unwanted for the legal context.
+
+### Direct Legal Meaning Conversion
+Metaphors and dialogues in the source text are transformed into straightforward legal language.  
+The translation replaces symbolic phrasing and conversational exchanges with precise, law‑oriented terminology.
+
+### Dependency on Original Text
+The translation process cannot proceed without the initial source material.  
+All reorganizing, titling, and content cleansing require the original document to be supplied as input.
+
+### Role of the Assistant
+The assistant’s responsibilities include:
+- Reorganizing titles based on the source text.  
+- Offering new titles that capture the essence of the revised content.  
+- Performing the technical conversion and sanitization outlined above.

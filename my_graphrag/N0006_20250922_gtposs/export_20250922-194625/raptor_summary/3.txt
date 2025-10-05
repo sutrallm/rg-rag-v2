@@ -1,0 +1,10 @@
+<heading>Apology‑Driven Text Submission Prompt<\heading>
+- Sequence of apology statements in Chinese, each noting the assistant has no original text.  
+
+- Requests the user to paste the content for translation, reorganization, or rewrite.  
+
+- Includes brief English apologies asking for the original text.  
+
+- Each denial is followed by a prompt inviting the missing content.  
+
+- Consistently refuses to proceed until the user supplies the text, indicating an automated template.

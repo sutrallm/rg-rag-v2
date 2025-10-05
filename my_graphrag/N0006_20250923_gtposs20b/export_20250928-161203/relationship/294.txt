@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>TRANSLATION_TASK</target_entity>
+    <relationship_description>User has requested the translation and organization task.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

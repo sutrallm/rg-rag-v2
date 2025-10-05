@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>阿難</source_entity>
+    <target_entity>比丘</target_entity>
+    <relationship_description>阿難, being a disciple, is a member of the same monastic community as the other 比丘.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

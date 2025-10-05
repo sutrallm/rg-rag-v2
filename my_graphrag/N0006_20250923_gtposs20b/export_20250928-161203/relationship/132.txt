@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENAMING_PROCESS</source_entity>
+    <target_entity>ORIGINAL_CONTENT</target_entity>
+    <relationship_description>Paragraph titles are renamed within the original content.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>屋頂</source_entity>
+    <target_entity>根核</target_entity>
+    <relationship_description>屋頂與根核构成上下对应的意象。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

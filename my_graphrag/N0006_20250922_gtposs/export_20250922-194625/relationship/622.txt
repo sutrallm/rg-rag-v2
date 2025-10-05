@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>PARAGRAPH</target_entity>
+    <relationship_description>The assistant will translate the paragraph according to the supplied guidelines.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

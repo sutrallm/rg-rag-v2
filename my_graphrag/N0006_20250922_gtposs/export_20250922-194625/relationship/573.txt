@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>諸比丘</target_entity>
+    <relationship_description>比丘 are individual monks addressed collectively as 諸比丘.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

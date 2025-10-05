@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>MESSAGE</target_entity>
+    <relationship_description>Original text is the content that will be embedded in the message once supplied by the user.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

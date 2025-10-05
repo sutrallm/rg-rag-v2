@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ME</source_entity>
+    <target_entity>MODIFICATION_PROCESS</target_entity>
+    <relationship_description>ME carries out the modifications such as deletion of characters/locations, conversion of metaphors, and renaming of titles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

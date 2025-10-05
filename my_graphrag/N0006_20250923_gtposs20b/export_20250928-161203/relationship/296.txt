@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>TRANSLATION_TASK</target_entity>
+    <relationship_description>Original text is the source material for the translation task.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>The assistant will format the translated text according to the specified structure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

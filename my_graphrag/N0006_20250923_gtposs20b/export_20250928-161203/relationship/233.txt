@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SOURCE TEXT</source_entity>
+    <target_entity>FORMATTING</target_entity>
+    <relationship_description>Formatting requires the translated text, which is derived from the source text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

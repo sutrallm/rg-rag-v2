@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The USER is the intended recipient of the translated content.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

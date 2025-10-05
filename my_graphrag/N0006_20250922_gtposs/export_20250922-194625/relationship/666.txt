@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>五取蘊</target_entity>
+    <relationship_description>比丘 study the Five Aggregates.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

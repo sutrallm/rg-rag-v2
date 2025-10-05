@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>CONTENT</target_entity>
+    <relationship_description>Assistant receives the content from the user to carry out the requested tasks.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

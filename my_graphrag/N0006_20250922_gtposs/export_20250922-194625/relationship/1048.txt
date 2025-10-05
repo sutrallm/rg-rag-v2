@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAPTER 14</source_entity>
+    <target_entity>UNRELENTED PRODUCT</target_entity>
+    <relationship_description>Chapter 14 bears the title "不放逸品" which is rendered as "Unrelented Product".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

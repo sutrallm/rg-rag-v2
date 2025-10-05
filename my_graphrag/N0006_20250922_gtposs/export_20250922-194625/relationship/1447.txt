@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行始终以落实的功枢</source_entity>
+    <target_entity>开无轮化马</target_entity>
+    <relationship_description>修行始终以落实的功枢提到开无轮化马作为决断之行。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

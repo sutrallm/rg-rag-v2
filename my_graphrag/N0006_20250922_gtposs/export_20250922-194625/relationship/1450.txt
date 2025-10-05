@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YOU</source_entity>
+    <target_entity>EXAMPLES</target_entity>
+    <relationship_description>YOU is requesting that any pertinent EXAMPLES be included with the original text.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

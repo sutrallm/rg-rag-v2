@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORGANIZATION_PROCESS</source_entity>
+    <target_entity>ORIGINAL_CONTENT</target_entity>
+    <relationship_description>Metaphors and dialogues are organized within the original text.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

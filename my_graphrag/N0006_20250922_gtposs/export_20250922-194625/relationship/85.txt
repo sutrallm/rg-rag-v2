@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRIAL TRANSLATION</source_entity>
+    <target_entity>REWRITTEN TITLE</target_entity>
+    <relationship_description>The translation is a preliminary step; after that, the system will generate a rewritten title that reflects the translated content.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

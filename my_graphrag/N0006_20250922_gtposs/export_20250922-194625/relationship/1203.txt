@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COLOR</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>Color, as the physical form, is associated with the same cycle of suffering, disease, old age, and death when it exists.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

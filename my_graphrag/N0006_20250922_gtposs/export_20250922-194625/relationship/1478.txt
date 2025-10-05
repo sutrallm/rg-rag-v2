@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION PROCESS</source_entity>
+    <target_entity>CHARACTER</target_entity>
+    <relationship_description>Translation Process deletes characters identified in the Original Text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

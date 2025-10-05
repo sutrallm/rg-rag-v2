@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>菴羅園</target_entity>
+    <relationship_description>比丘 reside in 菴羅園 to receive the Buddha’s teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

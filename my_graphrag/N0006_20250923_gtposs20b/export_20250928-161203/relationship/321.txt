@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>REORGANIZATION</target_entity>
+    <relationship_description>REORGANIZATION can be performed on ORIGINAL TEXT itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

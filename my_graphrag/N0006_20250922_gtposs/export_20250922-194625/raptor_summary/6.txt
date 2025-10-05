@@ -1,0 +1,8 @@
+<heading>Apology and Source Text Request Template<\heading>
+- Each message apologizes and requests the original Chinese text.  
+
+- Responses are polite and state that assistant cannot help without the source material.  
+
+- The wording differs slightly between Traditional and Simplified Chinese.  
+
+- The set of messages serves as a template for requesting the required source text before translation.

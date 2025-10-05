@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Assistant informs the user that the original text is missing and cannot be processed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

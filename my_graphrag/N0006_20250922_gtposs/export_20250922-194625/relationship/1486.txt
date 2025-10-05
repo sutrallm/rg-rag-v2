@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>CONTENT</target_entity>
+    <relationship_description>Original Text is the same as the Content that the user will provide for translation or editing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

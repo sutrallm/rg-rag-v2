@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUEST</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Request pertains to the original text that needs to be pasted.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

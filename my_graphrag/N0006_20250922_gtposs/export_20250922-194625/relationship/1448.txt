@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YOU</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>YOU is requesting that the ORIGINAL TEXT be supplied for subsequent translation and organization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

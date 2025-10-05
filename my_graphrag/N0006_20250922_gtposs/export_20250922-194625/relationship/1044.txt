@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天</source_entity>
+    <target_entity>阿修羅</target_entity>
+    <relationship_description>天與阿修羅酣戰，天勝、阿修羅敗。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

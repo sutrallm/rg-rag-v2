@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>優婆塞</source_entity>
+    <target_entity>毘羅</target_entity>
+    <relationship_description>優婆塞 gives a robe to 毘羅.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>獵師</source_entity>
+    <target_entity>猿猴</target_entity>
+    <relationship_description>獵師 captures 猿猴, illustrating worldly distractions from the path.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ASSISTANT</target_entity>
+    <relationship_description>The user requests the assistant to provide the missing original text and expects the upcoming translation and organization.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

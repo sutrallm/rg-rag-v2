@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>溫那巴婆羅門</source_entity>
+    <target_entity>世尊</target_entity>
+    <relationship_description>溫那巴婆羅門與世尊以對話方式互相說教，展現雙方互文互學之關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

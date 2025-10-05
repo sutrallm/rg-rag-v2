@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ASSISTANT</target_entity>
+    <relationship_description>USER is requesting assistance from ASSISTANT, establishing a service relationship.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

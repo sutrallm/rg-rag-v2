@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>舍衛城</target_entity>
+    <relationship_description>Monks sit at the Buddha’s dwelling in Sravaka City.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

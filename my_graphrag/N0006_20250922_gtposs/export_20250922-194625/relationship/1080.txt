@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>PROCESS OUTPUT</target_entity>
+    <relationship_description>After translation, the user receives the processed output.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

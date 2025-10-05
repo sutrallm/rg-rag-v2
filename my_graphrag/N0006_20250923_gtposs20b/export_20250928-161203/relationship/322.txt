@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION</source_entity>
+    <target_entity>REORGANIZATION</target_entity>
+    <relationship_description>REORGANIZATION can be applied to the output of TRANSLATION.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

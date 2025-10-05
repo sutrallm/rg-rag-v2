@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL POWER</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Using Moral Power as a cause leads to rebirth in a favorable realm.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

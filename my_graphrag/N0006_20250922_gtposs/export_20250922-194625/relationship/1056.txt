@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_LAWS</source_entity>
+    <target_entity>PRE_STREAM</target_entity>
+    <relationship_description>Mastery of the Four Laws leads to the attainment of the pre-stream state as taught by the Buddha.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

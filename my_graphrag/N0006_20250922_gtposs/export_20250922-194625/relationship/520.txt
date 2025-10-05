@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER REQUEST</source_entity>
+    <target_entity>ORGANIZING PARAGRAPH TITLES</target_entity>
+    <relationship_description>The user wants the translated text to be organized with paragraph headings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The ORIGINAL TEXT is the prerequisite material for the TRANSLATION process.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REALM</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>All realms of experience, when inhabited, give rise to the cycle of suffering, disease, old age, and death as noted in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

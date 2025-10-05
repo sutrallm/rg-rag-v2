@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>受</source_entity>
+    <target_entity>想</target_entity>
+    <relationship_description>Both are aggregates considered together in the teaching of impermanence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

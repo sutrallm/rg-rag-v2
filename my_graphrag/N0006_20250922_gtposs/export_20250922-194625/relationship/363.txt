@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>心灵通过观照无我特性来脱离执念，提升自由思维与行动。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

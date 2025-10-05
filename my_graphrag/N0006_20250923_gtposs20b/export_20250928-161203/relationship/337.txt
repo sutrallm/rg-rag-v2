@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Translation operates on the original text to produce new-language content.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

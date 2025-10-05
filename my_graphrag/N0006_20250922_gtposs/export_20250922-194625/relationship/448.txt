@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOMEN</source_entity>
+    <target_entity>HUSBAND</target_entity>
+    <relationship_description>Women overcome their husbands.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

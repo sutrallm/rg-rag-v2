@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BOT REQUEST</source_entity>
+    <target_entity>USER MESSAGE</target_entity>
+    <relationship_description>the request is embedded within the user’s message that will be sent to the bot.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

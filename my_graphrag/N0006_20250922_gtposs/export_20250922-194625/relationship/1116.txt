@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>世尊</target_entity>
+    <relationship_description>Monks pose questions to the Buddha during the teaching.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

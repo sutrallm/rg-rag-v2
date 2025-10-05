@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUALITY</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>SPIRITUALITY以持续修行心灵实践为核心，需通过心灵的专注与正念实现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU ANAN</source_entity>
+    <target_entity>FOUR MIND STATES</target_entity>
+    <relationship_description>Gu Shou Anan teaches the lay practitioner the Four Mind States, illustrating skillful conduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

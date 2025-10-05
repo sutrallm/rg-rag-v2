@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONK</source_entity>
+    <target_entity>FOUR_LAWS</target_entity>
+    <relationship_description>Monks study and practice the Four Laws to progress on the path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,26 @@
+**Title: Translation and Formatting Workflow Between USER and ASSISTANT**
+
+**Executive Summary**  
+The dialogue describes a formal translation and text‑organizing service. The assistant can only begin any processing when the user supplies the original text. The user is therefore the sole source of the material to be transformed. Upon receipt, the assistant will translate into plain Chinese, remove personal and geographic references, streamline metaphors and dialogue, rename chapter headings, and produce a fully formatted output. Throughout the interaction, the assistant repeatedly confirms that it lacks the needed source content and requests the user to paste it. This sequence clarifies the responsibilities and the steps required for successful completion of the task.
+
+**Analysis**
+
+* **Primary Responsibility of USER**  
+  The user must provide the complete original text for the assistant to process. Without this, no translation or formatting can occur.
+
+* **Assistant’s Condition for Action**  
+  The assistant explicitly states it cannot read or modify the original text on its own. It requires the user’s paste or upload before initiating any transformation.
+
+* **Scope of Processing Functions**  
+  Once supplied, the assistant will:
+  - Translate the source into plain, conversational Chinese (白話文).  
+  - Remove all personal names and geographic locations.  
+  - Refine or remove metaphors and streamline dialogue.  
+  - Rename and reorder chapter headings.  
+  - Structure the final output into coherent sections and headings.
+
+* **Repetitive Confirmation Loop**  
+  The assistant repeatedly informs the user that the original content is missing and insists on receiving it. This loop ensures clarity that the task cannot proceed until the user supplies the necessary material.
+
+* **Final Deliverable**  
+  A fully translated and organized document that meets the user‑specified style or format requirements is returned only after all the above steps are completed.

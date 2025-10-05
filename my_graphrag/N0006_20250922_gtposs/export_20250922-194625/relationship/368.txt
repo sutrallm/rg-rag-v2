@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUSE_AND_EFFECT</source_entity>
+    <target_entity>CAUSAL_CYCLE</target_entity>
+    <relationship_description>因果律是因果循环的核心概念，二者同属循因循环原则。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

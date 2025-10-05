@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>PERSON</target_entity>
+    <relationship_description>All personal names in the original should be stripped out.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

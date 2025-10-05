@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-PRACTICING GOOD DEEDS</source_entity>
+    <target_entity>FIVE POSITIONS</target_entity>
+    <relationship_description>Women who do not practice good deeds occupy the first set of positions described.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

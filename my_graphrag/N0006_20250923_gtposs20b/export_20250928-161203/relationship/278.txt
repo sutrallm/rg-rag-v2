@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSONS</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Persons referenced in the text are identified within the original text for potential removal.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

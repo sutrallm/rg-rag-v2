@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The user is explicitly asked to paste the original content so that the assistant can perform translation and rewrite tasks.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

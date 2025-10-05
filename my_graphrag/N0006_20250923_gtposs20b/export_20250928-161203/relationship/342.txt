@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The user will provide the original text to be translated or rewritten.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

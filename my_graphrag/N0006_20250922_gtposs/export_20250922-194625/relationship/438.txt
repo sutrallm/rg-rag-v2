@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL POWER</source_entity>
+    <target_entity>EXILE</target_entity>
+    <relationship_description>Women lacking Moral Power but having other powers are exiled by family.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

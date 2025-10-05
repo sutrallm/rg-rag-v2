@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINALTEXT</target_entity>
+    <relationship_description>USER is expected to provide the ORIGINALTEXT to the System to enable translation and reconstruction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

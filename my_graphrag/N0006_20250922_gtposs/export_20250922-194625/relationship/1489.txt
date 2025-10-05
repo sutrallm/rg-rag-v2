@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>MESSAGE</target_entity>
+    <relationship_description>The ASSISTANT monitors incoming MESSAGEs from the user for further processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

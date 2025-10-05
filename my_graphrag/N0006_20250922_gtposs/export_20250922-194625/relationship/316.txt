@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>安闍那鹿苑</source_entity>
+    <target_entity>沙祇城</target_entity>
+    <relationship_description>安闍那鹿苑為沙祇城內的一片園區，佛陀在此說法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

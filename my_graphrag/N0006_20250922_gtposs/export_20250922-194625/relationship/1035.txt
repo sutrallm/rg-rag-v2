@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>有孔之軛</source_entity>
+    <target_entity>大海</target_entity>
+    <relationship_description>有孔之軛投入大海中。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

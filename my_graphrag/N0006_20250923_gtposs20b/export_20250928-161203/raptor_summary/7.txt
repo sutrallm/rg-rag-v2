@@ -1,0 +1,8 @@
+<heading>Repetitive Apology Template for Missing User Content<\heading>
+- Apologies are repeatedly issued for missing the user’s original content.  
+
+- Each message requests the original text for translation, restructuring, or formatting.  
+
+- The pattern is the same each time: apology, inability to proceed, and a call to supply the material.  
+
+- The overall style is a redundant template emphasizing a single requirement.

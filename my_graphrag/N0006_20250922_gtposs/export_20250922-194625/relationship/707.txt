@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTENT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>Content is to be translated.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

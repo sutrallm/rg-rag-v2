@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>盧夷強耆</source_entity>
+    <target_entity>尼拘律樹園</target_entity>
+    <relationship_description>盧夷強耆 dwells in the garden of the trees, 尼拘律樹園, within 迦毘羅衛城.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

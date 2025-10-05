@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The assistant will perform the translation task.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

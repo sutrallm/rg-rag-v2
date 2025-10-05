@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>TEXT TO BE PROCESSED</target_entity>
+    <relationship_description>The assistant requests that the user paste the text to be processed so it can fulfill the request.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

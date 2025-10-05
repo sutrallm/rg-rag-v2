@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The user is the source of the original content that has been referenced but not yet supplied to the assistant.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

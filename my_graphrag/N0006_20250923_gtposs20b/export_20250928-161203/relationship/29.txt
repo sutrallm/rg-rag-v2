@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>The System addresses the User in the MESSAGE, initiating the request.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

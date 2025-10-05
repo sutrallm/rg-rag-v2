@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DOCTRINAL EXPOSITION</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>The doctrinal exposition is organized and its title is renamed accordingly.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观修之根本</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>观修之根本倡导专注禅修以净化心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

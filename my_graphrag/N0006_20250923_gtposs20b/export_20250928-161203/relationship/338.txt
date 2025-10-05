@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORGANIZATION</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>Organization takes the translated material as input for structuring.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YOU</source_entity>
+    <target_entity>MODIFICATION_PROCESS</target_entity>
+    <relationship_description>YOU requires that the MODIFICATION_PROCESS be performed on the supplied text.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

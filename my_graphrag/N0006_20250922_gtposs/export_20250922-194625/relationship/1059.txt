@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>PARAN_COUNTRY</target_entity>
+    <relationship_description>The Buddha holds residence in the Parana country while dispensing teachings.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

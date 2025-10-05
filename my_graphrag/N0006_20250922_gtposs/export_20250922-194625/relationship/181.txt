@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>質多居士</source_entity>
+    <target_entity>安婆陀伽林</target_entity>
+    <relationship_description>質多居士前往安婆陀伽林討論、供養長老比丘。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

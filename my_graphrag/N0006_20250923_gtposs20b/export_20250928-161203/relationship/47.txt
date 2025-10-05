@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>DELETE_PEOPLE_AND_LOCATIONS</target_entity>
+    <relationship_description>Assistant will remove all people and location references from the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

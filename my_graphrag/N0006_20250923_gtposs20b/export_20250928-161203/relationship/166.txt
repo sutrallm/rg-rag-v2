@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORGANIZATION</target_entity>
+    <relationship_description>The user expects the assistant to organize the original text.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

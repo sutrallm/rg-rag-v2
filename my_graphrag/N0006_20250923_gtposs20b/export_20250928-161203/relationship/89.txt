@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>指示</source_entity>
+    <target_entity>翻譯</target_entity>
+    <relationship_description>The instruction prompts the action of translating the provided original text.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>HEADINGS ARRANGEMENT</target_entity>
+    <relationship_description>The user requests the assistant to reorganize headings in the translated text.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

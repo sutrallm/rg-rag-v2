@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸具壽</source_entity>
+    <target_entity>沙门</target_entity>
+    <relationship_description>诸具壽对沙门之义持审视态度，被评价其是否具备沙门理解。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

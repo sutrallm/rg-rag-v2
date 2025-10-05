@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>ACTION_REORGANIZE_METAPHORS</target_entity>
+    <relationship_description>The task includes reorganizing metaphorical content and dialogues.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

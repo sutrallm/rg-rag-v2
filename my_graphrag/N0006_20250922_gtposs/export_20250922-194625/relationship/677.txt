@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>離欲</target_entity>
+    <relationship_description>離欲 arises from解脫.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

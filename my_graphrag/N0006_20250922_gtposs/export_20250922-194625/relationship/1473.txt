@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PARAGRAPH TITLE</target_entity>
+    <relationship_description>Original Text contains section headings that will be renamed in the final product.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

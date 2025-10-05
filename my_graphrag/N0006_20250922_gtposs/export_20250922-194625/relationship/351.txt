@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>LOCATION</target_entity>
+    <relationship_description>The task deletes location references.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

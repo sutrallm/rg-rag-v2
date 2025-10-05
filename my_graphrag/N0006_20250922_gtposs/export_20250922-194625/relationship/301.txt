@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Desire is the root of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>Assistant will process the supplied original text according to the instructions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORGANIZE_METAPHORS_AND_DIALOGUE</target_entity>
+    <relationship_description>Assistant will reorganise metaphors and dialogue within the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

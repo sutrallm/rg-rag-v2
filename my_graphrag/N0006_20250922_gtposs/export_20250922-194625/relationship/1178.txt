@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>Each individual monk (比丘) aims to achieve Nirvana (涅槃) by practicing the four right efforts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

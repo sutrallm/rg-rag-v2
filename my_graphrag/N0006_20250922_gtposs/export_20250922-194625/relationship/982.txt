@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>阿難</source_entity>
+    <target_entity>比丘眾</target_entity>
+    <relationship_description>阿難 provides extended teachings to the group of monks (比丘眾) about meditation practice and stages of attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHARIPUTTA</source_entity>
+    <target_entity>MONK</target_entity>
+    <relationship_description>Sāriputta is a monk.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

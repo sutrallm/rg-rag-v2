@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUEST</source_entity>
+    <target_entity>HEADINGS</target_entity>
+    <relationship_description>Request specifies that headings should be organized in the transformed text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

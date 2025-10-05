@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>TRANSFORMED_TEXT</target_entity>
+    <relationship_description>The task culminates in the creation of the transformed doctrinal text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSTRUCTIONS</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>Instructions are directed toward the user to provide the missing original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

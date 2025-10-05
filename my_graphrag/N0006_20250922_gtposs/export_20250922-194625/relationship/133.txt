@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL ARTICLE</source_entity>
+    <target_entity>TEACHINGS EXTRACTION</target_entity>
+    <relationship_description>The original article provides the content from which teachings are extracted.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

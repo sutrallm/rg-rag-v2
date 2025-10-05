@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>The mind lacks an inherent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

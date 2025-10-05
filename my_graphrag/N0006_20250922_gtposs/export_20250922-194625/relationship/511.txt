@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>The system requests the user to paste the original text so that it can continue processing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

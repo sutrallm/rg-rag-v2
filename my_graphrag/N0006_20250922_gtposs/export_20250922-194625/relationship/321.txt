@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>具壽賓頭盧</target_entity>
+    <relationship_description>世尊向具壽賓頭盧說法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

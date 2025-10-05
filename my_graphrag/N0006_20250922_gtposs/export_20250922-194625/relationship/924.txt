@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生之法</source_entity>
+    <target_entity>眼觸</target_entity>
+    <relationship_description>眼触是眼与色接触的感受，生之法包括这一点。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

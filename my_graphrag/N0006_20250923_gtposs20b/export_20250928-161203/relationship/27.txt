@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MESSAGE</source_entity>
+    <target_entity>ORIGINALTEXT</target_entity>
+    <relationship_description>MESSAGE contains a reference to the ORIGINALTEXT that the user must provide.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

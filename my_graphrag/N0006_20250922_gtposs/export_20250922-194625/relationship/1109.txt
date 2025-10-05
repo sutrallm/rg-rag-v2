@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM RESPONSE</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>System Response instructs the User to provide the Original Text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

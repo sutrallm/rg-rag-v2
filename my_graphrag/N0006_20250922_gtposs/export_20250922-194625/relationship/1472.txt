@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PLACE</target_entity>
+    <relationship_description>Original Text references places that will be removed in the rewritten text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

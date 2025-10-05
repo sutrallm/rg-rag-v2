@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>ORIGINAL TEXT contains a TITLE that will be adjusted as part of the restructuring.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

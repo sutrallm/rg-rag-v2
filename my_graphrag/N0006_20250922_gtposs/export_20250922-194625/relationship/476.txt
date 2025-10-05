@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>波旬</target_entity>
+    <relationship_description>世尊 explains that when one does not cling, one is freed from the binding of 波旬.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

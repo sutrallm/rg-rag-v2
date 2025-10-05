@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHI LI A TU CUI SHI</source_entity>
+    <target_entity>GU SHOU ANAN</target_entity>
+    <relationship_description>Shi Li A Tu, afflicted by illness, directs a servant to seek aid from Gu Shou Anan, initiating a direct pedagogical relationship.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>阿罗汉</target_entity>
+    <relationship_description>Through full mastery of the five roots a 比丘 becomes an 阿罗汉.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

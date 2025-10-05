@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MO NA TI NA CUI SHI</source_entity>
+    <target_entity>FOUR MIND STATES</target_entity>
+    <relationship_description>Mo Na Ti Na expresses awareness of the Four Mind States, indicating spread of doctrine among lay followers.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

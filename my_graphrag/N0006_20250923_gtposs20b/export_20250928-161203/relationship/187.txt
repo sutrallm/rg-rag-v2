@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>TEXT_TO_TRANSLATE</target_entity>
+    <relationship_description>Assistant requires TEXT_TO_TRANSLATE from the user in order to fulfill the translation and rewrite task.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

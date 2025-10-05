@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAW</source_entity>
+    <target_entity>RETURN_TO_SOURCE</target_entity>
+    <relationship_description>法义的普遍传递最终使修行者与法相合，归于本源。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

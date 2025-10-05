@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SOURCE</source_entity>
+    <target_entity>RETURN_TO_SOURCE</target_entity>
+    <relationship_description>SOURCE是终极起点，修行者通过归于本源完成圆满。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

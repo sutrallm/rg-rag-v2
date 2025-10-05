@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>SPECIFIED FORMAT</target_entity>
+    <relationship_description>Assistant will produce the translation according to the user‑specified format.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

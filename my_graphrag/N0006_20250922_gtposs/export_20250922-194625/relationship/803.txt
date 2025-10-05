@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>識</source_entity>
+    <target_entity>受</target_entity>
+    <relationship_description>Both are aggregates discussed together; they form part of the analysis of impermanence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

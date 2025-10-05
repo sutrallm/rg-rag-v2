@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>CONTENT</target_entity>
+    <relationship_description>The user will provide the content to be translated/organized by pasting it into the conversation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

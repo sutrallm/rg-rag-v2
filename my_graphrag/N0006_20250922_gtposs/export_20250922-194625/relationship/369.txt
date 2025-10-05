@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICAL_GUIDELINES</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>遵守修行准则与礼仪有助于维护心灵的平衡与和谐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

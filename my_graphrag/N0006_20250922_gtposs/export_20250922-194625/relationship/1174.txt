@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四正勤</source_entity>
+    <target_entity>東</target_entity>
+    <relationship_description>Practice of the four right efforts (四正勤) leads the monks in the direction of the east (東), metaphorically toward enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

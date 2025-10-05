@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>Once the original content is provided, the assistant will use the specified format to produce the translated and organized output.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

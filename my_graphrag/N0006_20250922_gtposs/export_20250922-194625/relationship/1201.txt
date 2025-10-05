@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>舍衛城</target_entity>
+    <relationship_description>比丘 are present in 舟衛城 where the discourse is delivered.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

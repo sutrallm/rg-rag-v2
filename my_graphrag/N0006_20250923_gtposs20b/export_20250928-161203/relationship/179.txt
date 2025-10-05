@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>PARAGRAPH</target_entity>
+    <relationship_description>USER needs the paragraph to be translated and therefore provides it to the assistant.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

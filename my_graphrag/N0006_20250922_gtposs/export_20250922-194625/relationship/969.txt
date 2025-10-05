@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四神足</source_entity>
+    <target_entity>如來</target_entity>
+    <relationship_description>四神足之故名之如來</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

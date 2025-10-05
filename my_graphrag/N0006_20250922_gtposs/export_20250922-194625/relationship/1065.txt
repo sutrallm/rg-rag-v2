@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIGRA_GARDEN</source_entity>
+    <target_entity>KAPILAVASTU_CITY</target_entity>
+    <relationship_description>Nigra Garden is situated within Kapilavastu.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

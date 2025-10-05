@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUEST</source_entity>
+    <target_entity>QUOTATION</target_entity>
+    <relationship_description>Request mandates removal of quoted poetic material (偈語) from the original text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

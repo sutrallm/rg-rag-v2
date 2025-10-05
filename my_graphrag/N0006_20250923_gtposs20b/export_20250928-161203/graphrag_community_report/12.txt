@@ -1,0 +1,16 @@
+**Title:** Plain Chinese Translation Process Aligned to User‑Specified Requirements  
+
+**Summary**  
+The process described outlines how an assistant transforms original content into a colloquial Chinese version that conforms strictly to user‑defined style and format directives. Key elements include: translating the source into plain Chinese, interpreting and applying the user's specific formatting or stylistic requests, and producing a final output that remains faithful to those constraints. The account highlights the importance of clear, requirement‑driven adaptation in achieving a satisfactory translation.  
+
+**Adherence to User‑Defined Style**  
+The assistant actively follows the functional requirement set by the user, ensuring that every aspect of the translated output—style, format, and other constraints—matches the specification. This systematic alignment improves clarity and meets user expectations.  
+
+**Requirement‑Driven Translation Reconstruction**  
+From the beginning, the user outlines particular needs that guide how the translation is assembled. The assistant interprets and implements these criteria throughout the conversion, demonstrating a direct mapping from user instruction to final content.  
+
+**Shift to Colloquial Chinese**  
+The source material, once processed, is rendered in plain Chinese. This linguistic transition moves the text toward everyday language, making it more accessible to the target audience.  
+
+**Final Output constrained by User Parameters**  
+The end result consolidates all user‑specified rules, producing a document that functions as a compliant translation while preserving the intended message of the original text.

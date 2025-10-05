@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPLETE CONTENT</source_entity>
+    <target_entity>TRANSLATION TASK</target_entity>
+    <relationship_description>The translation task is contingent on receiving the complete content to be translated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

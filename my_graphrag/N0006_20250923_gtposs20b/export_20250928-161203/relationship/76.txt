@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ME</source_entity>
+    <target_entity>TRANSLATION_PROCESS</target_entity>
+    <relationship_description>ME performs the translation of the original text into plain Chinese.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

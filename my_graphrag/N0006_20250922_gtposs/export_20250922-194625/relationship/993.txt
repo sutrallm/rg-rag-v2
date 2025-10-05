@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU ANAN</source_entity>
+    <target_entity>BASU FUI YI JI LIN</target_entity>
+    <relationship_description>Gu Shou Anan resides and meditates at the monastery in Basel Fui Yi Ji Lin, establishing his habitual dwelling place.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

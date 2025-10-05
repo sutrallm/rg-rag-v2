@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定品</source_entity>
+    <target_entity>善男子</target_entity>
+    <relationship_description>Section addresses good men (monks) who take the vows.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

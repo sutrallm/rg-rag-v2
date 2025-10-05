@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERT_OUTSIDE_PRESSURE</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>识别外部逼迫并保持冷静观察，需内在的心灵集中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

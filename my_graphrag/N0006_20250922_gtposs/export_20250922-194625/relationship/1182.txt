@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四正勤</source_entity>
+    <target_entity>未生之善法</target_entity>
+    <relationship_description>The third right effort is the bringing into being of wholesome actions that have not yet arisen (未生之善法).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

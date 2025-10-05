@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>行</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>行 is a source of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

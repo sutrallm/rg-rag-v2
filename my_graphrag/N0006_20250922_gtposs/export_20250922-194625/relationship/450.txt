@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>力</source_entity>
+    <target_entity>種子龍</target_entity>
+    <relationship_description>'力' serves as the underlying force that animates the metaphorical image of the Seed Dragon, as suggested by the line describing how power correlates with each element.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

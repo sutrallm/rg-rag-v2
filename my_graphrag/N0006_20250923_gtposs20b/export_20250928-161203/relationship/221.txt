@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PLAIN LANGUAGE</target_entity>
+    <relationship_description>Original text will be converted into plain, easy‑to‑read language.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

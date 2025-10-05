@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANANDA</source_entity>
+    <target_entity>UDAYI</target_entity>
+    <relationship_description>Ananda engages with Udayi on self and consciousness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

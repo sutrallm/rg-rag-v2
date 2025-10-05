@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU ANAN</source_entity>
+    <target_entity>GU SHOU SHEERILL</target_entity>
+    <relationship_description>All three monks share a collegial bond as disciples of the Buddha, collaborating in study.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

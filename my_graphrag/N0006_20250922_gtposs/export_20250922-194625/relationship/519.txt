@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER REQUEST</source_entity>
+    <target_entity>TRANSLATION WORK</target_entity>
+    <relationship_description>The user explicitly demands translation of the original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

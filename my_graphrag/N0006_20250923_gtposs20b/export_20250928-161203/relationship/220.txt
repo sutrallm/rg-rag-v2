@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>User is prompted to provide the original text so that it can be processed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

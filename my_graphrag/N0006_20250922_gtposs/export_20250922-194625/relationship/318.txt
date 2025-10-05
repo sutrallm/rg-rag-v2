@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>東河</target_entity>
+    <relationship_description>佛陀於舍衛城東河之旁說法，討論信根與各根之修持。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

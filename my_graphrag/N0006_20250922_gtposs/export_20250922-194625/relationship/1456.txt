@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>APOLOGY</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The apology signals that the original content is missing and must be supplied.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

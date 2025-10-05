@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>祇樹給孤獨園</target_entity>
+    <relationship_description>世尊 dwelled at the garden/monastery 祇樹給孤獨園 within 舍衛城.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

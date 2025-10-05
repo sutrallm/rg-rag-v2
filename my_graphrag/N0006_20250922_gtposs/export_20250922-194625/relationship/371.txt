@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERT_OUTSIDE_PRESSURE</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>识别外部逼迫并保持冷静观察可通过集中心来做决策。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

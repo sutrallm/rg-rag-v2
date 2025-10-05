@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>The assistant offers to help the user with a range of tasks if the user supplies the original text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

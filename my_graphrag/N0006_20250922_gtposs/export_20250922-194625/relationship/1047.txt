@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>SERVICE</target_entity>
+    <relationship_description>The USER initiates the SERVICE operation after supplying the ORIGINAL TEXT.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

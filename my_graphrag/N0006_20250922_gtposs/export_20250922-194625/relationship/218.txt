@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>婆羅門</source_entity>
+    <target_entity>阿羅漢</target_entity>
+    <relationship_description>相同於沙門，若如實知者則為阿羅漢。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

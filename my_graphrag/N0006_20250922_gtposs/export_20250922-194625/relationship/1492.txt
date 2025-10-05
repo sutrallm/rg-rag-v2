@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>MESSAGE</target_entity>
+    <relationship_description>The USER sends the CONTENT within a MESSAGE to the ASSISTANT.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>METAPHOR AND DIALOGUE CLARIFICATION</target_entity>
+    <relationship_description>ASSISTANT offers organization, clarification, and formatting of metaphors and dialogues present in the original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

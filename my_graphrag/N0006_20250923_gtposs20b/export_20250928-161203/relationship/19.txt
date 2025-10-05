@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE ORGANIZATION</target_entity>
+    <relationship_description>The ORIGINAL TEXT is the material on which title organization is performed.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

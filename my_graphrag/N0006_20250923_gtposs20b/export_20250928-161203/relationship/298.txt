@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL CONTENT</source_entity>
+    <target_entity>ORGANIZATION</target_entity>
+    <relationship_description>ORGANIZATION is performed on the ORIGINAL CONTENT.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

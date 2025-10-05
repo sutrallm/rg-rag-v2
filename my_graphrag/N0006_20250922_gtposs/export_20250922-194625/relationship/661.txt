@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>預流</source_entity>
+    <target_entity>沙門</target_entity>
+    <relationship_description>預流 is considered a step beyond the ordinary 沙門 but not yet fully detached.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

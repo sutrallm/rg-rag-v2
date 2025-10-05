@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAIN_SHELTER</source_entity>
+    <target_entity>MONK</target_entity>
+    <relationship_description>Monks stay at the Rain Shelter location while receiving instruction.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

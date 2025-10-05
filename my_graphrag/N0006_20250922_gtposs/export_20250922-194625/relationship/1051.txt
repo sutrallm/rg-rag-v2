@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAPTER 14</source_entity>
+    <target_entity>PAGES 1 TO 10</target_entity>
+    <relationship_description>Chapter 14 is located on pages 1 through 10 of the printed or digital volume.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

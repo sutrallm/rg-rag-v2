@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因陀迦夜叉</source_entity>
+    <target_entity>因陀峰山</target_entity>
+    <relationship_description>因陀迦夜叉 dwells on 因陀峰山 near 王舍城.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

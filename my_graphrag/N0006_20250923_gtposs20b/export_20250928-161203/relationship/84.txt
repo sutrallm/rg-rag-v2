@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>Assistant cannot access the original text but will perform translation and organization if it is provided.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

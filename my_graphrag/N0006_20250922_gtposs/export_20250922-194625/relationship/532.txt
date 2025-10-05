@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>乐根</source_entity>
+    <target_entity>舍根</target_entity>
+    <relationship_description>乐根 (pleasure) and 舍根 (neutral) differ in state of feeling; 舍根 is neither pleasure nor pain.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天帝釋</source_entity>
+    <target_entity>夜叉</target_entity>
+    <relationship_description>天帝釋 visits the yaksha and engages with him.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

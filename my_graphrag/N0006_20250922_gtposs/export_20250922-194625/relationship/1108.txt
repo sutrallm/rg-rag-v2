@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM RESPONSE</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>System Response indicates it will perform the formatting.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

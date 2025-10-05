@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>色</source_entity>
+    <target_entity>喜</target_entity>
+    <relationship_description>色 gives rise to喜.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

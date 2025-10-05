@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>YOUR REQUEST</target_entity>
+    <relationship_description>The assistant indicates it can fulfill the user's request.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAMILY</source_entity>
+    <target_entity>EXILE</target_entity>
+    <relationship_description>Family exiles a woman lacking moral power.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

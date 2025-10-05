@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>阿羅毘</source_entity>
+    <target_entity>阿羅婆迦夜叉</target_entity>
+    <relationship_description>阿羅毘 shares dialogue with 阿羅婆迦夜叉, a Yaksha that resides beneath him.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

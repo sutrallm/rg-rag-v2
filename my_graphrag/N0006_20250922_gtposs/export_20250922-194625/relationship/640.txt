@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHATGPT</source_entity>
+    <target_entity>REQUIREMENTS</target_entity>
+    <relationship_description>ChatGPT will apply the specified requirements during translation and organization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

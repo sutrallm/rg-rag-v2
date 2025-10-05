@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAIN_SHELTER</source_entity>
+    <target_entity>SHAVASTI_CITY</target_entity>
+    <relationship_description>The rain shelter is located within Shravasti.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PARAGRAPHS</source_entity>
+    <target_entity>EXAMPLES</target_entity>
+    <relationship_description>Some PARAGRAPHS serve as EXAMPLES within the overall structure of the ORIGINAL TEXT.</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>USER is expected to provide the ORIGINAL TEXT by pasting it after “原文如下”.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

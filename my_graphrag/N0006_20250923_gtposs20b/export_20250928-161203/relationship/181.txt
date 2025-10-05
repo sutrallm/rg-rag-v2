@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>RESPONDER</target_entity>
+    <relationship_description>USER requests RESPONDER to perform translation, restructuring, and title renaming tasks.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

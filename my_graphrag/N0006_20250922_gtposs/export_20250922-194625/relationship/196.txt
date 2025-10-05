@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANANDA</source_entity>
+    <target_entity>JAGAMUFU</target_entity>
+    <relationship_description>Ananda converses with Jakamfu about sound perception and mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

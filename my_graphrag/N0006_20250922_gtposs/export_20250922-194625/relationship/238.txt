@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REPLY</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The reply explicitly asks for the original text, indicating a direct dependency on the content that is missing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

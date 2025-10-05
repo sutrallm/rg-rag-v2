@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>EXAMPLES</target_entity>
+    <relationship_description>ORIGINAL TEXT contains specific EXAMPLES that illustrate particular concepts or points.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

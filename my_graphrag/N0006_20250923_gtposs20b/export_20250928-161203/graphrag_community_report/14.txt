@@ -1,0 +1,22 @@
+**Title**  
+Assistant Translation and Formatting Flow: From Original Content to Structured Output  
+
+**Summary**  
+The assistant operates through a clearly defined pipeline that begins with the user’s provision of original content. This content is first translated into the target language, then restructured or formatted to meet presentation requirements. Each stage depends on the preceding output: the formatting step cannot start until translation is complete. If the user fails to supply the original material, the assistant can only issue an apology because no translation can commence. Reorganization can be applied before translation or after it, allowing flexibility in how the material is prepared. The assistant’s responsibilities encompass both translation and formatting, while the user initiates the request and receives the final formatted version.  
+
+**Translation Workflow**  
+The assistant receives the original content and produces a translated version. The translation is an isolated process that converts the source material into plain language suitable for doctrinal use.  
+
+**Sequential Processing**  
+Translation is the first stage; formatting follows directly. Formatting is performed exclusively on the translated output, ensuring that layout, styling, and structural organization are applied to the correct version. Because formatting uses the translation as its source, the two processes are strictly sequential.  
+
+**Conditional Apology**  
+When the teacher’s original material is missing, the assistant cannot proceed with translation. In such cases it generates an apology statement that cites the lack of original content as the sole obstacle.  
+
+**User and Assistant Roles**  
+The user supplies the original content, requests translation, and receives the finished formatted version. The assistant is charged with executing the translation and formatting tasks and, if necessary, reorganizing the material either before or after translation.  
+
+**Reorganization Flexibility**  
+Reorganization can be applied to the original content, producing a new structure before translation, or to the translated material, yielding a different final presentation after formatting. This option allows the user to choose whether restructuring should occur prior to language conversion or after the language conversion is complete.  
+
+---

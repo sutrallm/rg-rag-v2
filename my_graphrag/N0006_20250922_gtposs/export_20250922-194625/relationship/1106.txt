@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>The translated text will be formatted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

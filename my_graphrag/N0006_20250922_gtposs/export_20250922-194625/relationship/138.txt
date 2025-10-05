@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>第一五</source_entity>
+    <target_entity>〔一三三～一四二〕</target_entity>
+    <relationship_description>Chapter fifteen refers to verses 133–142 for contextual background.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

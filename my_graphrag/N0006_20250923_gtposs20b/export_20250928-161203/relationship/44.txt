@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>USER_TEXT</target_entity>
+    <relationship_description>User will provide the text to be processed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

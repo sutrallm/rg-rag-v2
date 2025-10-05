@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAPTER 14</source_entity>
+    <target_entity>GREED SUPPRESSION</target_entity>
+    <relationship_description>Chapter 14 has the subtitle "貪欲調伏" translated as "Greed Suppression".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>諸比丘</source_entity>
+    <target_entity>阿羅漢</target_entity>
+    <relationship_description>諸比丘若對六根之集、滅、味、過患、出離如實知，即可稱為阿羅漢。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

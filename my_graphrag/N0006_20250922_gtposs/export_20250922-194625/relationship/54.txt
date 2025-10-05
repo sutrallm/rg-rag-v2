@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>沙門婆羅門</source_entity>
+    <target_entity>四聖諦</target_entity>
+    <relationship_description>Enlightened monks and Brahma sages are taught and are the exemplars of the Four Noble Truths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

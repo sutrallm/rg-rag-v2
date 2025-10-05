@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UPASAKA</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Lay follower 優婆塞達摩提那 interacts directly with the Buddha, asking for teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

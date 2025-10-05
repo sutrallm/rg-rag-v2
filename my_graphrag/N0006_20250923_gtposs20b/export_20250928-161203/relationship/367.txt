@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我</source_entity>
+    <target_entity>對話</target_entity>
+    <relationship_description>The assistant will transform dialogues (對話) into direct expository statements (直接法義闡述).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

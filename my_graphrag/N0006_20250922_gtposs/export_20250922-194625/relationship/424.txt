@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WEALTH POWER</source_entity>
+    <target_entity>FIVE POWERS</target_entity>
+    <relationship_description>Wealth Power is one of the components that make up the Five Powers.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

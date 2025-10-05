@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>力</source_entity>
+    <target_entity>二雲</target_entity>
+    <relationship_description>'力' is the source of the Two Clouds, implying that force allows for the transient nature of clouds.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

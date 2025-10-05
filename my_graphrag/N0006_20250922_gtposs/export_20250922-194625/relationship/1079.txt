@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>PROCESS OUTPUT</target_entity>
+    <relationship_description>The assistant generates the translated and organized output from the original text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>COMPASSION</target_entity>
+    <relationship_description>心灵应以慈悲之心主动帮助需要援助的人，显示两者互为实践目标。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

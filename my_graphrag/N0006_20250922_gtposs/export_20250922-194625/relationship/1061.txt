@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAIN_SHELTER</source_entity>
+    <target_entity>KAPILAVASTU_CITY</target_entity>
+    <relationship_description>Rain Shelter is situated within Kapilavastu city.</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

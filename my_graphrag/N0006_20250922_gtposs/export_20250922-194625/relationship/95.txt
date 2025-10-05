@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>滅盡</target_entity>
+    <relationship_description>Monks work toward extinction of suffering (“依滅盡”).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

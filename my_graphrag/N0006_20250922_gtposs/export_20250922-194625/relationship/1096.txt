@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離貪</source_entity>
+    <target_entity>信根</target_entity>
+    <relationship_description>離貪是修習信根的導向概念。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

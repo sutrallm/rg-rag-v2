@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>眼觸</source_entity>
+    <target_entity>受</target_entity>
+    <relationship_description>眼触所生的受</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

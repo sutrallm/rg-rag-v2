@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER MESSAGE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>the user’s message is expected to contain the original text to be used for translation or paraphrasing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>布施利益</source_entity>
+    <target_entity>卵生龍</target_entity>
+    <relationship_description>The giving benefits section explains how acts of giving influence the egg‑laying dragon.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

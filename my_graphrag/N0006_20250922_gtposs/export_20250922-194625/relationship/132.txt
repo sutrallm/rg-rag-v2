@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL ARTICLE</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The original article is the source material for the translation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>心灵需要通过正念与持续集中来抵御诱惑并获得平静，说明二者在修行过程中相辅相成。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

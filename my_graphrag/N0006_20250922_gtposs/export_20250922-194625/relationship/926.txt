@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生之法</source_entity>
+    <target_entity>聲</target_entity>
+    <relationship_description>聲是耳所感受的对象，属于生之法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

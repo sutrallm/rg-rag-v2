@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GU SHOU BADIUORA</source_entity>
+    <target_entity>FOUR MIND STATES</target_entity>
+    <relationship_description>Gu Shou Baduor elucidates and encourages practice of the Four Mind States, reinforcing his teaching role.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>五上分結</target_entity>
+    <relationship_description>無明 completes the set of five upper hindrances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

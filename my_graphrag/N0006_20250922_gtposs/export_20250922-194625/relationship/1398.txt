@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>王舍城</source_entity>
+    <target_entity>祇樹給孤獨園</target_entity>
+    <relationship_description>祇樹給孤獨園位於王舍城之內，為城市內的僧林特定地點。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

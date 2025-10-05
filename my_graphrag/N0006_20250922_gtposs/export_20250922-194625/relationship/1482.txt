@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERNACULAR CHINESE OUTPUT</source_entity>
+    <target_entity>METAPHOR</target_entity>
+    <relationship_description>Output includes reorganized metaphors for improved clarity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

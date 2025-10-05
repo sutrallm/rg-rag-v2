@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四正勤</source_entity>
+    <target_entity>修習</target_entity>
+    <relationship_description>四正勤 (four right efforts) are realized through the practice of 修習.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

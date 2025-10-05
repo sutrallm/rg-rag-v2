@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>SERVICE</target_entity>
+    <relationship_description>The Service can be performed only after the ORIGINAL TEXT is supplied by the user; the text is the prerequisite input.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

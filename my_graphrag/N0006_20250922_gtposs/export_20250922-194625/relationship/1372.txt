@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>PARAPHRASING</target_entity>
+    <relationship_description>Assistant carries out paraphrasing to simplify the original text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

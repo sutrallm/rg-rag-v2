@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION ACTIVITY</source_entity>
+    <target_entity>CHARACTER</target_entity>
+    <relationship_description>The translation activity removes characters.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

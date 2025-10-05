@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>Intends to provide the original text to the assistant by pasting it into the chat.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

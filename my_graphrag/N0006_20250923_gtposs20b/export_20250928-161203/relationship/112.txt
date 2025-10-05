@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PARAGRAPH</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The PARAGRAPH is part of the ORIGINAL TEXT and will be extracted for translation and formatting. The reader must first locate the paragraph within the larger text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

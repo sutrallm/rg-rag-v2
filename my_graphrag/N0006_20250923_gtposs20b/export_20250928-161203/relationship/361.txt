@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我</source_entity>
+    <target_entity>原始文本</target_entity>
+    <relationship_description>The assistant (我) will process the original text (原始文本) for transformation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

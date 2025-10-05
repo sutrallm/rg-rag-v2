@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MAHA MAN</source_entity>
+    <target_entity>NIGRA_GARDEN</target_entity>
+    <relationship_description>MAHA MAN visited the garden where the Buddha resided during the illness discourse.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

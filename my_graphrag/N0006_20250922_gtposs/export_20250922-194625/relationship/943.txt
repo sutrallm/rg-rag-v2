@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖弟子</source_entity>
+    <target_entity>多聞</target_entity>
+    <relationship_description>聖弟子具有多聞的特性。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

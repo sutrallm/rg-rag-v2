@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>迴向</source_entity>
+    <target_entity>信根</target_entity>
+    <relationship_description>迴向是將信根修習的指向與聚注。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

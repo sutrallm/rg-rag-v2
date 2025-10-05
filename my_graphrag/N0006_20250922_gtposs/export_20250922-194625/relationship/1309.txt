@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>COMPLETE CONTENT</target_entity>
+    <relationship_description>The original text is a subset of the complete content, which must be forwarded to the requester.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

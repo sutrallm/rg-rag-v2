@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Assistant cannot complete the requested transformation because it lacks the ORIGINAL TEXT referenced by the user.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

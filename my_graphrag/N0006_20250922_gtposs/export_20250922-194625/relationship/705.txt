@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ARRANGEMENT</target_entity>
+    <relationship_description>Assistant carries out the arrangement process to format and finalize the translated text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

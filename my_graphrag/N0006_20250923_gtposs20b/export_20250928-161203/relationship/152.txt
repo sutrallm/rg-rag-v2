@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MESSAGE</source_entity>
+    <target_entity>METAPHOR_AND_DIALOGUE_ORGANIZATION</target_entity>
+    <relationship_description>Message requests to perform metaphor and dialogue organization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

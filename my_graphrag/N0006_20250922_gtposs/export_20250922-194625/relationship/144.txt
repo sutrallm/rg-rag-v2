@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>攝頌曰</source_entity>
+    <target_entity>日衣等十句</target_entity>
+    <relationship_description>Concluding “sunward garments” lines complete the ten verses.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

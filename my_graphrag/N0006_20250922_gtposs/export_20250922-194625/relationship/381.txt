@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>RETURN_TO_SOURCE</target_entity>
+    <relationship_description>通过心灵的修行与觉悟，个人归于本源。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

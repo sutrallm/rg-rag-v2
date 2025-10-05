@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAPTER THREE</source_entity>
+    <target_entity>TEACHING</target_entity>
+    <relationship_description>Chapter Three expounds the main teaching using the ocean metaphor.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOCATIONS</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Locations mentioned in the original text are flagged for possible removal.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

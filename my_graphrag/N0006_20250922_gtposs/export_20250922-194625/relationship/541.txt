@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>沙门</source_entity>
+    <target_entity>比丘</target_entity>
+    <relationship_description>沙门 are highly qualified monks who have surpassed the level of a simple 比丘; only those with deep understanding of the five roots can be recognized as 沙门.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

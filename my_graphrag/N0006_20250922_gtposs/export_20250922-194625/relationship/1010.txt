@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GAN DA QI LIN</source_entity>
+    <target_entity>SHA GUI GUO</target_entity>
+    <relationship_description>The forest lies within the state of Sha Gui, establishing administrative containment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

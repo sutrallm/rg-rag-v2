@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>CONTENT</target_entity>
+    <relationship_description>ASSISTANT will translate and reorganize the CONTENT once it is supplied.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

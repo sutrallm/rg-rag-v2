@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>念根</source_entity>
+    <target_entity>五根</target_entity>
+    <relationship_description>念根是構成五根的五個成分之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>訊息</source_entity>
+    <target_entity>文字</target_entity>
+    <relationship_description>訊息 indicates that the user can copy and paste (複製貼上) the text (文字).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

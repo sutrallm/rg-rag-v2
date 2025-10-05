@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM RESPONSE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>System Response explicitly states it cannot proceed until the Original Text is received and will then translate and format it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

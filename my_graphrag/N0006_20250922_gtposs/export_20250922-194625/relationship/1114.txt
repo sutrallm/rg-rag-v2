@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>龍相應</source_entity>
+    <target_entity>聞</target_entity>
+    <relationship_description>The text contains four “listen” parts where the monks pose questions about the dragons.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

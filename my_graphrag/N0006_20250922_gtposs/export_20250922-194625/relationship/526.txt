@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>CONTENT</target_entity>
+    <relationship_description>USER must provide the missing CONTENT for translation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

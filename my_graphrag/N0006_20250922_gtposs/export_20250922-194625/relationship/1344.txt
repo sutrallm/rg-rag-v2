@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>比丘</target_entity>
+    <relationship_description>The Buddha addresses and teaches the monks, providing discourse and guidance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

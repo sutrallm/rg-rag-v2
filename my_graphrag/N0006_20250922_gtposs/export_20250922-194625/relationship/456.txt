@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>力</source_entity>
+    <target_entity>船舶</target_entity>
+    <relationship_description>The power enables the Ships to navigate, reflecting movement through unknown or void spaces.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>攝頌曰</source_entity>
+    <target_entity>夏生花王月</target_entity>
+    <relationship_description>Seasonal and floral imagery continues the recitation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

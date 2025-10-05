@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>ASSISTANT is requesting the ORIGINAL_TEXT from the USER to begin the translation process.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

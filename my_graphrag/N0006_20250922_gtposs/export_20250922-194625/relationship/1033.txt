@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>毘舍城</target_entity>
+    <relationship_description>世尊住毘舍城大林之重閣講堂。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

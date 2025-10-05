@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>System apologizes to the user for not receiving the original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

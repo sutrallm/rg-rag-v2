@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ME</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>ME is asking the user to provide the ORIGINAL_TEXT in order to proceed with translation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

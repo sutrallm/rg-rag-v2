@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THOUGHT</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>The faculty of thought initiates the suffering, disease, old age, and death cycle according to the Buddhist teaching.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

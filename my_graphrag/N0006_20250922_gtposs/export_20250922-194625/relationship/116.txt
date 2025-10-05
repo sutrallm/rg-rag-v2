@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTENT</source_entity>
+    <target_entity>DELETION OF CHARACTERS AND PLACES</target_entity>
+    <relationship_description>Deletion process targets the content to remove character and place references.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

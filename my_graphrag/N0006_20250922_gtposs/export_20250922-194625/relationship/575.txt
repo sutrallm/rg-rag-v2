@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>滅</source_entity>
+    <target_entity>覺支</target_entity>
+    <relationship_description>In the extinction practice, various 覺支 (e.g., 精進覺支, 定覺支) are employed.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

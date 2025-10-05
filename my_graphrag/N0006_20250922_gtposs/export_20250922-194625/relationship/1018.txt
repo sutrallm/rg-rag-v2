@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_PARAGRAPH</source_entity>
+    <target_entity>LOCATION</target_entity>
+    <relationship_description>Any places mentioned in the original paragraph should be removed from the final output.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

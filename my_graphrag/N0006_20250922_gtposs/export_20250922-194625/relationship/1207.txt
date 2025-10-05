@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMAGINATION</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>Imagination of form brings about suffering, disease, old age, and death as detailed in the scripture.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

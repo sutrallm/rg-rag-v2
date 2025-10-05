@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The user is expected to supply the original text to enable the system to perform translation and organization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

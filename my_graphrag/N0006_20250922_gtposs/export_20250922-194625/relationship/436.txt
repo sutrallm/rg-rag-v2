@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOMEN</source_entity>
+    <target_entity>OVERCOME</target_entity>
+    <relationship_description>Women who hold all Five Powers are said to overcome their husbands.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

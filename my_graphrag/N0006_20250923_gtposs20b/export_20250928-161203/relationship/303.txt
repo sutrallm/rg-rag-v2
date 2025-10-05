@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MESSAGE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The message states that the original text is required for translation and organization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The user provides the ORIGINAL TEXT as the content to be processed.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

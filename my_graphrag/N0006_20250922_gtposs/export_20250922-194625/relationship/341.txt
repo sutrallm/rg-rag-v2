@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>I</source_entity>
+    <target_entity>YOU</target_entity>
+    <relationship_description>The assistant is awaiting the user's input and apologizes for not receiving it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

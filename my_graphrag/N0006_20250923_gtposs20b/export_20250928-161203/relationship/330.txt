@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FINAL WITTY PHRASE CLEANUP</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The cleanup process removes final witticisms from the ORIGINAL TEXT before finalisation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

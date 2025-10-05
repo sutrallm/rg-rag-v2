@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>USER wants to provide the Original Text for translation and organization.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

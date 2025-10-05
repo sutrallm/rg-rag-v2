@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The user provides the original text that needs to be translated.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

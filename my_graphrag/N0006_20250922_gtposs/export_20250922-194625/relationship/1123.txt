@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>卵生龍</source_entity>
+    <target_entity>龍</target_entity>
+    <relationship_description>Egg‑laying dragons are a subtype of the general dragon concept.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

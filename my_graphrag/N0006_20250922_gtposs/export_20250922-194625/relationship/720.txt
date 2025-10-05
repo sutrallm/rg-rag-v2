@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>具壽舍利弗</source_entity>
+    <target_entity>純陀</target_entity>
+    <relationship_description>Pūndara serves Gu Shou Sharlif as a novice; a master‑servant relationship evident when the novice attends the Buddha’s residence because of his master.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

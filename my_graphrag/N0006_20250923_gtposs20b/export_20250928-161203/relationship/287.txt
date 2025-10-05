@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>PLAIN_CHINESE_VERSION</target_entity>
+    <relationship_description>原始文本被轉成白話文版本。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

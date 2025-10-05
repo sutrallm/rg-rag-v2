@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>FORMAT</target_entity>
+    <relationship_description>The ASSISTANT utilizes the FORMAT guidelines when re-structuring the output.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

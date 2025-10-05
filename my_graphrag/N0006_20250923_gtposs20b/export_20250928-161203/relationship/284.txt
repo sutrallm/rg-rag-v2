@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>REQUIREMENT</target_entity>
+    <relationship_description>The assistant will adapt its translation to meet the user’s specified requirement.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

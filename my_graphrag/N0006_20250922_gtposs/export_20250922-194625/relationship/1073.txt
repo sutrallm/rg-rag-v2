@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SANGHA</target_entity>
+    <relationship_description>The Buddha teaches and guides the Sangha.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASTE</source_entity>
+    <target_entity>EXTERNAL</target_entity>
+    <relationship_description>TASTE is an external sense component.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

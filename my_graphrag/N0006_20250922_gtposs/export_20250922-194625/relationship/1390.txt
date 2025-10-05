@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>婆耆沙</source_entity>
+    <target_entity>大目犍連</target_entity>
+    <relationship_description>婆耆沙於講經時讚頌大目犍連的深邃修定與慈悲教化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

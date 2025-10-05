@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MESSAGE</source_entity>
+    <target_entity>ME</target_entity>
+    <relationship_description>Message is sent by the assistant.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

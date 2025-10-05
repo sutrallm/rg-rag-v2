@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世尊</source_entity>
+    <target_entity>具壽羅睺羅</target_entity>
+    <relationship_description>具壽羅睺羅 consults the Buddha concerning the nature of mind and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

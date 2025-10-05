@@ -1,0 +1,31 @@
+**Title:**  
+Translation and Organization Workflow for User‑Supplied Original Material  
+
+**Summary:**  
+An assistant repeatedly informs a user that it must receive the original content before it can perform a range of transformation tasks—translation into plain conversational Chinese, removal of names and places, title reconstructions, and formatting. The assistant acknowledges its inability to access the source material independently and waits for the’s submission. Once, it will execute the requested transformations and return the processed output.
+
+**Key Points**
+
+1. **Input Dependency**  
+   The assistant cannot complete any of its designated tasks until the user provides the original content. Every response includes a request for the user to paste or upload the material.
+
+2. **Explicit Instruction Cycle**  
+   The assistant routinely apologizes for the lack of content, explains the required next step, and offers to proceed once the user supplies the material.
+
+3. **Scope of Transformations**  
+   Upon receipt, the assistant will:  
+   * Translate the source into vernacular Chinese.  
+   * Strip out personal and geographic references.  
+   * Remove any concluding epigraphic stanza.  
+   * Restructure metaphors and dialogue.  
+   * Rename and reorder chapter headings.  
+   * Produce a plain conversational version and format the output accordingly.
+
+4. **User Responsibility**  
+   The user must provide the full block of source material—for example, a paragraph or complete document—employing the prompt “原文如下.” Without this submission the assistant remains unable to proceed.
+
+5. **No Autonomous Retrieval**  
+   The assistant explicitly states it does not have access to the original material by itself; it can only process content that the user shares during the interaction.
+
+6. **Formatting and Output Expectations**  
+   After processing, the assistant will deliver the transformed material in a cohesive, structured format, suitable for further use by the user.

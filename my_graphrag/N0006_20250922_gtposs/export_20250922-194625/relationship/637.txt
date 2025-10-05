@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHATGPT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>ChatGPT expects the user to provide the original text, format, and requirements before proceeding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

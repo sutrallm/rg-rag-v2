@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>攝頌</source_entity>
+    <target_entity>四布薩四聞</target_entity>
+    <relationship_description>the chant references the four Bussa and four Listen sections.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

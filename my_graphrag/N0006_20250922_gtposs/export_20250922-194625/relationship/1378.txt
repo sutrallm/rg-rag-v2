@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT CONTENT</source_entity>
+    <target_entity>METAPHOR REPLACEMENT</target_entity>
+    <relationship_description>Original text contains metaphors that will be replaced.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

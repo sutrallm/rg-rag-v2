@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ASSISTANT</target_entity>
+    <relationship_description>User has requested the assistant to process the original text once it is provided.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

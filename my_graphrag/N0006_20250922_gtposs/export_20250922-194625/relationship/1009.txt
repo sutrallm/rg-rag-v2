@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BASU FUI YI JI LIN</source_entity>
+    <target_entity>BASU FUI YI</target_entity>
+    <relationship_description>The monastery is located within Basu Fui Yi town, denoting a geographic containment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

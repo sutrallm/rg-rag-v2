@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_PARAGRAPH</source_entity>
+    <target_entity>VERNACULAR_TEXT</target_entity>
+    <relationship_description>The original paragraph will be translated into plain language to produce the vernacular text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

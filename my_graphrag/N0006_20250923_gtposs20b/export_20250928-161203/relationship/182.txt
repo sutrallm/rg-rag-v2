@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>USER references ORIGINAL_TEXT in the request, implying the existence of a text that needs processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>
