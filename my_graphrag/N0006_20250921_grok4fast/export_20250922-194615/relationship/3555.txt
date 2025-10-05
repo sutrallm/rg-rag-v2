@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Vigilance leads to the fruits of nirvana's peace by avoiding rebirth and evil karma.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

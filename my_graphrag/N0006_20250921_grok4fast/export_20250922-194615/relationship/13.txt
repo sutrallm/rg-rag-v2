@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Craving manifests as greed, entangling like vines and spreading to cause mental bonds that must be severed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

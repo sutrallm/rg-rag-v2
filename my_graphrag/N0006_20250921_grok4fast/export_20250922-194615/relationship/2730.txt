@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Practitioners diligently cultivate concentration with mindfulness to transcend desires.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

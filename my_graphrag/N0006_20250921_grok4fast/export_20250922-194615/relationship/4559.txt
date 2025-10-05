@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom allows transcendence of attachment even to nirvana, ensuring unhindered freedom without bondage.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

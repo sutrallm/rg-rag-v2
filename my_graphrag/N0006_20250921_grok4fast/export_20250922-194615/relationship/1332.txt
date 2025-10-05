@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JIE DING HUI</target_entity>
+    <relationship_description>Noble ones embody the three trainings of morality, concentration, and wisdom to eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

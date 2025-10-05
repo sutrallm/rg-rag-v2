@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Diligent practice ensures avoidance of negligence to master meditation and evade the Lord of Death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

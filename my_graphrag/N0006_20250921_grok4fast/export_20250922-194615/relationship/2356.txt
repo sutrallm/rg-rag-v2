@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Diligent practice allows mastery of the zen meditation method to prevent mind body scattering and achieve control over the practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

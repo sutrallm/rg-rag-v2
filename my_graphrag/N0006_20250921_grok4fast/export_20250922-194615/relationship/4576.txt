@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION METHOD</source_entity>
+    <target_entity>BIRTH AND DEATH</target_entity>
+    <relationship_description>Mastering the meditation method allows transcendence of the birth and death cycle.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

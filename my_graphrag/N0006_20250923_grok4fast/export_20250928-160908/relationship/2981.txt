@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Practitioners following the Buddha's teachings and engaging in continuous diligence avoid falling under the control of impermanence and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

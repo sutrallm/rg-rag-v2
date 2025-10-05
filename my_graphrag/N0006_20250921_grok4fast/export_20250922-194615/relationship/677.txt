@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Practitioners work to overcome afflictions like greed and delusion that hinder spiritual progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Defilements such as greed, anger, and delusion bring suffering and the cycle of rebirth when the mind is polluted.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

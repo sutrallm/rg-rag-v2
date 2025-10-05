@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Afflictions bind practitioners to the cycle of samsara, perpetuating suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

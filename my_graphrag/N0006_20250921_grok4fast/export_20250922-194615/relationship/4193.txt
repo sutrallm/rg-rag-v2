@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IDLENESS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Idleness results in torment from afflictions like greed, hatred, and delusion, preventing discernment and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

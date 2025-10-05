@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGRY</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Anger is one of the primary afflictions, along with greed and delusion, that binds to suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

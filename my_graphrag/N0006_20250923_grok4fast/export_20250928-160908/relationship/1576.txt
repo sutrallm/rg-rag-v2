@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Awareness enables realization of the suffering in body and mind phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

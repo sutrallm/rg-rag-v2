@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saints embody full liberation, dwelling in tranquility and free from all troubles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

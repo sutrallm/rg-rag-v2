@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>LOWER REALMS</target_entity>
+    <relationship_description>Indulgence causes practitioners to sink into lower realms due to unchecked afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NON_INDOTENCE</target_entity>
+    <relationship_description>Non-indolence is the protective practice of practitioners who safeguard self and others from falling and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

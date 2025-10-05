@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NON-NEGLIGENCE</target_entity>
+    <relationship_description>The practitioner who practices non-negligence focuses on mindfulness and diligence to distance from the bindings of greed, anger, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

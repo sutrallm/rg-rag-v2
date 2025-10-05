@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Wisdom helps discern the correct path to avoid the sufferings of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

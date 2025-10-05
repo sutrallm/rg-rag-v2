@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARHAT FRUIT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Arhat fruit represents ultimate liberation from the cycle of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

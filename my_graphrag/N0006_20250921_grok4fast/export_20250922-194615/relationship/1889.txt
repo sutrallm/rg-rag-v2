@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Awakened ones sever all attachments through mindfulness and observation of body and mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

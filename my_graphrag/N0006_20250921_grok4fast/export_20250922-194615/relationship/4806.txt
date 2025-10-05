@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>GREED HATRED DELUSION</target_entity>
+    <relationship_description>Afflictions stem from the roots of greed, hatred, and delusion, which are cut through wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

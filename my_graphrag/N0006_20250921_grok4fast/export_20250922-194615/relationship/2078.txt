@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Noble practitioners with precepts, wisdom, and diligence inspire respect from heavenly beings by eradicating defilements and transcending suffering.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

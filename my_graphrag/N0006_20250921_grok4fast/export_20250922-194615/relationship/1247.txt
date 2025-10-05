@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Liberation from greed and desires results in true tranquility and inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

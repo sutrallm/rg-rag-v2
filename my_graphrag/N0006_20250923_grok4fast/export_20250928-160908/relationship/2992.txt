@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Vigilance protects the mind like a treasure, enabling long abiding in samadhi, removal of afflictions, and attainment of ultimate freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

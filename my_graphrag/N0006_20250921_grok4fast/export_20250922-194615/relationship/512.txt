@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>BAD KARMA</target_entity>
+    <relationship_description>Non-indolence, through mindful vigilance, avoids the accumulation of bad karma and ensures future well-being.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

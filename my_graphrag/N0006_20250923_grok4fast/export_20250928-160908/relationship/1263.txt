@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Meditation masters the technique only through avoiding indolence via diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

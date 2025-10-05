@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CUTTING GREED AND ATTACHMENT</source_entity>
+    <target_entity>SENSORY PLEASURES</target_entity>
+    <relationship_description>Cutting greed and attachment involves severing desire for sensory pleasures, seen as dangerous like poisoned hooks.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

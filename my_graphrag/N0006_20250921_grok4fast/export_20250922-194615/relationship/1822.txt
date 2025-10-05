@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>NON-INDULGENT PRACTICE</target_entity>
+    <relationship_description>Mindfulness is a key component maintained in non-indulgent practice to sustain focus and avoid indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

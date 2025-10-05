@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners follow teachings to engage in continuous diligence and avoid the Demon King of Death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Followers of the Buddha's teachings practice diligence continuously to avoid falling under Mara's control and to master samadhi.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

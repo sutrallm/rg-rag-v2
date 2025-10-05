@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Indulgence leads to rebirth in evil realms after death, filled with extreme suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

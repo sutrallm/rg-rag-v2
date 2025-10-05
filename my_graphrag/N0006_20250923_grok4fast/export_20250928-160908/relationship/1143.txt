@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Recognition of impermanence through contemplation leads to ultimate liberation by transcending name-and-form and other bounds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

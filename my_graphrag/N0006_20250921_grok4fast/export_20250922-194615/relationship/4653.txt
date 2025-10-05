@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Compassion in bodhisattvas universally alleviates suffering for all sentient beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

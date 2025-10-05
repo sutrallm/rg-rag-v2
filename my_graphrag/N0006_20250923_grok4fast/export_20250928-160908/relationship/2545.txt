@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FAITH</target_entity>
+    <relationship_description>Practitioners possess correct faith to eliminate doubts and firmly pursue the path to liberation according to true law.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

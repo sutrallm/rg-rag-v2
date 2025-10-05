@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Saints represent the advanced state of practitioners who fully realize precepts, wisdom, and meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

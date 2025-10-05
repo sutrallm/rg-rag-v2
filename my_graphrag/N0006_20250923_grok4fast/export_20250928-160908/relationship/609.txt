@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>FIVE DESIRES</target_entity>
+    <relationship_description>Negligence causes immersion in the five desires, leading to mental confusion like intoxication.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

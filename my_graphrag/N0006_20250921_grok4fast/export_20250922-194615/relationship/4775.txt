@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPT AGGREGATE</source_entity>
+    <target_entity>CONCENTRATION AGGREGATE</target_entity>
+    <relationship_description>Precept, concentration, and wisdom aggregates together form the basis for saintly liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

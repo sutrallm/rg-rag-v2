@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Wisdom allows saints to fully eliminate afflictions through diligent mental cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

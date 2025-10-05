@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Failure to recognize impermanence leads to the continuous arising of hatred, one of the three root afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

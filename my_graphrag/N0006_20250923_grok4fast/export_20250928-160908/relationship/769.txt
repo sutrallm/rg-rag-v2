@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Afflictions encompass defilements like greed, hatred, and delusion, both severed in liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

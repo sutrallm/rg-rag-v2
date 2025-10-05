@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Awakened beings use mindfulness to guard the sense doors and perceive the true nature of dharmas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

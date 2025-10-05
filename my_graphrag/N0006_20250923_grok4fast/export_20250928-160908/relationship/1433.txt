@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EQUALITY VIEW</source_entity>
+    <target_entity>SENTIENT BEINGS</target_entity>
+    <relationship_description>The equality view treats all sentient beings without distinction, fostering compassion and ultimate happiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

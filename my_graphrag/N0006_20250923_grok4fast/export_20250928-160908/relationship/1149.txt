@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Contemplation of no-self facilitates transcendence of name-and-form bounds and attainment of ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

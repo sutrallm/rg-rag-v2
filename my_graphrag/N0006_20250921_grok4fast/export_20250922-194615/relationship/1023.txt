@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAX PERSON</source_entity>
+    <target_entity>FIVE FETTERS</target_entity>
+    <relationship_description>Non-lax persons through diligent practice cut off the five fetters of greed, hatred, sloth, restlessness, and doubt.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

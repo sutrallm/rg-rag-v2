@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>PRECEPTS MEDITATION WISDOM</target_entity>
+    <relationship_description>Zen meditation is a core component of the path that includes precepts and wisdom for complete spiritual perfection.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

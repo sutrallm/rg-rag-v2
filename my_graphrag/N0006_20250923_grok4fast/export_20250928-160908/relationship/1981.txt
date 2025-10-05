@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Zen Meditation helps practitioners detach from afflictions, providing an undisturbed environment free from turmoil.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must maintain continuous diligence in following Buddha's teachings to avoid indulgence, achieve enlightenment stages, and gain liberation's joy.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

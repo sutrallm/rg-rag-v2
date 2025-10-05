@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Diligent practice requires and enables continuous non-heedlessness to avoid the Lord of Death and master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Negligence traps individuals in afflictions and the cycle of birth and death like darkness obscuring light, while avoiding it arouses mindfulness, leading progressively to nirvana and ultimate peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

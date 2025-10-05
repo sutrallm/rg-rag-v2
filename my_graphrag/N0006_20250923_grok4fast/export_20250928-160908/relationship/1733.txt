@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts are upheld alongside wisdom to cultivate a quiet mind and eliminate afflictions, forming a complete path to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

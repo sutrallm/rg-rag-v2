@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>NON-INDULGENCE</target_entity>
+    <relationship_description>Awakened ones use non-indulgence as a bridge to cross birth and death, reaching peace by cutting off craving.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

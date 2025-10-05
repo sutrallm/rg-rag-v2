@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Saints possess precepts as a foundational quality alongside wisdom for transcending afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

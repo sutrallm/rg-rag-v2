@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>SENSORY PLEASURES</target_entity>
+    <relationship_description>The three poisons fuel attachments to sensory pleasures, leading to suffering that practices aim to cut.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

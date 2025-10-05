@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>BAD_KARMA</target_entity>
+    <relationship_description>Diligent practitioners transcend the influence of bad karma, progressively approaching liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

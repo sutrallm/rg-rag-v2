@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Awakened beings attain their state through the practice of mindful meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

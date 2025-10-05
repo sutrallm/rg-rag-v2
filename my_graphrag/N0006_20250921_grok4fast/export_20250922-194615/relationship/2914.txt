@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEINGS</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Holy beings are characterized by fully possessing precepts alongside wisdom, which support their tranquil and liberated state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

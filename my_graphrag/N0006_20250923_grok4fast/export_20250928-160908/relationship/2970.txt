@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Liberated practitioners gain deep understanding of no-self, enabling non-clinging and unobstructed freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

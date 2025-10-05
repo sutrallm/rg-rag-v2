@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Practitioners must avoid indulgence to prevent being controlled by afflictions and to progress in meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

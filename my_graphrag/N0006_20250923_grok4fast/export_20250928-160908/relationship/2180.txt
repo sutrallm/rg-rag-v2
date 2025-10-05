@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>GODS</target_entity>
+    <relationship_description>Saints earn reverence from gods due to their perfect attainment of precepts, wisdom, and liberation from afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

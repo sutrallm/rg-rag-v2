@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL_LIBERATION</source_entity>
+    <target_entity>EMPTINESS_OF_ALL_DHARMA</target_entity>
+    <relationship_description>Mental liberation reveals the emptiness of all dharmas as a core realization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

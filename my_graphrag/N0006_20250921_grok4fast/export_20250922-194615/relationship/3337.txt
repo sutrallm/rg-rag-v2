@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners rely on diligence to follow teachings, maintain vigilance, and cultivate the path to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

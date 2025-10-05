@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>The threefold training incorporates meditation for concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

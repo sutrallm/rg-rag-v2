@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Heedlessness perpetuates entrapment in samsara's cycle of pain and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

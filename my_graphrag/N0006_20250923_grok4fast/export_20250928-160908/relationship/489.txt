@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Greed is a primary affliction among the roots of suffering, including hatred and delusion, severed by saints.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

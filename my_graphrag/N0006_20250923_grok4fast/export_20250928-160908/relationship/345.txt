@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Practitioners avoid indulgence to prevent falling into evil paths and to attain inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

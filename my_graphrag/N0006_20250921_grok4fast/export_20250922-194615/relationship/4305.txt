@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Wisdom is attained through Zen meditation, enabling heart liberation and insight into impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

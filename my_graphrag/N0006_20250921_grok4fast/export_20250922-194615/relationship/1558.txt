@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>FEAR</target_entity>
+    <relationship_description>Liberation ends all fear by extinguishing samsara and the bonds of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

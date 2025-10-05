@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Wisdom gained from meditation severs greed, leading to mental freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

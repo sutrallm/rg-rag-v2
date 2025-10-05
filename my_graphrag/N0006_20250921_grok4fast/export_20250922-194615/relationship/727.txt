@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Noble Ones transcend the cycle of rebirth through non-indolence and the Holy Path, living freely without attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

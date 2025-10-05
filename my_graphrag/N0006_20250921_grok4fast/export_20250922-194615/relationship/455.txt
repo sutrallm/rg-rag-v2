@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom, when perfected and fused with compassion, leads to the attainment of nirvana and supreme stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

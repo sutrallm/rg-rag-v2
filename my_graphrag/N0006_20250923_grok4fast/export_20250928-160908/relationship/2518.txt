@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER REALIZATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Inner realization extinguishes all afflictions, leading to eternal peace for the practitioner.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

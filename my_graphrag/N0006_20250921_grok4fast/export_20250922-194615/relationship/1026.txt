@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH LORD</source_entity>
+    <target_entity>NON-LAX PERSON</target_entity>
+    <relationship_description>Non-lax persons transcend the Death Lord's control, gaining extended life like an unshakeable mountain.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

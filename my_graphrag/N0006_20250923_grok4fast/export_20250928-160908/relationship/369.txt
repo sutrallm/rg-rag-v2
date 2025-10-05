@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD KARMA</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Accumulated good karma from diligence brings mental liberation and freedom from attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

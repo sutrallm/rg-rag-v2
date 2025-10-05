@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DIVINE BEINGS</target_entity>
+    <relationship_description>Saints earn respect from divine beings due to their enlightenment and attainment of Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEINGS</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Enlightened beings are free from greed, attachment, and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

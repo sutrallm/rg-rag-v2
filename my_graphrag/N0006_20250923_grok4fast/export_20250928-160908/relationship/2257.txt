@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_LEARNINGS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The full practice of the three learnings eradicates afflictions and leads to transcendence, aligning with the path to Nirvana.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

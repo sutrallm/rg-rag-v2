@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>VIGILANCE</target_entity>
+    <relationship_description>Practitioners maintain vigilance along with non-indulgence to master samadhi and avoid control by afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

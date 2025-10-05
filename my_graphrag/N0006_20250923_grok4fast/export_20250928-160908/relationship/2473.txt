@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>GOOD FRIEND</target_entity>
+    <relationship_description>Practitioners benefit from guidance by good friends who steer them from indolence to meditation and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

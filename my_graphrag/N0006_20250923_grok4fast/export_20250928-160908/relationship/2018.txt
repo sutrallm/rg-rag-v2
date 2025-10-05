@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Greed is a component of the three poisons, targeted for elimination in spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

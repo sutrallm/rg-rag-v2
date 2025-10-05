@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Emptiness leads to realization of no-self, dissolving the illusion of a permanent identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

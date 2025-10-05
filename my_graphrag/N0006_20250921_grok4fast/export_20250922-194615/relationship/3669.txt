@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>MERITS</target_entity>
+    <relationship_description>Non-laxity enables the progressive accumulation of merits.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

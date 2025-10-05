@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Delusion, with greed and hatred, traps people in evil realms through indulgent actions, preventing escape from samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

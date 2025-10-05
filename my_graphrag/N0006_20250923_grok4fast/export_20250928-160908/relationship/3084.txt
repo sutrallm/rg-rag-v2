@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_ONES</source_entity>
+    <target_entity>PRECEPTS_CONCENTRATION_WISDOM</target_entity>
+    <relationship_description>Holy ones possess the three trainings of precepts, concentration, and wisdom as their foundation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

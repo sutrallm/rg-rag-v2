@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Precepts support the cultivation of mental stillness in saints and practitioners.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

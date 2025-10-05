@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>THREE LEARNINGS</target_entity>
+    <relationship_description>Non-laxity enables the full realization and perfection of the three learnings by awakened ones.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE EIGHTFOLD PATH</source_entity>
+    <target_entity>PARINIRVANA</target_entity>
+    <relationship_description>Perfection of the noble eightfold path leads to dwelling in remainderless nirvana, free from samsaric suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

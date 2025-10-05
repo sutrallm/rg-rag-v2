@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>EVIL PATHS</target_entity>
+    <relationship_description>Upholding precepts enables practitioners to avoid falling into evil paths.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

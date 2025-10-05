@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DISSIPATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Non-dissipation avoids the control of afflictions and evil karma through vigilant practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Liberation fully overcomes samsara, freeing one from rebirth, fear, and the chains of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

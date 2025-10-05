@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Following the Buddha's teachings promotes continuous diligence in practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

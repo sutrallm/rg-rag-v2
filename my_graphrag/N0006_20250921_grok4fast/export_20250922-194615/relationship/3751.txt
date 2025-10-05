@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DEMOSTIC NETS</target_entity>
+    <relationship_description>Diligent and non-indulgent practice prevents falling into demonic nets or mental traps.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

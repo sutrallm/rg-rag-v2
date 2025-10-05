@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>WORLDLY DISTURBANCES</target_entity>
+    <relationship_description>Zen meditation facilitates detachment from worldly disturbances through the practice of focused mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

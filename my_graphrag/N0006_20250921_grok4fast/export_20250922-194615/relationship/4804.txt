@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS MEDITATION WISDOM</source_entity>
+    <target_entity>SUPERNATURAL POWERS</target_entity>
+    <relationship_description>Those who perfect precepts, meditation, and wisdom attain supernatural powers for guiding others.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

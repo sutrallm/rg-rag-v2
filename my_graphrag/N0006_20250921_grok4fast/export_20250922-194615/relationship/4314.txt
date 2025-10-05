@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>HEART LIBERATION</target_entity>
+    <relationship_description>Zen meditation results in the attainment of heart liberation for practitioners, leading to deeper insights and detachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

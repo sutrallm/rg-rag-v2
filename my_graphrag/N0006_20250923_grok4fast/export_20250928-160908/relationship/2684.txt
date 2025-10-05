@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY REALMS</target_entity>
+    <relationship_description>Saints who master precepts and wisdom earn respect from heavenly realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

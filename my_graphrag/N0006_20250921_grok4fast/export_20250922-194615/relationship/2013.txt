@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPERNATURAL POWERS</source_entity>
+    <target_entity>PAST LIFE KNOWLEDGE</target_entity>
+    <relationship_description>Supernatural powers encompass past life knowledge for understanding cycles of rebirth and transcending delusions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

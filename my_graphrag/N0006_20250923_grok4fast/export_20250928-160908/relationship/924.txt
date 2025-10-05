@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX PERFECTIONS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence is one of the six perfections cultivated by Bodhisattvas.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

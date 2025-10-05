@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-indolence leads to ultimate liberation and freedom from all bindings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

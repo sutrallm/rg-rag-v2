@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Accomplished practitioners become saints by mastering the three trainings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

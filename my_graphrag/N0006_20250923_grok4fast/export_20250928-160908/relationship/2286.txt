@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Non-indulgence and diligent practice enable transcending the wheel of birth and death samsara to achieve ultimate liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

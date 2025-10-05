@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IDLENESS</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Those who succumb to idleness fall under the control of Mara, the Lord of Death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

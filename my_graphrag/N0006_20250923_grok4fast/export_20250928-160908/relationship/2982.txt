@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Heedless practitioners are unable to escape the suffering of samsara, facing its endless cycle of torment including aging, illness, and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

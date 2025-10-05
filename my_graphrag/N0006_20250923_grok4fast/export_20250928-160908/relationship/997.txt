@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>Only by always avoiding 放逸 through 精進 can one truly master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Non-indulgence enables diligent practice of zen meditation, transcending mental distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

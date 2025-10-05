@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>戒律, along with wisdom and diligence, enables complete eradication of 烦恼 like greed, hatred, and ignorance through meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

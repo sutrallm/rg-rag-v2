@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Wisdom, along with precepts, defines saints who sever afflictions and transcend suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

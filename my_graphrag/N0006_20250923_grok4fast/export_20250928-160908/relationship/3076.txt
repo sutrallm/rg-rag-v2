@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>NON-NEGLIGENCE</target_entity>
+    <relationship_description>Afflictions grow from negligence and are subdued through non-negligent practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

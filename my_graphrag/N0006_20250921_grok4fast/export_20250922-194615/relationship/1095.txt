@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>THEME CLARIFICATION</target_entity>
+    <relationship_description>The query seeks clearer presentation of themes in the output.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

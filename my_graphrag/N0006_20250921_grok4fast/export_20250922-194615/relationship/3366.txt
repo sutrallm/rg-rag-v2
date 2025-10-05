@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Vigilance enables the true mastery of samadhi through continuous alertness and non-indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

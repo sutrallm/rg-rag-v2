@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>The enlightened being realizes no-self, leading to complete freedom from birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

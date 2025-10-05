@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Negligence causes entrapment in samsara's suffering and rebirth cycle.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

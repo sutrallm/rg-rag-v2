@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>FIVE BRANCHES</target_entity>
+    <relationship_description>Concentration practice requires being far from the five branches to achieve focused attention on the object.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

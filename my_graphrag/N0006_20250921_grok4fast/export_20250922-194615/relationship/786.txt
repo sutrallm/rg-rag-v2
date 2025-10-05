@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Noble ones transcend the suffering of birth, aging, illness, and death by cutting off all afflictions through precepts, wisdom, and mental cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

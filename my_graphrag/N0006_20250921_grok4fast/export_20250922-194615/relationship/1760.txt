@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>A practitioner who fully embodies discipline, wisdom, and tranquility becomes a saint, free from afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

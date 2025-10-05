@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Heedlessness leads to rebirth in evil realms filled with suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

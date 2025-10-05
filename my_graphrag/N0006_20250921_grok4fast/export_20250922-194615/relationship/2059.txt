@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Practitioners use mindfulness to guard their body and mind against temptations and defilements, stabilizing zen meditation and progressing to enlightenment stages.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

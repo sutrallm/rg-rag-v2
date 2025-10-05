@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Following teachings combined with continuous diligence allows practitioners to avoid heedlessness and the control of the Lord of Death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

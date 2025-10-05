@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Laxity attracts suffering and mental instability like a storm-torn tree.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

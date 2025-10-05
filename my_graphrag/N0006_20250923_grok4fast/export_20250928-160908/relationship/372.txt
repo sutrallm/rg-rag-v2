@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Recognizing impermanence helps transcend attachment to worldly illusions like dreams and bubbles.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

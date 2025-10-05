@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>GUARDING THE SENSES</target_entity>
+    <relationship_description>The practitioner performs guarding the senses by not attaching to sense objects during perception.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

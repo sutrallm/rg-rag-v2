@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Heedlessness amplifies hatred, leading to painful consequences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

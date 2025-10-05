@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Meditation provides the insight necessary to perceive impermanence, non-self, and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

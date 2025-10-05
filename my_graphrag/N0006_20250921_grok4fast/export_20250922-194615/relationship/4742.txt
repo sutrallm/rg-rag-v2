@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>EVIL PATHS</target_entity>
+    <relationship_description>Awareness combined with precepts avoids the downfall into evil paths by severing evil karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

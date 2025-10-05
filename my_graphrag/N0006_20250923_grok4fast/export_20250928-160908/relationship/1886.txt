@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Precepts form the foundation for developing concentration as the path to wisdom in the threefold training.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

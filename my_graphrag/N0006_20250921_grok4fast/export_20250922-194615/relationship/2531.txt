@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Mind liberation transcends the cycle of birth and death in samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

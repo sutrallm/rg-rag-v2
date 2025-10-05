@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREATHING</source_entity>
+    <target_entity>LIGHTNESS</target_entity>
+    <relationship_description>Focused breathing practice leads to the attainment of lightness, which calms stray thoughts and develops deeper concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

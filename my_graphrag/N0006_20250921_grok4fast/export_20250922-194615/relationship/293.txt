@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE LEARNINGS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is a key component of the three learnings possessed by saints.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

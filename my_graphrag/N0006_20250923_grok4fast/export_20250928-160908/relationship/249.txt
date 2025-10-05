@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DISSIPATION</target_entity>
+    <relationship_description>Diligence involves continuous effort without lapses, serving as the opposite of dissipation to achieve spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

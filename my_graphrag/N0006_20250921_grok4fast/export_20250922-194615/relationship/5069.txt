@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_INDOTENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-indolence leads to realizing Nirvana's peace through vigilant protection.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

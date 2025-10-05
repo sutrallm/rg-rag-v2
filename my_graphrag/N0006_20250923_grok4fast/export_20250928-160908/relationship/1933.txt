@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CAUSALITY</target_entity>
+    <relationship_description>Wisdom understands causality to avoid entanglement in desires and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

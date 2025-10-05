@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Teachings guide the practitioner toward diligence to avoid negligence and achieve mastery of meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLECT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Non-neglect avoids afflictions arising from sensory experiences by guarding the sense faculties with mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

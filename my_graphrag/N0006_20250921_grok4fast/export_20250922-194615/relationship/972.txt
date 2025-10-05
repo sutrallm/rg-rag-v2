@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-INDULGENCE</target_entity>
+    <relationship_description>Wisdom guides non-indulgence by protecting body and mind with mindfulness, avoiding evil and achieving pure rewards.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

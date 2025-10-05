@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>VIGILANCE</target_entity>
+    <relationship_description>Only through unwavering vigilance can practitioners truly master meditation, avoiding the pitfalls of indolence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

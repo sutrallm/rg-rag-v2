@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JHANAS</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Attaining the Jhanas prevents falling into the dangers of indulgence through non-indulgent effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

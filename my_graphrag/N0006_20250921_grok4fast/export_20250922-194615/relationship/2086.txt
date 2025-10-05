@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Only by always maintaining non-laxity via diligence can practitioners truly master zen meditation methods and avoid birth and death's cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

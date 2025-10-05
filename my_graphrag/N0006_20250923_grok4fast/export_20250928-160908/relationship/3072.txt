@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>HOLY_PATH</target_entity>
+    <relationship_description>Non-negligence is essential for progressing along the holy path to saintly achievements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

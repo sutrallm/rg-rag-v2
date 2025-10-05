@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>PEACE AND JOY</target_entity>
+    <relationship_description>Diligent non-lax practice allows practitioners to overcome obstacles like laxity and afflictions, obtaining true inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

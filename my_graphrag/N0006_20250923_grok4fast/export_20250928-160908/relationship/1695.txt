@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Precepts, concentration, and wisdom form the integrated qualities of saints.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

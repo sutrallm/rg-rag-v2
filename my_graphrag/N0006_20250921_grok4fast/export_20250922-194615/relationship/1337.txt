@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FA NIAN CHU</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>Dharmas contemplation observes the five aggregates, clearly knowing their arising, cessation, and conditions to break attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

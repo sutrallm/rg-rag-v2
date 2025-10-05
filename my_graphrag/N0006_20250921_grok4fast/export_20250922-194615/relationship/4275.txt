@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Wisdom provides insight to directly eliminate afflictions by understanding their illusory nature, such as impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

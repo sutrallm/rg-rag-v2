@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Enlightenment leads to the ultimate state of Nirvana, free from rebirth and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

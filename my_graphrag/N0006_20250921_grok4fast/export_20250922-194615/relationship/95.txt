@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Advanced practitioners become saints through full realization of precepts and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

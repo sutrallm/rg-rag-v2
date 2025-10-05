@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Greed is a component of the three poisons that collectively bind and torment practitioners.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

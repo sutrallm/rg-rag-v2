@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE FETTERS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The five fetters are specific types of afflictions that bind the mind and are eradicated for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Saints transcend the suffering of birth, aging, sickness, and death by eradicating afflictions through their possession of precepts, wisdom, and diligence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

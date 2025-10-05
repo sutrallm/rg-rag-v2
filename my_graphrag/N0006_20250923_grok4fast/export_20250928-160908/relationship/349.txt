@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>GOOD KARMA</target_entity>
+    <relationship_description>Diligent practitioners accumulate good karma leading to mental and wisdom liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Mindfulness serves as a remedy to negligence, preventing the growth of afflictions and promoting diligent practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

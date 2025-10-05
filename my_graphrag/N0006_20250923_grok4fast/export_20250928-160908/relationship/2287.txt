@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Noble ones who possess precepts and wisdom, eradicate afflictions, and transcend suffering are respected even by heavenly beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

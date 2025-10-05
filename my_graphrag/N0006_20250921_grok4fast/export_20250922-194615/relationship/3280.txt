@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHORS</source_entity>
+    <target_entity>DHARMA MEANING</target_entity>
+    <relationship_description>Metaphors in the original text should be converted directly into dharma meaning for clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Continuous diligence in spiritual practice is essential for attaining Nirvana and achieving ultimate liberation from afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

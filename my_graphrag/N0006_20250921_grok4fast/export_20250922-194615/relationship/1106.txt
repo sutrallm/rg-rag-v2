@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>TEST OR EXAMPLE QUERY</target_entity>
+    <relationship_description>The query may be interpreted as a test case needing supplementary details for processing.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

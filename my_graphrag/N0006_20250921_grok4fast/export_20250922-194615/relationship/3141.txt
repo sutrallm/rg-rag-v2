@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Complete precepts combined with wisdom define the qualities of saints who sever all troubles and pains through mental discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

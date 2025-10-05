@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>SHENG LAO BING SI</target_entity>
+    <relationship_description>Noble ones transcend the sufferings of birth, old age, sickness, and death by eradicating afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

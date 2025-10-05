@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL CONTENT</source_entity>
+    <target_entity>BUDDHIST SCRIPTURES</target_entity>
+    <relationship_description>The original content is exemplified by Buddhist scriptures, which serve as the type of material expected for processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

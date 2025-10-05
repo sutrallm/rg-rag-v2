@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODHISATTVA</source_entity>
+    <target_entity>GIVING</target_entity>
+    <relationship_description>Bodhisattvas修习 giving to benefit sentient beings and accumulate merits.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

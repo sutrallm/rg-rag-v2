@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEINGS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy beings possess wisdom, enabling them to abide in tranquility and eradicate afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOURTH JHANA</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>The fourth jhana accomplishes equipoised right concentration as a form of samadhi.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

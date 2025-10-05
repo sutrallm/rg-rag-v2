@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Wisdom in saints and practitioners thoroughly eradicates afflictions, troubles, and pains through insight and mental control.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

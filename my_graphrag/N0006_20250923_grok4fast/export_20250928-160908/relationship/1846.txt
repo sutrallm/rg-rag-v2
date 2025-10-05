@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>SENSORY OBJECTS</target_entity>
+    <relationship_description>Observation of impermanence reveals that sensory objects are transient illusions, preventing attachment and delusion by desires.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

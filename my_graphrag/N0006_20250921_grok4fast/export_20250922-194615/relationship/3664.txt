@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>The awakened remain unattached to the five aggregates, severing the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

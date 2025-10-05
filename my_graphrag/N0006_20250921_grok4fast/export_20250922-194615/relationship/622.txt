@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE REALMS</source_entity>
+    <target_entity>EMPTY SELF-NATURE</target_entity>
+    <relationship_description>The three realms are perceived as having empty self-nature through meditative insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念 enables focused concentration essential for entering and maintaining 禅定, free from scattering and afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

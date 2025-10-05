@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Meditation is the primary means to achieve mental liberation by fostering insight and detachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

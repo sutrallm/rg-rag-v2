@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Awakened beings permanently end the cycle of afflictions and samsara (永断烦恼轮回).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

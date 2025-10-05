@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DILIGENT_PRACTICE</target_entity>
+    <relationship_description>Mastering meditation requires continuous diligent practice without idleness to avoid the Lord of Death and attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>修行者 through 禪定 escape 放逸 along with afflictions to gain inner peace and purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

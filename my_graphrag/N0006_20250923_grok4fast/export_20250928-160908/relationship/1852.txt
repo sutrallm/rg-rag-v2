@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARAHANT FRUIT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Achieving the Arahant fruit allows one to dwell eternally in Nirvana, escaping all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

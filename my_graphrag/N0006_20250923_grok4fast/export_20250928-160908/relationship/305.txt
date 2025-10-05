@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>GOOD SPIRITUAL FRIEND</target_entity>
+    <relationship_description>The practitioner benefits from association with a good spiritual friend for correct guidance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

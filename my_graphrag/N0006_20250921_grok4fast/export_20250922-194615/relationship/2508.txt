@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DIVINE_BEINGS</target_entity>
+    <relationship_description>Saints earn respect from divine beings due to their perfected spiritual qualities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

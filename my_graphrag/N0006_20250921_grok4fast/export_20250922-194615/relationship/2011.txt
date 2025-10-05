@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>SUPERNATURAL POWERS</target_entity>
+    <relationship_description>Non-indolent practitioners develop supernatural powers like divine eye and past life knowledge through diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

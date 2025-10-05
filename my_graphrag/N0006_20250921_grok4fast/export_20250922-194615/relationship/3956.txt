@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Attachments are forms of afflictions that bind practitioners to worldly cycles.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

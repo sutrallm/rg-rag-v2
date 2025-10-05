@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IDLENESS</source_entity>
+    <target_entity>CYCLE OF BIRTH AND DEATH</target_entity>
+    <relationship_description>Idleness binds practitioners to the cycle of birth and death, which is escaped through diligent, non-idle practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

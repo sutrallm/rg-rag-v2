@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENT PRACTICE</source_entity>
+    <target_entity>ETERNAL PEACE</target_entity>
+    <relationship_description>Always maintaining non-indulgent practice results in eternal peace as the fruit of persistent effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

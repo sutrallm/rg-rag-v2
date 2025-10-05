@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Meditation enables insight into impermanence through mental liberation and clear recognition of transience in all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

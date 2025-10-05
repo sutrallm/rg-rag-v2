@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL SEQUENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Adhering to the spiritual sequence without reversal leads to ultimate liberation from afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

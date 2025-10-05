@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Mind liberation is attained through mastery of Samadhi, progressing through jhanas as stages of meditative absorption.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

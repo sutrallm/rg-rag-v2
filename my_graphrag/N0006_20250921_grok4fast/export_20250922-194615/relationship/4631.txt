@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>PURE MIND</target_entity>
+    <relationship_description>Mindfulness ensures awareness of all phenomena, leading to a pure mind undisturbed by externals.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

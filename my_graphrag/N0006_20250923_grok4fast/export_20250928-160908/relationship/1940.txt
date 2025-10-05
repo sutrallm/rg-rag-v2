@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The threefold training dispels delusion by fostering clear wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL KARMA</source_entity>
+    <target_entity>BITTER FRUITS</target_entity>
+    <relationship_description>Evil karma leads to summoning bitter fruits.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

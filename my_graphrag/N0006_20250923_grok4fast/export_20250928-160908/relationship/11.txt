@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JHANAS</target_entity>
+    <relationship_description>Through diligent meditation, practitioners attain the joy and peace of the first to fourth Jhanas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Through meditation, one attains mind liberation, leading to profound awareness of the impermanence of all worldly phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

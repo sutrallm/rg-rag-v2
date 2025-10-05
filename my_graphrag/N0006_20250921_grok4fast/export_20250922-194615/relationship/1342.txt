@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FA NIAN CHU</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Dharmas contemplation clearly knows the impermanence via arising, cessation, and conditions of the five aggregates, five hindrances, and six sense bases and objects.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

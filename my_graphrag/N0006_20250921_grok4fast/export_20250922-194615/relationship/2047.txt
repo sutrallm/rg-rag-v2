@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>智慧 allows profound insight into the 无常 essence of all worldly phenomena and dharmas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

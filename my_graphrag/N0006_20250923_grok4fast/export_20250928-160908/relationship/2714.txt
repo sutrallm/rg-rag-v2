@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>PROCESSING REQUIREMENTS</target_entity>
+    <relationship_description>The user specified a detailed set of processing requirements to be applied to the original text, focusing on simplification and doctrinal emphasis.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

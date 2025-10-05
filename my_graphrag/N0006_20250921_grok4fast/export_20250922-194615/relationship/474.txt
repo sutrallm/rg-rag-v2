@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence enables mastery of meditation, freeing one from domination by greed and other afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

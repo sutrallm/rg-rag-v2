@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DEATH AND REBIRTH</target_entity>
+    <relationship_description>Diligent practice allows transcendence of the sufferings associated with death and the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

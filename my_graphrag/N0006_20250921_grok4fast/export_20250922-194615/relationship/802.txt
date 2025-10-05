@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>GREED HATRED DELUSION</target_entity>
+    <relationship_description>Awakened ones completely extinguish greed, hatred, and delusion through mindful Zen meditation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

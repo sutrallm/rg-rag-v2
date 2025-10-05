@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYMPATHETIC_JOY</source_entity>
+    <target_entity>FOUR IMEASURABLES</target_entity>
+    <relationship_description>Sympathetic joy is integrated into the four immeasurables to foster positive mental states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

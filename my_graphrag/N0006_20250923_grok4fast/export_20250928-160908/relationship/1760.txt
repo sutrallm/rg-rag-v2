@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Observing precepts supports dwelling in quietude and developing concentration for zen meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

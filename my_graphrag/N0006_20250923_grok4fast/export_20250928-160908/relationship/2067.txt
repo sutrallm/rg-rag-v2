@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Hatred contributes to the ongoing torment of samsara for the lax.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

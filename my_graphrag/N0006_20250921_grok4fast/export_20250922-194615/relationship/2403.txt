@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Buddha's teachings on non-indulgence form the fundamental path to liberation from suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

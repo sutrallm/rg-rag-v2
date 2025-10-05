@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Practitioners possess precepts along with wisdom as essential qualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

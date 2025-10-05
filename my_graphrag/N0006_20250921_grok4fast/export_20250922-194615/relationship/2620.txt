@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Sages possess precepts as a foundational quality, combined with wisdom to cultivate quietude and end afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

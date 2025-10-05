@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GIVING</source_entity>
+    <target_entity>MERITS</target_entity>
+    <relationship_description>Giving contributes to the accumulation of immeasurable merits by bodhisattvas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

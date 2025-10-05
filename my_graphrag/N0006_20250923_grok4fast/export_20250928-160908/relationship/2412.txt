@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners achieve liberation by diligently practicing meditation, non-laxity, and the threefold training to free the mind from afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>NOBLE BEINGS</target_entity>
+    <relationship_description>The three trainings of morality, concentration, and wisdom define the qualities of noble beings who eradicate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

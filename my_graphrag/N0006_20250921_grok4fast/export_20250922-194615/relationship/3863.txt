@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Even the devas develop a mind of respect for such saints, viewing them as upper persons or noble ones.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

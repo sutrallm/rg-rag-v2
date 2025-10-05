@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Pure precepts, when cultivated with meditation, give rise to the light of wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

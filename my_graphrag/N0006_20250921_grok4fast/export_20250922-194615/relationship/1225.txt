@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE DHARMA</source_entity>
+    <target_entity>EVIL PATHS</target_entity>
+    <relationship_description>True dharma practice allows one to stay away from evil paths and wrong views.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

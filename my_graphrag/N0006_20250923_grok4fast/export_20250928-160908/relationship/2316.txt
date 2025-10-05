@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Meditation overcomes delusion by fostering a clear, undisturbed mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

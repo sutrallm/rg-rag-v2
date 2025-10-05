@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENT PERSON</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Indolent persons contrast with practitioners, suffering endlessly without the benefits of diligence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

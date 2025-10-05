@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Hatred forms part of the three poisons obstructing liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE LOWER FETTERS</source_entity>
+    <target_entity>SUPREME LIBERATION</target_entity>
+    <relationship_description>Eradicating the five lower fetters results in supreme liberation from all bonds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

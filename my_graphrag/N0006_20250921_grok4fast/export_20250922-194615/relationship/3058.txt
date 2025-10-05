@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DELUSIONS</target_entity>
+    <relationship_description>Mindfulness through observation breaks through and eliminates delusions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

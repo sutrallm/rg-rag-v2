@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED_ANGER_DELINUSION</source_entity>
+    <target_entity>NON-NEGLIGENCE</target_entity>
+    <relationship_description>Greed, anger, and delusion dominate during negligence, countered by non-negligent vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

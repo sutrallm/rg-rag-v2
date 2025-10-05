@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints possess wisdom as part of the complete set with precepts and meditation, leading to the elimination of defilements and respect from devas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

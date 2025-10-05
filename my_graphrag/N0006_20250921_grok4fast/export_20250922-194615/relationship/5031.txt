@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>REALMS</target_entity>
+    <relationship_description>Attachment involves clinging to realms, which is transcended by those with mental liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

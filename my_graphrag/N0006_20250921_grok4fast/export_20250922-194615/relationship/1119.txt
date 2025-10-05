@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Indolence leads to rebirth in evil realms due to accumulated negative karma.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

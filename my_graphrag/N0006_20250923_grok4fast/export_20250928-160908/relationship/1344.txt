@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>ARROW PIERCING HEART</target_entity>
+    <relationship_description>Hatred wounds like an arrow, healed by compassionate practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

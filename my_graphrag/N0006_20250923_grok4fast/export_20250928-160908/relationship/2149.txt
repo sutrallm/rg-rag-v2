@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MENTAL_LIBERATION</target_entity>
+    <relationship_description>Practitioners achieve mental liberation through meditation, which frees the mind and enables non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

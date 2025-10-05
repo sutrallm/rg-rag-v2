@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>The mind is contemplated for the arising and passing of greed without following it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE HINDRANCES</source_entity>
+    <target_entity>FIRST JHANA</target_entity>
+    <relationship_description>Removing the five hindrances through meditation leads directly to the attainment of the first jhana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

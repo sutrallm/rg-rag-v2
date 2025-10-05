@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Liberation involves freedom from suffering and pains through practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

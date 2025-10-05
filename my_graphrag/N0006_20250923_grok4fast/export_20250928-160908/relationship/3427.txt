@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>WORLDLY_JOYS</target_entity>
+    <relationship_description>Greed fuels attachment to worldly joys, which are temporary and inferior to meditative bliss.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

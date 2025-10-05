@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Wisdom arises from mind liberation, enabling non-attachment and insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

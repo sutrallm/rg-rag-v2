@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Practitioners undertake diligent practice to control the mind and protect against distractions, ensuring meditation success.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

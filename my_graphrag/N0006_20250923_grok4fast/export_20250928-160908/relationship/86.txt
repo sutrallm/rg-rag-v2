@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Through meditation, practitioners escape indulgence and achieve inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

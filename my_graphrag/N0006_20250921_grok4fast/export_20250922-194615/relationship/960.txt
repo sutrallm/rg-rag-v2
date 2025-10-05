@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANT ONE</source_entity>
+    <target_entity>WORLD</target_entity>
+    <relationship_description>Vigilant ones receive consistent respect from the world due to their profound merits from non-indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

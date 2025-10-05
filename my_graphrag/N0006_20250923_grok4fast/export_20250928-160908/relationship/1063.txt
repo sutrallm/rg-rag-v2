@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR BASES OF POWER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Possessing the four bases of power enables the complete extinction of afflictions through diligent practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

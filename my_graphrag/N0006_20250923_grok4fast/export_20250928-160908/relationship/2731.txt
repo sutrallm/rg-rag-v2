@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Awakened ones thoroughly transcend death, along with birth, aging, and sickness, without attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

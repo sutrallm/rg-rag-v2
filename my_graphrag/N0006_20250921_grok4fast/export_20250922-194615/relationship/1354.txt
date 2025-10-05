@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>TIAN REN</target_entity>
+    <relationship_description>Perfectly accomplished noble ones inspire respect in heavenly beings.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

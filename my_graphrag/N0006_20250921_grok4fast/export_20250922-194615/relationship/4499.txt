@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Understanding no-self eliminates clinging and self-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

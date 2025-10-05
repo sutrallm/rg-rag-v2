@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts are the foundation for wisdom, enabling eradication of afflictions and successful practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

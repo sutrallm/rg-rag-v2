@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JHANAS</source_entity>
+    <target_entity>FORM REALM</target_entity>
+    <relationship_description>Achieving the jhanas allows transcendence beyond the form realm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BIRTH AGING ILLNESS DEATH</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Birth, aging, illness, and death are manifestations of impermanence that practitioners contemplate for awakening.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

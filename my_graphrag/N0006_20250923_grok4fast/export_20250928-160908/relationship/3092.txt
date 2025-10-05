@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_ONES</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Holy ones employ mindfulness to observe the body and mind without negligence in all times and places.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

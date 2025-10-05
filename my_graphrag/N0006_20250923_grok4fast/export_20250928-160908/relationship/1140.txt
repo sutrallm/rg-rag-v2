@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONES</source_entity>
+    <target_entity>FOUR FLOWS</target_entity>
+    <relationship_description>Awakened ones transcend the four flows, living freely in the world like birds in the sky and abiding in liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

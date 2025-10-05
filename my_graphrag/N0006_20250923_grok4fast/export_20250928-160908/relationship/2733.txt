@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>DISSIPATION</target_entity>
+    <relationship_description>Samadhi requires avoiding dissipation to master its methods and gain inner peace, escaping from negligence-induced troubles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

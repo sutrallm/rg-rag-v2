@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-laxity enables practitioners to protect themselves and others, gaining happiness and benefiting the world.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

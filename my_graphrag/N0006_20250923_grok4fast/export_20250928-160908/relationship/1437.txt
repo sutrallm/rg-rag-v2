@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EQUALITY VIEW</source_entity>
+    <target_entity>COMPASSION</target_entity>
+    <relationship_description>The equality view develops compassion, breaking ego-clinging and leading to ultimate happiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

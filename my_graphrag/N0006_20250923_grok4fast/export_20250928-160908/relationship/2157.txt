@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Diligence enables practitioners to avoid laxity, ensuring they do not fall under Mara's control and can master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Precepts form part of the foundation for saints who diligently practice zen meditation to achieve tranquility and sever afflictions.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

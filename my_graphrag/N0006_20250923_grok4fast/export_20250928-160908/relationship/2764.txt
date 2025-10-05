@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Diligence in cultivating the mind is a characteristic of saints who possess precepts and wisdom and abide in tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

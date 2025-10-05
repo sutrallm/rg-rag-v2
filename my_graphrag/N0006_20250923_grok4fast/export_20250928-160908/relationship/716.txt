@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEITIES</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Deities find it impossible to reach the level of saints, who embody perfect precepts, wisdom, and diligence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

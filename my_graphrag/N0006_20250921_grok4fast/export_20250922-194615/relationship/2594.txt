@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Mindfulness is combined with focused mind in meditation to escape laxity, troubles, and achieve inner peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>KYCLIC SUFFERING</target_entity>
+    <relationship_description>Nirvana is freedom from cyclic suffering, achieved by ending afflictions and poisons.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

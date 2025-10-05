@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAN ZEN</source_entity>
+    <target_entity>LI XI</target_entity>
+    <relationship_description>San Zen involves Li Xi from joy, for equanimous awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

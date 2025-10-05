@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION OF THE MIND</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Liberated minds do not cling to attachments, even in pursuit of results.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

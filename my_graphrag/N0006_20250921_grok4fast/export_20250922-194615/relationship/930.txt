@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHTFUL WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Insightful wisdom allows perception of impermanence, which is central to achieving mental liberation and transcending desires.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

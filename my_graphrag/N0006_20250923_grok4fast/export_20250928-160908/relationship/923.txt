@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODHISATTVA</source_entity>
+    <target_entity>SENTIENT BEINGS</target_entity>
+    <relationship_description>Bodhisattvas use compassion and the six perfections to guide sentient beings out of the sea of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

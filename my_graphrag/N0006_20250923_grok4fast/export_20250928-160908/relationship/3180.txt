@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Heart liberation discerns the non-self nature of worldly things, aiding transcendence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENT PRACTICE PATH</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>The non-indolent path distances one from the three poisons of greed, anger, and delusion to eliminate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

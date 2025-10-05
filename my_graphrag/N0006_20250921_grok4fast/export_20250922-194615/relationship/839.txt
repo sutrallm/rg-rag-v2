@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Awakened ones use mindfulness to perceive desires' falsity and cut off afflictions for supreme peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

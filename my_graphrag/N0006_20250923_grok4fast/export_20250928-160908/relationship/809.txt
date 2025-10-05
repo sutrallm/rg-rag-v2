@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TITLES</source_entity>
+    <target_entity>THEMES</target_entity>
+    <relationship_description>Reorganized titles aim to make underlying themes clearer.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

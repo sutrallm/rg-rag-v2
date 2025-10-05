@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SELF-REFLECTION</target_entity>
+    <relationship_description>The practitioner engages in constant self-reflection to counteract indolence, laziness, and distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

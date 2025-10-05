@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_EIGHTFOLD_PATH</source_entity>
+    <target_entity>NIBBANA</target_entity>
+    <relationship_description>Full possession of the Noble Eightfold Path cuts off all habitual tendencies, attaining the unconditioned nibbana without remainder.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT MINDFULNESS</source_entity>
+    <target_entity>SENSE FACULTIES</target_entity>
+    <relationship_description>Right mindfulness guards the sense faculties against invasions by greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

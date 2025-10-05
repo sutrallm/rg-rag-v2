@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDS LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Mind liberation enables transcendence of attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

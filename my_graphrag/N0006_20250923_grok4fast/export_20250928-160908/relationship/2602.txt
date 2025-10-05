@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Awakened ones eternally escape the suffering of birth and death in samsara by observing body and mind with mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

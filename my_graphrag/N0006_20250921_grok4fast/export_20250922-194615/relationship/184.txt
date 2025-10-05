@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>Liberated 修行者 do not attach to any 境界, even when pursuing meditative 成果.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

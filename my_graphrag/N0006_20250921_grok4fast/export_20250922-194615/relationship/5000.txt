@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>NOBLE ONE</target_entity>
+    <relationship_description>Awakened beings represent the ultimate realization of noble ones' path, free from all afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

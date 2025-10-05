@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Wisdom thoroughly extinguishes craving, enabling the mind to abide in stillness beyond samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

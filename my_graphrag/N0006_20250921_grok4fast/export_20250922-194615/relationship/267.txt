@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>VIGILANCE</target_entity>
+    <relationship_description>Practitioners maintain vigilance to avoid sensory pleasures and dangers, leading to inner peace and liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

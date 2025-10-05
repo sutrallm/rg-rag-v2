@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The query contains a placeholder for the original text but lacks the actual content after the specified delimiter.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

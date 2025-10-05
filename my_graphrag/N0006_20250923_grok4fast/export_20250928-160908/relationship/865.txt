@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM LIBERATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Wisdom liberation, attained with precepts and insight, results in freedom from the cycle of rebirth and all afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

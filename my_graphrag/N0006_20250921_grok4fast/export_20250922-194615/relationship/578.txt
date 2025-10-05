@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>HOLY BEING</target_entity>
+    <relationship_description>Compassion complements precepts and wisdom in forming the holy being's state, free from pains and respected universally.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

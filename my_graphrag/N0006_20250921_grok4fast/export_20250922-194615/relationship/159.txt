@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NON-INDOLENCE</target_entity>
+    <relationship_description>The practitioner maintains non-indolence as the core mindset for diligent practice and mental stability.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

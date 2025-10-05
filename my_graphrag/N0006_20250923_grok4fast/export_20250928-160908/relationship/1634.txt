@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN FACTORS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Breaking greed and attachment to zen factors is necessary to transcend realms and attain Nirvana.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

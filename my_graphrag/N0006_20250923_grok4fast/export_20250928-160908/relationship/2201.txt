@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CI BEI XIN</source_entity>
+    <target_entity>ZEN DING</target_entity>
+    <relationship_description>Ci Bei Xin promotes Zen Ding's deepening by softening the mind and filling it with positive energy against selfishness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NOBLE ONE</target_entity>
+    <relationship_description>Noble ones are advanced practitioners who embody precepts, wisdom, and end afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

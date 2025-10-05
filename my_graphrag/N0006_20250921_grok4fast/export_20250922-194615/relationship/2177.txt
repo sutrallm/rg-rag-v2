@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IDLENESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Only through continual avoidance of idleness can practitioners attain the freedom of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

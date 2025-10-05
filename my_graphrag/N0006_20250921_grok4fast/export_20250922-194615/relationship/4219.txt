@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Practitioners must abandon greed to attain liberation and joy, as it torments the mind like hunger.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

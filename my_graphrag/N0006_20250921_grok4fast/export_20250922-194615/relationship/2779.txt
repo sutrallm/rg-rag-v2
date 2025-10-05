@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILENCE</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Silence in meditation brings joy as a benefit of overcoming hindrances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PAST LIFE KNOWLEDGE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Past life knowledge allows insight into cycles of rebirth and wheel of samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

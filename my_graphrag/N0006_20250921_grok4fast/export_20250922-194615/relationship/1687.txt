@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>CYCLE OF REBIRTH</target_entity>
+    <relationship_description>Craving perpetuates the cycle of rebirth, which is transcended by cutting it off through diligence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_NOBLE_TRUTHS</source_entity>
+    <target_entity>CESSATION_OF_SUFFERING</target_entity>
+    <relationship_description>The Cessation of Suffering is the third component of the Four Noble Truths, the goal of practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

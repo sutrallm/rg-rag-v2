@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Relying on mindfulness with vigilance avoids the scattered and unrestrained state of indolence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

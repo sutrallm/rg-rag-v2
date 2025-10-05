@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Tranquility abiding in meditation surpasses worldly pleasures and gives rise to the supreme path of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

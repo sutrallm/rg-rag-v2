@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>FOUR SUFFERINGS</target_entity>
+    <relationship_description>Suffering encompasses the four sufferings of birth, old age, sickness, and death, which are transcended beyond.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

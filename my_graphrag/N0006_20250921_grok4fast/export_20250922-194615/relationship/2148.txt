@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Adhering to teachings enables the true mastery of the method of meditation through persistent non-heedlessness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

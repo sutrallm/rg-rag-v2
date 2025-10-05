@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>EVIL_DHARMA</target_entity>
+    <relationship_description>Wisdom discerns the true nature of phenomena, eradicates all evil dharmas, delusions, and attachments, leading to freedom from the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

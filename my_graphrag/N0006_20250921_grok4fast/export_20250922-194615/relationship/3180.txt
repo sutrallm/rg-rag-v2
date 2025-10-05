@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Practitioners achieve mental liberation through meditation, gaining insight into impermanence and avoiding attachment to any realms or outcomes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

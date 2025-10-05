@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Diligent practice characterizes saints who cultivate their minds assiduously.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

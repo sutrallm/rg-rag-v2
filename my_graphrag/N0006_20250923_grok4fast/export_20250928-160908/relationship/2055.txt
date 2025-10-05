@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NOBLE BEING</target_entity>
+    <relationship_description>Noble beings are advanced practitioners who possess precepts, wisdom, and diligence to eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

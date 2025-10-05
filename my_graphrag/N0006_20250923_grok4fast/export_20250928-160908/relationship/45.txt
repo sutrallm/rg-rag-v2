@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Non-indulgence allows practitioners to confront death as a demon king and avoid its control, unlike indulgence which leads to succumbing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

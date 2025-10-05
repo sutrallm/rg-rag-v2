@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>NON-INDOLENCE</target_entity>
+    <relationship_description>Indolence is the opposite of non-indolence, leading to downfall where non-indolence provides protection and vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

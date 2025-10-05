@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_INDUCEMENT</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Non-indulgence directly counters indulgence, preventing its harms and enabling the benefits of diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

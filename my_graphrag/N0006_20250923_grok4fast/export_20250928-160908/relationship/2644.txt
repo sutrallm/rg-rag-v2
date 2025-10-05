@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Heedlessness leads to afflictions through sensory pleasures and delusions, causing suffering and mental scatter.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Zen Meditation relies on focused heart and mindfulness to achieve distance from distractions and inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

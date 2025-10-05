@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PARAGRAPH THEME</source_entity>
+    <target_entity>PARAGRAPH THEME</target_entity>
+    <relationship_description>The themes of paragraphs in the original text are to be made clearer in the processed version.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

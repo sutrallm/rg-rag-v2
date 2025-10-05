@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Cultivating the Four Foundations of Mindfulness enables the practitioner to achieve liberation, non-retrogression, and arahantship.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

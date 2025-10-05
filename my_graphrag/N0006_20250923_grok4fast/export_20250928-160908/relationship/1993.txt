@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH DEMON KING</target_entity>
+    <relationship_description>The practitioner transcends the threat of the Death Demon King through sustained vigilance and mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

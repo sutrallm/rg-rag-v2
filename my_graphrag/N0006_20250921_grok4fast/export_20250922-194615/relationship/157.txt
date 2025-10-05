@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>The noble path includes concentration through meditation, grounded in non-negligence for complete fulfillment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

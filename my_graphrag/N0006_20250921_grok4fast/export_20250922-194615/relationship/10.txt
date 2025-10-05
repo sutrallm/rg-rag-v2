@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Wisdom prevents actions fueled by greed, viewing indulgence as a dangerous pit and choosing the path of non-harm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Dwelling in tranquility helps practitioners and saints thoroughly eradicate various afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

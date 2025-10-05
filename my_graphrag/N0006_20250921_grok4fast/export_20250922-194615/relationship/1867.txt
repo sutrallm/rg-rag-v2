@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Diligence is essential for mastering meditation and avoiding negligence in spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

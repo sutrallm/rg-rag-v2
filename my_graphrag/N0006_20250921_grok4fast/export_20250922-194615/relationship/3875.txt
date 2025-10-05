@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROVIDED MESSAGE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The provided message explicitly states that it lacks the original text, making translation and processing impossible without it.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>LORD OF DEATH</target_entity>
+    <relationship_description>Heedlessness leads to bondage and control by the Lord of Death, which is avoided through vigilant practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

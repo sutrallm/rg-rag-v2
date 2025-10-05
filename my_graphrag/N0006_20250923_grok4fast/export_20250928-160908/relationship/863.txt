@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>THREE EVIL REALMS</target_entity>
+    <relationship_description>Beings bound by greed, hatred, and delusion fall into the three evil realms, enduring long eons of torment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

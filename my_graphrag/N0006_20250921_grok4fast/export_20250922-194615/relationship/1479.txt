@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HEART LIBERATION</target_entity>
+    <relationship_description>Practitioners achieve heart liberation through meditation, enabling insight into impermanence and freedom from attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

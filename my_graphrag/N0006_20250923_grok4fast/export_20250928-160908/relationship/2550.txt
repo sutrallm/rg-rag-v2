@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE LAW</source_entity>
+    <target_entity>EVIL PATHS</target_entity>
+    <relationship_description>Adhering to true law helps avoid falling into evil paths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>KYCLIC SUFFERING</target_entity>
+    <relationship_description>Greed, with anger and delusion, perpetuates cyclic suffering, ended by wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

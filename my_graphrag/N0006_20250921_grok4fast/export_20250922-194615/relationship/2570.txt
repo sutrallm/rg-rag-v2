@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Non-indolence helps eliminate hatred by maintaining mental focus and stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

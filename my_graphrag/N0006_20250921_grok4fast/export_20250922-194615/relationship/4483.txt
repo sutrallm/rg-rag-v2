@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Wisdom reveals emptiness through contemplation, leading to transcendence of the net of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

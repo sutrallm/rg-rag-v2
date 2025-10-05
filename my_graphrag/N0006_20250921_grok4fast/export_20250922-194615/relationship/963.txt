@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL DEEDS</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Evil deeds are committed by the indulgent, leading to irreversible death and suffering in evil realms.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

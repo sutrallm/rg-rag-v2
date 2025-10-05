@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Lax individuals, bound by afflictions like greed and delusion, fall into evil realms of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

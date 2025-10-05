@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>IDLENESS</target_entity>
+    <relationship_description>Diligence is the opposite of idleness, enabling clear-sighted progress on the holy path while idleness leads to torment and darkness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

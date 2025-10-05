@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>OBSTACLES</target_entity>
+    <relationship_description>Diligent practice overcomes obstacles through continuous effort like a flowing river.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

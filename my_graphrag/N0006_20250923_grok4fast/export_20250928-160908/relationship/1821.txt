@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_INDUCEMENT</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Non-indulgence keeps practitioners far from evil karma and its consequences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

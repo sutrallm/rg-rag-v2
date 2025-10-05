@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Possession and observance of precepts, combined with wisdom, define the qualities of saints.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

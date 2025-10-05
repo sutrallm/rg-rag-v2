@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHEN NIAN CHU</source_entity>
+    <target_entity>XING ZHE</target_entity>
+    <relationship_description>Practitioners use body contemplation to maintain mindfulness without attachment to the body.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAX PRACTICE</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>Non-lax practice includes hearing and reflecting on the Dharma to guide proper intention and contemplation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

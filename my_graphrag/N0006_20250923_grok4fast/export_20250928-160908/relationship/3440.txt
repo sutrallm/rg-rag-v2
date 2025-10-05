@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Mindfulness cuts off hatred as one of the three poisons through observation of impermanence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

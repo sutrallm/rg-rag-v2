@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Practitioners eradicate the three poisons to transcend binding influences and gain complete freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

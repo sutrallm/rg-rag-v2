@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT DHARMA</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Following the right Dharma along with diligence allows avoidance of control by evil karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

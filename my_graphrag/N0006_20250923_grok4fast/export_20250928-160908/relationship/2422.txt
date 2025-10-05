@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Meditation leads to heart liberation and wisdom that transcends attachments without being bound by meditative achievements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

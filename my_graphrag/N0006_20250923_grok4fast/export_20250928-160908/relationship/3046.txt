@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CYCLE OF SUFFERING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation provides escape from the cycle of suffering, which is the outcome of breaking afflictions through diligent practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

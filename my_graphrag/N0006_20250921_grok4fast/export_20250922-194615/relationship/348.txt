@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Practitioners avoid attachment to any phenomena, realms, or even liberation fruits through clear insight and non-clinging, achieving unbound freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

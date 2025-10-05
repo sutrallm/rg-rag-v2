@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MERITS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Accumulated merits enable the breakthrough and overcoming of the bonds of afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

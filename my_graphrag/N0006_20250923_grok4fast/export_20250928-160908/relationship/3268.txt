@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners follow the Buddha's teachings on diligence and non-idleness to avoid the Death Demon King and master Zen methods.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

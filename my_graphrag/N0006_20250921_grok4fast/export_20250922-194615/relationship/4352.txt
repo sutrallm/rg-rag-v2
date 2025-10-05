@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>禅定 allows 修行者 to escape 放逸, contrasting with negligence that hinders meditative achievement.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

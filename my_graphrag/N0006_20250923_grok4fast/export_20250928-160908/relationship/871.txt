@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Practitioners endowed with wisdom, along with precepts, eradicate defilements and transcend all suffering and samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

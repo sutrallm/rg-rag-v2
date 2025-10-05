@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mental liberation is achieved through meditation, leading to insight and ultimate freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

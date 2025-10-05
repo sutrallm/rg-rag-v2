@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTITIONER</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Diligent practitioners understand no-self to attain full enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

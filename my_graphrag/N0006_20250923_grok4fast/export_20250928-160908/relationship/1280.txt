@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEING</source_entity>
+    <target_entity>DEITIES</target_entity>
+    <relationship_description>Holy beings, through their qualities of precepts and wisdom, are respected even by deities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

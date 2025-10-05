@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>LIBERATION REALM</target_entity>
+    <relationship_description>Awakened ones abide in the untainted liberation realm through mindful Zen meditation, free from birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

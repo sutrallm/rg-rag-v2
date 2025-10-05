@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>FOUR JHANAS AND EIGHT ABSORPTIONS</target_entity>
+    <relationship_description>Diligent practice achieves the four jhanas and eight absorptions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-indolence benefits practitioners by helping them avoid afflictions and achieve inner peace through focused mindfulness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

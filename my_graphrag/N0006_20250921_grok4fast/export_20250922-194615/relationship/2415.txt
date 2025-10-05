@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR JHANAS</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Entering the four jhanas produces joy, lightness, equanimity, and pure mindfulness, thereby achieving mind liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

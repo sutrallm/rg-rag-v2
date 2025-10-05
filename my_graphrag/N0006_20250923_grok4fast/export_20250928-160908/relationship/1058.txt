@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DESIRE REALM</target_entity>
+    <relationship_description>Mindfulness observes the arising and ceasing of greed to sever attachment to the desire realm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

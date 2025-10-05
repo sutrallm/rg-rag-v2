@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Mind liberation enables practitioners to avoid attachment to realms and not be bound by pursuit of results.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

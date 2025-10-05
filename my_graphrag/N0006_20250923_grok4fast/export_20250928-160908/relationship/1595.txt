@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DEMONIC FORCES</target_entity>
+    <relationship_description>Mindfulness, with diligence, prevents demonic forces from invading the heart.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>SENSE GATES</target_entity>
+    <relationship_description>Mindfulness is used by awakened practitioners to guard sense gates against desires and maintain freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

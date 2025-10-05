@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WRONG VIEWS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wrong views lead to indulgence in desires and immeasurable suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

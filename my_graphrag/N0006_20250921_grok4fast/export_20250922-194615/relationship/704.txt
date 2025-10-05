@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER'S QUERY</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The user's query explicitly referenced and intended to provide the original content but omitted it after the indicated marker.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

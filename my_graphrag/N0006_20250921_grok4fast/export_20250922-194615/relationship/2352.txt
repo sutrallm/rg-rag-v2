@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Mental liberation through zen meditation aligns with the qualities of saints who achieve tranquility and transcendence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

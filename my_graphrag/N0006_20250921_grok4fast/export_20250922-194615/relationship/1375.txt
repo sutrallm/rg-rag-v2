@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Vigilance involves right mindfulness as a core practice to avoid distractions and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

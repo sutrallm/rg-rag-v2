@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEAVENLY BEINGS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Heavenly beings hold saints in awe due to their transcendent state beyond afflictions and suffering.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

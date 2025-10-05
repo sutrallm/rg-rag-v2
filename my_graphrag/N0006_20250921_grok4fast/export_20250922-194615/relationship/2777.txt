@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SILENCE</target_entity>
+    <relationship_description>Meditation enables stable abiding in silence, free from external disturbances and hindrances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

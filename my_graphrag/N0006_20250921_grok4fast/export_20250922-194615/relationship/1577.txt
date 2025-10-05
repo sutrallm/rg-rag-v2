@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GIVING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Giving purifies greed and accumulates merit without attachment, aiding liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SECOND JHANA</source_entity>
+    <target_entity>THIRD JHANA</target_entity>
+    <relationship_description>The second jhana is surpassed, leading to the equanimous pleasure of the third jhana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

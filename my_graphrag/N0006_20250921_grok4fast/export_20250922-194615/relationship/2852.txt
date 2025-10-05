@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>PATH OF LIBERATION</target_entity>
+    <relationship_description>Renunciation directs practitioners to focus on the path of liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

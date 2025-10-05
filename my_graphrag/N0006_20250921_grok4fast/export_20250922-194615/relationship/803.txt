@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION REALM</source_entity>
+    <target_entity>BIRTH AGING SICKNESS DEATH</target_entity>
+    <relationship_description>The liberation realm provides permanent escape from the sufferings of birth, aging, sickness, and death for the awakened.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

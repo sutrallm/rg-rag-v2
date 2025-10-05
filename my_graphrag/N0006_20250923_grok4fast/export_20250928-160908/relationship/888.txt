@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>The practitioner attains enlightenment by understanding truth through wisdom and meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

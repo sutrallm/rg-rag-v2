@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSIONS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Delusions contribute to afflictions that bind the mind, both avoided through practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

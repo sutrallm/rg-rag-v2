@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>AFFLICTION</target_entity>
+    <relationship_description>Laxity leads to being overwhelmed and controlled by afflictions, metaphorically like being devoured by a fierce beast.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

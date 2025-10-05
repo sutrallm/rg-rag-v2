@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Awakened ones attain their state through wisdom that eradicates all afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

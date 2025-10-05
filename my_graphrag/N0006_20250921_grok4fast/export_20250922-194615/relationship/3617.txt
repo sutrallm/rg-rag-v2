@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHYANA</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Through dhyana, practitioners escape heedlessness and achieve inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

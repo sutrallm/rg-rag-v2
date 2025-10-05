@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>Perfected wisdom results in no longer being led or influenced by karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

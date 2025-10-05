@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Noble ones transcend suffering by eradicating defilements and abiding in stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

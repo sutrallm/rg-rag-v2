@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>The Awakened One teaches that overcoming laxity through constant awareness is essential for liberation and the path to Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

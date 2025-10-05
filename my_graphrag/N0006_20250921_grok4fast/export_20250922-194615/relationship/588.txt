@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>GREED AND ATTACHMENT</target_entity>
+    <relationship_description>Through insight into impermanence via meditation, practitioners liberate from greed and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

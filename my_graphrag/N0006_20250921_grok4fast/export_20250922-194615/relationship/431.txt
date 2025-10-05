@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence is essential for practitioners to follow teachings, avoid Mara, and master meditation for profound benefits.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

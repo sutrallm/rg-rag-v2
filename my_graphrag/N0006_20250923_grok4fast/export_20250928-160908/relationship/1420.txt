@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Meditation leads to inner peace and mental liberation by freeing from distractions and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

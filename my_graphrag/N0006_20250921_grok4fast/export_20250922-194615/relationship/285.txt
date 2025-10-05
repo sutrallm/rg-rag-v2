@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THREE LEARNINGS</target_entity>
+    <relationship_description>Saints possess and perfect the three learnings of precepts, concentration, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

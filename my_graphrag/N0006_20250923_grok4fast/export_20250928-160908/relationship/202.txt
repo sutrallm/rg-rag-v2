@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENT CULTIVATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-indolent cultivation is the path to ultimate liberation from suffering and cycles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

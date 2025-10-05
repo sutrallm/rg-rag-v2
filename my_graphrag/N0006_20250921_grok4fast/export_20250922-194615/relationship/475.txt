@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence counters hatred by preventing its domination through sustained non-indolent practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

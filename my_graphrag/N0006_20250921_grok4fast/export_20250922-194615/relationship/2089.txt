@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Lax people are trapped by delusion with greed and hatred, enjoying senses but heading to bitter fruits.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISSIPATION</source_entity>
+    <target_entity>LORD OF DEATH</target_entity>
+    <relationship_description>Dissipation leads to control by the Lord of Death, resulting in suffering if practice is not diligent.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

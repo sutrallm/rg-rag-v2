@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>EVIL PATHS</target_entity>
+    <relationship_description>Non-laxity ensures practitioners, whether lay or monastic, never fall into evil paths by remaining free from greed, evil deeds, and mental stains.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAITH</source_entity>
+    <target_entity>DOUBTS</target_entity>
+    <relationship_description>Faith breaks doubts regarding the dharma and prevents being swayed by worldly opinions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

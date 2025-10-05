@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADAPTATION</source_entity>
+    <target_entity>DOCTRINAL DETAILS</target_entity>
+    <relationship_description>Adaptation must retain all doctrinal details without alteration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

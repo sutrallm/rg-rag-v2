@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>SPECIFIED FORMAT</target_entity>
+    <relationship_description>The original text is intended to be processed according to the specified format upon its provision.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE DING HUI</source_entity>
+    <target_entity>TAN YU</target_entity>
+    <relationship_description>The three trainings completely eradicate greed and other afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

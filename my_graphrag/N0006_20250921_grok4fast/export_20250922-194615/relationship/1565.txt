@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Awakened ones rely on wisdom to transcend suffering and gain respect from celestial beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

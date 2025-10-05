@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>BIRTH AGING SICKNESS DEATH</target_entity>
+    <relationship_description>The five aggregates generate the sufferings of birth, aging, sickness, and death in samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

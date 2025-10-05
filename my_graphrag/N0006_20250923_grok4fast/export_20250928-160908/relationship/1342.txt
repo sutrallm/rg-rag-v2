@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>HURRICANE DESTROYING TREES</target_entity>
+    <relationship_description>Scattered mind uproots concentration like a hurricane, withstood by mindful stability.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

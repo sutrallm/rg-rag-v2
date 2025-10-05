@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Liberation culminates in the ultimate nirvana, free from birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

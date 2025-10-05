@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Mindfulness is a key component of meditation, enabling focused mental states that lead to inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

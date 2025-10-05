@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Meditation allows escape from defilements and restlessness, leading to their exhaustion in higher states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

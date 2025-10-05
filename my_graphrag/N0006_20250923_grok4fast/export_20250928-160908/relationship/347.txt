@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>KING OF DEATH</target_entity>
+    <relationship_description>Practitioners escape the control of the King of Death by maintaining diligence and mindfulness.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

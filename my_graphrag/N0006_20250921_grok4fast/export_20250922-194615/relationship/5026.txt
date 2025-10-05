@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WORLDLY DISTURBANCES</target_entity>
+    <relationship_description>Meditation allows one to stay away from worldly disturbances through focused mind and mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

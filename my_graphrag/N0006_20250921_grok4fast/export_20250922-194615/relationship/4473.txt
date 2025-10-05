@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Heedlessness leads to accumulation of evil karma, while avoiding it brings liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

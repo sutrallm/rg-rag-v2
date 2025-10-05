@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Diligence ensures practitioners avoid indulgence, allowing them to master meditation and evade Mara's control.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

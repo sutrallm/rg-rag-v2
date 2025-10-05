@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARHAT FRUIT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Arhat fruit realizes nirvana, the state of total purity, freedom from fear, and ultimate peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

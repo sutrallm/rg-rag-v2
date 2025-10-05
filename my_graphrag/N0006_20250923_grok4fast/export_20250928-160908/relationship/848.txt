@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRST JHANA</source_entity>
+    <target_entity>SECOND JHANA</target_entity>
+    <relationship_description>The first jhana serves as the foundation, transcended to achieve the unified rapture of the second jhana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

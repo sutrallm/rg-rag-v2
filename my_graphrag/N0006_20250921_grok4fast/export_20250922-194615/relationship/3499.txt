@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA</source_entity>
+    <target_entity>PEACE</target_entity>
+    <relationship_description>Mastery of the Dharma leads to ultimate peace and liberation for practitioners and saints.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

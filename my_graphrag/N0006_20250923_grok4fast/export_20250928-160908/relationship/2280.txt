@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>STAGES OF ENLIGHTENMENT</target_entity>
+    <relationship_description>Diligent practice without indulgence leads to attaining the stages of enlightenment from stream-entry to Arahantship.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

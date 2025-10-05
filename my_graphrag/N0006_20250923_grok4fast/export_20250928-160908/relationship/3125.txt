@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Wisdom, developed through insight into truth, enables the cutting of delusion as one of the fundamental afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

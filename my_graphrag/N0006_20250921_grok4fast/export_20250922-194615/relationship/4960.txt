@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>RESULTS</target_entity>
+    <relationship_description>With mental liberation, one pursues results without being bound by them, achieving freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

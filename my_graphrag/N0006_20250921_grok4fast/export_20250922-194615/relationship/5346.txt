@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAZINESS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Non-laziness prevents falling into the abyss of suffering through continuous refinement and mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

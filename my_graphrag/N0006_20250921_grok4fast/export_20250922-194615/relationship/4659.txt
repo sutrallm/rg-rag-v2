@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Awakened ones洞察 suffering as a core aspect of the world, contributing to their liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

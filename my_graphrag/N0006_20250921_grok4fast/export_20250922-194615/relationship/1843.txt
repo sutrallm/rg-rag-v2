@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>PURITY</target_entity>
+    <relationship_description>Vigilance enables the guarding of purity, or Brahma conduct, leading to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

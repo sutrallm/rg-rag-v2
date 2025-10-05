@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HOLY_BEING</target_entity>
+    <relationship_description>Holy beings are advanced practitioners who possess precepts and wisdom, eradicate afflictions, and earn respect from devas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

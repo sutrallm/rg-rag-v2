@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>WISE ONE</target_entity>
+    <relationship_description>Wise ones recognize indulgence as leading to decline and actively avoid it through non-indulgence for prosperity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

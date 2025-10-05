@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>WHOLESOME DEEDS</target_entity>
+    <relationship_description>Non-negligence enables practitioners to accomplish wholesome deeds leading to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

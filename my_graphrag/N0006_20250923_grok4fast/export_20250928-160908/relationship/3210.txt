@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>AWAKENED_ONE</target_entity>
+    <relationship_description>The practitioner can become an Awakened One through mastering the described practices and attainments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

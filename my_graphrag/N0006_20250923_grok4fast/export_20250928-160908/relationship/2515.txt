@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-REFLECTION</source_entity>
+    <target_entity>DHARMA MIND</target_entity>
+    <relationship_description>Self-reflection solidifies the practitioner's Dharma mind by avoiding lax states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

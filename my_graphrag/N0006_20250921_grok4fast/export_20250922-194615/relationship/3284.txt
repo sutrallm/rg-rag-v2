@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>THEME</target_entity>
+    <relationship_description>The theme of the original text should be made clear through reorganization and editing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

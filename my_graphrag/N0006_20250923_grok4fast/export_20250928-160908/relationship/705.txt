@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>KING OF DEATH</target_entity>
+    <relationship_description>Those indulging are dominated by the King of Death, losing control over their destiny and facing swift decline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

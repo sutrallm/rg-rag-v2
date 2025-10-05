@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>LORD OF DEATH</target_entity>
+    <relationship_description>Following teachings and diligence prevents falling under the control of the Lord of Death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

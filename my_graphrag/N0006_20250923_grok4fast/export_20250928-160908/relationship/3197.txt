@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPERNORMAL_POWERS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Supernormal powers, derived from meditation, support the cultivation of wisdom that leads to liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

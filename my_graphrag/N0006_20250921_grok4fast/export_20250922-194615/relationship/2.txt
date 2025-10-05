@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>FEAR OF DEATH</target_entity>
+    <relationship_description>Diligent practice overcomes fear of death by fostering wisdom and steady-heartedness toward impermanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Vigilance is the direct counter to indulgence, preventing its harms like falling into lower realms and perpetuating suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

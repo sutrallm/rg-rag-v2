@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Advanced practitioners, like those with mind liberation, do not cling to attachments in realms or fruition.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

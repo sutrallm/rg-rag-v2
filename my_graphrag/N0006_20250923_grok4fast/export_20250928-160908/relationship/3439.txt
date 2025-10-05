@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion is one of the core three poisons, alongside greed and hatred, that is severed by observing impermanence with mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>In 禅定, awareness of the harm of 贪欲 allows practitioners to abandon it and dwell desirelessly.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

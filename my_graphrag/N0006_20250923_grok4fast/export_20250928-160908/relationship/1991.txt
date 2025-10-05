@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Zen Meditation leads practitioners to achieve mental liberation, providing profound insight without attachment to outcomes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

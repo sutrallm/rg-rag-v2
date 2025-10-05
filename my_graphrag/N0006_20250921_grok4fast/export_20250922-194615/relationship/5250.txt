@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WORLDLY SUFFERING</target_entity>
+    <relationship_description>Saints transcend worldly suffering through their qualities and practices.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

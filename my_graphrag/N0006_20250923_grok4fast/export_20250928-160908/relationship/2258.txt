@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_LEARNINGS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The three learnings include wisdom as one of its three foundational pillars alongside precepts and meditation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

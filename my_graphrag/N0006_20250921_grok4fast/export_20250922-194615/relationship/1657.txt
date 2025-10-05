@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Afflictions lead to suffering, which is transcended by eradicating them through wisdom and diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

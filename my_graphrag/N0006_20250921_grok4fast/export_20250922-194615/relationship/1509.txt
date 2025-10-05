@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN DING</source_entity>
+    <target_entity>XIN JIE TUO</target_entity>
+    <relationship_description>Zen Ding leads to Xin Jie Tuo, enabling insight into Wu Chang Ben Zhi without Zhi Chi.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

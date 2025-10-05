@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Liberated practitioners pursue nirvana without attachment, achieving unhindered freedom as the ultimate goal of their practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

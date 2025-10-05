@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Non-indolence helps avoid the creation of evil karma by keeping the mind alert and away from negative actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

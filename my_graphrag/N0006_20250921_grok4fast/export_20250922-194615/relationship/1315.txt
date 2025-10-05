@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVAS</source_entity>
+    <target_entity>HOLY ONE</target_entity>
+    <relationship_description>Devas respect holy ones who have transcended suffering through precepts, wisdom, and diligent practice.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

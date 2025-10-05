@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Diligent practice builds progressively from initial meditation stages to full liberation by eradicating afflictions and transcending suffering through unwavering effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

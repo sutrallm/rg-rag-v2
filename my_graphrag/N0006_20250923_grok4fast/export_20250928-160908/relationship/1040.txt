@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Samadhi allows practitioners to distance from and overcome afflictions by providing inner peace and clarity, preventing mental scattering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

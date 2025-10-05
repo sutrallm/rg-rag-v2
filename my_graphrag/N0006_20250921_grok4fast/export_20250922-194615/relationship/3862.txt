@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Practitioners endowed with precepts and wisdom become saints who dwell in meditative silence and eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

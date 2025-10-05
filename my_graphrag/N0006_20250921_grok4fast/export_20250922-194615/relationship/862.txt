@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Enlightened beings surpass the cycles of impermanence, achieving eternal peace beyond birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Saints are endowed with wisdom to eradicate afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

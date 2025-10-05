@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom perceives impermanence as a core truth, leading to non-attachment and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

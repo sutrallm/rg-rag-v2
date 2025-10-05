@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>UNWHOLESOME ACTIONS</target_entity>
+    <relationship_description>The three poisons fuel the birth of unwholesome actions that must be avoided.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

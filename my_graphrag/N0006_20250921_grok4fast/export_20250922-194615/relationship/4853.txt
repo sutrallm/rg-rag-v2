@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Vigilance leads to reaching nirvana, the ultimate liberation from suffering, as the core benefit of avoiding indulgence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

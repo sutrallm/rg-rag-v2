@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY</source_entity>
+    <target_entity>BREATH</target_entity>
+    <relationship_description>The body is contemplated starting with awareness of breath's movement to maintain focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

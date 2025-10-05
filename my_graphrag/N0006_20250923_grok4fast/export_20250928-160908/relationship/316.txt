@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMATHA-VIPASSANA</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Samatha-Vipassana incorporates insight practice to penetrate reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

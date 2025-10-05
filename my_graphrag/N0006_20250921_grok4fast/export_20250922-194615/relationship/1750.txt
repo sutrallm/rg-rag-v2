@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The Noble Path leads to the pure, undefiled nirvana, free from all contamination and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

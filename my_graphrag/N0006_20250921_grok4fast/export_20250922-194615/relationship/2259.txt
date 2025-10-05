@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Greed is a root source of evil karma that diligence helps to eradicate.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

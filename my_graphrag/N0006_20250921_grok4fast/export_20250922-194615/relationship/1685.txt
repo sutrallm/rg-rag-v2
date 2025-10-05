@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DUKKHA</target_entity>
+    <relationship_description>Insight into impermanence reveals dukkha, forming part of the three marks of existence understood by the diligent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

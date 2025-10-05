@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realizing no-self in all things leads directly to nirvana and eternal tranquility beyond samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

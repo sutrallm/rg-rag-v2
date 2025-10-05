@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>WORLDLY ATTACHMENTS</target_entity>
+    <relationship_description>Mind liberation allows non-attachment to any realms and freedom even when pursuing results.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN_MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Zen meditation develops wisdom by providing insight into impermanence and emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

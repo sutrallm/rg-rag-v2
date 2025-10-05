@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Non-laxity prevents falling into evil realms and associated suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

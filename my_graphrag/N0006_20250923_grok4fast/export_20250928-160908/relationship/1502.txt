@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>七觉支</source_entity>
+    <target_entity>定觉支</target_entity>
+    <relationship_description>定觉支 is one of the 七觉支, achieving focused concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

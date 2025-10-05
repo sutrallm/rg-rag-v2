@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DOUBTS</target_entity>
+    <relationship_description>Practitioners eliminate doubts through firm faith and adherence to true law.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

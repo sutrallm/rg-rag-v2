@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>TAN YU</target_entity>
+    <relationship_description>Mindfulness foundations enable distancing from greed by purifying the mind through observation of body, feelings, mind, and dharmas.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

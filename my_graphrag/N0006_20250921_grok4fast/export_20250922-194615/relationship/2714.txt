@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Wisdom provides the key to permanently leaving the cycle of birth and death (永离生死轮回).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

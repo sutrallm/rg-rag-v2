@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>FOUR STAGES OF ENLIGHTENMENT</target_entity>
+    <relationship_description>Negligence causes failure in achieving the four stages, leading to suffering instead of enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

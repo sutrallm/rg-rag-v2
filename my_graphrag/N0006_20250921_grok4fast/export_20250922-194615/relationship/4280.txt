@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Saints abide in the stillness provided by meditation, transcending suffering and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

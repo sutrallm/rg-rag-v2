@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>智慧, possessed alongside precepts and diligence, allows complete eradication of 烦恼 including greed, hatred, and ignorance via meditative quietude.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

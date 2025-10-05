@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST DHARMA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Buddhist Dharma emphasizes diligence as the key to continuous practice without indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

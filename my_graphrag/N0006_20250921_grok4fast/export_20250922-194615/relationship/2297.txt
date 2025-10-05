@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>TRUE REALITY</target_entity>
+    <relationship_description>Dispelling the three poisons allows the mind to clearly reflect true reality like a mirror.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

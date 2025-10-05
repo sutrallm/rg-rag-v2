@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom enables discernment of impermanence, allowing transcendence of attachments without being bound by results.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Mindfulness, when maintained with focused mind, leads to inner peace by keeping away from disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

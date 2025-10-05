@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Diligence involves continuous effort to avoid laxity, enabling true achievement of meditation and freedom from death's control.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

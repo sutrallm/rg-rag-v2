@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>The path of the four noble truths leads to extinguishing greed, along with hatred and delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

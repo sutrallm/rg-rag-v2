@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Mind liberation, achieved through zen practice, culminates in wisdom liberation, providing complete insight and freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Concentration forms the second of the three trainings, developed in diligent practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

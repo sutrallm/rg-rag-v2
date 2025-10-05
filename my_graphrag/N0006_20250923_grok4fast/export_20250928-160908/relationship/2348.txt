@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>TRANQUIL REALM</target_entity>
+    <relationship_description>Saints abide in the tranquil realm, free from worldly suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

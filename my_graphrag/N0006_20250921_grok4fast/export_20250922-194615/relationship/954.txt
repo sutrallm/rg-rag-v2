@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Non-indulgence enables far removal from suffering and attainment of ultimate peace by taming the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Saints completely eradicate the three poisons through precepts, meditation, and wisdom contemplation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

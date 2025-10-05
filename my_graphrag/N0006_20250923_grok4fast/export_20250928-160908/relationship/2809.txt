@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL_DHARMA</source_entity>
+    <target_entity>AWAKENED_ONE</target_entity>
+    <relationship_description>Awakened ones eradicate all evil dharmas through wisdom and non-attachment to the world.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

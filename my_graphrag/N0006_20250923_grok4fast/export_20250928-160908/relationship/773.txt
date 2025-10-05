@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>BLISS</target_entity>
+    <relationship_description>Vigilance leads to the attainment of bliss in the present life and future lives.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Saints are practitioners who fully possess precepts and wisdom to eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

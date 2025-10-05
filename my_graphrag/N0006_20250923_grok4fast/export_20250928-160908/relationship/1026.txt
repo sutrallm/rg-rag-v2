@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Zen meditation enables mind liberation and insight into impermanence without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

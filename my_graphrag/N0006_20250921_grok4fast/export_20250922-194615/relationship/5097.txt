@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Non-indolence guards and preserves wisdom, protecting it from obscuration by greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

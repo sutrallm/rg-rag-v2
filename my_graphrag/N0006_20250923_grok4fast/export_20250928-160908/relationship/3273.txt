@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Saints are endowed with precepts alongside wisdom, enabling them to dwell in stillness and transcend suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

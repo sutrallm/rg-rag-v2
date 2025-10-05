@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners achieve mastery in meditation and avoid the Death Demon by engaging in continuous diligence following the Buddha's teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

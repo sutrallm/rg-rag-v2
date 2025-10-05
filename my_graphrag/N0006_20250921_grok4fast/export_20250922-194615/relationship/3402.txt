@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Practitioners focus their minds and maintain mindfulness to distance from worldly disturbances and achieve samadhi.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

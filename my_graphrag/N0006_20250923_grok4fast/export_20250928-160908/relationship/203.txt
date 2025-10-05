@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>DESIRE REALM</target_entity>
+    <relationship_description>Those with heart liberation do not cling to experiences in the desire realm, recognizing its impermanence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

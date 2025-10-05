@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENT PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Through non-indulgent practice, practitioners enter the path to liberation, gaining inner peace and freedom from worldly disturbances.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

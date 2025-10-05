@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>FRUITS OF THE PATH</target_entity>
+    <relationship_description>Practicing the Four Noble Truths leads to attaining the fruits of the path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

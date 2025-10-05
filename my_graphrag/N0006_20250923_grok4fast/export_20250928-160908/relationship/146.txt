@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Hatred is eliminated in the process of achieving mental liberation via diligent cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

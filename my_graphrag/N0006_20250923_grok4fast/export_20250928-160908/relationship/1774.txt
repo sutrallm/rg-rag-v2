@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SLEEP</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Even during sleep, awareness should be maintained to preserve mindfulness.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

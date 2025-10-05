@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must practice with continuous diligence and vigilance to avoid negligence and achieve true meditation and control over body and mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

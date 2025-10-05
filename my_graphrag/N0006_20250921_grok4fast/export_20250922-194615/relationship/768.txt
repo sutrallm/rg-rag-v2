@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom penetrates the truth of impermanence, generating disenchantment and directing toward liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

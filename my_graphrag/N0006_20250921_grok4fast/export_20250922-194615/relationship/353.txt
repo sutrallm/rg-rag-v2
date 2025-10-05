@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Greed and attachment are jointly cut off to realize the supreme state of liberation without worries.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

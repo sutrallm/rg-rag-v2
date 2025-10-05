@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL PATHS</source_entity>
+    <target_entity>KING OF DEATH</target_entity>
+    <relationship_description>Evil paths involve subjection to the King of Death, which diligent practice helps avoid.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

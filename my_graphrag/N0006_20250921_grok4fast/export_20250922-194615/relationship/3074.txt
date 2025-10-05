@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_PATH</source_entity>
+    <target_entity>THREE_LEARNINGS</target_entity>
+    <relationship_description>The holy path reaches perfection through possession of the three learnings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

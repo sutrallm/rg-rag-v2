@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Practitioners gain clear insight into the impermanence of all worldly things through meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

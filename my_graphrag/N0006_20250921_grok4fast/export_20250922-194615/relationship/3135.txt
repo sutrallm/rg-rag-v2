@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>TRUE DHARMA</target_entity>
+    <relationship_description>Continuous adherence to the true dharma through diligence is essential to avoid samsara and achieve meditation and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

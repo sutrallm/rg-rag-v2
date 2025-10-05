@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>CYCLE OF REBIRTH</target_entity>
+    <relationship_description>Saints are permanently free from the cycle of rebirth through their practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

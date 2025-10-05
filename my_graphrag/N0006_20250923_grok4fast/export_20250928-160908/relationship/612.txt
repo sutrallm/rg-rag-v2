@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>PAINFUL REALMS</target_entity>
+    <relationship_description>Negligence ultimately causes fall into painful realms despite being in holy places.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

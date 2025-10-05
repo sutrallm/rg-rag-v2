@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELATED TEXTS</source_entity>
+    <target_entity>DOCTRINE</target_entity>
+    <relationship_description>Related texts contain doctrines that are preserved through direct restatements, excluding other elements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

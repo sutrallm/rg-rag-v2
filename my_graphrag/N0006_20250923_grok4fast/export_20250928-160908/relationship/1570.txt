@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Non-laxity involves sustained mindfulness and awareness to remain unshaken by temptations.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

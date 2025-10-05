@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Greed is a primary component of afflictions that bind and torment the heedless.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

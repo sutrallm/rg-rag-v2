@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation calms inner turmoil and distances the mind from afflictions like greed and hatred, providing peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

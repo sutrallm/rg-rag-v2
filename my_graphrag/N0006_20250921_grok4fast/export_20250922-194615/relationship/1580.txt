@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CYCLICAL_EXISTENCE</target_entity>
+    <relationship_description>Wisdom severs ignorance to transcend cyclical existence and the sea of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

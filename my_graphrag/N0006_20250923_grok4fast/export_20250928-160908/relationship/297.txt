@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAX PRACTICE</source_entity>
+    <target_entity>SENSE FACULTIES</target_entity>
+    <relationship_description>Non-lax practice involves diligently guarding the sense faculties to avoid external distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

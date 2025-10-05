@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Diligent practice is directly derived from and adheres to the Buddha's guidance for achieving mental mastery and avoiding destructive forces.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

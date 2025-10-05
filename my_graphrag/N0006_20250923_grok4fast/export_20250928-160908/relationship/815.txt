@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Through meditation, practitioners gain wisdom to perceive impermanence, suffering, emptiness, and no-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING EMPTINESS NOSELF</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Penetrating suffering, emptiness, and no-self frees the mind from attachment to the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

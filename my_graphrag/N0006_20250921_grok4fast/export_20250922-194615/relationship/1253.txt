@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>QUIETUDE</target_entity>
+    <relationship_description>Diligent mental cultivation leads to abiding in quietude for eliminating afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

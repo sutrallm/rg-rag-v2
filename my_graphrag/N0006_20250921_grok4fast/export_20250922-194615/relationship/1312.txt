@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>HOLY ONE</target_entity>
+    <relationship_description>Holy ones possess precepts along with wisdom to eliminate afflictions and transcend suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

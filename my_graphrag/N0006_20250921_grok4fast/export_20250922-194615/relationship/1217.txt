@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Afflictions encompass greed, which is severed through practice to transcend suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Perceiving emptiness is a profound aspect of the wisdom that frees awakened beings from sensory temptations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

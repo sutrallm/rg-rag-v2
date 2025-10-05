@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS CONCENTRATION WISDOM</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Precepts, concentration, and wisdom enable the practitioner to eradicate all afflictions through diligent cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

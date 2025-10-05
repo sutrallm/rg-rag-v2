@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROVIDED MESSAGE</source_entity>
+    <target_entity>SPECIFIED FORMAT</target_entity>
+    <relationship_description>The provided message references the specified format as the method that will be applied once the original text is supplied.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

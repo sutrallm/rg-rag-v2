@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Those with mind liberation transcend attachments, remaining unbound even in pursuit of goals.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

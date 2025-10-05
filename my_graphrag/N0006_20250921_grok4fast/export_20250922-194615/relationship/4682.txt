@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>The three poisons bind beings to the cycle of samsara and its sufferings like birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

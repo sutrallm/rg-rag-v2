@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Sages possess wisdom to cultivate tranquility and sever afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

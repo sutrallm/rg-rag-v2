@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MIND_LIBERATION</target_entity>
+    <relationship_description>Through meditation, practitioners achieve mind liberation and the ability to transcend attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

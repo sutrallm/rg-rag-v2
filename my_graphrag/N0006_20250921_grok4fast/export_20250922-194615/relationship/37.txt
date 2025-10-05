@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION AND REWRITING</source_entity>
+    <target_entity>METAPHORS AND DIALOGUES</target_entity>
+    <relationship_description>Metaphors and dialogues must be organized into direct doctrinal meanings as part of the rewriting.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

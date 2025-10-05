@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Diligent practitioners following Buddha's guidance avoid falling under Mara's control and the cycle of death and rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

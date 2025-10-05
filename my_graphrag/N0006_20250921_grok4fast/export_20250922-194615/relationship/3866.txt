@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>Indulgent individuals accumulate karmic obstacles without realizing it through immersion in sensory pleasures.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

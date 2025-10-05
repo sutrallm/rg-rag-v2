@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Diligence enables practitioners to truly master the practice of meditation and attain supreme bliss.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

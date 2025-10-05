@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRST JHANA</source_entity>
+    <target_entity>ONE-POINTEDNESS</target_entity>
+    <relationship_description>The first jhana is accompanied by one-pointedness along with applied thought, sustained thought, joy, and pleasure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

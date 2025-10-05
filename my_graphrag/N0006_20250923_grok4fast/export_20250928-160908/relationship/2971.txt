@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Liberated practitioners insight into suffering's nature, eradicating its hold through wisdom and ending the cycle of torment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

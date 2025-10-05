@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Laxity traps individuals in the shackles of the three poisons (greed, hatred, delusion), preventing holy attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

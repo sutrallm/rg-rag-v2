@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Suffering is tied to the control of impermanence, which practice helps to escape.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

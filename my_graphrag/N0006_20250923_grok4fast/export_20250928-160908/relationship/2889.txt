@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Heedlessness prevents the achievement of awareness, while its absence allows for awareness to arise through non-indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

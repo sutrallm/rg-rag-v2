@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DEATH DEMON KING</target_entity>
+    <relationship_description>Buddha's teachings on continuous diligence enable avoidance of the Death Demon King's control over practitioners.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

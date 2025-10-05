@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Laxity leads to being fettered by hatred along with other poisons, resulting in suffering and samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Saints diligently cultivate the mind through meditation to abide in silence and eradicate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

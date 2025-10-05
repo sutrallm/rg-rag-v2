@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>COMPASSION</target_entity>
+    <relationship_description>Wisdom combines with compassion to foster benevolence toward beings and pure actions for mutual benefit.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

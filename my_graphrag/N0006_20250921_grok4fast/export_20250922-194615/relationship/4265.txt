@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>GODS</target_entity>
+    <relationship_description>Gods respect the merits and qualities of saints who have severed afflictions and transcended suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

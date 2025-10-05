@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY REALM</source_entity>
+    <target_entity>SAmsARA</target_entity>
+    <relationship_description>The holy realm thoroughly transcends samsara, ending the cycle of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

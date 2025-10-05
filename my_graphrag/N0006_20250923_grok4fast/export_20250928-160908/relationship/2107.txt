@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVAS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Devas respect saints for their non-negligent practice and attainment beyond suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

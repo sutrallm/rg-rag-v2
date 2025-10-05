@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-indolence leads practitioners to Nirvana by breaking free from greed, hatred, delusion, and providing inner peace and ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

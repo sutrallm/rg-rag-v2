@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Wisdom complements precepts in noble practitioners, enabling the end of all afflictions and respect from deities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

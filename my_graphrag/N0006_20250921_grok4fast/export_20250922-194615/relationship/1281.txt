@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY_BEINGS</target_entity>
+    <relationship_description>Saints endowed with precepts and wisdom, abiding in tranquility and free from afflictions, inspire respect and admiration from heavenly beings due to their exalted qualities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

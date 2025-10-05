@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE EIGHTFOLD PATH</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>The noble eightfold path includes right concentration as an essential branch for achieving meditative absorption and extinguishing suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

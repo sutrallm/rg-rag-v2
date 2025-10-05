@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENT PRACTICE</source_entity>
+    <target_entity>GOOD DHARMA</target_entity>
+    <relationship_description>Non-indulgent practitioners always diligently cultivate good dharma to gain eternal peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

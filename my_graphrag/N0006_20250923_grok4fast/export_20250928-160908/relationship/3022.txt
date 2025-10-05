@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Meditation enables practitioners to overcome and avoid indolence by fostering focus and mindfulness, leading to escape from dissipation and its consequences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

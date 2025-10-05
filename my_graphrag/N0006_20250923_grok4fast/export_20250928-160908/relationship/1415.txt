@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENT_PRACTICE</target_entity>
+    <relationship_description>Practitioners must engage in diligent practice to follow teachings and achieve mastery over meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

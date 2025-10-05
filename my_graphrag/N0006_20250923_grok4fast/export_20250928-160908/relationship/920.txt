@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL MEDITATION</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Mindful meditation by awakened ones leads to the insight of no-self in all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

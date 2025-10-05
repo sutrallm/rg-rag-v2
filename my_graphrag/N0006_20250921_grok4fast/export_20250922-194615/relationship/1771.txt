@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Tranquility is a form of inner peace achieved through diligent mental cultivation and protection from interferences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

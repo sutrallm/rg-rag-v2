@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>Attachment to body, mind, or objects generates various afflictions, causing mental turmoil and endless rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

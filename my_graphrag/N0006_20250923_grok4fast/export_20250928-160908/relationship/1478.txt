@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>放逸 binds the mind with 愚痴, resulting in samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

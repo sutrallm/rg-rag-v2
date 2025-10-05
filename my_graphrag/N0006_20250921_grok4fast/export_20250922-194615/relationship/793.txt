@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Through Zen practice, practitioners attain mental liberation, gaining insight into impermanence and no-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

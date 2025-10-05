@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTITIONER</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Diligent practitioners eradicate the three poisons through core insights.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAX PRACTICE</source_entity>
+    <target_entity>SAMATHA-VIPASSANA</target_entity>
+    <relationship_description>Non-lax practice culminates in focused Samatha-Vipassana meditation to attain noble path fruits.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

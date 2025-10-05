@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SIX SENSE OBJECTS</target_entity>
+    <relationship_description>Wisdom enables the awakened to no longer cling to the six sense objects: forms, sounds, smells, tastes, touches, and dharmas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

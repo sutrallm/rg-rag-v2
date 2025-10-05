@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy ones are endowed with wisdom, which supports their transcendence of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

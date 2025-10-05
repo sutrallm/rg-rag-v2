@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL ACTIONS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Evil actions are driven by greed, resulting in suffering like arrow wounds and eventual ruin.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

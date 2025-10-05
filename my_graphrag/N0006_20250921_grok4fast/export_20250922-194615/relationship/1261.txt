@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Awakened ones perceive the emptiness of all dharmas, living freely without worldly bindings or fear of mara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

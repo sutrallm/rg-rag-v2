@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>HOLY PATH</target_entity>
+    <relationship_description>Vigilance enables access to the holy path, unlike heedlessness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

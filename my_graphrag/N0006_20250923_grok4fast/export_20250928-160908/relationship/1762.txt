@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Diligence and non-indulgence lead to transcending suffering and achieving the bliss of nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Indulgence hinders the attainment of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

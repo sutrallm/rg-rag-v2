@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENT PERSON</source_entity>
+    <target_entity>DEEP ABYSS SWALLOWING TRAVELER</target_entity>
+    <relationship_description>The undiligent fall eternally into samsara like a deep abyss, escaped via the path of diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

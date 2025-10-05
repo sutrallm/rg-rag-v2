@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>WORLDLY PEOPLE</target_entity>
+    <relationship_description>Holy ones evoke respect from worldly people for their transcendent qualities, leading to admiration rather than disdain or intrusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUES</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>The virtues of saints, derived from precepts and wisdom, earn celestial respect.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

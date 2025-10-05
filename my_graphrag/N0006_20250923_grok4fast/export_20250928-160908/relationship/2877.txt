@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Wisdom severs the root of greed, leading to freedom from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

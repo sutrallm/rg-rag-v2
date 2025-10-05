@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Eradicating afflictions through practice leads holy beings to nirvana, free from birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

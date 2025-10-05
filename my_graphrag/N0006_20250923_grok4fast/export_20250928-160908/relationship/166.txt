@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>CYCLE OF REBIRTH</target_entity>
+    <relationship_description>Mastery of meditation enables practitioners to avoid entrapment in the suffering of the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

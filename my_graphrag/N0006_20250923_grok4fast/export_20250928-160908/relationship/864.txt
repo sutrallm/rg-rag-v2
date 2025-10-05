@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Mental liberation, achieved through precepts and wisdom, enables transcendence of all suffering and permanent departure from the cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

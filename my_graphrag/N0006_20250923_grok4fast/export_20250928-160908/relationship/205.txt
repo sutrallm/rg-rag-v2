@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>FORMLESS REALM</target_entity>
+    <relationship_description>Even the formless realm is not clung to by those with heart liberation due to insight into impermanence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

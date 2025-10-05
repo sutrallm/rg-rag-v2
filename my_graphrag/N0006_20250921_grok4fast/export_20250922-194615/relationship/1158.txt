@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PERSON</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Holy persons command respect from devas due to their complete transcendence of troubles and pain.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

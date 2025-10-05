@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>念住</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>念住 is practiced through observing the 四念处: body, feelings, mind, and dhammas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

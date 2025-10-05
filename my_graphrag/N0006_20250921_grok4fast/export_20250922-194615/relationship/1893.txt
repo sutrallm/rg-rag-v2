@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>EVIL_REALMS</target_entity>
+    <relationship_description>Diligence and non-negligence guard against rebirth in evil realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

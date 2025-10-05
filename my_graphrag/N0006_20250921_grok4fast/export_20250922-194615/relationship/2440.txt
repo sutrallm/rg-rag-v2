@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Full possession of precepts, together with wisdom, characterizes saints who cultivate the mind in quietude.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

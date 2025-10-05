@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>SENSE_OBJECTS</target_entity>
+    <relationship_description>Delusions arise from being bewildered by sense objects, broken through insight into their emptiness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

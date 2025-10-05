@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Non-indulgence cultivates mindfulness and concentration in practitioners.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

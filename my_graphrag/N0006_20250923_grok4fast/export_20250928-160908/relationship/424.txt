@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints are endowed with wisdom to cut off afflictions and transcend suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

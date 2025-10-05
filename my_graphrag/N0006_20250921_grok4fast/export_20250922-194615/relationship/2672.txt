@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION OF MIND</target_entity>
+    <relationship_description>Through meditation, practitioners attain liberation of the mind, leading to insight and freedom from attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

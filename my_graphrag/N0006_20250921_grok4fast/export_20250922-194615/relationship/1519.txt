@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAN ZEN</source_entity>
+    <target_entity>SI ZEN</target_entity>
+    <relationship_description>Si Zen culminates the progression from San Zen in equanimous purity, neither pleasure nor pain.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>HOLY PATH</target_entity>
+    <relationship_description>Non-indolence leads to the attainment of the Holy Path by Noble Ones, enabling the perfection of the Threefold Training and transcendence of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

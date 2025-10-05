@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISSIPATION</target_entity>
+    <relationship_description>Meditation frees practitioners from dissipation along with afflictions to achieve inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

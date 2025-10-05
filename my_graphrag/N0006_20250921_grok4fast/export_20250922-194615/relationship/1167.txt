@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PERSON</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Holy persons break and sever all afflictions through their precepts, wisdom, and practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

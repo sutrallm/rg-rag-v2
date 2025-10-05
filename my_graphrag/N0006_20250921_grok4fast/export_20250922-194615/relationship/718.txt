@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISEDOM</target_entity>
+    <relationship_description>Saints fully possess wisdom, which paired with precepts allows them to dwell in mental stillness, cut off afflictions, and transcend suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

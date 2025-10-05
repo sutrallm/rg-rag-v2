@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Wisdom cuts off the three poisons—greed, hatred, delusion—at their root for total liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

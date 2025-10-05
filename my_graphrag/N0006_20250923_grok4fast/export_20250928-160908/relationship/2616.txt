@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>GOOD DHARMAS</target_entity>
+    <relationship_description>Lax individuals still engage in good deeds but remain deluded by afflictions, leading to suffering without attaining holy fruits.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

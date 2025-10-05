@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Those endowed with concentration attain wisdom liberation by seeing the empty self-nature of the three realms and severing craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

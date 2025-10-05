@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FEELING CONTEMPLATION</target_entity>
+    <relationship_description>The practitioner cultivates Feeling Contemplation by observing the arising and passing of feelings to achieve non-attachment and liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

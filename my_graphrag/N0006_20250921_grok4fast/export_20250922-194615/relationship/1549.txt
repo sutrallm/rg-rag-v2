@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom illuminates the truth that all formations are marked by suffering, leading to ultimate liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

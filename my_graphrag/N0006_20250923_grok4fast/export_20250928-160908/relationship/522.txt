@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Through zen meditation, practitioners gain insight into impermanence, enabling them to see the transient nature of all things and avoid attachment even to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR IMEASURABLES</source_entity>
+    <target_entity>DOUBT</target_entity>
+    <relationship_description>Cultivating the four immeasurables severs doubt along with conceit.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

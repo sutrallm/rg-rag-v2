@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>SHEN NIAN CHU</target_entity>
+    <relationship_description>Body contemplation is one of the four foundations of mindfulness, involving observation of bodily postures and activities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY REALM</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>The holy realm evokes respect and reverence in celestial beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

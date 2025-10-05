@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>The practitioner pursues Nirvana without attachment, achieving it through transcendence of worldly states via meditation and wisdom.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

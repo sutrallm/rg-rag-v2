@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTITIONER</source_entity>
+    <target_entity>FULLY ENLIGHTENED BEING</target_entity>
+    <relationship_description>The diligent practitioner, through mastery of practice, becomes a fully enlightened being free from all suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Diligent practitioners avoid falling under death's control through continuous effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

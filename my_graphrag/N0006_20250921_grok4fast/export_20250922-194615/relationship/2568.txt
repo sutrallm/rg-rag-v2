@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Non-indolence directly counters indolence, preventing the descent into suffering and mental entrapment that indolence causes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

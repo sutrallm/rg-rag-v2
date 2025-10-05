@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>IDLENESS</target_entity>
+    <relationship_description>Meditation requires escaping idleness, as constant non-laxity is needed to master it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

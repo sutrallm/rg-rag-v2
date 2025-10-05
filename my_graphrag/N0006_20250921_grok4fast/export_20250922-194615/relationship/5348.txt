@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAZINESS</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>Non-laziness is foundational to achieving the path to liberation through sustained practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

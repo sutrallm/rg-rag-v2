@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHT VICTORIES</source_entity>
+    <target_entity>RESTRAINT AGGREGATE</target_entity>
+    <relationship_description>The eight victories include full possession of the restraint aggregate without pretense as a foundational element.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

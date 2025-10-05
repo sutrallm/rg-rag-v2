@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-CAREFUL PERSON</source_entity>
+    <target_entity>LIBERATION OF MIND</target_entity>
+    <relationship_description>Non-careless guarding leads to achievement of the path to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

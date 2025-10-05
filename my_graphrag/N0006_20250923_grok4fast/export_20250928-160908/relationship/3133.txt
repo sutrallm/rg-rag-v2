@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Delusion as one of the three root afflictions continuously arises, leading to mental and physical suffering in worldly existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

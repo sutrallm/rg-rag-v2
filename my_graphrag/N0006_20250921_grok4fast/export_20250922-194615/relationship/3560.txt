@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTEMPLATION</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Contemplation discerns the no-self aspect of body and mind to eliminate attachments and purify the heart.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

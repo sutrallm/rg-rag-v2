@@ -1,0 +1,34 @@
+### Processing Guidelines for Buddhist Scriptures and Related Writings in Vernacular Chinese
+
+#### Executive Summary
+The guidelines outline a structured approach to translating and reformatting ancient or classical Buddhist materials, such as sutras and connected documents, into a plain, modern, simplified, and everyday form of Chinese known as vernacular Chinese. Core elements like characters, places, and ending gathas are removed to simplify and focus on essential content, while teaching details, doctrines, and direct restatements are fully preserved. Metaphors undergo conversion, dialogues shift to direct explanations, titles receive improvements, and sections are organized with sequential numbering to enhance readability and core idea emphasis.
+
+#### Vernacular Chinese as Translation Target
+Vernacular Chinese functions as the plain, modern, simplified, and everyday form for converting original content, improving accessibility and readability. This style applies to Buddhist scriptures and related writings, ensuring doctrines are restated directly while excluding other components. The process involves full translation and reformatting, with metaphors converted and dialogues turned into straightforward explanations to align with user-specified requirements.
+
+#### Removal of Characters from Content
+Figures, persons, or references to people in Buddhist scriptures and related writings are deleted to simplify the material. This deletion occurs during organization and formatting, focusing the output on core ideas without personal or figurative mentions.
+
+#### Omission of Ending Gathas
+Poetic verses, chants, or concluding stanzas at the end of Buddhist scriptures and related writings are removed entirely. This step ensures the final version prioritizes essential teachings over decorative or summative elements.
+
+#### Elimination of Places
+Locations, geographical references, or similar elements in Buddhist scriptures and related writings are targeted for deletion. By removing these, the processing emphasizes underlying doctrines and instructions, avoiding distractions from spatial details.
+
+#### Preservation of Teaching Details
+Specific aspects and nuances of religious or philosophical teachings in Buddhist scriptures and related writings are retained completely. Doctrines appear through direct restatements, maintaining their integrity amid modifications to surrounding components, which supports the focus on core significance.
+
+#### Application to Buddhist Scriptures and Sutras
+Ancient or classical Buddhist materials, including sutras, exemplify the content for translation, organization, and formatting. These undergo conversion to vernacular Chinese, with sections structured using sequential numbers. Titles within or for these scriptures receive improvements to enhance clarity.
+
+#### Extension to Related Buddhist Documents
+Documents or writings linked to Buddhist themes qualify for identical processing, including translation to vernacular Chinese and reformatting. Like scriptures, they preserve doctrines via direct restatements, convert metaphors, reformat dialogues into explanations, and apply numbering to sections, while removing characters, places, and ending gathas.
+
+#### Reformatting of Dialogues and Metaphors
+Dialogues in Buddhist scriptures and related writings shift to direct explanations during processing. Metaphors in these materials require conversion per guidelines, transforming figurative language into accessible forms that support the overall simplification and readability goals.
+
+#### Use of Sequential Numbering for Structure
+Sequential numbers organize and list sections derived from Buddhist scriptures and related writings in the output. This method structures the material logically, aiding comprehension of preserved teachings and doctrines.
+
+#### Improvement of Titles
+Titles within or for Buddhist scriptures and related writings undergo enhancements during formatting. This adjustment refines presentation without altering the substantive content, aligning with the vernacular Chinese style for better accessibility.

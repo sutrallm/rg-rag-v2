@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>TITLE MODIFICATION TO NUMBERED SEQUENCES</target_entity>
+    <relationship_description>The query requires titles to be renumbered for structure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

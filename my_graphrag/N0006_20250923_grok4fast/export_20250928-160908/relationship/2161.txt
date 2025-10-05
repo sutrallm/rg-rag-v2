@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Following teachings requires continuous diligence to avoid Mara's control and master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

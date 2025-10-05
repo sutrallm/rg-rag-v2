@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The three poisons are the fundamental root of broader afflictions, driving mental disturbances and suffering that wisdom severs.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

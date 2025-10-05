@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The three poisons are the root of suffering, which holy ones transcend by their eradication.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

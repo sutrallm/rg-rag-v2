@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>Wisdom awakened through Zen Meditation breaks attachments and frees one from being drawn by karmic forces into the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

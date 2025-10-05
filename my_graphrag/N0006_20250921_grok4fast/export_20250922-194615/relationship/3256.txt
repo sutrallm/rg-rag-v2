@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>GREED AND ATTACHMENT</target_entity>
+    <relationship_description>Mental liberation allows transcendence of worldly greed and attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

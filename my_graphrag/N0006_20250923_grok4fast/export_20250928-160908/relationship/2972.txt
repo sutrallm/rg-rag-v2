@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Practitioners pursue nirvana through meditation without becoming bound by it, achieving ultimate peace as part of their path to liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENTS</target_entity>
+    <relationship_description>Wisdom enables transcendence of attachments through meditative insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

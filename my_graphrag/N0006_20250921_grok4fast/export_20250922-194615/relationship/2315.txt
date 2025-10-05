@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT MINDFULNESS</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Right Mindfulness prevents laxity by maintaining constant awareness of body and mind activities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

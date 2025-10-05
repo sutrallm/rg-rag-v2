@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Diligent practice prevents ignorance and afflictions from controlling the practitioner.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

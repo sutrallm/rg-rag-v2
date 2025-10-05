@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISPASSION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Dispassion redirects the practitioner from worldly pleasures to pursuing Nirvana liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DEMON KING</target_entity>
+    <relationship_description>Diligent practice prevents falling under the Demon King's influence by maintaining non-laxity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

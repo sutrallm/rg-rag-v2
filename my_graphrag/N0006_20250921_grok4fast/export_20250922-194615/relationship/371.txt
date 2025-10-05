@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FRUITS OF LIBERATION</target_entity>
+    <relationship_description>Wisdom, with precepts and concentration, results in completely severing afflictions and transcending suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Wisdom pierces through ignorance, dispelling it like a bright lamp scatters darkness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

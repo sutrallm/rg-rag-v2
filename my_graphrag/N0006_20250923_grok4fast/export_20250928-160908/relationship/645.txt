@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PERSON</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy persons possess wisdom alongside precepts, enabling diligent mind cultivation and transcendence of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

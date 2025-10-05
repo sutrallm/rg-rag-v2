@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>EVIL DESTINATIONS</target_entity>
+    <relationship_description>Non-negligent practitioners avoid rebirth in evil destinations through their efforts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

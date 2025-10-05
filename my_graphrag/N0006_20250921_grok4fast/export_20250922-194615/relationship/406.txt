@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MERIT</source_entity>
+    <target_entity>SUPREME PEACE</target_entity>
+    <relationship_description>Accumulated merit from non-indolence results in supreme peace and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

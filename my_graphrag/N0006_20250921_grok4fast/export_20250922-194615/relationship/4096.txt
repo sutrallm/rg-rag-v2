@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>TEACHINGS</target_entity>
+    <relationship_description>Diligent practice involves following and adhering to teachings to ensure mastery and avoidance of downfall.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Mindful observation leads to mental freedom by transcending the net of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

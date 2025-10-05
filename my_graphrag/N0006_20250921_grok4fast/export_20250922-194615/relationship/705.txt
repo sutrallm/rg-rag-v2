@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER'S QUERY</source_entity>
+    <target_entity>PROCESSING INSTRUCTIONS</target_entity>
+    <relationship_description>The user's query included or implied the processing instructions to be applied to the original content once provided.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

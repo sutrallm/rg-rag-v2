@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Vigilance is the direct antidote to indolence, preventing its harms and unlocking spiritual merits.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

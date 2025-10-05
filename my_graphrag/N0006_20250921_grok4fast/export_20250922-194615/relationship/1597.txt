@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation transcends suffering, as saints overcome it through their practices.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

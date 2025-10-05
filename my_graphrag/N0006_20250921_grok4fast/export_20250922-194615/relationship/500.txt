@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPREME ENLIGHTENMENT</source_entity>
+    <target_entity>BIRTH AGING SICKNESS DEATH</target_entity>
+    <relationship_description>Supreme enlightenment frees one from the sufferings of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

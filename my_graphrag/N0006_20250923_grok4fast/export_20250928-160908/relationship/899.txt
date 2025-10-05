@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DISSIPATION</target_entity>
+    <relationship_description>Diligence enables practitioners to remain non-dissipated, allowing mastery of meditation and avoidance of Mara's control.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

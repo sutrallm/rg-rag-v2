@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Non-indolence directly counters and avoids the dangers of indolence, such as suffering and rebirth, by promoting vigilance and wholesome practices.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

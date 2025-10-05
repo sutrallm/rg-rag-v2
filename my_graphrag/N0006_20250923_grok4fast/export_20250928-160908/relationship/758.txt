@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>ILLUMINATION</target_entity>
+    <relationship_description>Vigilance provides illumination like a lamp, benefiting self and others.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

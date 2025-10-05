@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Awakened ones eliminate the five hindrances to enter meditative states and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

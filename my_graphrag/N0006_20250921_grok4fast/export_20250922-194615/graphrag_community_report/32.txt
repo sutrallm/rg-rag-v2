@@ -1,0 +1,25 @@
+### Rules for Transforming Doctrinal Materials
+
+#### Executive Summary
+The described process outlines a structured approach to adapt religious or doctrinal materials through translation into everyday Chinese, anonymization of specific elements, simplification of narrative forms, retention of core teachings, reorganization of structure, and exclusion of concluding poetic sections. However, the anticipated source material following the designated marker remains unavailable in the provided description, limiting direct application of these guidelines.
+
+#### Missing Source Material
+The description indicates that content expected after the marker "原文如下：--------------" was not included, resulting in an absence of the primary doctrinal text to which the processing rules apply. This omission prevents immediate implementation of the outlined transformations, as the query only references the intended handling without supplying the raw material.
+
+#### Translation to Vernacular Chinese
+All elements of the doctrinal content must be rendered into plain, accessible Chinese language, ensuring that complex or archaic phrasing is converted to forms understandable in contemporary usage. This step prioritizes clarity to make the teachings available to a broader audience without altering their fundamental meaning.
+
+#### Anonymization of Personal and Geographic References
+Names of individuals and locations present in the original material require complete removal during processing. This alteration eliminates identifiable references, focusing the content solely on universal doctrinal principles rather than historical or contextual specifics.
+
+#### Conversion of Narrative Elements to Direct Explanations
+Metaphorical expressions and dialogue-based sections should be rephrased into straightforward doctrinal statements. This transformation shifts indirect storytelling or illustrative language into explicit articulations of teachings, enhancing precision and reducing interpretive ambiguity.
+
+#### Retention of Core Doctrinal Elements
+Essential details related to doctrines, such as key principles, practices, or philosophical points, must be fully preserved without modification. This ensures the integrity of the material's foundational content remains intact throughout the processing, safeguarding its authoritative essence.
+
+#### Structural Optimization and Numbering
+Titles within the content need refinement for conciseness and sequential numbering starting from 1, 2, 3, and so on. This reorganization imposes a logical, ordered format that improves navigability and emphasizes the hierarchical or progressive nature of the teachings.
+
+#### Exclusion of Concluding Verses
+Any ending verse or gatha at the conclusion of the material should be entirely deleted. This removal streamlines the document by eliminating potentially repetitive or summative poetic elements, concentrating on the primary body of doctrinal exposition.

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Following Buddha's teachings with diligence helps practitioners avoid laxity, Mara's control, and samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

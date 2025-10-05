@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-indolence leads to natural inner peace and liberation by abiding in calm and avoiding disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

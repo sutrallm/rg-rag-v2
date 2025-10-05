@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Indolence binds beings to the three poisons of greed, hatred, and delusion, causing downfall.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

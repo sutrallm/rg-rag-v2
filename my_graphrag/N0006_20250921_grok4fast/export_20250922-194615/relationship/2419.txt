@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE FRUITS</source_entity>
+    <target_entity>FIVE HIGHER FETTERS</target_entity>
+    <relationship_description>The third fruit of the noble fruits eradicates the five higher fetters.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

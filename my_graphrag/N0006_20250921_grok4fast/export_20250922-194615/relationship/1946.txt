@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARROGANCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Arrogance obstructs wisdom and hinders achievement of the holy path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

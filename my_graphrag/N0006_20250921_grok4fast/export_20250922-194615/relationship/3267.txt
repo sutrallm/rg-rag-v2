@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>BIRTH OLD AGE SICKNESS DEATH</target_entity>
+    <relationship_description>Saints transcend the sufferings of birth, old age, sickness, and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

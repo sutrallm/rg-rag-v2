@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Vigilance generates mindfulness and awareness, avoiding evil and leading to positive spiritual qualities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

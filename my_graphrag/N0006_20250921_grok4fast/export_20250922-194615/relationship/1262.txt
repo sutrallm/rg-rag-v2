@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Awakened ones remain unbound and fearless of mara's threats, seeing through illusions with insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELATED TEXTS</source_entity>
+    <target_entity>METAPHORS</target_entity>
+    <relationship_description>Metaphors present in related texts are elements that require conversion as per the guidelines.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

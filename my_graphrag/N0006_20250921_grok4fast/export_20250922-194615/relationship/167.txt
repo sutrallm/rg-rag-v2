@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>FIRST TO FOURTH DHAYANA</target_entity>
+    <relationship_description>Non-indolence enables the guarding or pursuit of the dhyanas, protecting these meditative states from disruption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

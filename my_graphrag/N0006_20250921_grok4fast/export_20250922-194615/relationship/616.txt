@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAPTURE</source_entity>
+    <target_entity>BLISS</target_entity>
+    <relationship_description>Rapture progresses to bliss in the meditative stages, calming the mind further.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>The enlightened being is endowed with concentration and stability, enabling thorough insight and inner freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

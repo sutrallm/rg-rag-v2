@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MIND_LIBERATION</target_entity>
+    <relationship_description>Meditation leads to mind liberation by providing insight into impermanence and freedom from attachments and defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

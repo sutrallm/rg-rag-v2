@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_INDUCEMENT</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Those practicing non-indulgence abide in lasting joy through liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

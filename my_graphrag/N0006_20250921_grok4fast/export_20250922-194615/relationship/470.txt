@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSE_OBJECTS</source_entity>
+    <target_entity>MIND_LIBERATION</target_entity>
+    <relationship_description>No longer deluded by sense objects, the mind attains complete liberation and freedom from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_NEGLIGENCE</source_entity>
+    <target_entity>HOLY_CONDUCT</target_entity>
+    <relationship_description>Non-negligent practitioners accomplish holy conduct as a result of their vigilant practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

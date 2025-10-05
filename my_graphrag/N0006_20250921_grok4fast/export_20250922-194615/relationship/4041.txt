@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FEELINGS</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Mindful observation of feelings prevents attachment to pleasant, painful, or neutral sensations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

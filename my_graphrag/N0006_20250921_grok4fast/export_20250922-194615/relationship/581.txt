@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Holy beings, possessing precepts, wisdom, and compassion, cut off and are free from all suffering and afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

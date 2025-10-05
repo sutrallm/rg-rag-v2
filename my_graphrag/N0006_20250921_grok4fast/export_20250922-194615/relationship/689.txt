@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>AWAKENED_BEING</target_entity>
+    <relationship_description>An awakened being uses wisdom to see the empty and interdependent nature of all things.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILENCE</source_entity>
+    <target_entity>EASE</target_entity>
+    <relationship_description>Silence leads to lightness and ease of mind in meditative states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

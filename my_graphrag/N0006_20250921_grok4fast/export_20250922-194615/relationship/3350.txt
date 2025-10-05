@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SECOND JHANA</source_entity>
+    <target_entity>THIRD JHANA</target_entity>
+    <relationship_description>The third jhana follows by relinquishing joy, focusing on mindful equanimous pleasure.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

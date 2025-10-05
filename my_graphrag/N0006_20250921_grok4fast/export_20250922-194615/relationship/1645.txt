@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVAS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Devas respect accomplished practitioners for their virtues in precepts, wisdom, and diligence.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

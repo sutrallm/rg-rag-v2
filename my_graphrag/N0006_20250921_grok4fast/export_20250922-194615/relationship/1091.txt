@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>DELETION OF CHARACTERS AND LOCATIONS</target_entity>
+    <relationship_description>The query specifies this modification as part of the text processing requirements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

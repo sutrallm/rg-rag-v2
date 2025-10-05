@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Saints inspire respect and admiration from devas due to their spiritual achievements and qualities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

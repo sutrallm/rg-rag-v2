@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>AWAKENED_ONE</target_entity>
+    <relationship_description>Through mindfulness combined with non-laxity, practitioners attain awakening, experiencing joy, stability, supreme peace, and freedom from worldly disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

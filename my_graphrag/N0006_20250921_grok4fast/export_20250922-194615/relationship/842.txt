@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Precepts are upheld through mindfulness to inspect and purify behavior against temptations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

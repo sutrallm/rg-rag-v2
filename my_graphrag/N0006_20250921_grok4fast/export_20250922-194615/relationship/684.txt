@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>RIGHT_PATH</target_entity>
+    <relationship_description>Diligent practice involves steadfast adherence to the right path to avoid spiritual decline.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

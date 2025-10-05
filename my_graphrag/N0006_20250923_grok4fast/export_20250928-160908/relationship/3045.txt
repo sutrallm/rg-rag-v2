@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRES</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Desires contribute to the broader afflictions that cause scattered thoughts and perpetuate suffering in the indulgent person.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

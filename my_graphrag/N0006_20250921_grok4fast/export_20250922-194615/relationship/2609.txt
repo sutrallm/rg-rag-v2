@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODHISATTVA</source_entity>
+    <target_entity>DILIGENT_PRACTICE</target_entity>
+    <relationship_description>Bodhisattva compassionately teaches disciples to diligently practice without slacking to achieve the path of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

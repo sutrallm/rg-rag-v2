@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Diligent and continuous practice without heedlessness leads to mastering the method of meditation and attaining liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

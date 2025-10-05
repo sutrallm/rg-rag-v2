@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Non-indulgence enables diligent practice leading to wisdom liberation alongside mind liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

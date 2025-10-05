@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Meditation generates joy that nourishes the body and mind like bathing in dew.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

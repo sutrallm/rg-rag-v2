@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence prevents the practitioner from falling under the control of the death demon.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>HOLY FRUITS</target_entity>
+    <relationship_description>Non-indolence through diligent practice leads to the attainment of holy fruits.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

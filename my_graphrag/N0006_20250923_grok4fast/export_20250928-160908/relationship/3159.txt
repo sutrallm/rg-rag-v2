@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Afflictions are overcome to achieve liberation via precepts and meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

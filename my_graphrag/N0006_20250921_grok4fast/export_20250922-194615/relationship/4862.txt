@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>SUPREME_ENLIGHTENMENT</target_entity>
+    <relationship_description>Sustained vigilance achieves supreme enlightenment, the highest fruit on the path to nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

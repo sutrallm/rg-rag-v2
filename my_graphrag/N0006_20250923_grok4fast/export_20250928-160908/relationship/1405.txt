@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners engage in meditation to escape troubles, gain inner peace, mental liberation, and master its methods through diligence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

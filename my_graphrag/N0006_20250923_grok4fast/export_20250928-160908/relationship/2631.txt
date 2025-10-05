@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Diligent practice allows transcendence of all worldly sufferings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

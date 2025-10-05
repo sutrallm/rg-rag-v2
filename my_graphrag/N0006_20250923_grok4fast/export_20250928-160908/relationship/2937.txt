@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文内容</source_entity>
+    <target_entity>修改格式</target_entity>
+    <relationship_description>The original content is to undergo format modification as part of the processing according to user requirements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

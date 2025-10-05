@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>GODS</target_entity>
+    <relationship_description>Saints who dwell in stillness and transcend pain earn respect from the Gods.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

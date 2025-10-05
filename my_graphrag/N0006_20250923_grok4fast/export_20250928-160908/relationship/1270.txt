@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Indolence leads to falling under death's control, like a deer into a hunter's trap or the king of death's net.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

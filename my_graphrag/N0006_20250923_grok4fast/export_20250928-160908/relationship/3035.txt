@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTITIONER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The diligent practitioner breaks the shackles of afflictions through continuous practice and meditation, leading to their eradication.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

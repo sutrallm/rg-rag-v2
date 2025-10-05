@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>SENSE BASES</target_entity>
+    <relationship_description>Mindfulness guards the sense bases against invasion by afflictions like greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

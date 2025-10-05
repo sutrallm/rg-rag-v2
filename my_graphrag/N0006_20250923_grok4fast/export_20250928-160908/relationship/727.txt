@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPT AGGREGATE</source_entity>
+    <target_entity>CONCENTRATION AGGREGATE</target_entity>
+    <relationship_description>Precepts provide the ethical base that enables the development of concentration in the threefold training.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

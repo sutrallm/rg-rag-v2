@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom provides insight into impermanence, leading to non-clinging and ultimate peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

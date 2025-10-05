@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUCHNESS</target_entity>
+    <relationship_description>Severing afflictions enables verification of suchness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

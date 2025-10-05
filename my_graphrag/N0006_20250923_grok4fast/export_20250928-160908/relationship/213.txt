@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Those with heart liberation pursue Nirvana without attachment or bondage, preserving freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

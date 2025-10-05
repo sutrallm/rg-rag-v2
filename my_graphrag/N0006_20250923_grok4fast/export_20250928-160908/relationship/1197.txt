@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONE</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Heavenly beings hold respect for noble ones who have perfected discipline, wisdom, and freedom from defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

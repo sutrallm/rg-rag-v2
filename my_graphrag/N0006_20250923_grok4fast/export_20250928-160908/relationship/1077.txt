@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>Following the Buddha's guidance helps avoid control by the Death Demon through non-lax practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

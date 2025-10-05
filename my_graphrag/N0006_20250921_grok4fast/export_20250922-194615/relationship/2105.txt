@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Understanding impermanence prevents attachment, allowing free pursuit of liberation without being bound.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

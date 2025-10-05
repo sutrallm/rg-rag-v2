@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS AND WISDOM</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Precepts and wisdom define the qualities of a saint, enabling complete severance of afflictions and dwelling in stillness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

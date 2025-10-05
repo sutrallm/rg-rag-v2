@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>Sheng Zhe eradicate Fan Nao completely.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Mara perpetuates entrapment in samsara through temptation and lack of diligence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

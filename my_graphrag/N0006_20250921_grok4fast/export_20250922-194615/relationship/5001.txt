@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>CAUSE OF SUFFERING</target_entity>
+    <relationship_description>The Four Noble Truths guide the extinguishing of the causes of suffering through right view and practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

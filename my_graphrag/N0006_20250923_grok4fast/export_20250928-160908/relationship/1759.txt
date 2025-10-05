@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Wisdom is gained through zen meditation, enabling the cutting of greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

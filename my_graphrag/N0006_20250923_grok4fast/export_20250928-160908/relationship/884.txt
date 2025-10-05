@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HOLY PRACTITIONER</target_entity>
+    <relationship_description>The practitioner who fully embodies precepts, wisdom, and diligence becomes a holy practitioner who cuts off afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

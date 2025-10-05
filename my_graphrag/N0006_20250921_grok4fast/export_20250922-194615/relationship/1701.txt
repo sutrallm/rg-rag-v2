@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUKKHA</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Insight into dukkha helps cut off greed along with other marks of existence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGGREGATES</source_entity>
+    <target_entity>EGO_CLINGING</target_entity>
+    <relationship_description>Realizing the emptiness of the five aggregates breaks ego-clinging and attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

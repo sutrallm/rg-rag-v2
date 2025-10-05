@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Liberation transcends impermanence and worldly attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

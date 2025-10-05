@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Through focused mind in non-indolence, practitioners avoid greed as one of the key afflictions leading to unrest.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

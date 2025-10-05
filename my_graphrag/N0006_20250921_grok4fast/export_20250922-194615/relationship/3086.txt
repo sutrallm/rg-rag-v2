@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-IDLENESS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Non-idleness enables progression to higher levels of meditation through sustained vigilance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Awakening involves insight into the truth of suffering, along with impermanence, leading to non-clinging to sensory pleasures.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

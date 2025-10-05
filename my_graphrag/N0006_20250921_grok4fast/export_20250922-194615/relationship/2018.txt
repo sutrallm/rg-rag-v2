@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JOY AND LIGHTNESS</target_entity>
+    <relationship_description>Meditation practiced with non-indolence generates states of joy and lightness by focusing on wholesome dharmas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

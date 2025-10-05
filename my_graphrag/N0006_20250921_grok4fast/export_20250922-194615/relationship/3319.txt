@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE BEINGS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Noble beings fully eradicate afflictions like greed, hatred, and delusion, transcending suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

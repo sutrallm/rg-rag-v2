@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>MINDFUL MEDITATION</target_entity>
+    <relationship_description>Liberation is attained through mindful meditation, which extinguishes greed and attachments, making the mind vast like space.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

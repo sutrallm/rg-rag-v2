@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>THREE_EVIL_PATHS</target_entity>
+    <relationship_description>Indolence causes falling into the three evil paths as a result of being trapped by defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

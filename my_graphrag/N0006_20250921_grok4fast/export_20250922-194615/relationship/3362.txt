@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SECOND JHANA</source_entity>
+    <target_entity>APPLIED_THOUGHT</target_entity>
+    <relationship_description>The second jhana abandons applied thought and sustained thought to achieve internal joy and unified mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

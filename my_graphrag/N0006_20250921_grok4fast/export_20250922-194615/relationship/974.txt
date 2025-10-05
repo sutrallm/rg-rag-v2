@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>BIRTH OLD AGE SICKNESS DEATH</target_entity>
+    <relationship_description>Severing afflictions allows eternal escape from the sufferings of birth, old age, sickness, and death for true practitioners.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

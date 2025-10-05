@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Mental liberation distances one from ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

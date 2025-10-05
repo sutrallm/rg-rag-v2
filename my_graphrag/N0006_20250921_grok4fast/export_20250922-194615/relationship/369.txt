@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>FRUITS OF LIBERATION</target_entity>
+    <relationship_description>Precepts, along with concentration and wisdom, lead to the fruits of liberation by enabling the eradication of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Laxity easily produces evil karma, leading to suffering and entrapment in the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

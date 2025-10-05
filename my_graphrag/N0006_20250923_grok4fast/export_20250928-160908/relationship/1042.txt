@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>In samadhi, practitioners observe the impermanence of body and mind, generating wisdom for detachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

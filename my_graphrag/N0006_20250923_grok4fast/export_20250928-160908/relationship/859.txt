@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>THREE EVIL REALMS</target_entity>
+    <relationship_description>Non-indolence allows practitioners to abide in the proper path, avoiding fall into the evil realms.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Awakened ones are not bound or deluded by the five aggregates, transcending their influence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

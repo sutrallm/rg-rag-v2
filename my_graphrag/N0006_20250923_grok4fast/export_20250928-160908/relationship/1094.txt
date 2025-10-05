@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners achieve tranquility through meditation, leading to inner peace free from distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

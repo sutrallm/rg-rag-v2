@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners attain liberation through diligent practice of mindfulness and concentration, freeing from desires and samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

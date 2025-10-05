@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Compassion counters anger to prevent self-inflicted harm and progress toward Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

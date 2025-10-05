@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NON-LAX PRACTICE</target_entity>
+    <relationship_description>The practitioner is the one who engages in non-lax practice as the foundation of spiritual cultivation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

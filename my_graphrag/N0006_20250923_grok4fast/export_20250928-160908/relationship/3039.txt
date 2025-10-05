@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENT PERSON</source_entity>
+    <target_entity>DESIRES</target_entity>
+    <relationship_description>The indulgent person is dominated by desires and miscellaneous thoughts, leading to mental scattering and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL CONTEMPLATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mindful contemplation of impermanence leads to pure inner freedom, a state of liberation from attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

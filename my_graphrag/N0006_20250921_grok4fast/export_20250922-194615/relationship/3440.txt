@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA CONTEMPLATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Dharma Contemplation directly observes impermanence among dharmas to realize emptiness and no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

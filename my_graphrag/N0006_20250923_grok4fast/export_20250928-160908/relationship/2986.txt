@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints embody wisdom that enables them to sever all afflictions, end suffering, and reach sublime achievements admired by devas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RETENTION OF DOCTRINAL DETAILS</source_entity>
+    <target_entity>DELETION OF CHARACTERS AND LOCATIONS</target_entity>
+    <relationship_description>This retention ensures that deletions do not affect core teachings, only narrative elements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

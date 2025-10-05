@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>QUIETNESS</target_entity>
+    <relationship_description>Diligent meditation leads to abiding in quietness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

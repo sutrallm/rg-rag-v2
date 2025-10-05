@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Samadhi enables practitioners to gain mental liberation and insights that lead to full release from afflictions and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

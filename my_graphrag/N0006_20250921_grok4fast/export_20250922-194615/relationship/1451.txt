@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>AFFLICTION</target_entity>
+    <relationship_description>Abiding in tranquility allows saints to sever afflictions completely.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

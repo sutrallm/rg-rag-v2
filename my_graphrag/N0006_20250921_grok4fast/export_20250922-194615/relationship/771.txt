@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DETACHMENT</target_entity>
+    <relationship_description>Wisdom facilitates detachment from attachments and realms, allowing unhindered freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

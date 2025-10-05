@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom observes and clearly understands suffering in all phenomena, alongside impermanence, emptiness, and no-self, leading to worldly detachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

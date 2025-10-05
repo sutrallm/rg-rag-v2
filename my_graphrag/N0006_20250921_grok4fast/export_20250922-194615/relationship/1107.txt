@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>OUTPUT FORMAT</source_entity>
+    <target_entity>THEME CLARIFICATION</target_entity>
+    <relationship_description>The output format supports clearer theme presentation through structured numbering and direct language.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

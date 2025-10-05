@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Through vigilance and diligence, practitioners eradicate defilements to achieve ultimate liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

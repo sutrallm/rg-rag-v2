@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GODS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Gods respect saints for their possession of precepts, wisdom, and transcendence of afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

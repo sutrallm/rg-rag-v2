@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>NON-INDULGENCE</target_entity>
+    <relationship_description>Indulgence is the opposite of non-indulgence, causing fear, afflictions, and suffering while blocking the benefits of diligent practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

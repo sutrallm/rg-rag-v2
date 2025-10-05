@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>REGRET</target_entity>
+    <relationship_description>Breaking precepts leads to regret, while upholding them provides stability.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

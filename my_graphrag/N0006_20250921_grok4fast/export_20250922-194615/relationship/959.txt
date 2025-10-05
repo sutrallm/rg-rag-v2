@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANT ONE</source_entity>
+    <target_entity>NON-INDULGENCE</target_entity>
+    <relationship_description>Vigilant ones embody non-indulgence, gaining respect from world and heavens, dwelling in joy, and avoiding evil realms.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-indulgence is the core practice adopted by practitioners to avoid dangers, gain liberation, and achieve holy status.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

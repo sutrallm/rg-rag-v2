@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CUTTING GREED AND ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Cutting greed and attachment to sensory pleasures provides the path to liberation from confusion and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

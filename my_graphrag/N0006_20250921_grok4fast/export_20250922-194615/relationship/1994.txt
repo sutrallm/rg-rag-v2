@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PURE LAND</target_entity>
+    <relationship_description>Saints attain the ultimate bliss of the pure land by eliminating afflictions and transcending pain.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

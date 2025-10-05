@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-negligence is the core practice for practitioners to maintain focus and achieve spiritual goals.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

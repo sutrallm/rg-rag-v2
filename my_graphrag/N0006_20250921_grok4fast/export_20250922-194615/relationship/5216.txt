@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEINGS</source_entity>
+    <target_entity>TROUBLES</target_entity>
+    <relationship_description>Holy beings thoroughly eradicate troubles through precepts, wisdom, and tranquility.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>Laxity leads to ensnarement by the Death Demon, which diligent practitioners avoid.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints are characterized by wisdom that complements precepts in severing afflictions and transcending suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

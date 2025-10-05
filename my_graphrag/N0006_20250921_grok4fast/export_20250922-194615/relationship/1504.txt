@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN DING</source_entity>
+    <target_entity>SI CHAN FEN RAO</target_entity>
+    <relationship_description>Zen Ding enables Xiu Xing Zhe to avoid Si Chan Fen Rao, providing freedom like walking in an undisturbed forest.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

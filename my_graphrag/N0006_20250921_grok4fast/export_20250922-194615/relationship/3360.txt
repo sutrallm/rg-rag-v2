@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRST JHANA</source_entity>
+    <target_entity>APPLIED_THOUGHT</target_entity>
+    <relationship_description>The first jhana is accompanied by applied thought, sustained thought, joy, pleasure, and one-pointedness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

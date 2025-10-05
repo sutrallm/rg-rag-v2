@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Saints command respect from devas due to their fulfillment of precepts and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

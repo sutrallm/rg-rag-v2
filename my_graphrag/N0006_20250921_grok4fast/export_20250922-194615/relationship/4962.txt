@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>RESPECT</target_entity>
+    <relationship_description>Practitioners who possess precepts, wisdom, and diligence naturally obtain respect.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

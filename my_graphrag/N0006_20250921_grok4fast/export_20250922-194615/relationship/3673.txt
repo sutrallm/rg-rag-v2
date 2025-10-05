@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>FOUR_SUFFERINGS</target_entity>
+    <relationship_description>Non-laxity leads away from the four sufferings of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

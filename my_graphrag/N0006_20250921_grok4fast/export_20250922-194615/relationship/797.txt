@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Zen meditation cultivates the mind to achieve stillness, peace, and freedom from scattering and attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

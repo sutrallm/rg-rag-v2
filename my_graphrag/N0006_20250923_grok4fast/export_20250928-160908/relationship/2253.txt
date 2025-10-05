@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Mindfulness protects against delusions and progressively directs practitioners toward the liberation of Nirvana.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

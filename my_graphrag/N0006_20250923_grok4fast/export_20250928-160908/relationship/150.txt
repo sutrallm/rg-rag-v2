@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>THREE LEARNINGS</target_entity>
+    <relationship_description>Saints embody the three learnings of precepts, meditation, and wisdom in their practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

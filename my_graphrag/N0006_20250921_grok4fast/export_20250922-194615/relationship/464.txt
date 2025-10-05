@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Through meditation, practitioners rid themselves of laxity and afflictions to achieve inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

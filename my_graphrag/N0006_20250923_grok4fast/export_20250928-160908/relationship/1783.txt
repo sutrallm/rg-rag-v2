@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must practice with diligence to master meditation and avoid downfall.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

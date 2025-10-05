@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints possess complete wisdom that illuminates all and eradicates afflictions, transcending birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

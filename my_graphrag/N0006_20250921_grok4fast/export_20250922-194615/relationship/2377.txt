@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_JHANAS</source_entity>
+    <target_entity>ARAHANTSHIP</target_entity>
+    <relationship_description>The four jhanas are stepping stones in meditation leading progressively to arahantship.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

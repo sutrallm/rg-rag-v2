@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>BAD FRIENDS</target_entity>
+    <relationship_description>Diligence helps avoid the harmful pull of bad friends that lead to downfall.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

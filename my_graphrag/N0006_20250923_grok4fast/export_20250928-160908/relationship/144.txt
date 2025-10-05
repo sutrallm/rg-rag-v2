@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts combined with wisdom allow for constant mindfulness and the elimination of evil karma's roots.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

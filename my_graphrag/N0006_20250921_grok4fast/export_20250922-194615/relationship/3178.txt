@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Samadhi allows practitioners to escape negligence and afflictions, similar to a beast walking undisturbed, attaining inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

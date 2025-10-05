@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>TEACHINGS</target_entity>
+    <relationship_description>Practitioners adhere to teachings through diligence to gain comprehension and avoid the control of death and desire.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

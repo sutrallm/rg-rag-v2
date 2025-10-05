@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is one of the three elements of the Threefold Training, integral to enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

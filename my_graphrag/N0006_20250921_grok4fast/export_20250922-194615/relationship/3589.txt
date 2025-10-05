@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>GODS</target_entity>
+    <relationship_description>Saints earn respect even from gods due to their attainment of precepts, wisdom, and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

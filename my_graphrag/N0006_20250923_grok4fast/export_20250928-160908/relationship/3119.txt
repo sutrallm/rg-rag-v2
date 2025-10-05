@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>NOBLE FRUITS</target_entity>
+    <relationship_description>Holding precepts, as one of the paramitas, accumulates provisions, cuts habitual tendencies, and leads to attaining noble fruits.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

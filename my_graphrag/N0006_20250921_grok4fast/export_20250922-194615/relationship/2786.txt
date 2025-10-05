@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Progressive liberation through practice culminates in the ultimate state of nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

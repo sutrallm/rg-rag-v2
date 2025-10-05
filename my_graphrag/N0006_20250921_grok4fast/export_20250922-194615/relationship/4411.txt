@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Practitioners achieve samadhi through focused mind and mindfulness, entering a state of purity and peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

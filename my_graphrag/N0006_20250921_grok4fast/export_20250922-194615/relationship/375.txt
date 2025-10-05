@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>TRUE NATURE OF PHENOMENA</target_entity>
+    <relationship_description>Wisdom in awakened ones illuminates the true nature of all phenomena, revealing impermanence and no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

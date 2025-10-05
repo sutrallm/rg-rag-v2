@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation frees one from samsara's cycle of suffering, attainable only through non-laxity and eradicating afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

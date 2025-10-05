@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners follow teachings through diligence to master meditation and avoid death's control.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

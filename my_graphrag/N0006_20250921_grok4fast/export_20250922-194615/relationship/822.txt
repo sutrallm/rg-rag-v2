@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy practitioners possess wisdom that enables them to abide in stillness, extinguish afflictions, and gain respect from celestial beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

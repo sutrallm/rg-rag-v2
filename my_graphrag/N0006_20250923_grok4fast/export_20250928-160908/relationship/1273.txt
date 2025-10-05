@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>HOLY BEING</target_entity>
+    <relationship_description>Holy beings sever afflictions through precepts and wisdom to transcend suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

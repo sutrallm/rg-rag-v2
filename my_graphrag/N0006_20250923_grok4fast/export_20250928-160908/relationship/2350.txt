@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Meditation is the primary practice through which practitioners achieve mental liberation, inner peace, and insight into impermanence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

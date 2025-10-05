@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Meditation in a calm mind free of hindrances produces joy and bliss, deepening the practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

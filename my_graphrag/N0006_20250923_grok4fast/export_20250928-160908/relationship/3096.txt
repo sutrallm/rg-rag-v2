@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>BAD_KARMA</target_entity>
+    <relationship_description>Afflictions lead to the growth of bad karma, resulting in suffering and samsara's bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Practitioners gain mental liberation through zen meditation, allowing insight into impermanence and freedom from attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

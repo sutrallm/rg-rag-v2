@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>The Noble Path includes concentration to stabilize the mind and support wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

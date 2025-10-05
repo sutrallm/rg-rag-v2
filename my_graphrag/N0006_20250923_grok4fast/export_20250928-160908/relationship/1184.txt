@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Practitioners maintain mindfulness during Zen meditation to avoid idleness and troubles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

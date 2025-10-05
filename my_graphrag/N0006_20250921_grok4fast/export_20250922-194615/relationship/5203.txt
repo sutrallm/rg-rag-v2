@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Diligent practice avoids and counters laxity to prevent control by death and troubles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

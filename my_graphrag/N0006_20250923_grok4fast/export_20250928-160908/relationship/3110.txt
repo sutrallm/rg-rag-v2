@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATIENCE</source_entity>
+    <target_entity>NOBLE FRUITS</target_entity>
+    <relationship_description>Patience, along with other paramitas, leads to the attainment of noble fruits by enduring the path and eliminating tendencies.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

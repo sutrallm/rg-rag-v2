@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Celestial beings respect the merits and spiritual accomplishments of saints.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

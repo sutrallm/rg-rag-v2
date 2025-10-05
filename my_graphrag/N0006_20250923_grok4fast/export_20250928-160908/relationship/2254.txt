@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Contemplation of impermanence cultivates dispassion and turns the mind toward the peaceful bliss of unattached Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

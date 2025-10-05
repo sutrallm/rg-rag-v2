@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THREEFOLD LEARNING</target_entity>
+    <relationship_description>Saints possess the complete threefold learning of precepts, meditation, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

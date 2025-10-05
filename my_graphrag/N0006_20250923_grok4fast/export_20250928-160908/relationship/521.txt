@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Zen meditation requires diligent practice to be mastered, as continuous effort prevents negligence and allows deepening into meditative states without being bound by afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>FREEDOM</target_entity>
+    <relationship_description>Pursuit of Nirvana, free from attachment, leads to ultimate freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

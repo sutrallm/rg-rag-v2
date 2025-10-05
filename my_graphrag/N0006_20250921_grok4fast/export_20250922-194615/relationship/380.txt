@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT EFFORT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Right effort, with meditative contemplation, leads to severing attachments and attaining nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>RIGHT ACTION</target_entity>
+    <relationship_description>Awakened beings possess right action, remaining detached and compassionate while navigating the world unstained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

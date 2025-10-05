@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AI ASSISTANT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The AI assistant references and commits to processing the original text once provided, highlighting its absence as the core issue.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

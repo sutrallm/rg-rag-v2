@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>THEME CLARIFICATION</target_entity>
+    <relationship_description>The themes of the original text should be made more explicit.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

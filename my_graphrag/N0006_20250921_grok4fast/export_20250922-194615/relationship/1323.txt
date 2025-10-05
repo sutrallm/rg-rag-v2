@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHOU NIAN CHU</source_entity>
+    <target_entity>TAN YU</target_entity>
+    <relationship_description>Feelings contemplation helps distance from greed by observing pleasant sensations without attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

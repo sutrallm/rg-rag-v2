@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Continuous diligence in practice leads to the attainment of liberation by eradicating defilements and transcending attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Greed binds indulgent people, causing them to fall into evil realms like drinking poisoned wine, with inescapable samsara suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

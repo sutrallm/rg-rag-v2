@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Practitioners transcend attachment to realms and results through meditative wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFUL FOCUS</target_entity>
+    <relationship_description>Meditation requires and is achieved through mindful focus of the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

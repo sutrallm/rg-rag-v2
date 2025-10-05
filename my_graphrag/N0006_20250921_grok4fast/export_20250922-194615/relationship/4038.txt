@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DISENCHANTMENT</target_entity>
+    <relationship_description>Contemplation of impermanence in the body evokes disenchantment and aversion to clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>SUPREME_BLISS</target_entity>
+    <relationship_description>Awakened ones experience supreme bliss through the complete severing of attachments and attainment of eternal freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

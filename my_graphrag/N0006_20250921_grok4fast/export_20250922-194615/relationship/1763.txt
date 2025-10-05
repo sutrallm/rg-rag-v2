@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Laxity traps individuals in samsara through repeated suffering and rebirth due to unchecked temptations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Concentration developed through diligence supports the path to nirvana, eternal peace free from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

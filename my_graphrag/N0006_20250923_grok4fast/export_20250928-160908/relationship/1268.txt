@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Diligent practice continuously avoids indolence to escape death's control and master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

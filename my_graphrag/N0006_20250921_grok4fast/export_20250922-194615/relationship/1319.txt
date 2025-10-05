@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>SHOU NIAN CHU</target_entity>
+    <relationship_description>Feelings contemplation is a core part of the foundations of mindfulness, focusing on sensations' arising and passing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

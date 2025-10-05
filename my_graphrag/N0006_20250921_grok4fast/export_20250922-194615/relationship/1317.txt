@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XING ZHE</source_entity>
+    <target_entity>NIAN CHU</target_entity>
+    <relationship_description>The practitioner engages in the foundations of mindfulness to observe body, feelings, mind, and dharmas for purification and liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

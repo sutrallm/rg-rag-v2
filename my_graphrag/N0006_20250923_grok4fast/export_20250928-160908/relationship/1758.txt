@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Zen meditation cultivates wisdom that achieves wisdom liberation by severing afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

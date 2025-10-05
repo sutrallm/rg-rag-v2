@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Practitioners fulfilled in precepts and wisdom receive respect and offerings from devas.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

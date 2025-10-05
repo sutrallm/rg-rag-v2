@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Saints transcend suffering by diligently cultivating mind and wisdom to sever its roots.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

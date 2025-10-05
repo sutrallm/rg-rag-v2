@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The death demon represents forces of idleness and control that contribute to mental afflictions overcome by diligent practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

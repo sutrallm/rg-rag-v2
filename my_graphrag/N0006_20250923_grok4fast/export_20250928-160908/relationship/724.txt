@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE EIGHTFOLD PATH</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>The Noble Eightfold Path is accomplished by breaking the five hindrances through diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

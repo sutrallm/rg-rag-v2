@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Mind liberation results in freedom from attachment to states or outcomes, even in pursuit of spiritual goals.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

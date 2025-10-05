@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>DANGERS</target_entity>
+    <relationship_description>Vigilance allows practitioners to stay away from dangers by not indulging in sensory pleasures.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

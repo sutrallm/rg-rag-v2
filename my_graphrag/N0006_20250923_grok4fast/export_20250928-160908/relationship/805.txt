@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADAPTATION</source_entity>
+    <target_entity>METAPHORS AND DIALOGUES</target_entity>
+    <relationship_description>Adaptation converts metaphors and dialogues into direct forms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

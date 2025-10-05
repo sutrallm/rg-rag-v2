@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Saints attain ultimate liberation by cutting off all afflictions and transcending pain through diligent mind cultivation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>NIHVARNA</target_entity>
+    <relationship_description>Through non-indolence and diligence, practitioners obtain the bliss of Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

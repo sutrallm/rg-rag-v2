@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Avoiding laxity is necessary to attain liberation from samsara and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

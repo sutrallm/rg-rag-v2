@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR SUFFERINGS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The four sufferings represent core aspects of existential suffering transcended by enlightened practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

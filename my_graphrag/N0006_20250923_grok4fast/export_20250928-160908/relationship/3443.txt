@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY_JOYS</source_entity>
+    <target_entity>MEDITATION_JOY</target_entity>
+    <relationship_description>Worldly joys, though pleasing to the ear, are not as pure as meditation joy.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

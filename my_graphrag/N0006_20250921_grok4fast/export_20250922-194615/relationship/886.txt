@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Wisdom, along with precepts, is possessed by saints who abide in stillness and transcend suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

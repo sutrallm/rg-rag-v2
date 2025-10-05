@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Through diligence, practitioners avoid control by afflictions and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

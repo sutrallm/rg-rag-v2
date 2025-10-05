@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Laxity causes people bound by the three poisons to fall into samsara's painful cycle, difficult to escape, unlike non-lax who awaken quickly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

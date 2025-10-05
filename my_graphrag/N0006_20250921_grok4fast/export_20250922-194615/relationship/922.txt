@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Through Zen meditation, practitioners are freed from afflictions, gaining inner peace and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

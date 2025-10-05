@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>愚癡</target_entity>
+    <relationship_description>愚癡 is a core 煩惱 eliminated to achieve full liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

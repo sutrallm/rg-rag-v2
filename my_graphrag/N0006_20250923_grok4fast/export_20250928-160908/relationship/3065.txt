@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_NEGLIGENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-negligence results in the attainment of Nirvana, free from afflictions and cyclic suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

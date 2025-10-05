@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Practitioners observe precepts to build a moral foundation, subdue the mind, and support meditative progress toward wisdom and saintly qualities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Saints earn respect from devas due to their achievement in diligently practicing mindfulness, abiding in tranquility, and eliminating all afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Practitioners undertake diligent practice to follow the true dharma and achieve liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

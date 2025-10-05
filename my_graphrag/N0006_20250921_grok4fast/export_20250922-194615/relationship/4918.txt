@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>BODHI</target_entity>
+    <relationship_description>Diligent practice leads to the perfection of bodhi by surmounting all hindrances.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

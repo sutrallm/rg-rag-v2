@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Non-negligence eliminates ignorance through insightful practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The simultaneous cultivation of the three trainings—precepts, concentration, and wisdom—unites to achieve supreme liberation, distancing from negligence and unmoved by worldly temptations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

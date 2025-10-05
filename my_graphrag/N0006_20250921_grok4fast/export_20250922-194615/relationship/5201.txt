@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PURITY</target_entity>
+    <relationship_description>Meditation attains purity as a clear mental state free from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

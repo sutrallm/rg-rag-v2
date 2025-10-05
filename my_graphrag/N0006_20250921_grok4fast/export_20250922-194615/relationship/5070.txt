@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Awakened ones use wisdom to illuminate worldly truths.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

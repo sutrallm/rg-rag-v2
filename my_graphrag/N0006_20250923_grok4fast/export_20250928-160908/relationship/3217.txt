@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Diligent practice requires constant avoidance of indulgence to maintain progress and control.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Those with mental liberation do not cling to any realm or result, even when pursuing them, viewing everything as illusion and dream.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Indulgence makes it difficult for practitioners to generate diligence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

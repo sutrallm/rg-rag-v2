@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_TRAININGS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Saints possess the three trainings fully, using them to dwell in tranquility and eliminate all afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENT CULTIVATION</source_entity>
+    <target_entity>RIGHT PATH</target_entity>
+    <relationship_description>Non-indolent cultivation involves constant focus on the right path to master birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

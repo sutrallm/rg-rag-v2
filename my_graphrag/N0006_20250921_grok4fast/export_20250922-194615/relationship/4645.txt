@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Diligence, combined with precepts and meditation, allows transcendence of the rebirth cycle in evil paths.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

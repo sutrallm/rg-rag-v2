@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELATED TEXTS</source_entity>
+    <target_entity>TITLES</target_entity>
+    <relationship_description>Titles within or for related texts are subject to improvement during formatting.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

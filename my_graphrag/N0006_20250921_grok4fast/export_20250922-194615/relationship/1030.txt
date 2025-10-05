@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The Awakened One teaches non-laxity as the direct path to Nirvana, freeing one from birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

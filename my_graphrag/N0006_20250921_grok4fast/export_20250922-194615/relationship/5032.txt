@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>RESULTS</target_entity>
+    <relationship_description>Attachment binds one to results of practice, but is avoided by those pursuing without being bound.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

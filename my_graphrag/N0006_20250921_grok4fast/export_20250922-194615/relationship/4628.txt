@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Diligent meditation in non-idle practitioners gives rise to joy, supporting progress to higher states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

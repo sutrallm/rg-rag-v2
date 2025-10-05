@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Holy ones maintain concentration to abide in stillness and remain unaffected by external changes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

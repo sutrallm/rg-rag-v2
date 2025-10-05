@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Death and samsara exert control together, escaped through mindfulness and diligence for eternal peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

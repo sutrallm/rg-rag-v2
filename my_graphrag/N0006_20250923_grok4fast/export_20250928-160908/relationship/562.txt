@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISSIPATION</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Dissipation leads to control by death and its demon.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

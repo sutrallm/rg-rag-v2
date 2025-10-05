@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>PURE CONDUCT</target_entity>
+    <relationship_description>Mindfulness in guarding body and mind against laxity results in attaining pure Brahma conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligent and persistent practice is necessary to master meditation and attain mental fixation and wisdom, avoiding indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

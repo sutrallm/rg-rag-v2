@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>QIN FEN</target_entity>
+    <relationship_description>Sheng Zhe demonstrate Qin Fen in refining Zen Ding and breaking Fan Nao.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

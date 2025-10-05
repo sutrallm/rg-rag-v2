@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE BEINGS</source_entity>
+    <target_entity>CYCLE OF BIRTH AND DEATH</target_entity>
+    <relationship_description>Noble beings transcend the suffering of the cycle of birth and death by eradicating afflictions through the three trainings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

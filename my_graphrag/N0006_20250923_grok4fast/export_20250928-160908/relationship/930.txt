@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Awakened ones achieve mind liberation from all bonds through insights, severing affliction roots.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>A fully realized practitioner becomes a saint through the completion of precepts, meditation, and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Precepts, in combination with wisdom, enable the attainment of mental liberation by cutting off greed, love, and attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

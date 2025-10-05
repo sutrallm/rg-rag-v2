@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>觉醒者</target_entity>
+    <relationship_description>觉醒者 are free from 烦恼, dwelling unattached like empty space through insightful observation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

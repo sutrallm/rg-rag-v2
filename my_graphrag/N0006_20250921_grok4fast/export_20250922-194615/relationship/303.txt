@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENDING VERSE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The ending verse is a component of the original text that should be deleted entirely.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

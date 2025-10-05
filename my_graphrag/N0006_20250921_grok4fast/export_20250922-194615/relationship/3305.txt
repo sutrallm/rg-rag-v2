@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>Holy ones inspire respect and reverence in celestial beings due to their transcendent qualities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE DING HUI</source_entity>
+    <target_entity>YU CHI</target_entity>
+    <relationship_description>The three trainings completely eliminate delusion along with greed and hatred.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>Practitioners achieve inner peace through meditation by focusing the mind and escaping laxity and afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

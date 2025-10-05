@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REBIRTH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation ends the endless cycle of rebirth caused by indolence and defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

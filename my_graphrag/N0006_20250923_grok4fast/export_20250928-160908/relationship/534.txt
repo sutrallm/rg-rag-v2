@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Diligent practice counters negligence, fostering the unwavering effort needed to eradicate afflictions and progress toward nirvana, escaping the cycle of rebirth for profound peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

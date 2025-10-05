@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>WORLDLY PHENOMENA</target_entity>
+    <relationship_description>Non-indolent followers gain insight into the impermanence and emptiness of worldly phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

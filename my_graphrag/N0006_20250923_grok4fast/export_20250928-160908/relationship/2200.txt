@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAN YU</source_entity>
+    <target_entity>ZEN DING</target_entity>
+    <relationship_description>Tan Yu disrupts Xin Ling, hindering Zen Ding's depth without its eradication through observation and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

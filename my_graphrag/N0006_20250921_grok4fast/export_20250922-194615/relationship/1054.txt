@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Diligent practice helps practitioners avoid being bound by delusion, one of the three poisons.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

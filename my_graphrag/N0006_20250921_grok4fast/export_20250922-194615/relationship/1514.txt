@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>Sheng Zhe fully sever Fan Nao through complete qualities, transcending suffering and earning Tian Jie Zhong Sheng's respect.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

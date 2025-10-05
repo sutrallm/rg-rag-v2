@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEING</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Holy beings dwelling in silence cut off all afflictions and pains.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

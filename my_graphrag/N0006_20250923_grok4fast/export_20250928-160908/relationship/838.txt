@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Diligence, through continuous effort and mindfulness, destroys the net of indolence like an arrow piercing barriers.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

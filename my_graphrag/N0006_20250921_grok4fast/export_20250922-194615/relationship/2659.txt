@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Wisdom arises from mental liberation, fostering non-attachment to results and realms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

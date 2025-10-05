@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners use meditation to achieve inner peace, liberation, and insight into impermanence, escaping indulgence and afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>EMPTYNESS</target_entity>
+    <relationship_description>Wisdom grants insight into emptiness through meditation, enabling non-attachment to any realms or outcomes for unhindered freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

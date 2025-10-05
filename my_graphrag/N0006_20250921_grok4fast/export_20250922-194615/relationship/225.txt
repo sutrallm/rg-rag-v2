@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Diligence contributes to ultimate liberation by fostering peace, wisdom, and avoidance of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

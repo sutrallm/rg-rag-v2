@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Diligent practice supports sustained mindfulness to protect the mind and progress toward liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

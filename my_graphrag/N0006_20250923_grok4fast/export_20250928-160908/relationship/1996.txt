@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>The practitioner avoids the perils of the three poisons (greed, hatred, delusion) through non-indolent effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

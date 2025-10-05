@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Complete liberation of the heart from afflictions enables equal viewing of the world without being moved by desires or pains.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

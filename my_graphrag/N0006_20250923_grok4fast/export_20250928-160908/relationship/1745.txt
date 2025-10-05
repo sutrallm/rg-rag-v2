@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The three poisons are the root causes that drive suffering and the cycle of rebirth, eradicated through wisdom to transcend all pain.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

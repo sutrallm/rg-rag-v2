@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mastery of Zen meditation leads to liberation by freeing the mind from afflictions and achieving profound joy.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

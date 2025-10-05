@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAX PRACTICE</source_entity>
+    <target_entity>NOBLE PATH FRUITS</target_entity>
+    <relationship_description>Non-lax practice, through hearing the Dharma, reflection, remembrance, contemplation, and focused meditation, leads to attaining the noble path fruits.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

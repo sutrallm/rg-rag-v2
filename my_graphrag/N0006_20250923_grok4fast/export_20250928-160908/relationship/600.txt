@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints are characterized by their possession of wisdom, which supports diligent mind cultivation and affliction elimination.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

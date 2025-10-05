@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Practitioners must follow teachings through diligent practice to avoid the death demon king's control and prevent mental scattering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

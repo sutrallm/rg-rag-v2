@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY TEMPTATIONS</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Worldly temptations must be avoided through diligence to truly master the practice of Zen meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

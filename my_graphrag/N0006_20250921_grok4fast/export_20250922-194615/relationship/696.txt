@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberated beings possess supreme compassion with wisdom, enabling them to abide in nirvana free from greed and worldly bonds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

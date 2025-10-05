@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA CONTEMPLATION</source_entity>
+    <target_entity>SEVEN FACTORS OF ENLIGHTENMENT</target_entity>
+    <relationship_description>Dharma Contemplation includes observation of the seven factors of enlightenment as part of understanding conditioned dharmas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

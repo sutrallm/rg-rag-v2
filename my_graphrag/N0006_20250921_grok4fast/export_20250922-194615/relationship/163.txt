@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>EIGHT VICTORIES</target_entity>
+    <relationship_description>Non-indolent practitioners achieve the eight victories by fully possessing the five aggregates without their defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

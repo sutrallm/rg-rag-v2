@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISTRACTING THOUGHTS</target_entity>
+    <relationship_description>Meditation enables escape from the interference of distracting thoughts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

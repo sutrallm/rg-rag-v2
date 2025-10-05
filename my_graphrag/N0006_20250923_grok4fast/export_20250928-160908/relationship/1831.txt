@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Saints transcend all suffering by severing afflictions and abiding in tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

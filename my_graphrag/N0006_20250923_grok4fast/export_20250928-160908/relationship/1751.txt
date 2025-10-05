@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SLEEP</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Excessive sleep leads to indulgence and fatigue, obstructing meditation progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

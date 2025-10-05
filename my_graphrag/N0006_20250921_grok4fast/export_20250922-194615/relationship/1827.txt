@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHYANA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Dhyana serves as a stepping stone to mind and wisdom liberation, transcending worldly bonds.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

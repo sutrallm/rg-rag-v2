@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Precepts are the foundation for meditation, serving as the basis for successful practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

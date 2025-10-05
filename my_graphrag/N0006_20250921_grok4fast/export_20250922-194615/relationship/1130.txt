@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>PATH TO CESSATION</target_entity>
+    <relationship_description>The Four Noble Truths culminate in the path to cessation, guiding practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

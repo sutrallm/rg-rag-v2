@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>LORD OF DEATH</target_entity>
+    <relationship_description>Indolence subjects individuals to domination by the lord of death, leading to downfall and failure to achieve meditative mastery or liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

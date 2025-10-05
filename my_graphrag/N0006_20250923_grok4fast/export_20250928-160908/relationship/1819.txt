@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_INDUCEMENT</source_entity>
+    <target_entity>HOLY FRUIT</target_entity>
+    <relationship_description>Non-indulgence enables personal realization of holy fruits and dwelling in joy.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

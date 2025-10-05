@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>COMPASSION</target_entity>
+    <relationship_description>Practitioners practice compassion toward all beings to cultivate peace and accumulate merits, avoiding harm and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

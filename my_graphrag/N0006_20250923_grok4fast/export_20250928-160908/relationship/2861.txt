@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Diligent practice overcomes delusion by fostering clear awareness and restraint.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

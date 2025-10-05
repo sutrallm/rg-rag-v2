@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The perfected threefold training achieves nirvana, the ultimate state beyond all suffering and afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

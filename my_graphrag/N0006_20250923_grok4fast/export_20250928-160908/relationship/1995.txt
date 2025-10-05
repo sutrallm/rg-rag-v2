@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BOATMAN</source_entity>
+    <target_entity>VORTEX</target_entity>
+    <relationship_description>The boatman (representing the practitioner) steers away from the vortex as a metaphor for avoiding spiritual perils.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

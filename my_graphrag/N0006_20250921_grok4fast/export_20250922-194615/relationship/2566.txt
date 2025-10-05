@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEITIES</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Deities respect saints for transcending suffering along with afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

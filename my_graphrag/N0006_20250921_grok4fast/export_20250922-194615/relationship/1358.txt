@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>TRUE_DHARMA</target_entity>
+    <relationship_description>Diligence involves following the true dharma to avoid impermanence and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

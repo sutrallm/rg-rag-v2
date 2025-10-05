@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Negligence gives rise to afflictions like greed and attachments, disturbing the mind and blocking liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Wisdom, gained through meditation, allows the practitioner to see impermanence, avoid attachments, and achieve unhindered freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

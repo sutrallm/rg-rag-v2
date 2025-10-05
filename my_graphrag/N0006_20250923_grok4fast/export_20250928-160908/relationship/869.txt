@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners engage in continuous diligence combined with mindfulness to destroy the net of indolence and attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

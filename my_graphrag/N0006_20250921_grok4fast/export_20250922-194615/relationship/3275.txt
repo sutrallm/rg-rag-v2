@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PROCESSING REQUIREMENTS</target_entity>
+    <relationship_description>The original text is the subject that the processing requirements are designed to transform and refine.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

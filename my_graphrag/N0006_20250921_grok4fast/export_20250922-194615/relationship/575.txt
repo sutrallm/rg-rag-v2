@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEING</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Holy beings inspire respect and reverence in heavenly beings as supreme exemplars of spiritual achievement.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

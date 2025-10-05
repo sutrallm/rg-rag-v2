@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED_ONE</source_entity>
+    <target_entity>WORLDLY_SUFFERING</target_entity>
+    <relationship_description>Liberated ones remain free from worldly suffering despite being in the world.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

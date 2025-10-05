@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHORS AND DIALOGUES</source_entity>
+    <target_entity>DOCTRINAL DETAILS</target_entity>
+    <relationship_description>Metaphors and dialogues are to be converted directly into doctrinal details or law meanings during processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

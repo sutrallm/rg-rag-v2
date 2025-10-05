@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NOBLE ONES</target_entity>
+    <relationship_description>Wisdom, combined with precepts, characterizes noble ones who eradicate afflictions and transcend suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

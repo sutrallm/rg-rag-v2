@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NOBLE ONES</target_entity>
+    <relationship_description>Diligent practitioners become noble ones by perfecting precepts, mindfulness, and silence to cut off troubles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

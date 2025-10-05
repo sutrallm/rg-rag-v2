@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wisdom transcends attachment (超越执着) and destroys delusions and attachments (摧毁妄想与执着).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

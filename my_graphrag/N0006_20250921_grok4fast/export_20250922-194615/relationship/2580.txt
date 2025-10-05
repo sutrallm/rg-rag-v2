@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Wisdom completes the threefold training by uprooting affliction roots and transcending suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

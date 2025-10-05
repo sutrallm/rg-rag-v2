@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Laxity blocks access to nirvana by entangling one in suffering and rebirth through afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

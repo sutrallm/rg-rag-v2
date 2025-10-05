@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHEN NIAN CHU</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Body contemplation recognizes the impermanence of the body in internal and external aspects.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

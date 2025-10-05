@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Through non-dissipated meditation, practitioners attain awakening and insight into deeper truths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

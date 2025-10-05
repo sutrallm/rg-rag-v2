@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY</source_entity>
+    <target_entity>IMPURITY</target_entity>
+    <relationship_description>Observation of the body's internal parts reveals impurity, leading to dispassion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

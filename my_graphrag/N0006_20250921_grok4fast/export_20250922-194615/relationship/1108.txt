@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-indolence is the vigilant practice adopted by the practitioner to focus on spiritual cultivation and achieve purification.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

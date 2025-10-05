@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>OBSERVING PRECEPTS</target_entity>
+    <relationship_description>Observing precepts is one of the three trainings, foundational to the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

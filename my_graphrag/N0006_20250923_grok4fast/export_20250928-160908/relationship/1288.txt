@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUCHNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Verification of suchness through severing afflictions leads to irreversible entry into nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

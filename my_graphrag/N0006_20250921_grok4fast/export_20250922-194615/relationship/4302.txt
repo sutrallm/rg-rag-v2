@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Zen meditation leads practitioners to escape idleness and afflictions, resulting in the attainment of inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

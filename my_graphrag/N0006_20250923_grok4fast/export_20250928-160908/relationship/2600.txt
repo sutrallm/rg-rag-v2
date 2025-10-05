@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>HOLY FRUITS</target_entity>
+    <relationship_description>Laxity prevents the attainment of holy fruits, as individuals remain deluded by afflictions despite engaging in good deeds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

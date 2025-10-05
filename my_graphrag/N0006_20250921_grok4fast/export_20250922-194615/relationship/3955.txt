@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>AWAKENED ONE</target_entity>
+    <relationship_description>The wisdom of awakened ones illuminates ignorance like a bright lamp.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

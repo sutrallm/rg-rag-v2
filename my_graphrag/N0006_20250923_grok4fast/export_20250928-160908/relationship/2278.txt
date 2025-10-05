@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Constant non-indulgence enables true mastery of the method of Zen meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

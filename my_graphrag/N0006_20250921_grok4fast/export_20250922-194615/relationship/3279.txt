@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PLACES</target_entity>
+    <relationship_description>Places mentioned in the original text must be deleted to focus on core ideas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

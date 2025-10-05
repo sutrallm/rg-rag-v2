@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST SCRIPTURES</source_entity>
+    <target_entity>VERNACULAR CHINESE</target_entity>
+    <relationship_description>The Buddhist scriptures are to be translated and converted into vernacular Chinese as part of the processing instructions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

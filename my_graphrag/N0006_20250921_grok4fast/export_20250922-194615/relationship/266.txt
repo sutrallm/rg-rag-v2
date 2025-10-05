@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>LIBERATION FRUIT</target_entity>
+    <relationship_description>Profound insight into impermanence prevents attachment to the liberation fruit, ensuring unobstructed freedom even in its pursuit.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

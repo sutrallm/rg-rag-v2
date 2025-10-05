@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>THREE EVIL REALMS</target_entity>
+    <relationship_description>Indolence leads to rebirth and torment in the three evil realms due to being ensnared by defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

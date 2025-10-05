@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Wisdom illuminates delusion, like light in darkness, to discern right from wrong and escape cyclical existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

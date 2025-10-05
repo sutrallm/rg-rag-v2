@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Precepts, along with mindfulness, enable dwelling in stillness to eradicate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

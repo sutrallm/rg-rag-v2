@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Insight into impermanence extinguishes clinging along with greed through contemplative observation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

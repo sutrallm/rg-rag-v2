@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>PEACE AND JOY</target_entity>
+    <relationship_description>Zen meditation directly brings profound inner peace and joy as its core benefits, free from worldly distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

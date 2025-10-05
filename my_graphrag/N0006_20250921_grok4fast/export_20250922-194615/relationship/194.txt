@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>持续 精进 enables practitioners to avoid 放逸 and its consequences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

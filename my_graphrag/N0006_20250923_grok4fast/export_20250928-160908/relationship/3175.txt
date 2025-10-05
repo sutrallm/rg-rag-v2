@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>NON-INDULGENCE</target_entity>
+    <relationship_description>The Buddha teaches the importance of non-indulgence, vigilance, and effort for spiritual success.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

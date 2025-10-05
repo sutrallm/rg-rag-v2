@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Meditation contributes to the tranquility dwelt in by advanced practitioners like saints.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

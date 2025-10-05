@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUSALITY</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Causality drives the processes of samsara through actions and their consequences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

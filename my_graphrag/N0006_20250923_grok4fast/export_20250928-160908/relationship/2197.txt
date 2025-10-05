@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>TAN YU</target_entity>
+    <relationship_description>Zhi Hui discerns Tan Yu's roots and harms, enabling its weakening and complete eradication through reflection.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

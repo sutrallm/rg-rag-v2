@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Diligence involves the practice of the threefold training in morality, concentration, and wisdom to shatter ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

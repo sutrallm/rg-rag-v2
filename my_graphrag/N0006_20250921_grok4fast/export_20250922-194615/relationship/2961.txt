@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL MIND</source_entity>
+    <target_entity>DISSIPATION</target_entity>
+    <relationship_description>A mindful mind counters dissipation by maintaining focus and awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

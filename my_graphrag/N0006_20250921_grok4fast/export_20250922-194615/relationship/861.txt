@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>DEATH DEMON KING</target_entity>
+    <relationship_description>Enlightened beings transcend and are no longer dominated by the death demon king through non-indulgent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

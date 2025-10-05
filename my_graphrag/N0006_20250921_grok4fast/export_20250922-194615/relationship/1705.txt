@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Insight into no-self cuts off attachment to phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

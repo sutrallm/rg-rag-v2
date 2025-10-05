@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENT PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-indulgent practice serves as the foundation for achieving ultimate liberation from suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>HOLY BEINGS</target_entity>
+    <relationship_description>Advanced practitioners evolve into holy beings by fully integrating precepts, wisdom, and diligent cultivation to transcend afflictions and suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

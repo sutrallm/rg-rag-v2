@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>FOUR DHYANAS</target_entity>
+    <relationship_description>Mental liberation transcends attachment to any meditative realms, including the four dhyanas.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>LORD OF DEATH</target_entity>
+    <relationship_description>Practitioners who follow teachings and persist in diligent practice avoid being bound by the control of the Lord of Death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

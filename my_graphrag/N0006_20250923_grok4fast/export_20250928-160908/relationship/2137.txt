@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>A holy one is an advanced practitioner who embodies precepts, wisdom, and diligence to eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

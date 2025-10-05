@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Delusion is one of the root afflictions, along with greed and anger, perpetuating the cycle of rebirth and destroyed through wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

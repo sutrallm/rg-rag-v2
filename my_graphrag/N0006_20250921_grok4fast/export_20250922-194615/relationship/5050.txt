@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-indolent practitioners attain Nirvana's peace by guarding against afflictions through vigilant effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文内容</source_entity>
+    <target_entity>白话文</target_entity>
+    <relationship_description>The original content is to be translated into vernacular Chinese as per the requirements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

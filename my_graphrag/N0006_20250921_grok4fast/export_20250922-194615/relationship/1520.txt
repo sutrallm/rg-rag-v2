@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHU ZEN</source_entity>
+    <target_entity>XUN SI</target_entity>
+    <relationship_description>Chu Zen includes Xun Si as mental factors for focus and joy in initial absorption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

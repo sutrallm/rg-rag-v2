@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Meditation helps practitioners avoid being troubled by hatred through focused non-carelessness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,25 @@
+### Incomplete Query and Doctrinal Transformation Requirements
+
+#### Executive Summary
+The provided details reveal a query that fails to deliver the expected original content, blocking the application of specified transformations. Core processes involve converting metaphorical and dialogic elements into straightforward doctrinal explanations, shifting to modern plain language, reorganizing titles numerically for clarity, and eliminating final poetic elements. This setup points to an intended simplification of doctrinal material, but the absence of content after the designated marker creates a barrier to execution, suggesting a possible test or incomplete submission needing further input.
+
+#### Persistent Omission of Original Content
+The query repeatedly includes a marker (“原文本如下：--------------”) followed by no substantive material, making the structure incomplete across all descriptions. This gap directly halts processing steps, as the doctrinal elements—such as metaphors, dialogues, and verses—cannot be accessed or altered without the content. The significance lies in how this omission underscores a foundational flaw in query design, rendering transformation impossible and prompting apologies or requests for additional details.
+
+#### Core Transformation of Metaphors and Dialogues
+Metaphors (譬喻) and dialogues must be recast as direct statements of doctrinal meaning (直接法义阐述), stripping away indirect forms to achieve clarity. This requirement highlights a pattern of prioritizing doctrinal precision over literary devices, explaining the need for such changes in outputs that aim to make core meanings immediately accessible. The underlying reason appears to be enhancing comprehension of doctrinal principles without interpretive layers.
+
+#### Shift to Plain Modern Language
+The original content requires conversion into plain, modern Chinese (白话文), moving away from classical or ornate styles. This adaptation serves to modernize presentation, making doctrinal ideas more approachable for contemporary audiences. The pattern evident here is a deliberate simplification strategy, significant for broadening access to the material while preserving its essential doctrinal value.
+
+#### Numerical Restructuring of Titles
+Titles within the content are to be modified using numeric sequences (数字序号) to improve organization and logical flow. This change addresses potential disarray in original formatting, providing a structured sequence that aids navigation. Its importance stems from facilitating clearer thematic progression, as seen in the query's emphasis on organized outputs for better doctrinal presentation.
+
+#### Elimination of Concluding Verse
+The concluding verse or poetic summary (结尾偈) must be removed from the end of the content. This directive follows a pattern of excising decorative or summative elements to focus solely on core doctrinal exposition. The reason ties to the overall goal of directness, ensuring the final result avoids redundant poetic closure and maintains a streamlined doctrinal focus.
+
+#### Indication of Test or Sample Scenario
+The query may function as a test case or sample, necessitating supplementary details for proper handling. This interpretation arises from the consistent lack of content post-marker, which tests the processing framework's robustness. The significance is in revealing how such incomplete setups evaluate adherence to guidelines, with the query's structure serving as a model for future complete submissions.
+
+#### Overarching Aim of Simplification and Clarity
+Both the transformation processes and query specifications converge on simplifying doctrinal content for enhanced clarity. This unified approach explains the interconnected requirements—from direct conversions to structural changes—as steps toward doctrinal accessibility. The pattern of mandates preserves key elements like themes while refining presentation, underscoring the query's role in defining output formats despite the content shortfall.

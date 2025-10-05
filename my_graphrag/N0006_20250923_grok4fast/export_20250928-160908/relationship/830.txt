@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Saints are eternally free from samsara upon attaining the Arhat fruit.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

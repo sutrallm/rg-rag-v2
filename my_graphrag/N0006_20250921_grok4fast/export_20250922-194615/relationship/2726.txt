@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Holy ones earn respect from devas due to their transcendence of afflictions and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>SUPREME BLISS</target_entity>
+    <relationship_description>Awakened ones attain supreme bliss by observing body and mind with mindfulness and escaping birth-death suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

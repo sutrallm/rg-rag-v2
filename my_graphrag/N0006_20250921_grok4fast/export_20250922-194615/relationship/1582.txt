@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Mindfulness is a core component of meditation, focusing the mind on the present to achieve freedom from distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAZINESS</source_entity>
+    <target_entity>PRACTITIONERS</target_entity>
+    <relationship_description>Non-laziness is the foundational practice for practitioners, enabling them to cultivate mindfulness and avoid inner distractions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

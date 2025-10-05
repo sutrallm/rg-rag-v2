@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>OUTPUT FORMAT</target_entity>
+    <relationship_description>The query defines the expected format for the final processed result.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

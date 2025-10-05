@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>EVIL PATHS</target_entity>
+    <relationship_description>Samsara encompasses falling into evil paths due to lack of Zen mastery.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>The three poisons fuel the cycle of samsara, binding beings until dispelled by wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

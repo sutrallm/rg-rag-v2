@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMAS</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Dharmas include observing the arising and cessation of the five hindrances to realize impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

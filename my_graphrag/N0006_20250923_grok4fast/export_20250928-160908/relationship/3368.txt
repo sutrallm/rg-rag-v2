@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>INDULGENT_PERSON</target_entity>
+    <relationship_description>Indulgent persons suffer from the harms of laxity, leading to entrapment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Non-indulgence gives rise to right mindfulness and other factors of the Noble Eightfold Path, leading to various benefits.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

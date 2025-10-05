@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>TROUBLES</target_entity>
+    <relationship_description>Meditation frees one from worldly troubles and afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

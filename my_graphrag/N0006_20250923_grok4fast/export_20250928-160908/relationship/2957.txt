@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Diligent and non-indolent practice achieves the peaceful realm of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>NON-LAZINESS</target_entity>
+    <relationship_description>Through meditation, practitioners escape laziness and achieve a state of non-laziness for inner peace and purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

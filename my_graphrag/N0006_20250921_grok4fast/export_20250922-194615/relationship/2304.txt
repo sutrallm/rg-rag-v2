@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Practitioners avoid laxity through continuous diligence and mindfulness to prevent disturbances and maintain focus on the spiritual path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

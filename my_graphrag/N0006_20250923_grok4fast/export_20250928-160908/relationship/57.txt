@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>FIELD OF MERIT</target_entity>
+    <relationship_description>The holy one is the supreme field of merit in the world, respected and protected by devas and worldly people.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

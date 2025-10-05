@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Awakened beings destroy attachments with wisdom (以智慧摧毁执着).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

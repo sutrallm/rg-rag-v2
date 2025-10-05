@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>FRUITS OF LIBERATION</target_entity>
+    <relationship_description>Concentration, combined with precepts and wisdom, allows abiding in tranquility to achieve the fruits of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

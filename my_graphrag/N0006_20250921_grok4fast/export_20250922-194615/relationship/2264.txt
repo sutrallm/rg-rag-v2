@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Desire pulls one into the cycle of samsara; its removal allows escape from rebirth and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

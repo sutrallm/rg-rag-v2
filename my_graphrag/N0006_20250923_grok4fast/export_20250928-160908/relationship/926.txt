@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>FOUR SUFFERINGS</target_entity>
+    <relationship_description>Nirvana transcends the four sufferings of birth, old age, sickness, and death, ending rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

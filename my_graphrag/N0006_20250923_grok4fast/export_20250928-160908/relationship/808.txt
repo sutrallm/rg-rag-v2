@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NUMERICAL SEQUENCES</source_entity>
+    <target_entity>TITLES</target_entity>
+    <relationship_description>Numerical sequences are used to reorganize titles for better clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

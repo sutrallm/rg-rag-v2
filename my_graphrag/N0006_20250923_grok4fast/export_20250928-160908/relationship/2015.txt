@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HIGH MOUNTAIN</target_entity>
+    <relationship_description>The saint is likened to a high mountain, unstained by worldly dust and transcendent.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

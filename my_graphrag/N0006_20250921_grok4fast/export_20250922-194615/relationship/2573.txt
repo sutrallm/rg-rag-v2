@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Diligence is the persistent effort of the practitioner that breaks bad habits and leads to a pure mind and freedom from samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

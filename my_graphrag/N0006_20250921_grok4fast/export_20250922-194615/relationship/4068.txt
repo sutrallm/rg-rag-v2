@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVAS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Devas respect and honor saints for their spiritual qualities and achievements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Highest liberation is attained by extinguishing attachment and greed through mindful meditation, leading to eternal freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TRANSLATION AND REWRITING</target_entity>
+    <relationship_description>The missing original text prevents the execution of translation and rewriting processes outlined in the requirements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

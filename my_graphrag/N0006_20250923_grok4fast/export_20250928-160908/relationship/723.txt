@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS AND AWARENESS</source_entity>
+    <target_entity>FOUR TYPES OF NEGLIGENCE</target_entity>
+    <relationship_description>Mindfulness and awareness suppress the four types of negligence including greed, hatred, sloth, and doubt.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

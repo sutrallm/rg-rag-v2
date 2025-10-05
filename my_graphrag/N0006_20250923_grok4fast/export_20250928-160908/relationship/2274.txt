@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGES OF ENLIGHTENMENT</source_entity>
+    <target_entity>ARAHANTSHIP</target_entity>
+    <relationship_description>Stages of enlightenment culminate in Arahantship, achieved through persistent diligence and non-indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

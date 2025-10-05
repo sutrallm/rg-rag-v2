@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>LORD OF DEATH</target_entity>
+    <relationship_description>Diligent practice prevents falling under the control of the Lord of Death by maintaining non-indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

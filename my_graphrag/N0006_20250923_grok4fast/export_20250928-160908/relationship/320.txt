@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMATHA-VIPASSANA</source_entity>
+    <target_entity>ARA HANT FRUIT</target_entity>
+    <relationship_description>Integrated Samatha-Vipassana practice achieves the Arahant fruit, ending all afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Through sustained diligence and vigilance, practitioners avoid the suffering of samsara and the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

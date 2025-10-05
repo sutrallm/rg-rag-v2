@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation drives away the darkness of afflictions such as greed, snc, and delusion through clarity and light of awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

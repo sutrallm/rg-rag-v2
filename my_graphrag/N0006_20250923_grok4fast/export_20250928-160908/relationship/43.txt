@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL_LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Mental liberation frees practitioners from attachments to any realms or results.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy practitioners are endowed with wisdom to eradicate afflictions and transcend suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Mind liberation frees the mind from the bondage of greed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

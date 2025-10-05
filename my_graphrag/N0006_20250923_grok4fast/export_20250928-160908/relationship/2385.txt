@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Saints are advanced practitioners who fully embody precepts, wisdom, and tranquility.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

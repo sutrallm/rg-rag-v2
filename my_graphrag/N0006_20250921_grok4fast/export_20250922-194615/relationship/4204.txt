@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Mind liberation is achieved through meditation and fosters the wisdom to see impermanence and avoid attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

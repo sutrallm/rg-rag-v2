@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Upholding precepts blocks defilements from invading the mind, maintaining inner tranquility like a secure fortress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

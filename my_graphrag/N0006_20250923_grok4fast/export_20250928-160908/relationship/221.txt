@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD LEARNING</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>The threefold learning encompasses precepts as a foundational component alongside meditation and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

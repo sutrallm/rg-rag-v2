@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONES</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Holy ones transcend worldly suffering by breaking free from afflictions and abiding in liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

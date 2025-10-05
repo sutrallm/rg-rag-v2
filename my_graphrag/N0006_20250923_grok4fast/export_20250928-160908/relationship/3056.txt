@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEITIES</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Deities respect saints who have cut off afflictions and transcended pain through their practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

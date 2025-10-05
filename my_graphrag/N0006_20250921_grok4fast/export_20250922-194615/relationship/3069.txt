@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_ONES</source_entity>
+    <target_entity>SENSORY_PLEASURES</target_entity>
+    <relationship_description>Enlightened ones avoid attachment to sensory pleasures through comprehension of impermanence and emptiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

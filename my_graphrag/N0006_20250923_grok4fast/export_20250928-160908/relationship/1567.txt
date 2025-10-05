@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>SENSORY PLEASURES</target_entity>
+    <relationship_description>Laxity makes practitioners vulnerable to seduction by sensory pleasures, causing mental chaos and destruction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

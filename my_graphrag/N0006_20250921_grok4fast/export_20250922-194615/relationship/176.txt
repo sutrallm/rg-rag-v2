@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHT VICTORIES</source_entity>
+    <target_entity>WISDOM AGGREGATE</target_entity>
+    <relationship_description>The eight victories require the wisdom aggregate free from ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

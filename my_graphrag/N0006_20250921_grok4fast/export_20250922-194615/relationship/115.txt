@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>SE JIE</target_entity>
+    <relationship_description>Wise Xing Xiu Zhe with Zhi Hui avoid attachment to Se Jie even in pursuit of liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

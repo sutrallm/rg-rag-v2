@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>REALM</target_entity>
+    <relationship_description>Practitioners do not cling to any realm due to transcendent wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

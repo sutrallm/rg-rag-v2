@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ONE-POINTEDNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>One-pointedness enables penetration of the path to nirvana by providing unwavering focus and insight into reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

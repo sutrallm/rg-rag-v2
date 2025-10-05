@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NON-INDOLENCE</target_entity>
+    <relationship_description>Practitioners who maintain non-indolence through diligent cultivation abide in the proper path, avoiding samsara and evil realms.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

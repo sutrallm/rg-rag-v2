@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Severing the three poisons through practice leads progressively to the attainment of nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISSIPATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Dissipation leads to falling into suffering without diligent practice, as one comes under the control of the Lord of Death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

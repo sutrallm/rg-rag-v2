@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Afflictions lead to suffering, which non-indolent practitioners avoid by maintaining vigilance and mindfulness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

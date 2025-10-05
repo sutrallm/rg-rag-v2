@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Noble ones embody diligence, allowing them to abide in profound quietude.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

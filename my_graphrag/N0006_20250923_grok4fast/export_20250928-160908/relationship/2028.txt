@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Saints are respected by devas for their complete eradication of afflictions and transcendence of suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

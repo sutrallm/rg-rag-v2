@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DISSIPATION</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Non-dissipation enables true mastery of meditation by avoiding binding by evil karma.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTITIONER</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Diligent practitioners realize impermanence to overcome the three poisons.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

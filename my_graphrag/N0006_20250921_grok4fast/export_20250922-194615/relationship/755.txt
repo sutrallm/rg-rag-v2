@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Non-negligent practitioners directly realize the realms of Heavenly Beings while freely traversing the world without falling under control.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

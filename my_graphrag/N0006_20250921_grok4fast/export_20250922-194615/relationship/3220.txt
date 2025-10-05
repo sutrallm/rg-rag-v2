@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>BAD_KARMA</target_entity>
+    <relationship_description>Avoiding negligence enables the complete eradication of bad karma, alongside afflictions and sorrows, through diligent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

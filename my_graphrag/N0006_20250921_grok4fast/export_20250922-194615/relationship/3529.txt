@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Awakened beings, through precepts and wisdom, sever all afflictions and achieve quietude.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

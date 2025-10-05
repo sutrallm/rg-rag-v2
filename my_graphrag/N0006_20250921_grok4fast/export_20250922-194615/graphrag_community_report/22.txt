@@ -1,0 +1,19 @@
+### Processing Guidelines for Missing Doctrinal Source Material
+
+#### Executive Summary
+The provided material outlines a structured approach to handling a doctrinal document, emphasizing the absence of core content marked by a specific delimiter. Key directives focus on preserving essential teachings while eliminating narrative and structural elements such as concluding verses, specific locations, and character references. Modifications include translation into plain language, reorganization of section headings into numbered sequences, and adherence to a predefined output template. This setup highlights the need for complete source provision to enable accurate transformation, ensuring doctrinal integrity amid targeted simplifications.
+
+#### Absence of Core Content Blocks Query Execution
+The material repeatedly indicates that content expected after the delimiter "原文如下：--------------" is not present, rendering tasks like translation, rewriting, and editing impossible. This gap forms the central obstacle, as all processing steps depend on this doctrinal source involving dharma explanations, metaphors, and verses. Without it, commitments to handle the material cannot proceed, underscoring the requirement for resubmission to allow full implementation.
+
+#### Preservation of Doctrinal Elements Ensures Fidelity
+Every description stresses retaining all teachings, details, and core ideas from the source without changes, even as other components are altered or removed. This approach maintains the integrity of scriptural or religious content, focusing modifications solely on clarity, structure, and emphasis to highlight underlying principles, such as converting metaphors and dialogues into direct explanations.
+
+#### Targeted Removals Streamline for Universal Focus
+Specific instructions mandate deleting the concluding gatha or verse at the end, along with references to places, people, and characters. These eliminations aim to simplify the material by concentrating on abstract concepts, avoiding geographical or narrative distractions that could dilute the primary subject matter of dharma or doctrinal themes.
+
+#### Structural Reorganization Enhances Accessibility
+Headings and titles within the source must be converted to numbered, clear themes for improved organization. Additionally, translation into vernacular Chinese is required, alongside simplification of language to plain forms. This restructuring, guided by a sample format and template, transforms the original into a more explicit and organized presentation, making central ideas readily apparent.
+
+#### Interdependence of Source and Directives Shapes Workflow
+The foundational pairing of the source material with processing rules creates a clear workflow: the doctrinal document provides the base for refinements aimed at better clarity and purpose. The absence disrupts this balance, as directives alone—covering deletions, retentions, and format adherence—cannot yield a processed output without the initial content.

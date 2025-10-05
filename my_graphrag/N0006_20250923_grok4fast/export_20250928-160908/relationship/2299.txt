@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH KING</source_entity>
+    <target_entity>EVIL PATHS</target_entity>
+    <relationship_description>The Death King controls the negligent, leading to reincarnation in evil paths.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

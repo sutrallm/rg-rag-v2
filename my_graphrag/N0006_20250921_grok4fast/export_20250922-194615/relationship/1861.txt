@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION OF MIND</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Liberation of the mind through meditation allows non-attachment even to Nirvana, achieving unobstructed freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

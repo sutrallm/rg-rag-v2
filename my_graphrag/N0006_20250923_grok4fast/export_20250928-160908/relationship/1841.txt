@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL AWARENESS</source_entity>
+    <target_entity>IDLENESS</target_entity>
+    <relationship_description>Mindful awareness promotes continuous vigilance to avoid idleness, dullness, and restlessness in practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

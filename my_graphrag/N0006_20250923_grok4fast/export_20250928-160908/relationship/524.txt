@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Diligent practice is essential to avoid negligence, as lack of effort leads to entanglement in afflictions and the cycle of rebirth, while diligence fosters mindfulness and progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

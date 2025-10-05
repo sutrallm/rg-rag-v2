@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DEMONIC_ARMY</target_entity>
+    <relationship_description>Wisdom helps conquer the inner demonic army when cultivated with mindfulness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

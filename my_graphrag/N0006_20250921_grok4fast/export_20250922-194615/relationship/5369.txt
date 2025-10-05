@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEINGS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Enlightened beings naturally abide in the state of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must follow the Buddha's teachings with diligence to avoid the King of Death and master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

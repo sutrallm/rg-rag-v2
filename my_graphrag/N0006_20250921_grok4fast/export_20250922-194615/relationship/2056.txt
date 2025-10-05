@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>魔王</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>魔王 exerts control over 修行者 who fail to practice diligently and vigilantly.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SUPREME ENLIGHTENMENT</target_entity>
+    <relationship_description>Liberated minds abide in supreme enlightenment, transcending samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

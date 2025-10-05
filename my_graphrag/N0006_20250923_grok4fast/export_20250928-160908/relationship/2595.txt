@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>AWAKENED ONE</target_entity>
+    <relationship_description>Non-laxity is the path through which awakened ones perfect their practice and realize enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

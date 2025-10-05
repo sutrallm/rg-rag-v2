@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Indulgence causes sinking into the abyss of suffering, preventing access to peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

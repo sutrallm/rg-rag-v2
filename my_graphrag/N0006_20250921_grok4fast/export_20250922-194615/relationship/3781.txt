@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Diligent practice counters the control of impermanence and death, preventing domination by these forces.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ONE-POINTED MIND</source_entity>
+    <target_entity>LIBERATING WISDOM</target_entity>
+    <relationship_description>One-pointed mind is attained along with liberating wisdom by overcoming hindrances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

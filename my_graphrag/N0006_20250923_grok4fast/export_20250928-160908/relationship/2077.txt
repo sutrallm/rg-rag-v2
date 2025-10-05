@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE BEING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Noble beings transcend all suffering by completely cutting off afflictions and abiding in tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

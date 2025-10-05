@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Meditation contributes to the qualities that define saints, such as mental liberation and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

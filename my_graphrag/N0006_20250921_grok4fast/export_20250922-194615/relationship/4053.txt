@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION THROUGH WISDOM</target_entity>
+    <relationship_description>Wisdom achieves liberation by fully understanding the nature of dharmas, hindrances, and fetters.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

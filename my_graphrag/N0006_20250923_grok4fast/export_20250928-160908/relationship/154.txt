@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Strict precepts uproot the sources of evil karma through mindful observation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

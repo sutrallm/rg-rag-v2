@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy Ones embody profound wisdom that allows taming of the mind and complete breaking of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

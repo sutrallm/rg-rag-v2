@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHTFUL WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Insightful wisdom enables practitioners to clearly perceive and understand the impermanence of the worldly realm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

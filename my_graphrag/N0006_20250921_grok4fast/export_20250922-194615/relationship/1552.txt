@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECETPS</target_entity>
+    <relationship_description>Saints are equipped with precepts alongside wisdom to support their diligent practice and eradication of troubles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

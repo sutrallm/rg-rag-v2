@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MIND CONTEMPLATION</target_entity>
+    <relationship_description>The practitioner cultivates Mind Contemplation by observing mental states to realize their illusory and impermanent nature, arising pure wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

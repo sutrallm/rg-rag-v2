@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEITY</target_entity>
+    <relationship_description>Saints evoke respect in the hearts of deities through their complete eradication of afflictions and transcendence of suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

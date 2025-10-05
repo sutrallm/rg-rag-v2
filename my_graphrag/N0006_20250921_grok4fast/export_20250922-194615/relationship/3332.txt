@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Diligent and non-negligent practice allows practitioners to avoid falling into evil realms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners follow Buddha's teachings for diligent practice and spiritual progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

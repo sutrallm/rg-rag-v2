@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-indolence is the foundational practice maintained by practitioners to achieve freedom from fear, death, and afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

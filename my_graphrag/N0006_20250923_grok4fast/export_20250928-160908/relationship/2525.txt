@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HOLY PRACTITIONER</target_entity>
+    <relationship_description>Holy practitioners represent the perfected state of practitioners who fully embody precepts, wisdom, and liberation from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

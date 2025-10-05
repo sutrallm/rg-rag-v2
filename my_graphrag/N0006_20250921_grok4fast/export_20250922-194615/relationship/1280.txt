@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>THREE_REALMS</target_entity>
+    <relationship_description>Wisdom enables profound insight into the impermanence and emptiness of all phenomena in the three realms, supporting the severing of afflictions and realization of nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

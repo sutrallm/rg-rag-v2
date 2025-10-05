@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>AWAKENED_ONE</target_entity>
+    <relationship_description>Awakened ones achieve liberation from greed, hatred, delusion, and all fears, abiding in supreme joy.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

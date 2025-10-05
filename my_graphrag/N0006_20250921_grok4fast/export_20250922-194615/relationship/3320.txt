@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Practitioners guard their minds in tranquility through meditation, protecting against external disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

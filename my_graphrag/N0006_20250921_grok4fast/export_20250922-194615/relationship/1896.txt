@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SERENITY</target_entity>
+    <relationship_description>Saints abide in serenity by diligently cultivating the mind and severing afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

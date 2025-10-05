@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT THOUGHT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Right thought, paired with right view, supports the eradication of the three poisons to attain liberation and nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

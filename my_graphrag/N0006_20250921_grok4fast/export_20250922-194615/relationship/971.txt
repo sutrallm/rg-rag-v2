@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS CONCENTRATION WISDOM</source_entity>
+    <target_entity>FIVE DESIRES</target_entity>
+    <relationship_description>Practitioners with precepts, concentration, and wisdom are not deluded by the five desires, enabling observation of impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

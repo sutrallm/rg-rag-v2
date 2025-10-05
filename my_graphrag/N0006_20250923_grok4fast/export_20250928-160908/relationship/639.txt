@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Diligent practice protects against Mara's control and the grasp of death, ensuring spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

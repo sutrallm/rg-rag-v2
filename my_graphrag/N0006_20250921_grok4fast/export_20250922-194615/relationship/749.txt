@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-negligence through mindfulness and diligence leads to ultimate liberation from worldly bonds and the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

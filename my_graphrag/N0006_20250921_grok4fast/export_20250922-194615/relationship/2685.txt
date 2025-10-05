@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THREE TRAININGS</target_entity>
+    <relationship_description>A saint is defined by possessing the three trainings of precepts, meditation, and wisdom, which allow eradication of afflictions and abiding in tranquility.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

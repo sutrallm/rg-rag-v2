@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>WORLDLY SUFFERING</target_entity>
+    <relationship_description>Abiding in tranquility helps saints transcend worldly suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

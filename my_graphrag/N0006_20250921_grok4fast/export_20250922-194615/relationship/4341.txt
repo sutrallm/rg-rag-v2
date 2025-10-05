@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Afflictions include ignorance as a primary defilement eradicated by holy ones.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

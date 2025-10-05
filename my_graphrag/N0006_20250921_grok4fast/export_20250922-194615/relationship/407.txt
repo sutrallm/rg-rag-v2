@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE DHARMA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Following the true dharma requires diligence to avoid defilements and achieve liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

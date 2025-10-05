@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Discipline and wisdom together allow noble ones to sever defilements and achieve freedom from pain.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

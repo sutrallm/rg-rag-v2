@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>NON-NEGLIGENCE</target_entity>
+    <relationship_description>Contemplating non-self fosters non-negligence by highlighting the futility of attachment and the value of diligence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

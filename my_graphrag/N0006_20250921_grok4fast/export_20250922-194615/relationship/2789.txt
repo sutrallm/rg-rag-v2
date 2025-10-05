@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>THREE LEARNINGS</target_entity>
+    <relationship_description>The diligent practitioner fully possesses the three learnings of precepts, meditation, and wisdom to extinguish afflictions and attain nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

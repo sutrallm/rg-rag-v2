@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>七觉支</source_entity>
+    <target_entity>努力觉支</target_entity>
+    <relationship_description>努力觉支 is one of the 七觉支, aimed at eliminating barriers to progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

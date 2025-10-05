@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>The awakened one gains fearlessness through insight into no-self, transcending attachments and cyclic suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

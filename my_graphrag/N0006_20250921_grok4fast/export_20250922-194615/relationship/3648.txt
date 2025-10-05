@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GODS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Gods respect holy practitioners who have transcended suffering, highlighting the exemplary nature of their achievement.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

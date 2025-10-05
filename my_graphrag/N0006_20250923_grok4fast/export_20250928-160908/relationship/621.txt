@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Wisdom illuminates no-self, enabling maintenance of mindfulness against temptations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

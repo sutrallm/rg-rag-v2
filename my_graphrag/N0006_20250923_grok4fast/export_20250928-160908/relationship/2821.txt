@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>FOUR_NOBLE_TRUTHS</target_entity>
+    <relationship_description>Awakened ones realize the Four Noble Truths, understanding the truth of suffering, its arising, its cessation, and the path leading to cessation, thereby eradicating craving and attaining liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

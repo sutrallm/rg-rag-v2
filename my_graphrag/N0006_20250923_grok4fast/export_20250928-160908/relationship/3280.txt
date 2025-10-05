@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Buddha's teachings guide practitioners to engage in continuous diligence to avoid idleness and the Death Demon King's control while mastering Zen meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

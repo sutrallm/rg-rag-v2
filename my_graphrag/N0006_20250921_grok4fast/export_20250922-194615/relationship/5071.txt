@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>TRUTH_OF_THE_WORLD</target_entity>
+    <relationship_description>Awakened ones illuminate the truth of the world with wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

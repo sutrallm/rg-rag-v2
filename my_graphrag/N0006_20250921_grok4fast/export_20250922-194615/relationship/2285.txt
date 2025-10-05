@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>BONDS</target_entity>
+    <relationship_description>Desire creates all bonds from which one must be freed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

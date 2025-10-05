@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom enables insight into suffering, contributing to the elimination of greed, love, and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

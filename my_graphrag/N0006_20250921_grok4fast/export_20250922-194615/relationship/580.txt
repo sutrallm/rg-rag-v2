@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Diligent practice supports meditative insight leading to liberation from greed and impermanent attachments.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

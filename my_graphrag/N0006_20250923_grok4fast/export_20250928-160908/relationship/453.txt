@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>不放逸 through diligent cultivation allows transcending the cycle of birth and death to achieve eternal 解脱.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

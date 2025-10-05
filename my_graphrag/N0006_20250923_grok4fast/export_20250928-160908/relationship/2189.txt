@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>JUE XING</target_entity>
+    <relationship_description>Xiu Xing Zhe who fully awaken reach Jue Xing, transcending dualities and abiding in wise bliss with equanimity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

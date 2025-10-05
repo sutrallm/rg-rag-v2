@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Mind liberation grants wisdom into no-self, free from attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

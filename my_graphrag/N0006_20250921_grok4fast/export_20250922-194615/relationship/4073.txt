@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>RECKLESSNESS</target_entity>
+    <relationship_description>Through meditation, practitioners escape recklessness and afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

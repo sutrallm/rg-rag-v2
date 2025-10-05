@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The assistant references the missing original text in the user's submission and expresses readiness to apply processing upon its provision.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

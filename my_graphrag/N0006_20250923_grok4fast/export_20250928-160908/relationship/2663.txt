@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity> AWAKENED WISDOM</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Awakened wisdom reveals the doctrine of no-self, freeing the mind from attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

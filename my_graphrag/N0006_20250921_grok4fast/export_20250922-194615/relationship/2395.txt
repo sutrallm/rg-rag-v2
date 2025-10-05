@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_INDUCEMENT</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-indulgence benefits the practitioner by providing protection, freedom like a lion, and progress toward nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

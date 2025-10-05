@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy practitioners are endowed with wisdom alongside precepts, enabling them to cultivate the mind and eradicate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

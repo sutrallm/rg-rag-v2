@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>DELETION OF ENDING GATHA</target_entity>
+    <relationship_description>The query instructs removal of the ending verse.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

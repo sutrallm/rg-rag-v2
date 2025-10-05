@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>Indulgence allows desires to control, leading to death's grip and rebirth; avoiding it conquers greed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

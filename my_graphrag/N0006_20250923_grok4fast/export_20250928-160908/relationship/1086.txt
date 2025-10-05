@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Saints transcend suffering by dwelling in meditative tranquility and severing inner troubles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

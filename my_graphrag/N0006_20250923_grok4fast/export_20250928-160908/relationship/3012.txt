@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>ATTACHMENTS</target_entity>
+    <relationship_description>Liberated practitioners do not cling to any realms or become bound by pursuits.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

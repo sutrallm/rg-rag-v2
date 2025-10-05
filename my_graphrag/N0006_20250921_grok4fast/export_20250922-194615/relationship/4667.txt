@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Meditation helps practitioners远离 distraction and achieve mental calm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

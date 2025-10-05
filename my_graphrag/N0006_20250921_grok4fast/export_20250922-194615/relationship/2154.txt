@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Buddha's guidance helps practitioners avoid the control of samsara through diligent practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

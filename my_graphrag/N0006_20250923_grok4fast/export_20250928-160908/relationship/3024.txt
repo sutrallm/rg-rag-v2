@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation destroys afflictions like greed, hatred, and delusion, freeing the mind and allowing practitioners to dwell in vast, unobstructed stillness like empty space.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

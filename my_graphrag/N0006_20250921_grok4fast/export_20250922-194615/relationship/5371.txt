@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Wisdom acts as a lamp to dispel the darkness of afflictions and guide to peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

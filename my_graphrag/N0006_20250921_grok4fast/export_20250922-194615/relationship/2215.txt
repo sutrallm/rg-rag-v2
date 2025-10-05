@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>BLISS</target_entity>
+    <relationship_description>Meditation bestows supreme bliss that surpasses heavenly realms and is free from greed and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FOUR_JHANAS</target_entity>
+    <relationship_description>Wisdom through insight observation, combined with meditation, enables gradual attainment of the four jhanas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

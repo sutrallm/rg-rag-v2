@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>FIRST JHANA</target_entity>
+    <relationship_description>With the mind free from the five hindrances and non-indolent in wholesome dharmas, the first jhana arises with applied thought, rapture, and pleasure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

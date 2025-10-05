@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Heart liberation is achieved through Zen Meditation, leading to freedom from attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

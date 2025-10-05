@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Zen meditation relies on mindfulness to maintain focus and escape distractions like laxity and sensual pleasures.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

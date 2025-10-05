@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LAZINESS</target_entity>
+    <relationship_description>Diligence directly overcomes laziness to enable focused practice and abiding in meditation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

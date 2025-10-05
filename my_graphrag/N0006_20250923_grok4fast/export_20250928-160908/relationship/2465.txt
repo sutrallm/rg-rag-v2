@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Saints transcend worldly suffering by possessing precepts, wisdom, and diligently taming the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

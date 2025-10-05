@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SEVEN FACTORS OF ENLIGHTENMENT</source_entity>
+    <target_entity>SAMATHA-VIPASSANA</target_entity>
+    <relationship_description>The seven factors, including mindfulness and wisdom, enhance Samatha-Vipassana practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

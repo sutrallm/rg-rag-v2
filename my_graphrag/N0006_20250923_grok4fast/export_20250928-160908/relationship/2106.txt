@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SUPREME BLISS</target_entity>
+    <relationship_description>Saints achieve supreme bliss through non-negligence, wisdom, and severing of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

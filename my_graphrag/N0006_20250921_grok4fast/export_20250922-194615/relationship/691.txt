@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_BEING</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>A holy being completely severs afflictions like greed, hatred, and delusion through perfected practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

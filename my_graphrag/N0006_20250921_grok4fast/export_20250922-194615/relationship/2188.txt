@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Recollecting impermanence, along with death, motivates and sustains diligence in practice to avoid slackness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

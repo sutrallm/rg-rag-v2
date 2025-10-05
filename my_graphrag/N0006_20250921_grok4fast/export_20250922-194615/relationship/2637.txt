@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Heart liberation from meditation allows insight without attachment to worldly impermanence or realms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DHYANA</target_entity>
+    <relationship_description>Only through always being diligent can one truly master the method of dhyana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

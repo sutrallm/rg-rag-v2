@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION AND REWRITING</source_entity>
+    <target_entity>ENDING VERSE</target_entity>
+    <relationship_description>The ending verse is to be deleted as part of the rewriting instructions.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

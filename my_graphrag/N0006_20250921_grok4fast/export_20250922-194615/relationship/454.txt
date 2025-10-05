@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Practitioners cultivate wisdom through meditation and insight into impermanence to transcend greed, delusions, and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

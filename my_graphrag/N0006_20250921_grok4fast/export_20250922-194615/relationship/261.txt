@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>EVIL PATHS</target_entity>
+    <relationship_description>Diligent practice in accordance with true dharma prevents practitioners from falling into evil paths and being dominated by afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

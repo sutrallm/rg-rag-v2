@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ONE-POINTEDNESS</source_entity>
+    <target_entity>TRUE NATURE OF PHENOMENA</target_entity>
+    <relationship_description>One-pointedness illuminates the true nature of phenomena, dispelling doubts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

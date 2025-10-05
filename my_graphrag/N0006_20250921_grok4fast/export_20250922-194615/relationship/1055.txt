@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Mind liberation involves pursuing nirvana without attachment, transcending sufferings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

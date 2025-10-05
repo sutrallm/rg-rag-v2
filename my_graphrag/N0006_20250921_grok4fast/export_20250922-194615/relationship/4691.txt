@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Non-negligence is achieved through continuous diligence in spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

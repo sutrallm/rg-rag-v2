@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Meditation maintains awareness to distance from distractions and gain inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

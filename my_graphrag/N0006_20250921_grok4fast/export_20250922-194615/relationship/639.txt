@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONE</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Noble ones abide in stillness through diligent cultivation of mindfulness to eradicate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

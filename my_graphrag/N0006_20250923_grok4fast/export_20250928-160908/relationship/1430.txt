@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>NON-INDULGENCE</target_entity>
+    <relationship_description>Diligence embodies non-indulgence, enabling steady progress to good realms and the holy path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

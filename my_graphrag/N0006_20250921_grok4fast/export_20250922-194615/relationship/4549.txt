@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Saints transcend suffering by severing afflictions and cultivating spiritual qualities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

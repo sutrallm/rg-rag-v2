@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy practitioners possess wisdom along with precepts to diligently practice and abide in quietude.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

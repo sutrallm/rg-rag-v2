@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Diligent practice prevents falling into the control of Mara, the force of death and temptation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

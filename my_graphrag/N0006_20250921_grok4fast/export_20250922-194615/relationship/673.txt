@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HOLY_BEING</target_entity>
+    <relationship_description>A practitioner can become a holy being by perfecting precepts, wisdom, and eradicating afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

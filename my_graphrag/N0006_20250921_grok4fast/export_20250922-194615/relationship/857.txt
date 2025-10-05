@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Mental and wisdom liberations are both fruits of diligent non-indulgent practice, providing complete freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

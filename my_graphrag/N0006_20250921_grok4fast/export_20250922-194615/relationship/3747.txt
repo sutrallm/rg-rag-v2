@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENT PRACTICE</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Non-indulgent practice leads to the attainment of inner peace by preventing mental wandering and indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

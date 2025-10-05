@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PERSON</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Holy persons abide in nirvana, having eradicated all afflictions through complete precepts, wisdom, and diligence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

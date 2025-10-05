@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAREFUL PERSON</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Careless indulgence binds individuals to hatred and endless rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

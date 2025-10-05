@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>ETERNAL SILENCE</target_entity>
+    <relationship_description>The awakened one attains eternal silence as the fruit of liberation from impermanence and habits.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

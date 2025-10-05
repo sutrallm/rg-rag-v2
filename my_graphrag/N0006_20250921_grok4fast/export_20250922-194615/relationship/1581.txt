@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>CYCLICAL_EXISTENCE</target_entity>
+    <relationship_description>Practitioners avoid sinking in cyclical existence through diligence, meditation, and severing vices like greed.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

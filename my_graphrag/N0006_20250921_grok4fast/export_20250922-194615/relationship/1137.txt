@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>FOUR NOBLE TRUTHS</target_entity>
+    <relationship_description>Non-indolence enables the practitioner to gain wisdom into the Four Noble Truths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

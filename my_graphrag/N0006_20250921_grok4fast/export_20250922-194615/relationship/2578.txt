@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Precepts form one pillar of the threefold training, integrating with concentration and wisdom for complete affliction eradication.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

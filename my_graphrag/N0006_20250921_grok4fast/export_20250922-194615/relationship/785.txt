@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>DEITIES</target_entity>
+    <relationship_description>Noble ones endowed with precepts and wisdom inspire reverence in deities through their diligent cultivation of quietude and eradication of afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

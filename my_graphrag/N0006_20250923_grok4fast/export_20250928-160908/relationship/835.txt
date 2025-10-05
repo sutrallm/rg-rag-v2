@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Non-indolence enables practitioners to stay on the proper path, avoiding the sufferings and cycle of samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

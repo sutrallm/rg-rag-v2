@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Abandoning laxity and poisons allows crossing from samsara to nirvana's peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

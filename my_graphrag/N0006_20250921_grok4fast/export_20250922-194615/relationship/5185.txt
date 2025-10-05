@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>REINCARNATION</target_entity>
+    <relationship_description>Mastering Zen meditation through non-indulgence helps avoid the suffering fruits of reincarnation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

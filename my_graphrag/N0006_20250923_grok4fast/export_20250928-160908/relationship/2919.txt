@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Endowed with wisdom, saints cultivate mindfulness, abide in stillness, and eradicate all afflictions while transcending worldly suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

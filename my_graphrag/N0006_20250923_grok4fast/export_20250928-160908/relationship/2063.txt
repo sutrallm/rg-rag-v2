@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WHOLESOME DEEDS</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Wholesome deeds accumulated through diligence progressively lead to ultimate liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

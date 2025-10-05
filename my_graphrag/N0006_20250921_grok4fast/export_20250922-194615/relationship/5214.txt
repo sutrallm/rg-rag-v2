@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_CULTIVATION</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Mind cultivation leads holy beings to abide in tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

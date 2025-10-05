@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND CONTEMPLATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Mind Contemplation realizes the impermanence and variability of mental states to avoid clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

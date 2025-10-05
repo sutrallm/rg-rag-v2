@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Practitioners achieving mind liberation through meditation gain insight into worldly impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>RENUNCIATION</target_entity>
+    <relationship_description>Observing impermanence generates renunciation in practitioners, leading away from worldly attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

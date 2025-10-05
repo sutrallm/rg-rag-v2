@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MENTAL_LIBERATION</target_entity>
+    <relationship_description>Meditation is the primary means to attain mental liberation, granting insight into impermanence and emptiness without attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

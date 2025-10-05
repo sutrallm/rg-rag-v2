@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wisdom transcends attachments to boundaries and results, as gained by practitioners through mental liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

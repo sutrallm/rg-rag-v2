@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Meditation gradually breaks anger as part of eliminating the three poisons.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

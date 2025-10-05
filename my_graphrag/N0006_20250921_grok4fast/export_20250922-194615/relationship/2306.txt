@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Practitioners overcome attachment to phenomena and the cycle of birth and death through meditation and insight into impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

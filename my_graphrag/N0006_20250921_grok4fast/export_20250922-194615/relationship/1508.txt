@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>LUN HUI</target_entity>
+    <relationship_description>Non-lax Xiu Xing Zhe master Zen Ding to avoid falling into Lun Hui's dangers.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

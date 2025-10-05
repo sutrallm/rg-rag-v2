@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saints eliminate delusion through wisdom and abiding in silence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

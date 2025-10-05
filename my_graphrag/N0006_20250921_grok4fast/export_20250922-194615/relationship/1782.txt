@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Wisdom, along with discipline, is a key quality of saints who abide in tranquility and sever afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

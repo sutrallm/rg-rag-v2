@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Wisdom's light breaks through ignorance, freeing one from the sufferings of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

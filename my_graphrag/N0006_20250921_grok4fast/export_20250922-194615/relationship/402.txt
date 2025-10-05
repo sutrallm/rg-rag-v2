@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Non-indolent practitioners avoid indolence to maintain vigilance and prevent evil karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

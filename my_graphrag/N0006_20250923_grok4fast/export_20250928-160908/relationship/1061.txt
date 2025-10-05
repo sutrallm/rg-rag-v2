@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Samadhi facilitates the observation of impermanence in body and mind, giving rise to wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

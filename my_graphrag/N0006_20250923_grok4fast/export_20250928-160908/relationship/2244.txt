@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Wisdom enables the cutting off of all afflictions in saints.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

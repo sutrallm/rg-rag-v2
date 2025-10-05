@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TITLES</source_entity>
+    <target_entity>NUMERIC SEQUENCE</target_entity>
+    <relationship_description>Titles should be adjusted into a numeric sequence to improve structure.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

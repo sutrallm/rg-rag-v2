@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Saints diligently practice zen meditation to cultivate the mind and dwell in stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

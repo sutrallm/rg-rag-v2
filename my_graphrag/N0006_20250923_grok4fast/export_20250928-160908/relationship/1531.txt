@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>通过心解脱者不执着于涅槃，即使追求涅槃也不被其所缚，从而超越一切执取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

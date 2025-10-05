@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARAHANTSHIP</source_entity>
+    <target_entity>NIBBANA</target_entity>
+    <relationship_description>Arahantship leads to the full attainment of nibbana, the ultimate freedom from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

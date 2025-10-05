@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Greed fuels attachment that sustains samsara, broken by meditative liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

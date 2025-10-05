@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Indulgence in sensory pleasures leads to mental decay and endless cycles of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

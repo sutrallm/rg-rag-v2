@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>戒律 supports attainment of 涅槃 by transcending suffering via diligent meditative practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

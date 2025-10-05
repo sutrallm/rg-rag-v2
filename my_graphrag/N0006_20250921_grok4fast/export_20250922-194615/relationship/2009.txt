@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Mind liberation progresses to wisdom liberation, which fully uproots afflictions and realizes dependent origination.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

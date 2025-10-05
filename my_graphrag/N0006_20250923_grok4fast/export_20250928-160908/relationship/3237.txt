@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>DISTRACTIONS</target_entity>
+    <relationship_description>Samadhi helps practitioners stay away from distractions and idleness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

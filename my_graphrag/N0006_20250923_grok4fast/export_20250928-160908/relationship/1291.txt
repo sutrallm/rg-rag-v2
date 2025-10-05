@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEING</source_entity>
+    <target_entity>QUIETUDE</target_entity>
+    <relationship_description>Holy beings abide in quietude through diligent cultivation of focused mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

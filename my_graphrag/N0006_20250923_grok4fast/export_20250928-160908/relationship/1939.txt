@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>The threefold training uproots hatred via precepts, meditation, and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-CAREFUL PERSON</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Non-careless persons use mindfulness to guard against aging, illness, death, and temptations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

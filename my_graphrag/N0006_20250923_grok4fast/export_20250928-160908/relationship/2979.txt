@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Heedlessness prevents practitioners from entering or maintaining samadhi, leading to mental dispersion and deepened afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

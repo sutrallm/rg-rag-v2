@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom of impermanence is generated through observation of body and mind in meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

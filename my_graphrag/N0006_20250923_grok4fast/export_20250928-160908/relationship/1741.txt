@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Indulgence leads to deep suffering and ignorance, contrasting with vigilant practices that guard against it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

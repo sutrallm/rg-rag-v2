@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMLESS REALM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Penetrating but not clinging to the Formless Realm enables ultimate unbinding and liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

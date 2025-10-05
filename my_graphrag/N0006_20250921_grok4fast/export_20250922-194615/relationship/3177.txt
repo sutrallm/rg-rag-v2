@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL MEDITATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Mindful meditation extinguishes all attachments and greed, allowing the mind to become vast and free like space, achieving liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

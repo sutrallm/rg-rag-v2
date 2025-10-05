@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XING XIU ZHE</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Diligent Xing Xiu Zhe can become Sheng Zhe by perfecting precepts, wisdom, concentration, and eradicating afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTITIONER</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>The diligent practitioner is a refined form of the general practitioner, achieving joy and liberation through effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

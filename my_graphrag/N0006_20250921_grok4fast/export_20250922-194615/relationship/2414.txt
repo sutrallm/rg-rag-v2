@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE HINDRANCES</source_entity>
+    <target_entity>FOUR JHANAS</target_entity>
+    <relationship_description>Abandoning the five hindrances allows entry into the first jhana up to the fourth jhana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

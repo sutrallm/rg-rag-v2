@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Discipline, combined with wisdom, allows noble ones to transcend suffering through eradication of defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

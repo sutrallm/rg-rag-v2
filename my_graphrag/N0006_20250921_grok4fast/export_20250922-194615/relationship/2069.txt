@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ONCE-RETURNER</source_entity>
+    <target_entity>NON-RETURNER</target_entity>
+    <relationship_description>Once-returner progresses to non-returner as the third stage in the sequential achievement of enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

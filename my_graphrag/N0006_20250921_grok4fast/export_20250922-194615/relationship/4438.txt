@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Zen meditation results in mental liberation, enabling insight into worldly truths.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

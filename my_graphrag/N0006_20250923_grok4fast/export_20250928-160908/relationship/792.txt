@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>Through Zen meditation, practitioners gain insight into the impermanent nature of all things, leading to non-attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

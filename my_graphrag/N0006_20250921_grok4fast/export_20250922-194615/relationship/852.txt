@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH DEMON KING</target_entity>
+    <relationship_description>Diligent practitioners escape the control of the death demon king through their practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

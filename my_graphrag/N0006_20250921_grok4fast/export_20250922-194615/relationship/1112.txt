@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>INNER PURITY</target_entity>
+    <relationship_description>Non-indolence leads to the achievement of inner purity by blocking evil influences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

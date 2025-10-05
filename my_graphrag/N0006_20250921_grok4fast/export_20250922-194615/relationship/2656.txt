@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>AFFLICTION</target_entity>
+    <relationship_description>Saints completely eradicate all afflictions through their cultivated mind and practices.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

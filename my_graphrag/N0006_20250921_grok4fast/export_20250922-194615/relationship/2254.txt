@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>WISEDOM</target_entity>
+    <relationship_description>Non-negligence in practice directly generates wisdom, as stated in the benefits of undistracted cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

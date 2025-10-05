@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SUPERNATURAL POWERS</target_entity>
+    <relationship_description>Saints do not require supernatural powers, relying instead on wisdom to transcend suffering and gain reverence.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Diligent practice of precepts helps gradually eliminate delusion and other afflictions through moral discipline.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

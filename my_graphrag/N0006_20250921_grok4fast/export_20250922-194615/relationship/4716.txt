@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HOLY PATH</target_entity>
+    <relationship_description>The practitioner follows the Holy Path by adhering to the Threefold Training to sever attachments to the Five Aggregates and attain Supreme Bodhi.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>EIGHTFOLD PATH</target_entity>
+    <relationship_description>Non-laxity enables the achievement of the eightfold path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

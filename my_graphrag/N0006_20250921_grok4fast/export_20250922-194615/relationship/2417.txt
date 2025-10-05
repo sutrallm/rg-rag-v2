@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE FRUITS</source_entity>
+    <target_entity>THREE FETTERS</target_entity>
+    <relationship_description>The first fruit of the noble fruits eradicates the three fetters: self-view, attachment to precepts and practices, and doubt.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

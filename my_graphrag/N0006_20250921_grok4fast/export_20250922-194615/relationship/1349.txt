@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>NEI XIN PING JING</target_entity>
+    <relationship_description>Diligent mindfulness practice grants the practitioner inner peace like steady advancement in an unobstructed setting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

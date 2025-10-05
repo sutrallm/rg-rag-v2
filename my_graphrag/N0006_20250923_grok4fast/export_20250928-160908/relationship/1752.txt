@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDUCT</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Improper conduct invites indulgence and imbalance, undermining the base for meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

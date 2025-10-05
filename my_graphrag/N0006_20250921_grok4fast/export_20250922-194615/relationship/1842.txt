@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>SENSE BASES</target_entity>
+    <relationship_description>Vigilant practitioners guard their sense bases to maintain purity and achieve bliss.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

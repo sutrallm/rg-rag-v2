@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILENCE</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Abiding in silence through meditation removes the five hindrances, allowing joy and ease.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENTS</target_entity>
+    <relationship_description>Wisdom allows transcendence of attachments even when pursuing results.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

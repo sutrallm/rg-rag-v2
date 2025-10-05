@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>INVERTED DREAMS</target_entity>
+    <relationship_description>Non-negligence allows practitioners to move far from inverted dreams, which are common delusions among beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS AND WISDOM</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Saints are defined by being fully endowed with precepts and wisdom, enabling their diligent cultivation and transcendence of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT PATH</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Focus on the right path prevents bondage by impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

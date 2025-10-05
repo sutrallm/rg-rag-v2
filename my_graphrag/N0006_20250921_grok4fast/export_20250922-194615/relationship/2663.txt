@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Practitioners avoid falling under Mara's control by maintaining diligence and non-dissipation as taught by the Buddha.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

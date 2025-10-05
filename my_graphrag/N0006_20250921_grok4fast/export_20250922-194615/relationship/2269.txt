@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>QUIETUDE</target_entity>
+    <relationship_description>Absence of hatred, along with greed and delusion, enables abiding in the realm of quietude.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

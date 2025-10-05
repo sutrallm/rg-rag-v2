@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Zen meditation is characterized by focused mind and maintained mindfulness to escape worldly disturbances, indulgence, and troubles.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>NEI XIN AN NING</target_entity>
+    <relationship_description>Xiu Xing Zhe achieve Nei Xin An Ning as a result of Zen Ding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

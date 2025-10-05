@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>SENSE_OBJECTS</target_entity>
+    <relationship_description>Mind liberation allows transcendence of the temptations presented by sense objects.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

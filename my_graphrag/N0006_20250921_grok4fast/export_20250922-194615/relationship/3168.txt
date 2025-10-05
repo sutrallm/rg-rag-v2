@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners achieve liberation by eradicating attachments through meditation, transcending birth and death irreversibly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

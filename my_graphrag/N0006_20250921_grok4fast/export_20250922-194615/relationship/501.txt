@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>BIRTH AGING SICKNESS DEATH</target_entity>
+    <relationship_description>Samsara encompasses the cycles of birth, aging, sickness, and death as core sufferings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Saints engage in diligent practice to cultivate the mind and eliminate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>ROOTS OF AFFLICTIONS</target_entity>
+    <relationship_description>Saints extinguish the roots of afflictions through possession of the threefold training.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

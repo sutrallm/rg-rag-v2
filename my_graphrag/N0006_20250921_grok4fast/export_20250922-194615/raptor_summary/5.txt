@@ -1,0 +1,8 @@
+<heading>Protocol for Processing and Reformatting Buddhist Scriptures<\heading>
+- Multiple messages, in various languages, express apologies for the lack of actual original text after the "原文如下：--------------" section in the user's query, preventing translation or processing.
+
+- Repeated requests for the user to provide or resubmit the complete original text, such as Buddhist scriptures, to enable immediate handling.
+
+- Consistent processing instructions: Translate text to vernacular Chinese; remove names of people and places; reorganize metaphors and dialogues into direct statements of Dharma principles; retain all doctrinal details; revise titles for representativeness and thematic clarity; number titles with 1, 2, 3, etc.; delete ending verses; follow the provided format example for output.
+
+- One message offers a sample processed result based on the example, featuring four numbered sections: 1. The essence of meditation emphasizes focused mindfulness for inner peace; 2. The necessity of diligent practice to avoid laxity and master meditation; 3. The wisdom of transcending attachment by discerning impermanence without being bound by phenomena; 4. The qualities of saints through precepts and wisdom to eradicate afflictions and earn respect.

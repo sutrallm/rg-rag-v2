@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Attachment binds to the sufferings of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

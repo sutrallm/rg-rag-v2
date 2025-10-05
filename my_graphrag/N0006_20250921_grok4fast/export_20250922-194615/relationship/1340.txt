@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHOU NIAN CHU</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Feelings contemplation observes the impermanence through the arising and passing of painful, pleasant, and neutral sensations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

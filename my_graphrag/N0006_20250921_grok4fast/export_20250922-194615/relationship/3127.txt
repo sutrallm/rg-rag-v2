@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Precepts, possessed by saints and combined with wisdom, enable the complete cutting off of afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

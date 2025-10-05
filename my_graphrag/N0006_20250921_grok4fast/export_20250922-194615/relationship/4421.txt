@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Wisdom reveals the emptiness of all worldly things, transcending attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

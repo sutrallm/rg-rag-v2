@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Mindfulness illuminates ignorance related to impermanence, guiding toward the right path.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

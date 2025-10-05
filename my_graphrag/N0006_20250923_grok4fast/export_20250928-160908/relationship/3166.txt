@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Transcending the three poisons results in full mental liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

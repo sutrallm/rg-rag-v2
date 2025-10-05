@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BLISS</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>Bliss evolves into equanimity, aiding detachment from afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

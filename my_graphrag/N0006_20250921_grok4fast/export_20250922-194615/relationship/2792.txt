@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE LEARNINGS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The three learnings enable the complete extinction of afflictions, leading the practitioner to attain the freedom of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Saints' pure virtues inspire respect from heavenly beings due to their transcendence of afflictions and sufferings.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

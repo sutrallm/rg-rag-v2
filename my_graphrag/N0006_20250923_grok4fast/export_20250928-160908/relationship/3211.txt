@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Meditation is achieved through focusing the mind with mindfulness to maintain awareness and escape distractions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

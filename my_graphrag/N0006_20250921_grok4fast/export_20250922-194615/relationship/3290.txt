@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must embody diligence, following teachings without laziness to progress and master samadhi.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Saints abide in stillness through diligent cultivation of the mind with precepts and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

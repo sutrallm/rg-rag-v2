@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Awakened beings dwell in concentration and stillness, maintaining a tranquil state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

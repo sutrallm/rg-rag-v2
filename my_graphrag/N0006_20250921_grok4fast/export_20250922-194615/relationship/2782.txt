@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom understands suffering and the cycle of birth, aging, sickness, and death, allowing transcendence through detachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

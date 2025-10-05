@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Severing defilements through mindfulness leads to attaining the stillness of Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

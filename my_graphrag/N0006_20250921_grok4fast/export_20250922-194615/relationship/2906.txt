@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Meditation directly brings about inner peace by allowing focused mindfulness to distance the mind from disturbances and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

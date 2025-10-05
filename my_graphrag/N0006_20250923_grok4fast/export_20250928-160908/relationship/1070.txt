@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Wisdom combined with precepts and diligence cultivates the saintly state respected by heavenly beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

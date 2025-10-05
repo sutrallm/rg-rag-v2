@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The body is seen as suffering through contemplation, aiding transcendence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

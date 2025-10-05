@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Indolence causes falling into the painful cycle of samsara without liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

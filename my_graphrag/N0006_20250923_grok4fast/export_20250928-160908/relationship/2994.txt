@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Heedless practitioners endure the sufferings of aging, illness, death, and endless torment in samsara without escape.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Wisdom accompanies mind liberation achieved via meditation to overcome attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

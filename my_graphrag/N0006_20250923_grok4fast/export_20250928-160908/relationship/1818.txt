@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_INDUCEMENT</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Non-indulgence is the direct opposite of indulgence, serving as the key to avoiding its harms and gaining positive rewards.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

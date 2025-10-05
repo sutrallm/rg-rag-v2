@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Mind liberation enables transcendence of the suffering of birth, old age, sickness, and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

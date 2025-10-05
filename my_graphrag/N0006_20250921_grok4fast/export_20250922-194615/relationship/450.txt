@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Afflictions are overcome through meditation to attain inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

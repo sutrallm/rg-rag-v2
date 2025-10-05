@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN LING</source_entity>
+    <target_entity>FANG YI</target_entity>
+    <relationship_description>Fang Yi causes Xin Ling to scatter and enter cycles of suffering, which must be countered with vigilance for meditative progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

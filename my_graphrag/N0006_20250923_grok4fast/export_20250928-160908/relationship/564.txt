@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>RIGHTEOUS LAW</target_entity>
+    <relationship_description>Diligence involves following the righteous law to stay on the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

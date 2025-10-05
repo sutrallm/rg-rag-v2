@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints are endowed with wisdom alongside precepts for their spiritual perfection.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

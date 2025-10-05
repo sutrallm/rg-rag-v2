@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Saints possess and uphold precepts alongside wisdom to achieve stillness and liberation from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

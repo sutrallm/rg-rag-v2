@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>SHI JIAN FEN RAO</target_entity>
+    <relationship_description>Sustained mindfulness practice distances the practitioner from worldly disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

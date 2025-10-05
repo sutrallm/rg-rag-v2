@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIGHTNESS</target_entity>
+    <relationship_description>Meditation generates lightness along with joy to refresh the body and mind.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

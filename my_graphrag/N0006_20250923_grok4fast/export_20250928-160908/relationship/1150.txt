@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Awakened ones have eradicated delusion along with greed and anger, transcending the four flows.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

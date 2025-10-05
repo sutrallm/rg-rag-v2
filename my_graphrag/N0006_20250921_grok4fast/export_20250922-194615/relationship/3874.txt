@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROCESSING REQUIREMENTS</source_entity>
+    <target_entity>SPECIFIED FORMAT</target_entity>
+    <relationship_description>The processing leads to output in the specified format after applying the requirements to the original text.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

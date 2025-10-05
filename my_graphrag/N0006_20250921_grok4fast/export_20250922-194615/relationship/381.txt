@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONTEMPLATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Meditative contemplation, alongside right effort, enables realization of no-self and achievement of nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

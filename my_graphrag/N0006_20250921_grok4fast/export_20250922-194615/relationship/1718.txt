@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Mind liberation through meditation fosters wisdom to perceive impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

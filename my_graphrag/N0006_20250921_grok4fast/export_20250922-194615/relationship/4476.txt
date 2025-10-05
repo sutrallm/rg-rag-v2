@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOVING_KINDNESS</source_entity>
+    <target_entity>FOUR IMEASURABLES</target_entity>
+    <relationship_description>Loving-kindness is a fundamental part of the four immeasurables practiced for liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

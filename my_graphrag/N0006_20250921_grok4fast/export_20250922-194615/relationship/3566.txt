@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Vigilance keeps practitioners far from evil karma, ensuring noble achievements and avoidance of rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

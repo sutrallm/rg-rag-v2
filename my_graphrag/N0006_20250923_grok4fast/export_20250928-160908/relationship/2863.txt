@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Heedlessness leads to entrapment in the cycle of samsara through indulgence and rebirth in lower realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

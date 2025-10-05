@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Through meditation, practitioners overcome afflictions to gain inner peace and eventual liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

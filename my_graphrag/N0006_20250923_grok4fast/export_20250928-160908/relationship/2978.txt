@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Vigilant practitioners gradually eradicate the three poisons—greed, hatred, and delusion—through sustained diligence and meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

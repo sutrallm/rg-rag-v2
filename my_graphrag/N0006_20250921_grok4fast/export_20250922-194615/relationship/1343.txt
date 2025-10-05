@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Wisdom from mindfulness practice enables insight into the impermanence of all dharmas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

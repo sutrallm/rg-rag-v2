@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>VOID</target_entity>
+    <relationship_description>The wisdom of saints is described as vast and boundless like the void.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

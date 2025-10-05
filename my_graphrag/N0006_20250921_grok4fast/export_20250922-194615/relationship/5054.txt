@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>TRUTH_OF_THE_WORLD</target_entity>
+    <relationship_description>Awakened practitioners illuminate the truth of the world with wisdom, transcending sensual pleasures and the cycle of birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

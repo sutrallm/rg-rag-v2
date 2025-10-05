@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Concentration serves as the path that culminates in wisdom, the fruit of the threefold training.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

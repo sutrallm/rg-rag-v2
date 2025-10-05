@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TITLE</source_entity>
+    <target_entity>NUMBERED TITLES</target_entity>
+    <relationship_description>Titles in the processed text are to be arranged using a numbered system for clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

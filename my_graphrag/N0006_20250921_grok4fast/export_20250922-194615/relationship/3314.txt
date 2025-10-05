@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION THROUGH WISDOM</target_entity>
+    <relationship_description>Advanced meditation culminates in liberation through wisdom, providing insight beyond mere concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

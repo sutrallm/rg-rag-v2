@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN CONCENTRATION</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Zen concentration enables practitioners to avoid and overcome laxity, progressing undisturbed like in a mosquito-free forest.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

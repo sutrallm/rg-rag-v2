@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EGO_CLINGING</source_entity>
+    <target_entity>MIND_LIBERATION</target_entity>
+    <relationship_description>Destroying ego-clinging through realization of the five aggregates' emptiness results in complete mind liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

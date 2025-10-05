@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XING XIU ZHE</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Xing Xiu Zhe achieve Jie Tuo through meditation and wisdom, freeing the mind from all bonds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

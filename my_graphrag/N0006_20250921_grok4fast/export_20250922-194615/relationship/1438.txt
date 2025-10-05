@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners adhere to teachings to sustain diligence and meditation practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

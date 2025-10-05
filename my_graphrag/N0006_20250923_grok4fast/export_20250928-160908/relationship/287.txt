@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Those who achieve mind liberation through zen meditation gain insight into the truth of impermanence in the world.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

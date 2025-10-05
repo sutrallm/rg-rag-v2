@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Renunciation leads practitioners to no longer cling to worldly dust.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

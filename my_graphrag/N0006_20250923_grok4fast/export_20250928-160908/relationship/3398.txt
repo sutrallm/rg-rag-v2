@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>The practitioner uses meditation to cultivate awareness of impermanence, avoiding clinging to transient phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

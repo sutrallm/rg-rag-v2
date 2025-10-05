@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JHANAS</target_entity>
+    <relationship_description>Meditation leads to the attainment of the first, second, up to fourth jhanas, characterized by joy and single-mindedness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

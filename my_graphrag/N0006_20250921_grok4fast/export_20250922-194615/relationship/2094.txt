@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Sustained diligent practice following Buddha's guidance allows mastery of zen meditation, avoiding laxity and samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

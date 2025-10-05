@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom discerns the suffering inherent in the impermanent world, enabling saints to eradicate its causes and achieve liberation beyond worldly pains.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

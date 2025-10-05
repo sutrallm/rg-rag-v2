@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>KONG</target_entity>
+    <relationship_description>Zhi Hui views Kong as part of the liberating insights in meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

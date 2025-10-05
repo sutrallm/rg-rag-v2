@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>BODY CONTEMPLATION</target_entity>
+    <relationship_description>The practitioner cultivates Body Contemplation by observing the body's impermanence and impurity to abandon attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

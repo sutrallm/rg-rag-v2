@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANG YI</source_entity>
+    <target_entity>ZEN DING</target_entity>
+    <relationship_description>Avoiding Fang Yi is necessary to truly master Zen Ding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

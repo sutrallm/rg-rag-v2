@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL SEQUENCE</source_entity>
+    <target_entity>DHYANA</target_entity>
+    <relationship_description>The sequence progresses to cultivating dhyana for mental focus after precepts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

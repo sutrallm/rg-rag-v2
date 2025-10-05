@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Severing 贪欲 and attachments is essential to attain true peace and enter the door of 解脱.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

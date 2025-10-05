@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>GREED HATRED DELUSION</target_entity>
+    <relationship_description>Afflictions encompass root poisons like greed, hatred, and delusion, which are targeted for eradication in meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉醒者</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>觉醒者 through 正念洞察身心诸法的无常.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

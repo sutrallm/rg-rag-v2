@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Xiu Xing Zhe rely on Jing Jin, diligent effort following Zheng Fa, to prevent negative domination of the mind and attain Zen Ding's fruits.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Through right view and practice of the Four Noble Truths, the causes of suffering are extinguished to attain Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

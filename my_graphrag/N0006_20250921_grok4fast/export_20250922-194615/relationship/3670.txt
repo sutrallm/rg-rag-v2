@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>DESIRE_REALM</target_entity>
+    <relationship_description>The awakened one, even while in the desire realm, remains undeluded and unattached.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

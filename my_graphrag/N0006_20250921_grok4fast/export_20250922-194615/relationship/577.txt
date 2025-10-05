@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>HOLY BEING</target_entity>
+    <relationship_description>Wisdom, gained through meditation, is a core attribute enabling holy beings to eliminate all suffering and afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

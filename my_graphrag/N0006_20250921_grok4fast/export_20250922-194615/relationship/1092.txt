@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>CONVERSION OF METAPHORS AND DIALOGUES</target_entity>
+    <relationship_description>The query includes this transformation as a key instruction for doctrinal clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

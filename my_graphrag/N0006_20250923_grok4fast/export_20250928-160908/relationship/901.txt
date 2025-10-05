@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Precepts are held by practitioners to support the cultivation of meditation in the complete path to wisdom and liberation from afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

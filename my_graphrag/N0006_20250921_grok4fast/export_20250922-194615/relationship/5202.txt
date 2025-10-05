@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Diligent practice is necessary to master the method of meditation and deepen its application without laxity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

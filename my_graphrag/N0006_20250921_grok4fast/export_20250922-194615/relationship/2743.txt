@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Holy ones diligently cultivate the mind and abide in quietude to break defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

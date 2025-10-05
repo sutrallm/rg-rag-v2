@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>FORM REALM</target_entity>
+    <relationship_description>Samadhi abiding in non-greed allows practitioners to progressively transcend the form realm toward ultimate liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

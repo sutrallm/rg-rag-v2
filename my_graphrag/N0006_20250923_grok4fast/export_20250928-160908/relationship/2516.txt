@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>EVIL FORCES</target_entity>
+    <relationship_description>Non-indolence, through alertness to sensory temptations, enables transcendence of evil forces' control toward awakening.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

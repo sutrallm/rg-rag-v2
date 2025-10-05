@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>TIAN JIE ZHONG SHENG</target_entity>
+    <relationship_description>Tian Jie Zhong Sheng respect Sheng Zhe for their accomplished discipline, wisdom, and liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

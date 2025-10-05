@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom through contemplation thoroughly discerns the impermanence of the three realms, cuts off all afflictions including greed, hatred, and delusion, attaining nirvana as irreversible liberation from birth, aging, illness, and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

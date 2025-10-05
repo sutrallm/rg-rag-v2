@@ -1,0 +1,19 @@
+### SPECIFIED FORMAT and Processing Protocol
+
+#### Executive Summary
+The SPECIFIED FORMAT establishes a standardized procedure for content modification, encompassing translation to vernacular Chinese, elimination of personal and locational references, transformation of figurative language and conversations into straightforward declarations, retention of core principles, application of symbolic numeric headings, and exclusion of final poetic sections. A communication directed to a handler expresses regret over the inability to execute modification due to missing source material and solicits its provision to enable continuation. Without the source, application of the procedure remains unfeasible, with output achievable only upon receipt and adherence to the protocol.
+
+#### Core Components of the SPECIFIED FORMAT
+The procedure defines a comprehensive structure for content delivery post-processing, integrating multiple transformation steps to ensure uniformity and fidelity to essential elements while stripping extraneous details.
+
+#### Role of the Apology Communication
+The directed message conveys an apology for halted operations stemming from the unavailability of foundational source material, directly linking the stall to this deficiency and emphasizing the need for its submission to resume activities.
+
+#### Dependency on Source Material Provision
+Processing cannot commence or yield results without the foundational source material, as its absence renders the entire procedure inoperative, highlighting a strict sequential requirement for input before output generation.
+
+#### Anticipated Output Mechanism
+Upon securing the source material, the procedure applies its defined steps to produce a formatted deliverable, underscoring the SPECIFIED FORMAT's role as the exclusive pathway for structured results.
+
+#### Reference to Protocol in Communications
+The message explicitly invokes the SPECIFIED FORMAT as the intended application method, reinforcing its centrality to the process and signaling readiness to implement once prerequisites are met.

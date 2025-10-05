@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>SELFLESSNESS</target_entity>
+    <relationship_description>Mental liberation enables understanding of selflessness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

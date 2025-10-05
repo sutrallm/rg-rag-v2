@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Laxity causes the arising of evil karma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

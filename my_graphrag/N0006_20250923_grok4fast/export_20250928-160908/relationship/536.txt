@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>FOUR DHAYANAS AND CESSATION</target_entity>
+    <relationship_description>Zen meditation starts from initial concentration, with practitioners progressively advancing through the first to fourth dhyanas and to cessation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

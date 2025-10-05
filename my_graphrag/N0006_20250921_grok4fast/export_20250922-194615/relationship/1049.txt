@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Buddhist teachings on diligent practice guide practitioners to avoid temptation and achieve mastery.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

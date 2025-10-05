@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN DING</source_entity>
+    <target_entity>XIN JIE TUO</target_entity>
+    <relationship_description>Zen Ding achieved through practice leads to Xin Jie Tuo for Xiu Xing Zhe.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

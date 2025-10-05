@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Wisdom, alongside precepts, allows saints to sever all defilements and transcend suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

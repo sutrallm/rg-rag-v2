@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LORD OF DEATH</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Diligent practitioners avoid falling under the control of the Lord of Death by remaining non-idle.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

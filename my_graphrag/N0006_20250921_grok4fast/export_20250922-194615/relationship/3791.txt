@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SECOND JHANA</source_entity>
+    <target_entity>FIRST JHANA</target_entity>
+    <relationship_description>Second Jhana builds on First Jhana by abandoning applied thought, deepening mind unification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

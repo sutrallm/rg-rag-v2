@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Insight into the Four Noble Truths allows the abandonment of ignorance, transcending samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPURITY</source_entity>
+    <target_entity>DISPASSION</target_entity>
+    <relationship_description>Recognizing impurity in the body arouses dispassion towards sensual desires.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

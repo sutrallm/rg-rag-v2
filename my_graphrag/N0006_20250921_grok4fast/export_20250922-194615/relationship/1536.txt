@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>The Buddha's teachings guide practitioners in diligent practice and meditation to avoid Mara's control and attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Samadhi helps in eliminating afflictions by providing a distraction-free mental state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

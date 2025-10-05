@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PRACTITIONERS</target_entity>
+    <relationship_description>Practitioners engage in meditation to escape dissipation and afflictions, achieving inner peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

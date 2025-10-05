@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Practitioners practice mindfulness constantly to observe mind and body, preventing scattering and purifying the heart.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

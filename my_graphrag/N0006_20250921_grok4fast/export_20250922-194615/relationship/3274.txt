@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER MESSAGE</source_entity>
+    <target_entity>PROCESSING REQUIREMENTS</target_entity>
+    <relationship_description>The processing requirements were referenced in response to the incomplete user message, outlining how the missing original text would be handled if provided.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

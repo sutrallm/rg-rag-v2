@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THIRD JHANA</source_entity>
+    <target_entity>SECOND JHANA</target_entity>
+    <relationship_description>Third Jhana advances from Second Jhana by fading rapture into equanimous pleasure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

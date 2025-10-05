@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LAZINESS</target_entity>
+    <relationship_description>The practitioner must avoid laziness by engaging in timely self-reflection during practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

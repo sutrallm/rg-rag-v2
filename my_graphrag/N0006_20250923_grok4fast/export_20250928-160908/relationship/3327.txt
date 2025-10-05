@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The suffering of samsara and rebirth is avoided by breaking attachments and afflictions through diligent practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

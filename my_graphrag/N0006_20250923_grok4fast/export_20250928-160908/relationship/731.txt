@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE DISCIPLE</source_entity>
+    <target_entity>CONCENTRATION AGGREGATE</target_entity>
+    <relationship_description>Noble disciples are diligent in mental cultivation and abide in stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

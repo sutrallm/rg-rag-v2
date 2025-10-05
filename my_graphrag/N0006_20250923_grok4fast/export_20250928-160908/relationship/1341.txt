@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>RAGING FIRE BURNING FOREST</target_entity>
+    <relationship_description>Greed ignites like a fire burning merits, extinguished by meditative water.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

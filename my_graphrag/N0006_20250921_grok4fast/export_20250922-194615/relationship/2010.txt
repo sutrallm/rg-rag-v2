@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom liberation results in the attainment of nirvana, providing eternal freedom from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

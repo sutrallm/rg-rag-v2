@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Greed acts as a consuming force like a flame, contributing to defilements that cause sorrow and separation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

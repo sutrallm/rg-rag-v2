@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Saints dwell in tranquility through diligent cultivation, precepts, and wisdom to sever afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

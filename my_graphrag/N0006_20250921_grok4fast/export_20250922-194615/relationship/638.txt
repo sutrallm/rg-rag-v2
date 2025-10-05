@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIGHTNESS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Lightness attained from breathing focus enables the development of deeper concentration power.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

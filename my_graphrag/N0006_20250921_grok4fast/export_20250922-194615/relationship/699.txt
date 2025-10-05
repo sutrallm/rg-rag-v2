@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Awakened beings use wisdom to perceive the emptiness and conditional arising of all phenomena, remaining undisturbed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

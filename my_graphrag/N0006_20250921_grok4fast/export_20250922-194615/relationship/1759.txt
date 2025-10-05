@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must exercise diligence to master meditation and avoid laxity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

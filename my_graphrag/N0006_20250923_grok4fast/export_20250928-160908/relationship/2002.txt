@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>CLEAR POOL WATER</target_entity>
+    <relationship_description>Meditation renders the mind like clear pool water, enabling reflection of deeper insights.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

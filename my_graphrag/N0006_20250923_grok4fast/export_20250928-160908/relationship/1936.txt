@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>The threefold training incorporates meditation (concentration) to develop mental stability.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

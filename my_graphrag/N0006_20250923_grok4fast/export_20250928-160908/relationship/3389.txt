@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED_ONE</source_entity>
+    <target_entity>DHARMAS</target_entity>
+    <relationship_description>Liberated ones are not moved by dharmas, remaining unobstructed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

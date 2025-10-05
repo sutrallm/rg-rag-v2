@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts and wisdom combine as foundation and sword to eradicate three poisons.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>SENSUAL PLEASURES</target_entity>
+    <relationship_description>Ignorance leads to blind indulgence in sensual pleasures, trapping one like a fish on a hook in deeper suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

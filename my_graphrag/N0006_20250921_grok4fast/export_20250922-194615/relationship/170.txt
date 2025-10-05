@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>Non-indolence is the essential means to truly grasp and follow the path to liberation, avoiding vulnerability.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

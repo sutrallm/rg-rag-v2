@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>SENTIENT_BEINGS</target_entity>
+    <relationship_description>Compassion is directed without discrimination toward all sentient beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

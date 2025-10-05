@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>LAZINESS</target_entity>
+    <relationship_description>Diligence prevents practitioners from being ensnared by laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

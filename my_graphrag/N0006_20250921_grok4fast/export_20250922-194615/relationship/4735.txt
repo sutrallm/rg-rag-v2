@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MARA</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Mara's army includes greed (desire), which meditation overcomes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

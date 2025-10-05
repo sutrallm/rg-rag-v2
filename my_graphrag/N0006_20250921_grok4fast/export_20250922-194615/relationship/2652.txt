@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>RESULT</target_entity>
+    <relationship_description>Practitioners pursue spiritual results without attachment, guided by wisdom.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

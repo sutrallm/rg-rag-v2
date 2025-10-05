@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Mental liberation provides the wisdom to transcend attachments, even to Nirvana, achieving freedom without bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

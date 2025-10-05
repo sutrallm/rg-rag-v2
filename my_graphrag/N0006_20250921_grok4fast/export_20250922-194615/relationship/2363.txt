@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>The practitioner must avoid indolence, as it hinders meditation and leads to suffering, while non-indolence brings joy and progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

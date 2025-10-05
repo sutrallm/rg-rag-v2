@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>The practitioner fulfills precepts as part of the complete path to silence and eradication of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

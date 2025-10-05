@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFUL AWARENESS</target_entity>
+    <relationship_description>Zen meditation relies on mindful awareness to focus the mind and achieve inner peace, avoiding distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

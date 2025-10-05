@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>EVIL ACTIONS</target_entity>
+    <relationship_description>Indolence leads to indulgence in evil actions, resulting in control by afflictions and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

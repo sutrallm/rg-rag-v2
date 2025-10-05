@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Concentration, as part of meditation, supports the development of wisdom in perceiving impermanence and eradicating afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

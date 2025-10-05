@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>Diligent practice takes the Dharma as its basis to overcome obstacles and achieve complete enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

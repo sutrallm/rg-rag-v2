@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Zen Meditation fosters non-attachment by purifying the mind and generating insight into true reality.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>NEGATIVE REALMS</target_entity>
+    <relationship_description>Diligence helps practitioners avoid control by negative realms through continuous and non-idle effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Laxity rapidly leads to increased afflictions and ruin, like grass consumed by wildfire.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The fully liberated are completely free from all suffering and sorrows, eternally departing from all bitterness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

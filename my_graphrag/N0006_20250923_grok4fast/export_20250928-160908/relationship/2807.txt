@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Laxity harms practitioners, leading to pursuit by death and loss of wisdom to afflictions like greed and hatred.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

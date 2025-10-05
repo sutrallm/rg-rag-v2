@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Meditation, through calm and insight, breaks the five hindrances, allowing access to joy, peace, and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

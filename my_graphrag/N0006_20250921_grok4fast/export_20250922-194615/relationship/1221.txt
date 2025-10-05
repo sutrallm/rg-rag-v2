@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SENSORY PLEASURES</target_entity>
+    <relationship_description>Liberation is attained by avoiding attachment to sensory pleasures, viewed as poisonous.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

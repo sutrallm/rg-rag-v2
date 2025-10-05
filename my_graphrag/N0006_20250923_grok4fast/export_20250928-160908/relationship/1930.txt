@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Non-indulgence develops wisdom by breaking habitual patterns and gaining insightful vision.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

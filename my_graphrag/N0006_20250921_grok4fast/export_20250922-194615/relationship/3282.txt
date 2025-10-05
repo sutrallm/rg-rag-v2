@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TEACHING DETAILS</target_entity>
+    <relationship_description>Teaching details from the original text must be retained while other elements are modified or removed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

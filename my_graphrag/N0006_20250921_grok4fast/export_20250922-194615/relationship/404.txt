@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL KARMA</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Indolence allows evil karma to arise from unchecked actions and defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

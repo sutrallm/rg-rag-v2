@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Non-indulgent adherence to teachings achieves correct enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

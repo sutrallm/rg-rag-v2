@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THIRD JHANA</source_entity>
+    <target_entity>FOURTH JHANA</target_entity>
+    <relationship_description>The fourth jhana advances by letting go of pleasure, achieving pure equanimity and mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

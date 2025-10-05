@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ROOT AFFLICTIONS</target_entity>
+    <relationship_description>Saints thoroughly sever the root afflictions of greed, hatred, and ignorance through diligent practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

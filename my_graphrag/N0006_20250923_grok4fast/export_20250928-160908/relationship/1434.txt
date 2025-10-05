@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Pursuit of nirvana without attachment stems from understanding impermanence of all realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

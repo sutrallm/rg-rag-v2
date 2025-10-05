@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR JHANAS</source_entity>
+    <target_entity>FIRST JHANA</target_entity>
+    <relationship_description>The four jhanas begin with the first jhana, progressing from detachment from hindrances to higher states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>CHENG GUO</target_entity>
+    <relationship_description>Zhi Hui allows pursuit of Cheng Guo without being bound by it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

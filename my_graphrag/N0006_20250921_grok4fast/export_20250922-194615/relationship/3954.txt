@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Awakened ones achieve full liberation by cutting off attachments and afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

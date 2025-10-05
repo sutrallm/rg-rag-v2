@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRST JHANA</source_entity>
+    <target_entity>JOY AND PLEASURE</target_entity>
+    <relationship_description>The first jhana is accompanied by joy and pleasure bathing the body.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

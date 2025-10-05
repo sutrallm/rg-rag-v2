@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Suffering in the rebirth cycle is a consequence of laxity and sense indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

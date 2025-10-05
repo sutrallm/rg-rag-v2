@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>PEACE</target_entity>
+    <relationship_description>Saints achieve ultimate peace by possessing precepts, concentration, wisdom, and eradicating afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

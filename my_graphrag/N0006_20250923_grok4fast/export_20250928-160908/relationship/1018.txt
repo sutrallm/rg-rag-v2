@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Practitioners gain mind liberation through zen meditation, leading to insight beyond attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

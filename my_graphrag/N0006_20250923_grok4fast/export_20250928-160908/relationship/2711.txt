@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>The assistant directly addresses the user's incomplete message by apologizing and committing to fulfill the outlined processing requirements once the original text is provided.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

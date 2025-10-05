@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Contemplation of suffering helps extinguish clinging and attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>SENSORY PLEASURES</target_entity>
+    <relationship_description>Vigilance directly counters indulgence in sensory pleasures, helping practitioners stay away from dangers.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

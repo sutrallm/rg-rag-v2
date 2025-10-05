@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>SUPREME ENLIGHTENMENT</target_entity>
+    <relationship_description>The perfection of the three trainings leads practitioners to supreme enlightenment, eradicating fears and afflictions for total freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LORD OF DEATH</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The Lord of Death controls those lacking diligent practice, causing them to fall into suffering and evil.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation allows escape from afflictions and disturbances, ultimately leading to their complete extinction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

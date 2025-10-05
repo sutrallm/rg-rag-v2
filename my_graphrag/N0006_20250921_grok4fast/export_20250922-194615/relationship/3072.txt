@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_LEARNINGS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Possessing the three learnings leads to complete liberation, abiding in quietude free from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

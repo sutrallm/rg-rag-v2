@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation helps practitioners completely extinguish the roots of afflictions through tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

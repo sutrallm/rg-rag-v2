@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN DING</source_entity>
+    <target_entity>CHU ZEN</target_entity>
+    <relationship_description>Zen Ding progresses sequentially, with Chu Zen as the first stage featuring Xun Si and Xi Le.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

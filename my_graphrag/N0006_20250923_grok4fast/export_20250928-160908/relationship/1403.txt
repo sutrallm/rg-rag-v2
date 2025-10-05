@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Advanced practitioners, particularly saints, transcend suffering through spiritual cultivation and insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

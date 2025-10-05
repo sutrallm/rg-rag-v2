@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LORD OF DEATH</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence helps practitioners evade the control of the Lord of Death through sustained non-negligent effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISSIPATION</source_entity>
+    <target_entity>MENTAL_LIBERATION</target_entity>
+    <relationship_description>Dissipation obstructs mental liberation by trapping the mind in suffering; overcoming it through alertness is essential for achieving true freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

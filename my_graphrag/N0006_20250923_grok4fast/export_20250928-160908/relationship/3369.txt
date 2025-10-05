@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENT_PERSON</source_entity>
+    <target_entity>EVIL_REALMS</target_entity>
+    <relationship_description>Indulgent persons ultimately fall into evil realms due to their actions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

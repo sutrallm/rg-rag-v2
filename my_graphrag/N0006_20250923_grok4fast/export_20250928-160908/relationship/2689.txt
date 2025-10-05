@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Saints transcend suffering after cutting off afflictions through precepts, wisdom, and diligent practice in stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

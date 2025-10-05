@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARAHANT FRUIT</source_entity>
+    <target_entity>PARINIRVANA</target_entity>
+    <relationship_description>Arahants are free from the cycle of birth and death and abide in Parinirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

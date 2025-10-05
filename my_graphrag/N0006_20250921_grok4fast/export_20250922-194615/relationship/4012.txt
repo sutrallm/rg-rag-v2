@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>KYCLIC SUFFERING</target_entity>
+    <relationship_description>Delusion binds to cyclic suffering, dispelled by wisdom in awakened states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

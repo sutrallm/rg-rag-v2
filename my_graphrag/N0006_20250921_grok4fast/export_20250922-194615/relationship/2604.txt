@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Accomplishing in meditation as part of the threefold training with precepts and wisdom leads to evidence of nirvana and eternal inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

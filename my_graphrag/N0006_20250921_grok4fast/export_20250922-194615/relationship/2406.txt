@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Samadhi relies on sustained mindfulness to concentrate the mind and distance from distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

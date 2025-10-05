@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The Awakened One emphasizes diligence and non-laxity for overcoming indulgence and attaining liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

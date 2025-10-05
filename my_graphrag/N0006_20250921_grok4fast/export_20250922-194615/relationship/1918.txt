@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>RESULT</target_entity>
+    <relationship_description>Even in pursuing results, practitioners are not bound by attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Indulgence prevents stable abiding in meditation by breeding afflictions like greed, anger, and delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SENSORY PLEASURES</target_entity>
+    <relationship_description>Indulgence involves greedy pursuit of sensory pleasures, resulting in mental decay and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

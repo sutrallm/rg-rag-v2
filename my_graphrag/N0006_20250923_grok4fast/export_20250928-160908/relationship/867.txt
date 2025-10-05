@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Through the practice of concentration in meditation, the five hindrances are severed, allowing the mind to become joyful, happy, and free from defilements.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

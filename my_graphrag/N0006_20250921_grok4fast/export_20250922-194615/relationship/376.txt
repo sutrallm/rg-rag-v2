@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Awakened ones are free from greed, contributing to their unobstructed and vast mind state.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

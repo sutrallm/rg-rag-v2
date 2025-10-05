@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Mentally liberated practitioners do not attach to any realms or become bound by pursuing results.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

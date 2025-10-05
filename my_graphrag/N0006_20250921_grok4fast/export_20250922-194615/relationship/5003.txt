@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>AWAKENED BEING</target_entity>
+    <relationship_description>Awakened beings achieve the state of Nirvana, abiding in ultimate peace without remainder.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

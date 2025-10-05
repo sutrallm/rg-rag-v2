@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PRACTITIONER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Holy practitioners cut off all various afflictions through possession of precepts and wisdom and diligent mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

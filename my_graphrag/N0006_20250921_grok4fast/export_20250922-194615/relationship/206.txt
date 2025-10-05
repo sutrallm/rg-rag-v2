@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>The title of the original text is to be modified to better represent its content.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

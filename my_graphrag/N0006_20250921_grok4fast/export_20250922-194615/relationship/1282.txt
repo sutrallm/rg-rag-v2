@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners unbound by greed and attachments attain mental freedom, roam heavenly realms freely, and escape the pull of worldly pleasures, achieving liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

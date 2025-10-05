@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must practice diligence to follow the right Dharma and avoid indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

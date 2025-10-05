@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN XING XIU</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Jing Jin Xing Xiu prevents control by Wu Ming through vigilance and non-indulgence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

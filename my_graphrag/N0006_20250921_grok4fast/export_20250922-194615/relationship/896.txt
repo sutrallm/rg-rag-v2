@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts and wisdom are jointly possessed by saints who cultivate the mind, abide in stillness, and eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

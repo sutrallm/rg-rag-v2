@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPERNATURAL POWERS</source_entity>
+    <target_entity>SUPREME_AWAKENING</target_entity>
+    <relationship_description>Supernatural powers lead to the achievement of supreme awakening by transcending ordinary delusions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

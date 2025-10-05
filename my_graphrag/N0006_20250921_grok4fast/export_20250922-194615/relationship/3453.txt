@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA CONTEMPLATION</source_entity>
+    <target_entity>UNCONDITIONED DHARMAS</target_entity>
+    <relationship_description>Dharma Contemplation observes unconditioned dharmas in contrast to conditioned ones to attain ultimate peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

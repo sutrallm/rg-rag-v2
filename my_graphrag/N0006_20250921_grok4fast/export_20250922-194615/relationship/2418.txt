@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE FRUITS</source_entity>
+    <target_entity>FIVE LOWER FETTERS</target_entity>
+    <relationship_description>The second fruit of the noble fruits eradicates the five lower fetters including sensual desire and ill-will.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

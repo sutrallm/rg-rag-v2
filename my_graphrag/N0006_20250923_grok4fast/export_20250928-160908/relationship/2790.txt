@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>BRIGHT LAMP</target_entity>
+    <relationship_description>The non-lax mind is like a bright lamp.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

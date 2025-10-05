@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ER ZEN</source_entity>
+    <target_entity>SAN ZEN</target_entity>
+    <relationship_description>San Zen advances from Er Zen with Li Xi, maintaining mindfulness and pleasure without rapture.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

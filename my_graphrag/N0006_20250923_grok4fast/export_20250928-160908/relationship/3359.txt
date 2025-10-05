@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Practitioners aim to escape afflictions through awareness and practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

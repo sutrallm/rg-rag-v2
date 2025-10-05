@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAREFUL PERSON</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Careless persons are entangled by greed, leading to confusion and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

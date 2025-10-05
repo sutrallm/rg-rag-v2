@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MARA</source_entity>
+    <target_entity>NON-NEGLIGENCE</target_entity>
+    <relationship_description>Non-negligence prevents falling under Mara's control, as emphasized in the Buddha's teachings on diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

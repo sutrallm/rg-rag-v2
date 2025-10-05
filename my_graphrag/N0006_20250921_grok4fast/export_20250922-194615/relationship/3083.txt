@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Saints possess and uphold precepts as a core quality for eradicating afflictions and achieving transcendence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

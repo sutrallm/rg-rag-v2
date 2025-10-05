@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Indulgent individuals are captured by Mara, leading to entrapment in the cycle of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

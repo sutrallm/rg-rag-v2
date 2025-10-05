@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>Non-LAXITY</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-laxity allows mastery over birth and death, purity through precepts, and transcendence of suffering toward ultimate peace, akin to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

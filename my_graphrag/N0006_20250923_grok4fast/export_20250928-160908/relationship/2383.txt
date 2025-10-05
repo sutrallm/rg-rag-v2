@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH DEMON KING</target_entity>
+    <relationship_description>Undiligent practitioners risk falling under the control of the Death Demon King.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

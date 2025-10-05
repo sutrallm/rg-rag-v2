@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>FOUR_JHANAS</target_entity>
+    <relationship_description>Meditation progresses through the four jhanas as stages of deepening absorption and calm.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

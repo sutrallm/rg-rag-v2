@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Diligent practice enables saints to cut off all afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

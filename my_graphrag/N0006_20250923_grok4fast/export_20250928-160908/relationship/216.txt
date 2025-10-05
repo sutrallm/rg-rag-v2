@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>The wisdom of saints commands the respect and devotion of celestial beings, irrespective of supernatural powers.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

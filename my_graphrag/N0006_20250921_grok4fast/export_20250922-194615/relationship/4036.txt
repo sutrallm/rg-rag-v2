@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISPASSION</source_entity>
+    <target_entity>LUST</target_entity>
+    <relationship_description>Dispassion severs lust and greedy attachments by diminishing desire for the body.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

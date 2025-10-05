@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom dispels ignorance, leading to awakening and eternal peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL REALMS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Evil realms are part of the inescapable cycle of samsara for those bound by the three poisons, filled with suffering from indulgent behaviors.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

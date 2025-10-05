@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NOBLE ONE</target_entity>
+    <relationship_description>Devoted practitioners who attain discipline, wisdom, and mind liberation become noble ones revered even by heavenly beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

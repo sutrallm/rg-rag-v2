@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Meditation is practiced by practitioners to achieve focus, escape distractions, and gain inner peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

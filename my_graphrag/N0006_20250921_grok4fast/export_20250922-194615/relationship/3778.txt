@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Samadhi is achieved through focused mind and maintaining mindfulness, which helps detach from worldly distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

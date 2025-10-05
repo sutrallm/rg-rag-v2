@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Diligent practice enables practitioners to avoid being controlled by death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

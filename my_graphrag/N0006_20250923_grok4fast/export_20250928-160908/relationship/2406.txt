@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>AFFLICTION</target_entity>
+    <relationship_description>Saints thoroughly sever afflictions like greed, anger, and delusion through their practice of precepts and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

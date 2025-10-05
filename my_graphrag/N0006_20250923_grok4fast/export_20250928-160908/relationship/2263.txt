@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>NON-INDULGENCE</target_entity>
+    <relationship_description>Diligent practice involves constant non-indulgence to attain mastery in meditation and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

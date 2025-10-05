@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Awakened ones achieve the bliss of Nirvana, free from the cycle of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

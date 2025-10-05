@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Awareness of impermanence awakens wisdom, leading to the severing of attachments and attainment of Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

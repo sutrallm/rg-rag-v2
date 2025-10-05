@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Indulgence generates evil karma and leads to suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

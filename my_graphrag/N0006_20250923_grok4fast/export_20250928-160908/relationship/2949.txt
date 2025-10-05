@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Indolence allows defilements like greed, anger, and dullness to dominate the mind, leading to harm.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

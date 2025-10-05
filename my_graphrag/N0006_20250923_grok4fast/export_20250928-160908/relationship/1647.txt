@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Negligence traps beings in samsara under the demon king's influence, preventing liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

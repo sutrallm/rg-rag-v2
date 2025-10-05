@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_NEGLIGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Non-negligence prevents the consequences of negligence, which lead to the bitter fruits of samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

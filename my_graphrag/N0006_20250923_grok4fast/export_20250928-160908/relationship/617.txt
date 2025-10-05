@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditation purifies the mind and generates the light of wisdom to penetrate reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

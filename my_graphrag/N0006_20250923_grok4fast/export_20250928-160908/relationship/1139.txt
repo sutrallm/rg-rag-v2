@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONES</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Awakened ones have eliminated anger, freeing themselves from emotional bindings and achieving unbound existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

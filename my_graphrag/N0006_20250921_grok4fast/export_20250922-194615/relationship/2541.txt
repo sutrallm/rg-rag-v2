@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Meditation along with insight allows attainment of Nirvana by transcending realms.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

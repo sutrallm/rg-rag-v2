@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Eradicating defilements allows saints to transcend suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

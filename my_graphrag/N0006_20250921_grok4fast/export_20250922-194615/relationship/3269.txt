@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INNER PEACE AND PURITY</target_entity>
+    <relationship_description>Meditation enables practitioners to obtain inner peace and purity, like moving freely in an undisturbed environment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

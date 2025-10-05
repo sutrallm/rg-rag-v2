@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Meditation develops concentration as a steadfast mental state, protecting against distractions and generating wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

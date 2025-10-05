@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WORLDLY HAPPINESS</target_entity>
+    <relationship_description>Impermanence reveals the deceptive brevity of worldly happiness, like phantoms or water reflections, promoting detachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

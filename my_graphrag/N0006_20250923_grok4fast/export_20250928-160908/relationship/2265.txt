@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>NOBLE ONES</target_entity>
+    <relationship_description>Possession of precepts alongside wisdom characterizes noble ones who achieve tranquility and respect from heavenly beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

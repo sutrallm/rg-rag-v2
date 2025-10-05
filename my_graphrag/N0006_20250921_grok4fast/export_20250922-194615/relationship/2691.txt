@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>An awakened being dwells in the bliss of Nirvana after permanently ending the cycle of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

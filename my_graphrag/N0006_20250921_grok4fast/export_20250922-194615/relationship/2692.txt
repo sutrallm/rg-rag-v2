@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GIVING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True giving without attachment purifies the mind and guides toward the path of liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

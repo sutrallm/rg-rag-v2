@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>WORLDLY DISTURBANCES</target_entity>
+    <relationship_description>Zen Meditation allows escape from worldly disturbances, likened to free movement in an undisturbed environment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

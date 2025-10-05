@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MERIT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Vast merit of such practitioners gives rise to respect and honor in the hearts of heavenly beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy beings possess both precepts and wisdom to cultivate tranquility and eradicate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

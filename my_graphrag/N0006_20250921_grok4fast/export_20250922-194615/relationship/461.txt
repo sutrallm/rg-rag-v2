@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Mind liberation results in eternal freedom from suffering and distress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

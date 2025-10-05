@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>FORMLESS REALM</target_entity>
+    <relationship_description>Samadhi enables the transcendence of the formless realm, leading step by step to Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>HEAVENLY JOY</target_entity>
+    <relationship_description>Nirvana surpasses heavenly joy, providing ultimate eternal bliss beyond celestial pleasures.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

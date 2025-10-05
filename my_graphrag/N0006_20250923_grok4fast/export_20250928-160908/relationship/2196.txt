@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Zhi Hui provides profound insight into Wu Chang, recognizing all as impermanent and unreal for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

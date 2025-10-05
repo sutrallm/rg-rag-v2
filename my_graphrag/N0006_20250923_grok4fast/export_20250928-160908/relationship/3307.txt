@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ARHAT FRUIT</target_entity>
+    <relationship_description>Complete liberation is achieved at the Arhat stage, free from birth, aging, illness, and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

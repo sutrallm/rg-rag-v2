@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Wisdom enables insight into desires as transient and painful, thereby cutting off greed and attachment to sensual pleasures.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

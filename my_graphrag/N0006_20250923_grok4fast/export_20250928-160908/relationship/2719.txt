@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Death, likened to a demon king, is avoided by those who maintain diligence and vigilance in practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

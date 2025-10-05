@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Possessing precepts as part of the threefold training with meditation and wisdom leads to attaining nirvana and complete liberation from afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

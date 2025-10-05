@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISTRACTIONS</target_entity>
+    <relationship_description>Meditation enables the mind to be away from distractions when focused and mindful.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

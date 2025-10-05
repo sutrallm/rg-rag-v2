@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FOUR NOBLE TRUTHS</target_entity>
+    <relationship_description>Wisdom realizes the four noble truths, freeing from sensory delusions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

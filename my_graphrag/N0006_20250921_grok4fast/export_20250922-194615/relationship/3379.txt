@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Following the teachings enables practitioners to avoid the traps of indulgence and control by afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

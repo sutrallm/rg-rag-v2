@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Following the Dharma through awareness of impermanence, suffering, and emptiness leads to the peace of Nirvana and supreme liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

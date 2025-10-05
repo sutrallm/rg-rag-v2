@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PAST LIFE KNOWLEDGE</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>Past life knowledge provides insight into the karma and its fruits across previous existences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

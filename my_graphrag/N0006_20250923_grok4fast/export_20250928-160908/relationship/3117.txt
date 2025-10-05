@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION MIND</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Renunciation mind, aroused by awareness of impermanence, leads to the abandonment of greed and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

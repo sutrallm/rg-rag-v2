@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Compassion is supported by observing precepts to avoid harm and maintain purity in interactions with beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEVA</target_entity>
+    <relationship_description>Saints' virtues earn respect from devas due to their possession of precepts, wisdom, and transcendence of suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

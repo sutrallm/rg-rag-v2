@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Meditation leads to mind liberation, freedom without stain, and ultimate release from all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

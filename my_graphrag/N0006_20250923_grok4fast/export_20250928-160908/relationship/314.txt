@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>MEDITATION OBJECT</target_entity>
+    <relationship_description>Concentration fixes the mind exclusively on the meditation object, abandoning distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

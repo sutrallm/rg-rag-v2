@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Non-negligent practice helps the practitioner distance from greed and its bindings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

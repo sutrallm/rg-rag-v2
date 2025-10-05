@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Diligent practice enables escape from the bindings of samsara through persistent effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

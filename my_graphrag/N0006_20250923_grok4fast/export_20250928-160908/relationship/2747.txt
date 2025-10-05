@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Meditation relies on mindfulness to focus the mind and escape disturbances, forming a core part of its practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

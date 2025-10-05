@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY OBJECTS</source_entity>
+    <target_entity>WORLDLY SUFFERING</target_entity>
+    <relationship_description>Attachment to sensory objects fuels worldly suffering through desires and afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

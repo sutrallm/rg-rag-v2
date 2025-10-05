@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ONE-POINTEDNESS</source_entity>
+    <target_entity>DOUBTS</target_entity>
+    <relationship_description>One-pointedness eradicates doubts, allowing clear illumination of the true nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

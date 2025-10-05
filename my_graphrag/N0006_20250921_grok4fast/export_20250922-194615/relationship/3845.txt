@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>FOUR STAGES OF ENLIGHTENMENT</target_entity>
+    <relationship_description>Non-indulgent practitioners attain the four stages of enlightenment up to arahantship through vigilance and diligence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

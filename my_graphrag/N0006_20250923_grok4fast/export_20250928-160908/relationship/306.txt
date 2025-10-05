@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD SPIRITUAL FRIEND</source_entity>
+    <target_entity>SEVEN FACTORS OF ENLIGHTENMENT</target_entity>
+    <relationship_description>Association with a good spiritual friend inspires the arising of the seven factors of enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

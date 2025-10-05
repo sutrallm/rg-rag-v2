@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>TROUBLES</target_entity>
+    <relationship_description>Abiding in tranquility allows holy beings to completely eradicate troubles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

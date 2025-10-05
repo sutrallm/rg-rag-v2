@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_NOBLE_TRUTHS</source_entity>
+    <target_entity>ORIGIN_OF_SUFFERING</target_entity>
+    <relationship_description>The Origin of Suffering is the second component of the Four Noble Truths, explaining the causes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

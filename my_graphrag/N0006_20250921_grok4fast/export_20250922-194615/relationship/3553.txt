@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>THREE REALMS</target_entity>
+    <relationship_description>The three poisons bind beings to the three realms, requiring their severance for transcendence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

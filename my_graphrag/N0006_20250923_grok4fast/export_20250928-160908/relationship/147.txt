@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom directly counters delusion, providing insight into impermanence and truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

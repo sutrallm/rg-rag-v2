@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PATH</source_entity>
+    <target_entity>SUPREME BODHI</target_entity>
+    <relationship_description>Following the holy path results in attaining Supreme Bodhi.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

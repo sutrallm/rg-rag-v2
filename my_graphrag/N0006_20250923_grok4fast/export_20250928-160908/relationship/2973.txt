@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Saints, as advanced practitioners, anoint in the stillness of samadhi, having eradicated distractions and afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

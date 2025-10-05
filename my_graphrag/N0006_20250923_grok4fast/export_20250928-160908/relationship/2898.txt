@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The noble path destroys delusion, the core ignorance, leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Diligent practitioners overcome the binding force of desire via continuous practice and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

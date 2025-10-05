@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MARA</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Mara ensnares practitioners into continued suffering in samsara by promoting laxity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

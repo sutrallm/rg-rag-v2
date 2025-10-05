@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>The practitioner follows the Buddha's teachings through continuous diligence to avoid the death demon's control and master zen meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

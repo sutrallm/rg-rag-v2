@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-negligence leads to happiness and liberation, while negligence traps one in suffering and samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

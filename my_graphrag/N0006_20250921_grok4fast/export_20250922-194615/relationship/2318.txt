@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Zen Meditation creates a pure environment that brings inner peace by completely freeing the mind from laxity and disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

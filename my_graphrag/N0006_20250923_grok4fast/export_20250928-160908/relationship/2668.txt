@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>HOLY REALM</target_entity>
+    <relationship_description>The holy realm is defined by the complete severing of all afflictions and transcendence of samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

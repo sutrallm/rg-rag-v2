@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>WORLDLY SUFFERING</target_entity>
+    <relationship_description>Afflictions cause worldly suffering, which is transcended by holy practitioners who eliminate them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

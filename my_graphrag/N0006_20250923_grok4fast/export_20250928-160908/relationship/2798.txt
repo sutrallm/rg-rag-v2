@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>INNER CHAOS</target_entity>
+    <relationship_description>Laxity leads to inner chaos.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENT CULTIVATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Non-indolent cultivation relies on sustained mindfulness to maintain vigilance and avoid indolence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

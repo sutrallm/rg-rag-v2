@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Indulgent individuals are captured by Mara and find it difficult to escape the ocean of suffering in samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

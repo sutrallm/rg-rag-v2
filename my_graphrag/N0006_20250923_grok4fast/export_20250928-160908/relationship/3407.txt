@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS CONCENTRATION WISDOM</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Concentration as part of the three learnings directly supports zen meditation to cultivate quietude and eliminate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

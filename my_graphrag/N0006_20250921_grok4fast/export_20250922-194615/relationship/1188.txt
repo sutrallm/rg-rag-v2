@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Mental liberation provides the wisdom to pursue Nirvana without attachment or being bound by it, thoroughly eradicating greed, attachment, and defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

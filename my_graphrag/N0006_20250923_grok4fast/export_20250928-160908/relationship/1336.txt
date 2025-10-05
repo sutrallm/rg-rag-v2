@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENT PERSON</source_entity>
+    <target_entity>BUTCHER SLAUGHTERING LIVESTOCK</target_entity>
+    <relationship_description>The indolent person's mind acts like a butcher, cruelly destroying itself in samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

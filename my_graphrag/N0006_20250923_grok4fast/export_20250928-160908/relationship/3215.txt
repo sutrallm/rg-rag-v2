@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PURITY</target_entity>
+    <relationship_description>Meditation cultivates purity in the mind by eliminating disturbances and indulgence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

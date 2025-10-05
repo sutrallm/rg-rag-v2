@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Through sustained mindfulness, practitioners achieve purification and the manifestation of wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>BIRTH AGING SICKNESS DEATH</target_entity>
+    <relationship_description>Wisdom allows practitioners to stay far from the sufferings of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

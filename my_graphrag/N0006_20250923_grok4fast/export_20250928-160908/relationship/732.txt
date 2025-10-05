@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS AND AWARENESS</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Mindfulness and awareness, through continuous diligence, lead to eradication of the five hindrances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

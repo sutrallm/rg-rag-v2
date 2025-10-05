@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SENSES</target_entity>
+    <relationship_description>Practitioners control their senses—eye, ear, nose, tongue, body, and mind—sequentially to avoid arising greed and attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

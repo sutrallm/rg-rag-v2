@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT ORIGINATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Dependent origination describes the causal arising of suffering, which is extinguished through insight into its twelve links.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

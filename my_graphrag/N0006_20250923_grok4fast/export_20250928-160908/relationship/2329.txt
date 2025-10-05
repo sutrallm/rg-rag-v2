@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Wisdom realizes no-self, freeing from attachment to ego.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

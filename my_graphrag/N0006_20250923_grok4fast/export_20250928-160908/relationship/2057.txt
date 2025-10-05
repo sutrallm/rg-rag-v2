@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE BEING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Noble beings possess wisdom alongside precepts to transcend suffering and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

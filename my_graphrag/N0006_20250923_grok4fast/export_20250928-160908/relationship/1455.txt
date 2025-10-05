@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEMON KING OF DEATH</target_entity>
+    <relationship_description>Diligence prevents practitioners from being controlled by the Demon King of Death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

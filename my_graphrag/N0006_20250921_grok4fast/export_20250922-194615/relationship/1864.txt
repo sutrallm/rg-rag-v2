@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>HOLY PATH</target_entity>
+    <relationship_description>Heedlessness prevents the attainment of the holy path due to the growth of afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

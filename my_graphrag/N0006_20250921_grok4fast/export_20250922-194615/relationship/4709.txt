@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>The Threefold Training enables the severing of attachments to the Five Aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

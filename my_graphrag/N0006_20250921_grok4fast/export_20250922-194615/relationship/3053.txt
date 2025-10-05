@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Diligent practice generates joy alongside wisdom as afflictions are overcome.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

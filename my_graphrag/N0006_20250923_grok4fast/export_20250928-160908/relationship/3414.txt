@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners use mindfulness to observe impermanence and cut off the three poisons, advancing toward liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

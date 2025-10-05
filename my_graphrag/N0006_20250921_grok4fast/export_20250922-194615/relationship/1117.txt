@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Indolence strengthens delusion, preventing insight and perpetuating samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

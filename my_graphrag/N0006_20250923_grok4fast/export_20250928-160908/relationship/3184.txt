@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEAVENLY BEINGS</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Heavenly beings develop respect for sages who have reached supreme correct awakening.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

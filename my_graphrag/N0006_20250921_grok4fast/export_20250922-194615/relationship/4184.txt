@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditation leads to the arising of wisdom that provides insight into impermanence and transcends attachments for ultimate liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

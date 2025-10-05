@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>FOUR RIGHT EFFORTS</target_entity>
+    <relationship_description>Awakened beings employ the four right efforts to abandon unwholesome states and cultivate wholesome ones, remaining unmoved by worldly temptations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

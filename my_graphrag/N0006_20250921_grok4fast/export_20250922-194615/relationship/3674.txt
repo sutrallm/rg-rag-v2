@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>FOUR_SUFFERINGS</target_entity>
+    <relationship_description>Nirvana is far from the four sufferings of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

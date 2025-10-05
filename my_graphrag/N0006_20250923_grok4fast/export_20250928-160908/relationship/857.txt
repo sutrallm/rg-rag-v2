@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Precepts integrated with wisdom lead to wisdom liberation, freeing practitioners from all suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

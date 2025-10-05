@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WHOLESOME_DHARMA</target_entity>
+    <relationship_description>Diligent practitioners cultivate wholesome dharma to generate vast joy, avoid suffering in evil destinies, purify the mind from defilements, attain supreme peace, and increase merit.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

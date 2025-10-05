@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Practicing the Four Noble Truths leads to eradicating afflictions and abiding in Nirvana, free from birth and death suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

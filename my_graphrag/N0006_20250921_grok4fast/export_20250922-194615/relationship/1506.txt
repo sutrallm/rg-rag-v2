@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN DING</source_entity>
+    <target_entity>NEI XIN DE PING JING YU AN NING</target_entity>
+    <relationship_description>Zen Ding directly results in Nei Xin De Ping Jing Yu An Ning by removing obstacles like distractions and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

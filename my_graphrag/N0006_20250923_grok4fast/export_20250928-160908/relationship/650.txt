@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISSIPATION</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Ignorance, combined with desires, controls the dissipated, leading to mental chaos.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

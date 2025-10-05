@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>WORLDLY BONDS</target_entity>
+    <relationship_description>Saints have transcended all worldly bonds through wisdom, precepts, and tranquil abiding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

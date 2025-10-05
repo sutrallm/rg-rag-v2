@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Indulgence scatters the mind, making it difficult to attain Zen meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

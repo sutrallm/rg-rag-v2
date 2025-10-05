@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Greed is a primary affliction that binds the mind to sensory desires and worldly suffering, contributing to the broader set of mental defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

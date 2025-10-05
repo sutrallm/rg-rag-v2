@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>The noble path eliminates hatred via the development of wisdom from concentration and precepts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

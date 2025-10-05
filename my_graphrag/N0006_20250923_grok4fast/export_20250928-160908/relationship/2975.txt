@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Saints' sublime achievements inspire respect and reverence in devas, highlighting their transcendent qualities.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

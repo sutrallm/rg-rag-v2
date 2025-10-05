@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SEVEN FACTORS OF ENLIGHTENMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The seven factors lead to the attainment of Nirvana's peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

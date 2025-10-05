@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Foundations of mindfulness lead to mind liberation by purifying from afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation frees the mind from afflictions such as scattered thoughts and烦恼, leading to profound inner peace, and when diligently practiced with precepts and wisdom, completely eliminates all afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

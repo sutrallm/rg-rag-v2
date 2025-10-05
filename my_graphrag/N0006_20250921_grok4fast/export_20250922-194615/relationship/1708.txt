@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>CYCLE OF REBIRTH</target_entity>
+    <relationship_description>Non-negligence allows transcending the cycle of birth and death through wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

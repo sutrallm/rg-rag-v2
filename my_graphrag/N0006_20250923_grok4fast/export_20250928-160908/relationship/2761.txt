@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wisdom transcending attachment allows practitioners to perceive impermanence without clinging to realms or being bound by the pursuit of results.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

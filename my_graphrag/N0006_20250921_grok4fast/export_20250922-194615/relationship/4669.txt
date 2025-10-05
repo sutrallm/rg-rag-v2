@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>MISSING ORIGINAL TEXT</target_entity>
+    <relationship_description>The query intended to provide the original text but omitted the content after the marker, making it missing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

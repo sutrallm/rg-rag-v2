@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Diligent and non-negligent practice enables true mastery of meditation, avoiding being bound by afflictions and escaping ignorance and the cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

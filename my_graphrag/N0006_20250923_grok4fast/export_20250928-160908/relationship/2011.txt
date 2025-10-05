@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>The saint possesses full precepts, leading to the severance of greed, hatred, and ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Saints sever all Afflictions through precepts, wisdom, and dwelling in stillness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

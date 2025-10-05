@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Zen meditation requires and fosters mindfulness as a core component for focusing the mind and achieving distance from disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

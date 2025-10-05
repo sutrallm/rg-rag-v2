@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Vigilance is the direct opposite of heedlessness, preventing the arising of greed, anger, delusion, and the associated sufferings that heedlessness causes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

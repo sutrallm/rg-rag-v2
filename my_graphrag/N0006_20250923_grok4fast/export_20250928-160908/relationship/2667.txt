@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>HOLY REALM</target_entity>
+    <relationship_description>Abiding in tranquility through diligent mind cultivation leads to the holy realm by eradicating afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

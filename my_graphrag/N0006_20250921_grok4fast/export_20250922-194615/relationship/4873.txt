@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Meditation requires and is achieved through maintaining mindfulness to focus the mind away from distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

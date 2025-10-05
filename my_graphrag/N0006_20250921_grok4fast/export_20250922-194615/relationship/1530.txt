@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QIN FEN</source_entity>
+    <target_entity>SHEN TONG</target_entity>
+    <relationship_description>Qin Fen in Zen Ding practice is required to access Shen Tong's wondrous applications.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

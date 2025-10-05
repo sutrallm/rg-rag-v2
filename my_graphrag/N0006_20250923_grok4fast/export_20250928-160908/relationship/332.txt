@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Through diligent meditation and the three learnings, practitioners can become saints who eradicate afflictions and transcend suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

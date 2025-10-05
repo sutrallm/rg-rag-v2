@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>THREE LEARNINGS</target_entity>
+    <relationship_description>Saints possess the three learnings of precepts, concentration, and wisdom, enabling them to eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

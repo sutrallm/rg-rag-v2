@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>SENSE OBJECTS</target_entity>
+    <relationship_description>The awakened one does not attach to sense objects, remaining undisturbed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

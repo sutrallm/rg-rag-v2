@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Insight into impermanence helps prevent afflictions by reducing attachment to transient things.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

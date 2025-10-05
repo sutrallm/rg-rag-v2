@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>WORLDLY TEMPTATIONS</target_entity>
+    <relationship_description>Continuous diligence prevents practitioners from being confused or misled by worldly temptations, allowing true mastery of Zen meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

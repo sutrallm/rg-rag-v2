@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARROGANCE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Arrogance hinders diligent practice; removing it enables progress toward liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

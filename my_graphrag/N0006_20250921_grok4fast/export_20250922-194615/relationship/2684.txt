@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE PERSON</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>A wise person deeply realizes impermanence through meditation-derived insight, avoiding attachment to all things.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

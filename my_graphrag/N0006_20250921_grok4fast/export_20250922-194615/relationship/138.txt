@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>NON-NEGLIGENCE</target_entity>
+    <relationship_description>Followers of the Buddha diligently practice non-negligence to avoid Mara's control and follow his teachings on effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

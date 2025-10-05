@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WHOLESOME DHARMAS</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Cultivating wholesome dharmas through diligence gives rise to mindfulness and awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

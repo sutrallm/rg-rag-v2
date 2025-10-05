@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE MIND</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Pure mind is far from all suffering and afflictions, providing inner joy and peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

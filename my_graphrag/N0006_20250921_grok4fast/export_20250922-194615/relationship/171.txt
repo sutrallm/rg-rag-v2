@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEMON KING</source_entity>
+    <target_entity>FIRST TO FOURTH DHAYANA</target_entity>
+    <relationship_description>The Demon King threatens to disrupt meditative achievements like the dhyanas, which must be guarded non-indolently.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

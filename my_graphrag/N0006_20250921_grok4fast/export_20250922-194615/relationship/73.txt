@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>MERITS</target_entity>
+    <relationship_description>Non-indolent practice facilitates the accumulation of merits toward liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

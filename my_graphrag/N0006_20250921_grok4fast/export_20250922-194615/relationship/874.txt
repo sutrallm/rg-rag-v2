@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIVING BEINGS</source_entity>
+    <target_entity>DEATH DEMON KING</target_entity>
+    <relationship_description>All living beings are under the control of the death demon king and cannot escape.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Pure precepts give rise to concentration, aiding in the elimination of afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

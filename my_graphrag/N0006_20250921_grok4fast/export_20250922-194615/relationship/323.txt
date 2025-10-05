@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Liberation frees one from samsara's cycles of birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

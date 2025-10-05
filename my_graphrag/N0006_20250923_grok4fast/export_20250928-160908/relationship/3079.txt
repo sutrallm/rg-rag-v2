@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Non-negligence fosters concentration by preventing mental distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

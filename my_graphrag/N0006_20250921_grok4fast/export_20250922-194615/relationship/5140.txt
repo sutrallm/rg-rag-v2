@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>INHERENT EMPTINESS</target_entity>
+    <relationship_description>Mental liberation reveals the inherent emptiness of worldly phenomena, freeing from attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

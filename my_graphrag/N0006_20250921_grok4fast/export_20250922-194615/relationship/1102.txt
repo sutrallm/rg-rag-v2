@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE MODIFICATION TO NUMBERED SEQUENCES</target_entity>
+    <relationship_description>The titles within the original text are to be restructured numerically.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

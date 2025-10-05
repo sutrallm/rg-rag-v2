@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WORLDLY REALM</target_entity>
+    <relationship_description>Insight into impermanence reveals the transient nature of the worldly realm and avoids attachment to it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

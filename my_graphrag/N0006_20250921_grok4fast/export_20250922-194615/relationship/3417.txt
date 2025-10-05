@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Buddha's teachings are followed by practitioners through continuous diligence to avoid indulgence and master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

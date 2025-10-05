@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Practitioners escape indolence through meditation and continuous diligent practice to avoid mental dispersion and control by death and greed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

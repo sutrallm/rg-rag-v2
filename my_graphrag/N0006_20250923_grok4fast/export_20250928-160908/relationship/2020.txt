@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Ignorance is included in the three poisons as a root of delusion and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

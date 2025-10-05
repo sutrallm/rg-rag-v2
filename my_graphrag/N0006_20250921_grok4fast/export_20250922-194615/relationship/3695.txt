@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>Saints eliminate greed, hatred, and delusion, transcending birth-death cycles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

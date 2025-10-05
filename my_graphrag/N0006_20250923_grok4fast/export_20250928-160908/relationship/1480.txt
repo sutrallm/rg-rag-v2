@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>念住</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>念住 helps the mind move away from 贪欲 and scattering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

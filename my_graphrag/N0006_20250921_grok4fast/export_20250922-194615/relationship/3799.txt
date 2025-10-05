@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT VIEW</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Right view directly counters and eradicates ignorance by comprehending causal arising.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

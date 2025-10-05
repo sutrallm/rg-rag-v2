@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The Four Noble Truths begin with the truth of suffering as its core revelation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

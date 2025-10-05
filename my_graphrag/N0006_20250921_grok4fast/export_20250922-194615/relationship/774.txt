@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DISENCHANTMENT</target_entity>
+    <relationship_description>Contemplation of impermanence directly evokes disenchantment, shifting focus from pleasures to spiritual pursuit.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

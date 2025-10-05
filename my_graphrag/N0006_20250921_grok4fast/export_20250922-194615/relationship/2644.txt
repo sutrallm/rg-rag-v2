@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>AFFLICTION</target_entity>
+    <relationship_description>Practitioners through meditation and diligence sever afflictions to achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

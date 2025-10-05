@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Mental liberation includes recognition of no-self, preventing attachment and ensuring unbound freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>FOUR STAGES OF ENLIGHTENMENT</target_entity>
+    <relationship_description>Mindfulness and diligence together bring about the progressive realization of the four stages for non-lax practitioners, leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

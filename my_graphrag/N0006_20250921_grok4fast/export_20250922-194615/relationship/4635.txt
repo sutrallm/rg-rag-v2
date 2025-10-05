@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Celestial beings respect saints who possess precepts, wisdom, diligent mind cultivation, and have severed afflictions to transcend suffering.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

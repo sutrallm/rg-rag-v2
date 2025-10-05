@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>ZEN DING</target_entity>
+    <relationship_description>Zheng Nian enables focus and alertness, allowing entry into Zen Ding and escape from greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>The noble path severs greed as one of the root afflictions through its progressive stages.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The practitioner cultivates diligence and mindfulness to gain firm will and attain meditative states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

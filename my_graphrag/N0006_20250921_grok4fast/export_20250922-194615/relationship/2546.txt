@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT PATH</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>The right path leads to achievement of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

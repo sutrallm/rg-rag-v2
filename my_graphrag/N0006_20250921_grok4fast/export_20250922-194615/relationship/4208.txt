@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Saints abide in tranquility through diligent cultivation of the mind, which supports their spiritual achievements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

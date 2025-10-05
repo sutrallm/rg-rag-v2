@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>BODHI</target_entity>
+    <relationship_description>Zen meditation harnesses mind power to achieve supreme bodhi by uprooting afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

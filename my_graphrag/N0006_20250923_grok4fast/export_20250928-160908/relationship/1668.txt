@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL KARMA</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Mindfulness helps practitioners observe and avoid evil karma through awareness of thoughts and actions.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

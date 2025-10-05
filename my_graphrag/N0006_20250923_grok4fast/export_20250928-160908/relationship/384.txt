@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD KARMA</source_entity>
+    <target_entity>WISDOM LIBERATION</target_entity>
+    <relationship_description>Accumulation of good karma through diligence brings wisdom liberation and detachment from greed and clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

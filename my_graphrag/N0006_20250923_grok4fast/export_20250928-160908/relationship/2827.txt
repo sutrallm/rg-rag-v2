@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_EIGHTFOLD_PATH</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Those who practice the Noble Eightfold Path eradicate the roots of suffering and accomplish nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

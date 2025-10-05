@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Holy ones eradicate afflictions through diligent cultivation of the mind and abiding in stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

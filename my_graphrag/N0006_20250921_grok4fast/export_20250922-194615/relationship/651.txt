@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Mind liberation fosters non-attachment to phenomena and realms, transcending craving without being bound even by liberation itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

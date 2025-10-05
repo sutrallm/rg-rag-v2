@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditation generates wisdom that destroys ignorance, reveals impermanence and suffering, and allows transcendence of attachments without being bound by results.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

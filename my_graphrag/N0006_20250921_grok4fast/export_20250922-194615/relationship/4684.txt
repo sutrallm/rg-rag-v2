@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Accomplished practitioners inspire respect even from heavenly beings due to their transcendence of afflictions.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity> AWAKENED WISDOM</source_entity>
+    <target_entity>IMPURITY</target_entity>
+    <relationship_description>Awakened wisdom encompasses the realization of impurity in worldly phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

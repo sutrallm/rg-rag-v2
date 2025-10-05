@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>DEMON KING OF DEATH</target_entity>
+    <relationship_description>Non-indulgent practice prevents control by the Demon King of Death, enabling true mastery of meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

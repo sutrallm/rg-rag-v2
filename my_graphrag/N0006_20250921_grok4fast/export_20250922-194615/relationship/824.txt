@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PRACTITIONER</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Holy practitioners diligently cultivate the mind to abide in a state of stillness, leading to the total extinction of afflictions and pains.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>PEACE AND JOY</target_entity>
+    <relationship_description>Non-indolence results in peace and joy as the mind becomes free from afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

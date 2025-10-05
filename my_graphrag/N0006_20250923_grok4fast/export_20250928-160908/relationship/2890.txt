@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Mindfulness is accomplished together with awareness in the non-heedless state, fostering inner purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

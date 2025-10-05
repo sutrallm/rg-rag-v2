@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLECT</source_entity>
+    <target_entity>DEATH KING</target_entity>
+    <relationship_description>Neglect leads practitioners into the control of the Death King, resulting in evil paths.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Through diligence and non-negligence, one escapes the bindings of samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

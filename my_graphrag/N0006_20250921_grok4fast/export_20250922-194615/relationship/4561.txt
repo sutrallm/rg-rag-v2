@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-indolence grants immediate fruition of nirvana, purifying the mind of afflictions for eternal clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

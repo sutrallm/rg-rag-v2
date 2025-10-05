@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMAS</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Insight into dharmas reveals their emptiness, leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

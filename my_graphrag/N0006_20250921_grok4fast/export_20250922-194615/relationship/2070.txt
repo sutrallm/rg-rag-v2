@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-RETURNER</source_entity>
+    <target_entity>ARAHANT</target_entity>
+    <relationship_description>Non-returner leads to arahant, the final stage of full liberation from defilements and samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

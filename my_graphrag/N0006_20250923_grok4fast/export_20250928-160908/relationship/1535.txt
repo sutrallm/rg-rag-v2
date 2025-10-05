@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天界众生</target_entity>
+    <relationship_description>圣者因其断除烦恼、超越生老病死的品质，使天界众生生起敬重之心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

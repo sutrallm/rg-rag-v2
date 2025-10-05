@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Mind liberation allows pursuit of nirvana without being bound by it, transcending birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

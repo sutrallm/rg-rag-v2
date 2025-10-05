@@ -1,0 +1,19 @@
+### Management of Incomplete Dharma Text Submissions
+
+#### Executive Summary
+The provided content describes a scenario where a user's query intended to include an original text for processing under specific guidelines but omitted the actual material, resulting in an AI response offering apology and assistance. Core elements involve transforming doctrinal content through translation, simplification, and structural reorganization to enhance clarity and focus on teachings, while the absence of the original text halts progress and necessitates resubmission. This highlights procedural dependencies on complete inputs and predefined handling protocols to achieve refined outputs.
+
+#### Core Processing Guidelines for Doctrinal Content
+The guidelines outline a systematic approach to refine original material by translating it into accessible vernacular Chinese, eliminating narrative specifics like references to individuals and locations, and converting indirect elements such as metaphors and dialogues into precise interpretations of core teachings. Doctrinal substance, including key principles and detailed explanations, remains intact, with structural changes like sequencing titles into numbered formats for better thematic organization and overall coherence, alongside removal of poetic conclusions to maintain focus on instructional value.
+
+#### User Submission Deficiencies and Their Consequences
+A user's query featured a designated marker for the original content but lacked the substance, creating a gap that directly prompts an apologetic AI response and an invitation for resubmission. This omission underscores a pattern where incomplete inputs disrupt the workflow, as the foundational material is essential for applying transformations, leading to stalled processing and reliance on user follow-up for resolution.
+
+#### AI Response Protocol in Handling Absences
+The AI systematically acknowledges the missing content through apology and reaffirms commitment to executing the guidelines upon provision, including translation, content purification, doctrinal preservation, reorganization, and format adherence. This response mechanism ensures continuity, positions the AI as facilitative, and reinforces the process's dependency on the paired elements of original material and handling instructions.
+
+#### Interdependence of Original Material and Guidelines
+The original text and associated guidelines function as a linked foundation, where the material provides the raw doctrinal subject for targeted modifications aimed at clarity and purpose, such as refining structure and eliminating extraneous narrative. Their pairing illustrates a deliberate design to elevate instructional content, but the process's efficacy hinges on the material's availability, as evidenced by the query's incompleteness triggering procedural pauses.
+
+#### Procedural Commitment and Output Expectations
+Upon receiving the complete original text, application of the guidelines yields a formatted output emphasizing numbered sequences, clarified themes, and doctrinal directness without poetic elements. This commitment in the AI's response highlights the process's reliability once inputs are fulfilled, revealing a structured pathway from raw submission to polished, theme-driven presentation tailored for interpretive purposes.

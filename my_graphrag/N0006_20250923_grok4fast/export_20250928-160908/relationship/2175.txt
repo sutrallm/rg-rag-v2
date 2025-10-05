@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Advanced practitioners become saints by fully embodying meditation, diligence, precepts, and wisdom to eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

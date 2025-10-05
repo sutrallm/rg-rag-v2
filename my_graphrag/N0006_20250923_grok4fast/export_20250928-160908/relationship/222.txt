@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD LEARNING</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>The threefold learning encompasses meditation as a core component alongside precepts and wisdom, enabling saints to dwell in stillness and eradicate afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

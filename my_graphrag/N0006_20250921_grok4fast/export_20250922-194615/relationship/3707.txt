@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON KING</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-diligent practitioners fall under the control of the death demon king, but diligent ones avoid this through consistent effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

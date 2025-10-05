@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT MINDFULNESS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Right Mindfulness generates concentration by focusing on the present and preventing mental scattering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

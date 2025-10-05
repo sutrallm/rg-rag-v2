@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUES</source_entity>
+    <target_entity>DHARMA MEANING</target_entity>
+    <relationship_description>Dialogues are to be restructured as direct elucidations of the Dharma meaning.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

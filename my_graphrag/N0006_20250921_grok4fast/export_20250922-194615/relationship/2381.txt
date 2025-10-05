@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED_HATRED_DELSION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Greed, hatred, and delusion form the root of afflictions that disturb the mind and hinder progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

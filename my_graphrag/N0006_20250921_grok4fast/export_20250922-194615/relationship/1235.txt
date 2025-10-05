@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY PLEASURES</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Sensory pleasures are harmful like poison, leading to suffering if indulged in.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

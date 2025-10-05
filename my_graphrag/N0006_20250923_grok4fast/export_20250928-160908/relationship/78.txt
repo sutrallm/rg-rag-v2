@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence is emphasized in the Buddha's teachings as necessary for mastering meditation and avoiding Mara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

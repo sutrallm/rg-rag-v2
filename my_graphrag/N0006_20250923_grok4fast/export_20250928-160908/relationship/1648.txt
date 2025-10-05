@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NEGLIGENCE</target_entity>
+    <relationship_description>Practitioners must avoid negligence to master meditation and attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

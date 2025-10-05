@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>QUIETUDE</target_entity>
+    <relationship_description>Saints abide in quietude.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

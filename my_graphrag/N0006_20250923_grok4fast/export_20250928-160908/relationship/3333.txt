@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Practitioners must avoid indulgence, which leads to afflictions and degeneration, to progress toward liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

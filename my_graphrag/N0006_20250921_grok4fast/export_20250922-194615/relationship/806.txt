@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Failure to avoid laxity leads to control by death and afflictions, which is prevented through steadfast practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

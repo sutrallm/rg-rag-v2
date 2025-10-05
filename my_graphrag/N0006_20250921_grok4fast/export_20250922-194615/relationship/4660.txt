@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Awakened ones remain free from attachment to phenomena and merits without greed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

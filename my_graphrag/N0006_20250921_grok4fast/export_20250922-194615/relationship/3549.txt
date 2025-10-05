@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Insight into impermanence supports non-attachment and progression toward nirvana without bondage.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

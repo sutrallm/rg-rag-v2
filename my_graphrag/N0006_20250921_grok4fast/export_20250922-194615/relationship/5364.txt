@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO LIBERATION</source_entity>
+    <target_entity>ENLIGHTENED BEINGS</target_entity>
+    <relationship_description>Attaining the holy path results in becoming enlightened beings with pure minds.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

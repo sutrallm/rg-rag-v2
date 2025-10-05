@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>HOLY ONE</target_entity>
+    <relationship_description>Holy ones cut off afflictions like greed, hatred, and delusion through non-indulgent practice of the three learnings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

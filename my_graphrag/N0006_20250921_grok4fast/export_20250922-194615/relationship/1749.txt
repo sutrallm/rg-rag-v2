@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Those accomplished in the Noble Path's precepts, concentration, and wisdom fully extinguish afflictions and habits, escaping the net of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>EVIL DEEDS</target_entity>
+    <relationship_description>Precepts guard the body and mind like a city wall, preventing the intrusion of evil deeds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

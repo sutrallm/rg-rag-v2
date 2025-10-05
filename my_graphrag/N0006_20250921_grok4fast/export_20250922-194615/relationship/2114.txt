@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Liberation is fully realized in the state of saints, who achieve complete freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

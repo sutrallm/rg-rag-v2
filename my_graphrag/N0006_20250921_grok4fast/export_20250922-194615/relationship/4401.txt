@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION OF THE MIND</source_entity>
+    <target_entity>ATTACHMENTS</target_entity>
+    <relationship_description>Those achieving liberation of the mind do not cling to any states or become bound by pursuits.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

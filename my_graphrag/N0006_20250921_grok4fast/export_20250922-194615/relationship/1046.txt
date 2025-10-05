@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Practitioners follow diligent practice as per Buddha's teachings to avoid indulgence and master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

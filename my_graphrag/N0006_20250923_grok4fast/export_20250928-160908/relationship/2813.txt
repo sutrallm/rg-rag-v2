@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_EIGHTFOLD_PATH</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners follow the Noble Eightfold Path to eradicate suffering and attain nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

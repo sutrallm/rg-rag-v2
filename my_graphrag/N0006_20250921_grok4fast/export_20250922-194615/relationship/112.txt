@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN XING XIU</source_entity>
+    <target_entity>SHUAI BAI</target_entity>
+    <relationship_description>Diligent Jing Jin Xing Xiu avoids Shuai Bai or mental decline in practitioners.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

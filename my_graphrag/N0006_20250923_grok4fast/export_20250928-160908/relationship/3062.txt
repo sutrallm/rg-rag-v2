@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Awareness practices cut off the seeds of afflictions by maintaining alertness and observation of mental phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

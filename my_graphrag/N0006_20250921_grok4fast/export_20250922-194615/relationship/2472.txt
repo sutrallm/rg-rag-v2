@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Avoiding negative karma through good actions supports the path to liberation by preventing descent into suffering.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

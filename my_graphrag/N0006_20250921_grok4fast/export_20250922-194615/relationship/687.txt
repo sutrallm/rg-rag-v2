@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Realizing impermanence is a key aspect of the wisdom gained through spiritual insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

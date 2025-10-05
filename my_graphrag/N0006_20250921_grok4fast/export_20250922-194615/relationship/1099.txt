@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>DELETION OF CHARACTERS AND LOCATIONS</target_entity>
+    <relationship_description>The original text requires removal of specific narrative elements like people and places.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY TEMPTATIONS</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Maintaining mindfulness helps practitioners avoid being swayed by sensory temptations.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

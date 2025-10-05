@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Negligence easily generates afflictions, likened to a wild beast being captured, leading towards evil realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

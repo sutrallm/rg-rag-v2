@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Non-laxity and diligence are inseparable practices forming the non-dual path to achieving calm abiding, superior insight, and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

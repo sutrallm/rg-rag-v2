@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>GOOD_DEEDS</target_entity>
+    <relationship_description>Negligence undermines the benefits of good deeds, leading to downfall through afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

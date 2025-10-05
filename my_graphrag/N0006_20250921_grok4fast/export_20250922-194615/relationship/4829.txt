@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Mental liberation grants the wisdom to insight into worldly impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

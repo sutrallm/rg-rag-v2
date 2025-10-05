@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Practitioners overcome attachment via wisdom gained from meditation, avoiding being bound to mental states or worldly results.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

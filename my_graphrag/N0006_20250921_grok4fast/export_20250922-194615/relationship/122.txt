@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>Sheng Zhe completely sever Fan Nao, including greed, hatred, delusion, and other troubles, transcending all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

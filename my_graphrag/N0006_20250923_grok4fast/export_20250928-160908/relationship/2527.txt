@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Practitioners possess and observe precepts to tame the mind and achieve quiet states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

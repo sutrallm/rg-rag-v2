@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>VIGILANCE</target_entity>
+    <relationship_description>Mindfulness paired with vigilance achieves mental freedom through meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

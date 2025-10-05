@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>BAD KARMA</target_entity>
+    <relationship_description>Indolence leads to the accumulation of bad karma through indulgence in sensory pleasures and ignoring the dharma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

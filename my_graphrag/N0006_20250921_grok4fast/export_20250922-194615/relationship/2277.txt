@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>RIGHTEOUS MIND</target_entity>
+    <relationship_description>Non-negligence guides the mind to a righteous state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

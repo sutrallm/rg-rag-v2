@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸天</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>诸天 respect and honor accomplished 圣者 for their virtues and achievements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

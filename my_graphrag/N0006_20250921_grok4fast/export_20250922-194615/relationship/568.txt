@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>A lax mind is easily invaded by afflictions, leading to fatigue, highlighting the need for diligent practice to avoid this.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

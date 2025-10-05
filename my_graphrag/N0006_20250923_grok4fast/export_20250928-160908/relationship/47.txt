@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners achieve mental and wisdom liberation through non-indulgent practice, leading to inner peace and transcendence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

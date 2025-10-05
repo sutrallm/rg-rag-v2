@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN NIAN CHU</source_entity>
+    <target_entity>SHEN HUI</target_entity>
+    <relationship_description>Mind contemplation directly addresses anger states to prevent emotional delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

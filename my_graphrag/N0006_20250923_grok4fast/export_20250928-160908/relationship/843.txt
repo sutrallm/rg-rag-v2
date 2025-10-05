@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Realizing impermanence breaks the cycle of samsara by destroying afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

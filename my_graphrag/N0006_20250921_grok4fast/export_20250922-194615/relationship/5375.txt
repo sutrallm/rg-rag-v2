@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEINGS</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Enlightened beings realize the truth of no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

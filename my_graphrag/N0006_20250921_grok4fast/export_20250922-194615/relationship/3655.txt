@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-laxity leads progressively toward nirvana by maintaining purity and avoiding evil karma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

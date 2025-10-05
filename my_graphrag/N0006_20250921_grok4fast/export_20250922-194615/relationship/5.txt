@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>SENSUAL PLEASURES</target_entity>
+    <relationship_description>Indolence results in entanglement with sensual pleasures, causing suffering like a blind person on a dangerous path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

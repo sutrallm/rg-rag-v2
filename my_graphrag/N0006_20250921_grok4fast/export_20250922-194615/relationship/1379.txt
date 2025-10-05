@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Vigilance leads directly to liberation by freeing the mind from defilements.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

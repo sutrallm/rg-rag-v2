@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>DEPENDENT ORIGINATION</target_entity>
+    <relationship_description>Realizing dependent origination leads to Nirvana by extinguishing the causes of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

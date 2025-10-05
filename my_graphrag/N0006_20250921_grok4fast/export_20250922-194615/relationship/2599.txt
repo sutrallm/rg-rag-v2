@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REBIRTH</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Rebirth perpetuates suffering driven by defilements and lack of diligence, leading to ongoing pain in samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

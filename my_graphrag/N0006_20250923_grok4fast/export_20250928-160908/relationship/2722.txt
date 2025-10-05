@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Awakened ones pursue nirvana without being bound by the goal, achieving transcendence over life's cycles.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

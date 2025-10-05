@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONE</source_entity>
+    <target_entity>DISCIPLINE</target_entity>
+    <relationship_description>Noble ones are endowed with discipline, which, along with wisdom, enables them to cultivate a quiet mind and end defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

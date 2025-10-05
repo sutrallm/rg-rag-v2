@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Practitioners pursue nirvana without attachment, achieving freedom through mind liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

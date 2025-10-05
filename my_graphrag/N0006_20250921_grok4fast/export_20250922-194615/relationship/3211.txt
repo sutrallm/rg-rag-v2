@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>SUPERNATURAL POWERS</target_entity>
+    <relationship_description>Dwelling in mindfulness through non-negligence results in the achievement of supernatural powers.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

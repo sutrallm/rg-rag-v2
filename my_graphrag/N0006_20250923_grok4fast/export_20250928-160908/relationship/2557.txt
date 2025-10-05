@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>IDLENESS</target_entity>
+    <relationship_description>Practitioners must avoid idleness through meditation and diligent practice to succeed spiritually.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Practitioners achieve inner peace by entering Samadhi, focusing the mind to escape negligence and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

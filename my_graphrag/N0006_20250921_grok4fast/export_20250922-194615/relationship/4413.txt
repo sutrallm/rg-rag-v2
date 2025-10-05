@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Samadhi enables practitioners to escape afflictions and achieve inner tranquility free from mental turmoil.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

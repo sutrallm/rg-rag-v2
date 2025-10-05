@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Laxity causes sinking into the three poisons, leading to mental and physical degeneration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

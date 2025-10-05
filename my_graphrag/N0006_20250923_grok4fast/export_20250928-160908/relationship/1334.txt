@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>FISHERMAN CASTING NET</target_entity>
+    <relationship_description>The greedy mind is warned against as a fisherman netting desires, instead netting Dharma via non-indolence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

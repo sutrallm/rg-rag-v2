@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Vigilant practitioners attain Nirvana as the ultimate fruit of their diligent practice, free from all suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

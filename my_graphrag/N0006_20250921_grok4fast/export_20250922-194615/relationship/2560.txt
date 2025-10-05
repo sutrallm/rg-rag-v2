@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEITIES</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Deities show respect to saints who have eradicated afflictions and transcended suffering through their spiritual accomplishments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

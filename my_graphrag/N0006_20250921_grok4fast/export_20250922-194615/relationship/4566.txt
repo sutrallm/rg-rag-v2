@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Afflictions bind beings to suffering and samsara, while their elimination through practice yields liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

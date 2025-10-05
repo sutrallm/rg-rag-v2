@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIVINE EYE</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>The divine eye provides insight into the karma and fruits of sentient beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON KING</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligent practice allows avoidance of the Death Demon King's control over those who are negligent.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

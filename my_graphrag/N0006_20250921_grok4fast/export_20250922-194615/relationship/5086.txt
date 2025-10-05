@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MENTAL_DISPERSION</target_entity>
+    <relationship_description>Mastering the method of meditation through diligence prevents mental dispersion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

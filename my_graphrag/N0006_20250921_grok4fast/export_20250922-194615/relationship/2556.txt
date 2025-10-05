@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Saints possess and uphold precepts as a core trait enabling them to cultivate the mind and overcome suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

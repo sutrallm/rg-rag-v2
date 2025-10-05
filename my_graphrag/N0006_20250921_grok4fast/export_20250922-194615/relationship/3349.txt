@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRST JHANA</source_entity>
+    <target_entity>SECOND JHANA</target_entity>
+    <relationship_description>The second jhana builds on the first by abandoning directed thought, deepening internal joy and concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>EVIL_DEEDS</target_entity>
+    <relationship_description>Mindfulness protects against evil deeds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

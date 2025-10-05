@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Wisdom dispels ignorance and delusions, revealing the true nature of all dharmas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

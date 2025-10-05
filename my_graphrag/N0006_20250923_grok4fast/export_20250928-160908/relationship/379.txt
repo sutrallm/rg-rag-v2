@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>FOUR SUFFERINGS</target_entity>
+    <relationship_description>Eradicating the three poisons allows transcendence of the four sufferings of cyclic existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

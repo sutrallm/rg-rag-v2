@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>SEPARATION</target_entity>
+    <relationship_description>Greed fuels actions leading to separation from cherished ones, amplifying grief and defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

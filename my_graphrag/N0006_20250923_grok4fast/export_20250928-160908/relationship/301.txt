@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUARDING THE SENSES</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Guarding the senses generates awareness that prevents the arising of afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

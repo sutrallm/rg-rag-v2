@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Wisdom, alongside precepts, allows saints to cultivate the mind, abide in quietude, and eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

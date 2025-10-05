@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Ignorance and suffering form a recurring cycle that ensnares those without diligent practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

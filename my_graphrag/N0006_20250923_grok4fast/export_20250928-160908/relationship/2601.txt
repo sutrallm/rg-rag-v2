@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>THREE LEARNINGS</target_entity>
+    <relationship_description>Awakened ones fully realize the three learnings of precepts, concentration, and wisdom through non-laxity to sever all bonds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

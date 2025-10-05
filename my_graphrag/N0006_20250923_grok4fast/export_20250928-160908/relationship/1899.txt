@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY TEMPTATIONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Freedom from worldly temptations, gained through insight, supports the achievement of liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

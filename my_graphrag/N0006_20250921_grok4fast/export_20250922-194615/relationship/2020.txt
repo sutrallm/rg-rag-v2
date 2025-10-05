@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Non-indolence leads to inner peace by freeing the practitioner from indolence and mental disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

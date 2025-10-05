@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Indolence makes one susceptible to afflictions like greed, hatred, and delusion, leading to regret and pain.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

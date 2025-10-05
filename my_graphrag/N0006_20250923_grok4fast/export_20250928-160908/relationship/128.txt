@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>A saint represents the ideal perfected practitioner who diligently cultivates mind and abides in silence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

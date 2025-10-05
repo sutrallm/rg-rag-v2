@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAZINESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Persistent non-laziness culminates in the achievement of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

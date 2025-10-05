@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SENSUAL PLEASURES</target_entity>
+    <relationship_description>Wisdom frees the mind from being bound by sensual pleasures through insight into the true nature of dharmas, leading to pure liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

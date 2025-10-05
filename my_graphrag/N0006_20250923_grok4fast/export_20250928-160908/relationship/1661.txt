@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Meditation achieves heart liberation, enabling non-attachment and equal awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

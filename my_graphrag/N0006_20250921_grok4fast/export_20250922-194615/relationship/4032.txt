@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>BODY</target_entity>
+    <relationship_description>Foundations of mindfulness use the body, including breath and postures, as the primary object of contemplation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Practitioners use Zen Meditation and diligence to distance themselves from and ultimately eradicate afflictions like worries and indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

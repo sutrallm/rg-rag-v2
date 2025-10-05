@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The three trainings feature wisdom as the insightful element, integrated with precepts and samadhi to achieve supreme enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>GREED_ANGER_DELUSION</target_entity>
+    <relationship_description>Afflictions encompass greed, anger, and delusion, which are eradicated by saints through the three trainings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Afflictions cause or contribute to suffering, which is eliminated when they are severed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

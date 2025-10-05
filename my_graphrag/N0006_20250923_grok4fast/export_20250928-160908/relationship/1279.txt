@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Holy beings possess wisdom alongside precepts to transcend suffering and earn deities' respect.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

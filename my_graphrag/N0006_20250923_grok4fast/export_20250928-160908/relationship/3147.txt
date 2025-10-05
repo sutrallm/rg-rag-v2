@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Samadhi benefits practitioners by enabling focus and mindfulness to eliminate delusions and achieve peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

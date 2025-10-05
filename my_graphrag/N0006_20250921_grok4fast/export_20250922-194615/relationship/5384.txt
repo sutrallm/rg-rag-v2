@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>Mindfulness, combined with continuous diligence, achieves the path to liberation by escaping the bonds of the three poisons.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

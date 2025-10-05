@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEINGS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Holy beings sever and exhaust all afflictions through diligent cultivation of the mind, abiding in tranquility, precepts, and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

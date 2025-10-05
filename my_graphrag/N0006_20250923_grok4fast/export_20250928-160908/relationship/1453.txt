@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INNER PURITY AND PEACE</target_entity>
+    <relationship_description>Meditation allows practitioners to escape indulgence and attain inner purity and peace by focusing the mind away from distractions and troubles.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

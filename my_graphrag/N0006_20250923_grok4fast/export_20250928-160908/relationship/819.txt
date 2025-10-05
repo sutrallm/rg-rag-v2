@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Wisdom understands the doctrine of no-self, freeing one from attachments to phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

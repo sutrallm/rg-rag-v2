@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_ONES</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Enlightened ones understand the emptiness of the world via wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

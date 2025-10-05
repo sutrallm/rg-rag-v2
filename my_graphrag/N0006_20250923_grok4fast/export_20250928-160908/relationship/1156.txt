@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Meditation results in joy as a core benefit for practitioners.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

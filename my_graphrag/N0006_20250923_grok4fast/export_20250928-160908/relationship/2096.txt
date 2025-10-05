@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Mental liberation allows pursuit of nirvana without being bound by it, achieving unhindered freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

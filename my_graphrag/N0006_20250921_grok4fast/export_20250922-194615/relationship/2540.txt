@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Insight along with meditation attains the bliss of Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

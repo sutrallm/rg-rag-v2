@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NON-INDOLENCE</target_entity>
+    <relationship_description>Practitioners maintain non-indolence through focused mind and mindfulness to achieve peace and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

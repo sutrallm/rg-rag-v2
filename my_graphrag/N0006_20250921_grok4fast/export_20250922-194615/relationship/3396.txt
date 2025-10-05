@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOURTH JHANA</source_entity>
+    <target_entity>JOY AND PLEASURE</target_entity>
+    <relationship_description>The fourth jhana relinquishes pleasure, entering a state of neither pain nor pleasure.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

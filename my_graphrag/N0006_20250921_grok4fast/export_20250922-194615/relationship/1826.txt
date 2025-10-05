@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENT PRACTICE</source_entity>
+    <target_entity>DHYANA</target_entity>
+    <relationship_description>Continuous non-indulgent practice allows progression to dhyana states, from initial to higher levels, aiding in affliction removal.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

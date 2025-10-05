@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>MERIT</target_entity>
+    <relationship_description>Non-indolent diligence accumulates merit through vigilant practice leading to supreme peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

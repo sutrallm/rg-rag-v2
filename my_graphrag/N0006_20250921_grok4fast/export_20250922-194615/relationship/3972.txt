@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Precepts combined with wisdom form the foundation for the saint's qualities, enabling diligent mind cultivation and tranquility.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

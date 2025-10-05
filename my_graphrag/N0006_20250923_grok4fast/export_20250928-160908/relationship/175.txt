@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEAVENLY BEINGS</source_entity>
+    <target_entity>NOBLE PRACTITIONERS</target_entity>
+    <relationship_description>Heavenly beings develop respect and view noble practitioners as excellent exemplary models.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

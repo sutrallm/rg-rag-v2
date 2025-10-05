@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM LIBERATION</source_entity>
+    <target_entity>DEPENDENT ORIGINATION</target_entity>
+    <relationship_description>Wisdom liberation enables clear perception of dependent origination, breaking the chain of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

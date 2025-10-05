@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Zen meditation leads to the path of liberation by maintaining focused attention, avoiding distractions, and progressively deepening into meditative states to free the mind from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

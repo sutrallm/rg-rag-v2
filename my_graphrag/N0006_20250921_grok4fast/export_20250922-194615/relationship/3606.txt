@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHYANA</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Dhyana leads practitioners to mental liberation by fostering insight and non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

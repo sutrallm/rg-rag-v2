@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Afflictions feature delusion, which is completely eradicated by enlightened practitioners.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

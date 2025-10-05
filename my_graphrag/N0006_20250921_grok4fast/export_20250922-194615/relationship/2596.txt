@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Diligent practice involves guarding mindfulness to avoid laxity and worldly temptations, following the Buddha's and bodhisattva's teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

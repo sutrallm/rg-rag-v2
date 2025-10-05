@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Afflictions like greed, anger, and delusion lead to indulgence, causing lapses in practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

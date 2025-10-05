@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Laxity leads practitioners into the cycle of samsara, marked by sorrow, aging, and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

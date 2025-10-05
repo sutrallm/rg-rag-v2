@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODHISATTVA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Bodhisattvas guide toward liberation by helping beings escape suffering, aligning with ultimate freedom.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

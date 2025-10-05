@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>PROCESSING FORMAT</target_entity>
+    <relationship_description>The query references the processing format as the method to handle the expected original text upon its provision.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

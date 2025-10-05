@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER PEACE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Inner peace contributes to liberation by providing a foundation for transcending worldly bindings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

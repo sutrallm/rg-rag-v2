@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENT CULTIVATION</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>Non-indolent cultivation directly counters and avoids the traps of indolence to prevent entanglements.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

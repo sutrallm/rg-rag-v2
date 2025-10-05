@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Diligent practice counters and avoids bondage by greed, one of the key afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

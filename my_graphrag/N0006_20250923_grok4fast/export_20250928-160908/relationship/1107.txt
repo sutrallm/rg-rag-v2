@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>GREED_ANGER_DELUSION</target_entity>
+    <relationship_description>Negligence allows greed, anger, and delusion to pull the individual into deeper suffering and endless cycles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

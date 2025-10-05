@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Indulgent individuals are trapped in the cycle of samsara and suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

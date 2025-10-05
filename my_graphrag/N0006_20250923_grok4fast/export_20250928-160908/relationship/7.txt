@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Awakening helps practitioners stay away from indulgence caused by afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

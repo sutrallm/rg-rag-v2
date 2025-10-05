@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_BEING</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Holy beings possess precepts along with wisdom to eradicate afflictions and transcend suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

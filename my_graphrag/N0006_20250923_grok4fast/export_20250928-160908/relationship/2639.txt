@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>GOOD TEACHER</target_entity>
+    <relationship_description>Practitioners rely on good teachers for guidance in true dharma to reach nirvana without errors.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

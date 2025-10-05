@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Practitioners achieve and dwell in samadhi through focused mindfulness and diligence, escaping disturbances to gain peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

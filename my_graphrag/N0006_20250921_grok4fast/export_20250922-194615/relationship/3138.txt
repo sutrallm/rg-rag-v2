@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Understanding impermanence allows pursuit of nirvana without attachment, transcending all phenomena and afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

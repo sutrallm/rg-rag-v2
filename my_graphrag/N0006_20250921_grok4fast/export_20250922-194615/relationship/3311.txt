@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Negligence leads practitioners to fall into evil realms due to unchecked afflictions.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

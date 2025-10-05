@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>The wisdom of non-indolence contemplates no-self as a mark of all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

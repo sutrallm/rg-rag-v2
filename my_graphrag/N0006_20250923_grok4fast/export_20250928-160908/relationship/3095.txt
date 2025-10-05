@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY_PLEASURES</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Negligence in sensory pleasures allows afflictions such as greed, anger, and delusion to dominate the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

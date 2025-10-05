@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Greed is a key affliction causing attachment and suffering, targeted for elimination through mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

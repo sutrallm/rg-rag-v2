@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>JIE LV</target_entity>
+    <relationship_description>Xiu Xing Zhe uphold Jie Lv to purify the mind and provide a foundation for deepening Zen Ding without scattering or greed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

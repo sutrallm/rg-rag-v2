@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISSIPATION</source_entity>
+    <target_entity>BLISS</target_entity>
+    <relationship_description>Avoiding dissipation through diligence leads to bliss in present and future lives, securing the mind like a treasure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

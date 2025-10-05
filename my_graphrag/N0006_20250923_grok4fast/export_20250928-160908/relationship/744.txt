@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>DESIRE REALM</target_entity>
+    <relationship_description>Non-negligence enables abiding in a pure, desire-free state even within the desire realm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

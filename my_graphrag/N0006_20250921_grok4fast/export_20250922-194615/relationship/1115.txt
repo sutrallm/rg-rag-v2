@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Indolence allows greed to control the practitioner, leading to suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

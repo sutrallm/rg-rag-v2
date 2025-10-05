@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WHOLSOME DHARMAS</target_entity>
+    <relationship_description>Meditation involves concentrating the mind on wholesome dharmas to distance from afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>WORLDLY ATTACHMENTS</target_entity>
+    <relationship_description>Mental liberation allows practitioners to transcend worldly attachments through insight into impermanence and emptiness, without clinging even to Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHT VICTORIES</source_entity>
+    <target_entity>KNOWLEDGE AND VISION OF LIBERATION AGGREGATE</target_entity>
+    <relationship_description>The eight victories conclude with the knowledge and vision of liberation aggregate without impurity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

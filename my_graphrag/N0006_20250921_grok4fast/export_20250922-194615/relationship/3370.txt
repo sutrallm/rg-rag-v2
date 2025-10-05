@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Greed is a root component of afflictions that bind one to samsara and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

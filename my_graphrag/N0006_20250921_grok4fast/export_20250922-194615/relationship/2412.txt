@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Vigilance culminates in attaining the noble path and nirvana through sustained non-indulgence.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

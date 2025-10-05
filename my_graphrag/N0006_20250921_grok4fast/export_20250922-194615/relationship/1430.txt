@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Meditation helps practitioners escape laxity and achieve mastery over mental states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

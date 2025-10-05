@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>XIN NIAN</target_entity>
+    <relationship_description>Sheng Zhe diligently cultivate Xin Nian.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

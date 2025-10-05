@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Indolence leads the practitioner to fall into evil realms of endless suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

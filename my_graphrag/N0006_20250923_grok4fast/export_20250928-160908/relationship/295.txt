@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON KING</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>The Death Demon King is an adversary whose control can be avoided by those who adhere to the Buddha's teachings on diligence and non-laxity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

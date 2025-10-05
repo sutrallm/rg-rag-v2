@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY_PLEASURES</source_entity>
+    <target_entity>NON-NEGLIGENCE</target_entity>
+    <relationship_description>Sensory pleasures induce negligence, which non-negligence actively avoids to maintain purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Wisdom transcends attachment to any samadhi states or meditative realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTEMPLATION</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Contemplation reflects on the emptiness of body and mind to detach from clinging and achieve ultimate liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>EMPTYNESS</target_entity>
+    <relationship_description>Wisdom involves insight into emptiness, enabling non-attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

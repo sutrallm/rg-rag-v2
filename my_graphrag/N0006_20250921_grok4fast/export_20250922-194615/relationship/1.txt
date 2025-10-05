@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Diligent practice eliminates defilements through sustained effort, like fire burning wood, to achieve mental calm.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

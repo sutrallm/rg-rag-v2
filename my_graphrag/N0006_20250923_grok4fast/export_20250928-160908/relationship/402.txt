@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>DEITIES</target_entity>
+    <relationship_description>Deities develop respect for saints who have eliminated afflictions and surpassed worldly suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

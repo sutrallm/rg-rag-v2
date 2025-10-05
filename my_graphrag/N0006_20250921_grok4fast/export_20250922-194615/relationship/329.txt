@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Afflictions include greed as a core binding force that meditation and wisdom eliminate.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

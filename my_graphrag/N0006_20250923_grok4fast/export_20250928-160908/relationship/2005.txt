@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The practitioner develops wisdom to avoid clinging and achieve heart-liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

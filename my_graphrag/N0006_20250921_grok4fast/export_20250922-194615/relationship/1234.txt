@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>The enlightened state of saints inspires respect even in heavenly beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

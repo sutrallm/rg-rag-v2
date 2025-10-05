@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts combined with wisdom form the basis for saints' diligent mental cultivation and tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

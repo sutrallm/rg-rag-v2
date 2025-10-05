@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>CESSATION OF SUFFERING</target_entity>
+    <relationship_description>The Four Noble Truths address the cessation of suffering through abandonment of causes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

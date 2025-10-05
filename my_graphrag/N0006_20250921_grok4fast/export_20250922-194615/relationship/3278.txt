@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>CHARACTERS</target_entity>
+    <relationship_description>Characters from the original text must be deleted to simplify the content.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

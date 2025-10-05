@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Afflictions comprise delusion, which devours wisdom and is tamed by practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

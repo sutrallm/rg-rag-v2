@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEAVENLY REALMS</source_entity>
+    <target_entity>HOLY BEINGS</target_entity>
+    <relationship_description>Heavenly realms provide respect and recognition to holy beings for their qualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

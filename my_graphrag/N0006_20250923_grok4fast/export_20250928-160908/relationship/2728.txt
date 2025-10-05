@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Saints possess meditation as part of the complete set with precepts and wisdom, allowing diligent mind cultivation and abiding in tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Meditation directly leads to gaining inner peace by distancing the mind from distractions and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

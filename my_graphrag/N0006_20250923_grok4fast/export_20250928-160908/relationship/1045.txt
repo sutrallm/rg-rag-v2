@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Mindfulness observes the five aggregates to realize their impermanence and avoid clinging to them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

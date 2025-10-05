@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom achieves liberation from the world by severing craving and combining with pure precepts to break all fetters and transcend the world.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

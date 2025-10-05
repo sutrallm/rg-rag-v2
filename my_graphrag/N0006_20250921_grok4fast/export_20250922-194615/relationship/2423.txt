@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>The path of sila samadhi panna begins with precepts to break evil actions, followed by the cultivation of samadhi to steady the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

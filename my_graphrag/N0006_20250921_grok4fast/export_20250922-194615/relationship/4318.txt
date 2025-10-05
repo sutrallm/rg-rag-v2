@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>IDLENESS</target_entity>
+    <relationship_description>Diligent practice requires and ensures non-idleness to avoid the death demon and master Zen meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

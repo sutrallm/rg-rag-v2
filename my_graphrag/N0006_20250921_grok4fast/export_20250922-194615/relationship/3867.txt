@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>With mindfulness awakening to the true nature of phenomena, practitioners stay away from the suffering of birth, aging, illness, and death, attaining ultimate peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

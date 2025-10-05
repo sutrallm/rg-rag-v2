@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Awareness of inevitable death inspires diligent practice to avoid wasting life and prepare for impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

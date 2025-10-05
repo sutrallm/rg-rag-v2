@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEMON KING</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>The path to liberation is secured against the Demon King's control via non-indolent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

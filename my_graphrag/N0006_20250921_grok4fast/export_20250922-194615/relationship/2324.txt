@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Zen Meditation awakens wisdom, enabling practitioners to perceive the empty nature of dependent origination and break free from attachments to birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

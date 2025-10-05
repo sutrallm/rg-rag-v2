@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Laxity causes entrapment in the painful rebirth cycle due to sense pursuits.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

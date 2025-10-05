@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The noble path leads to the holy fruits of liberation and enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

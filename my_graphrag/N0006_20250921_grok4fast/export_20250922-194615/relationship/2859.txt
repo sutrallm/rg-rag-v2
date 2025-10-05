@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>EVIL DHARMAS</target_entity>
+    <relationship_description>Strict observance of precepts enables resistance to the invasion of evil dharmas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

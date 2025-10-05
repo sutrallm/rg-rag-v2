@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAZINESS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Non-laziness in practitioners leads to avoidance of suffering and acquisition of positive outcomes like health and wealth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

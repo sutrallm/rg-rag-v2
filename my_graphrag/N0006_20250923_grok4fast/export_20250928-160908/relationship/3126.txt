@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION MIND</source_entity>
+    <target_entity>GENEROSITY</target_entity>
+    <relationship_description>Renunciation mind motivates the practice of generosity as one of the paramitas, leading to abandonment of attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

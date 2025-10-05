@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Full observance of precepts, combined with wisdom, enables abiding in stillness and eliminating afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

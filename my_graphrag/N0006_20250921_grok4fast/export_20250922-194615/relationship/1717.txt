@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners who follow teachings with diligence prevent indulgence and achieve progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

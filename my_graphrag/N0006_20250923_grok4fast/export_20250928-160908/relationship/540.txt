@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Negligence easily leads to being trapped in afflictions and the cycle of birth and death, like being shrouded in darkness unable to see light.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

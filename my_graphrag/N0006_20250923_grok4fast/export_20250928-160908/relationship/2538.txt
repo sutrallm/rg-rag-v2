@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>QUIET STATE</target_entity>
+    <relationship_description>Practitioners abide in quiet states through focused meditation and mind taming.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

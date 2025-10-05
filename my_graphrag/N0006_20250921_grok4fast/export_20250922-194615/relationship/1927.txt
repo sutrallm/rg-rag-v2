@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Saints abide in quietness and tranquility as part of their spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

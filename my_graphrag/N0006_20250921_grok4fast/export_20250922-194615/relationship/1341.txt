@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN NIAN CHU</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Mind contemplation knows the impermanent nature of various mental states like greed, anger, distraction, and calm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

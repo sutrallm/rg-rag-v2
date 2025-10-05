@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉醒</source_entity>
+    <target_entity>痛苦</target_entity>
+    <relationship_description>Awakening transcends suffering through wisdom and freedom from illusions and the three poisons.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

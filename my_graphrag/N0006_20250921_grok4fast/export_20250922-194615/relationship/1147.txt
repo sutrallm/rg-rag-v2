@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>EVIL ACTIONS</target_entity>
+    <relationship_description>The practitioner uses diligence to abandon evil actions and avoid falling into evil realms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Relentless non-indulgence leads to severing craving and attainment of silent Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

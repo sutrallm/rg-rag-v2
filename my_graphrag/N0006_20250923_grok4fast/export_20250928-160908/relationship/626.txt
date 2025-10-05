@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>HOLY PLACE</target_entity>
+    <relationship_description>Even when in a holy place, negligence with an unfocused mind makes it difficult to escape the net of afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

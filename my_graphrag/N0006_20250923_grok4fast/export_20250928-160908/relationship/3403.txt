@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUARDING THE SENSES</source_entity>
+    <target_entity>SIX SENSES</target_entity>
+    <relationship_description>Guarding directly involves protecting the six senses from external influences to maintain mental focus.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

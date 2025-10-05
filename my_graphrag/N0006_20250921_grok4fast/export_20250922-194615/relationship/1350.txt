@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEI XIN PING JING</source_entity>
+    <target_entity>LUN HUI</target_entity>
+    <relationship_description>Inner peace from mindfulness allows avoiding the control of death and the cycle of rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>FORMLESS REALM</target_entity>
+    <relationship_description>Meditation allows access to the formless realm's meditative spheres, to be transcended for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

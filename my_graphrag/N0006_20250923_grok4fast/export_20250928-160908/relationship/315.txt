@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>THREE WHOLESOME ROOTS</target_entity>
+    <relationship_description>Concentration cultivates the three wholesome roots of non-greed, non-hatred, and non-delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

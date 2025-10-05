@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION OF MIND</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Liberation enables insight into no-self, preventing bondage to any mental state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

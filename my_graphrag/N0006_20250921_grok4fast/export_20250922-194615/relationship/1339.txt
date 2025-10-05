@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHEN NIAN CHU</source_entity>
+    <target_entity>BU JING</target_entity>
+    <relationship_description>Body contemplation recognizes the impurity of the body to dispel delusions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

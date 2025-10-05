@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Through mindfulness, practitioners observe the emptiness of greed, achieving a clear mind and liberation from the five aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

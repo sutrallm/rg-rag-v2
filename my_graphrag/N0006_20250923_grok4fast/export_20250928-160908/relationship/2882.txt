@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The noble path advances to wisdom following concentration, leading to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

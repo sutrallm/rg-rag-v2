@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WATER BUFFALO</target_entity>
+    <relationship_description>The practitioner is compared to a water buffalo emerging from mud, symbolizing escape from five aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

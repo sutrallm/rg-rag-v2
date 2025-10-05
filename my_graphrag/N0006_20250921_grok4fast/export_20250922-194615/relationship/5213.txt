@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEINGS</source_entity>
+    <target_entity>MIND_CULTIVATION</target_entity>
+    <relationship_description>Holy beings are diligent in mind cultivation as part of their practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

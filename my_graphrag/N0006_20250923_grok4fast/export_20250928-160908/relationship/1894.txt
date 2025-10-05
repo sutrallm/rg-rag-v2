@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>DISSIPATION</target_entity>
+    <relationship_description>Vigilance serves as a warning against the harms of dissipation, enabling one to avoid its associated dangers.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

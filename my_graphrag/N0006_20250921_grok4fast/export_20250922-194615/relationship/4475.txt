@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR IMEASURABLES</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>Equanimity is one of the core components of the four immeasurables, promoting balanced mind.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

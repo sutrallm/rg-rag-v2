@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-negligence leads to the achievement of liberation fruit and access to Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

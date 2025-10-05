@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts, along with meditation, form the three trainings that culminate in wisdom for enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

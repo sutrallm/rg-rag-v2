@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Hatred contributes to binding with the three poisons, resulting in descent to evil realms and perpetual rebirth pain.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

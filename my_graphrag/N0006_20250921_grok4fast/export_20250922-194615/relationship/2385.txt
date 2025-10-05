@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JOY_AND_BLISS</target_entity>
+    <relationship_description>Non-indolent meditation yields joy and bliss, providing a sense of safety and foundation for higher liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

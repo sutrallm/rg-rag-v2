@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>CI BEI XIN</target_entity>
+    <relationship_description>Xiu Xing Zhe cultivate Ci Bei Xin to soften the mind, deepen Zen Ding, and dispel selfishness with positive energy.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,22 @@
+<heading>AI's Response to Incomplete Buddhist Text Adaptation Request<\heading>
+- The AI repeatedly apologizes for the missing original text after the placeholder "原文如下：--------------" in user queries, noting that this hinders accurate translation and adaptation.
+
+- It offers to handle the text once provided, by translating to vernacular Chinese, removing characters and locations, converting metaphors and dialogues into direct doctrinal explanations, preserving all teaching details, revising titles to numbered sequences for clearer themes, omitting ending verses, and following a specified format.
+
+- The AI suggests this may result from a transmission error or draw from examples in Buddhist scriptures like the Agama Sutras, and requests the complete original text for precise processing.
+
+- As a demonstration using an assumed Buddhist doctrinal fragment, it provides a rewritten section with six numbered entries:
+
+  1. The essence of meditation: Focusing the mind with mindfulness leads to freedom from distractions, allowing practitioners to escape negligence and troubles for inner peace.
+
+  2. The importance of diligent practice: Those who follow the Buddha's teachings and persist diligently avoid the control of death's lord; only unwavering effort masters meditative methods.
+
+  3. Wisdom transcending attachments: Meditators achieving mental liberation perceive impermanence, unattached to any state or outcome.
+
+  4. Traits of the noble ones: Those endowed with precepts and wisdom, cultivating serene mindfulness, eradicate afflictions and surpass suffering, earning respect even from deities.
+
+  5. The realm of the awakened: The enlightened guard body and mind with mindfulness, unmoved by sensory pleasures, dwelling in equanimity free from defilement, attaining ultimate liberation.
+
+  6. The dangers of negligence: The negligent, like blind wanderers on perilous paths, breed greed, hatred, and delusion, suffering in body and mind; only relentless diligence avoids rebirth in evil realms.
+
+- The AI reaffirms readiness to assist immediately upon receiving the full original text, thanks the user for understanding, and encourages providing details such as specific sutra excerpts.

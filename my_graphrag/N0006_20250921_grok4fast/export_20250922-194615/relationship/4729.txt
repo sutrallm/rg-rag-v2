@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>WISDOM EYE</target_entity>
+    <relationship_description>Awareness through precepts grants the eye of wisdom for clear insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

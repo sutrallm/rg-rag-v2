@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Practitioners gain wisdom through meditation to perceive impermanence and transcend attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

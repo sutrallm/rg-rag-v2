@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>Indulgence leads to falling under the control of the Death Demon, which is avoided through diligence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

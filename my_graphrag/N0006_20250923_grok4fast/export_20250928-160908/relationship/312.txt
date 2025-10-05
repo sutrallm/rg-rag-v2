@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE CONDUCT</source_entity>
+    <target_entity>SAMATHA-VIPASSANA</target_entity>
+    <relationship_description>Pure conduct supports the practice of Samatha-Vipassana by ensuring mental unification.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

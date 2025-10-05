@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Non-indulgence involves guarding right mindfulness like a precious treasure to avoid faults.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL CONTENT</source_entity>
+    <target_entity>PROCESSING INSTRUCTIONS</target_entity>
+    <relationship_description>The original content is the target material meant to be transformed according to the detailed processing instructions, such as doctrinal refinement and structural changes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

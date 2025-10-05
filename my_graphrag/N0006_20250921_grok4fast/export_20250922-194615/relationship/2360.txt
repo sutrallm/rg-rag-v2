@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The practitioner must cultivate diligence to progress in practice, overcome greed and death's control, and achieve stable meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

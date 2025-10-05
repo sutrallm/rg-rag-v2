@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Through the wisdom of the Four Noble Truths, practitioners achieve ultimate liberation by extinguishing greed and attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

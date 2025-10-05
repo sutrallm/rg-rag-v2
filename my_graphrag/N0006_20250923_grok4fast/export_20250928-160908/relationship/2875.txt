@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Precepts give rise to concentration in the sequential noble path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

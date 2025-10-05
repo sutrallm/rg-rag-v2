@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Zen meditation helps eliminate laxity and creates a pure environment for free mental action.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

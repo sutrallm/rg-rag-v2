@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts, along with wisdom and diligence, form the foundational qualities of holy practitioners in their path to liberation and transcendence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

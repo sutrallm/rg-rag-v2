@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Afflictions include hatred as a root cause that is eliminated through practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODHISATTVA</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Bodhisattva teaches disciples to guard mindfulness to avoid confusion by worldly temptations and achieve the path to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

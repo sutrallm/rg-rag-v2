@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUIETNESS</source_entity>
+    <target_entity>BIRTH-DEATH SUFFERING</target_entity>
+    <relationship_description>Abiding in quietness allows transcendence of birth-death suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

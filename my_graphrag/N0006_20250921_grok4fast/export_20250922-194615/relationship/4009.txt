@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>SENSE PLEASURES</target_entity>
+    <relationship_description>Awakened ones are unaffected by sense pleasures, dwelling in quietude.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

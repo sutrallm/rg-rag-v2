@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Insight into the impermanent nature of all phenomena leads practitioners to transcend attachment to any realms or goals.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

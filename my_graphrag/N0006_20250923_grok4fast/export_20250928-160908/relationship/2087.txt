@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>BUDDHIST TEACHINGS</target_entity>
+    <relationship_description>Diligence involves following Buddhist teachings continuously to master meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>KYCLIC SUFFERING</target_entity>
+    <relationship_description>Anger fuels cyclic suffering as part of the three poisons, extinguished in liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Awareness maintained alongside precepts enables the cutting off of evil karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

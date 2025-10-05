@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Negligence causes wisdom to decline, as lack of diligent meditation leads to lost insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

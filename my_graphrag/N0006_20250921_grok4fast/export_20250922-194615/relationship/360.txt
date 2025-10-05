@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The user attempted to supply the original text but omitted the content, leading to the need for resubmission.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

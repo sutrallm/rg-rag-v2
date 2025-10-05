@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT MINDFULNESS</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Right mindfulness enables comprehension of emptiness in body and mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

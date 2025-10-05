@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greed binds people with hatred and delusion, leading to indulgent downfall into evil realms and samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

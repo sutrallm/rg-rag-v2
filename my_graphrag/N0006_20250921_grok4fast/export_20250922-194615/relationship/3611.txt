@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVAS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Devas respect saints for their fulfillment of precepts, wisdom, and transcendence of defilements and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

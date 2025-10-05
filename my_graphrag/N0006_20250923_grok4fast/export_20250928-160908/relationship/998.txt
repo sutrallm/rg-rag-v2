@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>死亡</target_entity>
+    <relationship_description>Those following teachings with continuous 精進 avoid falling into the control of 死亡.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

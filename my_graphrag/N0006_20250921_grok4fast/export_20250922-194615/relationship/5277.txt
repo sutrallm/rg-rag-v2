@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Saints diligently cultivate their minds to achieve quietude and transcendence of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

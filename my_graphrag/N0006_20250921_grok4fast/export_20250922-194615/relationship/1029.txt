@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Diligent non-lax persons rapidly achieve awakening and the holy path, like outpacing on a superior mount.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

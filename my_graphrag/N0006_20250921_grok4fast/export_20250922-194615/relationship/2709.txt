@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE PERSON</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wise persons do not attach to any thing, even pursuing liberation fruits without being bound by them (不执着于任何事物，即使追求解脱果位，也不会被其所缚).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

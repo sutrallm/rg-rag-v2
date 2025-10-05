@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Meditation allows practitioners to escape heedlessness, freeing the mind from disturbances and achieving inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

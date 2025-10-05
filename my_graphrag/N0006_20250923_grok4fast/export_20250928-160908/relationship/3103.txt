@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom, cultivated via the three learnings, directly leads to the attainment of Nirvana by cutting off all afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

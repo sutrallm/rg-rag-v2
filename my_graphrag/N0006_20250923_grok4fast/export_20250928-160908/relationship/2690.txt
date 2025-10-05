@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Saints cut off all afflictions by possessing precepts and wisdom and abiding in stillness with diligent mind cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

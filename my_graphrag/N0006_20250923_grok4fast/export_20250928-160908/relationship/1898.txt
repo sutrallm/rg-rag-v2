@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING EMPTINESS NOSELF</source_entity>
+    <target_entity>WORLDLY TEMPTATIONS</target_entity>
+    <relationship_description>Insight into suffering, emptiness, and no-self renders the practitioner unmoved by worldly temptations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

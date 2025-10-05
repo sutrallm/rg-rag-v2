@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Wisdom is a core quality of saints, enabling them to cultivate tranquility and transcend suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

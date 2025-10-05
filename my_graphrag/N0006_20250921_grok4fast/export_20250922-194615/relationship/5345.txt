@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAZINESS</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Non-laziness directly leads to inner peace by maintaining vigilance and avoiding the pitfalls of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

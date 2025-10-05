@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Heart liberation allows practitioners to transcend attachment to realms and the pursuit of Nirvana, remaining unbound.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

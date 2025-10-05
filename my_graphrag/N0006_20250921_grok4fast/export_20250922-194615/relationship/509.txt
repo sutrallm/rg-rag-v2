@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>BIRTH AGING SICKNESS DEATH</target_entity>
+    <relationship_description>Saints thoroughly eradicate afflictions to transcend the pains of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

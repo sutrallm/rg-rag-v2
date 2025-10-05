@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Realization of emptiness overcomes clinging to phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

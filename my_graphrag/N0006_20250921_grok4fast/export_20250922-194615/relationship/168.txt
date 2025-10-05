@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>FORMLESS ATTAINMENT</target_entity>
+    <relationship_description>Non-indolence safeguards or facilitates the attainment of formless states, preventing loss to external forces.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>RETENTION OF DOCTRINAL DETAILS</target_entity>
+    <relationship_description>The query mandates preserving these elements during processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

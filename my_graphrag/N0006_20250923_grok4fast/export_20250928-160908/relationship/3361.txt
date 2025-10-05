@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NONINDULGENCE</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Non-indulgence is maintained through continuous awareness to avoid afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

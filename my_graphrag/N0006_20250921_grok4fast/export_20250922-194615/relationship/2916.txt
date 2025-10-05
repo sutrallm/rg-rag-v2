@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEINGS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Holy beings transcend suffering by diligently cultivating the mind, abiding in tranquility, and cutting off all afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

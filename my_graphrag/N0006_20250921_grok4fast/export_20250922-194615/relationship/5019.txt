@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Saints diligently practice meditation to abide in stillness and cut off afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

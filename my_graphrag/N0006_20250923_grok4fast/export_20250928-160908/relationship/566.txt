@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALERTNESS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Alertness enables mastery of meditation and avoidance of dissipation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

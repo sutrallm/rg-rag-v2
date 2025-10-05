@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE BEINGS</source_entity>
+    <target_entity>DEITIES</target_entity>
+    <relationship_description>Noble beings inspire respect and awe in deities, who dare not disturb their spiritual practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GENEROSITY</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Practitioners cultivate generosity to gain wealth, happiness, and accumulate good karma.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

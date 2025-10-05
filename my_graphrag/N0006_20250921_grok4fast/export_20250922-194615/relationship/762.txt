@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Meditation counters indulgence by fostering non-indolent states that lead to inner calm and freedom from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

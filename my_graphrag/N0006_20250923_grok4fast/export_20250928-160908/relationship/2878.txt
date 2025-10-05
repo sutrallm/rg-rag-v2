@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Wisdom eliminates hatred as part of eradicating all defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

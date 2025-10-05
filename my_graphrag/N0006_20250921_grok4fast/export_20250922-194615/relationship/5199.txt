@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>TROUBLES</target_entity>
+    <relationship_description>Meditation enables escape from troubles, leading to inner peace and purity by keeping the mind away from disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

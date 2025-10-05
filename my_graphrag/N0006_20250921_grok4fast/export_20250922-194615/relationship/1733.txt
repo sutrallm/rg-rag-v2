@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners require diligence in their practice to traverse spiritual dangers and achieve liberation, without which they remain stuck like one unable to cross a rope over a chasm.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>awAKENED WISDOM</source_entity>
+    <target_entity>DHARMAS</target_entity>
+    <relationship_description>Awakened wisdom observes all dharmas to recognize their characteristics of impermanence, suffering, emptiness, and no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

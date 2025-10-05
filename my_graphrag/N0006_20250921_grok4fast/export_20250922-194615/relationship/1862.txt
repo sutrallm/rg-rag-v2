@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>The Buddha teaches disciples to guard mindfulness to avoid indulgence and achieve enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

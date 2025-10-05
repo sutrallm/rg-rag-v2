@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Insight into emptiness reveals the lack of inherent bounds, leading to ultimate liberation from all attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

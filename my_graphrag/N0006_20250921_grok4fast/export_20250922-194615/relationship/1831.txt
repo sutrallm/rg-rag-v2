@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION OF MIND</target_entity>
+    <relationship_description>Meditation leads to the liberation of the mind by providing insight into the nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

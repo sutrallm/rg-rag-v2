@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>NON-INDOLENCE</target_entity>
+    <relationship_description>Awakening prompts turning to the path of non-indolence, which cuts off the harms of indolence and leads to true liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

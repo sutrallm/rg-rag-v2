@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Diligence in practicing the three learnings gradually cuts hatred and other root afflictions, leading to freedom from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

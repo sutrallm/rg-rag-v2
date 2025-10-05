@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAZINESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Through non-laziness, practitioners develop wisdom to overcome the three poisons and attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

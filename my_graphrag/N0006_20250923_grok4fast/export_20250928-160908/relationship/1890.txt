@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PATH FRUITS</source_entity>
+    <target_entity>ARHAT FRUIT</target_entity>
+    <relationship_description>Noble path fruits progress to the ultimate Arhat fruit, marking complete purification.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

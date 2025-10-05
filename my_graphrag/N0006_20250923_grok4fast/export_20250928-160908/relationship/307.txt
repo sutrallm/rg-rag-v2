@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SEVEN FACTORS OF ENLIGHTENMENT</source_entity>
+    <target_entity>UNWHOLESOME ACTIONS</target_entity>
+    <relationship_description>The seven factors eradicate unwholesome actions and defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

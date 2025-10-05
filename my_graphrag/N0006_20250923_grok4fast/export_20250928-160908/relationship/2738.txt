@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PRACTITIONER</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Holy practitioners are endowed with precepts, which form the basis for their ethical discipline and meditative success.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

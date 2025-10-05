@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Precepts enable the cutting off of afflictions when combined with wisdom and practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

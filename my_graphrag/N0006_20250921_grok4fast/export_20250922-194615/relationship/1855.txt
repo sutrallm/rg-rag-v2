@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>SUPREME ENLIGHTENMENT</target_entity>
+    <relationship_description>Diligent and non-indulgent practice leads to supreme enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

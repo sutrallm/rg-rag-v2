@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Abandoning greed results in liberation and joy.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

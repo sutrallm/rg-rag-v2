@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Insight into impermanence allows transcendence of greed and worldly fears.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

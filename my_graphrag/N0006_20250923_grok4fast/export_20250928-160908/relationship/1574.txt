@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Non-lax practitioners focus on awareness alongside mindfulness to avoid evil and progress to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

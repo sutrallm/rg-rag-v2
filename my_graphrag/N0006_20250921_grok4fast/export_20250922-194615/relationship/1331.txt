@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Wisdom enables noble ones to transcend attachments and meditative states freely.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

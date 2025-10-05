@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS AND AWARENESS</source_entity>
+    <target_entity>LIBERATING WISDOM</target_entity>
+    <relationship_description>Mindfulness and awareness through continuous diligence lead to attaining liberating wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

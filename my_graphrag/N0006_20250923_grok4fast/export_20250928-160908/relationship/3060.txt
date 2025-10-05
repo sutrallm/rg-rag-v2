@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSES</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Controlling sense contacts prevents the arising of afflictions like greed and attachment, leading to inner calm undisturbed by external conditions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

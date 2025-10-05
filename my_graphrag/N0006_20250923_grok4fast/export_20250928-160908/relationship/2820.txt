@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>EVIL_DHARMA</target_entity>
+    <relationship_description>Laxity leads to evil dharmas like greed, hatred, and delusion robbing wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

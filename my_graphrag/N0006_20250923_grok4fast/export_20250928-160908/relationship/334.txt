@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE LEARNINGS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The three learnings, when diligently practiced, allow saints to completely sever afflictions such as greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Mind liberation through mindfulness avoids clinging to meditative states or their results, remaining unbound.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

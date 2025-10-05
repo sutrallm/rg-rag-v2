@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Diligence, together with non-indolence, cuts off all defilements to realize eternal peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

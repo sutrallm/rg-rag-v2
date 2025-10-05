@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>ARHAT FRUIT</target_entity>
+    <relationship_description>Saints attain the Arhat fruit, marking their freedom from samsara and transcendence of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

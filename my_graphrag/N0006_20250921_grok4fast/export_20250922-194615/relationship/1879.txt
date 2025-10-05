@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Negligence allows the three poisons to overwhelm even those with good deeds.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

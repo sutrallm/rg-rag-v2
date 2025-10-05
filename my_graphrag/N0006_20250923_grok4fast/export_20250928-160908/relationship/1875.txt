@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAREFUL PERSON</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Careless persons cannot verify Nirvana due to their entanglement in the three poisons.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

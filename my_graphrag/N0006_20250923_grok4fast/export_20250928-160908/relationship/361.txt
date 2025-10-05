@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Meditation leads to mental liberation by providing insight without attachment to states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

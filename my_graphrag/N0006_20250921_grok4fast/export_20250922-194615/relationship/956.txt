@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENTIENT BEINGS</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Sentient beings are constantly threatened by death due to indulgence, falling into evil realms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

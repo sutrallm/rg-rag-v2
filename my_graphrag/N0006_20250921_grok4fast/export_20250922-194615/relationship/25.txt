@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL ACTIONS</source_entity>
+    <target_entity>SEPARATION</target_entity>
+    <relationship_description>Evil actions result in separation from loved ones, causing profound sorrow like familial dispersion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

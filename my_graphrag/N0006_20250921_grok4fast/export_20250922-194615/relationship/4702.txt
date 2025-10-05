@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Negligence results in sinking into suffering and samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

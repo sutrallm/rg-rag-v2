@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>DRUNKARD</target_entity>
+    <relationship_description>The deluded mind resembles a drunkard in confusion, clarified by non-indolent precepts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

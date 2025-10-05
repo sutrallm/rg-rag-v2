@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Non-lax diligent practice is essential to overcome laxity, preventing invasion by afflictions and achieving true peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

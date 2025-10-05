@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED ONE</source_entity>
+    <target_entity>NON-INDOLENCE</target_entity>
+    <relationship_description>Enlightened ones teach the path of non-indolence to followers.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Diligent cultivation of the mind allows saints to abide in stillness and eradicate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

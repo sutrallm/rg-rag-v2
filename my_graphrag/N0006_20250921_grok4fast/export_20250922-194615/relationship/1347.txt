@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>FANG YI</target_entity>
+    <relationship_description>Diligent practice of the foundations of mindfulness enables staying away from laxity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPREME BODHI</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Supreme Bodhi frees the practitioner from the sufferings of birth, old age, illness, and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVA</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Devas respect saints for their mastery over the mind and transcendence of worldly bonds.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

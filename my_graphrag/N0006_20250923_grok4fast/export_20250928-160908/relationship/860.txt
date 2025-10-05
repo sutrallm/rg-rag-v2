@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE EIGHTFOLD PATH</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The noble eightfold path completely extinguishes the causes of suffering, which are the afflictions, leading to nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

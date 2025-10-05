@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Saints, having achieved perfection, inspire respect and admiration even from heavenly beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

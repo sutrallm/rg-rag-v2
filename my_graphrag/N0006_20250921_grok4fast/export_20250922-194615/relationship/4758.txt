@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>JHANAS</target_entity>
+    <relationship_description>Diligent practice enables progression through the initial to fourth jhanas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

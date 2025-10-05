@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SECOND JHANA</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>The second jhana involves abiding in unified mindfulness with internal joy and pleasure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST SCRIPTURES</source_entity>
+    <target_entity>NUMBERING</target_entity>
+    <relationship_description>Numbering is applied to organize sections derived from Buddhist scriptures in the processed text.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>The practitioner advances step by step toward the path to liberation by steering clear of obstacles like the three poisons.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

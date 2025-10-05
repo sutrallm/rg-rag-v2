@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>ARAHANT_FRUIT</target_entity>
+    <relationship_description>Non-negligence culminates in the arahant fruit of complete liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

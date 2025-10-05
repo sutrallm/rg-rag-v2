@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Constant non-negligence enables escape from the bindings of samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

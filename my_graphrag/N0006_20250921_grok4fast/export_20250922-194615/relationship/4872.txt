@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Vigilance through practice stabilizes the path to liberation, preventing scattering of the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>RIGHT VIEW</target_entity>
+    <relationship_description>Awakened beings embody right view, seeing impermanence and emptiness without attachment to worldly things.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-IDLENESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-idleness through sustained vigilance leads to complete liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

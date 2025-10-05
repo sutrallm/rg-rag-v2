@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Greed dominates lax practitioners, resulting in body and mind suffering and perpetuating samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

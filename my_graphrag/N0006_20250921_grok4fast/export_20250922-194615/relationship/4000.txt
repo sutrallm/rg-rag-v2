@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONE</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Noble ones, having transcended suffering, earn respect from devas.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

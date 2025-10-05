@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Wisdom facilitates mental liberation by providing insight without attachment to outcomes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

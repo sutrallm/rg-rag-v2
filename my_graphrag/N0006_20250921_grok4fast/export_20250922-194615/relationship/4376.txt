@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>Focused 心念, along with mindfulness, enables the attainment of 禅定, allowing escape from distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

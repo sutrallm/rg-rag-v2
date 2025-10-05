@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT VIEW</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Right view forms the foundation for practicing meditation and insight, essential for achieving liberation from the three poisons.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

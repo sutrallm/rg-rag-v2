@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>FORM REALM</target_entity>
+    <relationship_description>Meditation penetrates the attainments of the form realm, though without attachment for transcendence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

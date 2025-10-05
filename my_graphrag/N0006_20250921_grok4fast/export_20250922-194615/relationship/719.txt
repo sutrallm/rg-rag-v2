@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Saints earn respect from heavenly beings through their possession of precepts and wisdom, diligent mind cultivation, severance of afflictions, and transcendence of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

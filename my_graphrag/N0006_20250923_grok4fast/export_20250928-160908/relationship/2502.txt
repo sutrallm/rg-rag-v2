@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DHARMA MIND</target_entity>
+    <relationship_description>The practitioner strengthens their Dharma mind through self-reflection and avoidance of laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

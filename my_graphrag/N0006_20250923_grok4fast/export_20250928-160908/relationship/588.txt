@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MERITS</source_entity>
+    <target_entity>HEAVENLY HOSTS</target_entity>
+    <relationship_description>Heavenly hosts revere the merits of saints who have achieved ultimate liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

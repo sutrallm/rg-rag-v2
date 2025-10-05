@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Sages completely cut off all afflictions through precepts, wisdom, and mental cultivation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

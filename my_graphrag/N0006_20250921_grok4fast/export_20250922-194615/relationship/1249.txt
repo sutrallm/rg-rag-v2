@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>BIRTH_DEATH_CYCLE</target_entity>
+    <relationship_description>Insight into impermanence enables transcendence of the birth-death cycle without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

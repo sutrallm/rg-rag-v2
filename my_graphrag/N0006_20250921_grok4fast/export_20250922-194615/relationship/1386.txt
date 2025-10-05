@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Following the Buddha's teachings on diligence enables mastery of meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>EIGHT VICTORIES</target_entity>
+    <relationship_description>Through non-indolence, practitioners realize the eight victories by completing the aggregates without obstacles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

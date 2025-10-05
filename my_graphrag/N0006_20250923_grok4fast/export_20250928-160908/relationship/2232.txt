@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>HEART LIBERATION</target_entity>
+    <relationship_description>Meditation is the practice through which heart liberation is attained, leading to insight into impermanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

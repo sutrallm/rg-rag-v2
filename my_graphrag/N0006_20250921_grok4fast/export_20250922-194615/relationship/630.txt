@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONE</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Noble ones inspire heavenly beings to generate a heart of respect due to their possession of precepts, wisdom, diligence, and eradication of afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

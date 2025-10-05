@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MARA</source_entity>
+    <target_entity>DILIGENT_PRACTICE</target_entity>
+    <relationship_description>Diligent practice without heedlessness prevents falling under Mara's control, securing meditation mastery.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

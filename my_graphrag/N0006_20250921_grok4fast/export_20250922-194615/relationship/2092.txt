@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>FOUR STAGES OF ENLIGHTENMENT</target_entity>
+    <relationship_description>Diligence, with mindfulness, enables non-lax practitioners to realize the sequential achievements of the four stages to arahant, away from evil karma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

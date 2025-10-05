@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>Diligent practice helps avoid falling under the control of the death demon, emphasizing its role in spiritual protection.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

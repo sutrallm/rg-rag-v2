@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PRECEPT AGGREGATE</target_entity>
+    <relationship_description>Saints possess a fully rounded precept aggregate.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

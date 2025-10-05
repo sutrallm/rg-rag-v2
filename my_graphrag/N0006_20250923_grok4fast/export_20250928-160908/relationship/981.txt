@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>諸法實相</target_entity>
+    <relationship_description>心解脫 provides wisdom to understand 諸法實相 without clinging to conditioned states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

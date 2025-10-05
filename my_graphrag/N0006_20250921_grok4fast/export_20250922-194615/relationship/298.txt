@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHARACTERS AND PLACES</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Characters and places are elements within the original text that need to be deleted during revision.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

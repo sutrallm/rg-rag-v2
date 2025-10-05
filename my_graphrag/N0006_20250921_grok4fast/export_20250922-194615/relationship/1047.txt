@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Practitioners achieve mind liberation through meditation, gaining insight into impermanence and non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

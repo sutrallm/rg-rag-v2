@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The three trainings completely sever afflictions like greed, hatred, and delusion in holy persons.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

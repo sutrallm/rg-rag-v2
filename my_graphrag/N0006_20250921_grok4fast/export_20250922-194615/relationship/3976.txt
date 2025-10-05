@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CALM ABIDING</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Calm abiding is achieved through non-laxity and diligence, serving as a key practice for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

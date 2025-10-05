@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-laxity protects the mind and, through the threefold training, extinguishes karmic obstacles, achieving ultimate liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

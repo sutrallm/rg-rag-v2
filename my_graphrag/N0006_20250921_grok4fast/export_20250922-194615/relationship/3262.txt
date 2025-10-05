@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>REALM</target_entity>
+    <relationship_description>Mentally liberated practitioners do not cling to any realm, remaining unbound even in pursuit of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

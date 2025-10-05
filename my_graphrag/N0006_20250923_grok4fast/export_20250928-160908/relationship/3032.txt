@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Saints completely sever afflictions through their possession of precepts, wisdom, and meditative diligence, transcending all forms of worldly suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

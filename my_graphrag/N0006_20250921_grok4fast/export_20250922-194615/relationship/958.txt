@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>SENTIENT BEINGS</target_entity>
+    <relationship_description>Awareness of impermanence motivates sentient beings to practice diligently and avoid suffering's cycle.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

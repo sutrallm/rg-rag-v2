@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Wisdom arising from observing impermanence leads to non-attachment to the five aggregates and sensory objects.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

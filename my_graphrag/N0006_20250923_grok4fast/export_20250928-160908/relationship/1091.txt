@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The Buddha's teachings guide practitioners toward sustained diligence to avoid laxity and the Death Demon.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

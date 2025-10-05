@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE ONE</source_entity>
+    <target_entity>NON-INDULGENCE</target_entity>
+    <relationship_description>Wise ones maintain non-indulgence with constant alertness, protecting inner treasures and transcending birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

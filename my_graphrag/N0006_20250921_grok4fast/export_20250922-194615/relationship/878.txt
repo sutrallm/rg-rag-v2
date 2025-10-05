@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The Buddha's teachings emphasize diligence as the path to avoid the Lord of Death's control and master meditation without laxity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

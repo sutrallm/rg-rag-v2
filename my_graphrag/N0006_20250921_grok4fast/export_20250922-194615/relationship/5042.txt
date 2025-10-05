@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners engage in continuous diligence to master meditation, avoid greed's control, and as saints, combine it with precepts and wisdom to transcend suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

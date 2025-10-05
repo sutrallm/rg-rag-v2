@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUMINATION</source_entity>
+    <target_entity>DARKNESS</target_entity>
+    <relationship_description>Illumination from vigilance wards off darkness for oneself and others.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

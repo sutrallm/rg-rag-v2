@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Zhi Hui observes Wu Chang, along with other truths, on Zen Ding's base to sever afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

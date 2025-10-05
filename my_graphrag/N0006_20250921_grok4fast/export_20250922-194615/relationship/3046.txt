@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENT_PRACTICE</target_entity>
+    <relationship_description>Practitioners engage in diligent practice by continuously following teachings without heedlessness to avoid death and Mara's control, master meditation, and attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

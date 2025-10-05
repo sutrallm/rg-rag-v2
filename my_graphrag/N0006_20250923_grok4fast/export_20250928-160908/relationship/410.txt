@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MESSAGE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The message was supposed to include the original text after the specified marker, but it is missing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

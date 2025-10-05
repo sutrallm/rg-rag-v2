@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Practitioners maintain right mindfulness during meditation to stay away from disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

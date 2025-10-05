@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIVING BEINGS</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>All living beings are bound in the inescapable cycle of impermanence and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

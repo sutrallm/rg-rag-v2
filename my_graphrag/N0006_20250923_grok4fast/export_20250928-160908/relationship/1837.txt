@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Saints are defined by their diligence in cultivating the mind to achieve tranquility and sever afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

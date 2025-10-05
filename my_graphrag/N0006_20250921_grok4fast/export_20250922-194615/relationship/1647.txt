@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Hatred forms part of the afflictions that fetter the mind and must be severed for release.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Sustained mindfulness of the mind calms distraction and brings tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

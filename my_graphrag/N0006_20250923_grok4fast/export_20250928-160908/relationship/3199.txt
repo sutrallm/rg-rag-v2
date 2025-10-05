@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_NOBLE_TRUTHS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Suffering is the first component of the Four Noble Truths, central to the doctrine of existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

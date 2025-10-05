@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>FANG YI</target_entity>
+    <relationship_description>Xiu Xing Zhe escape Fang Yi through Zen Ding practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

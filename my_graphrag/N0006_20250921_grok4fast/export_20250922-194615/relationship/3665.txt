@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Awakening results in abiding in nirvana without remainder, free from samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

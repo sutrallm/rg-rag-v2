@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation, combined with precepts and wisdom, enables the complete extinguishing of affliction seeds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

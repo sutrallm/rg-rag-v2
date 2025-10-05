@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ZEN</target_entity>
+    <relationship_description>Practitioners achieve Zen through focused mind and mindfulness to escape distractions and attain inner peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

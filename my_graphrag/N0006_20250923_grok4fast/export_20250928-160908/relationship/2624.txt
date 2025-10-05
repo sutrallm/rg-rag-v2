@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>TRANSCENDENT WISDOM</target_entity>
+    <relationship_description>Practitioners cultivate transcendent wisdom even while in meditative joy to escape the cycle of birth and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

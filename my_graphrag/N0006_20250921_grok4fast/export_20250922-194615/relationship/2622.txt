@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Sages diligently practice meditation to dwell in mental quietude and achieve full liberation from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

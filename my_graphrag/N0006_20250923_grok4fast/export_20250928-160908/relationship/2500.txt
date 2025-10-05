@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>NON-INDOLENCE</target_entity>
+    <relationship_description>Diligent practice is a manifestation of non-indolence, breaking bonds to reach Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

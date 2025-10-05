@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION OF THE MIND</target_entity>
+    <relationship_description>Meditation is the practice that results in the liberation of the mind from attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

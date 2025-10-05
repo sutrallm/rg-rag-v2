@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Liberation frees the mind from the bonds of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

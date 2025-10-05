@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Wisdom supports the cultivation of tranquility in saints' practices.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

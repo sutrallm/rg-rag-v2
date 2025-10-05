@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>TEACHINGS</target_entity>
+    <relationship_description>Diligent practice is conducted by following and adhering to spiritual teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

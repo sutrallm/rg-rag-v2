@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-indolence enables true mastery of meditation and entry into ultimate liberation from suffering and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

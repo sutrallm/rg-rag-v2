@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE EIGHTFOLD PATH</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The path includes right effort (diligence) as a key branch for spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

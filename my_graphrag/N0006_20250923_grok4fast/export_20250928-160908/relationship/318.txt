@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE CHARACTERISTICS</source_entity>
+    <target_entity>CRUSHING AND VIEWS</target_entity>
+    <relationship_description>Contemplation of the three characteristics severs crushing attachments and wrong views.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

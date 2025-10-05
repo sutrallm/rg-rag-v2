@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Awakened ones have completely severed greed, one of the root afflictions binding beings in cyclic existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

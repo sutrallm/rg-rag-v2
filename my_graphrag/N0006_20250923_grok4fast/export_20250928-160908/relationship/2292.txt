@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Non-indulgence leads to the arising of right factors that help eradicate afflictions and achieve liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

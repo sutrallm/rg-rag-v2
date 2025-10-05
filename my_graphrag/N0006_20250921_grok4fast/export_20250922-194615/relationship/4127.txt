@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>Following teachings enables and sustains diligent practice for spiritual mastery.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

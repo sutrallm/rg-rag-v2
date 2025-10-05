@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JOY AND STABILITY</target_entity>
+    <relationship_description>Deep meditation generates joy and stability, surpassing worldly pleasures.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

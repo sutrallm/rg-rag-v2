@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>FA NIAN CHU</target_entity>
+    <relationship_description>Dharmas contemplation completes the foundations of mindfulness by observing aggregates, hindrances, and senses.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

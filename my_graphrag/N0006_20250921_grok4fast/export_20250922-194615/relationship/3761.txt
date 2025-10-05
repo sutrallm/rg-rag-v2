@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PATH</source_entity>
+    <target_entity>BAD REALMS AND REBIRTH</target_entity>
+    <relationship_description>Achieving the holy path results in freedom from the cycles of bad realms and rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

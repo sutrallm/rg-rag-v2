@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>KARMIC OBSTACLES</target_entity>
+    <relationship_description>The practice of wisdom as part of the threefold training extinguishes karmic obstacles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

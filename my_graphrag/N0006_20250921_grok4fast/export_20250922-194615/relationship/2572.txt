@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Indolence harms the practitioner by leading to physical and mental decline, endless pain, and subjugation to impermanence and fear.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

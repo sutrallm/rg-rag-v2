@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHU ZEN</source_entity>
+    <target_entity>ER ZEN</target_entity>
+    <relationship_description>Er Zen builds on Chu Zen by abandoning Xun Si for Nei Jing and deeper Xi Le.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

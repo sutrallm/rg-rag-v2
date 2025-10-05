@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Only constant non-negligence allows true mastery of the meditation method.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

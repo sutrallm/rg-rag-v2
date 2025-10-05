@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ER ZEN</source_entity>
+    <target_entity>NEI JING</target_entity>
+    <relationship_description>Er Zen features Nei Jing as its defining internal purity and joy.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

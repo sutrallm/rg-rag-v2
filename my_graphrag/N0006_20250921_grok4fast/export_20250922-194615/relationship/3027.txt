@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DISPASSION</target_entity>
+    <relationship_description>Recognition of impermanence, like the world's bubble-like transience, gives rise to dispassion in the wise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

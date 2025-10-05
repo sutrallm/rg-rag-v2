@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Negligence causes the practitioner to sink into suffering and samsara, unable to reach the state of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

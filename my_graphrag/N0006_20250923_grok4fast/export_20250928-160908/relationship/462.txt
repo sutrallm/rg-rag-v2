@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Those achieving heart liberation transcend attachment to any state or result through wise non-clinging.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

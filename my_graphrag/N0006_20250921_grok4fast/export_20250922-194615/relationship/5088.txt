@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT_MINDFULNESS</source_entity>
+    <target_entity>DISTURBANCES</target_entity>
+    <relationship_description>Right mindfulness enables staying away from various disturbances during concentrated practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

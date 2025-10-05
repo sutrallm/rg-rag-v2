@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Saints fully possess the threefold training of precepts, meditation, and wisdom to eradicate afflictions and dwell in quietude.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

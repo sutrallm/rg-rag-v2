@@ -1,0 +1,16 @@
+### Processing Guidelines for Missing Buddhist Scriptures
+
+#### Executive Summary
+The provided material describes an anticipated doctrinal text, likely from Buddhist traditions, that was not included in the user's submission despite clear markers. It outlines precise rules for transforming such content, focusing on simplification, doctrinal emphasis, and structural refinements to make principles accessible. This highlights a gap between intent and delivery, with rules centered on converting narrative elements into direct teachings on Dharma while preserving core elements.
+
+#### Expected Nature of the Material
+The material in question consists of religious or doctrinal scripts, specifically full texts akin to Buddhist scriptures. These are positioned as the primary target for analysis and adaptation, serving as exemplars of the content type intended for processing under the given guidelines.
+
+#### Specified Transformation Rules
+A structured set of procedures governs the handling of the material, including translation into everyday Chinese language, elimination of specific characters and place names, rephrasing of metaphorical expressions and spoken exchanges into straightforward expositions of core Dharma concepts, preservation of essential doctrinal components, enhancement and sequential numbering of section titles, and removal of any ending poetic summaries known as gathas.
+
+#### User Submission Deficiency
+The user's message explicitly signaled the forthcoming material with the phrase "原文如下：--------------", indicating an intention to supply the doctrinal text immediately after this point. However, no actual content followed this marker, resulting in an incomplete input that referenced but did not deliver the expected scriptures or related texts.
+
+#### Alignment of Instructions with Doctrinal Focus
+The guidelines ensure that the processed output prioritizes clarity on Dharma principles by stripping away narrative or contextual details, while retaining and highlighting key elements of Buddhist doctrine. This approach transforms the original scripts into a more direct, educational format suitable for conveying teachings without extraneous literary features.

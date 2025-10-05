@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Greed, hatred, and delusion form the interconnected three poisons transcended together in liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

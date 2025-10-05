@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_INDUCEMENT</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Remaining non-indulgent allows mastery of meditation and avoidance of samsara's rebirth cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STREAM-ENTERER</source_entity>
+    <target_entity>ONCE-RETURNER</target_entity>
+    <relationship_description>Stream-enterer is the first stage leading sequentially to once-returner in the path of enlightenment for diligent practitioners.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

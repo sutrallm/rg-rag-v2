@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>HEART LIBERATION</target_entity>
+    <relationship_description>Through Zen meditation, practitioners achieve heart liberation, enabling insight into impermanence and transcendence of attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Mindfulness of body and mind phenomena gives rise to wisdom that illuminates the true nature of all dharmas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

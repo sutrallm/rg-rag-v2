@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Zen meditation allows practitioners to distance themselves from afflictions and troubles, granting inner calm.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

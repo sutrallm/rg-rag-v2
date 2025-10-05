@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Non-indulgence protects against hatred as one of the afflictions leading to suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Saints, having mastered precepts, wisdom, and quietude, earn respect from the devas due to their transcendence of worldly pains.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

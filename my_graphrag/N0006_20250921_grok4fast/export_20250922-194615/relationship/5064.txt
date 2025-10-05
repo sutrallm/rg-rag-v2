@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Diligence is a core trait of saints, combined with precepts and wisdom to eradicate afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

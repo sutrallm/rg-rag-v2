@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The awakened one possesses wisdom that illuminates like sunlight, breaking ignorance and transcending samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

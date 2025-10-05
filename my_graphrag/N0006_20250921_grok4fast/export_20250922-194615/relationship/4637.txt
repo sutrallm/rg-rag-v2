@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>BODY AND MIND</target_entity>
+    <relationship_description>Wisdom enables observation of the impermanence of body and mind, leading to detachment from sensory pleasures.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

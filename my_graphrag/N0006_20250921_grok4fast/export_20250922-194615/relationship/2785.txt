@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The diligent practitioner attains nirvana as the final liberation from all afflictions through the three learnings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

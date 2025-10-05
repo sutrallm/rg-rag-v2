@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Awakened ones achieve their state through mindful Zen meditation, extinguishing greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

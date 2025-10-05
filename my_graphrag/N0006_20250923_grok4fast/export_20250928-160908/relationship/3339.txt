@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Diligent practice leads to true mastery of meditation and achievement of liberation from afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

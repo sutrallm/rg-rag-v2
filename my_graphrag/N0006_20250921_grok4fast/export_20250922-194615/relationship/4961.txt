@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wisdom ensures no attachment to boundaries or results, leading to unobstructed ease.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

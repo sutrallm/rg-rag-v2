@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation involves freedom from afflictions, achieved through meditation and saintly qualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Diligent practitioners can become saints by embodying precepts, wisdom, and eradicating afflictions through sustained practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

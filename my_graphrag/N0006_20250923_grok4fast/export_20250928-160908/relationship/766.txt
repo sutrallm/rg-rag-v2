@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL SEQUENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The sequence culminates in attaining wisdom to eradicate afflictions following dhyana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>Eradicating afflictions like greed and delusion is essential to achieving mental liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

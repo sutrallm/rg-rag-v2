@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Practitioners must subdue and cut off afflictions through diligence, precepts, and wisdom to avoid rebirth cycles and evil paths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

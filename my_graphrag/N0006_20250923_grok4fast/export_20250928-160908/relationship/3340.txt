@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Insight into impermanence enables mental liberation without attachment to outcomes or desires.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

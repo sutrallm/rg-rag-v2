@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAZINESS</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Non-laziness helps escape the bonds of greed, anger, and delusion by fostering detachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

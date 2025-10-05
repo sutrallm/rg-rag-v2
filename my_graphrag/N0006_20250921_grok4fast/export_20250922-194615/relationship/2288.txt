@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Zen Meditation cultivates and sustains right mindfulness to avoid distractions and maintain focus on the present.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

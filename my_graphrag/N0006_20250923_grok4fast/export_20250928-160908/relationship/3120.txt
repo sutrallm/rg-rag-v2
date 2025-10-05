@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEARING THINKING PRACTICING</source_entity>
+    <target_entity>NOBLE FRUITS</target_entity>
+    <relationship_description>Through hearing the Dharma and contemplating it, one accumulates provisions, cuts habitual tendencies, and attains noble fruits.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

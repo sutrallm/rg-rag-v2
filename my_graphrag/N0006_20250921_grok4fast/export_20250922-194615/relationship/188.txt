@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>圣者 diligently cultivate 心念 and dwell in silence through their practices.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

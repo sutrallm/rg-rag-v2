@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Those achieving mental liberation through meditation pursue the fruit of liberation without being attached or hindered by it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

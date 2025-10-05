@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_DHARMA</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Following the true dharma through diligence avoids the grasp of impermanence.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

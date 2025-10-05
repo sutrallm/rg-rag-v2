@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISSIPATION</target_entity>
+    <relationship_description>Meditation allows practitioners to摆脱 (escape) dissipation, contrasting with its unfocused state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

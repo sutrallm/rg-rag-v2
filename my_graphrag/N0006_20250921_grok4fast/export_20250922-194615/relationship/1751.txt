@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>Non-LAXITY</target_entity>
+    <relationship_description>Diligence sustains the state of non-laxity, preventing indulgence and ensuring steady progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>TAN YU</target_entity>
+    <relationship_description>Xiu Xing Zhe observe and eradicate Tan Yu through repeated reflection on its harms, using Zhi Hui to root it out for inner freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

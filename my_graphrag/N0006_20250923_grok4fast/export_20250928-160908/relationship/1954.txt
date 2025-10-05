@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Zen meditation generates wisdom through cultivation of concentration in the threefold training.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

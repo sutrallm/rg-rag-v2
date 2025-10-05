@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENTIENT BEINGS</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Sentient beings frequently fall into indulgence, inviting death like a hunter and leading to painful rebirths.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Laxity leads to falling into samsara's abyss through evil karma and uncontrolled suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

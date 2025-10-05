@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DIVINE EYE</target_entity>
+    <relationship_description>Perfected practitioners possess the divine eye to discern and guide other beings compassionately.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

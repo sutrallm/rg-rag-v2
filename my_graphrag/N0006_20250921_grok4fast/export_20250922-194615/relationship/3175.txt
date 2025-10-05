@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Wisdom perceives the no-self nature of all dharmas, enabling practitioners to shatter false views and gain liberation from sensory fetters.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

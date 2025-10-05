@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The query includes a section for the original text that is omitted, making it central to the issue.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom enables the observation of suffering as a mark of all dharmas, breaking through illusory discriminations and liberating the mind from sensual bonds.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

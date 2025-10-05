@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORM REALM</source_entity>
+    <target_entity>FORMLESS REALM</target_entity>
+    <relationship_description>Both realms are meditative attainments that must be penetrated and transcended together for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners engage in continuous diligent effort as part of their spiritual practice to avoid slackness and achieve mastery.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Those with heart liberation do not cling to any states or results, overcoming attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

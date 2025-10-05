@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Heavenly beings develop respect for saints due to their attainment of precepts, wisdom, and tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR JHANAS</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>The four jhanas represent progressive levels of samadhi, leading to equanimous concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

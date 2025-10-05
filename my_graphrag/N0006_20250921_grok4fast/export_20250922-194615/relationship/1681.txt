@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>SIX SENSE BASES</target_entity>
+    <relationship_description>Awareness observes the arising and passing in the six sense bases to transcend dualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

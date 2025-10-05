@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>TRANGUILITY</target_entity>
+    <relationship_description>Saints abide in tranquility as part of their diligent cultivation of the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

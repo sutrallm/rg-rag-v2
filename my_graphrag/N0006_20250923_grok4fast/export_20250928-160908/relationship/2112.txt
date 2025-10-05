@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Practitioners must embody diligence through continuous effort along the right path to control their lives and attain stable meditation and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

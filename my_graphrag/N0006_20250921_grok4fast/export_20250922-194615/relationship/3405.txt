@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Indulgent seekers desire liberation but fall into the abyss of afflictions due to not upholding precepts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

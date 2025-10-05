@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS AND AWARENESS</source_entity>
+    <target_entity>NOBLE EIGHTFOLD PATH</target_entity>
+    <relationship_description>Mindfulness and awareness lead to the achievement of the Noble Eightfold Path by removing hindrances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Awakened beings guard their awareness like a treasure, preventing it from being defiled by distraction through vigilant mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Laxity, through domination by greed, hatred, and delusion, leads to physical and mental suffering as well as samsara's torment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

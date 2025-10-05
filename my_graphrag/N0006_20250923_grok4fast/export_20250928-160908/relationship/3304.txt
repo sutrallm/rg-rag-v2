@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The Four Noble Truths provide the wisdom to extinguish greed and attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

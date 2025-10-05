@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Indolence causes entrapment in the cycle of birth and death, escapable only through non-indolence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

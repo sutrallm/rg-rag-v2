@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Abiding in stillness helps saints transcend suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

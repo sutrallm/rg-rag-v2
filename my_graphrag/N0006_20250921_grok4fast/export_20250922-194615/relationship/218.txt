@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>NOBLE PATH</target_entity>
+    <relationship_description>Meditation achieves progress toward the noble path by eradicating afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

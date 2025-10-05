@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Liberation enables practitioners to pursue nirvana without attachment or being bound by it, maintaining freedom and non-clinging.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

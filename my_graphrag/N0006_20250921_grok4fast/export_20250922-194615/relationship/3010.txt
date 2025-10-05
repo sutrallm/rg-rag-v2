@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉醒</source_entity>
+    <target_entity>幻觉</target_entity>
+    <relationship_description>Awakening frees one from being deluded by illusions, like waking from a dream.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

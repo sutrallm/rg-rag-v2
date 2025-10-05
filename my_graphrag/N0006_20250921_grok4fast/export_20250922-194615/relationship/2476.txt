@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Eradicating the three poisons through spiritual practices leads directly to the attainment of nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

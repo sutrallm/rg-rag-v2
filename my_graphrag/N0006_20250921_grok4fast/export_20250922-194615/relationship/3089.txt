@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Awakened beings uproot the fundamental causes of all afflictions, achieving complete freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

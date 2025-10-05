@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>D-HARMAS</target_entity>
+    <relationship_description>Heart liberation allows insight into the nature of worldly dharmas.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

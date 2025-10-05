@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL LIBERATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Mental liberation through meditation results in non-attachment to realms and freedom from bondage by results.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

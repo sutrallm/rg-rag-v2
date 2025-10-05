@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Cultivating awareness leads to the realization of complete liberation in Nirvana by eradicating afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

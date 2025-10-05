@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPERNATURAL POWERS</source_entity>
+    <target_entity>FOURTH JHANA</target_entity>
+    <relationship_description>Supernatural powers are developed on the foundation of the stable mind in Fourth Jhana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

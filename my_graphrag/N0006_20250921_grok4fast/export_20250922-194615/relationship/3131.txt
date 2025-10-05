@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Meditation relies on maintaining focused mind and mindfulness to achieve tranquility and liberation from worldly disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

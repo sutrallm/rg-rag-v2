@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>BONDS</target_entity>
+    <relationship_description>Awakened ones cut off all bonds through non-laxity and the perfection of the three learnings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

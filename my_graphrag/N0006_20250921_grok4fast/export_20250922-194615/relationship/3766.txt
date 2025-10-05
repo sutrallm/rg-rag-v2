@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENT PRACTICE</source_entity>
+    <target_entity>HOLY PATH</target_entity>
+    <relationship_description>Persistent non-indulgent practice, combined with diligence, results in accomplishing the holy path and escaping bad rebirths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Meditation cultivates mindfulness and awareness, taming the mind to dispel delusions and foster wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

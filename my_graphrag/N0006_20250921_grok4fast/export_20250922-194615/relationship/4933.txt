@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Abiding in stillness allows saints to completely cut off afflictions and transcend suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED HATRED DELUSION</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Greed, hatred, and delusion, when arising in a dissipated mind, lead to the creation of evil karma and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

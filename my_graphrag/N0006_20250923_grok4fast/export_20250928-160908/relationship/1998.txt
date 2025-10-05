@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Focused meditation generates joy when the mind is free from distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

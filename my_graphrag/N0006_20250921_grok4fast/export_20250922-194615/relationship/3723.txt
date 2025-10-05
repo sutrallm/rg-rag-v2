@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>The practitioner engages in zen meditation to achieve focus, escape afflictions, and gain inner peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

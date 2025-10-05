@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>DEMON KING</target_entity>
+    <relationship_description>Negligent beings are controlled by the demon king, leading to entrapment in samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

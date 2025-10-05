@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MENTAL_LIBERATION</target_entity>
+    <relationship_description>Meditation practice leads to mental liberation and insight into impermanence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

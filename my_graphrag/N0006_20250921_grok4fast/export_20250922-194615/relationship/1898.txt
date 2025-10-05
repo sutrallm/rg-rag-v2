@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_LIBERATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Mind liberation allows for the development of wisdom into the truths of suffering, emptiness, and no-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

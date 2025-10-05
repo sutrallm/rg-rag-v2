@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>GOOD DHARMAS</target_entity>
+    <relationship_description>The practitioner cultivates good dharmas through non-indolent effort to purify body and mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

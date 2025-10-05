@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON KING</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Diligent practitioners avoid falling under the control of the Death Demon King by sustaining non-idleness as per Buddha's guidance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

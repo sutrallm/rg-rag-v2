@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>GREED_ANGER_DELUSION</target_entity>
+    <relationship_description>Indolence allows greed, anger, and delusion to dominate, causing entrapment in the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

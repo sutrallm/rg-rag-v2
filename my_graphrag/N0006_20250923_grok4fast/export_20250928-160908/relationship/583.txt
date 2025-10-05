@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>Wisdom eternally departs from the force of karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

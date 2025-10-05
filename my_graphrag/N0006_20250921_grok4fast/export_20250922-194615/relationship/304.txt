@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXAMPLE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The processed version of the original text should follow the format of the provided example.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

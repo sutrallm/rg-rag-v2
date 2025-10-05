@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR DHYANAS</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>The four dhyanas contribute to pure mind liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

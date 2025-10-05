@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHTFUL WISDOM</source_entity>
+    <target_entity>ATTAINMENTS</target_entity>
+    <relationship_description>Insightful wisdom ensures that even in pursuing attainments, there is no bondage or attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

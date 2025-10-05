@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>EQUALITY VIEW</target_entity>
+    <relationship_description>In meditation, practitioners develop the equality view toward sentient beings, breaking ego-clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

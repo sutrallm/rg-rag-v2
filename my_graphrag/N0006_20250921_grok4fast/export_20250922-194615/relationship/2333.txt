@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE HINDRANCES</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The five hindrances encompass afflictions like greed, hatred, and torpor that obstruct calm and must be overcome for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY CONTEMPLATION</source_entity>
+    <target_entity>FOUR GREAT ELEMENTS</target_entity>
+    <relationship_description>Body Contemplation realizes the body as composed solely of the four great elements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

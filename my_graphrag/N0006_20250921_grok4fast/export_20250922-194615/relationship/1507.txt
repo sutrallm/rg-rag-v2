@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZHE</source_entity>
+    <target_entity>SI WANG MO WANG</target_entity>
+    <relationship_description>Diligent Xiu Xing Zhe avoid control by Si Wang Mo Wang through unremitting effort in Zen Ding.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

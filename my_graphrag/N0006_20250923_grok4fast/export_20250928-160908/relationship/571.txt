@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BIRTH-DEATH CYCLE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>The birth-death cycle is perpetuated by greed, which liberation abandons.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

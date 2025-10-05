@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>The practitioner avoids indolence to prevent falling into greed, suffering, and entanglement in ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

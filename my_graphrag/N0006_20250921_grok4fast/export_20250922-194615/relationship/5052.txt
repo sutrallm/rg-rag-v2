@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>AWAKENED_ONE</target_entity>
+    <relationship_description>Awakened ones are advanced practitioners who illuminate truths with wisdom, transcending cycles and pleasures in liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

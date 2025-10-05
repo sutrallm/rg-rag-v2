@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>The Buddha teaches the Dharma as methods for practitioners to follow in their path to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

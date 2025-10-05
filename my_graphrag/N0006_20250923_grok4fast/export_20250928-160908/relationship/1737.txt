@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Wisdom roots out the three poisons through insight into impermanence, suffering, and no-self, enabling complete mental freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

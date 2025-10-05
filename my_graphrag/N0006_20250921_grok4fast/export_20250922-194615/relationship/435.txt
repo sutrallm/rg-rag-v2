@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>Practitioners realize the emptiness of the five aggregates to break ego-clinging and attachments for mind liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

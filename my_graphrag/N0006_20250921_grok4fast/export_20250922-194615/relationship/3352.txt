@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRST JHANA</source_entity>
+    <target_entity>FIVE HINDRANTCES</target_entity>
+    <relationship_description>The first jhana is entered by detaching from the five hindrances, freeing the mind for joy and focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

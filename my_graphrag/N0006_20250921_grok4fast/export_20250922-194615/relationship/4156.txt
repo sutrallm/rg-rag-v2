@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Zen allows practitioners to escape laxity and attain inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

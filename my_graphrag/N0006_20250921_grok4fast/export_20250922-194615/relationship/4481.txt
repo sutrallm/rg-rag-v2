@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REBIRTH CYCLE</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>The rebirth cycle is characterized by impermanence, birth, aging, illness, and death.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

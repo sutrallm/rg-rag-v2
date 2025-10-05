@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHT VICTORIES</source_entity>
+    <target_entity>LIBERATION AGGREGATE</target_entity>
+    <relationship_description>The eight victories encompass the liberation aggregate without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligence overcomes delusion's control, allowing true mastery of meditative methods.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

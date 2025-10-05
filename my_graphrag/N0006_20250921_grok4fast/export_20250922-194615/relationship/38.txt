@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION AND REWRITING</source_entity>
+    <target_entity>DOCTRINAL DETAILS</target_entity>
+    <relationship_description>Doctrinal details from the teachings must be retained throughout the translation and rewriting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

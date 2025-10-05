@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Zen enables escape from suffering to gain inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

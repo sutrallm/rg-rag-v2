@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>awAKENED WISDOM</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Awakened wisdom cuts off greed and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

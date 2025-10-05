@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Zen meditation, when practiced with wisdom and stillness, leads to the complete eradication of afflictions like greed, anger, and ignorance, freeing the mind from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

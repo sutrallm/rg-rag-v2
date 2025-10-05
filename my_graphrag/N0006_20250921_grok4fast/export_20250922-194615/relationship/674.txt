@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners aim for liberation by severing worldly bonds and afflictions through diligent cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

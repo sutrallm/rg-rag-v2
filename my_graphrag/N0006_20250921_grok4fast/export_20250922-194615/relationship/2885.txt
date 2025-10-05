@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Advanced practitioners possess wisdom along with precepts to diligently practice and transcend afflictions and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

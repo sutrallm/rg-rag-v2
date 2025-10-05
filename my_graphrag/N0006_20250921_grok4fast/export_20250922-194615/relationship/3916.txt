@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>Saints inspire respect and admiration from celestial beings due to their accomplished state.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

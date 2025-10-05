@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Mindfulness is foundational to meditation, enabling non-distracted focus and right knowledge.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

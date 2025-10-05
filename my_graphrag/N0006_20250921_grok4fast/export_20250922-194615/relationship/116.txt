@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>WU SE JIE</target_entity>
+    <relationship_description>Wise practitioners with Zhi Hui transcend attachment to Wu Se Jie for complete freedom.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

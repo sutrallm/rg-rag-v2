@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Diligent practice is necessary for truly mastering the methods of samadhi.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

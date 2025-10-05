@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>CAUSE AND EFFECT</target_entity>
+    <relationship_description>The Awakened One instructs on understanding cause and effect (karma) to maintain vigilance and practice correctly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Mind liberation is achieved by transcending attachment to states, results, and phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

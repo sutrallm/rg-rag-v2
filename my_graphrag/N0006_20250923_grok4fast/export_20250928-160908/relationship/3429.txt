@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>SEA_OF_SUFFERING</target_entity>
+    <relationship_description>Samsara embodies the sea of suffering, from which nirvana provides complete escape.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

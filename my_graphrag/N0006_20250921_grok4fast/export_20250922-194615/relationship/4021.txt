@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Zen meditation relies on mindfulness to focus the mind and avoid distractions, forming the core method for achieving inner peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

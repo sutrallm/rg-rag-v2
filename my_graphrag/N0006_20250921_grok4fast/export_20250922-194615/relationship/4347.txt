@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Insight into impermanence allows those with liberated minds to avoid attachment to any realms or states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>PATH OF LIBERATION</target_entity>
+    <relationship_description>Without precepts, the mind scatters, preventing attainment of the path of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

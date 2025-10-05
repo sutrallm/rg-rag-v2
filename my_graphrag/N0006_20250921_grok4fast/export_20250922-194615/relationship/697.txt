@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_BEING</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>Awakened beings dwell in equanimity with liberation, viewing the world as illusory without being moved by desires.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

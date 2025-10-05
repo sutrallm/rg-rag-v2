@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>CYCLE OF REBIRTH</target_entity>
+    <relationship_description>Diligence breaks the cycle of rebirth by ensuring persistent practice and non-laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

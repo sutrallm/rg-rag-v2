@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>Precepts stabilize the foundation for zen meditation by preventing the arising of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

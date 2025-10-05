@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR STAGES OF ENLIGHTENMENT</source_entity>
+    <target_entity>EVIL KARMA</target_entity>
+    <relationship_description>Achieving the four stages allows practitioners to be free from evil karma, obtaining liberation's joy.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

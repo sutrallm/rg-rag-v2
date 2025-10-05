@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>BIRTH AGING SICKNESS DEATH</target_entity>
+    <relationship_description>Ignorance perpetuates the cycle of birth, aging, sickness, and death, which wisdom alleviates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

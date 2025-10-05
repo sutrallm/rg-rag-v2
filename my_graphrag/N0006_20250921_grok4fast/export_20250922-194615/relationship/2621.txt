@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Sages embody wisdom that transcends attachments, allowing them to sever troubles and transcend suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

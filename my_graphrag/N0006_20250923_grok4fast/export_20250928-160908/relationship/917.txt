@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL MEDITATION</source_entity>
+    <target_entity>AWAKENED ONE</target_entity>
+    <relationship_description>Mindful meditation is used by awakened ones to gain insights into impermanence, emptiness, and no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

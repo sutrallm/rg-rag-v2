@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Awareness and mindfulness are practiced together to guard the mind against negligence and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

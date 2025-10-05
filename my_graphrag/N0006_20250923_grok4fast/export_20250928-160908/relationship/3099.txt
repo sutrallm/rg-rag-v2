@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion stems from not awakening to the reality of impermanence, perpetuating worldly confusion and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

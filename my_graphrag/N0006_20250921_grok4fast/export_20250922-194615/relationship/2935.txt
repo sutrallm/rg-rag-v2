@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Diligence in upholding precepts contributes to the qualities of saints who achieve liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>VIGILANCE</target_entity>
+    <relationship_description>Diligence embodies vigilance by avoiding laxity to master practices like dhyana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

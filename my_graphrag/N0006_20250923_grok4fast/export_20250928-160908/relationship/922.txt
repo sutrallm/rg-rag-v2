@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODHISATTVA</source_entity>
+    <target_entity>SIX PERFECTIONS</target_entity>
+    <relationship_description>Bodhisattvas cultivate the six perfections—generosity, ethics, patience, diligence, meditation, and wisdom—equally for the benefit of others.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

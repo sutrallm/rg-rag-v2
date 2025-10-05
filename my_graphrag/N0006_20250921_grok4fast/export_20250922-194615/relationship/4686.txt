@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEARING REFLECTION CULTIVATION</source_entity>
+    <target_entity>TEACHINGS</target_entity>
+    <relationship_description>Hearing, reflection, and cultivation are required to truly comprehend and realize the teachings beyond mere theory.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

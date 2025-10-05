@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEART LIBERATION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Heart liberation allows practitioners to avoid attachment to any realms or results.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Insight into impermanence transcends greed and delusions by non-attachment to realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

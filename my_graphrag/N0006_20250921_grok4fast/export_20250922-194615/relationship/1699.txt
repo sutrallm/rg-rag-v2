@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>BAD_REPUTATION</target_entity>
+    <relationship_description>Non-negligence enables avoidance of bad reputation along with evil deeds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLENCE</source_entity>
+    <target_entity>HOLY FRUITS</target_entity>
+    <relationship_description>Indolence prevents access to holy fruits by failing to purify the mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

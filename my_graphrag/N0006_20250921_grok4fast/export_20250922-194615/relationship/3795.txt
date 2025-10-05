@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPERNATURAL POWERS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>While supernatural powers arise from concentration, true liberation requires wisdom to surpass them and eradicate ignorance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>The practitioner employs diligence as a key quality, approaching practice with lion-like vigor.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

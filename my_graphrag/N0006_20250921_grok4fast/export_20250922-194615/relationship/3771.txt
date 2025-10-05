@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS AND WISDOM</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Possession of precepts and wisdom enables the eradication of the three poisons and numerous other afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

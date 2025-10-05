@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE PRACTITIONERS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Noble practitioners possess complete wisdom alongside discipline to cultivate stillness and eliminate all afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

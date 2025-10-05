@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>FOUR TYPES OF NEGLIGENCE</target_entity>
+    <relationship_description>Non-negligence counters and avoids the harms of the four types of negligence, such as fear, destruction, and blocked awakening.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

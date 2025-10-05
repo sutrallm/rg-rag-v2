@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FA NIAN CHU</source_entity>
+    <target_entity>WU GAI</target_entity>
+    <relationship_description>Dharmas contemplation examines the five hindrances to break attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

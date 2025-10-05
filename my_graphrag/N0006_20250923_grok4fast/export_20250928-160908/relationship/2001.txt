@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLEAR POOL WATER</source_entity>
+    <target_entity>MOONLIGHT</target_entity>
+    <relationship_description>The clear pool water (mind in meditation) reflects the moonlight (truth or tranquility) perfectly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

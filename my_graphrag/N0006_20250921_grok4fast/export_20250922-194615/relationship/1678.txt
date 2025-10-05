@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>SENSORY ATTACHMENT</target_entity>
+    <relationship_description>Negligence causes the mind to indulge in sensory attachment, fostering evil dharmas.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

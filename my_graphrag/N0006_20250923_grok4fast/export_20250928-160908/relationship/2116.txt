@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom enables the pursuit of Nirvana without bondage, as it discerns the emptiness of even ultimate goals, leading to unbound freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

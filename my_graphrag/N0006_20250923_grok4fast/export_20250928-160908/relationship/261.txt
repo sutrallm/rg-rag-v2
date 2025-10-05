@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Saints demonstrate diligence in mind cultivation, resting in quietude as part of their practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANT ONE</source_entity>
+    <target_entity>HEAVENLY REALMS</target_entity>
+    <relationship_description>Vigilant ones are honored by heavenly realms alongside the world for their non-indulgent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

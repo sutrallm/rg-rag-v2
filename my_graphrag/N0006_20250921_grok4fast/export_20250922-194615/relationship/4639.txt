@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Completion of the threefold training frees practitioners from being bound by the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

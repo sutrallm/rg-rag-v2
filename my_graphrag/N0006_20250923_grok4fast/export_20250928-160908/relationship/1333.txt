@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SNAKE SHEDDING SKIN</target_entity>
+    <relationship_description>The practitioner sheds attachments like a snake sheds skin through mindful meditation for higher liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

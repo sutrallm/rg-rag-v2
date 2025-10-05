@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>BODHISATTVA</target_entity>
+    <relationship_description>Bodhisattvas practice upholding precepts alongside giving to accumulate boundless merits.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

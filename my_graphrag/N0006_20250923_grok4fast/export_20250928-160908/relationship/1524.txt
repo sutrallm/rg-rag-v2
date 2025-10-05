@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者 must avoid 放逸 through diligence to prevent falling into samsara and achieve meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

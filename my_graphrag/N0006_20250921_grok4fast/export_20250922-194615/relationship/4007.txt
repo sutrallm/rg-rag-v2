@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL PATHS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Evil paths are shunned to progress toward Nirvana through non-negligent practice.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

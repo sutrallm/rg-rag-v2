@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISSIPATION</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>Dissipation causes practitioners to fall under the control of the Death Demon.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

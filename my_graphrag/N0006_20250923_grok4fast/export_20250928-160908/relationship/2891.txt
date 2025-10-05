@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>SUPREME BLISS</target_entity>
+    <relationship_description>Awareness, cultivated by the non-heedless, leads to the attainment of supreme bliss and transcendence of worldly suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

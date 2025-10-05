@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE MIND</source_entity>
+    <target_entity>ENLIGHTENED BEING</target_entity>
+    <relationship_description>A pure mind is a key attainment of the enlightened being, free from dust and temptations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

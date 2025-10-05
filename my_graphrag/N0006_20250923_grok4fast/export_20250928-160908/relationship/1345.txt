@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>FIERCE BEAST DEVOURING PREY</target_entity>
+    <relationship_description>Delusion consumes wisdom like a beast, tamed by meditative study and reflection.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

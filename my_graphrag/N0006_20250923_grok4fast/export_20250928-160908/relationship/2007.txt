@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Desire can bind the practitioner even in the pursuit of nirvana, but is overcome through non-attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

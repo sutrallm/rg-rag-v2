@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>GAMBLER OBSESSED WITH WIN LOSS</target_entity>
+    <relationship_description>The attached mind is like a gambler, freed by wisdom for inner joy.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

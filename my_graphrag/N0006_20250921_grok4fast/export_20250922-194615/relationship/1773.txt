@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY TEMPTATIONS</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Sensory temptations exploit laxity, leading the unwary into suffering and samsara like a blind person in peril.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

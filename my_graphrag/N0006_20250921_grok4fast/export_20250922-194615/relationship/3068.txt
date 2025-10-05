@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MENTAL_LIBERATION</target_entity>
+    <relationship_description>Wisdom's insight into impermanence and emptiness facilitates mental liberation through severing delusions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

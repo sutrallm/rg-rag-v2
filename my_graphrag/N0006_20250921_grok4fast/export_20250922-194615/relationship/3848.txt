@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Mindfulness severs craving and attachment by awakening awareness of body and mind phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISSIPATION</source_entity>
+    <target_entity>GREED HATRED DELUSION</target_entity>
+    <relationship_description>Dissipation plunges the mind into the darkness of greed, hatred, and delusion, fostering their dominance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

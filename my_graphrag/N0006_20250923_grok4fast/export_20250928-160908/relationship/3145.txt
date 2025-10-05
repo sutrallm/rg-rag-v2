@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSTRUCTIONS</source_entity>
+    <target_entity>BUDDHIST SCRIPTURE</target_entity>
+    <relationship_description>The instructions are tailored for handling Buddhist scriptures, including examples like the Agama Sutra, to transform them into simplified, doctrinal-focused vernacular versions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>FLOOD DESTROYING VILLAGE</target_entity>
+    <relationship_description>Greed floods the pure mind like waters destroying a village, dammed by diligent precepts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

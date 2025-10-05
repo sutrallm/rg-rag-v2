@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mastery of meditation through diligence leads to liberation by freeing the mind from afflictions and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

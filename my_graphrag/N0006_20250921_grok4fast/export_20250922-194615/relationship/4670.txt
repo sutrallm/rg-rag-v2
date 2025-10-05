@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROCESSING FORMAT</source_entity>
+    <target_entity>MISSING ORIGINAL TEXT</target_entity>
+    <relationship_description>The processing format is designed to be applied to the missing original text once it is provided, involving specific transformations for doctrinal content.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

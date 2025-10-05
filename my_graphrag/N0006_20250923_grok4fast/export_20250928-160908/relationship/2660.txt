@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity> AWAKENED WISDOM</target_entity>
+    <relationship_description>Deep zen meditation yields awakened wisdom, providing insights into fundamental truths.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

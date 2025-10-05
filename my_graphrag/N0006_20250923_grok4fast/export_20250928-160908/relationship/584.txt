@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Abiding in tranquility leads to the attainment of ultimate liberation by eradicating afflictions and transcending suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

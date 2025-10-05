@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED ONE</source_entity>
+    <target_entity>IMPURITY</target_entity>
+    <relationship_description>Awakened ones insightfully understand impurity as part of the world's true nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

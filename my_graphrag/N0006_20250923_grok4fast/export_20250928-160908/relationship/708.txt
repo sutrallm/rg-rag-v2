@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRST JHANA</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>Progress beyond the First Jhana leads practitioners to mind liberation, transcending these states toward ultimate freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>ZEN MEDITATION</target_entity>
+    <relationship_description>The Buddha's guidance emphasizes continuous diligence to truly master the method of zen meditation and avoid idleness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Insight reveals the truth of non-self as part of understanding all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

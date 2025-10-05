@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Complete elimination of desire leads to total liberation from samsara and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

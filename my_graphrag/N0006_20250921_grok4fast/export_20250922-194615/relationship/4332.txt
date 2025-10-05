@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DEATH</target_entity>
+    <relationship_description>Practitioners on the righteous path avoid the metaphorical control of death through non-indulgence.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

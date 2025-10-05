@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DEATH DEMON KING</target_entity>
+    <relationship_description>Impermanence is embodied and enforced by the death demon king, binding all beings in cycles of death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

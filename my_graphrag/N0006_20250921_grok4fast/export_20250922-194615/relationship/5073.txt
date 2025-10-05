@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_ONE</source_entity>
+    <target_entity>CYCLE_OF_BIRTH_AND_DEATH</target_entity>
+    <relationship_description>Awakened ones transcend the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

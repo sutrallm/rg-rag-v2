@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Non-indulgence directly counters and protects against the harms of indulgence, maintaining purity and enabling progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

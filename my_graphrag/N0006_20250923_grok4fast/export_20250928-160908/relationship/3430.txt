@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Greed is one of the core three poisons, alongside hatred and delusion, driving cyclic suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

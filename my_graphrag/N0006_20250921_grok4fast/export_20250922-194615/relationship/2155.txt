@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Following Buddha's teachings leads to liberation via non-idleness and meditation mastery.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

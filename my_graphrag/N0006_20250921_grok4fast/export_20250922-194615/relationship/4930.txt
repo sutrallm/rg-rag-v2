@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>JOY</target_entity>
+    <relationship_description>Zen meditation gives rise to joy in the practitioner.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

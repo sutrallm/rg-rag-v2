@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Holy ones transcend suffering by possessing precepts and wisdom and eradicating afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Greed and anger, along with ignorance, are interconnected vices that torment the mind and must be eradicated for liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

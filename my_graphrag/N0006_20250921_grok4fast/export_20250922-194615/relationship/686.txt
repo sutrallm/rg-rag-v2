@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT_PATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Following the right path through diligence leads to the achievement of liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

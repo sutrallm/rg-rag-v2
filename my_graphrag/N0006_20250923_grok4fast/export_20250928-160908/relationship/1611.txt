@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Hatred forms part of the afflictions invading the mind unless guarded.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE LEARNINGS</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Concentration is a key component of the three learnings practiced by saints.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

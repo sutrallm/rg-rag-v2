@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DING LI</source_entity>
+    <target_entity>TAN CHEN CHI</target_entity>
+    <relationship_description>Ding Li, combined with precepts and wisdom, enables complete extinguishing of Tan Chen Chi.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

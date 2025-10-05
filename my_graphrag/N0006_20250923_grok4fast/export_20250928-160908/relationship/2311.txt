@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JOY AND STABILITY</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Joy and stability from meditation guide to higher wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

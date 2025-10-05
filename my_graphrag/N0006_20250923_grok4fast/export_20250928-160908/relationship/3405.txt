@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGLIGENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Avoiding negligence leads to the path of nirvana, while indulging in it blocks liberation and peace.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

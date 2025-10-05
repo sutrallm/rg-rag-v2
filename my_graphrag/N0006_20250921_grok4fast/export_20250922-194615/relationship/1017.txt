@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH LORD</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligent non-lax practitioners avoid control by the Death Lord, achieving extended life and liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

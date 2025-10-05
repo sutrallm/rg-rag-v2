@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY ONES</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Holy ones thoroughly sever afflictions through precepts, wisdom, diligence, and abiding in stillness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

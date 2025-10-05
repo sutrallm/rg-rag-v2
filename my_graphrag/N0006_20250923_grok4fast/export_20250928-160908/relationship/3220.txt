@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL_LIBERATION</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Mental liberation is obtained through the practice of meditation, freeing the mind from bonds.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

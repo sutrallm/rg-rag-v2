@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Saints eradicate the three poisons through diligent cultivation supported by precepts and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

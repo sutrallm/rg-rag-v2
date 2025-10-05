@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Diligent practice is necessary to truly master meditation and avoid heedlessness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

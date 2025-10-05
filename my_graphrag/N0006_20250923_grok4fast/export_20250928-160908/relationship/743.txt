@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>GOOD DESTINATIONS</target_entity>
+    <relationship_description>Non-negligence leads to achievement of good destinations in future lives.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

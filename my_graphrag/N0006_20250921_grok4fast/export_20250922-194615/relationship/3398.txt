@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOURTH JHANA</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>The fourth jhana involves the mind equally guarding mindfulness in a state of equanimity without pain or pleasure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

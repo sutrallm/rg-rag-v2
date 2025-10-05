@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>DEVAS</target_entity>
+    <relationship_description>Awakened beings inspire respect in the hearts of devas through their ethical purity, wisdom, and eradication of afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

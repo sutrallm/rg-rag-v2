@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAN CHU</source_entity>
+    <target_entity>YU CHI</target_entity>
+    <relationship_description>Mindfulness practice purifies the mind from delusion through sustained awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>FOUR SUFFERINGS</target_entity>
+    <relationship_description>Abiding in concentration allows unshaken stability even amid the changes of birth and death sufferings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

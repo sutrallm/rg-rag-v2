@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDOLENCE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Non-indolence allows practitioners to master the method of meditation and avoid the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

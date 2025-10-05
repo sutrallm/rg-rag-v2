@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR DHAYANAS AND CESSATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Through progressive attainment from the first to the fourth dhyana and cessation, all afflictions are eradicated, enabling complete freedom from their binding influence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

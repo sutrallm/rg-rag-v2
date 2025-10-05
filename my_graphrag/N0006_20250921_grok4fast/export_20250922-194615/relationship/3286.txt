@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>EXAMPLE FORMAT</target_entity>
+    <relationship_description>The query references an example format that has been consulted for processing guidelines.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

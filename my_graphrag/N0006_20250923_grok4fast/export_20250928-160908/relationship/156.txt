@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUPREME BODHI</target_entity>
+    <relationship_description>Wisdom culminates in supreme Bodhi, the state of full awakening.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

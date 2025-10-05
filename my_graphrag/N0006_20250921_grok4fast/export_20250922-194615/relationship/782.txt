@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISENCHANTMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Disenchantment born from impermanence turns practitioners away from sensual pleasures toward the path of liberation, avoiding prolonged rebirth suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

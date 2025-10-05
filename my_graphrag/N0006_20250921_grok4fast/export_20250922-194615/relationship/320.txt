@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Liberation involves insight into impermanence, preventing clinging to any state or phenomenon.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

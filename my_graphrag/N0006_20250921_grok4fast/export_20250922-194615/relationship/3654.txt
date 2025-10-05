@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Laxity blocks the path to liberation, preventing escape from suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom transcends suffering by洞察 impermanence, suffering itself, and no-self, allowing complete liberation from birth, death, and mental disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

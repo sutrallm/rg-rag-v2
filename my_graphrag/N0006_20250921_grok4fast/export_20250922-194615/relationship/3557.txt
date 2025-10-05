@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>THREE REALMS</target_entity>
+    <relationship_description>Nirvana represents freedom beyond the binding influences of the three realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>INDOLENCE</target_entity>
+    <relationship_description>The three poisons bind and perpetuate the state of indolence, leading to further suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

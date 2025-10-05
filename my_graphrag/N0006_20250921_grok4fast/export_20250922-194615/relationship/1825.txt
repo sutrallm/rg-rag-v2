@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Indulgence perpetuates the rebirth cycle through unresolved afflictions and ignorance, preventing escape from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

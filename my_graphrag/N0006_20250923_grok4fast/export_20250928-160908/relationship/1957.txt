@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-INDULGENCE</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Non-indulgence manifests as diligence and non-laxity in continuous spiritual effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

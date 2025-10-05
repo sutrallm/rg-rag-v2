@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Laxity allows greed to dominate practitioners, causing suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>
