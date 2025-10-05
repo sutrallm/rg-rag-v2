@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者已具足禅定的成就，其安住宁静、不随境转的特质，是禅定成熟的外在表现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

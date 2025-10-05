@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>圣者通过无我观彻底破除我见与命根之执，是其能断尽三毒、获得解脱的根本实践方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

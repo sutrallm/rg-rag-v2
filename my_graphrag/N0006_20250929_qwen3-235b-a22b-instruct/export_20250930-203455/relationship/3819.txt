@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>厌离</target_entity>
+    <relationship_description>如实观察无常能生起厌离，是无常认知引发的心理转化。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

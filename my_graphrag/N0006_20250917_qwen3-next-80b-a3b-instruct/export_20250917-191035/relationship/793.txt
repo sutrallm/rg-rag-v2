@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wisdom arises from deep chanding and, in turn, illuminates the nature of experience, refining and deepening meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

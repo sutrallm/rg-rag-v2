@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DANGXIA</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Continuous practice (jingjin) is only possible when anchored in the present moment, making mindfulness the active vehicle of diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUSUODEJIUJIE</target_entity>
+    <relationship_description>Niepan is the state described as wusuodejiujiem — freedom beyond seeking, possessing, or conceptualizing any spiritual attainment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>中道正是通向解脱的唯一正道，不偏不倚地脱离所有执取，契合解脱本质。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

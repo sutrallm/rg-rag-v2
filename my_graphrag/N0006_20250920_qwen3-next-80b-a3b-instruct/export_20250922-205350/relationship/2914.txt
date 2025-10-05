@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>戒是解脫三學的起點，雖然不直接帶來解脫，但為定與慧的生起提供必要條件，是解脫的基礎。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者已证得究竟解脱，彻底断除烦恼，不再轮回，是解脱的体现者。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

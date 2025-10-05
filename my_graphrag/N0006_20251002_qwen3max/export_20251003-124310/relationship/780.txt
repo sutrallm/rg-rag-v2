@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>惛沉</target_entity>
+    <relationship_description>禅定要求心不惛沉，惛沉是禅修中需克服的障碍之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Chanding leads to the realization that mental states and identities lack inherent selfhood, enabling detachment from the illusion of a fixed self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

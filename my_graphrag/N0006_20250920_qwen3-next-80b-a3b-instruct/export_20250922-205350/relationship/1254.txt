@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIANG BUJIA WAIQIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiuliang bujia waiqiu teaches that Chanding is not dependent on external conditions but is cultivated internally through moment-to-moment awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

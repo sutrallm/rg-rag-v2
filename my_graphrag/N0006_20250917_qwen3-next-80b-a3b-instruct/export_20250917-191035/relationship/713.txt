@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Chanding, when guided by wisdom, naturally leads to non-attachment by calming the mind and revealing the transient nature of all mental phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

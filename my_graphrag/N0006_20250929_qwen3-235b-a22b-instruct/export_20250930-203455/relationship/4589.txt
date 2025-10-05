@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无漏解脱</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>无漏解脱是贪嗔痴及我执、法执彻底断除的状态，心不再被任何境界所染。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

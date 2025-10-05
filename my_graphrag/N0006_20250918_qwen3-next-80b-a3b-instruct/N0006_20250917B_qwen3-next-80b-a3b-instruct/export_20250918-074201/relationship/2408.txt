@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>TRIPLE ROOTS</target_entity>
+    <relationship_description>Noble Ones have completely eradicated the triple roots of greed, hatred, and delusion, making this a defining characteristic.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

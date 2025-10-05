@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进者</source_entity>
+    <target_entity>steadfast</target_entity>
+    <relationship_description>唯有 steadfast 不懈，方能证得禅定之力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

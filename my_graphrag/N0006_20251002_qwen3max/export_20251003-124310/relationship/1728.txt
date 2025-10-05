@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轻安</source_entity>
+    <target_entity>离执</target_entity>
+    <relationship_description>文本强调禅定中的轻安体验也不应执取，说明对轻安的离执是修行者智慧与无执的表现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

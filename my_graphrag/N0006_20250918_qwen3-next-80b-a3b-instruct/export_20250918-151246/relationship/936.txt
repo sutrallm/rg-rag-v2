@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONK/SAGE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Monks/sages exemplify non-attachment by not clinging even to spiritual achievements or concepts of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

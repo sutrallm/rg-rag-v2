@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>禅定旨在远离散乱，通过专注与正念对治心念的飘散，使内心趋于平静。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

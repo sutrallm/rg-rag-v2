@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Craving and aversion (贪嗔) are mental disturbances that hinder the establishment of meditative absorption (禅定).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

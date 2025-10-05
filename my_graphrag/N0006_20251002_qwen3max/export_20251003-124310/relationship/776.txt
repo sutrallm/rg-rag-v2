@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>修行者需以正见为导，避免落入邪定或错误修行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

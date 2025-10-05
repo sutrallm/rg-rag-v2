@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without persistent effort, chanding cannot be stabilized or deepened.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

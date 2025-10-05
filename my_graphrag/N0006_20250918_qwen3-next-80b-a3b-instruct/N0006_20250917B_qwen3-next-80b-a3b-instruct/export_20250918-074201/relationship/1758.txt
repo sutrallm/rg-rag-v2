@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGBU</target_entity>
+    <relationship_description>Jingjin is the practice that enables one to transcend Shengbu (samsara), as persistent effort breaks the chains of ignorance and craving that bind beings to cyclic existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

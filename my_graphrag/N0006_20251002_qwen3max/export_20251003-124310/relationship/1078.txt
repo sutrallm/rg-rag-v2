@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>觀慧</target_entity>
+    <relationship_description>正念是觀慧生起的必要條件，唯有持續覺知當下，才能如實觀察身心現象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

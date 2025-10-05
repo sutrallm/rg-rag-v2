@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执著</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>执著是对境界的贪爱或执取，会落入新的束缚，成为烦恼的一种形式，需以智慧破除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

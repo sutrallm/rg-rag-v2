@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realizing non-self dismantles the egoic structure that creates suffering; this insight is the core of liberation in Buddhism.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

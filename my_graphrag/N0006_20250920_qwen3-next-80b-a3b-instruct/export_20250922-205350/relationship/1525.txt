@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHIZHU</target_entity>
+    <relationship_description>Chanding leads to Chizhu; through deep concentration, one gains insight into the true nature of phenomena and transcends attachment to meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

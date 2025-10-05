@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINDEJUEXING</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Xindejuexing is the practical expression of Jiefu — true freedom is realized in daily awareness, independent of external conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

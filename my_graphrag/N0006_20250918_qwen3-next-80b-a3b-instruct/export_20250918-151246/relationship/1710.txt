@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGNZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>ShengnZhe (the noble one) dwells in Niepan (nirvana), as their mind is permanently free from clinging and agitation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

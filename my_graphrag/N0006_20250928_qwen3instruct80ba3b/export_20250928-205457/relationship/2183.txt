@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is taught by the Buddha as a core practice for mental purification and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

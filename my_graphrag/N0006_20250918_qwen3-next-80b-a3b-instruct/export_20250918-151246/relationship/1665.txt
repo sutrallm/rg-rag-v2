@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RÍCHÁNG SHÍXÍ</source_entity>
+    <target_entity>ZHÌHUÌ</target_entity>
+    <relationship_description>Daily mindfulness turns ordinary thoughts and breaths into material for developing insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Insight into impermanence is a primary catalyst for awakening — it shatters delusion and leads to the cessation of suffering, which is Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

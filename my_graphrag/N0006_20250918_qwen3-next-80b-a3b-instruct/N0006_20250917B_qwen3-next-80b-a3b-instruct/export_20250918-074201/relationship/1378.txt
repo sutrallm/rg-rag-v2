@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者 (THE SAINTLY ONE)</source_entity>
+    <target_entity>清淨戒行 (PURE ETHICAL CONDUCT)</target_entity>
+    <relationship_description>The saintly one possesses and embodies pure ethical conduct as part of their perfected nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

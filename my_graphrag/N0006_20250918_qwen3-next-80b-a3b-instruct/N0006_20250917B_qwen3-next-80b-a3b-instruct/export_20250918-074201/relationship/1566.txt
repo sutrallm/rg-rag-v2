@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>The Shengzhe is defined by the full maturation of Zhihui, possessing direct, unwavering insight into reality beyond conceptual thought.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心自由</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>内心自由是禅定与智慧共同成就的状态，禅定使心不被外境所转，从而实现如如不动的自在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

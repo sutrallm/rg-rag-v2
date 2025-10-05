@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LETTING GO</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Letting go can only occur in the present moment, as it requires recognizing the impermanence and insubstantiality of objects of attachment right now, making the present moment the practical locus of release.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

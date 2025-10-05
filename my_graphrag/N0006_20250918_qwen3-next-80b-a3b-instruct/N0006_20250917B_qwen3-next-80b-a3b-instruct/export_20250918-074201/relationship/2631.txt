@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>攀緣</target_entity>
+    <relationship_description>聖者斷盡攀緣，心不向外執取，這是其內心寂靜的表現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

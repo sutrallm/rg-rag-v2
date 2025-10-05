@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>GAN CHENG</target_entity>
+    <relationship_description>Wu Ming (ignorance) fuels Gan Cheng (anger and aversion), as misunderstanding reality leads to resistance and emotional reactivity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETI</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Jieti supports hui by creating the mental clarity and ethical stability from which wisdom naturally emerges through sustained practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

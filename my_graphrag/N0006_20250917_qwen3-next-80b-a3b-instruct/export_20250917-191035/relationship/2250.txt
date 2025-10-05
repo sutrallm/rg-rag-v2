@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Chanding, when combined with wisdom and diligence, is the direct path to liberation from suffering and samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

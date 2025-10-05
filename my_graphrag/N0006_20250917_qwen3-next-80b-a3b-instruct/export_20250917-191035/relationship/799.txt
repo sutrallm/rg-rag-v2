@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Mindfulness supports exertion by maintaining alertness and moment-to-moment awareness, essential for continuous practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOHUANXIANG</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Wohuanxiang is the experiential realization underlying wuzhu—the insight that there is no self to cling to, which naturally leads to non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

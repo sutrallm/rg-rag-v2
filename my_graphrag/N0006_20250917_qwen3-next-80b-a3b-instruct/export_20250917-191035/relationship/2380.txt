@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHU YUE ZHU ZHAI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True Chanding is not mere calmness but is stabilized by the wisdom of non-attachment, preventing clinging to meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

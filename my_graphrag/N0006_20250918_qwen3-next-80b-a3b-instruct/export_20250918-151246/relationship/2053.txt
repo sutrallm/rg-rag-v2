@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE MORALITY</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Saints are defined by their flawless moral conduct; pure morality is an essential trait of saintly beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

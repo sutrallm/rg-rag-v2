@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>智慧透過洞察萬法無常、苦、無我，能徹底斷除對境界的執著，從而根除貪瞋癡等根本煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

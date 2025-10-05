@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>MINDFUL OBSERVATION</target_entity>
+    <relationship_description>Cultivators practice mindful observation to purify their minds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

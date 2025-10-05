@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅那</source_entity>
+    <target_entity>四禅</target_entity>
+    <relationship_description>四禅是禅那的第四个次第境界，舍乐舍苦，无苦无乐，住于清净平等舍。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

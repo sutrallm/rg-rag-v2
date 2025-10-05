@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>STILL_WATER</target_entity>
+    <relationship_description>The still water metaphor symbolizes the outcome of successful chanding—mental calmness impervious to external changes.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

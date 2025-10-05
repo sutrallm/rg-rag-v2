@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺知</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>覺知使人能如實觀察煩惱的生起（如昏沉、掉舉），並以智慧看待其無常本質，而非壓抑或追逐。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

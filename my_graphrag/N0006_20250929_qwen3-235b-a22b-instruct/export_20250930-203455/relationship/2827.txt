@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>禅定中如实观察身心现象，能了知苦的生起与灭去，从而超越苦的束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

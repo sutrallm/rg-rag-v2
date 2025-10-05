@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>修行者通过禅修培养轻安与喜悦，进而安住于超越欲界的寂静境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧的功能即在破除執著，二者為對治關係，智慧為解藥，執著為病。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

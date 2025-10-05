@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>智慧的核心体证即是无我，唯有通过智慧观照，才能彻底洞见无我实相，断除我执。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

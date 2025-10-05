@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>RIGHT PATH</target_entity>
+    <relationship_description>DILIGENT PRACTICE involves adhering to the RIGHT PATH for spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

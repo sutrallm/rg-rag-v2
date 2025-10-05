@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正見</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>正見是修行次第的起始與導引，確保後續戒定慧修習方向正確。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

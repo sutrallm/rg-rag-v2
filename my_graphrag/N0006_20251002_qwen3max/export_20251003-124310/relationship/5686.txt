@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>五蘊、十二處、十八界</target_entity>
+    <relationship_description>五蘊、十二處、十八界是智慧觀照的具體對象，透過觀察它們的無常、苦、無我本質而生起內觀智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

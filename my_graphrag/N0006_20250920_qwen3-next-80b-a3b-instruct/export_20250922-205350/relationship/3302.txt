@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>智慧透過觀照「苦」的本質，理解所有執取皆帶來痛苦，從而生起出離心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

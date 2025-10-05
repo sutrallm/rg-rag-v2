@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Stillness, as the absence of inner disturbance, is both a symptom and condition of liberation—when afflictions cease, stillness naturally abides.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

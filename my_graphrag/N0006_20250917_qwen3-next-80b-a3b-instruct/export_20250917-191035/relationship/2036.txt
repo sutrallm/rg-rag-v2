@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>禅定是修习的基础，而超越执着的智慧是禅定的深化与升华，使人不执著禅定本身。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

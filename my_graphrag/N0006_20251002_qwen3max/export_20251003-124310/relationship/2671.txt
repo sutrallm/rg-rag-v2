@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>我慢</target_entity>
+    <relationship_description>智慧能斷除我慢，使修行者即使有所成就亦不生驕傲與執取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

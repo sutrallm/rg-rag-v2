@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>IDLENESS</target_entity>
+    <relationship_description>MEDITATION helps practitioners overcome IDLENESS through consistent effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

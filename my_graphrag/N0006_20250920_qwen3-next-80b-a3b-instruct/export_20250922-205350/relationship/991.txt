@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念为智慧提供觉察的基础，唯有持续觉照，方能如实了知诸法实相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>无常观能有效对治执着，通过体悟诸法无常，减少对境界与成果的贪恋。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

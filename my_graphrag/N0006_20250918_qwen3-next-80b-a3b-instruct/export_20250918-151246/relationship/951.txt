@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_FAITH</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>True faith includes deep trust in and realization of non-self as an essential insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

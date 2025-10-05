@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHÍHUÌ</source_entity>
+    <target_entity>HRUHUÀN</target_entity>
+    <relationship_description>Chíhuì includes the insight that all phenomena are hruhuàn (illusory), recognizing their dependent, transient nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

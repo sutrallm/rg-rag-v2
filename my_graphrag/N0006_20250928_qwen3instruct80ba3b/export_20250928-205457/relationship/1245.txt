@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is defined as the cessation of suffering through the elimination of its causes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

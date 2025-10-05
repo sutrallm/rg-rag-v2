@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_ONE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>A Noble One has dispelled ignorance through wisdom and sees reality as it truly is.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

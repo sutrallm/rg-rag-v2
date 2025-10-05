@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是调伏心的方法，使散乱如野马的心逐渐澄澈，安住于专注与觉知。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

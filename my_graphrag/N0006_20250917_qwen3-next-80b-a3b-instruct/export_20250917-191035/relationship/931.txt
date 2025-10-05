@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧的修行核心之一就是如實觀照諸法無常，無常是智慧觀照的主要對象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>FLICKERING LAMP</target_entity>
+    <relationship_description>A scattered mind is compared to a flickering lamp that cannot steadily illuminate truth, illustrating instability in meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

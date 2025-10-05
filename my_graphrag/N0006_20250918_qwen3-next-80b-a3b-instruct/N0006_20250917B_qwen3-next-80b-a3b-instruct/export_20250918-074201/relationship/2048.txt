@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chanding provides the mental stillness necessary for Chaoshi (wisdom) to arise. However, true wisdom prevents clinging to the pleasant states of chanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

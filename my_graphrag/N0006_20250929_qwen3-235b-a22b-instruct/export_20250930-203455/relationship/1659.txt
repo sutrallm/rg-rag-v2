@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>空性</source_entity>
+    <target_entity>实相</target_entity>
+    <relationship_description>空性是实相的核心内涵，指诸法缘起而性空，是智慧体证的终极真理。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

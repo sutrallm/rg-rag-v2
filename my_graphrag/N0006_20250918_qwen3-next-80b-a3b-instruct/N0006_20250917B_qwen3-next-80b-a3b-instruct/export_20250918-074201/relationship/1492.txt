@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>GAN</target_entity>
+    <relationship_description>Realization of wuwo (non-self) undermines the foundation of gan, since attachment requires a sense of “I” and “mine” to cling to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

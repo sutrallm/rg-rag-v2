@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>正念 is the active application of the Four Foundations of Mindfulness in daily life, making mindfulness the operational expression of the four contemplations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

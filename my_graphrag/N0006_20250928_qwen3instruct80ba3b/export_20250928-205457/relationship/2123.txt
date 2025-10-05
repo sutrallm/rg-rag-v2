@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>佛陀的教法核心即为戒定慧三学，是其亲自开示的解脱之道。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELIGIOUS PRACTICE</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Religious practice includes cultivating mindfulness as a core discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

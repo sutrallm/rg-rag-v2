@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE WISDOM</source_entity>
+    <target_entity>REALITY</target_entity>
+    <relationship_description>True wisdom directly perceives ultimate reality, which is central to the '如实了知' insight practice described in the source text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

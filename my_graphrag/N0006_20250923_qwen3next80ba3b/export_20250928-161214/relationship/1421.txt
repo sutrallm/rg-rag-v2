@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>METAPHORS</target_entity>
+    <relationship_description>The Buddha uses metaphors as a teaching method to convey deeper doctrinal truths.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

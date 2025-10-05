@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the practical method through which one cultivates wuwo (non-self) insight by observing the transient nature of mental phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>中道的修行態度直接對治執著的二元取捨，是超越執著的實踐方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

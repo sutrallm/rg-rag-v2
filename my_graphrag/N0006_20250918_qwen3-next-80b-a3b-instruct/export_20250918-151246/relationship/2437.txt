@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZENGBUJIAN</source_entity>
+    <target_entity>ZAIZHITI</target_entity>
+    <relationship_description>Wu Zeng Bu Jian embodies the perfected state of zaizhi—seeing reality without clinging to or rejecting any experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

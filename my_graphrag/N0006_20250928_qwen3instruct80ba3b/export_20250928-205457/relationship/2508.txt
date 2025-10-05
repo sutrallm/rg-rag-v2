@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>定是生起智慧的樞紐，心若散亂則無由觀照實相，唯有定中才能生起如实之慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

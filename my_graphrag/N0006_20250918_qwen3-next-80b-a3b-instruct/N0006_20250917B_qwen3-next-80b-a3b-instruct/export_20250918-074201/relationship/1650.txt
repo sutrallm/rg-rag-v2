@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>SHENGREN</target_entity>
+    <relationship_description>Shengren embodies the full realization of chaoshi—seeing all phenomena as impermanent and non-attached, thus achieving liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

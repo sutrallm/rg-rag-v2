@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STRENuous EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Strenuous effort sustains chanding by preventing sloth and distraction, ensuring consistent practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

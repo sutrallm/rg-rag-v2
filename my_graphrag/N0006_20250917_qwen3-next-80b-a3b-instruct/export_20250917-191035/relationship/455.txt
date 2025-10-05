@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI YU CI BEI</source_entity>
+    <target_entity>JIE Tuo</target_entity>
+    <relationship_description>Jie Tuo (liberation) is achieved not by wisdom or compassion alone, but by their harmonious integration—wisdom sees truth, compassion acts without attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

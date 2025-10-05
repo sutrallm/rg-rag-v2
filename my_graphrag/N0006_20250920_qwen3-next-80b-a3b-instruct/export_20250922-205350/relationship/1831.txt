@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念 (MINDFULNESS)</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness is the essential mental factor that supports and sustains meditative concentration by keeping attention anchored in the present.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

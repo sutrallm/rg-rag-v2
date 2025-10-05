@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>The three poisons fuel karma and perpetuate the cycle of rebirth; their cessation is necessary for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

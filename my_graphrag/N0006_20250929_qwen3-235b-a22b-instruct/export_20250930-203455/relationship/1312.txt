@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>无我是无我观所观照的核心真理，观无我可破除我执，远离忧恼与恐惧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

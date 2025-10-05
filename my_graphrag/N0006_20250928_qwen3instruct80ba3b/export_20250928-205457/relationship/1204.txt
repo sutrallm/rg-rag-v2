@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Delusion is the root of greed; misunderstanding reality leads to clinging and craving.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

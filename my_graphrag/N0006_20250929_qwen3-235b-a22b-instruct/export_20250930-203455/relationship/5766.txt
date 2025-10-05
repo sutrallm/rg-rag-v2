@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>鸟之双翼</target_entity>
+    <relationship_description>正念是智慧与慈悲如鸟之双翼的实践基础，支撑修行者飞向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

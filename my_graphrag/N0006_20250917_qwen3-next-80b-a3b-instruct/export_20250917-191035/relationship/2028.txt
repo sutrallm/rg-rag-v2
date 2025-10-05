@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧的圆满</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧的圆满即是究竟的自由，直接等同于解脱状态，是解脱的表现形式。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

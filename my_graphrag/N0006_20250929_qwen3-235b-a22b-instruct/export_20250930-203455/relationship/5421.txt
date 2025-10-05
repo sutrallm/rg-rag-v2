@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>禅定次第</target_entity>
+    <relationship_description>禅定的修习遵循禅定次第，从专注到无念无住，逐步净化心识。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

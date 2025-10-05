@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死轮回</source_entity>
+    <target_entity>痛苦</target_entity>
+    <relationship_description>生死轮回是痛苦持续流转的结构，两者紧密相连，解脱即脱离此轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

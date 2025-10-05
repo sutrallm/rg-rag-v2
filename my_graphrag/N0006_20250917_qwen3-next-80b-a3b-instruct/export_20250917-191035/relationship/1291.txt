@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>The Threefold Training is the designated path to transcend samsara and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

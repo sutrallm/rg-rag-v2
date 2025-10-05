@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>True renunciation (sheli) — non-attachment and non-seeking — is the path and condition for attaining jiede (liberation).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

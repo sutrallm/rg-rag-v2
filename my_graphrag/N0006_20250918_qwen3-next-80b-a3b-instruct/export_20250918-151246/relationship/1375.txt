@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>AN ZHU</target_entity>
+    <relationship_description>Realizing Wu Wo (non-self) allows the mind to An Zhu (abide) without clinging, creating a state of deep, unshakable peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

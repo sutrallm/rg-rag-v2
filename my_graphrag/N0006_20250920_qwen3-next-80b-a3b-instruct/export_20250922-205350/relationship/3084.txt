@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者的特质是已断尽贪、嗔、痴三毒，标志着其彻底的解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

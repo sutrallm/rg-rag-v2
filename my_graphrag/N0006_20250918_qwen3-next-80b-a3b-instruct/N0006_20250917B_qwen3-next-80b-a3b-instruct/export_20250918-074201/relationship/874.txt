@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA (NO-SELF)</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Insight into no-self directly supports non-attachment, as there is no permanent "I" to cling to or be affected by fleeting experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>禪定需要持續的精進修行才能深化，若懈怠則易落入散亂與無明，無法真正得定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDING ATTACHMENT</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Practicing TRANSCENDING ATTACHMENT results in NON-ATTACHMENT.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

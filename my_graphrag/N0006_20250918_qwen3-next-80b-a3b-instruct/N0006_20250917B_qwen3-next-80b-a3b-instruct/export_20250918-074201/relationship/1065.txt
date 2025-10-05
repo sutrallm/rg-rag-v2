@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>REBIRTH_CYCLES</target_entity>
+    <relationship_description>Delusion (ignorance) is one of the primary causes that keep beings trapped in the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

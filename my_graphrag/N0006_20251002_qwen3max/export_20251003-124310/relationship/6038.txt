@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>平等捨心</target_entity>
+    <relationship_description>心解脫的狀態體現為面對順逆境界皆能保持平等捨心，不生愛憎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

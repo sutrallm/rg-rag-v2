@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The root cause of bondage—delusion—must be uprooted to attain liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

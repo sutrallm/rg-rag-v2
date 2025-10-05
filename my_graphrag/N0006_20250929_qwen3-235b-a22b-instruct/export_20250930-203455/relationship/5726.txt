@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>修行者通过无我观破除我执，这是获得真正自在与解脱的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

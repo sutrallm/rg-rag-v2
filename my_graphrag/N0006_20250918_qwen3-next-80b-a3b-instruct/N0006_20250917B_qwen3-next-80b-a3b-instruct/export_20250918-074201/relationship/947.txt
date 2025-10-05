@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Hatred arises from delusion — misunderstanding the nature of experience leads to aversion and anger.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

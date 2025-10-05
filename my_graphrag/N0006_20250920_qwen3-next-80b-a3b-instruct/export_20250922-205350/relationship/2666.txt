@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIJIE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chijie (ethical discipline) serves as the foundational support for Chanding, reducing mental distractions caused by unethical behavior and enabling deep concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

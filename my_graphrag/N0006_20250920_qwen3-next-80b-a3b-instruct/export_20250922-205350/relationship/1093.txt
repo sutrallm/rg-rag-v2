@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DING</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Ding stabilizes the mind to enable Hui — true insight — to arise. Without concentration, wisdom lacks depth and grounding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

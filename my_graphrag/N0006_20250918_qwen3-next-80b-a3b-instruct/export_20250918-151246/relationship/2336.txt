@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>FINAL LIBERATION</target_entity>
+    <relationship_description>Final liberation is defined by complete non-attachment—even to spiritual goals; thus, non-attachment is the defining quality of ultimate freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

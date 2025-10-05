@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>專注</target_entity>
+    <relationship_description>正念與專注共同構成禪定的基礎，二者相輔相成，使心安定不散亂。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

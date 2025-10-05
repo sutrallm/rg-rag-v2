@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>精进修行的最终导向是培养超越执着的智慧，两者共同作用以断除无明与贪欲。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

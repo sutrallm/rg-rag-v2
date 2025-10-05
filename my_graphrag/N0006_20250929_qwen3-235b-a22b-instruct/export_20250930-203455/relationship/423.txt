@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>修行成果</target_entity>
+    <relationship_description>神通不是真正的修行成果，不应执着，真正的成果在于心性转化。</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

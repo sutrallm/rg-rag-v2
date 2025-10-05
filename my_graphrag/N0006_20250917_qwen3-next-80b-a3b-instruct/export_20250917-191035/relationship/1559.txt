@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-CLINGING WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-clinging wisdom is the direct path to nirvana, as it prevents attachment to spiritual experiences that can become subtle forms of bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

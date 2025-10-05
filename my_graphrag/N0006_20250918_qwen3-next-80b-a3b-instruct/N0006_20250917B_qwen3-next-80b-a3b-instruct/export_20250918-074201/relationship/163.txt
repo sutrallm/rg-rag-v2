@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Without consistent Jing Jin, the development of deep Zhineneng is impossible, as insight requires sustained effort to cultivate.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

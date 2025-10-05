@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定是智慧生起的基礎，透過禪修穩定心念後，才能如實觀察萬法本質，證得透徹智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

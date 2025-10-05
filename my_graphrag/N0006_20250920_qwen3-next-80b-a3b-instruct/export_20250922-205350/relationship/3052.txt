@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIE-DING-HUI</target_entity>
+    <relationship_description>Chanding is the middle stage in the Jie-Ding-Hui sequence—it arises from discipline and gives rise to wisdom, forming the core pathway to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

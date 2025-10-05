@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Sages are defined by their possession of authentic wisdom that sees the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

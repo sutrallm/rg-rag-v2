@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saintly beings have completely transcended aversion and anger, remaining equanimous in all conditions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

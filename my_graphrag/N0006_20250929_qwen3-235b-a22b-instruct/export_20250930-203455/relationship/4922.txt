@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>调伏</target_entity>
+    <relationship_description>修行者需持续调伏内心，即使已得禅定或智慧，仍须警惕懈怠与骄慢。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

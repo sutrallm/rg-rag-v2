@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒是禅定的基础，清净的持戒能减少外在与内心的干扰，使禅定更容易成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>精進修行是持續修行的實踐，唯有不懈怠才能突破無明與貪瞋，最終達成解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

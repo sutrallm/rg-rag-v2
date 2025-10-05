@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Without moral discipline, the mind remains scattered and incapable of generating deep wisdom, making precepts an essential prerequisite.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

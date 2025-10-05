@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANGGUAN</source_entity>
+    <target_entity>WUZHIZHINO</target_entity>
+    <relationship_description>Wuchangguan (contemplation of impermanence) is the practical technique that generates Wuzhi (transcending attachment) by revealing the transient nature of all objects of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

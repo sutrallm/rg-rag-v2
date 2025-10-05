@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>圣者安住于寂静，不攀缘外境与内境，这是其解脱境界的表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

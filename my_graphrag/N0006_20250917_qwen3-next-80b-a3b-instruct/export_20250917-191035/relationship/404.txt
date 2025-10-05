@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY CHARACTER</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saintly individuals overcome Delusion through right view and mindfulness, allowing suffering to naturally cease.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

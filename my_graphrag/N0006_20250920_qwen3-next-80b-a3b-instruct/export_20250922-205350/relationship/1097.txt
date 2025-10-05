@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhihui is the insight that realizes Wuwo — that there is no self, no experiencer, no possessor of attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

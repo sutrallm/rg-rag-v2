@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>正念属于三学中的“定”，是保持觉知、不随妄念流转的核心实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

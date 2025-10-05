@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>正见是八正道的第一支，以如实知见四圣谛为核心，为整个修行提供方向。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

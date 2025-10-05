@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIMILE</source_entity>
+    <target_entity>DOCTRINAL MEANING</target_entity>
+    <relationship_description>SIMILEs are transformed into direct DOCTRINAL MEANING to maintain doctrinal clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

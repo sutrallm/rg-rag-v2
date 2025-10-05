@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding requires sustained mindfulness to maintain focus and prevent mental distraction, forming the essential basis for meditative stability.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

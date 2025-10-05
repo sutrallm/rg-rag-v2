@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>正念通过持续觉察，能逐渐瓦解无明习气，使心不再被妄想与执取所控制。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

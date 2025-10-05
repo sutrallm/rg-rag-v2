@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>MERIT</target_entity>
+    <relationship_description>Following ethical precepts leads to the accumulation of merit for beneficial karmic results.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWOGUANZHAO</source_entity>
+    <target_entity>WUWU</target_entity>
+    <relationship_description>Wuwoguanzhao is the meditative practice that directly leads to the realization of Wuwu — the absence of a fixed self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

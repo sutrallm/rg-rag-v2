@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念是禅定的基础，通过觉知四念处，使心专注不散乱，是禅定实践的起点。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

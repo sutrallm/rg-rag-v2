@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>聖者已踏上涅槃之道，其持戒、禪定與智慧的修行直接導向涅槃的證得。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

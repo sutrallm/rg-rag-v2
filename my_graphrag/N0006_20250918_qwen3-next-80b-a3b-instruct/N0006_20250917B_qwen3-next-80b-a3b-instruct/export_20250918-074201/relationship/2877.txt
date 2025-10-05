@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUQIU WUDE</source_entity>
+    <target_entity>WUWEI DAO</target_entity>
+    <relationship_description>Wuqiu Wude (non-seeking, non-attaining) is the practical expression of the Wuwei Dao — liberation manifests spontaneously when effort is released.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

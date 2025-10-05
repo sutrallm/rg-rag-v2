@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>解脱必须通过戒、定、慧三学相辅相成的修行路径实现，三学是解脱的必经之路。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>通过观五蕴非我、非我所，可破除我执，消融“我”的错觉。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

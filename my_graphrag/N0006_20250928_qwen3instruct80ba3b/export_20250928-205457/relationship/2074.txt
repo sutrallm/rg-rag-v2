@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Shengzhi manifests as the direct realization of Wuwo (non-self), recognizing that all phenomena lack an enduring self — the core insight of transcendent wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

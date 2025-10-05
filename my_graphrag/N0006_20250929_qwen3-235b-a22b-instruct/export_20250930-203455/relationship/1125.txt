@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四正勤</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>四正勤是精进的具体实践方法，通过四种努力方向推动修行进步，是精进在实践中的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>清淨戒行</target_entity>
+    <relationship_description>聖者以其清淨戒行為修行動基，是其覺悟狀態的外顯。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

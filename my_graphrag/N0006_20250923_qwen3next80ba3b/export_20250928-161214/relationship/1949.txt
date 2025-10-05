@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>THREE TRAININGS cultivate STILLNESS by integrating ethical discipline, concentration, and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

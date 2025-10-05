@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Four Foundations of Mindfulness develop awareness through continuous observation of body, feelings, mind, and phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

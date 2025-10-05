@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>平常心</target_entity>
+    <relationship_description>涅槃並非超自然狀態，而即是平常心——不攀緣、不排斥、安住當下的本然。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

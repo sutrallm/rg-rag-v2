@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>精進修行是對抗生死輪迴的途徑，使人不被其吞噬。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

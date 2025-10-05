@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Hui (wisdom), when fully developed, eradicates ignorance and craving, leading directly to niepan—the cessation of all suffering and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

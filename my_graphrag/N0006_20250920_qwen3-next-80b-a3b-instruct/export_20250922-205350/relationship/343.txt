@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Zhengnian is the practical manifestation of jingjin — constant alertness in daily activities as the essence of diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

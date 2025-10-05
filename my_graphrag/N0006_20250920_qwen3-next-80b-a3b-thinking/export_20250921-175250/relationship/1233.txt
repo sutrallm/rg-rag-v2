@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YUN</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>The illusory nature of the five aggregates (Wu Yun) demonstrates the concept of non-self (Wu Wo).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

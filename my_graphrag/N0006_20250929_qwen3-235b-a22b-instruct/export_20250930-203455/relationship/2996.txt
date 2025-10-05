@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>四圣谛必须亲身体证才能实现解脱，是理论与实践结合的核心教义。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

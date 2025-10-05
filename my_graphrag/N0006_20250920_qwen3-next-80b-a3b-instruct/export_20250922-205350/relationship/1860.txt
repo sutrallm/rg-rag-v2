@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>STORAGE OF SACRED PRECEPTS (JIE)</target_entity>
+    <relationship_description>Chanding is built upon the foundation of ethical discipline; without moral purity, meditative concentration remains unstable.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

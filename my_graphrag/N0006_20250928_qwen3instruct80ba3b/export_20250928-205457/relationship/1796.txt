@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU GAI</target_entity>
+    <relationship_description>Saints have completely eradicated the five hindrances; their minds are free from desire, aversion, sloth, restlessness, and doubt.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

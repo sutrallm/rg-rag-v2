@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>智慧的核心内容是如实观照无常，通过观无常破除我执，是智慧运作的具体途径。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

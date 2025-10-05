@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True practice is the method through which chanding is cultivated in everyday life, not confined to formal sitting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

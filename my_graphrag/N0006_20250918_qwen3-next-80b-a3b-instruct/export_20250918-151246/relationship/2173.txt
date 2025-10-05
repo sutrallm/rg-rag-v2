@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>JIE_DING_HUI</target_entity>
+    <relationship_description>The Buddha taught the threefold training (morality, concentration, wisdom) as the sole path to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>MONK</target_entity>
+    <relationship_description>The Buddha is instructing the monk regarding the teachings on the five aggregates and impermanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

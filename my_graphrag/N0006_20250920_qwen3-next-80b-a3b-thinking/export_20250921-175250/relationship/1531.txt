@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONKS</source_entity>
+    <target_entity>STRONG MAN</target_entity>
+    <relationship_description>Monks are instructed to emulate the strong man’s unyielding discipline in spiritual practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪求</source_entity>
+    <target_entity>飞蛾</target_entity>
+    <relationship_description>The act of craving is metaphorically compared to a moth flying toward flame.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念观照</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念观照在不评判的觉知中生起如实了知，是智慧发展的直接前提。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

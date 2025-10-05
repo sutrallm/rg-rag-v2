@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止觀</source_entity>
+    <target_entity>戒定慧三學</target_entity>
+    <relationship_description>止觀是戒定慧三學中「定」與「慧」的具體實踐方法，修行者需逐步修習止觀以圓滿三學。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

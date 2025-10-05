@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Stillness is a signature state of the liberated mind, reflecting the unshakable calm of nirvana, beyond reactivity and disturbance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

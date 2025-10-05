@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGDAO</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Zhongdao (Middle Way) is the correct perspective from which zhihui (wisdom) arises: avoiding extremes of attachment and negation allows for clear seeing of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

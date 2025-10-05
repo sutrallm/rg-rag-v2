@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执取</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱的本质即是断除一切执取，唯有不执取，才能从轮回中彻底自由。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

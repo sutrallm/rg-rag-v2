@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五欲</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已超越五欲的牵引，不为感官享乐所迷，是其解脱的标志。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

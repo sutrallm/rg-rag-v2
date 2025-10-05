@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>WUZHAI</target_entity>
+    <relationship_description>Understanding impermanence directly diminishes attachment (wuzhai); if one sees all phenomena as fleeting, clinging becomes irrational and unsustainable.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

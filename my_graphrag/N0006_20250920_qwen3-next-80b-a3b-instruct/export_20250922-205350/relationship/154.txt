@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEXIE</target_entity>
+    <relationship_description>Chanding, when matured, leads directly to Jiexie — mental liberation through deep concentration and insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

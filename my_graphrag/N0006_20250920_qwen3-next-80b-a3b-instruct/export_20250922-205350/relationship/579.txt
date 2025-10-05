@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>圣者是修行成就的体现者，其特质与境界来自完整践行修行路径，是修行成果的具象化身。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

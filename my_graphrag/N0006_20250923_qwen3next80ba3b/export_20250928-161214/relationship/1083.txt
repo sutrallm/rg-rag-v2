@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>The query specifies using numbered titles for clear section headings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

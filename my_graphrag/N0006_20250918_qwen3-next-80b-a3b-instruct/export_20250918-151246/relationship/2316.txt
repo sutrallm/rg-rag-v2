@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Only through sustained effort can one break free from the afflictions and attain liberation from suffering and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

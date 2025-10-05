@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUE XING</source_entity>
+    <target_entity>NIAO TIAN WU CHANG</target_entity>
+    <relationship_description>Awake Daily Practice relies on recognizing the impermanent nature of thoughts to maintain mindful observation without identification.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

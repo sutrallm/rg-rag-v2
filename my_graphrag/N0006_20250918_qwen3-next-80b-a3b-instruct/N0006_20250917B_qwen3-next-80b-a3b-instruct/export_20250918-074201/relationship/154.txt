@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>WANG NIAN</target_entity>
+    <relationship_description>Chan Ding is the practice used to overcome and eliminate deluded thoughts, allowing the mind to settle into stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

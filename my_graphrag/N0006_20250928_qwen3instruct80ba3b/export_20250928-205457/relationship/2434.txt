@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPONTANEOUS AWARENESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Spontaneous awareness extends chanding beyond formal meditation into all aspects of life, making mindfulness constant and practical.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

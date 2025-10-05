@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在光明</source_entity>
+    <target_entity>本性</target_entity>
+    <relationship_description>内在光明是本性在无明剥除后自然流露的清净状态，二者本质相同。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

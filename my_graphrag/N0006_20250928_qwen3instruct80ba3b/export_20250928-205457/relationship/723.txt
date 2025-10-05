@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-attachment is the active practice leading to nirvana, as the cessation of clinging is what allows the mind to rest in the unconditioned state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

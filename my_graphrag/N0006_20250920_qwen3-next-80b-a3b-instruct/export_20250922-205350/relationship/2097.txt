@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>JIEYUAN</target_entity>
+    <relationship_description>Zhinen is the key to achieving jieyuan (liberation), as wisdom dissolves attachment, the root cause of bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

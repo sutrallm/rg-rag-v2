@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>修行成果</target_entity>
+    <relationship_description>修行者的成果体现在烦恼减少、心安详、待人慈悲、处事无执，是实修的验证标准。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

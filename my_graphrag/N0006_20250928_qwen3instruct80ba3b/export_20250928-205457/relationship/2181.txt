@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA</source_entity>
+    <target_entity>SELF</target_entity>
+    <relationship_description>Anatta is the direct insight that the concept of "self" is an illusion — the two are in direct opposition.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

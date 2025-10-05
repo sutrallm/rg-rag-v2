@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者運用正念觀察感官接觸與身心現象，貫穿整個修行過程，從守護根門到內觀解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

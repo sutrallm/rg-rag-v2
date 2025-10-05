@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>清净</target_entity>
+    <relationship_description>守护六根是保持心识清净的重要方法，防止被外境牵引。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>佛陀是精进修行教法的创始人与教导者，其教法为修行者提供路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

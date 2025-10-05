@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN</source_entity>
+    <target_entity>JIAOZHI</target_entity>
+    <relationship_description>Xiulian embodies jiaozhi by cultivating awareness in every action, replacing reactive patterns with mindful pause and clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

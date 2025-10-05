@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>圣者具备清净戒律，戒律是其身心安稳、成就智慧的外在规范与基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

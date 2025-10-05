@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realizing no-self removes the root of attachment, which is essential for achieving liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六塵</source_entity>
+    <target_entity>我執</target_entity>
+    <relationship_description>世人因執著六塵（感官對象）而強化我執，誤將無常幻相視為真實幸福。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

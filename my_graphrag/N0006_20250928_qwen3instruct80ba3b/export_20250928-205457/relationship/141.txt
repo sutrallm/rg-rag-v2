@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>The Three Poisons are the fundamental roots that perpetuate the Rebirth Cycle through craving, aversion, and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

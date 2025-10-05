@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Meditation achieves a calm, undisturbed mental state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

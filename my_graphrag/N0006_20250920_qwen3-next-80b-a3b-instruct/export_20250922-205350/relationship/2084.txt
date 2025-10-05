@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANGGUAN</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Wuchangguan (contemplation of impermanence) is a primary method to cultivate wisdom (Hui) by directly observing the nature of conditioned existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

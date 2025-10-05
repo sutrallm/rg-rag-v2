@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness is the vigilant, ongoing awareness that stabilizes and protects chanding from deterioration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

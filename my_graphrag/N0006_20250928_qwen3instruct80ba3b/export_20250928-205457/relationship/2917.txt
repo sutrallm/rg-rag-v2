@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FINISHED_NIRVANA</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Finished Nirvana is the state where the Three Poisons — greed, hatred, and delusion — have been utterly extinguished, making their eradication the prerequisite for liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

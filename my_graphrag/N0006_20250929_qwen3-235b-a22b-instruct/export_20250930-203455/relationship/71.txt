@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>觉知是破除无明、断除烦恼的关键，是通向解脱的必要能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

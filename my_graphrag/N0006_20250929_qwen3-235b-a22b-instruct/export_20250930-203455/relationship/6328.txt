@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无常观能破除对“我”与“我所”的执着，是通向解脱的重要修行方法，需持续修习以真实体证。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

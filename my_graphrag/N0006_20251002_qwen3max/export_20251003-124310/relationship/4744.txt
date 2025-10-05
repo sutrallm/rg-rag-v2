@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>缘起</target_entity>
+    <relationship_description>正见建立在对缘起的如实知见之上，缘起是正见的核心内容之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

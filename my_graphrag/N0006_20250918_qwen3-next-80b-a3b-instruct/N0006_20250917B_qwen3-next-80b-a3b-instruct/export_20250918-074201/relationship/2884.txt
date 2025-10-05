@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修習的核心在當下</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>每一念放逸即延續輪迴，唯有安住當下才能終止輪迴。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

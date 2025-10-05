@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGXIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness practice (xingxiu) extends the scope of meditative concentration (chanding) beyond formal sitting, showing that chanding is not limited to sitting meditation but is a continuous awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

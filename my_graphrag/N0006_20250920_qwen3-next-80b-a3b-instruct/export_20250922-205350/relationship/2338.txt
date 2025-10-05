@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-REALIZATION</source_entity>
+    <target_entity>ALTRUISM</target_entity>
+    <relationship_description>Self-realization — inner freedom — is not separate from altruism; when the ego dissolves, compassion arises spontaneously as its natural expression.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

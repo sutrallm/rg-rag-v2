@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHICHENG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The wisdom of non-attachment (Zhicheng) is the practical expression of realizing non-self (Wuwo), allowing one to observe all experiences without clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

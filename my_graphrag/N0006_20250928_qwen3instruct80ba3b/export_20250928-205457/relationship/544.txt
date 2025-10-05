@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>煩惱由無明而起，無明是貪、瞋、痴三毒的根源，導致執取與輪迴。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

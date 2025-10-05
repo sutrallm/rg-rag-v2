@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>精进修行导向智慧的生起，二者共同作用，使人超越执着，走向解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

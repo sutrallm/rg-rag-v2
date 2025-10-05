@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Fannao arises from misperceiving the wuyun (five aggregates) as a permanent self, leading to attachment and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

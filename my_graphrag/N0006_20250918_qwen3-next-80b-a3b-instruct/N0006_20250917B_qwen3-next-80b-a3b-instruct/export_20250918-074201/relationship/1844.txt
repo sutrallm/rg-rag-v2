@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The realization of non-self is the defining insight of an enlightened being, who has fully let go of ego-clinging and thus attained liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

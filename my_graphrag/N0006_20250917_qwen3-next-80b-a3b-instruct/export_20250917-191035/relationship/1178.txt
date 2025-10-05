@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔恨</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>嗔恨扰乱心神，是阻碍禅定清净稳定的重要烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

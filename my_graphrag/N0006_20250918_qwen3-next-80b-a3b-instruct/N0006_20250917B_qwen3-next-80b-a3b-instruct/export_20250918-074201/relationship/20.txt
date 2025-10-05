@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YE LI</source_entity>
+    <target_entity>LUN HUI</target_entity>
+    <relationship_description>Karmic actions (Ye Li) bind individuals to the cycle of birth and death (Lun Hui) unless they are purified through insight and ethical conduct.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

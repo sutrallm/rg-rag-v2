@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Realization of non-self dissolves the illusion of a permanent “I,” which is fundamental to transcending attachment and achieving liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

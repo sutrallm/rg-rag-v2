@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>修行者需培养无常观以生起出离心，放下贪恋，转向内在解脱之道。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常生活</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者应将正念与觉知贯穿于行住坐卧等日常生活，使禅定与智慧融入一切情境，成就无时无刻的修行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

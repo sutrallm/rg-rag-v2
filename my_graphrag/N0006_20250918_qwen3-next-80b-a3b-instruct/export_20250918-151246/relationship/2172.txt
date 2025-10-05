@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOJIAO</source_entity>
+    <target_entity>FO TU</target_entity>
+    <relationship_description>Buddhism is the religious tradition founded upon the teachings of the Buddha.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

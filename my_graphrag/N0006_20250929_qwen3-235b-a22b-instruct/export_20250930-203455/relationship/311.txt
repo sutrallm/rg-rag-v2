@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离相修行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>离相修行避免落入修行之相，是真正契入无为法门、达成解脱的要义。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

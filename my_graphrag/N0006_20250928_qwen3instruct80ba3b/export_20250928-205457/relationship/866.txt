@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>圣者之所以形成，是因具足戒定慧三学的圆满修持，三学是成就圣者境界的必要条件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

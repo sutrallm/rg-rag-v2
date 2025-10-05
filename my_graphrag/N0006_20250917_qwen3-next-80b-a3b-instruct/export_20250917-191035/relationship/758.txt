@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AN_YU</source_entity>
+    <target_entity>PAN_ZHENG</target_entity>
+    <relationship_description>Meditative bliss should not be clung to; non-attachment to attainments is essential.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

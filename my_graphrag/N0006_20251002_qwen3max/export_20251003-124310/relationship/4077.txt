@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>外境</target_entity>
+    <relationship_description>六根接觸外境時，若無正念守護，心易隨之散亂或生起貪著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼的止息</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>烦恼的止息具体体现为贪嗔痴的减少乃至断除，是衡量修行是否得力的核心标准。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

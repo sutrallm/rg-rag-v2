@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>涅槃是智慧圆满实现的最终状态，没有智慧则无法证得涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

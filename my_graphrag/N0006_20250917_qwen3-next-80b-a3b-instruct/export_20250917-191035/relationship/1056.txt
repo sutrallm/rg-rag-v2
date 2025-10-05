@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Delusion is the fundamental root of samsara, as it causes misperception of reality and fuels craving and aversion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

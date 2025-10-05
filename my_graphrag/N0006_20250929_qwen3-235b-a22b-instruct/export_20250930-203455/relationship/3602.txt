@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>日常实践是禅定的延伸，将专注与正念融入吃饭、走路等行为中，使禅修无处不在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

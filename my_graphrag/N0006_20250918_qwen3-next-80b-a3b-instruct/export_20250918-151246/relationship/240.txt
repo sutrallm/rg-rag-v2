@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZAHI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zahi is the essential wisdom that leads to niepan—the realization of non-attachment and non-clinging is the very definition of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

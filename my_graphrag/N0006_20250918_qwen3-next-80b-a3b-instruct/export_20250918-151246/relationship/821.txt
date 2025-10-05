@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Fannao (afflictions) arise from and are sustained by wuming (ignorance), which misperceives reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

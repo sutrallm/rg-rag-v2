@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>无我是通向涅槃的直接条件，当无我彻底显现，束缚自然解除，即为涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

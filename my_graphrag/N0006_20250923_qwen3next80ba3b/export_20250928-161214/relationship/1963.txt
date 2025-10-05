@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER_QUERY</source_entity>
+    <target_entity>TEXT</target_entity>
+    <relationship_description>The user query currently lacks the required text content for processing tasks.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGRZHE</source_entity>
+    <target_entity>SHENGZHI</target_entity>
+    <relationship_description>A Shengzhe (saintly practitioner) embodies Shengzhi (transcendent wisdom) as part of their cultivated state of moral and mental purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定的本質是調伏自心使之穩定清明，心為禪定的載體與對象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

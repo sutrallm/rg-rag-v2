@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUSUODEJIUJIE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wusuodejiujiem is the experiential description of niepan — liberation that is not an attainment but the absence of clinging to any concept, including nirvana itself.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

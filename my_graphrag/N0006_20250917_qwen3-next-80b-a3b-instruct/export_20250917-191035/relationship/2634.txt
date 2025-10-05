@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>TRIPOD_OF_MIND</target_entity>
+    <relationship_description>A saintly being has completely eradicated the three poisons, making them the defining quality of who they are.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

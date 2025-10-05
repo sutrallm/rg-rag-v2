@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常行住坐卧</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念需在日常行住坐卧中落实，是修行者在一切活动中保持觉知的具体实践方式。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

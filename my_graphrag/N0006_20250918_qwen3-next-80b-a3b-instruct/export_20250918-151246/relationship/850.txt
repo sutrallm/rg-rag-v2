@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>真實智慧</target_entity>
+    <relationship_description>聖者因具足真實智慧而能斷除根本煩惱，智慧是其核心特質。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

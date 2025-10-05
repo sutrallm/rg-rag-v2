@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>舍离世间名利</target_entity>
+    <relationship_description>舍离名利是解脱实践的重要体现，因执着名利即强化我执，障碍解脱显现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

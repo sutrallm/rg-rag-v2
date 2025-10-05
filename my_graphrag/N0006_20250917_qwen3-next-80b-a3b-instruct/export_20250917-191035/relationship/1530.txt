@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>MORAL_DISCIPLINE</target_entity>
+    <relationship_description>Saintly qualities are grounded in moral discipline, which provides the ethical foundation for spiritual development.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

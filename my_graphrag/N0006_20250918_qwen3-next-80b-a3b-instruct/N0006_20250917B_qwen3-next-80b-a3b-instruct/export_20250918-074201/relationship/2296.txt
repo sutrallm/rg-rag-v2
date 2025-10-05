@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Understanding Wuchang (impermanence) is the foundation for developing Wuzhu (non-attachment), since nothing permanent can be clung to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

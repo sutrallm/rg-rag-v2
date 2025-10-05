@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFAULT_STATE_OF_MIND</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is the full recognition and abiding in one's inherent pure mind, free from the clouds of defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

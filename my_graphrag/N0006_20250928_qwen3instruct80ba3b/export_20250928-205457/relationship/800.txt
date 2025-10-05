@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>涅槃是執著完全寂滅的狀態，當一切貪愛與厭惡止息，涅槃自然顯現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

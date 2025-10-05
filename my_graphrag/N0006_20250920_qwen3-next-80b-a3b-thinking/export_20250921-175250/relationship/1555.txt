@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>PHENOMENA</target_entity>
+    <relationship_description>Wisdom provides insight into the impermanent and illusory nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

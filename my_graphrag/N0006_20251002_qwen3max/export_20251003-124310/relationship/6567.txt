@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修慈心</source_entity>
+    <target_entity>瞋恚</target_entity>
+    <relationship_description>修慈心是化解瞋恚的有效對治法，培養善意以消除怒恨。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

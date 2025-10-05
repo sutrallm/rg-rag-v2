@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>REINCARNATION_CYCLE</target_entity>
+    <relationship_description>Delusion is the fundamental cause of samsara, keeping beings bound in the cycle of birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

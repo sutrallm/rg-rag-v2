@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding requires and is sustained by continuous mindfulness; they are mutually dependent for achieving inner stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

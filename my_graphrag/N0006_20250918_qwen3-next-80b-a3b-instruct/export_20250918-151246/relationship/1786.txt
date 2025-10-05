@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪嗔痴</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>貪嗔痴是捆綁眾生的三毒，聖者透過修行斷盡此三者，方得解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

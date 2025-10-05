@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>By maintaining constant mindfulness, afflictions are observed as they arise and naturally dissolve, preventing them from taking root and causing suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

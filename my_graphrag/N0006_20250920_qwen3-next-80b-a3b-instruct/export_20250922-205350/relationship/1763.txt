@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN CIDI</source_entity>
+    <target_entity>NIERHAN</target_entity>
+    <relationship_description>The ultimate goal of the threefold training is to achieve Nirvana by eliminating ignorance and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

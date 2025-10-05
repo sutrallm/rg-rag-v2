@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Saints are described as abiding in unshakable stillness, characterized by the absence of inner turmoil and transcendent peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

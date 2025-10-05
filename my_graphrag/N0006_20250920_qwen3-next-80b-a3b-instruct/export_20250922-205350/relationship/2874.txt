@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是断除根本无明、实现彻底解脱的决定性力量，解脱依智而得，无智则无法真正出离轮回。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

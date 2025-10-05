@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHTFOLD PATH</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Right Concentration (one limb of the Eightfold Path) is synonymous with chanding; the path integrates chanding with mindfulness and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>缘起法</target_entity>
+    <relationship_description>正见依循缘起法建立，缘起法揭示诸法因缘生灭，是正见的重要理论基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>调伏心念</source_entity>
+    <target_entity>驯象师</target_entity>
+    <relationship_description>The process of regulating the mind is metaphorically compared to an elephant trainer controlling an elephant.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

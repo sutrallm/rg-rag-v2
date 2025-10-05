@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIYONG</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Riyong allows zhihui to be continuously applied in real-time experience, transforming wisdom from abstract understanding into lived insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

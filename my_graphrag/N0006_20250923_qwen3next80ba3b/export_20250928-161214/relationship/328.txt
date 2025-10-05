@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUIREMENTS</source_entity>
+    <target_entity>LOCATIONS</target_entity>
+    <relationship_description>The requirements mandate the exclusion of all geographic locations from the processed text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

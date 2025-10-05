@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>The sage’s complete non-attachment is the expression of their realized wisdom and freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

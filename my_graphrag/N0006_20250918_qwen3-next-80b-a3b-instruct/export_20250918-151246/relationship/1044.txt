@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE</source_entity>
+    <target_entity>EFFORT</target_entity>
+    <relationship_description>Practice requires continuous effort; without diligence, practice lapses, and progress toward liberation stops.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

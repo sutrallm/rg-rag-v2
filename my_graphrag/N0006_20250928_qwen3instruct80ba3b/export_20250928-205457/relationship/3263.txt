@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZIYU JIEFU</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Ziyu jiefu arises only through wuwo guanzhao (no-self contemplation), which eliminates dependence on external validations and meditative experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ENVIRONMENTAL DISTURBANCES</target_entity>
+    <relationship_description>Chanding enables the practitioner to remain undisturbed even in the presence of external distractions, as illustrated by the metaphor of the forest.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

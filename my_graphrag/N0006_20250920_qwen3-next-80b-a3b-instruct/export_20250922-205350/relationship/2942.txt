@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIAOCHA CIXI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiaocha cixi (gradual stages of mindfulness) is the structured path to cultivate Chanding (meditative concentration), progressing from breath to mental phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

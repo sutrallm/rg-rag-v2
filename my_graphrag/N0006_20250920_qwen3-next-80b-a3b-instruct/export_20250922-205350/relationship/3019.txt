@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Mindestness is the fundamental practice that leads to insight and the cessation of clinging, ultimately culminating in nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

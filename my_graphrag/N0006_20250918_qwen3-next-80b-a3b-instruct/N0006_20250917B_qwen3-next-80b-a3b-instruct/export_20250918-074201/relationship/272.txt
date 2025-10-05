@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHISHI</source_entity>
+    <target_entity>ZHICHENG</target_entity>
+    <relationship_description>Practicing reality-as-it-is (Shishi) cultivates wisdom (Zhicheng) by allowing one to observe phenomena without distortion, aversion, or attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

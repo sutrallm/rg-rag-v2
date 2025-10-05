@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>瞋</target_entity>
+    <relationship_description>禪定狀態能遠離瞋的干擾，內心穩定而不為逆境所動。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

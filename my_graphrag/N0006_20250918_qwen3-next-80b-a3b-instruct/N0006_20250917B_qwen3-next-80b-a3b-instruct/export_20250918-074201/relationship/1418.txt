@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE_JOY</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Even meditative joy, though desirable, becomes an object of attachment if clung to, thus hindering true liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

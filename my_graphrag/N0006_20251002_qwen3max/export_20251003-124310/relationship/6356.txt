@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>执着本身即是束缚，是烦恼的根源之一，即使对修行成就的执着也会成为新的系缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

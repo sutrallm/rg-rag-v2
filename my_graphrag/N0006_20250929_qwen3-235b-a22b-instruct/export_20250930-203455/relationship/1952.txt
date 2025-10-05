@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧解脱</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>慧解脱是通过智慧达成的解脱状态，与心解脱共同构成修行的终极成果，是究竟解脱的组成部分。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

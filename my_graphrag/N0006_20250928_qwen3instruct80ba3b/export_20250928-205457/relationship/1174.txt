@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding collects and calms the mind, which then becomes a clear instrument for the arising of wisdom — the insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

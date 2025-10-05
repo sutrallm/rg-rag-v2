@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUWANG</source_entity>
+    <target_entity>SHENGGUO</target_entity>
+    <relationship_description>Yuwang, craving, is one of the primary causes binding beings to shenguo, as it drives repetitive egoic behavior and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

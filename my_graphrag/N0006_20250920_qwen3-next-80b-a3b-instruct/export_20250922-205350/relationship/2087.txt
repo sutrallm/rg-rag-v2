@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>The noble one possesses perfectly stable and undistracted concentration (Ding), allowing unshakable insight and equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

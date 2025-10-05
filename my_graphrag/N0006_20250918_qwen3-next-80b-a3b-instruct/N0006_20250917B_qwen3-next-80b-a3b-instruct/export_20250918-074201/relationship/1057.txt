@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_AUTHENTICITY</source_entity>
+    <target_entity>SENTIENT_BEINGS</target_entity>
+    <relationship_description>Those who embody noble authenticity are respected and admired by all sentient beings due to their inner freedom and purity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

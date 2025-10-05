@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>無明是貪欲的根源，因誤認為外境與自我實有，才會產生貪著與執取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

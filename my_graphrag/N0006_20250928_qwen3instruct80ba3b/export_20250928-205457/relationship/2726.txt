@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEXINGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jue Xing Zhe embodies Nie Pan: a mind that is free, unclinging, and undisturbed by dualities, mirroring the very definition of Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

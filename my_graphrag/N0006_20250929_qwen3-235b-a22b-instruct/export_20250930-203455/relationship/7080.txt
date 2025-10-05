@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒定慧三学中，定（禅定）是承上启下的关键，由戒生定，由定发慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

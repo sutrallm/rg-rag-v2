@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出离心</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>出离心是修行者应有的内在态度，驱使他们不贪恋世间与禅境，唯求究竟解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

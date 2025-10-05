@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脱是涅槃的现世体验，涅槃是解脱的究竟完成，二者本质为同一终极境界的不同表述。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

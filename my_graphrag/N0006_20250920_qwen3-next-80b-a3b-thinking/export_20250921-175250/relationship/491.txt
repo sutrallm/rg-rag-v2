@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>THEME TITLE</target_entity>
+    <relationship_description>THEME TITLE is to be created for ORIGINAL TEXT after conversion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

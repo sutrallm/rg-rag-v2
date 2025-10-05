@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>魔境</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者若执着境界或追求神通，可能堕入魔境，真正的修行应离相离执。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

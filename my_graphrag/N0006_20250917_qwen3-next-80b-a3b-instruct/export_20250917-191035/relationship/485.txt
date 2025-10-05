@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>WISE_INSIGHT</target_entity>
+    <relationship_description>Wise insight is the culmination of the Threefold Training — the liberating wisdom that follows concentration.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

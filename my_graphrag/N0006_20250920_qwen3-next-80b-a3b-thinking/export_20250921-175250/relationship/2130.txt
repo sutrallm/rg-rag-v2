@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>attachment</source_entity>
+    <target_entity>results</target_entity>
+    <relationship_description>Attachment to the results of practice prevents true liberation and causes further bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

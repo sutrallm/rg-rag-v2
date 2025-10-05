@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定的作用之一是远离烦恼，通过安定心念削弱贪嗔痴的力量。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

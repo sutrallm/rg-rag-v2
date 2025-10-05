@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARD OF THE SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The Saint embodies perfected wisdom, which enables the complete eradication of defilements and attainment of unconditioned freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

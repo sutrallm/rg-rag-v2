@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE PERSON</source_entity>
+    <target_entity>REALMS</target_entity>
+    <relationship_description>A wise person does not cling to any mental realms during meditation practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGRONG</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Shengrong individuals have fully realized niepan—they are no longer bound by samsara and dwell in the liberated state of freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

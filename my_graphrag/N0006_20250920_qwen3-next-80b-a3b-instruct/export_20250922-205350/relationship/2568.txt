@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>智慧的內容之一即為如實觀照萬法無常，二者為體用關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

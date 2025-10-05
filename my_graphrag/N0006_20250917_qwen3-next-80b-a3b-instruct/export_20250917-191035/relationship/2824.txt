@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NONSELF</target_entity>
+    <relationship_description>Wisdom includes the realization of non-self, enabling one to cease identifying with transient phenomena and thus attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

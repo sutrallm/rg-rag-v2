@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CESSATION TRUTH</source_entity>
+    <target_entity>ABANDONMENT OF ATTACHMENT</target_entity>
+    <relationship_description>ABANDONMENT OF ATTACHMENT is a key practice in the Cessation Truth for releasing clinging to transient phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

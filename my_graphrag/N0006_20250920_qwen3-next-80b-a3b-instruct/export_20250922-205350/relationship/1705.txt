@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUXIU JISI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Only through practice (as opposed to neglect) can one attain liberation — true life is found in修行, not in ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

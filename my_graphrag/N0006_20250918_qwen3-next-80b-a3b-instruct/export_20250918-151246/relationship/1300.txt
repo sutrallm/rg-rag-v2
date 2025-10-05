@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE_LIBERATION</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Ultimate liberation is characterized by complete non-attachment to existence, non-existence, or any state of being.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

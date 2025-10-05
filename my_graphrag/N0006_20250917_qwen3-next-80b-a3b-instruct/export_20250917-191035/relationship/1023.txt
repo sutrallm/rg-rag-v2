@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>煩惱根源</target_entity>
+    <relationship_description>聖者已斷盡煩惱根源，這是其能超越輪迴的根本原因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

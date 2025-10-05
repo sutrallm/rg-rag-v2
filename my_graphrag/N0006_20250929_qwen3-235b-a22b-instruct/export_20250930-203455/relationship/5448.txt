@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的净化</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>心的净化过程需如实觉知、不迎不拒，正念是实现心净化的核心方法，贯穿净化各阶段。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

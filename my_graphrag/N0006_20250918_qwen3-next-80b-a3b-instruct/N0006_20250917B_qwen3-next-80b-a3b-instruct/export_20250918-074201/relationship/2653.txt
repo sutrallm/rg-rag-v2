@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>舍离是达成中道的方法，通过不攀缘、不抗拒，彻底脱离二元对立，回归中道。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

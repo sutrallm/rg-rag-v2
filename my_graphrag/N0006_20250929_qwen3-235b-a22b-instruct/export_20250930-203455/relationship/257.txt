@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天神</target_entity>
+    <relationship_description>天神恭敬赞叹圣者，因其已远离凡俗染着，具足戒行与智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

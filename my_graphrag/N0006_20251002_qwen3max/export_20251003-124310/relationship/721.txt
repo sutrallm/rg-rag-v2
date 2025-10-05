@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>四念处的修习帮助修行者如实知见诸法实相，包括身不净、受是苦、心无常、法无我，从而导向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

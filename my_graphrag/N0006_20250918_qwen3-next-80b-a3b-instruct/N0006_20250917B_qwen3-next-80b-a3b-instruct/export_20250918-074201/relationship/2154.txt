@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>GREED_HATRED_DELUSION</target_entity>
+    <relationship_description>Exertion is the active counterforce that prevents the afflictions of greed, hatred, and delusion from overpowering the practitioner.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

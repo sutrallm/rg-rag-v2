@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Saintly qualities involve the cutting of craving at its root, a necessary condition for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

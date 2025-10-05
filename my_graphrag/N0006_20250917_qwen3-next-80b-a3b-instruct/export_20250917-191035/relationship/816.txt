@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Saintly qualities include the eradication of aversion, allowing for equanimity regardless of external circumstances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

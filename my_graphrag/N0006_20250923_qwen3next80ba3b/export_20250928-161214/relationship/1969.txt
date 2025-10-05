@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PURITY</target_entity>
+    <relationship_description>Meditation purifies the mind by eliminating defilements and negative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

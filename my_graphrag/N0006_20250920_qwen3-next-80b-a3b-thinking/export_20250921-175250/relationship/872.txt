@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The user failed to provide the required original text for the assistant to process.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

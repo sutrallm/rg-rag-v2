@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides mental stability, while wisdom provides insight; together, they form the dual pillars of liberation according to Buddhist teaching.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

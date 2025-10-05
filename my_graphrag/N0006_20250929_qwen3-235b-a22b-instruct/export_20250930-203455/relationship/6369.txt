@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>修定</target_entity>
+    <relationship_description>持戒是修定的基础，清净的行为与言语为心念专注提供前提。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

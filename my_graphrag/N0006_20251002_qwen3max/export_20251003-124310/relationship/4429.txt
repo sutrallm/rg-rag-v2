@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>智慧使人證得心解脫，並能不執著於修行成果，是邁向究竟解脫不可或缺的要素。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

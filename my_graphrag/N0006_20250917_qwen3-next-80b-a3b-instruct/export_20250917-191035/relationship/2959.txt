@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越執著的智慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>超越執著的智慧是達成解脫的關鍵 Path，因為唯有不執取任何狀態，才能真正從輪迴與痛苦中解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

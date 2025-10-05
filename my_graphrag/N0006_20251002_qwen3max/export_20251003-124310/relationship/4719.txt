@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>凡夫</source_entity>
+    <target_entity>貪愛</target_entity>
+    <relationship_description>凡夫因贪爱而系缚于世间，与圣者因离欲而解脱形成对比。（注：“貪愛”未单独列为实体，但属于“煩惱”范畴，此处以“煩惱”为目标）</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

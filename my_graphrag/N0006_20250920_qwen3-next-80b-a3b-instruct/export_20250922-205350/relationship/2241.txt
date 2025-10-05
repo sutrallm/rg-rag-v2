@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>FIVE_SENSE_DESCENT</target_entity>
+    <relationship_description>Saintly beings remain unmoved by worldly sensory experiences; their freedom includes non-reaction to external stimuli.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

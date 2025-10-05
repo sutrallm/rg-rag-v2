@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>偈颂</source_entity>
+    <target_entity>删除</target_entity>
+    <relationship_description>偈颂需从文本中删除以符合处理要求。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

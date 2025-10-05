@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>涅槃的本質即是無我之境，無住無得、如鏡照物，完全無我之體現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

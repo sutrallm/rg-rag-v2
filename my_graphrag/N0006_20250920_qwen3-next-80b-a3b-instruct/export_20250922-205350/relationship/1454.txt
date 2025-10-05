@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS (MORAL DISCIPLINE)</source_entity>
+    <target_entity>CHANDA (MEDITATIVE CONCENTRATION)</target_entity>
+    <relationship_description>Moral discipline creates the outer stability necessary for inner concentration to arise and remain undisturbed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

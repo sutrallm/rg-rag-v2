@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>遠離</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需遠離喧囂與感官誘惑，獨處靜處，以創造禪修條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

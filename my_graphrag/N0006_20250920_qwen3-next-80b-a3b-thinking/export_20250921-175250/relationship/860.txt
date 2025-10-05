@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MIDDLE WAY</target_entity>
+    <relationship_description>WISDOM leads to the realization of MIDDLE WAY by transcending extremes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

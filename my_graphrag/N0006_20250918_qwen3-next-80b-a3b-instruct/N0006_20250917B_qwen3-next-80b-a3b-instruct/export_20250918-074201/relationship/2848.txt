@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Complete renunciation (Sheli) is the necessary condition for attaining Nirvana, as clinging to any state—even spiritual ones—binds one to suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WENSI XIU</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>Wensi xiu is the methodical framework for practicing Wuwu guan, which involves deep contemplation and application.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

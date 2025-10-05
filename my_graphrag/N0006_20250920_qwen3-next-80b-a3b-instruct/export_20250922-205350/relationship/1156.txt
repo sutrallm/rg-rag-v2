@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zhengnian, when continuously practiced, leads to the cessation of mental defilements and is the practical means to manifest Niepan in daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

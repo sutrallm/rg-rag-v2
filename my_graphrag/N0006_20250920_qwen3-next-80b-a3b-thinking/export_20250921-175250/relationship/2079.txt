@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>JEWEL</target_entity>
+    <relationship_description>Pure precepts are compared to a jewel that shines brightly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

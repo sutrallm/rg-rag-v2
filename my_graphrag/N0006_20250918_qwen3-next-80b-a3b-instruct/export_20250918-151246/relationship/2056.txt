@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISE_INSIGHT</target_entity>
+    <relationship_description>Chanding provides the mental stability required for wise insight to arise; insight deepens chanding by revealing the true nature of phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

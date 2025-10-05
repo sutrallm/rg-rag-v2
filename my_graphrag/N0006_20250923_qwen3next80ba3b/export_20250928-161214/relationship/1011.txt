@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>BREAKING ATTACHMENT</target_entity>
+    <relationship_description>Recognizing impermanence enables practitioners to break attachments to transient phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

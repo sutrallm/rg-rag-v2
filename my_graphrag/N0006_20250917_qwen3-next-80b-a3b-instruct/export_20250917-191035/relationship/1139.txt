@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>The concept of non-self (wuwo) is grounded in the understanding that the self is a mere temporary aggregation of the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

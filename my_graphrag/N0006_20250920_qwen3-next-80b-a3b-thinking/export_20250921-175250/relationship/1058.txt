@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING TRUTH</source_entity>
+    <target_entity>SEPARATION FROM LOVED</target_entity>
+    <relationship_description>SEPARATION FROM LOVED is a specific form of suffering outlined in the Suffering Truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

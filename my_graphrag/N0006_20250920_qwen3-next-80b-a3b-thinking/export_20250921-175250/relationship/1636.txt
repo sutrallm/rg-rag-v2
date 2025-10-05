@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>NON_ATTACHMENT involves not clinging to STATES, as described in '不执着于任何境界'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

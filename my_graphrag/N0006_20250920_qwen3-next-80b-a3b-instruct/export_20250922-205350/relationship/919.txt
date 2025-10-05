@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUANCHU YU RAN</source_entity>
+    <target_entity>CHAOGUO ZHUZHE</target_entity>
+    <relationship_description>The gradual letting go of sensual desire (duanchu yu ran) is part of transcending attachment (chaoguo zhuzhe), cultivating detachment through insight rather than force.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

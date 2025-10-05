@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY IMPURITY</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Observing body impurity directly counteracts GREED by reducing physical attachment</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

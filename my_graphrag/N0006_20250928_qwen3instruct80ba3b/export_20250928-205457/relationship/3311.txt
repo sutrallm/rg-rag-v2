@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Chanding is one of the core practices that enables one to become a shengzhe. It is the mental discipline that supports enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

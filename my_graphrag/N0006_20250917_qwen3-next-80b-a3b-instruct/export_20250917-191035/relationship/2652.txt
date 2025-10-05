@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天人</target_entity>
+    <relationship_description>圣者因其究竟安稳，连天人亦生敬仰，显示其修行成就的崇高地位。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

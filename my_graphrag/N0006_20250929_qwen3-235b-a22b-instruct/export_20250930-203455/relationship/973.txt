@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>贪嗔痴三毒遮蔽心识，使其无法映照真实，需通过修行清除。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

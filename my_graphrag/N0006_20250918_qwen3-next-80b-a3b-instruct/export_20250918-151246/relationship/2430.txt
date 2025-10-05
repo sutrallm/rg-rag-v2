@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZAIZHITI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe (saintly beings) are those who have fully developed zaizhi, enabling them to be free from attachment and see reality as it is.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

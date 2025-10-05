@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无记</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>无记是禅定中需避免的状态，真正的定力需保持觉照而非停滞。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

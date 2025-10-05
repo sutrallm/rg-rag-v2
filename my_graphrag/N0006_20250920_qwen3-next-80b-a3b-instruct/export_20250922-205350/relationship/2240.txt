@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Saintly beings are defined by their complete eradication of the three poisons, which is the hallmark of their realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

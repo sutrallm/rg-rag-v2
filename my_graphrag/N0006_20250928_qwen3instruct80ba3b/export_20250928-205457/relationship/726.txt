@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL_AWARENESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindful awareness is the foundation of chanding; sustained non-reactive observation cultivates deep concentration and mental stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY</source_entity>
+    <target_entity>NON-EXISTENCE</target_entity>
+    <relationship_description>The MIDDLE WAY avoids the extreme attachment to NON-EXISTENCE.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

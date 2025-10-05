@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>All five aggregates are inherently linked with suffering due to their impermanent nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

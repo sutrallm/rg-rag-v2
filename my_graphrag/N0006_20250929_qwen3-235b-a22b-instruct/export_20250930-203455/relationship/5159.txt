@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧等持</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>定慧等持是中道的具体体现，避免偏重定或慧，成就如实照见的平衡修行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

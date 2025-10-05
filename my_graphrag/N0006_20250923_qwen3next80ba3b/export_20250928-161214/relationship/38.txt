@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>REALMS</target_entity>
+    <relationship_description>Wisdom leads to non-attachment to mental and existential realms through insight into impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

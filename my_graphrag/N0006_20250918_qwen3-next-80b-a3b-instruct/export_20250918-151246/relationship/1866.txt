@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实观照</source_entity>
+    <target_entity>感受</target_entity>
+    <relationship_description>如实观照包括对感受的觉知，感受是观照的四大所缘之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

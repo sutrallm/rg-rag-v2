@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>贪嗔</target_entity>
+    <relationship_description>禅定帮助修行者摆脱贪与嗔等烦恼情绪，获得内心安稳。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

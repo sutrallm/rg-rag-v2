@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EFFORTFUL_PRACTICE</target_entity>
+    <relationship_description>Chanding cannot be sustained without consistent effortful practice to overcome laziness and complacency.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

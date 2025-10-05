@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>智慧具有對治煩惱的力量，能削弱乃至根除貪愛與執取，使心不再隨煩惱而轉。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

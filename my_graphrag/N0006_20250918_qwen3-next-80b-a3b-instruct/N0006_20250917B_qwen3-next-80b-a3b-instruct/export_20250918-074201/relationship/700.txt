@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Exertion without non-attachment can become ego-driven; true exertion is wise and non-clinging, aligned with the insight of impermanence and non-self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

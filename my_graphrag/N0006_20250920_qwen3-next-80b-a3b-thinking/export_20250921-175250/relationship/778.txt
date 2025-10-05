@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>法门</target_entity>
+    <relationship_description>Meditation practice employs a specific method.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

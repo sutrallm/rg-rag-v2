@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHE LI</source_entity>
+    <target_entity>NIE PAN JING JI</target_entity>
+    <relationship_description>She Li—letting go of attachment—is the internal action that leads to the experience of Nie Pan Jing Ji, the cessation of mental disturbance and the arising of peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

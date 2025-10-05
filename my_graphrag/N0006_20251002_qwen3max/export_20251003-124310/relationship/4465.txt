@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>我见</target_entity>
+    <relationship_description>禅修通过持续、如实的观照看清身心本质，从而破除我见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

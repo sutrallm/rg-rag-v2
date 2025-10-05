@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>渴爱</target_entity>
+    <relationship_description>心解脱需彻底断除渴爱，渴爱的熄灭是心解脱的必要条件之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>无常观能破除导致贪嗔痴三毒的恒常与自我错觉，从而削弱三毒的力量。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

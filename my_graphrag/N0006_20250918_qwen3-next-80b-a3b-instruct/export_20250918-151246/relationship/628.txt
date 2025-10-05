@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUMING</source_entity>
+    <target_entity>SIHAI</target_entity>
+    <relationship_description>Ignorance is the root cause of samsara; without seeing reality clearly, beings remain trapped in the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

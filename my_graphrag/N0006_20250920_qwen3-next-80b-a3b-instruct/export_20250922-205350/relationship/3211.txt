@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_MINDFULNESS_PRACTICE</source_entity>
+    <target_entity>ENTERING_THE_PRESENT_MOMENT</target_entity>
+    <relationship_description>Daily mindfulness is the consistent application of present-moment awareness during all actions and interactions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三解脱门</source_entity>
+    <target_entity>无相</target_entity>
+    <relationship_description>无相是三解脱门之一，指超越一切形相执着，是解脱的境界之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

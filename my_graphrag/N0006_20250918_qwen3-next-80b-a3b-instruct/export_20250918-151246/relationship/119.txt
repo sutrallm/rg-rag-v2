@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment is presented as the essential condition for achieving liberation; clinging is equated with bondage, while non-clinging equals freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

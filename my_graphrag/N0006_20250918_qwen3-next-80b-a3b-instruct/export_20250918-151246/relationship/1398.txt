@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺悟</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>覺悟是解脫的直接體現，對生命真相的洞察即代表從苦中解放。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

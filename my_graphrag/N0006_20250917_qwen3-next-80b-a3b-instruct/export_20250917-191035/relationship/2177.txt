@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>自性清明</target_entity>
+    <relationship_description>心解脱的实现即是自性清明的显露，二者是同一觉悟状态的不同表述。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念觉察</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>正念如灯，照破无明的暗影，是破除无明的具体方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

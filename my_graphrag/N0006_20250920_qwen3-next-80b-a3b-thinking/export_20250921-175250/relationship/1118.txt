@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>FIRE is used as a metaphor for SUFFERING in the teaching.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

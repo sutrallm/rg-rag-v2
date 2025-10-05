@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Shengzhe are those who have realized niepan — their mind is free from disturbances and they dwell in the state of nirvana here and now.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

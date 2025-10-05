@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观照</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>无我观照是智慧的具体实践方法，通过观照身心非“我”，达成对无我的实证。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

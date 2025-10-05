@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIE PAN</source_entity>
+    <target_entity>YUAN QI YUAN MIE</target_entity>
+    <relationship_description>Nie Pan is the state of mind that sees Yuan Qi Yuan Mie (arising and ceasing) clearly — without grasping, aversion, or delusion, one is already liberated.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

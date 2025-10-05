@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELIE</source_entity>
+    <target_entity>WUZHUI</target_entity>
+    <relationship_description>SHELIE (ultimate letting-go) is the perfected form of WuZhui, extending non-attachment even to the concepts of virtue, nirvana, and liberation itself.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

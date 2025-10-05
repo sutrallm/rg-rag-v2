@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Chanding is the primary means through which inner stillness and deep tranquility are cultivated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

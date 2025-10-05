@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>REWRITE TITLE</target_entity>
+    <relationship_description>REWRITE TITLE is a necessary outcome of the TASK after all other modifications are applied.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

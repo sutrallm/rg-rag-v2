@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>精进若以智慧引导，可有效修习止观，促进智慧生起。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

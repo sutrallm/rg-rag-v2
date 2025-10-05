@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀教法</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>佛陀教法的終極目標即是引導眾生達成解脫，一切修行皆為此目的。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SANSARA</target_entity>
+    <relationship_description>LIBERATION frees individuals from the cycle of SANSARA and its associated suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

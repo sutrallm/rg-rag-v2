@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WRONGFUL ATTACHMENTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wrongful attachments threaten chanding by causing practitioners to cling to pleasant meditative states or reject unpleasant ones, destabilizing inner calm.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

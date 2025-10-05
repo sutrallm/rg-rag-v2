@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>智慧被喻为断除烦恼的利剑，不仅能断现行烦恼，还能根除潜伏习气。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>MENTAL_LIBERATION</target_entity>
+    <relationship_description>Practitioners achieve MENTAL_LIBERATION through the practice of SAMADHI.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

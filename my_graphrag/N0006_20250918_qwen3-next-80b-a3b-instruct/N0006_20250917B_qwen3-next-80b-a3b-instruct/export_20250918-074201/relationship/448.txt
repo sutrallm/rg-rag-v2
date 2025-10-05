@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Exertion sustains the spiritual path that ultimately leads to nirvana, acting as the driving force behind practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

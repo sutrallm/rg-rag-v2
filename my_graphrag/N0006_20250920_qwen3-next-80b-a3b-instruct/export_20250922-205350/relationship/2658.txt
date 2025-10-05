@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHIJIE</target_entity>
+    <relationship_description>Chijie (ethical discipline) removes external disturbances and creates the conditions necessary for Chanding to arise and remain undisturbed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

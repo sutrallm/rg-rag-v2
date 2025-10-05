@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>One who transcends attachment (chao yue zhu zhe) embodies the qualities of a sage (shengzhe), as both involve non-attachment and profound insight into reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

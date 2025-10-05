@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding alone is not sufficient—wisdom is needed to realize the impermanent and selfless nature of phenomena and avoid attachment to meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

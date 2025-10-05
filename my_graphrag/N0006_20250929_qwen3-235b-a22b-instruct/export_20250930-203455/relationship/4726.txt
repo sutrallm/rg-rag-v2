@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>清净智慧</target_entity>
+    <relationship_description>解脱后，清净智慧自然流露，行住坐卧皆是道用，不被外境所染。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>insight</source_entity>
+    <target_entity>impermanence</target_entity>
+    <relationship_description>Insight allows practitioners to perceive the impermanent nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

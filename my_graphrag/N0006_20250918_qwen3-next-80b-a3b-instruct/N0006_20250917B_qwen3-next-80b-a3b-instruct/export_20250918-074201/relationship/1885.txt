@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Chanding is a central practice that leads to the direct realization necessary for liberation from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

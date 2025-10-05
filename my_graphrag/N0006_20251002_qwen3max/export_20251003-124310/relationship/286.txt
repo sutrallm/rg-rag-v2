@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>观照诸法生灭无常，能自然舍离对感官享受的渴爱，从而减少贪欲。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

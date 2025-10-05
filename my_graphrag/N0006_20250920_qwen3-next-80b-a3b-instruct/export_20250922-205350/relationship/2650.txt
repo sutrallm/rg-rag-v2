@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWANG</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Wuwang (ignorance) is the root cause of Fannao (afflictions): greed, hatred, and delusion arise because one fails to see reality clearly.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

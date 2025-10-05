@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>修行退转</target_entity>
+    <relationship_description>若稍有放逸，烦恼会乘隙而入，直接导致修行退转。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

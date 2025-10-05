@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>ANGERN</target_entity>
+    <relationship_description>Saintly beings have utterly subdued anger and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

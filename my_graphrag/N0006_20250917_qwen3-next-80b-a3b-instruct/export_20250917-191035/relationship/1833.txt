@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENCE_OF_BIRTH_AND_DEATH</source_entity>
+    <target_entity>GREED_HATRED_DELUSION</target_entity>
+    <relationship_description>By uprooting the three poisons, one severs the cycle of attachment that perpetuates birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BEAST</source_entity>
+    <target_entity>MOUNTAIN</target_entity>
+    <relationship_description>The beast resides in the mountain as part of the textual metaphor.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

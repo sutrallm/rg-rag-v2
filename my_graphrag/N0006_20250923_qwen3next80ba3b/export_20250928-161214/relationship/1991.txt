@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Mindfulness is a cognitive state arising from the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

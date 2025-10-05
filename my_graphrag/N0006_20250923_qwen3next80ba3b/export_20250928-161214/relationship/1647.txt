@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SIGNS</target_entity>
+    <relationship_description>ATTACHMENT to SIGNS obstructs insight by clinging to false perceptions of phenomenon.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

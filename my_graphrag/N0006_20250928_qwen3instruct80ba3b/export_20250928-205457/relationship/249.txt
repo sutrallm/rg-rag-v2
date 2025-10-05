@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_FOLDED_PATH</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The threefold path is the complete, structured method for attaining nirvana — each element supports and completes the others toward final liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

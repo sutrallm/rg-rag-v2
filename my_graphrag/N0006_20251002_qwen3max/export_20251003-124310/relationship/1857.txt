@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>平等心</target_entity>
+    <relationship_description>圣者因深知言语无常虚妄，自然具备超越赞誉与毁谤的平等心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

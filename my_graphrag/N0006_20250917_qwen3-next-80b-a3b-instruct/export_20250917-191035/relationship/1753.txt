@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>圣者因具足戒律而行为清净，这是其内在自由与外在威德的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

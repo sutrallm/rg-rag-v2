@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAO CHANG</source_entity>
+    <target_entity>SONG JIE</target_entity>
+    <relationship_description>Every moment as Dao Chang is an opportunity for Song Jie — liberation is accessible now, not in some future state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

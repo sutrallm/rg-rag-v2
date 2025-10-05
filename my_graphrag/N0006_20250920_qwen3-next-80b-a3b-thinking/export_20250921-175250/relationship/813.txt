@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BLIND PERSON</source_entity>
+    <target_entity>DARKNESS</target_entity>
+    <relationship_description>A blind person in darkness cannot perceive objects, symbolizing the inability to understand reality without wisdom, from '黑暗中的盲人无法见物'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Saintly practitioners observe the five aggregates and realize their non-self nature, which is central to their liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

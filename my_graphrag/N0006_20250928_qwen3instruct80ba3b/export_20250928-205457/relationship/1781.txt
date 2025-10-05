@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YUN</source_entity>
+    <target_entity>WUYI</target_entity>
+    <relationship_description>Wuyi (non-self) is realized through direct observation of wuyun (the five aggregates), observing that none of them constitute a self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

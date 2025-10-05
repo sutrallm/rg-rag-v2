@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>无欲无求</target_entity>
+    <relationship_description>离欲最终成就无欲无求的清净心，是内心彻底放下执着后的自然状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

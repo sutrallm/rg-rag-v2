@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修次第</source_entity>
+    <target_entity>心一境性</target_entity>
+    <relationship_description>禅修次第通过从初禅至四禅的逐步修习，最终达到心一境性的专注稳定状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

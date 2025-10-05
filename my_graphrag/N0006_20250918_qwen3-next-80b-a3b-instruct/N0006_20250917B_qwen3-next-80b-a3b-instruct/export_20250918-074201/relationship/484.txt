@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Jiefu (liberation) is the direct result of fully realizing wuwo (non-self); without this insight, liberation remains unattainable.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

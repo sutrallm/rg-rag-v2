@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>天界福报</target_entity>
+    <relationship_description>具足戒定慧三学的修行者不希求天界福报，因其心已超越世间福乐的执著。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

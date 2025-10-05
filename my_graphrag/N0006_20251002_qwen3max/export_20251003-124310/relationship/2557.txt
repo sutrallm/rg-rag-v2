@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣道者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣道者具备坚固禅定，能借此调伏自心、安住寂静。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

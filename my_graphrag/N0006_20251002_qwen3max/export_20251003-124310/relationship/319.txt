@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念实践</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念实践是禅定在日常生活中的延伸，通过时时觉知身心变化，巩固并深化禅定能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

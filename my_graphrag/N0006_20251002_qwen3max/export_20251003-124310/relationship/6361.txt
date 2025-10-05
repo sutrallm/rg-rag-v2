@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实观察</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>智慧生于如实观察，通过持续观照身心生灭变化，修行者生起不执着的亲证智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

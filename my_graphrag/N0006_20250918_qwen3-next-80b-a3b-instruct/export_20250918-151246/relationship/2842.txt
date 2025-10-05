@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心如虛空</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>心如虛空是解脫時心的狀態描述，不迎不拒、無所依附，代表徹底超越束縛的自由境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

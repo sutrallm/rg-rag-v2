@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE HINDRANCES</source_entity>
+    <target_entity>SLOTH</target_entity>
+    <relationship_description>SLOTH is a component of the Five Hindrances affecting focus and energy.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

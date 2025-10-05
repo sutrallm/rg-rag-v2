@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORDLY_ATTACHMENT</source_entity>
+    <target_entity>TRUE_LIBERATION</target_entity>
+    <relationship_description>Worldly attachment is an obstacle to true liberation; liberation requires舍弃 (letting go) of all clinging to experiences, identities, and results.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

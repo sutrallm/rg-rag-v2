@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>The enlightened being fully perceives impermanence and thereby remains unshaken by changing conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

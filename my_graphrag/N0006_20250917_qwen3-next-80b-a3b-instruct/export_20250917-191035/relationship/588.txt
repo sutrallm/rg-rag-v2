@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom arises through direct insight into impermanence; recognizing the transient nature of all things dismantles clinging and illusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

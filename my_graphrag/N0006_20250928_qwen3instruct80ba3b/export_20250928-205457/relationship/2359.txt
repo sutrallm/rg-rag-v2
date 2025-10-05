@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>修行者必須持續精進，否則將落入無明與生死輪迴。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

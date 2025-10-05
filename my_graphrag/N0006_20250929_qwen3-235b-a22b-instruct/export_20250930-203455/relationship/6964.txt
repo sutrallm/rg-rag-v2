@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>智慧成熟时能解脱生死轮回，通过洞察无常、无我、缘起，破除对“我”的执着，不再被业力系缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

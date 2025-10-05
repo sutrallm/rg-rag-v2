@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY PHENOMENA</source_entity>
+    <target_entity>ILLUSION</target_entity>
+    <relationship_description>All worldly phenomena are considered illusory in nature, as stated in the first section of the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON_PRACTICE</target_entity>
+    <relationship_description>True liberation manifests as non-practice — the spontaneous, unstriving state where there is no seeking, resisting, or controlling.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

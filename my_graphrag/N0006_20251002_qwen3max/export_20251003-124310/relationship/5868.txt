@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>唯有实际修习止观、亲证法实相，才能脱离生死、证得解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

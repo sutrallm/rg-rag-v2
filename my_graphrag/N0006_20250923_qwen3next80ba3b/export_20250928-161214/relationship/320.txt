@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUE</source_entity>
+    <target_entity>DOCTRINAL_EXPANATION</target_entity>
+    <relationship_description>Dialogues are systematically rephrased into direct doctrinal explanations to maintain teaching integrity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

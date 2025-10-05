@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>忧悲苦恼</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者通过智慧与禅定断尽烦恼根源，彻底超越了忧悲苦恼，是修行成果的体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

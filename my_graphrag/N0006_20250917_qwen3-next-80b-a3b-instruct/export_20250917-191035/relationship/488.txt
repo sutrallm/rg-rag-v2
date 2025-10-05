@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOLIE ZHUZHE</target_entity>
+    <relationship_description>Chanding enables one to transcend attachment by observing phenomena without grasping, as described in the insight of no-self and impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

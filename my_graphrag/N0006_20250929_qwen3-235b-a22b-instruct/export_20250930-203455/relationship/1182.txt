@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>离欲是解脱的必要前提，唯有远离欲望才能获得清凉自在，是内心清净与解脱的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定与智慧相辅相成：定令心专注，慧洞察实相；二者缺一不可，方能成就究竟解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

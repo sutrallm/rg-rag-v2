@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Attachment arises from ignorance of the true nature of reality; clinging to phenomena is a direct consequence of misperceiving them as permanent, satisfying, or self-existent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

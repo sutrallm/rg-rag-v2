@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>修行者通过无常观知诸行无常，放下攀缘，安住于当下清净觉性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

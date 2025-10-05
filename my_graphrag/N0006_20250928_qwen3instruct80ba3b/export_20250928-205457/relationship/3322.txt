@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>正念观照</target_entity>
+    <relationship_description>中道体现为正念观照的态度：不拒不迎、不评不改，是修行者应对身心现象的正确方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

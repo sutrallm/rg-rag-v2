@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_TAKING_NO_RELEASING</source_entity>
+    <target_entity>ULTIMATE_GOAL_OF_PRACTICE</target_entity>
+    <relationship_description>“No taking, no releasing” is the mental equilibrium that defines the realized state toward which the ultimate goal strives.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

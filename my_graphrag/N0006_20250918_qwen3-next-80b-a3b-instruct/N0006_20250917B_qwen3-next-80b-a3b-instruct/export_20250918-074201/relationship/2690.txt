@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Saintly qualities are the visible manifestations of someone who has attained awakening and transcended suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

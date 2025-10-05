@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>聖者恒常修習禪定，以此安住於寂靜，是其內在圓滿的基礎實踐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

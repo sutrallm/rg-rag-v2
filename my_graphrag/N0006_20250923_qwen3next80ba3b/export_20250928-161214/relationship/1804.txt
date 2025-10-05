@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>The five aggregates lack an inherent self, which is a crucial insight for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

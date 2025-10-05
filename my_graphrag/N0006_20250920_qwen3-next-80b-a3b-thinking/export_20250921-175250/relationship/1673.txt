@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING OF BIRTH AND DEATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Libation is the transcendence of suffering in cyclic existence, as stated in "超越生死痛苦".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

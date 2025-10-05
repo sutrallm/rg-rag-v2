@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI ZHI HUI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Chaoshi zhihui arises from the direct observation of wuchang — the impermanent nature of all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

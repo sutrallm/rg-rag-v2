@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Realization of non-self (Wuwo) leads directly to the cessation of suffering and the realization of Nirvana (Niepan) as the natural result of insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

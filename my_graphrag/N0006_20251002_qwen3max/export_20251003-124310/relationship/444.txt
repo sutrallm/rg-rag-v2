@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>疑</target_entity>
+    <relationship_description>疑是烦恼的一种具体表现形式，会动摇修行信心，阻碍定慧的生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

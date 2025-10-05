@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_FREEDOM</source_entity>
+    <target_entity>NON_ABIDING_MIND</target_entity>
+    <relationship_description>Inner freedom is the experiential result of cultivating the non-abiding mind—free from attachment to conditions, gains, or losses.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

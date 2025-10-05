@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSORY PHENOMENA</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Understanding illusory phenomena leads to non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUARDIAN_OF_MIND</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Guardian of Mind is a metaphorical expression of the function of Mindfulness—it is mindfulness itself acting as a protector of mental states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

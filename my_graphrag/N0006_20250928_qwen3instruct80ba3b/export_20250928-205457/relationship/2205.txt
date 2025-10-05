@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHMENT</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>When attachment dissolves through detachment, the mind naturally settles into profound inner stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Noble Ones are characterized by their mastery of chanding, which they use as a foundation for liberating insight and dwelling in stillness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

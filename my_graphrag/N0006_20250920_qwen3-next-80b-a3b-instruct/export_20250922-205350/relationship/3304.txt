@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>禪定的功能在於遠離貪欲的騷動，使心不逐外境，是對治貪欲的直接方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

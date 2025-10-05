@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禅定的修习依赖于正念以保持心念专注于当下，正念是禅定的核心要素之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

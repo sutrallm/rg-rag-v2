@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION PROCESS</source_entity>
+    <target_entity>ENDING SLOKA</target_entity>
+    <relationship_description>Closing verses or slokas from source material must be entirely removed in the final translated output.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

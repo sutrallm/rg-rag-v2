@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiulian progresses from Jieming to Chanding; meditation is the central stage in the path of cultivation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

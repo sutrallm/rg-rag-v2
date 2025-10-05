@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-Self_Observation</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Non-self observation is the direct meditative practice aimed at realizing the truth of non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

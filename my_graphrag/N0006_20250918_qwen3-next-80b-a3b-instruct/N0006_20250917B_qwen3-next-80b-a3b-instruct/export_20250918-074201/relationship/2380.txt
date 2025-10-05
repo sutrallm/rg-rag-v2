@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>Liberation</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Liberation is defined by the state of non-attachment — not grasping at pleasure or rejecting pain, and remaining free from desire and fear.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

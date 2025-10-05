@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Letting go of attachment is essential for attaining liberation, as clinging perpetuates suffering and prevents true freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

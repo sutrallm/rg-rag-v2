@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>修行者在禅定中体验轻安但不生贪着，需超越对此境界的执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

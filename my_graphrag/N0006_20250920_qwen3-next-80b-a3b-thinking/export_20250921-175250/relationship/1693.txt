@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>MEDITATION STATES</target_entity>
+    <relationship_description>Clinging to meditation states hinders spiritual progress and leads to no attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

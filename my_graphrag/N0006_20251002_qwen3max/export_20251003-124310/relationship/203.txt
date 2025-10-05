@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>執取</target_entity>
+    <relationship_description>體證一切現象皆苦，能削弱對現象的貪愛與執取，從而促進解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

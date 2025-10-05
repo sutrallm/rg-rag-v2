@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO WUZHUI</source_entity>
+    <target_entity>WUZHANG WU WU</target_entity>
+    <relationship_description>The realization of no-self (wuwo wuzhui) is grounded in the understanding that the self is merely a construct of the five aggregates (wuzhang wuwu); the latter is the analytical basis for the former.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

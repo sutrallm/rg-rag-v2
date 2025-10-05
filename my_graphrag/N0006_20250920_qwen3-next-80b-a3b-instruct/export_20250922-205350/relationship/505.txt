@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUXIU</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>True liberation arises not through striving but through non-doing—effortless alignment with the natural state of mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

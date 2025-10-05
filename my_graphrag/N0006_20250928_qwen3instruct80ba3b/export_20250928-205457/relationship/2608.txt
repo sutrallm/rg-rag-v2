@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Chanding is a necessary practice to calm the mind and create the conditions for realizing niyapan, the ultimate liberation from suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

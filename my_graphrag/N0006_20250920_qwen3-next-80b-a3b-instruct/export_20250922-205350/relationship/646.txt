@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED PROCESSES</source_entity>
+    <target_entity>EGO-CLINGING</target_entity>
+    <relationship_description>Ego-clinging arises from misperceiving conditioned processes as permanent, belonging to a self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

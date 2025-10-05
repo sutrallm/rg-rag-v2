@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦樂之輪</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫的目標正是止息苦樂之輪的連續循環，使心不再被世間對立狀態所縛。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

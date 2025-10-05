@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGATIVEEMOTIONS</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Insight leads to the dissolution of negative emotions by observing them as impermanent, non-self, and empty entities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

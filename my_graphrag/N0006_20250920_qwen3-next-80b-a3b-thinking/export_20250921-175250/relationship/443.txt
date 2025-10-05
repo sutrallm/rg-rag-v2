@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCATTERED MIND</source_entity>
+    <target_entity>CANDLE IN WIND</target_entity>
+    <relationship_description>A scattered mind is metaphorically described as a candle flickering in the wind, easily disturbed by external forces.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

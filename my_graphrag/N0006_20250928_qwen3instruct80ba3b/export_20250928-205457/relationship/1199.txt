@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the complete fulfillment of non-attachment—when all clinging, even to meditative states or spiritual attainment, is彻底 extinguished.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

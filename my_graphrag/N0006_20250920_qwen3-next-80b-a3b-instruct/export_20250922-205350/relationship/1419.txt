@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Through chanding, the practitioner gains the mental clarity needed to see through the illusions sustaining the rebirth cycle.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

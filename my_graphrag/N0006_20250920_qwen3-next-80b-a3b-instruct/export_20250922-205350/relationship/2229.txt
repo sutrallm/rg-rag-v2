@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋恨</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>瞋恨是禪定的障礙，會擾動內心安靜，使正念難以持續。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

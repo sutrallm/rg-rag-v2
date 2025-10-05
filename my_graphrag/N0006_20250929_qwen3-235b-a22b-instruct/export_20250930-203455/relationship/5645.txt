@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正精进</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>正精进是持续努力断除贪嗔痴三毒、增长善法的修行力量。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

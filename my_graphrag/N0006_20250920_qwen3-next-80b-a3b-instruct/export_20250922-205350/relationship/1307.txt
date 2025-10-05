@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定使心稳定专注，为观照实相、生起智慧提供必要的心识状态，二者构成修行的两大支柱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

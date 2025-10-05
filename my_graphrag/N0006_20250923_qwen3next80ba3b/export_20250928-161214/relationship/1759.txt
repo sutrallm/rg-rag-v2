@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MOUNTAIN</source_entity>
+    <target_entity>MOSQUITO</target_entity>
+    <relationship_description>Mosquitoes cannot disturb a meditator in the mountain.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

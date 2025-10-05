@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Wisdom, especially insight into the nature of reality, is the decisive factor in attaining enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

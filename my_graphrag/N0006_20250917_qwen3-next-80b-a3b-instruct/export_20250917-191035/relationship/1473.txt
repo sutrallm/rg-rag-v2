@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者 (SAINT)</source_entity>
+    <target_entity>戒行 (MORAL DISCIPLINE)</target_entity>
+    <relationship_description>Saints are defined by their perfect moral discipline, which forms the basis of their inner purity and stability.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

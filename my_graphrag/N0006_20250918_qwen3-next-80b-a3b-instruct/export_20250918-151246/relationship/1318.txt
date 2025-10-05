@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>慈悲促使修行者不離眾生，即使了悟空性，仍願助眾生脫離輪迴之苦。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

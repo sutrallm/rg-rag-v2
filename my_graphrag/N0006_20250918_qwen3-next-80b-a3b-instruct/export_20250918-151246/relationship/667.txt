@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>禪定的實踐幫助破除愚痴，使人從無明中覺醒，是通向智慧的基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIAOZHI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jiaozhi is the ongoing practice that ultimately leads to Niepan; continuous awareness breaks the cycle of delusion and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

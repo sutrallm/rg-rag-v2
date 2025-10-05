@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>正念被视为通往解脱的直接门径，持续如实觉知可令心离贪嗔痴，从而证入解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

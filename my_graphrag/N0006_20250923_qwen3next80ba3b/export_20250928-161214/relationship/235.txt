@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF</source_entity>
+    <target_entity>INHERENT EXISTENCE</target_entity>
+    <relationship_description>SELF is based on the misconception of INHERENT EXISTENCE.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

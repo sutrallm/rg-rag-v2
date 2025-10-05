@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净无染</source_entity>
+    <target_entity>究竟境界</target_entity>
+    <relationship_description>Purity defines the ultimate enlightened state of realization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

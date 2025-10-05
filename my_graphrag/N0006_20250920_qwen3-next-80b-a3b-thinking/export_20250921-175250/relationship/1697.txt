@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Meditation is a core practice that saints cultivate to achieve enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

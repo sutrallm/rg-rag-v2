@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ACTUAL TEXT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Actual text should align with original text but is absent.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

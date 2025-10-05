@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>通过正念如实观照，可看清贪爱生起的根源并截断其延续。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

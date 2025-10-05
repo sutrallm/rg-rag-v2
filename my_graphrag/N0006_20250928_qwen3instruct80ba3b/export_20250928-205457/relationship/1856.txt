@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO JINGJIE</source_entity>
+    <target_entity>NI PAN</target_entity>
+    <relationship_description>Nirvana is explicitly defined as the ultimate state of liberation described in the section on “The State of Liberation.” The two terms are synonymous in context.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jieming is the first stage of Xiulian and is prerequisite for developing Chanding; ethical discipline calms the mind for concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

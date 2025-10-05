@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>正念包含持续的觉知，觉知是正念维持心念安住于当下的关键能力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

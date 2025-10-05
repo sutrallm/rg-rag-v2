@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>解脱者</target_entity>
+    <relationship_description>解脱者了知一切法无我，因此不攀缘五蕴或禅定境界，自在无碍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>QINGJING</target_entity>
+    <relationship_description>True wisdom involves not clinging to purity (qingjing), even though it is sought — demonstrating non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>System provides feedback to user asking for supplemental source text.</relationship_description>
+    <relationship_strength>3</relationship_strength>
+</relationship>

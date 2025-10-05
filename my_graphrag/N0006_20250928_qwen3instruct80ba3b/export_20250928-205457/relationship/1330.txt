@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FA</source_entity>
+    <target_entity>WUZHIG</target_entity>
+    <relationship_description>True understanding of Fa comes only through Wuzhig—the direct, non-conceptual realization of impermanence and selflessness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

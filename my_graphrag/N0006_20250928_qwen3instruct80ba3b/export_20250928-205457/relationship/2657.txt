@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>VOID-LIKE MIND</target_entity>
+    <relationship_description>The sage's mind is described as void-like—unblemished and limitless—as the ultimate expression of their liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

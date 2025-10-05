@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUZHANG</target_entity>
+    <relationship_description>Saintly beings exemplify perfect non-attachment, having eradicated all clinging and aversion through full realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity>SAMSAra</target_entity>
+    <relationship_description>Indulgence sustains Samsara by reinforcing attachment and ignorance, binding beings to the cycle of rebirth and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

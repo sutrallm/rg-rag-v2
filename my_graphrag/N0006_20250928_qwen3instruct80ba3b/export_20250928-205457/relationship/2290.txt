@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Enlightened beings are free from craving, as they no longer cling to any phenomenon as “me” or “mine.”</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>持戒为智慧的生起提供清净的身心基础，两者相辅相成，由戒生定，由定发慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

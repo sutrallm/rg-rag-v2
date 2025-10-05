@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Greed is one of the primary forces fueling the cycle of rebirth by creating attachment and karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

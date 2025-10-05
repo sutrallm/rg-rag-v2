@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALL REALMS</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>ALL REALMS universally respect and honor the SAGE.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

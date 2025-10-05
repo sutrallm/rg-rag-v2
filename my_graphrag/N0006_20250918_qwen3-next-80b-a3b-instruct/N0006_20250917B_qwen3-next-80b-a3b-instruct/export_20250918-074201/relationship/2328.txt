@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>精進修行的目的之一是克服貪欲，避免沉溺於無明與享樂。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

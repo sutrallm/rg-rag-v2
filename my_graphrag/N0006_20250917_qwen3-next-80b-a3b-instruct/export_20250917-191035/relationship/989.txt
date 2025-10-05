@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>諸法因緣生滅</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>了知諸法因緣生滅的實相，是生起超越執著智慧的根本依據，因為無常與緣起消解了對恒常「我」與「物」的執著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

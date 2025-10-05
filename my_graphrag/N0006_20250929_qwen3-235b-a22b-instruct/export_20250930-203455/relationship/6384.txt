@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>无住</target_entity>
+    <relationship_description>解脱最终指向无住，即心不执着于任何对象或状态，保持自由与自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

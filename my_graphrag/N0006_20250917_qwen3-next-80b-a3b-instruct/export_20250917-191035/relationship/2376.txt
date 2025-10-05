@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>The shengzhe embodies wuqiu: there is no seeking, no aspiration for personal gain, only pure presence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

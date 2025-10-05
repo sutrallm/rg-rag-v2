@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REMOVING ENDING MANTRAS</source_entity>
+    <target_entity>RETAINING DOCTRINAL DETAILS</target_entity>
+    <relationship_description>Removing ending mantras focuses the text strictly on core doctrinal elements, ensuring details are retained without supplementary verses.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

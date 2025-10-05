@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chaoshi is the direct realization of Wuwo, the insight that the self is an illusion formed by conditioned phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

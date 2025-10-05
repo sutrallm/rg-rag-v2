@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN ZAI DANGXIA</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Practice in the present moment (Xiulian zai dangxia) is defined and realized through the continuous application of mindfulness (Zhengnian) in everyday experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

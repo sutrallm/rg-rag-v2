@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Shengzhe dwell in constant zhengnian, maintained through disciplined practice, making awareness their natural state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

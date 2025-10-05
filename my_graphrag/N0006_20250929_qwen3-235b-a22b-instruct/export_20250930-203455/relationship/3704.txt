@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是解脱的关键，能照见实相、超越虚妄分别，达到自在无碍。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

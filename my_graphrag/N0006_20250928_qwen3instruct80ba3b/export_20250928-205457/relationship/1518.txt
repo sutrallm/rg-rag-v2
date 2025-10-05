@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_CONFLICT</source_entity>
+    <target_entity>ENLIGHTENED_BEING</target_entity>
+    <relationship_description>Freedom from inner conflict — through non-attachment to dualities — is a defining characteristic of the enlightened state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

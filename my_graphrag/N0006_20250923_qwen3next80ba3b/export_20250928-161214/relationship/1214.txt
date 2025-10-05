@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PLACE NAMES</target_entity>
+    <relationship_description>The original text includes geographic locations that must be deleted.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FREEDEOM</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Ultimate freedom arises only when non-self is fully realized — all bondage stems from the illusion of a separate self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

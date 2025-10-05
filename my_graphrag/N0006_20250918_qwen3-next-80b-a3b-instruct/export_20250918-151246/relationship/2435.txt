@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>FANGYI</target_entity>
+    <relationship_description>Zhengnian (mindful awareness) is the direct antidote to fangyi (unmindful indulgence), breaking the cycle of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

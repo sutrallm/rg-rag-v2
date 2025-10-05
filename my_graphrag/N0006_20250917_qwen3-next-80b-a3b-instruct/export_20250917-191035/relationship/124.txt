@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>The enlightened sage is free from hatred — they maintain equanimity in all situations, unperturbed by aversion or resistance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

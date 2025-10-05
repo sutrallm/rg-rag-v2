@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Zhi Hui is the insight that directly reveals Wu Wo (no-self): the realization that the self is an illusion composed of transient aggregates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

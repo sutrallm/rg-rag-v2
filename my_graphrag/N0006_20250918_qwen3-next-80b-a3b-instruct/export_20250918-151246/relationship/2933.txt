@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>净土</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>净土并非外在境界，而是解脱心状态的象征，即当下无执、自在的心境本身。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

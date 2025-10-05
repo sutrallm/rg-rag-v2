@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>内心暗角</target_entity>
+    <relationship_description>修行者通过正念如灯照亮内心暗角，使杂念无处藏身，促进心识净化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

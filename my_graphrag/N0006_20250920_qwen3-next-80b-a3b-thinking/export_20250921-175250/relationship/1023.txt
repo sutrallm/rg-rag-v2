@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>SOURCE_TEXT</target_entity>
+    <relationship_description>User must supply the source text for translation processing.</relationship_description>
+    <relationship_strength>3</relationship_strength>
+</relationship>

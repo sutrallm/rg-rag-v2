@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>阿羅漢果</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>心解脫是阿羅漢果的核心特徵之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

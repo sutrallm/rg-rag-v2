@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DINGHUI</source_entity>
+    <target_entity>NIETAN</target_entity>
+    <relationship_description>Dinghui—the balanced cultivation of concentration and wisdom—is the essential path leading directly to Netan, the ultimate cessation of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>無常與無我是佛教三法印中的兩項，一切無常的現象亦無獨立不變的自我，共同構成如實知見的內容。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

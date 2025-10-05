@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>证果</target_entity>
+    <relationship_description>True wisdom involves not clinging even to the notion of spiritual attainment, recognizing it as empty of inherent existence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

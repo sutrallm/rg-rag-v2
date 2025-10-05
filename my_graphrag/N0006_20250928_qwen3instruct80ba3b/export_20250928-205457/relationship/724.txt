@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>DEATH_AND_REBIRTH_CYCLE</target_entity>
+    <relationship_description>Nirvana is the complete liberation from the cycle of death and rebirth, achieved when ignorance and attachment are extinguished.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

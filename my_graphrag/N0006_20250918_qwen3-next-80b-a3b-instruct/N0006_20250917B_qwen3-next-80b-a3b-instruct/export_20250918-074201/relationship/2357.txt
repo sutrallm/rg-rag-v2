@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常与无我同为实相的两个核心面向，观见二者是断除执着、导向解脱的智慧基石。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

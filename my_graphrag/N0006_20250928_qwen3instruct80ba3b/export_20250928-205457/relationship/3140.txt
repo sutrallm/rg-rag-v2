@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin (diligent effort) is necessary to stabilize and sustain chanding (meditative concentration); without it, chanding cannot be developed and one risks falling into ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

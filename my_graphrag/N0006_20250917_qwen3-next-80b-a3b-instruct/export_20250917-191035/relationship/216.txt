@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>凡俗</target_entity>
+    <relationship_description>聖者以無染無懼無求的生命狀態，與凡俗眾生的執著與隨境轉動形成根本對比。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Jielv (morality) is the first leg of the threefold training that leads to jiede (liberation); without ethical grounding, liberation is unattainable.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

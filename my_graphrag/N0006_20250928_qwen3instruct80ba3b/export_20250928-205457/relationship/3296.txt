@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Siling is used as a contemplation object to enhance jingjin. Daily awareness of death motivates diligent practice and prevents complacency.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

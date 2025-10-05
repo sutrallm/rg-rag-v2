@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGETIC EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without sustained effort, the foundation of chanding cannot be established or maintained, as the mind is prone to slackness and distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

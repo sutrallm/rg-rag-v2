@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛</source_entity>
+    <target_entity>须菩提</target_entity>
+    <relationship_description>佛主动向须菩提传授教义，提问关于三十二相的问题。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

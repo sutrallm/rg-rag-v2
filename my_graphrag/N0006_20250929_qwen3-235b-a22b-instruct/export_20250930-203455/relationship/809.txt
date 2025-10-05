@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>三学中的“慧”即智慧，是通过持戒与禅定后发展出的观照能力，用于断除我执与法执。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

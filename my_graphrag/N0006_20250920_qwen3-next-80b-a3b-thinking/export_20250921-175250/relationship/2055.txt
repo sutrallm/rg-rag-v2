@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANG MING</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>光明不灭则烦恼自然止息，心若持守不乱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

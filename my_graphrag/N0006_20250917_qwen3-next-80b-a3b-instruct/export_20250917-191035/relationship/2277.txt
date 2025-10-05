@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>聖者每日勤修內觀，展現出持續精進的修行態度，是其聖者特質的關鍵。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

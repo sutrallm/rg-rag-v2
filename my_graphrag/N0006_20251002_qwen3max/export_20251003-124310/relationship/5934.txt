@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>见解</target_entity>
+    <relationship_description>真正的寂静源于不执着见解，修行者对任何认知或观点皆无执取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

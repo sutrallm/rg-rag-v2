@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋</source_entity>
+    <target_entity>究竟涅槃</target_entity>
+    <relationship_description>瞋是輪迴之因，斷盡瞋恚是證得究竟涅槃的必要條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PUTA</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Puta (letting go) is equated with immediate realization of nirvana; true liberation is the absence of clinging, not acquisition.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

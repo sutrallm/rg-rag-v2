@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE REALMS</source_entity>
+    <target_entity>BURNING HOUSE</target_entity>
+    <relationship_description>The three realms of existence are metaphorically described as a burning house, highlighting their dangerous nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

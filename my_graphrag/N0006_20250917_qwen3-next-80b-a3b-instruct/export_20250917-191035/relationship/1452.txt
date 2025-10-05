@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>聖者以慈悲利他，展現智慧與悲心雙運的圓滿品質。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

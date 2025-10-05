@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>True liberation is synonymous with the realization of no-self; any trace of "I have attained" is still attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

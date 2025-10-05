@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WARDING_OFF_ATTACHMENTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>By letting go of attachment to both pleasure and pain, one achieves the unattached state necessary for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

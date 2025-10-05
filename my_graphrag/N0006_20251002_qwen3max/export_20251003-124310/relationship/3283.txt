@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观慧</source_entity>
+    <target_entity>执取</target_entity>
+    <relationship_description>观慧能断除执取，通过了知五蕴等法无常、苦、无我，消除对身心现象的贪爱与执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DANGXIA</source_entity>
+    <target_entity>WUXIANG</target_entity>
+    <relationship_description>Dangxia (present-moment awareness) is the practical expression of Wuxiang — true practice occurs regardless of external environment when the mind is inner-focused.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

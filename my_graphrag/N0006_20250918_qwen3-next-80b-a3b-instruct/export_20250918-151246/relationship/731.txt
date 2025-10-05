@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Fangyi undermines Chanding; mental scattering and desire destroy the stability required for meditative focus.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

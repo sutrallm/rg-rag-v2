@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Fo Tu shows the path to Jietuo, but does not grant it—liberation requires personal practice, not external salvation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

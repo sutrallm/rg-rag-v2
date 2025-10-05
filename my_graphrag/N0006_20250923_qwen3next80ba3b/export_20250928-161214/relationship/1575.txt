@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DOCTRINE DETAILS</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>DOCTRINE DETAILS must be preserved in the original text during revision.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

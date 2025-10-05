@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>修行者以平等心面对顺逆境，不贪爱不厌离，安住中道，是修行态度的体现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-REFLECTION</source_entity>
+    <target_entity>PRESENT-MOMENT AWAKENING</target_entity>
+    <relationship_description>Self-reflection cultivates the ability to be aware of the present moment, making awakening possible by recognizing attachment and aversion as they arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

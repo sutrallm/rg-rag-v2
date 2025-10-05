@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL FORMATIONS</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Mental formations are impermanent like a hollow banana tree.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

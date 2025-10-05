@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is defined as the cessation of suffering; thus, liberation is the direct result of understanding and ending suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

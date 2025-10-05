@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>YUANQI XINGKONG</target_entity>
+    <relationship_description>Zhihui fully encompasses yuanqi xingkong, as true wisdom understands phenomena as interdependently arisen and empty of self-nature.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

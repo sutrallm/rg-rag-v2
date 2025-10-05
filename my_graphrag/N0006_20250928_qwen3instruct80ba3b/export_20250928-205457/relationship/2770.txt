@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住修行的中道</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>无住修行以正念为心法核心，在不迎不拒中安住当下。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

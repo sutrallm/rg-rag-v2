@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔恨</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>嗔恨與貪愛、愚痴同為三毒，是輪迴流轉的驅動力之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

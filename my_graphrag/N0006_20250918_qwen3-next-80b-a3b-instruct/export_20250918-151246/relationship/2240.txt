@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>The Buddha taught insight meditation (vipassana) as the means to perceive the true nature of reality and attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

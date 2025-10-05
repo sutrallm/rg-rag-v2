@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHI</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Chi (delusion) is the root of Wuming (ignorance); they are deeply interlinked, as confusion about reality fuels the fundamental misperception of self and permanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

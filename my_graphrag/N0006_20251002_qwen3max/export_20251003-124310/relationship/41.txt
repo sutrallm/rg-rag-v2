@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止觀</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>止觀修習能斷除煩惱根本，是對治煩惱的核心方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

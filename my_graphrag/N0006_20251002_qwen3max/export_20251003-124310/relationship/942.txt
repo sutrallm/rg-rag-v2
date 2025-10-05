@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念与觉知</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>正念与觉知能有效防护六根，在六根接触外境时维持心的清净与安定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

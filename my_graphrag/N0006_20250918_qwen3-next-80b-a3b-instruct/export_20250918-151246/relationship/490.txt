@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUZHIZHOU</target_entity>
+    <relationship_description>A Noble Sage possesses wuzhizhou — they see all phenomena as impermanent and non-self, and therefore do not cling even to spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

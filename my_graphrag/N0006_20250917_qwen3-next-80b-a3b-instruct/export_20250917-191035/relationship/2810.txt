@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STRAIGHTPATH</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Following the Straight Path is the disciplined method to overcome and gradually eliminate defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

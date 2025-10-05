@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Neiguan involves directly observing Wuyun (five aggregates) to see they are empty, impersonal, and not “me” or “mine.”</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

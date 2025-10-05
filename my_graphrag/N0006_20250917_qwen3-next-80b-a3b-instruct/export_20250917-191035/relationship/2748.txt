@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QINGMING</source_entity>
+    <target_entity>REN</target_entity>
+    <relationship_description>Qingming leads to the dissolution of the conceptual REN — only when clarity is fully established does the illusion of a separate self fade.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

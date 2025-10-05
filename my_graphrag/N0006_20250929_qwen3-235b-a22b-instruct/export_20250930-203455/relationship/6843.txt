@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>神通异象</target_entity>
+    <relationship_description>真正的修行成果不在神通异象，而在烦恼减少、心安详、慈悲无执等可验证的内在状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

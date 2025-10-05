@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH OF LIBERATION</source_entity>
+    <target_entity>PURE AND FREE</target_entity>
+    <relationship_description>The path of liberation leads to a pure and free state of mind by transcending attachment and delusions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

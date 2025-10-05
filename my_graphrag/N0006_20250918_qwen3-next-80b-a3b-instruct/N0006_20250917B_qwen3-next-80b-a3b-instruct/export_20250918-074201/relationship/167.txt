@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正定</target_entity>
+    <relationship_description>正定是禅定的正确形式，二者是同一修行法门的不同表达，正定强调方向正确，禅定强调状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMANCIPATION</source_entity>
+    <target_entity>TRANSNORMATIVE WISDOM</target_entity>
+    <relationship_description>Emancipation is only fully realized through transnormative wisdom, which dissolves attachment—even to liberation itself—by revealing the emptiness of all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

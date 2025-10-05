@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无我观能破除我执与我所执，放下对身心外境的占有，从而获得真正的自由，是解脱的实践路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

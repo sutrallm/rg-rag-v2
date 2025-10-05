@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-REACTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-reaction breaks habitual chains of craving and aversion, which are root causes of suffering; thus, it is a direct path toward liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>万法无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>万法无常与无我是佛教的核心智慧，二者共同揭示实相，相辅相成。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

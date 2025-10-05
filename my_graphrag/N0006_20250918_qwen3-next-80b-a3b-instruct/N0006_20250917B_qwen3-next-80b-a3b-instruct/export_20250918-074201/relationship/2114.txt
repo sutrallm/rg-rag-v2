@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHMENT</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Detachment from all phenomena — including spiritual attainments — is essential for achieving true enlightenment and liberation from samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

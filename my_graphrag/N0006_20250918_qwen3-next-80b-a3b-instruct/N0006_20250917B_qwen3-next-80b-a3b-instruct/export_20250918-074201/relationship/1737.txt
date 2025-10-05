@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无自性</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>洞见无自性是深度智慧的体现，是超越一切执著的终极观照。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

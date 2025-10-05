@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Insight into non-self arises through direct observation of impermanence; all phenomena are transient, and thus cannot constitute a lasting self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

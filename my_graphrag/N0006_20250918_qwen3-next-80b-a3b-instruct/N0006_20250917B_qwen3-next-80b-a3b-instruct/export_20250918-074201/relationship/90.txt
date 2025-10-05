@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>SAMSAra</target_entity>
+    <relationship_description>Delusion, along with greed, is a root cause of ignorance that perpetuates the cycle of samsara and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

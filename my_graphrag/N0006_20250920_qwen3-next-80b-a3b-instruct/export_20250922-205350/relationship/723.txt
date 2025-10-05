@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETAILED_PRACTICE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Inconsistent effort leads to loss of meditative attainment; sustained, daily practice is required to develop and maintain Chan Ding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

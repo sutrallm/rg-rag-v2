@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>CHIYU</target_entity>
+    <relationship_description>Knowing Ku (suffering) as an inherent condition motivates the arising of Chiyu (wisdom), which seeks to understand and transcend it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

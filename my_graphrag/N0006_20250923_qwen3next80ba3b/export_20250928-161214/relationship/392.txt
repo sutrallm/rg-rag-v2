@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATION</source_entity>
+    <target_entity>IMPERMANENCE VIEW</target_entity>
+    <relationship_description>CULTIVATION facilitates the understanding of IMPERMANENCE VIEW through meditative practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

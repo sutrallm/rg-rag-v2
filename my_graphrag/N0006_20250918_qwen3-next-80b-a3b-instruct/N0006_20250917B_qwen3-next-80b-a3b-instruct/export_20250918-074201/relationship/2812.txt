@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGYE</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Enlightened beings have eradicated ignorance, which is the root of greed, hatred, and delusion that they have transcended.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JI KEXINGXI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Ji Kexingxi underscores the necessity of timely practice for achieving Jiede, since death is uncertain and opportunity is fleeting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

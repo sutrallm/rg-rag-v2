@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>刹那生灭</target_entity>
+    <relationship_description>五蕴皆刹那生灭，是其无常、无我、空性的具体表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

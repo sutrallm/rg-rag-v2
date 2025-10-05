@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>禅定是通向解脱的重要路径，通过逐步净化心识，最终达成无念无住之境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

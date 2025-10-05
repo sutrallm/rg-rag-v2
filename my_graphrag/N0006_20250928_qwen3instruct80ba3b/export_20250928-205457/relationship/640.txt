@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>The enlightened being (Shengzhe) fully realizes that the Five Aggregates (Wu Yun) are empty of self, thus embodying insight into anatta.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

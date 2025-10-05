@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Delusion causes aversion by reinforcing the illusion of control and the expectation that one should avoid pain, which is contrary to the nature of reality.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

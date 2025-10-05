@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INWARD_OBSERVATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Inward Observation is the means by which Chanding is deepened, as the mediator turns attention inward to stabilize the mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

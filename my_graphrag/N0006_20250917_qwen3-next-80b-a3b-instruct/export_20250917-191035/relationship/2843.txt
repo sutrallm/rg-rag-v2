@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法執</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>法執即使對修行成果的執取，仍會阻礙解脫，是更微細的束縛。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

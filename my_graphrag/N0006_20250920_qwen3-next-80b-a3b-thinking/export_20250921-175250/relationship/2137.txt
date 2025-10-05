@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>attachment</source_entity>
+    <target_entity>bondage</target_entity>
+    <relationship_description>Attachment to states or results creates bondage, preventing liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>聖者已斷盡嗔恚，內心不再起抗拒與憎惡。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

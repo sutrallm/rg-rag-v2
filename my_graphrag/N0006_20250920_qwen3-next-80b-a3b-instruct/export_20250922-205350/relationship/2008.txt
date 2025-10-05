@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定凝聚心力，使修行者得以生起智慧，看清諸法實相；智慧是禪定成熟後的自然成果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

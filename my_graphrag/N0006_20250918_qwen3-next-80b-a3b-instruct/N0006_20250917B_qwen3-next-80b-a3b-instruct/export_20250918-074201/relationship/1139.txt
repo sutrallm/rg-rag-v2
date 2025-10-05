@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the operational mechanism of Chanding, sustaining present-moment awareness that prevents mental distraction and supports stabilizing the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

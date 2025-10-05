@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>STATE</target_entity>
+    <relationship_description>Wisdom enables non-attachment to states by understanding their impermanent nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

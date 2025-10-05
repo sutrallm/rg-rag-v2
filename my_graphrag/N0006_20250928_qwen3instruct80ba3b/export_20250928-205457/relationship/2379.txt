@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Delusion leads to hatred by causing individuals to misperceive phenomena as threatening or undesirable, prompting aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

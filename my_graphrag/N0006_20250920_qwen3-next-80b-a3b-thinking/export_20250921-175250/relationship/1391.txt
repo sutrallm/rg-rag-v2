@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILENCE</source_entity>
+    <target_entity>PERFECT ACCOMPLISHMENT</target_entity>
+    <relationship_description>Abiding in silence contributes to achieving perfect spiritual accomplishment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

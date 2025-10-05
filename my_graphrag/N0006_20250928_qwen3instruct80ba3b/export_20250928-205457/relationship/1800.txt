@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUAO DE ZHI YI LU JING</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>The threefold training (Jie Jing, Chan Ding, Hui) is the only path that leads to the complete cessation of suffering and the manifest realization of Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

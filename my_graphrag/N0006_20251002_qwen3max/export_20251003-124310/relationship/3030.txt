@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>心解脱使修行者不执取、不贪恋任何境界或成果，从而不被执着所束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

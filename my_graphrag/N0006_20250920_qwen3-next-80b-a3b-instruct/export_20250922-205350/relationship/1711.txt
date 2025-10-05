@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENGNING</target_entity>
+    <relationship_description>The goal of chanding is to cultivate profound tranquility (shengning), a state of inner stillness and peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

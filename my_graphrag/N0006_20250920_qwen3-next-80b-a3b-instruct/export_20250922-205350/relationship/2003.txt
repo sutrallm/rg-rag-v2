@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Zhihui (wisdom) is the direct cause of Jietuo (liberation), as it uproots ignorance and the illusion of self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

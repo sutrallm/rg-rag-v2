@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Realizing non-self is essential wisdom for transcending ego-clinging and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

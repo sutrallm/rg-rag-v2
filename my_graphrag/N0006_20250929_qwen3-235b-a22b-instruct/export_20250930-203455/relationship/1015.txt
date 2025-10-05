@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>佛陀是正法的源头，其教法即为正法，需通过实践而非仅听闻来真正受益。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOOB</source_entity>
+    <target_entity>INSIGHT WISDOM</target_entity>
+    <relationship_description>A stoob possesses perfected insight wisdom, seeing reality as it truly is without distortion or attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>妄念</target_entity>
+    <relationship_description>觉知使修行者不随妄念流转，能如理观察身心变化，保持专注与清明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

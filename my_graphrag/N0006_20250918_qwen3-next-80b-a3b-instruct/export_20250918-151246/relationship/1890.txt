@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>SHENG HUI</target_entity>
+    <relationship_description>The sage (Sheng Zhe) is defined by possessing transcendent wisdom (Sheng Hui) and stable meditative concentration.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

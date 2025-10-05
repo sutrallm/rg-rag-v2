@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT wisdom</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Transcendent Wisdom directly leads to Nirvana by seeing through illusion and ceasing attachment, which is the essence of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

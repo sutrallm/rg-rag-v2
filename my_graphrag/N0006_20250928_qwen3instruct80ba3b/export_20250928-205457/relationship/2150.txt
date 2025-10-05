@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>Wuwo (non-self) is realized through the analytical meditation on Wu Yun (the five aggregates), which are seen as empty of an inherent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

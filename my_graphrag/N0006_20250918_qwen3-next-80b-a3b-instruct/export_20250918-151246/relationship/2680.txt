@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXING</source_entity>
+    <target_entity>DANGXIA</target_entity>
+    <relationship_description>Xiuxing is not separate from Dangxia; true practice occurs only in the present moment through continuous mindfulness of mental activity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

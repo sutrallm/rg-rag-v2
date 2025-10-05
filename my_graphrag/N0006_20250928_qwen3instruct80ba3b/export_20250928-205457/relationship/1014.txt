@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Minenedness is the practice of anchoring awareness in the present moment to prevent mental wandering and cultivate insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

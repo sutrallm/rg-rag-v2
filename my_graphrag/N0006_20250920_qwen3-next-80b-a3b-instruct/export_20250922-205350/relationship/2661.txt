@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>ZHINENG JIEDE</target_entity>
+    <relationship_description>Transcending attachment (Chaoyue Zhuzhe) is the experiential realization of Zhineng Jiede (wisdom-based liberation), where insight into emptiness dissolves clinging to all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

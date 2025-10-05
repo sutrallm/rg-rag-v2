@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FA</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Zhihui enables the realization that all fa (phenomena), including spiritual experiences, are impermanent and empty, and thus should not be grasped.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

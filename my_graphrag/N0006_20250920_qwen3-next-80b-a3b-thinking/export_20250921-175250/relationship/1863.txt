@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENT_PRACTICE</target_entity>
+    <relationship_description>Practitioners engage in consistent and focused spiritual practice to advance on the path to enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

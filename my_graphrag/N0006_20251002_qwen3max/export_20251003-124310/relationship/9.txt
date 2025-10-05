@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>真正的寂静即内心烦恼彻底止息的状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>十種結縛</source_entity>
+    <target_entity>結縛</target_entity>
+    <relationship_description>十種結縛是結縛的具體分類，總稱為束縛眾生的煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

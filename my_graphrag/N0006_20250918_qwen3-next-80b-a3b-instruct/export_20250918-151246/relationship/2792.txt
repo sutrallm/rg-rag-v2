@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Without Jingjin (diligent effort), Fa Nao cannot be overcome, and one remains trapped in delusion and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

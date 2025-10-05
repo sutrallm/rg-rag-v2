@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Wuwo (non-self) is the foundational insight that dismantles Fannao (afflictions), as craving and aversion arise from mistaken belief in a fixed self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

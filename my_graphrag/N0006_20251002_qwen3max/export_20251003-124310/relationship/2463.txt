@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>聖者已證得心解脫，內心自由無礙，超越世間執取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

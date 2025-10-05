@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Delusion is the mistaken belief in a real, enduring self, which wisdom reveals as false through the direct insight of non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

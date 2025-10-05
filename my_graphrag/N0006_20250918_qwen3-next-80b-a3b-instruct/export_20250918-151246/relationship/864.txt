@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>ZIXING QINGJING</target_entity>
+    <relationship_description>Realizing non-self reveals that the mind's true nature is pure—there is no "I" to be defiled; thus, the doctrine of non-self supports the understanding of original purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

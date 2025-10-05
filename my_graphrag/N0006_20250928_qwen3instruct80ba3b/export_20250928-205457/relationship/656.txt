@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Effort is necessary to develop and sustain chanding, preventing complacency and spiritual decline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUINTARA</source_entity>
+    <target_entity>AURELIA</target_entity>
+    <relationship_description>Quintara brokered the hostage exchange between Firuzabad and Aurelia.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

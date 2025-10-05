@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the practical mechanism through which chanding is cultivated and sustained, maintaining awareness of the present moment without disturbance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

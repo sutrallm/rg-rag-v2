@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS (SANXUE)</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the central pillar of the three trainings, integrating ethical conduct and wisdom into a unified path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Wisdom is the direct realization of no-self — recognizing the impermanent and conditioned nature of all phenomena, which dissolves the illusion of independent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

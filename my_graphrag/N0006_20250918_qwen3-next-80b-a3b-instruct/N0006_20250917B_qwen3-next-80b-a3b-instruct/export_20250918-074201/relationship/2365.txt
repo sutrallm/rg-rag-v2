@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Exertion keeps the practitioner on the path long enough for wisdom to mature, while wisdom directs exertion away from mechanical effort toward skillful, insight-driven practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

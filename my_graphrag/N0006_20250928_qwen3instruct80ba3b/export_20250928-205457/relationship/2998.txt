@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Shengzhe (saintly beings) have completely extinguished Delusion, the root of ignorance and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Noble Ones are those who have fully achieved liberation—their qualities define what liberation looks like in action: stillness, non-reactivity, and insusceptibility to worldly influences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

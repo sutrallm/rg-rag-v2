@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Through chanding, one disengages from craving and attachment, thereby weakening greed as a defilement.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

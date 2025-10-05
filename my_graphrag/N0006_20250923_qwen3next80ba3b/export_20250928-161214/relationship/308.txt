@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mindfulness enables mastery of liberation, as stated in '唯有持续守护心念，才能真正掌握解脱之法'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVERSION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Aversion, like greed and delusion, forms one of the three poisons that bind beings to samsara.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

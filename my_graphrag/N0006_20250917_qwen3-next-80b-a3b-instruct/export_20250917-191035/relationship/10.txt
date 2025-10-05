@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIXUXIULI</source_entity>
+    <target_entity>ZHENZHIDEZIYOU</target_entity>
+    <relationship_description>Continuous practice is the path through which true freedom is gradually realized; without it, liberation remains theoretical.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

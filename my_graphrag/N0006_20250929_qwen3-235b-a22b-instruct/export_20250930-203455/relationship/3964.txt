@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定是智慧的资粮，深层定境能令心清净，从而为智慧的生起提供清晰、专注的心理基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

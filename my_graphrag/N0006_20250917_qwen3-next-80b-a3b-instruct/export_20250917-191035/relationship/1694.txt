@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>WISENESS</target_entity>
+    <relationship_description>Daily Practice trains the mind to observe and release attachments, which is how Wiseness is developed in real-time life experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

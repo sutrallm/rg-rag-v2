@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WILD BEAST</source_entity>
+    <target_entity>MOSQUITO-FREE FOREST</target_entity>
+    <relationship_description>The wild beast moves through the mosquito-free forest without disturbance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

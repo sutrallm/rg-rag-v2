@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>智慧的最高體現是體悟無我，從而徹底斷除我執與輪迴之因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGES</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Sages have completely eradicated defilements through profound realization and practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

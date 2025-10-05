@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三法印</source_entity>
+    <target_entity>修行误区</target_entity>
+    <relationship_description>三法印是判断正法与邪见的准则，依此可避免堕入修行误区。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

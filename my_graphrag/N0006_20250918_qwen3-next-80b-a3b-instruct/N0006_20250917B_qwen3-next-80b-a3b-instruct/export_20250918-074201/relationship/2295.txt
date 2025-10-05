@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Through Chanding, one develops the insight leading to Wuzhu—non-attachment to meditative states and phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>貪</target_entity>
+    <relationship_description>貪是煩惱的具體表現之一，會驅使心遠離安定與解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

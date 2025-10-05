@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WANGMING</target_entity>
+    <relationship_description>Continuous effort through jingjin prevents falling into ignorance and sloth, which are obstacles to progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>外缘</source_entity>
+    <target_entity>内心寂静</target_entity>
+    <relationship_description>内心寂静的状态表现为不再被外缘扰动，如实觉知即得自在，无需压制或追逐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SEVERAL SAINTS</source_entity>
+    <target_entity>EXCELLENT EFFORT</target_entity>
+    <relationship_description>The saints maintain excellent effort to uphold their pure conduct and remain unshaken by worldly conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

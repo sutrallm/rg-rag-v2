@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Non-self observation (wuwo guanzhao) is the practice of examining the five aggregates to realize their insubstantial, impersonal nature.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>精进是实践戒定慧三学的驱动力，三学的圆满需依赖持续精进的修行态度。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Saintly beings (shengzhe) are those who have achieved true stillness (jingji), as their minds are free from inner conflict and mental agitation, reflecting the culmination of their practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

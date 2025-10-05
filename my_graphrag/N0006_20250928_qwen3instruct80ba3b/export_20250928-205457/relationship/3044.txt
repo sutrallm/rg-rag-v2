@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jielv (moral discipline) creates mental purity and eliminates regret, forming the essential foundation for chanding (concentration) to develop without disturbance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

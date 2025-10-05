@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>徹底體認「無我」是實現解脫的必要條件，執著於「我」是痛苦的根源。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

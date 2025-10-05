@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISENESS</target_entity>
+    <relationship_description>Chanding provides the stable mind necessary for Wiseness to arise — deep insight requires a concentrated and calm mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

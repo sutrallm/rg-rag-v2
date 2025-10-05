@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>KU</target_entity>
+    <relationship_description>Libertion is defined by the complete cessation of suffering, which occurs when ignorance and attachment are fully uprooted.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF OBSERVATION</source_entity>
+    <target_entity>SIX SENSE BASES</target_entity>
+    <relationship_description>Non-self observation includes examining the six sense bases to realize that perception arises without a central "I" controlling it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

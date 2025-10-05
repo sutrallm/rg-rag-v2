@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The holy practitioner (shengzhe) has attained liberation (niepan), having completely severed the roots of suffering and afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

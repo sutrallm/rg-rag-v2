@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>不轻慢他人</target_entity>
+    <relationship_description>修行者应保持不轻慢他人的态度，体现尊重与平等，不因修行而傲慢。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

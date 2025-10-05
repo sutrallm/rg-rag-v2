@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>mindfulness</source_entity>
+    <target_entity>loneliness</target_entity>
+    <relationship_description>Mindfulness helps practitioners remain undisturbed by feelings of loneliness during practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

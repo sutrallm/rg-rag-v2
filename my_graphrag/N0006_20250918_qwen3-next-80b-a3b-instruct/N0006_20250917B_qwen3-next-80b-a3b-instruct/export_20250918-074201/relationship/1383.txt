@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Effortful practice is the necessary path to achieve liberation, as懈怠 (laziness) leads one deeper into samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

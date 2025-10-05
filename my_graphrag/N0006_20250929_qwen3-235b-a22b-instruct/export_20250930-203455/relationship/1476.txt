@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>内心清净</target_entity>
+    <relationship_description>内心清净的体现是心不再被贪嗔痴所扰，遇顺逆境皆如如不动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

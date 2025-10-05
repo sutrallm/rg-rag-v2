@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO DE ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>True wisdom includes seeing the absence of a permanent self in all experiences, which dissolves clinging and identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

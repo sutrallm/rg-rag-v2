@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAN NAO</source_entity>
+    <target_entity>SONG YI</target_entity>
+    <relationship_description>Indulgence (Song Yi) fosters the growth of afflictions (Fan Nao); they mutually reinforce each other.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

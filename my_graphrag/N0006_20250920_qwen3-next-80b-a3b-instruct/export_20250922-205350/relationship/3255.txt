@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous effort is necessary to establish and maintain chanding, preventing the mind from slipping back into ignorance and restlessness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

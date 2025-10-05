@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>Meditative concentration (chanding) supports the practice of non-self contemplation (wuwo guan) by stabilizing the mind to observe the impermanent, unsubstantial nature of the five aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>SHENG SI LUN HUI</target_entity>
+    <relationship_description>Realizing non-self (Wu Wo) breaks the root of clinging that binds one to cyclic existence (Sheng Si Lun Hui), leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

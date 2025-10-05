@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>圣者因具足超越执着的智慧，才能不执著禅相与境界，心无挂碍，这是圣者特质的核心表现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

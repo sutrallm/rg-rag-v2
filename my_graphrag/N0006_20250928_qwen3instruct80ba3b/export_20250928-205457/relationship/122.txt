@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無修之修</source_entity>
+    <target_entity>當下</target_entity>
+    <relationship_description>無修之修強調覺悟不在未來，而在當下念頭不迷，當下是實踐無修之修的唯一場域。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

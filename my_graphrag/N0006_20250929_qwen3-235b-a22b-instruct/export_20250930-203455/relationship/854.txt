@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在光明</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>内在光明是无碍觉知的清净心性，与智慧本质相通，皆超越执着与无明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

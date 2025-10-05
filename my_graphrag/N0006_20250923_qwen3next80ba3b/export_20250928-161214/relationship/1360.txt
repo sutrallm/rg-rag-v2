@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOREST</source_entity>
+    <target_entity>MOSQUITOES</target_entity>
+    <relationship_description>The forest is described as free of mosquitoes, representing a serene space without external distractions.</relationship_description>
+    <relationship_strength>3</relationship_strength>
+</relationship>

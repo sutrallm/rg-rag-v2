@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>LIU HUAN</target_entity>
+    <relationship_description>The Shengzhe has transcended liu huan — the cycle of rebirth — through wisdom and ethical discipline, making them free from its pangs.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

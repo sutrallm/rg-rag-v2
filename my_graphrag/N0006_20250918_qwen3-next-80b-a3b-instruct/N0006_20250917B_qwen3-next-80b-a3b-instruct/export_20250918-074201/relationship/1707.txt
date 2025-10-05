@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGXI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Regular xingxi leads to the natural emergence of chanding as mental distractions decrease and focus becomes stable.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

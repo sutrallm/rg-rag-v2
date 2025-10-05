@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念调伏</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>心念调伏是修行的根本，唯有调伏自心才能真正迈向解脱之道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

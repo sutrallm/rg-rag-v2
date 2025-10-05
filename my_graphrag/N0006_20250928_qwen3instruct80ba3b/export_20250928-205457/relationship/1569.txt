@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO SHISHI</source_entity>
+    <target_entity>WU ZHU</target_entity>
+    <relationship_description>Realizing no-self naturally leads to non-abiding mind—because there is no ‘self’ to cling to anything.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

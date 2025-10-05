@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom—the insight into impermanence and non-self—is the direct path to liberation, enabling the practitioner to transcend clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

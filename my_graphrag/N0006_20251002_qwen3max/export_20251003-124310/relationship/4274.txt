@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者必须保持不放逸，否则会被烦恼与无明所制，无法成就道业。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

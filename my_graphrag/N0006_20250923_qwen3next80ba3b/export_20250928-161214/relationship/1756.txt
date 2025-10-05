@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHARIPUTRA</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Shariputra is depicted speaking to the Buddha in the example text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

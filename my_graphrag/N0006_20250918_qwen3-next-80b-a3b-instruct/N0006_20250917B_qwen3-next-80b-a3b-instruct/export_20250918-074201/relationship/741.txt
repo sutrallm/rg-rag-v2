@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>CHAO YUE ZHIZHUI</target_entity>
+    <relationship_description>Chan Ding is a means to develop the wisdom of transcending attachment by calming the mind to observe reality clearly.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MEI HU</target_entity>
+    <relationship_description>禅定修持通过猛虎伏于岩穴的比喻，体现内心稳固自保而非主动伤人的特性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

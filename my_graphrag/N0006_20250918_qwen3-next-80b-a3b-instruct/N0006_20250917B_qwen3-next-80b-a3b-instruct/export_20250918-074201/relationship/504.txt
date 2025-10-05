@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_OF_PRACTICE</source_entity>
+    <target_entity>WISDOM_OF_NON-ATTACHMENT</target_entity>
+    <relationship_description>The Path of Practice culminates in the development of Wisdom of Non-Attachment, especially through the final stage of insight (wisdom).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

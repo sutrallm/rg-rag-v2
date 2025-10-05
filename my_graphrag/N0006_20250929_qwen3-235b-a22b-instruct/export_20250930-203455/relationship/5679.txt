@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>修行者在智慧基础上生起无伪慈悲，二者统一如鸟之双翼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAZINESS</source_entity>
+    <target_entity>GOOD PRACTICE</target_entity>
+    <relationship_description>Laziness opposes good practice; only through persistent effort can one overcome laziness and maintain steady progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

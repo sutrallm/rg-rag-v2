@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGLI ZHIHUI</source_entity>
+    <target_entity>JIEXI</target_entity>
+    <relationship_description>Shengli zhihui (transcendent wisdom) is the direct pathway to jiexi (liberation), as seeing reality as impermanent and non-self destroys the roots of attachment and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

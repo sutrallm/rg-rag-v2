@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE HINDRANCES</source_entity>
+    <target_entity>RESTLESSNESS</target_entity>
+    <relationship_description>RESTLESSNESS is one of the Five Hindrances that causes mental agitation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

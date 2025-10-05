@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Through sustained concentration, the mind becomes clear enough to see through the delusion of permanence and self, allowing wisdom to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

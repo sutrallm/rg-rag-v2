@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>SRINGLIFCYCLE</target_entity>
+    <relationship_description>Hatred generates negative karma and clinging to aversion, perpetuating the cycle of suffering and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

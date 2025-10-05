@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉察当下</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>觉察当下是禅定的具体实践方式，通过持续观照身心变化，实现心念专注与稳定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

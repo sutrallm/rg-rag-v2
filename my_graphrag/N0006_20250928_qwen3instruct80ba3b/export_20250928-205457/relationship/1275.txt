@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Nirvana is the final extinguishing of delusion — the root of all suffering — leading to unconditioned freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

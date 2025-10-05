@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>瞋恨</target_entity>
+    <relationship_description>圣者已超越瞋恨，不再受情绪对立所扰，是其内在清净的显化。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天界众生</source_entity>
+    <target_entity>解脱者</target_entity>
+    <relationship_description>天界众生对解脱者心生敬仰，因其具足戒定慧三学、超越生死之流。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE_LIBERATION</source_entity>
+    <target_entity>SAMSA_RA</target_entity>
+    <relationship_description>Ultimate liberation means complete freedom from the cycle of samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

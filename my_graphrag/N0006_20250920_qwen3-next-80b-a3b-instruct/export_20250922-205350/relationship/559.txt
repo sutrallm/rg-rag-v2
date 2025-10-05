@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHISO</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Wuzhiso is the defining wisdom of the Shengzhe; only by transcending attachment can one become a true sage liberated from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

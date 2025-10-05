@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Continuous effort (jingjin) is required to maintain and deepen meditative concentration (chanding), preventing distraction and mental dullness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>貪是解脫的主要障礙，斷貪為解脫之必要條件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

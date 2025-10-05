@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>警觉是修行者必须保持的心理状态，以确保不放逸、掌握禅定要领、不被无常所夺。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

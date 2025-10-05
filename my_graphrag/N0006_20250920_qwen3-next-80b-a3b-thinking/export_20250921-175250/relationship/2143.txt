@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>ORIGINAL_CONTENT</target_entity>
+    <relationship_description>The query references the absence of original content needed for translation processing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>SI SHENG LUN HUI</target_entity>
+    <relationship_description>By eliminating greed, hatred, and delusion, the Saintly One transcends the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

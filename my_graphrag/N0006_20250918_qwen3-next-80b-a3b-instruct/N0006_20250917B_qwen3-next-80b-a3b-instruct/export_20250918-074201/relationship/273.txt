@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAOZHAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Inner stillness (Laozhan) is both the result of successful meditation (Chanding) and its defining quality: unshakable peace regardless of external conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

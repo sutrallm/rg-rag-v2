@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGXIN</target_entity>
+    <relationship_description>Sages dwell in a perfectly purified mind; their state is the embodiment of Jingxin.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

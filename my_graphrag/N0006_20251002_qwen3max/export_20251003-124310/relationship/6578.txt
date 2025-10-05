@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀慧</source_entity>
+    <target_entity>十二處</target_entity>
+    <relationship_description>十二處是觀慧所觀察的法之一，用以分析認識作用的無我本質。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

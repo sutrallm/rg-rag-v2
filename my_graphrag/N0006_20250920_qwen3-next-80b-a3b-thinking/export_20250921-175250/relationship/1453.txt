@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SENTIENT_BEINGS</target_entity>
+    <relationship_description>Saints are revered by all sentient beings due to their compassionate and enlightened qualities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>戒律為禪定提供基礎，透過行為與意念的約束，創造內心清淨的條件，使禪定更容易成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

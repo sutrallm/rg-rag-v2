@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>貪嗔痴</target_entity>
+    <relationship_description>無明是貪嗔痴的根源，因不了解實相而生起貪愛、憎恨與愚痴。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

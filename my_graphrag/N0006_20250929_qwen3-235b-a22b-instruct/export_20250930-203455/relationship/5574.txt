@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自我检验标准</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>自我检验标准以戒定慧三学为衡量基准，判断修行是否真实进步。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

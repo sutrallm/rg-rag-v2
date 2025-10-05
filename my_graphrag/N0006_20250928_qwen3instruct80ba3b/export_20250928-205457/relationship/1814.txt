@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>正见以“涅槃寂静”为终极观照目标，是引导修行者通达解脱、契入实相的理论与实践指针。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

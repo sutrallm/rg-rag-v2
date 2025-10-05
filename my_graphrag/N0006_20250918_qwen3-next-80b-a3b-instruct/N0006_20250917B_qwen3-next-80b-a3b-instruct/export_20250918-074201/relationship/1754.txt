@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEZHIZHI GUICHU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Juezhizhi Guichu (awareness as refuge) is the culminating expression of Chanding, where mindfulness becomes continuous and effortless.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

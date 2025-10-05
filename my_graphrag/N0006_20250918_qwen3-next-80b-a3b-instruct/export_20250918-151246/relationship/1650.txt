@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON_ATTAINMENT</target_entity>
+    <relationship_description>Liberation is not an achievement or destination but the realization of non-attainment — that nothing was ever lost or needed to be gained.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

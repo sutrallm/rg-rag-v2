@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CALM_AND_INSIGHT</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Insight (vipassana), as part of calm and insight practice, directly cultivates transcendent wisdom by seeing reality as it is.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

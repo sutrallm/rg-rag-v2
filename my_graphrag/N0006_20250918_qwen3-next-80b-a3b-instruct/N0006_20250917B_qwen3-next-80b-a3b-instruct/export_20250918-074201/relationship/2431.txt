@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>當下寂靜</target_entity>
+    <relationship_description>解脫的狀態即是安住於當下寂靜，不再攀緣與抗拒，為其理論與實踐的體現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

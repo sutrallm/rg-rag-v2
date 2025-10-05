@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>瞋</target_entity>
+    <relationship_description>解脱者内心寂静，不生瞋恚，不为外境所动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

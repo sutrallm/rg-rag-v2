@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四大</source_entity>
+    <target_entity>无我观照</target_entity>
+    <relationship_description>四大是身体（色蕴）的构成元素，用于说明身体非“我”，是无我观照的实证对象之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

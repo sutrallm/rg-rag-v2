@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU</source_entity>
+    <target_entity>XINGXI</target_entity>
+    <relationship_description>Chanxiu is cultivated through xingxi — the repetitive, daily training that transforms the mind over time.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

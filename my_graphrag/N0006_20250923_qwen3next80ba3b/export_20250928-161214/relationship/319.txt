@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSTRUCTION</source_entity>
+    <target_entity>DIALOGUE</target_entity>
+    <relationship_description>The instruction requires converting dialogues into explicit doctrinal statements during text processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

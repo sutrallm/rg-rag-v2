@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>CALM_STATE</target_entity>
+    <relationship_description>Meditation results in a calm state of mind free from disturbance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

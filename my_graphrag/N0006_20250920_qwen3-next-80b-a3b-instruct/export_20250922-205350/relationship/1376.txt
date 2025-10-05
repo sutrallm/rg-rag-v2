@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PROFOUND_WISDOM</target_entity>
+    <relationship_description>Chanding cultivates the inner stillness necessary to develop profound wisdom about impermanence, suffering, and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

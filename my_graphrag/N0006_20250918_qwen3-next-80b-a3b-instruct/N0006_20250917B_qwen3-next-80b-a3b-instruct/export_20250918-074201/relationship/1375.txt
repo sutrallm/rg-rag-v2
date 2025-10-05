@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ARSECA</source_entity>
+    <target_entity>DELUSION_AND_SUFFERING</target_entity>
+    <relationship_description>Arseca (diligent effort) is the direct counterforce to delusion and suffering, enabling the practitioner to break free from their grip.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

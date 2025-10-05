@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天界眾神</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>天界眾神敬仰聖者的德行，顯示聖者的修行成就超越了一般神祇的境界。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

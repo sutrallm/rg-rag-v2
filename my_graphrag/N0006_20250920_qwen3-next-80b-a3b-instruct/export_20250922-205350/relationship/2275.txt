@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是執著完全熄滅的狀態，心不黏著、不追尋、不排斥任何現象，方能證得本然清淨。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

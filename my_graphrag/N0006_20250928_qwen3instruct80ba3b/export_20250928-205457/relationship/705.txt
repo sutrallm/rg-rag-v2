@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding (meditative concentration) is the central枢纽 (hub) of the threefold training, supported by ethical discipline and leading to wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

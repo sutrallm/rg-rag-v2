@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Without diligent effort, one cannot sustain the insight of non-self. Maintaining awareness of no-self requires consistent, mindful application—Jingjin is the fuel for realizing Wuwo.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

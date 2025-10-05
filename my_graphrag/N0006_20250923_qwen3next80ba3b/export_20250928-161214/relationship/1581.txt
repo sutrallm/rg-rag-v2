@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The assistant cannot process the original text because it was not provided by the user.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

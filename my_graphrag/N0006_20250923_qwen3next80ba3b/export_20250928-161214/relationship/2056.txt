@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>WISDOM enables practitioners to transcend ATTACHMENT by realizing its root causes and impermanent nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

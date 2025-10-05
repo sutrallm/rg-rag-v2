@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Chanding is cultivated through zhengnian; mindfulness is the practical means by which mental focus and stability are achieved.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

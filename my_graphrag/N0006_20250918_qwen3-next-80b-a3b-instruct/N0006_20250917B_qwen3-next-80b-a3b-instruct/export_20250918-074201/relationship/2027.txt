@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒行</target_entity>
+    <relationship_description>圣者具足戒行，这是其能安住寂静、不生烦恼的道德基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

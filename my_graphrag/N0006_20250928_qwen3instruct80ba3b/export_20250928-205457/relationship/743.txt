@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪欲</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>貪欲是導致苦的主要原因之一，執著於感官與外境便生痛苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

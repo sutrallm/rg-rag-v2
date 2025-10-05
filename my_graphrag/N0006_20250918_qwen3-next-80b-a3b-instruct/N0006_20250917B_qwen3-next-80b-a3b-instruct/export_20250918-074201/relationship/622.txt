@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAO CHANG</source_entity>
+    <target_entity>CHANG NIAN</target_entity>
+    <relationship_description>The entire life becomes the field of practice through continuous mindfulness in all activities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

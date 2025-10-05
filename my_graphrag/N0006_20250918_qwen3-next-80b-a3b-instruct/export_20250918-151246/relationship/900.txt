@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>禅定的获得依赖于精进修行，后者是实现前者的基础和手段。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

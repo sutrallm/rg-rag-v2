@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE-DING-HUI</source_entity>
+    <target_entity>CHAODUE</target_entity>
+    <relationship_description>Chaodue is the “hui” (wisdom) component of the Jie-Ding-Hui path, representing the final and illuminating stage of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

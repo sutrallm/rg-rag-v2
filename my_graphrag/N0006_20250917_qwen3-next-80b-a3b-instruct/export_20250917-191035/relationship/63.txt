@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Greed and anger are both manifestations of mental disturbance stemming from ignorance and both hinder liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INDIFFERENCE_TO_DISTURBANCES</target_entity>
+    <relationship_description>Chanding leads to indifference to disturbances by calming the mind and reducing reactivity to external and internal stimuli.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

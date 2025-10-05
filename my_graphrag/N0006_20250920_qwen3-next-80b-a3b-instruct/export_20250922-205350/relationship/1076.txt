@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>A sage has fully transcended all forms of attachment, embodying the highest wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

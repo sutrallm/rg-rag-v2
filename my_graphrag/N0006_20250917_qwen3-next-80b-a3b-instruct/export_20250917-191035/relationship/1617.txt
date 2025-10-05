@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死輪迴</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫的本質就是從生死輪迴中解放，二者為對立與超越的關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

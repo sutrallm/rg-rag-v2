@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔恚</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>嗔恚常源于愚痴（无明），愚痴是贪嗔生起的基础，三者共同构成烦恼根本。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

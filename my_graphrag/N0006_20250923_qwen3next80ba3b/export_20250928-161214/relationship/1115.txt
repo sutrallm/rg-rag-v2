@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>结果</source_entity>
+    <target_entity>束缚</target_entity>
+    <relationship_description>结果可能导致束缚，修行者需避免。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

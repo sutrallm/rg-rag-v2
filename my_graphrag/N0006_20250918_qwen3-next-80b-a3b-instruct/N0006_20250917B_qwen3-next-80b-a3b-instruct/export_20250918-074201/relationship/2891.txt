@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chanding provides the mental clarity needed to cultivate non-attachment; through concentrated awareness, one can observe the impermanent nature of all experiences and let go of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

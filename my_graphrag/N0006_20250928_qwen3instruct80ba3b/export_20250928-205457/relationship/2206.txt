@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHÁNDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary for wisdom to arise through clear insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

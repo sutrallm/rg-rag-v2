@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION PROCESS</source_entity>
+    <target_entity>DOCTRINAL TEACHINGS</target_entity>
+    <relationship_description>The core purpose of the translation process is to preserve and clearly articulate Buddhist doctrinal teachings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

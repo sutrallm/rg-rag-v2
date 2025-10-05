@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXTERNAL DISTRACTIONS</source_entity>
+    <target_entity>SCATTERED MIND</target_entity>
+    <relationship_description>External distractions lead to a scattered mind by disrupting focus and causing mental unrest.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

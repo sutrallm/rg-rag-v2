@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_TO_LIBERATION</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Transcendent wisdom is the culminating element of the path to liberation, enabling true insight and release.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

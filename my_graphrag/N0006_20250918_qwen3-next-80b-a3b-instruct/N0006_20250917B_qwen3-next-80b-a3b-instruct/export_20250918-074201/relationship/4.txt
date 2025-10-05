@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Enlightened beings (Shengzhe) are defined by their constant mindfulness, which allows them to remain unmoved by emotional or sensory stimuli.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

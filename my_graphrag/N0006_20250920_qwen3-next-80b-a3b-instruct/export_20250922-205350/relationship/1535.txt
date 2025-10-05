@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zhengnian, practiced consistently and with insight, is the everyday expression of Niepan — peace arises when one is fully aware and unattached in the present moment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>UNMOVING_MIND</target_entity>
+    <relationship_description>Mindfulness stabilizes the mind, leading to an unmoving state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

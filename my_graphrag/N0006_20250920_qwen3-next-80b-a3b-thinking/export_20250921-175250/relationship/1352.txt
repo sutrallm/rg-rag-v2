@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The query contains a placeholder for original text but no actual content was provided.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

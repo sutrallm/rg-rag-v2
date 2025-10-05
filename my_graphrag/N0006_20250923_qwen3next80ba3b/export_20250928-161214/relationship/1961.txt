@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANZA</source_entity>
+    <target_entity>PROCESSING_INSTRUCTION</target_entity>
+    <relationship_description>Stanzas must be removed entirely as specified in the fifth processing instruction.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

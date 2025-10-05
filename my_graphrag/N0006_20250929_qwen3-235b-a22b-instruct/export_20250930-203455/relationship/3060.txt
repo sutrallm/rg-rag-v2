@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>情绪波动</target_entity>
+    <relationship_description>离欲使修行者不再被情绪波动所困，情绪波动是离欲所超越的内在扰动。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

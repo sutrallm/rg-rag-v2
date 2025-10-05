@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>不放逸通过持续精进与警醒来稳固禅定，防止懈怠导致禅定退失。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

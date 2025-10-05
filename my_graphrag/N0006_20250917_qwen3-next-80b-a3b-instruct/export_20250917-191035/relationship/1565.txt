@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENCE_OF_ATTACHMENT</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Transcendence of attachment requires realizing non-self, as attachment arises from misidentifying phenomena as “me” or “mine”; seeing no self to cling to dissolves attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

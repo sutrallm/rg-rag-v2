@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>聖者因具解脫智慧，對一切境界無所執著，包括修行成果與感受。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

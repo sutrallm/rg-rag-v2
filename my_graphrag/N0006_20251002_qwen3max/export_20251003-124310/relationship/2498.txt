@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需时刻保持不放逸，以防止烦恼侵入，这是修行的基本要求。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

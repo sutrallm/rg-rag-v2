@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>静虑</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>静虑是禅定的同义实践方式，二者指向同一修行方法——以清明心观察当下经验。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

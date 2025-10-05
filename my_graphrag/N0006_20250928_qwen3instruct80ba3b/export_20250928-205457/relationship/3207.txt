@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>禪定需要透過精進修行來持續維持與深化，否则心識會流動散亂。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

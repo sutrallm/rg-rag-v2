@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>聖者以其智慧照見諸法無自性，是超越執著的體現，二者為本質相關。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

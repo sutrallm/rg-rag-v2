@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Exertion is necessary to maintain chanding by overcoming laziness and sustaining disciplined spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

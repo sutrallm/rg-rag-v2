@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THE THREE POISONS</target_entity>
+    <relationship_description>The saint has completely eradicated the three poisons through wisdom and practice, embodying the ideal of enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

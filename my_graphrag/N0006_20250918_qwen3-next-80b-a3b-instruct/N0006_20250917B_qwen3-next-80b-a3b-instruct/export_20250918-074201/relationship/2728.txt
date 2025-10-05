@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUSUODE</target_entity>
+    <relationship_description>True mindfulness is not mechanical—it is the awareness that allows one to remain non-attached to thoughts and experiences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

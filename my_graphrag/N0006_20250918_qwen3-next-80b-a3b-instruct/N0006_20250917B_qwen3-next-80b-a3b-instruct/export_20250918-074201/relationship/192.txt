@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>The realization of non-self is the intellectual and experiential basis for non-attachment — if nothing has a fixed self, nothing can be truly “owned” or clung to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

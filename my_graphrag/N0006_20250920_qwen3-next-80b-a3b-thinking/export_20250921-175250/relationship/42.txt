@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>EFFORT counteracts INDULGENCE by maintaining focus and preventing the mind from being carried away by external conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

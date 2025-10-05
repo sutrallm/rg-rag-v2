@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>一切法因缘和合而生，故无独立自性，是论证“无我”哲学的核心理论依据。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

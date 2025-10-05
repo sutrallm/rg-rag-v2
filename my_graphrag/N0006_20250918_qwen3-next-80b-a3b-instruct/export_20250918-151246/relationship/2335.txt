@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Non-attachment is the direct opposite and antidote to clinging; one cannot exist where the other is fully realized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

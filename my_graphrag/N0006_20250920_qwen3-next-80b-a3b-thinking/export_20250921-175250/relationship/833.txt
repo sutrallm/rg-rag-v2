@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>ORIGIN</target_entity>
+    <relationship_description>ORIGIN is the second of the Four Noble Truths, identifying the cause of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

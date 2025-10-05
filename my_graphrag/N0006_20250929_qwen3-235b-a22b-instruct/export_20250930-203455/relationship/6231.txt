@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过离欲，远离感官欲望，内心不被外境牵引，安住于深沉寂静的觉性状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

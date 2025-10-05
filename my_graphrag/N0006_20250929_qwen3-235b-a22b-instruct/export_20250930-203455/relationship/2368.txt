@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>五蕴皆因缘所生，无独立自性，观此可破除我执。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

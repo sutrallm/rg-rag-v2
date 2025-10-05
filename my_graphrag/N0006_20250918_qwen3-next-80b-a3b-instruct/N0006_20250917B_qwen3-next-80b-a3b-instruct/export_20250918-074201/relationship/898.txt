@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL_PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Without persistent effort, one cannot break free from habitual patterns and attain liberation from suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>离执</target_entity>
+    <relationship_description>即使禅定中的轻安体验，修行者也不应执取，表明禅定本身需与无执智慧结合。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

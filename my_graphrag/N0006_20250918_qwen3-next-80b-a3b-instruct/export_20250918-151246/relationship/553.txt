@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding leads to non-attachment by revealing the transient nature of mental states and external objects.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

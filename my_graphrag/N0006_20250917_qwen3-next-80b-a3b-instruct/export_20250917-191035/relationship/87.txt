@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>当下</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱并非未来目标，而是当下一念觉醒、放下执著的直接实现。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

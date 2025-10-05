@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉与自省</source_entity>
+    <target_entity>顺境</target_entity>
+    <relationship_description>修行者需自省在顺境中是否放逸，以保持警觉。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

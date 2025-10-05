@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding calm the mind, which then allows wisdom to arise and penetrate the true nature of phenomena, leading to non-attachment and insight into impermanence and no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

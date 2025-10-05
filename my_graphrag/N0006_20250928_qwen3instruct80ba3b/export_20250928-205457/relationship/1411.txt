@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QIXING</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Qixing represents the entire process culminating in nirvana, making it the structural map to the final goal.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGLUN</target_entity>
+    <relationship_description>Jingjin is the active force required to break free from Shenglun (the cycle of birth and death) by counteracting complacency and causal ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

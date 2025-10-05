@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无住是解脱者心的状态，不执着任何境界，故能彻底自在，是解脱的直接表现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

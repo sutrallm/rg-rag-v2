@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING</source_entity>
+    <target_entity>JIHUI</target_entity>
+    <relationship_description>Xiuxing (spiritual practice) culminates in Jihui (wisdom); all preparatory practices lead to penetrating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

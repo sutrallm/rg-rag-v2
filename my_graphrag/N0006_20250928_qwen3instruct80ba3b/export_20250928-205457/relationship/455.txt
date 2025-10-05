@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我觀</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我觀是破除執著的直接手法，執著斷盡即得解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

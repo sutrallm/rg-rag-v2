@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>LUNHUI</target_entity>
+    <relationship_description>Without Jingjin, one falls into the cycle of samsara (Lunhui) by succumbing to negligence and habitual defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

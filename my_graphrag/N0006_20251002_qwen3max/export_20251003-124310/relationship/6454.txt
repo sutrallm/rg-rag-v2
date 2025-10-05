@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>持續保持正念能使人擺脫放逸的束縛，二者呈對立關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

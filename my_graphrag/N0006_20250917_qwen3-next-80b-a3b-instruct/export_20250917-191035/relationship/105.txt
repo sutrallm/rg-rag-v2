@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEAVENLY_BEINGS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Heavenly beings hold reverence for saints because saints have surpassed even divine states of pleasure and attained true inner freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

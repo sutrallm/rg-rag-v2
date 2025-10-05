@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>PING DENG XIN</target_entity>
+    <relationship_description>Jie Tuo (liberation) is actualized through Ping Deng Xin (equal-mindedness), as true freedom is marked by equanimity toward all conditions, without preference or aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

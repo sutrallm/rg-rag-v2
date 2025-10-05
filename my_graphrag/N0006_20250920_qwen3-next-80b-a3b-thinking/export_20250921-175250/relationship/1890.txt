@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRAJNA WISDOM</source_entity>
+    <target_entity>BODY AND MIND</target_entity>
+    <relationship_description>Prajna wisdom enables practitioners to correctly perceive body and mind as non-self and impermanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

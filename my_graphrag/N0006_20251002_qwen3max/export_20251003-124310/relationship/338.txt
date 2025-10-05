@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>三业</target_entity>
+    <relationship_description>正见能引导身、口、意三业趋向善法，避免错谬行为。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

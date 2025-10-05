@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪瞋痴</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是贪、瞋、痴等一切烦恼的彻底熄灭，当贪瞋痴止息，即证得涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

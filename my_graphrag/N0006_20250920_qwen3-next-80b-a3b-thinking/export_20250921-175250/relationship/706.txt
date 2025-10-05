@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>PURIFIED_MIND</target_entity>
+    <relationship_description>The mind can attain a purified state free from defilements through practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

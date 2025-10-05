@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>念住</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>念住是禅定在日常生活中的延伸与实践，通过念住培育定力，使禅定从坐中扩展至行住坐卧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

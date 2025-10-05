@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True practice, grounded in present-moment awareness, is the direct path to achieving liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

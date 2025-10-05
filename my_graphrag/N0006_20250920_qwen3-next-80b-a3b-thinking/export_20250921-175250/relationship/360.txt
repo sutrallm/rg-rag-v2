@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>A SAGE resides in a state of profound STILLNESS through deep practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>PURE_MIND</target_entity>
+    <relationship_description>The saint’s mind is pure, free from all defilements, reflecting the culmination of ethical, meditative, and wisdom practices.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

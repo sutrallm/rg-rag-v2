@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUYANG ZAI RICHANG</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Daily practice requires transcending attachment even in ordinary moments—seeing impermanence and non-self during both pleasant and unpleasant experiences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

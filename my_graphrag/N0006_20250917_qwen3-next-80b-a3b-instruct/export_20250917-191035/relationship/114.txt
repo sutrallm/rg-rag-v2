@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True stillness (jingjie) is the internal condition achieved through chanding — it is not external quiet, but inner calm regardless of outer circumstances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

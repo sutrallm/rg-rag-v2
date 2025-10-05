@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NUMBERED_HEADINGS</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>NUMBERED_HEADINGS are applied to structure the original text after processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

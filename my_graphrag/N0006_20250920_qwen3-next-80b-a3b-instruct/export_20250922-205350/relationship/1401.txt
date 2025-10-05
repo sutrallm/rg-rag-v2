@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>嗔是烦恼的另一种表现，与贪、痴并列三毒，破坏内心清净。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>日常修行</target_entity>
+    <relationship_description>禅定不应仅限于打坐，而应融入日常生活，行住坐卧皆可修定，实现动静一如。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

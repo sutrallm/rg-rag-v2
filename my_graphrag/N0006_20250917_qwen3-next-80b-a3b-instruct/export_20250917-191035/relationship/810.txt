@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVERSION</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Aversion, like desire and delusion, is one of the three poisons that must be transcended for liberation to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>正见包含“诸行无常”的认知，无常是正见的核心内容之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>常见</source_entity>
+    <target_entity>断见</target_entity>
+    <relationship_description>常见与断见是两种对立的边见，修行者需同时远离二者，依缘起法契入中道。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

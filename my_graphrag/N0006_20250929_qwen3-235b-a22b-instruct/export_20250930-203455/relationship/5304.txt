@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进是持续修行禅定的前提，唯有恒常警觉、不放逸，才能掌握禅定要领。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

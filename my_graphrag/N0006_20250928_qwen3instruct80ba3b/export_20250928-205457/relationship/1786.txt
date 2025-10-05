@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Niepan is the ultimate realization of the Shengzhe — the state of complete liberation from suffering and the end of all mental fabrications.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

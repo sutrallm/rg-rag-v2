@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHICHI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhichi involves directly seeing wuchang — the impermanent nature of all things — as a core insight for transcending attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

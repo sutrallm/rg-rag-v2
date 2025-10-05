@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Attachment prevents liberation; overcoming attachment is essential for achieving true freedom and inner transcendence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真正的修行者</source_entity>
+    <target_entity>自满</target_entity>
+    <relationship_description>A true practitioner avoids self-satisfaction by remaining grounded in practice without seeking validation or being awed by experiences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

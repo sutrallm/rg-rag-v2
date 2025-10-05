@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>常乐我净</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>如实观照无常能破除对“常乐我净”的错误执见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

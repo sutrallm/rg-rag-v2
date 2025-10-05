@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN XIU XING</source_entity>
+    <target_entity>SAMSAKA</target_entity>
+    <relationship_description>Continuous practice is the path to escape samsara, as negligence leads one deeper into cyclic existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

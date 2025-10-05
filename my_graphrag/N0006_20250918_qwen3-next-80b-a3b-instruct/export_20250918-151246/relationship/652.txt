@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN XIU XING</target_entity>
+    <relationship_description>Chanding is cultivated through continuous and diligent practice; without sustained effort, one cannot achieve deep concentration and freedom from distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

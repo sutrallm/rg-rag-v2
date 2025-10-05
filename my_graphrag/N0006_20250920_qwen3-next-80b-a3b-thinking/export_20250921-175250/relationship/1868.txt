@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAMP</source_entity>
+    <target_entity>DARKNESS</target_entity>
+    <relationship_description>The lamp symbolically dispels darkness, representing clarity and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

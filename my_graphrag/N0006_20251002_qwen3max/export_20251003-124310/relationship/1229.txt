@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>修行者以正念防护六根，防止在六根接触外境时生起贪爱或厌恶，从而守护内心清净。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

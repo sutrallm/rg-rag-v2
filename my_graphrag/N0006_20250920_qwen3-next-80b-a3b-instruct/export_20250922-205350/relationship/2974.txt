@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧透過對五蘊生滅的觀照而產生，五蘊是智慧觀照的核心對象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

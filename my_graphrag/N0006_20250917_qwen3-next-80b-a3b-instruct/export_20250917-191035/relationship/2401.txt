@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>清淨戒律能減少外緣干擾與內心騷動，為禪定的生起創造穩定的條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

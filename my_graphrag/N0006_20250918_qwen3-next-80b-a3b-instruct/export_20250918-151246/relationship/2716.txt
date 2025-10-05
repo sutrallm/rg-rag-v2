@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUO</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Transcending attachment is grounded in the realization of non-self — without a self to cling to, there is no basis for grasping phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

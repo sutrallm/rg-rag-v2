@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Non-attachment arises directly from the insight into no-self; realizing that nothing is truly "mine" allows one to let go.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

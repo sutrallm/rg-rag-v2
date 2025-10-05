@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>PRECEPTS are essential for achieving liberation through ethical discipline and mental purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

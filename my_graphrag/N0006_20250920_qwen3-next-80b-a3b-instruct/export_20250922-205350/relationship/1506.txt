@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Precepts purify conduct and create the ethical conditions necessary for the mind to settle into deep concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

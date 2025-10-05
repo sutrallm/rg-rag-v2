@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者已达成内在清净与解脱，其心不再受烦恼系缚，是解脱状态的体现者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

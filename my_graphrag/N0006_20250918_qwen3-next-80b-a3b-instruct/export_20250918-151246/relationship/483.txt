@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>精进是对治无明的直接方式，通过警觉与持续修行打破愚痴状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGSI LUNHUAI</target_entity>
+    <relationship_description>Jingjin is the necessary disciplined effort required to break free from the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

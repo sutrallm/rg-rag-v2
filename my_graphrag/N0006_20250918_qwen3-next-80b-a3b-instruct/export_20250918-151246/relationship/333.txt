@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>STAGE OF SAINTHOOD</target_entity>
+    <relationship_description>Complete ethical conduct is a hallmark of the saintly state, indicating the absence of harmful actions and the full cultivation of virtue.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

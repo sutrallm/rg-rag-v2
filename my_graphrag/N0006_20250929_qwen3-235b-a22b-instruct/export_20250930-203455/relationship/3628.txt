@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行的次第</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行次第的最终阶段是智慧，通过戒定慧三学循序渐进，方能圆满成就解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

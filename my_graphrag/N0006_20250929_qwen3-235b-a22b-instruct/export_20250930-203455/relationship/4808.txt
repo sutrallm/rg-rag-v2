@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉察</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>觉察使修行者能及时发现并调伏初生烦恼，避免其扩大，是日常生活中断除烦恼的重要实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

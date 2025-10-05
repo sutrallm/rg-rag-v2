@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Insight wisdom includes the direct perception of impermanence as one of the three marks of existence, which dissolves attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

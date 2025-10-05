@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDUSTRY</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Industry counters delusion by maintaining vigilance and preventing laziness, which allows ignorance to persist unchallenged.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

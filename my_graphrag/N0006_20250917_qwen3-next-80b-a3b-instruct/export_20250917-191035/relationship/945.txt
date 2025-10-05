@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>空性</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>空性是超越執著之智慧的對象與內容，體悟空性即自然生起無執之智。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

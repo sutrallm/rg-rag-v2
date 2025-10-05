@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Transcending attachment (chaoyue zhizhuo) is the manifestation of wuwo insight—the end of identifying anything as "mine" or "self."</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

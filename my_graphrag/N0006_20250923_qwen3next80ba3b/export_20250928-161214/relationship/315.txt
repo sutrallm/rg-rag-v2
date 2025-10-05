@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSTRUCTION</source_entity>
+    <target_entity>PERSON</target_entity>
+    <relationship_description>The instruction mandates complete removal of all person entities from the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

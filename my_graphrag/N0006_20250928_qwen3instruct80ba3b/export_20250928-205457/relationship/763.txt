@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死轮回</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>无明是生死轮回的根本原因，因不了解缘起性空，才产生执著与轮回。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

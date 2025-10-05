@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO KONG XING</source_entity>
+    <target_entity>YUAN HE</target_entity>
+    <relationship_description>Wu Wo Kong Xing is based on Yuan He (dependent origination), as the understanding of conditioned arising leads to the insight of emptiness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

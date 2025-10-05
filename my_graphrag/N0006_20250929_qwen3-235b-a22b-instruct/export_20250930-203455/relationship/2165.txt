@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>身心观察</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>身心观察觉察嗔恚生起与灭去，通过正见与正思维对治，逐步净化内心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

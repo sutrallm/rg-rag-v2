@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEME</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral discipline creates the mental clarity and stability necessary for chanding to develop and remain unshaken.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

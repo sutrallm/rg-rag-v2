@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>True Neiguan leads to Wuzhu — a mind not clinging to any phenomena, even purified states of awareness, as the ultimate freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

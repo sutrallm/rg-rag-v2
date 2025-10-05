@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>禅定作为戒定慧之一，是通往涅槃的必要修行，但若执着禅境则会偏离正道。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

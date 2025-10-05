@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUTH</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Observing TRUTH allows transcending DESIRE.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

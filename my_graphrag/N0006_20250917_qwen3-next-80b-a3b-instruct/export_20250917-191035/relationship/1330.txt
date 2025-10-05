@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Wisdom reduces hatred by dispelling the delusion of a fixed, separate self that feels threatened or harmed, thus weakening reactive aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

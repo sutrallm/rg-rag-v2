@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DULLNESS</target_entity>
+    <relationship_description>Chanding combats dullness by cultivating alertness and clarity; without sustained focus, dullness re-emerges as a barrier to progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

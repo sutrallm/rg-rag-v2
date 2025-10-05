@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>A holy person (sheng zhe) is one who has attained nirvana, having extinguished greed, hatred, and delusion completely.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

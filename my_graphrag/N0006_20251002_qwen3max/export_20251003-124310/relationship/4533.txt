@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>殊胜境界</target_entity>
+    <relationship_description>心解脱者即使在修行中体验到殊胜境界，也不会对其产生执取。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

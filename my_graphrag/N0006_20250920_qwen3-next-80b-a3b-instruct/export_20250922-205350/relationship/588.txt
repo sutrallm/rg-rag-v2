@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者安住于寂静无扰之中，其心持续稳定于禅定状态，无攀缘与散乱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>智慧通过无我观实践，如实洞察五蕴无我，从而破除我执，是智慧在修行中的具体体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

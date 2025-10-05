@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>贪瞋痴</target_entity>
+    <relationship_description>正念使修行者觉察贪瞋痴的生起，从而不随其转，是降伏三毒的关键方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

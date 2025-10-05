@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>安住当下</target_entity>
+    <relationship_description>正念的实践体现为安住当下，保持对身心现象的觉知。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

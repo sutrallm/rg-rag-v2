@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>天人</target_entity>
+    <relationship_description>聖者因其清淨戒行與深刻智慧，自然為天人所敬仰，是天人所尊崇的修行成就者。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DETERMINATION</source_entity>
+    <target_entity>IMPERMANENCE (WUCHANG)</target_entity>
+    <relationship_description>Non-determination arises because all phenomena are impermanent — nothing lasts to justify attachment or aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

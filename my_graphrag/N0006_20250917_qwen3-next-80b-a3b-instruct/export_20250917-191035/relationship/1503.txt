@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ALTERNATIVE PATH</target_entity>
+    <relationship_description>Liberation is distinct from and superior to alternative paths; it cannot be achieved through rituals, deities, or scriptures alone.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

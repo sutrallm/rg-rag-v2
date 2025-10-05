@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZANAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zanan is the obstacle that chanding seeks to overcome; mental restlessness is calmed through focused meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>A saintly person is defined by their unwavering commitment to diligent practice as the method to attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

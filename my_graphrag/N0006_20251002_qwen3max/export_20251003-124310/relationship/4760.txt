@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>常见</target_entity>
+    <relationship_description>缺乏正见可能导致修行者落入常见等错误见解，偏离解脱正道。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

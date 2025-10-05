@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的调伏</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>心的调伏是禅定的前提，通过正念使心趋于平静与专注。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

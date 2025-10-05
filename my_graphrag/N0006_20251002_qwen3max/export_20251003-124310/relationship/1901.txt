@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>色、声、香、味、触、法</target_entity>
+    <relationship_description>真正解脱的修行者虽行于色、声、香、味、触、法之中，却能如实知见其本质，不生贪恋、不陷轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

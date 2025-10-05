@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>禅定是通向解脱的重要路径，通过禅定可断除烦恼、证得涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUSUO</source_entity>
+    <target_entity>JIHUI</target_entity>
+    <relationship_description>Wusuo is the attitude that allows Jihui to function without egoic interference; true wisdom arises only when there is no desire for attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

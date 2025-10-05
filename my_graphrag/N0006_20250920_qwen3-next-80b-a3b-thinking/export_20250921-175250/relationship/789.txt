@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIREFLY</source_entity>
+    <target_entity>SUNLIGHT</target_entity>
+    <relationship_description>Firefly's light is insignificant compared to sunlight, illustrating the contrast between limited understanding and profound wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

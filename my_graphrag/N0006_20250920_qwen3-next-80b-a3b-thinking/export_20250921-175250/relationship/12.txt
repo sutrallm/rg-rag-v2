@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDFULNESS</source_entity>
+    <target_entity>DEMONIC_DISTURBANCES</target_entity>
+    <relationship_description>Heedfulness prevents demonic disturbances by maintaining alertness and diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

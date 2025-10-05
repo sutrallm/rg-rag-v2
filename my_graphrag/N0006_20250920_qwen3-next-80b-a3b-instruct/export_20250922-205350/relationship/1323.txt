@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>嗔恨导致排斥与对抗，强化我执与业力，是轮回持续的动力之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

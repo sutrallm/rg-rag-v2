@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>我执源于误认五蕴中的任何一蕴为“我”，故五蕴是执我的对象基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

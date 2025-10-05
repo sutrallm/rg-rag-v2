@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHUZHENG GUOZHANG</source_entity>
+    <target_entity>NIERHAN</target_entity>
+    <relationship_description>Shuzheng guozhang emphasizes that even Nirvana must not be clung to as a possession — true liberation includes non-attachment to the state itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

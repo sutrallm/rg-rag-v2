@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力与因果</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需明了业力与因果法则，谨慎身口意，积善断恶，以导向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

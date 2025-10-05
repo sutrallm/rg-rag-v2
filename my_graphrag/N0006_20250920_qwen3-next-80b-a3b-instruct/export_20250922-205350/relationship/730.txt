@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WU_MING</target_entity>
+    <relationship_description>Jingjin is the antidote to Wu Ming; persistent diligent practice dispels ignorance that fuels suffering and cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

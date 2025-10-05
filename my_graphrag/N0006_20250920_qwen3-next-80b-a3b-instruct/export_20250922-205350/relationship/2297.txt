@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CONDITIONAL ORIGINATION</target_entity>
+    <relationship_description>Wisdom arises from direct insight into conditional origination — the understanding that all phenomena are impermanent and without self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

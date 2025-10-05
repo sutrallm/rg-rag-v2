@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>明觉</target_entity>
+    <relationship_description>心识经正念与智慧修习净化后，恢复本具的明觉状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

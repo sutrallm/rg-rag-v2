@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom arises from seeing impermanence clearly, leading to non-attachment and freedom from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

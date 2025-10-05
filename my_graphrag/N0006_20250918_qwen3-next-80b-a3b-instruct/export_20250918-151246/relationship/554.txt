@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Saintly beings embody non-attachment as a result of seeing phenomena as impermanent and selfless.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ING</source_entity>
+    <target_entity>SHENGE</target_entity>
+    <relationship_description>Concentration (ing) enables the mental stability required for saintly qualities (shenge); one cannot be deeply peaceful or wise without inner stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

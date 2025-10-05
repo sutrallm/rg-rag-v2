@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常与无我是相互支持的实相观，观一切法无常，自然体悟无我；无我的洞察深化了对无常的理解。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

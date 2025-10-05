@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>No-self is the central insight of wisdom — realizing the absence of an independent self in practice, attainment, and experience.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

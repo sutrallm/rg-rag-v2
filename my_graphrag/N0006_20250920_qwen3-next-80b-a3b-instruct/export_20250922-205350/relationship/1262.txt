@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>A Saint has completely eradicated greed, one of the three root poisons, as part of their perfected state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

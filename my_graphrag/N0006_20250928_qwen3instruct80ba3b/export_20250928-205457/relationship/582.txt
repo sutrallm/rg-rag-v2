@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGNZHE</source_entity>
+    <target_entity>YIQIEFAWUWO</target_entity>
+    <relationship_description>ShengnZhe attain their state by realizing Yiqiefawuwo — the non-self nature of all phenomena — and thus are free from all attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The realization of no-self (wuwo) is the defining characteristic of a noble being (shengzhe), who has transcended all attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

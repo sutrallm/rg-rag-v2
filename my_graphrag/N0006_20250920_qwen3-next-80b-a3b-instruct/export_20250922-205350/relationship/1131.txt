@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>无明是贪欲生起的根本原因，因无知实相，众生才执着于虚幻境界与自我。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

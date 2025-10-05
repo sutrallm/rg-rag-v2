@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无我即是真自由，是解脱的本质状态，认识到“我”是假名即自然解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

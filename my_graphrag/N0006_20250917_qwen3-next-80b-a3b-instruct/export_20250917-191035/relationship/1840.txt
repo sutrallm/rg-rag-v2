@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>True chanding is perfected only when accompanied by non-attachment; clinging to meditative states undermines the depth of concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

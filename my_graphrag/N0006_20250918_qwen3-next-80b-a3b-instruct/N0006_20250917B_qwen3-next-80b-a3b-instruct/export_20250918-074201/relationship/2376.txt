@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT_TO_EXPERIENCES</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>True Chan Ding is not maintained by clinging to pleasant meditative experiences; letting go of attachment is essential to its authenticity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

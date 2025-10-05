@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>懈怠</target_entity>
+    <relationship_description>无明使人偏离正道，不知修行之重要，从而助长懈怠；懈怠是无明的外在行为表现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

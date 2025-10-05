@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WIND</source_entity>
+    <target_entity>CANDLE FLAME</target_entity>
+    <relationship_description>Strong wind causes the candle flame to sway unstably in the metaphor depicting external influences on consciousness</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

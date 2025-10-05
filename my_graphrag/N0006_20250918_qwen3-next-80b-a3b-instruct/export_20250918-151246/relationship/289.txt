@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Understanding non-self dissolves the illusion of a separate ego, leading to the complete freedom of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进修行能稳固禅定成果，防止放逸导致定力退失。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

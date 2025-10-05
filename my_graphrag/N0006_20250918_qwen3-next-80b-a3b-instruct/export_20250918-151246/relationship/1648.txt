@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>An enlightened being is one who has fully realized liberation, embodying its qualities of inner peace and freedom from bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN XIU XING</source_entity>
+    <target_entity>JIE Tuo</target_entity>
+    <relationship_description>Only through relentless diligent practice (Jing Jin Xiu Xing) can one break free from the cycle of rebirth and achieve true liberation (Jie Tuo).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

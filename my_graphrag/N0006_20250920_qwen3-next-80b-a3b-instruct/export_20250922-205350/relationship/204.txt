@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding requires jingjin to be sustained; without diligent effort, chanding will collapse under the influence of negligence and Mara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

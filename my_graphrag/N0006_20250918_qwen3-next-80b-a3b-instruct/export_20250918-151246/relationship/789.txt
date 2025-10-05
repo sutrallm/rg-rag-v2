@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Without ethical conduct, the mind is too agitated for wisdom to manifest, making precepts a necessary foundation for insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

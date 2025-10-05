@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom arises from clearly seeing the impermanent nature of all phenomena, which undercuts attachment and fosters equanimity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>五蕴作为有为法，具足苦性；观照五蕴之苦是智慧生起的重要途径。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

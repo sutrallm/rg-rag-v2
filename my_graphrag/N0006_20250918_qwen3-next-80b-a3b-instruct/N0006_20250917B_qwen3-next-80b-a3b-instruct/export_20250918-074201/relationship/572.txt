@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment is a direct path to liberation, as clinging is the root of suffering and bondage to samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

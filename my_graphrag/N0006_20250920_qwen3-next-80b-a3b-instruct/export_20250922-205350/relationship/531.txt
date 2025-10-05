@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>SIQI</target_entity>
+    <relationship_description>Fannao (afflictions) arise directly from the siqi (three poisons), making them the causal source of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

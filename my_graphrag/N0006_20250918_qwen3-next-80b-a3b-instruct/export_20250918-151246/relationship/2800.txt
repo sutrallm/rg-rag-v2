@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Non-attachment is sustained by the insight of non-self—recognizing that nothing can be truly owned or possessed eliminates the ego’s basis for clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

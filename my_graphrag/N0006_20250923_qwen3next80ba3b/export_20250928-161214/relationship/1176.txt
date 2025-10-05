@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>Celestial beings respect the saint for transcending all suffering and embodying the path to enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

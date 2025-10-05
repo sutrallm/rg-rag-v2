@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>REINCARNATION CYCLE</target_entity>
+    <relationship_description>Desire is a primary force that binds beings to the cycle of rebirth through attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

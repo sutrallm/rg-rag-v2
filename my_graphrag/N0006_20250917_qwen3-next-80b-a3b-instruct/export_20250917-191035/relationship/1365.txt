@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTINUOUS PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Continuous practice is the path to liberation; gradual, consistent effort accumulates into profound transformation over time.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

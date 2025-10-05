@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGER</source_entity>
+    <target_entity>XINJIEDE</target_entity>
+    <relationship_description>Shenger are those who have fully achieved xinjiede, embodying freedom from desire and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

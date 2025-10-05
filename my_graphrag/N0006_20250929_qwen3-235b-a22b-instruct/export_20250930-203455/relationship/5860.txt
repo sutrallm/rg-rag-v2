@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在光明</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>内在光明是本具觉性智慧的显现，是智慧在心清净无染时自然呈现的状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

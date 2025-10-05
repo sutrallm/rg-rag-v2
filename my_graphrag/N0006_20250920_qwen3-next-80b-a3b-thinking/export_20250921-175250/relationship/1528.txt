@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STRONG MAN</source_entity>
+    <target_entity>BOW</target_entity>
+    <relationship_description>The strong man holds and uses the bow as a key instrument in archery practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

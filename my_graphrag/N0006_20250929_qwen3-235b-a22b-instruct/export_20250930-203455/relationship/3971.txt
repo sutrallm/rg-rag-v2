@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>八正道是实现解脱的具体实践路径，包括正念、正定等，是修行者断除烦恼、证得涅槃的完整方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

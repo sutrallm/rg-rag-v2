@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>神通是修行副产品，贪恋神通即是执着，背离清净解脱本旨。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

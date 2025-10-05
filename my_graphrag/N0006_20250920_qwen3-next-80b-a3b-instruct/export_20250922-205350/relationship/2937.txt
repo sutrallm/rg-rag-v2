@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SIQING</target_entity>
+    <relationship_description>A Shengzhe (holy one) has completely eradicated the Siqing (three poisons)—greed, hatred, delusion—thereby attaining purity and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

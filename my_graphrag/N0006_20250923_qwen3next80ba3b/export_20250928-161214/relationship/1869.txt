@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DURKE BATAGLANI</source_entity>
+    <target_entity>FIRUZABAD</target_entity>
+    <relationship_description>Durke Bataglani was held as a hostage in Firuzabad.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

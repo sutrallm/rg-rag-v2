@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>精進是持續修行的動力，被描述為超越輪迴、逼近解脫的基石，無精進則無法達成解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

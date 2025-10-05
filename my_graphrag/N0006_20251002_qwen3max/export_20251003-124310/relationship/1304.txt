@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是禪定的基礎要素之一，與專注共同支撐禪定的穩定與清明。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_STUDIES</source_entity>
+    <target_entity>SAINTLY_QUALITIES</target_entity>
+    <relationship_description>Together, the Three Studies form the complete path that leads to the manifestation of saintly qualities.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

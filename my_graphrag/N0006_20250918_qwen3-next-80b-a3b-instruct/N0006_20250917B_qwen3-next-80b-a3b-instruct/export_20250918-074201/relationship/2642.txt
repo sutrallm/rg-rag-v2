@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修与日常生活融合</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅修与日常生活的融合是禅定的实践延伸，使禅定不局限于静坐，而成为持续的生活状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

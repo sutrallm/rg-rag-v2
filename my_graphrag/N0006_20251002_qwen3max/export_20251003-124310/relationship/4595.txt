@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真正的寂靜</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>真正的寂靜源於內心徹底止息煩惱與執著，是煩惱完全斷除後的狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

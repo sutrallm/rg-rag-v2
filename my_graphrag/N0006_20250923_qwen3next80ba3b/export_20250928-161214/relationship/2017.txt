@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>EMPTY SPACE</target_entity>
+    <relationship_description>NIRVANA is often symbolized as EMPTY SPACE, representing boundless freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

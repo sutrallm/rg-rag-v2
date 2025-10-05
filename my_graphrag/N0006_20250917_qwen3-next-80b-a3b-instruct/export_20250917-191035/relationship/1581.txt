@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Persevering effort (jingjin) is necessary to stabilize and deepen meditative concentration (chanding), as stated that only through continuous effort can one strengthen dhyana and move toward liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

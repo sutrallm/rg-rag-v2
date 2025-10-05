@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念的持续觉察使修行者能如实观照当下现象，从而自然生起对无常、无我的智慧洞见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

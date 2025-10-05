@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINXIU</source_entity>
+    <target_entity>SHENGHUO</target_entity>
+    <relationship_description>Xinxiu is the spiritual practice embedded within everyday life, blurring the line between mundane activity and sacred practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>RELEASING_ATTACHMENT</target_entity>
+    <relationship_description>Recognizing impermanence weakens clinging; when one sees all things as transient, attachment naturally dissolves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

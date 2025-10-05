@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-CLINGING</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Self-clinging generates desire—attachment arises from identifying with the “I” and wanting to preserve or enhance it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGES</source_entity>
+    <target_entity>AFFLICTION</target_entity>
+    <relationship_description>Sages eliminate afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>资粮</target_entity>
+    <relationship_description>修行者在耐心与坚持中每一步皆在累积解脱的资粮，即使进展缓慢亦不可放弃。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

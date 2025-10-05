@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO_GUANZHAO</source_entity>
+    <target_entity>CHAOGUO_ZHUZHE</target_entity>
+    <relationship_description>Wuwo Guanzhao (non-self observation) is the specific meditative insight through which Chaoguo Zhuzhe (transcendent non-attachment wisdom) is manifested and realized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

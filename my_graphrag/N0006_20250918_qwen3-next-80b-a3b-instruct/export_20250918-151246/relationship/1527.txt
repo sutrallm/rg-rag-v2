@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Chanding leads to insight into impermanence and non-self, which naturally results in non-attachment to experiences and attainments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

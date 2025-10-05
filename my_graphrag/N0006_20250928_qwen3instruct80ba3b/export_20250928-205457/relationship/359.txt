@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>修行包含對無常的日常覺察，如呼吸、走路、吃飯時念念分明，使無常觀融入生活而不僅是理論。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUA</source_entity>
+    <target_entity>KONG XING</target_entity>
+    <relationship_description>The illusory nature (Hua) of phenomena demonstrates their emptiness (Kong Xing), as all appearances are without inherent existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

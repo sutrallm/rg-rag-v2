@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>禪定是通往解脫的重要方法，通過專注與安定內心，為斷除煩惱與執著奠定基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>日常修行将禅定从特定坐禅状态扩展为生活常态，使禅定成为自然的生命节奏。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

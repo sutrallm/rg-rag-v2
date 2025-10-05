@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>緣起性空</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>若無緣起性空的正見，禪定可能淪為空境或執著，正見為禪定提供正確方向，避免偏差。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

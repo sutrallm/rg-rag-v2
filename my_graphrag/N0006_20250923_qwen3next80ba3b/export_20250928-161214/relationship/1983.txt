@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>PRACTICE RESULTS</target_entity>
+    <relationship_description>Clinging to practice results leads to bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

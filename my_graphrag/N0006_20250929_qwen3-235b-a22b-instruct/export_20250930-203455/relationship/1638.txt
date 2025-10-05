@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>缘起性空</target_entity>
+    <relationship_description>正见以缘起性空为根本内容，是正见的核心教义，引导修行不堕断常二边。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧等持</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>定慧等持是如实照见诸法实相（无常、无我、无自性）的必要条件，避免偏堕定境或散乱空谈。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

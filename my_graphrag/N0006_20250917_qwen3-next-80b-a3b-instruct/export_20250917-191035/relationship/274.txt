@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF_AND_LIBERATION</source_entity>
+    <target_entity>SELF_ATTACHMENT</target_entity>
+    <relationship_description>True liberation is achieved only by dismantling self-attachment through seeing the five aggregates as non-self; they are direct opposites on the spiritual path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

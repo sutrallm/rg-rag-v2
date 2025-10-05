@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARD PRACTICE</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Awareness in daily activities — the standard practice — aggregates into awakening through consistent mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

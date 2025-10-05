@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住而行</source_entity>
+    <target_entity>不取不舍</target_entity>
+    <relationship_description>无住而行体现为不取不舍的态度，对一切法既不贪取也不排斥。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

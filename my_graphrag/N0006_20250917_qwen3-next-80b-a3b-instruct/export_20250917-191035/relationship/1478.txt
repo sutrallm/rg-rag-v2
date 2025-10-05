@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我 (NO-SELF)</source_entity>
+    <target_entity>无明 (IGNORANCE)</target_entity>
+    <relationship_description>No-self insight directly dispels ignorance — the root misconception that "I" and "mine" are real.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

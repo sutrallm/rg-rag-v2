@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATED ONE</source_entity>
+    <target_entity>INNER PURITY</target_entity>
+    <relationship_description>Liberated ones possess inner purity as a result of their spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

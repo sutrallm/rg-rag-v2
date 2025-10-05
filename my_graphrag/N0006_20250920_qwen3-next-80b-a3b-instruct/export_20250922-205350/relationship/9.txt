@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>Ignorance (无明) is the fundamental cause sustaining the cycle of rebirth (轮回); overcoming it is essential for liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>魔王</target_entity>
+    <relationship_description>修行者通过持续精进避免堕入魔王掌控，魔王象征死亡与修行障碍。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

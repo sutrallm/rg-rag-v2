@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>智慧不仅能断除烦恼的现行，更能根除其种子，是彻底解脱烦恼的根本力量。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARD_OF_SAINTHOOD</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>A saintly being has severed greed, no longer clinging to experiences, states, or outcomes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

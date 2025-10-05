@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENZHENG_ZIYOU</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>True freedom arises only through Chaoshi—the wisdom of non-attachment to experiences, pleasure, or pain.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

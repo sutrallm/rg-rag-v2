@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WRONG_attachment</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Wong attachment perpetuates suffering because it assumes a self that can possess or experience things; non-self insight dissolves this illusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

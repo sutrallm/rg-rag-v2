@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>身心狀態</target_entity>
+    <relationship_description>正念的修習內容是清楚覺察自己的身心狀態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

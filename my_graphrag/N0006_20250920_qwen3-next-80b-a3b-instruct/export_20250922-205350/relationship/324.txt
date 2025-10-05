@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>戒律清淨身口，減少外緣干擾，為禪定的生起提供穩定基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

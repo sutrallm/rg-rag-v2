@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>AN_ZHI</target_entity>
+    <relationship_description>Continuous mindfulness leads to mental stillness and inner tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

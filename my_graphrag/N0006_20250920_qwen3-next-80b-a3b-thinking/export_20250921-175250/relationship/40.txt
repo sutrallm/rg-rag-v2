@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CONDITIONED PHENOMENA</target_entity>
+    <relationship_description>WISDOM enables non-attachment to CONDITIONED PHENOMENA by revealing their impermanent and empty nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

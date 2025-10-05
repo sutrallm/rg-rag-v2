@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Only through unwavering Jingjin can one become a Shengzhe, as the sage’s state is not acquired through sporadic effort but through relentless, lifelong discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

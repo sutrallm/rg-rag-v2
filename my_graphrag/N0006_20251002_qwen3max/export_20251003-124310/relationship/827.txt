@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念明確是進入禪定的必要條件之一，有助於心念專注並遠離放逸與煩惱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

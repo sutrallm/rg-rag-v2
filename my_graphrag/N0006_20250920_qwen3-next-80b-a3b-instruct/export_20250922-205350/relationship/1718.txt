@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI SAN XUE</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Wisdom (hui), the final stage of the threefold training, enables transcending attachment (chaoyue zhizhuo), making it the culmination of the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

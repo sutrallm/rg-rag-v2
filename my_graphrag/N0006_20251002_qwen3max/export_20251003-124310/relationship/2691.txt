@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>成果</target_entity>
+    <relationship_description>智慧使修行者了知成果的無常與無我，即使有所成就亦不生貪愛與我慢。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

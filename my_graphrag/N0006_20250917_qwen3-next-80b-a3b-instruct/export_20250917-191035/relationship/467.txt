@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING</source_entity>
+    <target_entity>JIE TUI</target_entity>
+    <relationship_description>Xiuxing is the practical method through which Jietui is gradually realized — liberation is not abstract, but born from daily mindful practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

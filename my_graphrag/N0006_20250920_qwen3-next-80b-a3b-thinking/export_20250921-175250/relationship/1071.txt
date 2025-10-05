@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHTFOLD PATH</source_entity>
+    <target_entity>RIGHT SPEECH</target_entity>
+    <relationship_description>RIGHT SPEECH is one of the eight practices forming the Eightfold Path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

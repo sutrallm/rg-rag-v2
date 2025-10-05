@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The saintly being has realized nirvana — the state of non-attachment and non-duality — and thus resides in its eternal peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

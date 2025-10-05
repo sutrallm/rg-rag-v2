@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>ING</target_entity>
+    <relationship_description>Discipline stabilizes the mind's external expressions, making inner concentration (ing) easier to develop and maintain.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

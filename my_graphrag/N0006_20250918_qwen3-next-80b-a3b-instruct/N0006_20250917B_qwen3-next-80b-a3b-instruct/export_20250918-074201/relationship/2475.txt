@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT PRACTICE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Only through persistent right practice can one fully develop the conditions necessary to attain Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

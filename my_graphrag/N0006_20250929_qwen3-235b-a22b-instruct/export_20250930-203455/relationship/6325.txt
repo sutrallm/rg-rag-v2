@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念能觉察并防止烦恼生起，若无正念，烦恼（三毒）将如毒蛇缠身，使人沉沦苦海。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

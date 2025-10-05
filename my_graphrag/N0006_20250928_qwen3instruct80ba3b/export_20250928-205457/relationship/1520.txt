@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT_MOMENT</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Present-moment awareness is the operational form of mindfulness — without it, mindfulness cannot manifest.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

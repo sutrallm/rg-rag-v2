@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>STABLE MEDITATION</target_entity>
+    <relationship_description>Constitutes one component of the threefold training as stated in the source text: "具足清净戒律、稳定禅定与真实智慧".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

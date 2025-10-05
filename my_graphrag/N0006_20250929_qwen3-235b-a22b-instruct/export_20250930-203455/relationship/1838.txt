@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲界、色界、无色界</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>心解脱意味着超越对三界的贪着，虽处世间却不为世间所染，如莲出淤泥而不染。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>世间法</target_entity>
+    <relationship_description>圣者不执着于世间法，因其了知一切皆非究竟、不可依赖。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

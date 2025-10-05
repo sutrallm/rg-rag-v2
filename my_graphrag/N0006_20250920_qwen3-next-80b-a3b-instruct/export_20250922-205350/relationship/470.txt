@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is one of the three essential qualities that define a saintly being, along with moral discipline and meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

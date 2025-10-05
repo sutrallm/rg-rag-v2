@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIE LV</target_entity>
+    <relationship_description>Jie lv is the foundation for achieving Chanding, as ethical discipline creates the inner peace required for deep meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

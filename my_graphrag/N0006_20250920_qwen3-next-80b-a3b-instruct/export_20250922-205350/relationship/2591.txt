@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>禅定是实现解脱的途径之一，通过专注安住，为智慧生起与执取止息创造条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

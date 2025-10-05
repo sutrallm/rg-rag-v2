@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>诸天</target_entity>
+    <relationship_description>圣者的德行连诸天亦恭敬赞叹，诸天是对其修行成就崇高地位的象征性认可。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

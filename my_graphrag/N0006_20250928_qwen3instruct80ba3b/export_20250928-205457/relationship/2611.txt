@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENGJIAN</target_entity>
+    <relationship_description>The noble one embodies zhengjian, having attained full insight into the nature of reality and freed themselves from delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

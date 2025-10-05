@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱次第</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脱次第是达到涅槃的必经阶段，从初果到四果层层净化，最终证入涅槃。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Stillness is both the result and the condition of chanding; a calm mind is necessary to enter deep meditation, and chanding deepens stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>MEDITATIVE_CONCENTRATION</target_entity>
+    <relationship_description>Precepts support and enable Meditative Concentration by reducing mental unrest caused by unethical behavior and regret.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

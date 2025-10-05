@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHISO</target_entity>
+    <relationship_description>Chanding leads to Wuzhiso; deep meditative states allow for the direct insight into the emptiness and impermanence of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

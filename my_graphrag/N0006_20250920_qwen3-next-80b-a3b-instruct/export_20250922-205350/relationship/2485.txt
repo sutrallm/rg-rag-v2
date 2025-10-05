@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF_OBSERVATION</source_entity>
+    <target_entity>WISDOM_OF_NON_ATTACHING</target_entity>
+    <relationship_description>No-self observation is the practical method for cultivating the wisdom of non-attachment to phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WAIVE_ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>True Nirvana is not an attainment but the absence of all clinging — including clinging to the idea of Nirvana itself.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

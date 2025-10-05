@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初禪</source_entity>
+    <target_entity>五蓋</target_entity>
+    <relationship_description>初禪的成就以五蓋完全平息為前提條件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

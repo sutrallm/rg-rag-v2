@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Wuwo (non-self) is understood through the realization of wuchang (impermanence); all phenomena are constantly changing, so no permanent "I" can be found.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

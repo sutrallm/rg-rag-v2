@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正見</source_entity>
+    <target_entity>出離心</target_entity>
+    <relationship_description>正見能引發出離心，使修行者厭離生死、趨向解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

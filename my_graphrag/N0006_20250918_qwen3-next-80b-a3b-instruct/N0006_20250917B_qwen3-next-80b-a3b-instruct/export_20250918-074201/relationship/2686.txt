@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The belief in a permanent self is the core delusion that fuels suffering and keeps beings trapped in samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

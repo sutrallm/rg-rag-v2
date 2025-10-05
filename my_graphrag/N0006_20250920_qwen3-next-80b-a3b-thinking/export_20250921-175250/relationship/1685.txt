@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Completing the threefold training leads to liberation, as stated in the text: "能彻底断尽烦恼、超越生死痛苦" and "自然通达解脱".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

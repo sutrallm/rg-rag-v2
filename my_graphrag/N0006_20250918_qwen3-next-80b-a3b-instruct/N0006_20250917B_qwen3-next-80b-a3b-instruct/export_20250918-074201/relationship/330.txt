@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWOGUAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wuwo guan deepens chanding by removing the illusion of self that causes distraction and attachment during meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

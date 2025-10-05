@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六尘</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定的完成需超越六尘的干扰，进入不受外境动摇的安稳状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>生死流转</target_entity>
+    <relationship_description>贪欲是推动众生陷入生死流转的重要因缘之一，与瞋恨、愚痴共同构成轮回的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

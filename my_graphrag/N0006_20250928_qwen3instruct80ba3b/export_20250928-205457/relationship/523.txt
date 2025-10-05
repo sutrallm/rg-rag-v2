@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANGDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chandding relies on mindfulness as its foundational practice to stabilize the mind and observe phenomena without distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

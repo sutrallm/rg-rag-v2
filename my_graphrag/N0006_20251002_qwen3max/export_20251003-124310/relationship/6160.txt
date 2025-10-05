@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺知</source_entity>
+    <target_entity>心念專注</target_entity>
+    <relationship_description>心念專注需保持覺知，覺知是專注過程中對所緣境持續清明了知的能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>解脱意味着从苦的束缚中出离，其前提是如实了知一切现象皆苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

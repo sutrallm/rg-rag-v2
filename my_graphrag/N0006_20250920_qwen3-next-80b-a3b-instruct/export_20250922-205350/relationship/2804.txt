@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_PRECEPTS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Ethical precepts are the first step in the threefold training (sila, samadhi, panna) that leads to the ultimate goal of Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

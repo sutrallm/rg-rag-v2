@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>正法为精进提供正确方向与内容，遵循正法才能使精进有效导向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

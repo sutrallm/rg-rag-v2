@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNCONDITIONED_LIBERATION</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>True liberation (unconditioned freedom) arises only when the illusion of self is completely abandoned.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

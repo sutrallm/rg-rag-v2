@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Liberation is the complete cessation of suffering through insight and letting go.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

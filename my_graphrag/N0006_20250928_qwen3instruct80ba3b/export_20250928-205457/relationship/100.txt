@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>持戒為智慧之基礎，唯有身心清淨，方能如實觀照，避免被煩惱遮蔽而生起虛妄知見。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

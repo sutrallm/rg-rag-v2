@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>死亡與無常</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>觀照死亡與無常是超越執著智慧的重要內容，使人放下對生命與物質的掌控。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

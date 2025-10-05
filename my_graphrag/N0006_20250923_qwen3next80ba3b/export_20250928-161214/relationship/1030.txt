@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The QUERY references the ORIGINAL_TEXT as input for translation, but the content is missing and serves only as a placeholder.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

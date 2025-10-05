@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_PRACTICE_PRACTICE</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Non-practice practice embodies the ultimate stage of non-attachment: not seeking, not avoiding, not striving—aligning completely with reality as it is.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

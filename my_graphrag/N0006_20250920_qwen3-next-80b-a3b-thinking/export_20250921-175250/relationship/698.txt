@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA_EXPOSITION</source_entity>
+    <target_entity>DOCTRINAL_DETAILS</target_entity>
+    <relationship_description>Dharma Exposition conveys doctrinal details through clear and direct explanations, transforming metaphors into accessible teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

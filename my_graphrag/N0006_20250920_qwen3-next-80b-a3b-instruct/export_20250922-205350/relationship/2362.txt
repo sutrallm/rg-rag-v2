@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>GUOWEI ZHIGU</target_entity>
+    <relationship_description>Guowei zhigu (attachment to attainments) is the subtle form of attachment that wuzhu explicitly transcends; true non-attachment includes letting go of even spiritual goals like “I am enlightened.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

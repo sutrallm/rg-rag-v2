@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>CHI</target_entity>
+    <relationship_description>Wu ming and chi are synonymous in this context—both refer to ignorance of the true nature of reality, particularly the illusion of self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

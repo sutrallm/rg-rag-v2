@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力与因果</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>业力与因果法则指导修行者在各阶段慎言行，以清净业为资粮，推动修行次第。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

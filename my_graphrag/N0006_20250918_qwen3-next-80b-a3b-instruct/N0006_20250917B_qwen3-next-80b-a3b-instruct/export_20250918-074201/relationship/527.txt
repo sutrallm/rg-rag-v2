@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日用实践</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness practice (日用实践) is an expression and extension of meditative absorption (CHANDING) into ordinary life.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

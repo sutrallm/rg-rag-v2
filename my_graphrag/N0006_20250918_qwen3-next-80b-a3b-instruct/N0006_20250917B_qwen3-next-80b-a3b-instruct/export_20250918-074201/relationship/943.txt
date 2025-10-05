@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SOVEREIGN SAINTS</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Sovereign Saints are free from hatred, showing complete emotional equanimity and non-reactivity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

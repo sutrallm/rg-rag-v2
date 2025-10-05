@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chaoshi is the direct insight into Wuyun as impermanent, empty, and unowned, enabling non-attachment and freedom from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT_MOMENT</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Mindfulness is practiced within the present moment; it is the instrument by which one accesses and sustains awareness in this instant.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

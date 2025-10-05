@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO GUAN ZHAO</source_entity>
+    <target_entity>WU ZHAN XIN</target_entity>
+    <relationship_description>When non-self is realized, the mind naturally becomes free from clinging or rejection — Wu Zhan Xin.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

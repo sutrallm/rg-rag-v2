@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINJIN</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Continuous diligence ensures the sustained practice needed for wisdom to mature; without persistent effort, insights remain shallow and easily lost.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

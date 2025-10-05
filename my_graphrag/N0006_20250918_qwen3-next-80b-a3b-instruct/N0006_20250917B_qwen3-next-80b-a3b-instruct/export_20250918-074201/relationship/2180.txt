@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_TO_LIBERATION</source_entity>
+    <target_entity>THE_UNBORN_UNDEAD_UNABIDING</target_entity>
+    <relationship_description>The path to liberation leads to the ultimate realization of the unborn, undying, and unabiding state—the final destination beyond all conditioned existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

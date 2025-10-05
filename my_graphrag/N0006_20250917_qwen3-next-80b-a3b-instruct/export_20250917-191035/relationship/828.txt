@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>JIEDE LUXIAN</target_entity>
+    <relationship_description>Right mindfulness is a core component of the threefold path (jie-ding-hui) and is the practical expression of moral and meditative discipline in daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

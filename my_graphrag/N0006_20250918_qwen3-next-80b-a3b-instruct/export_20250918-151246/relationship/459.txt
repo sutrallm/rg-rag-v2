@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚痴</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者以如实智慧断尽愚痴，因而能如实知见诸法实相，不再被无明蒙蔽。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

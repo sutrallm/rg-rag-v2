@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The realization of non-self is the pivotal insight that leads to liberation, as it removes the fundamental cause of suffering: ego-clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

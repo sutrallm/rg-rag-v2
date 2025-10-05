@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUI ZHI FAN NAO</source_entity>
+    <target_entity>YU CHI</target_entity>
+    <relationship_description>Dependent origination meditation is the method used to dispel ignorance and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

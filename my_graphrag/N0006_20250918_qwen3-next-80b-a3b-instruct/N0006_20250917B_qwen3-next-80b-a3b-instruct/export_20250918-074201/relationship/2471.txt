@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Attachment to "I" and "mine" fuels greed; dissolving self-view weakens and eventually ends greed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

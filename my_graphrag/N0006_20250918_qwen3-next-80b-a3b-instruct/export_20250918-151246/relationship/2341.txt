@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Clinging fuels the rebirth process in samsara; attachment to experiences, identities, and states drives continued existence in the cycle.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

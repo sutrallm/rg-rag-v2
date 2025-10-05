@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念是禅定修习中的核心要素，通过保持正念，心能专注于一境并止息妄念。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

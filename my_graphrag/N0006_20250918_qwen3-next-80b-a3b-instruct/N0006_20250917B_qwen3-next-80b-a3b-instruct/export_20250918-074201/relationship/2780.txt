@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Chanding leads to the development of Wuzhu, as deep meditative stability enables clear insight into the illusory nature of experiences, thus reducing attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

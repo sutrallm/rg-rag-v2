@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>對無我的體證是智慧的最高體現，能斷除我執，實現真實解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

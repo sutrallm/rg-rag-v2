@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>While chanding alone doesn't grant liberation, it provides the concentrated focus needed for wisdom to penetrate and uproot defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

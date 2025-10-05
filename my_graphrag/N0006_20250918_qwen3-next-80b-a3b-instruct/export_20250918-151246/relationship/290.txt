@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOIC_WISE_SAGE</source_entity>
+    <target_entity>ETHICAL_CONDUCT</target_entity>
+    <relationship_description>The wise sage embodies ethical conduct as a foundation for their inner purity and meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

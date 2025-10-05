@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIZAI ZHUANHUA DE LILIANG</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Realizing impermanence is a pivotal insight that triggers inner transformation by dissolving the illusion of permanence and control.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

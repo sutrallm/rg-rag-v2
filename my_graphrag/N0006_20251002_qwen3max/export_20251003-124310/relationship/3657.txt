@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三界</source_entity>
+    <target_entity>離欲</target_entity>
+    <relationship_description>離欲的對象包括對三界的貪愛，唯有厭離三界才能生起真正的出離心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

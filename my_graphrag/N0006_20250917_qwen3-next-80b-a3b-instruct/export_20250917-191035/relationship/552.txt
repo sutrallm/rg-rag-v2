@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>警觉</target_entity>
+    <relationship_description>精进修行必须依赖持续的警觉，否则容易陷入懈怠，无法稳固修行成果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

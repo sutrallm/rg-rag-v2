@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真理</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是亲证真理（无我、无常、无住）的最终状态，真理与涅槃本质上是一体两面。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

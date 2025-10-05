@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>禅修障碍</target_entity>
+    <relationship_description>禅修过程中常遇到昏沉、掉举等障碍，需以正念与智慧对治。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

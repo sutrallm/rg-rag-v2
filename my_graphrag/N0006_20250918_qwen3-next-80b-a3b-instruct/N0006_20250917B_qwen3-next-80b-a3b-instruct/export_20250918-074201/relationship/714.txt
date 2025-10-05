@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常實踐</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>日常實踐是精進在生活中的具體開展，透過持續覺察與轉化念頭體現修行的不懈努力。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

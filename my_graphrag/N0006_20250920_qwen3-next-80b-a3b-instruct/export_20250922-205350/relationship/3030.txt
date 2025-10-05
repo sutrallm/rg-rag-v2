@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>CHENGZHI</target_entity>
+    <relationship_description>Jiedinghui positions Chengzhi as the natural outcome of sustained Chanding, forming the third and culminating stage of the path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

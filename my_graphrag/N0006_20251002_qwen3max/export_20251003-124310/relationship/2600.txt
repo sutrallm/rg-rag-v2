@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>放逸會導致落入煩惱的控制之中；唯有不放逸，才能防止煩惱生起。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

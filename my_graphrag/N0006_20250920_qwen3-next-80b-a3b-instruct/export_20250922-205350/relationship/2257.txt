@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>六根是接触五欲的通道，守护六根即防止五欲引发贪爱与执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

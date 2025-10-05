@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINXIU</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Xinxiu is the practice through which Zhineneg matures — continual awareness leads to direct insight into the three characteristics of existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

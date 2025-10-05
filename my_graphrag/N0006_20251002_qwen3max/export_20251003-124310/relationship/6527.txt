@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>瞋</target_entity>
+    <relationship_description>圣者已彻底远离瞋，瞋作为烦恼之一已被完全断除。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

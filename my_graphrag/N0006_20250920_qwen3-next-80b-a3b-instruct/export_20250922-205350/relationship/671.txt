@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>正念是解脱的根本基础，通过如实觉知而断除执着，自然导向解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

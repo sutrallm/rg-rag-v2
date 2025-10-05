@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>依照正法修習，能保持不放逸的態度，避免落入生死輪迴。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

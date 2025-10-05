@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>无明与贪爱互为因果，共同构成轮回的根本，需同时断除以证得涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

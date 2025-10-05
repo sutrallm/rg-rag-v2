@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Fannao arises from clinging to the illusion of self (wo); realizing wuwo (non-self) removes the root cause of all mental afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

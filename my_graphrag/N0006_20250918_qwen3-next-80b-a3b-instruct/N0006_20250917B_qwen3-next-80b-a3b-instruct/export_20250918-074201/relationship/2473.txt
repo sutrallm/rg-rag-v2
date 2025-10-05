@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPHERE OF EXISTENCE</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Understanding non-self dismantles the mechanism of samsara, which relies on false identification with a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

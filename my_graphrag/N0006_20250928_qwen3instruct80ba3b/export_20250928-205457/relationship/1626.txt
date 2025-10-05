@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>执著是烦恼的根本原因，一切贪爱与恐惧皆由执取自我与感受而生。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

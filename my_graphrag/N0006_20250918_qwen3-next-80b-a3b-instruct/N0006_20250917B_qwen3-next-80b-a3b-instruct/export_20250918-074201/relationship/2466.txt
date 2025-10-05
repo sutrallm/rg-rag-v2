@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Mindfulness allows one to observe the arising and passing of phenomena, directly revealing impermanence in lived experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

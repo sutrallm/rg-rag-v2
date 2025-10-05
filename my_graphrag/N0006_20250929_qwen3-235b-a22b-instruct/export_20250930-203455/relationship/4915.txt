@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>无我是空性在“我”层面的体现，二者共同构成修行者体证实相的核心内容。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

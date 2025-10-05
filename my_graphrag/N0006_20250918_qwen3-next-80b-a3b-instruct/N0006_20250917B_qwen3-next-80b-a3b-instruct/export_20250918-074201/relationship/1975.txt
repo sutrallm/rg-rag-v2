@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_LIBERATION</source_entity>
+    <target_entity>SELF_AND_SELF-OWNERSHIP</target_entity>
+    <relationship_description>True liberation arises precisely from the relinquishment of attachment to self and self-ownership.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

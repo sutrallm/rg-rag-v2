@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>无我观照</target_entity>
+    <relationship_description>烦恼的根源是“我执”，无我观照直接对治并消除烦恼的根本。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

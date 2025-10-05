@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHE</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Chize is the wisdom that defines the Shengzhe; a noble one is one who has transcended attachment and thus embodies true liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

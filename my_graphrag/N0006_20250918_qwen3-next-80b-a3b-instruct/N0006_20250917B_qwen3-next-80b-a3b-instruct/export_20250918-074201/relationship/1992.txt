@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>心解脱是解脱的具体表现形式，即从内在执着中获得自由，是解脱的核心含义。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

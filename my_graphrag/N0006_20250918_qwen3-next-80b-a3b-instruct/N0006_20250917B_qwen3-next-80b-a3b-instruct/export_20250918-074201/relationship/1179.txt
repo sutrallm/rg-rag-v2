@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RI chang xiu xing</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Regular daily practice is the practical manifestation of jingjin — the sustained, moment-to-moment effort required to maintain spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

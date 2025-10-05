@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>处理</source_entity>
+    <target_entity>偈颂</target_entity>
+    <relationship_description>删除结尾偈颂</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

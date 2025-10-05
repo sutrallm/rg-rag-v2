@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>ZHI GUAN</target_entity>
+    <relationship_description>Chan Ding is the foundational state that enables the practice of Zhi Guan — calm abiding supports penetrating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

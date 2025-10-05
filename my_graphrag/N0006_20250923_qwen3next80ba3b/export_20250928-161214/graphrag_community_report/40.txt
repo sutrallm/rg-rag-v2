@@ -1,0 +1,21 @@
+User Requirements for Doctrinal Content Processing: Verse Removal and Person/Location Exclusion  
+
+The user instructions mandate specific modifications to doctrinal material: removing the concluding verse, converting metaphors into explicit Dharma statements, excluding all people and locations, preserving doctrinal details without simplification, structuring sections with numbered titles, and strict adherence to all specified processing procedures.  
+
+Concluding Verse Removal  
+The processing requirements mandate removal of the final poetic section.  
+
+Direct Doctrinal Statements  
+Metaphoric and dialogic elements must be rendered as direct Dharma explanations without figurative language.  
+
+Exclusion of Persons and Geographic Locations  
+All references to individuals and places must be deleted from the output.  
+
+Doctrinal Preservation  
+All core doctrinal specifics must be retained exactly, with no reduction in detail.  
+
+Structured Section Numbering  
+The processed output must employ numbered titles to organize information into distinct sections.  
+
+Process Compliance  
+Every step in formatting and optimization must be executed exactly as per user instructions.

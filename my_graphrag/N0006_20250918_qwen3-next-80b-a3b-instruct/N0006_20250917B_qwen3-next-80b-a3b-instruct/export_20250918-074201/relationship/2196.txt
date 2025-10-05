@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>贪欲是烦恼的主要表现形式之一，是烦恼产生的根源之一，二者构成因果与部分整体关系。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

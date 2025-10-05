@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>BONDAGE</target_entity>
+    <relationship_description>Saints transcend bondage through wisdom and detachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

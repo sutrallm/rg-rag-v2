@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>A Saintly Being has fully dispelled Ignorance, seeing reality as it truly is without delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

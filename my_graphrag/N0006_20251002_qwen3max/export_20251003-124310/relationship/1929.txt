@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初禅至四禅</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>初禅至四禅是禅定的次第成就阶段，代表禅定由浅入深的完整发展过程。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

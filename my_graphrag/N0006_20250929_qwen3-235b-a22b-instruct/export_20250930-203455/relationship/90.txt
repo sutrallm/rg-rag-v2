@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内观</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>内观是瓦解烦恼势力的有效方法，若不修习内观，烦恼将如野火蔓延。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

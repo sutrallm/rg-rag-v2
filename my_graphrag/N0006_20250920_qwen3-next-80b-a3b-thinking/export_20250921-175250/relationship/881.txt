@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMATHA VIPASSANA PRACTICE</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>SAMATHA VIPASSANA PRACTICE purifies the MIND.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

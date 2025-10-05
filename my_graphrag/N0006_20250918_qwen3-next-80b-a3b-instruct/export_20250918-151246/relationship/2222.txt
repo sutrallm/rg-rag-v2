@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Complete realization of no-self (wuwo) leads to liberation (niepan), as attachment to a self is the root cause of suffering and cyclic existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

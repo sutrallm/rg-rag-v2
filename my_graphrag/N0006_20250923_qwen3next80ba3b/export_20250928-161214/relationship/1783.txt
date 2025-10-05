@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROCESSING</source_entity>
+    <target_entity>DOCTRINE</target_entity>
+    <relationship_description>The processing involves preserving doctrinal details as per instruction 5.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

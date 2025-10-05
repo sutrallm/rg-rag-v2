@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RECKLESSNESS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Recklessness is identified as the root cause that perpetuates the cycle of samsara through ignorance and unwholesome actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>果位</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>追求果位若掺杂贪求之心，即落入执着，违背“无我”与“不攀”的智慧。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

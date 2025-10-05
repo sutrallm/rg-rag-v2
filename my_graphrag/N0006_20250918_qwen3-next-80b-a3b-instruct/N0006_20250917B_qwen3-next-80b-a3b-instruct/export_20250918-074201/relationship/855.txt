@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>輪迴</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>精進是對抗輪迴束縛的行動，唯有不斷奮鬥，才能脫離生死循環。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

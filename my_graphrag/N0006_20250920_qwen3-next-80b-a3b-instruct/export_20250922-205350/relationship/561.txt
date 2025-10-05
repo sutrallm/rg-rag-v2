@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHOUHUXIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shouhuxin protects the foundation of Chanding by preventing sensory distractions and mental proliferation that disrupt meditative focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

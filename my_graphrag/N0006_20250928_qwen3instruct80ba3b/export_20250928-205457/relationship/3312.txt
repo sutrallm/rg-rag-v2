@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGJIAN</target_entity>
+    <relationship_description>Chanding supports zhengjian by allowing clear, undistorted perception of reality — essential for correct understanding.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

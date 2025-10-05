@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Wisdom directly eradicates ignorance by revealing the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

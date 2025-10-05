@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY</source_entity>
+    <target_entity>SPIRITUAL Liberation</target_entity>
+    <relationship_description>The Middle Way is the correct path that leads directly to spiritual liberation by avoiding extremes and cultivating balanced wisdom and practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

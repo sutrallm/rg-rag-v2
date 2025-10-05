@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Hui (wisdom) is the ultimate goal of the Threefold Training, activated by stable concentration and grounded in ethical living.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Attachment is a primary manifest form of the afflictions (greed, craving), which nourish suffering and bind one to samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

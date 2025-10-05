@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無明</target_entity>
+    <relationship_description>智慧能照破無明，透過觀照諸法真實本質，消除對「我」與「我所」的錯覺。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>不放逸是贯穿戒定慧三学的根本态度，保障修行者在三学修习中持续精进、不退转。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE DE DE XING</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>The virtues of the noble ones arise from completely eradicating ignorance, which is the root cause of all afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

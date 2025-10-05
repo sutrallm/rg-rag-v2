@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding helps extinguish defilements by calming the mind and reducing reactivity to craving and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

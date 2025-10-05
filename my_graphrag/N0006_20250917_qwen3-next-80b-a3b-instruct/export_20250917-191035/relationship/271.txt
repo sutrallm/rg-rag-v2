@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDING_ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True meditation requires transcending attachment not only to external phenomena but also to the bliss of meditation itself, making this wisdom essential for deepening chanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

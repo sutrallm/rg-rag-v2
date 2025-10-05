@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>CRABING</target_entity>
+    <relationship_description>Ignorance is the root cause of craving; misunderstanding reality leads to clinging and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

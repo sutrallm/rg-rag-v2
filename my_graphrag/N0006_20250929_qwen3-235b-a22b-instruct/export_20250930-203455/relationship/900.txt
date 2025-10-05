@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>嗔恚是烦恼的一种具体表现，属于需对治的三毒之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

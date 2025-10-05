@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe embodies Chaoshi, as the sage has transcended attachment to meditative states and worldly phenomena through true insight into non-self and impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

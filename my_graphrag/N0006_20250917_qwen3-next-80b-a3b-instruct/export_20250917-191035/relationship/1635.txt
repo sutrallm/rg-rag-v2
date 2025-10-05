@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>無明是懈怠的根源，精進修行正是對治無明的行動，以警覺對抗昏沉與誤解。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL KARMA</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>EVIL KARMA directly generates SUFFERING as karmic consequence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

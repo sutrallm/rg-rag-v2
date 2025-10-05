@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>修行者建立正见，认识到无常、苦、无我，是修行的起点与贯穿始终的智慧基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

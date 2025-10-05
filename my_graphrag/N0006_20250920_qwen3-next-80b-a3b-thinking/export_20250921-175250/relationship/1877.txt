@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION PROCESS</source_entity>
+    <target_entity>PERSONS</target_entity>
+    <relationship_description>The translation instructions mandate complete removal of all references to persons during transformation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

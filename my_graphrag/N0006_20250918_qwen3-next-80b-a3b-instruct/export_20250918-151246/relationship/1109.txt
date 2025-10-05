@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离</source_entity>
+    <target_entity>无我观照</target_entity>
+    <relationship_description>舍离源于无我观照的深入，因知一切无我，故不贪着、不执取，自然舍离。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

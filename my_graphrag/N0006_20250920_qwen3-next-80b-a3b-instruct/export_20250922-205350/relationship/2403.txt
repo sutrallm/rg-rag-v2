@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHENG JIE</source_entity>
+    <target_entity>WU ZHUO</target_entity>
+    <relationship_description>Wu Zheng Jie is the specific expression of Wu Zhuo in the context of spiritual practice—refusing to cling even to the goal of awakening.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

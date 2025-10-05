@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>色</target_entity>
+    <relationship_description>圣者不住色，不执取任何色境为究竟。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

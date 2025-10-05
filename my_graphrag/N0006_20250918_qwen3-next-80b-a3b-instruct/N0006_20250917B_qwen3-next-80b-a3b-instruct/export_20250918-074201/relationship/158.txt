@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>LUN HUI</target_entity>
+    <relationship_description>Zhineneng, through insight into impermanence and non-attachment, breaks the chain of ignorance and craving that perpetuates Lun Hui.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

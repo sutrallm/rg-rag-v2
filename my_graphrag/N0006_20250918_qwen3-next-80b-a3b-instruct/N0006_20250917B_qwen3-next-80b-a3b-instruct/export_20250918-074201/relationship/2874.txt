@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>SHENGSI LUNHUAI</target_entity>
+    <relationship_description>The enlightened being has fully transcended the cycle of birth and death, having eradicated its root causes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

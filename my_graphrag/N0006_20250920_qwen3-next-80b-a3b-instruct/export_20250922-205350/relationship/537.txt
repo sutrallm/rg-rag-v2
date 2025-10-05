@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiede (liberation) cannot be achieved without the stabilizing power of chanding as a prerequisite for wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

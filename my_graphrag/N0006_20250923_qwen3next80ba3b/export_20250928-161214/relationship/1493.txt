@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>HEEDLESSNESS leads to the arising of AFFLICTIONS as negligence causes mental disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

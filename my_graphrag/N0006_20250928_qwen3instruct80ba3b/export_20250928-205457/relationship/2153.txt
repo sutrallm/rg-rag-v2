@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOU YOU</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Nirvana is defined as the cessation of HOU YOU — the end of the cycle of rebirth caused by karma and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

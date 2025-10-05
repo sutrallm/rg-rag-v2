@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>YUANQI</target_entity>
+    <relationship_description>Wuwo (non-self) is the experiential insight derived from understanding yuanqi (dependent origination); one leads to the other.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

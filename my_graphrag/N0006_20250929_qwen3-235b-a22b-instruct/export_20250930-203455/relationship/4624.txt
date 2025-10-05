@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>修行者必须遵循正法教导，才能正确精进，避免误入歧途，成就禅定与智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

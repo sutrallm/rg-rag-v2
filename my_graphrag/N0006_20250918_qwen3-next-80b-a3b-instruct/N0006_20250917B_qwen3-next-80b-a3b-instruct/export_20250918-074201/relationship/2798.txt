@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>禅定的稳固依赖于精进修行，精进是维持禅定不被烦恼摧毁的必要条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

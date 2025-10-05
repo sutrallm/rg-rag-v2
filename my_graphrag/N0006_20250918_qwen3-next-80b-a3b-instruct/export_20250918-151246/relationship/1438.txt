@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Non-attachment arises from the direct realization of non-self; when one sees that nothing is truly “mine” or “me,” clinging naturally falls away.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>神通雖可能由修行產生，但非解脫的必要條件，修行者不應執著於此。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

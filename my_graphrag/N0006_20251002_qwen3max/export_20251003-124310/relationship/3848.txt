@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>專注</source_entity>
+    <target_entity>如實知見</target_entity>
+    <relationship_description>專注則能如實知見。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

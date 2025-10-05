@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>唯有精進不懈地依正法修行，才能脫離生死輪迴的掌控；懈怠則無法脫離此束縛。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

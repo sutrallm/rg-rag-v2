@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圆满</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>圆满是修行者通过持续精进最终达成的终极目标，代表修行的完成与解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

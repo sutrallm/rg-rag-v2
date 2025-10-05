@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定心念專注，是智慧生起的因；智慧則淨化禪定中的執著，令解脫圓滿。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

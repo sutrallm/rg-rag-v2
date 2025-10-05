@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>The Holy One (Sheng Zhe) naturally abides in Chan Ding through constant mindfulness and inner stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

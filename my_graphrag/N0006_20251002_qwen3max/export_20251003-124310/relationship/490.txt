@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心转化</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>内心转化的目标是降伏乃至断尽贪瞋痴等烦恼，是判断修行是否真实成就的关键标准。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

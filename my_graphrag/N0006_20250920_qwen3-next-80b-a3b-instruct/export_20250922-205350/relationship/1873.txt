@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENTIENT BEINGS</source_entity>
+    <target_entity>DEATH-NET</target_entity>
+    <relationship_description>Sentient beings are trapped in the death-net of samsara due to ignorance, attachment, and heedlessness — the very conditions meditation aims to dissolve.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

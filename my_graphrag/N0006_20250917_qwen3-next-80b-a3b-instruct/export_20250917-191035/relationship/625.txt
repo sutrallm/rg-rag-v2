@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>了悟無常能破除執著，因知一切皆變動不居，故不執取為「我」或「我所有」。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

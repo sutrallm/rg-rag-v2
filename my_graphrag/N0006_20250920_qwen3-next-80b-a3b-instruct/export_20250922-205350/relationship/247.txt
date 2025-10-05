@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCAI</source_entity>
+    <target_entity>FUZHI</target_entity>
+    <relationship_description>Attachment (fuzhi) arises when one misidentifies the five aggregates (wucai) as a permanent, independent self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

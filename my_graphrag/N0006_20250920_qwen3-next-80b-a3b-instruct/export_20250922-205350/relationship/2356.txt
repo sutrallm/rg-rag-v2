@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>UNCONDITIONED_LIBERATION</target_entity>
+    <relationship_description>Chanding, when matured by wisdom, leads to the purification of the mind and serves as the foundation for unconditioned liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

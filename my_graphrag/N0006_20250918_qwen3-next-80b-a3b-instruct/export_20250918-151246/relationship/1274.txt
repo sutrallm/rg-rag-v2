@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>JIEN</target_entity>
+    <relationship_description>Jietuo arises directly from Jien: liberation is not future-oriented but is realized in the present moment through unbroken mindfulness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

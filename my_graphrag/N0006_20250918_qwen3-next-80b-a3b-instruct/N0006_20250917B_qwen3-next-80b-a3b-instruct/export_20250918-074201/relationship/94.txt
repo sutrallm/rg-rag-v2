@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>An awakened being has completely eradicated the three poisons: greed, hatred, and delusion, which are the roots of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

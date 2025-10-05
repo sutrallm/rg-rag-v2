@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>PURE MORALITY</target_entity>
+    <relationship_description>Sages embody pure moral conduct as a foundation for their advanced spiritual realization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

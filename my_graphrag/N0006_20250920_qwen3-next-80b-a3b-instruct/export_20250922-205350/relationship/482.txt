@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Sheli is the practice and realization that directly manifests Niepan; liberation arises not through acquisition but through complete letting go.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

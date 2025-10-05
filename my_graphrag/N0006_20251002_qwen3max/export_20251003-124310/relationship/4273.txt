@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>唯有持续精进、毫不放逸地修习，才能脱离生死轮回，达成解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

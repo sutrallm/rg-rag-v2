@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>觀照無常是通向無我的重要觀照途徑，二者皆是智慧所體證的核心實相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

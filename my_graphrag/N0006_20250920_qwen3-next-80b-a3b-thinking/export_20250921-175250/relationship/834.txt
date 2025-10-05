@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>CESSATION</target_entity>
+    <relationship_description>CESSATION is the third of the Four Noble Truths, signifying the end of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

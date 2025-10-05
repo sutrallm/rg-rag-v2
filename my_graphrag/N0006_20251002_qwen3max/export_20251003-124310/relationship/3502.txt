@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>亲证</source_entity>
+    <target_entity>四圣谛与八正道</target_entity>
+    <relationship_description>亲证的对象正是四圣谛与八正道，唯有通过践行这些教法才能断除烦恼、证得涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

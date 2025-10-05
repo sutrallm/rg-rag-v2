@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE DHARMA</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>True Dharma leads to non-attachment by revealing the impermanent, unsatisfactory, and selfless nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

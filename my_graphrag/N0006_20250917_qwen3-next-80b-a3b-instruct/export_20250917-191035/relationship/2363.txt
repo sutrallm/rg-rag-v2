@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>無常與無我是互為支撐的兩大佛教核心真理，共同破除對實體的錯誤認知。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四如意足</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>四如意足是禅定成就的基础，通过欲、精进、心、观四种力量增强定力，是禅定进阶的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

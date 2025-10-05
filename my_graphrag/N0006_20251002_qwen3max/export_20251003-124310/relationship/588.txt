@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四果阿羅漢</target_entity>
+    <relationship_description>四果阿羅漢是修行者最終證得的究竟解脫果位，代表煩惱完全滅盡。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

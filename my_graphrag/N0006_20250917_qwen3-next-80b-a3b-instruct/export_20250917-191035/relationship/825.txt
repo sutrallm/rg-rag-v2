@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>F Annao arises from misperceiving the five aggregates as self; understanding their true nature is key to ending affliction.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

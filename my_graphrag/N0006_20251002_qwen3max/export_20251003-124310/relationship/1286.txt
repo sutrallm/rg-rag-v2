@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>專注</source_entity>
+    <target_entity>禪修者</target_entity>
+    <relationship_description>禪修者需培養專注作為禪定的基礎，以達成穩定清明的心境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

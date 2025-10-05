@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>NO INHERENT EXISTENCE</target_entity>
+    <relationship_description>PRACTITIONER observes NO INHERENT EXISTENCE to realize the truth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

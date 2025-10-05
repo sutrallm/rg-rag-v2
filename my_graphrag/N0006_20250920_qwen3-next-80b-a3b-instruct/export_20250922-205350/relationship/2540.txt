@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>JIEMING</target_entity>
+    <relationship_description>Zhineng, through observing non-self and impermanence, leads directly to Jieming by dissolving false attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

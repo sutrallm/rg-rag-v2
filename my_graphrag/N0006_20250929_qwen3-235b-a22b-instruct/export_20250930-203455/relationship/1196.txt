@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无常观应用于日常生活中，觉察身心（五蕴）的迁流变化，从而减少执着、增长出离心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

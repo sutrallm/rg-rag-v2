@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>无为之境</target_entity>
+    <relationship_description>“无我”的彻底体悟是达成“无为之境”的直接原因，放下“我”与“我所”的错觉即自然进入无作状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

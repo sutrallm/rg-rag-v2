@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>The noble being has completely uprooted ignorance, which is why they are free from all suffering and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

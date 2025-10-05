@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS_IN_DAILY_LIFE</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Mindfulness in daily life is the practical extension of mindfulness into all activities, making it a continuous practice rather than a formal exercise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

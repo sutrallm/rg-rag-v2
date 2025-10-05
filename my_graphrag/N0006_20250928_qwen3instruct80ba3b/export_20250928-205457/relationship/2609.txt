@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGJIAN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zhengjian (wisdom) is the direct cause of niyapan; only through insight into impermanence, suffering, and non-self can one attain true liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

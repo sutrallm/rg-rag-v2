@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding is deepened by non-attachment, allowing the practitioner to remain undisturbed even in pleasant or unpleasant meditative states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

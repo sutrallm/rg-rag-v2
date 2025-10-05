@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUESTION</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The question is missing the required original content needed for translation and processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEXING</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The awakened being is the sacred person—living in constant awareness of reality, free from clinging, and embodying innate freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

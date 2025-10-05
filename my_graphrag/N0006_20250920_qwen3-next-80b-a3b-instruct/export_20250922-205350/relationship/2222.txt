@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>執著是解脫的主要障礙，唯有超越執著才能真正解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>追悔</source_entity>
+    <target_entity>掉舉追悔</target_entity>
+    <relationship_description>追悔是「掉舉追悔」這一五蓋煩惱的組成部分，代表對過去行為懊悔的面向。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

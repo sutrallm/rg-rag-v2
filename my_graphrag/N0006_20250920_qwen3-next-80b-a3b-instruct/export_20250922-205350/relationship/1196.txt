@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SEEKING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is attained only through non-seeking; when the mind is free from craving for outcomes—including liberation—it naturally abides in the unconditioned.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

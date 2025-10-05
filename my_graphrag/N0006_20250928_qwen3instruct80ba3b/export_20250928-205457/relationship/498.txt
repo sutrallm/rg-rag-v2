@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧能洞察贪欲的无常、苦、无我本质，使其自然熄灭，而非靠压制。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>PLACEHOLDER</target_entity>
+    <relationship_description>ORIGINAL_TEXT contains a PLACEHOLDER indicating missing content.</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

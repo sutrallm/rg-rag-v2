@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>蓮花出淤泥而不染</source_entity>
+    <target_entity>解脫者</target_entity>
+    <relationship_description>蓮花出淤泥而不染是用以形容解脫者雖活於世間卻不受染污的心境與行為特質。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

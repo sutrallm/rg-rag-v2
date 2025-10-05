@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINXIU</source_entity>
+    <target_entity>WUFENBIAN</target_entity>
+    <relationship_description>Xinxiu, as continuous mindfulness, cultivates Wufenbian by training the mind to observe without judgment, dissolving dualistic thinking.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

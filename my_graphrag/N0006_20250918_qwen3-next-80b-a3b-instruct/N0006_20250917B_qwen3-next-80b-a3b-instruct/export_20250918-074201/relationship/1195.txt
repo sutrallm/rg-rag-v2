@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>Liberation</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Liberation is defined as the complete cessation of clinging to "I" and "mine," making it the direct antidote to clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

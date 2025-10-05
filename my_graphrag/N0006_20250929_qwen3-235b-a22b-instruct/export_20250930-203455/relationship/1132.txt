@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通异能</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>贪求神通异能会分散修行者对断除烦恼的关注，非解脱本质，反而可能成为解脱的障碍。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

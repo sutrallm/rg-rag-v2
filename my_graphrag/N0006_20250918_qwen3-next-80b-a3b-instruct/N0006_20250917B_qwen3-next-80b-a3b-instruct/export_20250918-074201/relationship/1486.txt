@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUNGLI</source_entity>
+    <target_entity>GAN</target_entity>
+    <relationship_description>Yungli enables one to see through the illusory nature of desire, thereby overcoming gan (greed) by realizing its impermanence and unsatisfactoriness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

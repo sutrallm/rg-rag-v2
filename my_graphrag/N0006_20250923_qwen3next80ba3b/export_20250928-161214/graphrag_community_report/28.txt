@@ -1,0 +1,18 @@
+**User Translation Requests Missing Source Content**  
+
+User-submitted translation requests omit necessary original content, causing the assistant to generate error notifications. The assistant requires original content to perform processing and adheres to user-specified formatting in responses. Providing original content is the user's responsibility for successful task execution.  
+
+**Translation Requests Lack Source Content**  
+User submitted translation queries without providing required original content, where the submission does not include the necessary material expected for processing.  
+
+**Assistant Identifies Missing Source Content**  
+The assistant processes requests and detects the absence of required original content, triggering responses to notify users of the omission.  
+
+**Source Content Mandatory for Processing**  
+Original content is essential for translation tasks; the assistant cannot proceed without it and relies on its presence for accurate rendering and adjustments.  
+
+**Response Format Follows User Specifications**  
+Assistant utilizes provided formatting guidelines to structure responses, including errors related to missing materials, ensuring consistency with user requirements.  
+
+**User Responsibility for Content Provision**  
+Users are accountable for including original content in requests, and its absence in submissions results in processing failures.

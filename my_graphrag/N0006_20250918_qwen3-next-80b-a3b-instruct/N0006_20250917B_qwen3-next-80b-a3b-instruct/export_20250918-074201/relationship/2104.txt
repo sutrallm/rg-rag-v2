@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Greed—attachment to pleasure, states, or outcomes—is a direct cause of suffering, as it creates craving for what is impermanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

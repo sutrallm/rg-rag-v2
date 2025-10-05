@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE THREEFOLD TRAINING</source_entity>
+    <target_entity>INSIGHT (WISDOM)</target_entity>
+    <relationship_description>Wisdom is the third pillar and the liberating light that completes the training and extinguishes ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

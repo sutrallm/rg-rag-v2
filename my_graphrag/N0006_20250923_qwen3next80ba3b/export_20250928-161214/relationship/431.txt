@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>病者</source_entity>
+    <target_entity>不净观</target_entity>
+    <relationship_description>病者（比喻）需通过不净观治疗贪欲的“病症”。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

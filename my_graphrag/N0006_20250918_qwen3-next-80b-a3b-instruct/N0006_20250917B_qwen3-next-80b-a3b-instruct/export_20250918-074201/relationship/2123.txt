@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRAGA</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>不懈的精进是通向解脱的必要条件，没有精进则难以持久修持，也无法最终证得涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

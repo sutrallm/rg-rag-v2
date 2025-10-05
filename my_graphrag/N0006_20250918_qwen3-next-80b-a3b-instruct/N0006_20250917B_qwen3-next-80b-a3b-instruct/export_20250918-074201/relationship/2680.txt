@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Chanding enables the practitioner to detach from desire, helping to loosen its grip on the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

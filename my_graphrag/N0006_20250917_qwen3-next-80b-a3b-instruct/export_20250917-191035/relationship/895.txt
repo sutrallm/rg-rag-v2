@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE Liberation</source_entity>
+    <target_entity>NO SELF</target_entity>
+    <relationship_description>True liberation is only possible through the full realization of no-self, which dismantles the illusion of a separate, enduring identity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

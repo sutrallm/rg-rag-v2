@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>观照无常包含对无我的如实观察，二者同为诸法实相，是断除“我”与“我所”执着的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

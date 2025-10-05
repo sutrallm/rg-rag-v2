@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>解脱者</target_entity>
+    <relationship_description>解脱者如实观照诸法无我，不执取善法亦不拒斥恶法，体现无我的证悟境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

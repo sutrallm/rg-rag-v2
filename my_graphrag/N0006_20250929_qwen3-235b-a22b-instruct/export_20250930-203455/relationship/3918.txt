@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实知见</source_entity>
+    <target_entity>心识</target_entity>
+    <relationship_description>如实知见是心识净化后对诸法真实本质的直接了知状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

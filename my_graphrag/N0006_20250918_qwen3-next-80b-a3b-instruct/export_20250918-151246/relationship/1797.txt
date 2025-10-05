@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>The sage abides in tranquility, which is the result of deep meditative concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

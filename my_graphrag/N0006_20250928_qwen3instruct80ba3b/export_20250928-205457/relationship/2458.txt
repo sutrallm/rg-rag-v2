@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhihui manifests as the direct realization of Wuwo; wisdom is the knowing that all phenomena lack a permanent self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

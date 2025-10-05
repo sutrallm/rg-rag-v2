@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>業力</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>業力是推動輪迴運作的根本機制，身口意的行為持續造成生死流轉。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

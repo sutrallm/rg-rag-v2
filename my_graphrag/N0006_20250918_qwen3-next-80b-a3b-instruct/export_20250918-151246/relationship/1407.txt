@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>CHANSU</target_entity>
+    <relationship_description>Saintly qualities include the cultivation of chansu as part of inner stillness and moral purity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

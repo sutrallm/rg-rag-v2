@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>不放逸被明確指出是解脫的根本，唯有持續警覺精進者才能斷除煩惱、獲得真正自由。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

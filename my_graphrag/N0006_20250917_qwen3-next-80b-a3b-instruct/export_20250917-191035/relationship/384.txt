@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著</source_entity>
+    <target_entity>生死輪轉</target_entity>
+    <relationship_description>執著是導致眾生陷入生死輪轉的根本原因，二者是因果關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

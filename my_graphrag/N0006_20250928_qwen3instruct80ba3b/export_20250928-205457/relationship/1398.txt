@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WAIGUAN</target_entity>
+    <relationship_description>Chanding enables the practitioner to transcend external distractions and remain unmoved by them.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

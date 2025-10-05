@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>专注</source_entity>
+    <target_entity>五盖</target_entity>
+    <relationship_description>专注有助于克服五盖，使心念不被贪欲、瞋恚等障碍所扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

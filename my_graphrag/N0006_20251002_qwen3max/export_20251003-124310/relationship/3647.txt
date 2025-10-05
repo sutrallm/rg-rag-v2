@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>戒定慧三學</target_entity>
+    <relationship_description>修行次第體現為從持戒到修定再到發慧，正是戒定慧三學的實踐順序。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

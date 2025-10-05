@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>覺察</target_entity>
+    <relationship_description>涅槃之道即在持續覺察當下，不隨妄念流轉。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

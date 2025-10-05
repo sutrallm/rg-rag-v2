@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>心的调伏</target_entity>
+    <relationship_description>禅修的核心是调伏散乱之心，使其趋于平静与专注。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

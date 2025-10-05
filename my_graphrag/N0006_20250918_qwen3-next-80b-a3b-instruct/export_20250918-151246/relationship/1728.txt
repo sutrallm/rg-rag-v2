@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>“无我”是“空性”在主体层面的体现，二者共同构成对实有自性的破除，是同一实相的不同面向。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

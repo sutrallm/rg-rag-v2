@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>修行误区</target_entity>
+    <relationship_description>修行中需警惕误区，如误将禅定境界或神通感应当作解脱，真正的修行在于断除贪嗔痴。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

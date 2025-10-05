@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>The shengzhe (holy one) has completely extinguished the three poisons, making their eradication a defining feature of this enlightened state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

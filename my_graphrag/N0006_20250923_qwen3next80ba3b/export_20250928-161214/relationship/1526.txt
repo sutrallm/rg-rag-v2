@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Attachment to the results of AWAKENING hinders true realization and progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

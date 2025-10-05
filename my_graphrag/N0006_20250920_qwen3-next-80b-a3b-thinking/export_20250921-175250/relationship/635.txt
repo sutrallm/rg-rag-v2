@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Follower of Buddhist precepts helps eliminate afflictions through ethical conduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

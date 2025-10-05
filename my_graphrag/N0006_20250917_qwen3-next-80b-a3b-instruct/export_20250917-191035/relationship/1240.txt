@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINZI</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Xinzi (mind cultivation) culminates in zhihui (wisdom), where mindfulness and effort lead to insight and the transcendence of ego-based conditioning.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

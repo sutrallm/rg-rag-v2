@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>日常生活</target_entity>
+    <relationship_description>真正的禅定应贯穿于日常生活，使心念在行住坐卧中保持清明觉照。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

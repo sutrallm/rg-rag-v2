@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAN CHEN CHI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The Shengzhe is defined by the complete eradication of tan chen chi — the three poisons that bind ordinary beings to suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

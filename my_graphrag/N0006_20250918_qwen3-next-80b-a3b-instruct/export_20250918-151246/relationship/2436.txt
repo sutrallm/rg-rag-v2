@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZENGBUJIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wu Zeng Bu Jian represents the mature realization that chanding is only a tool, not an end—thus aligning with the non-attached attitude of enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUWO SHIXIANG</target_entity>
+    <relationship_description>Meditative calm (Chanding) becomes transformative only when it is infused with the insight of no-self — otherwise it becomes mere concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

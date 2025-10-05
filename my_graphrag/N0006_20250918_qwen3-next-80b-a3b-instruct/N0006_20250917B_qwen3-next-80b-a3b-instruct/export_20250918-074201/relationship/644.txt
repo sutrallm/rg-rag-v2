@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>HUN CHEN</target_entity>
+    <relationship_description>Chan Ding helps overcome drowsiness by cultivating focused awareness and mental clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

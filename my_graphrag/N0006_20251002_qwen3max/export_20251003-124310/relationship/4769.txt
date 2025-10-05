@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初禅</source_entity>
+    <target_entity>四禅</target_entity>
+    <relationship_description>初禅至四禅构成禅定的次第进展，心由粗至细、逐步清净，为观慧奠定基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

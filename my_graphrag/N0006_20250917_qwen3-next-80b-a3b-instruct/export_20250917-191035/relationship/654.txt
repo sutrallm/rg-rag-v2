@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>LIFE-DEATH CYCLE</target_entity>
+    <relationship_description>Greed is one of the primary fuels driving the cycle of rebirth, as attachment to sensory and mental experiences creates karma that leads to future existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

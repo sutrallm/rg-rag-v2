@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>GAN CHEN CHI</target_entity>
+    <relationship_description>The shengzhe has completely uprooted gan, chen, chi (greed, hatred, delusion), the foundational causes of suffering that bind ordinary beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

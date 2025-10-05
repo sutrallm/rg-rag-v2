@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYIN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuyin (five aggregates) are the components that, when seen as impermanent and insubstantial, reveal wuwo (non-self)—the delusion of "I" is constructed from these aggregates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

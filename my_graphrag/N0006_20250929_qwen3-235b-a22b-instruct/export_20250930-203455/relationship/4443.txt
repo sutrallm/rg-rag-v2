@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>平衡</target_entity>
+    <relationship_description>禅定需在松紧之间保持平衡，如调琴弦，过紧则躁动，过松则昏沉，唯有得宜方能奏出清净之音。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

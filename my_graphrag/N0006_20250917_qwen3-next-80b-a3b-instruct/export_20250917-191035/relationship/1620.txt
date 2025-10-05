@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>GREED_HATRED_DELUSION</target_entity>
+    <relationship_description>Saintly qualities are defined by the absence of the three root poisons; overcoming them is central to embodying these traits.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

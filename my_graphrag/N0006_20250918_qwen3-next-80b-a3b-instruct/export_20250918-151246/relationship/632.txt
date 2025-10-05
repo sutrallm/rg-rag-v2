@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>YINYUAN HEHE</target_entity>
+    <relationship_description>Understanding no-self is based on the insight of dependent origination — everything arises in dependence on causes and conditions, with no independent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

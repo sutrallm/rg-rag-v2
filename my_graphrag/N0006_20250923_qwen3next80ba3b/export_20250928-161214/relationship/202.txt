@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪著</source_entity>
+    <target_entity>存在形式</target_entity>
+    <relationship_description>Attachment (贪著) to forms of existence (存在形式) perpetuates suffering and must be relinquished for liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Mindfulness enables the direct, moment-to-moment observation of impermanence in bodily sensations, feelings, and mental states, which is essential for insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

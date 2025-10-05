@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正思维</target_entity>
+    <relationship_description>修行者以正思维配合正见对治烦恼，促进心识净化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

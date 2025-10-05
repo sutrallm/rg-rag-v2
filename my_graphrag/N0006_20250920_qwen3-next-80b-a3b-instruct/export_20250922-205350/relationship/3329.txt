@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUAI</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Huai (delusion) is the root of fan nao (afflictions); ignorance gives rise to craving, aversion, and other mental disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

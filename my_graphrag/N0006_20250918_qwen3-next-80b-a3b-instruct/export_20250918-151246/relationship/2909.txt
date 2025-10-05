@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHUO DE ZHIGUI</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Transcending attachment is the direct result of contemplation of non-self, recognizing that all phenomena lack inherent self-nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>無我觀照</target_entity>
+    <relationship_description>聖者恒常實踐無我觀照，故能不執身、不執心，完全超越我執。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

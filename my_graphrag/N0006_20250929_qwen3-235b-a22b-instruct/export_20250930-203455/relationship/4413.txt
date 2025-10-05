@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>无常观是智慧实践的重要部分，通过观照生灭实相，自然放下执取，增长智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

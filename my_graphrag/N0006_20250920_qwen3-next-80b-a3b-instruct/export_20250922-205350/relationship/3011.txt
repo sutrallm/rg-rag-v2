@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding is only complete when one does not cling to attainments or mystical experiences—non-attachment purifies and deepens meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

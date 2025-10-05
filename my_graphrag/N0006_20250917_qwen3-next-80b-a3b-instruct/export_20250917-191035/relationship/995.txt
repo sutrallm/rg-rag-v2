@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding requires mindfulness to maintain focused awareness and resist mental distractions; the two are foundational and interdependent in Buddhist meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

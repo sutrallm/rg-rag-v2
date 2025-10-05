@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion is required to sustain chanding, as without continuous effort,懈怠 (laziness) and 无明 (ignorance) will undermine it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

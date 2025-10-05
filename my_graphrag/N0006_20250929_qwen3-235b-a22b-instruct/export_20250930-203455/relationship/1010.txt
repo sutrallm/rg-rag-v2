@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>邪见</target_entity>
+    <relationship_description>若仅有禅定而无智慧，易产生邪见，如执著于境界或自我，阻碍正观与解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

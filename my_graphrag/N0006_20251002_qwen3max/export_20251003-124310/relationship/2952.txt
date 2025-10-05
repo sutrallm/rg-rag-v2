@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>在禅定中，修行者能如实观照无常，无常的体证依赖于禅定的深入。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

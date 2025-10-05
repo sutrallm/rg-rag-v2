@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM超越执着</target_entity>
+    <relationship_description>Chanding is not an end in itself; true meditation requires wisdom to avoid attachment to meditative experiences, ensuring progress toward liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

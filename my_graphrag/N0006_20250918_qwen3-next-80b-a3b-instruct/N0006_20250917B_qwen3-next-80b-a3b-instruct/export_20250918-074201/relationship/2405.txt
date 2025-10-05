@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENOUGH</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>“Enough” embodies the principle of non-attachment — realizing that true gain lies in letting go, not accumulating.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

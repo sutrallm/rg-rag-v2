@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>贪</target_entity>
+    <relationship_description>离欲直接针对贪爱，舍离对感官欲乐的执着即是对治贪的核心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

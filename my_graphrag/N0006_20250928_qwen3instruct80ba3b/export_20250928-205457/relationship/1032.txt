@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Buddha taught the path to wisdom, emphasizing insight into impermanence, no-self, and dependent origination as the way to end suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

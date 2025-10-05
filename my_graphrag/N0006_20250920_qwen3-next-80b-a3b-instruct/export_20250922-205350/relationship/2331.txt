@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom — the direct insight into the nature of reality — is the direct path to realizing nirvana, as it uproots delusion and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

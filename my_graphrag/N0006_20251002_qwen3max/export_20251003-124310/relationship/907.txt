@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官欲望</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>节制感官欲望是建立禅定的必要条件，否则心无法安住寂静。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

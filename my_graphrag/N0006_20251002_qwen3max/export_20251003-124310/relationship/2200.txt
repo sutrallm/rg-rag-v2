@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>亲证</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱必须通过亲证达成，即修行者亲身实践、如实修习，逐步净化身心，才能真实体证解脱，非他人所能替代。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

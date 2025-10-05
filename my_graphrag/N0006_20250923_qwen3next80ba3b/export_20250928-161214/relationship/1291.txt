@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Practitioners deeply contemplate the Five Aggregates to realize impermanence, suffering, and no-self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>次第修行</source_entity>
+    <target_entity>我慢</target_entity>
+    <relationship_description>若跳过基础而妄求高深境界，会增长我慢，障碍道业。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

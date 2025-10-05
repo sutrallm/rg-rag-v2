@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin sustains and stabilizes chanding by preventing mental sloth and maintaining consistent awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

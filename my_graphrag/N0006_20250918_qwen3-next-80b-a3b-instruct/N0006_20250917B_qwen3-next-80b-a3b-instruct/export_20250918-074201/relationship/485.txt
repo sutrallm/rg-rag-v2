@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIAOCHAHU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiaochaohu (continuous mindfulness) cultivates and sustains chanding (meditative concentration) outside of formal sitting, making it a living practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

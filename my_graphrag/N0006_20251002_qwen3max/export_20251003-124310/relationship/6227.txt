@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>真正的寂静源于内心离染，是禅定所达成的内在状态，而非外在环境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

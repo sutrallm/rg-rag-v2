@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律清净才能使心安定，进而生起智慧；无戒则自缚，智慧无法生起，三者形成不可分割的修行三学体系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

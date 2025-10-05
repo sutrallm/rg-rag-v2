@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Meditation helps avoid being controlled by ignorance, as stated: "唯有持续精进修习禅定，才能避免被无明所牵制".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

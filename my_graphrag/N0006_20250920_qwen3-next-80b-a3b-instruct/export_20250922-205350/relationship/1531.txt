@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chizhu arises through Wuwo insight — the realization of non-self leads directly to the release of attachment to self, objects, and meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

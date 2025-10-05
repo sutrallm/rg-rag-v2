@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平等看待一切境界</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>平等看待境界包括不因神通而生驕慢或貪求，視其為無實相之現象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>戒定慧三学圆满成就，是达成真实解脱的唯一正途，三者缺一不可。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JSING JIN</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Jing Jin sustains the effort required to maintain practice, overcome laziness, and progress toward liberation — it is called the "key" to escape the cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

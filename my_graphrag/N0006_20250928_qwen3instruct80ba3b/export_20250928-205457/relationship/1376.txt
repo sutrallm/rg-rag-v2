@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Delusion—the failure to see reality as it is—leads directly to attachment, as one wrongly believes things are permanent, satisfying, or self-owned.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

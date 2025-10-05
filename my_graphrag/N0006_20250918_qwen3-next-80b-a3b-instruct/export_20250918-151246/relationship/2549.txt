@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>TIANYU ZHONGSHENG</target_entity>
+    <relationship_description>Holy beings, through their complete liberation and purity, attain a status so profound that even divine beings hold them in reverence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

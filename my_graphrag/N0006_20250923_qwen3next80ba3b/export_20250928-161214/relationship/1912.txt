@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Meditation helps overcome heedlessness by fostering sustained focus and diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

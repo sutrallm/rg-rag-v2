@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIÉLÜ</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiélü (ethics) supports and enables chanding (concentration); without moral grounding, meditation cannot deepen.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

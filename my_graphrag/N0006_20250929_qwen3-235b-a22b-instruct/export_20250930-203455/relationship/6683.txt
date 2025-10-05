@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>慈悲是修行成果的重要体现，表明心量扩大与利他心增长。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

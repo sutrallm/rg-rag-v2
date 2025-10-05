@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>受</source_entity>
+    <target_entity>苦痛</target_entity>
+    <relationship_description>受的本质是苦，需观察以断除</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SINIANCHU</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Sinianchu is the formal structure through which zhengnian (mindfulness) is cultivated across all life activities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

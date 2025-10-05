@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>禪定是通往解脫的重要途徑，能止息內在躁動與執著，幫修行者從妄念中解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

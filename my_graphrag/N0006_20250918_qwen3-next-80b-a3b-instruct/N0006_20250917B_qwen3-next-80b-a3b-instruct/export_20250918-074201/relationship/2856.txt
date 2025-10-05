@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily practice (Xiuxing) cultivates meditative absorption (Chandigh) through mindful presence in ordinary activities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>烦恼是导致众生堕入轮回的根本原因，断除烦恼才能超越轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

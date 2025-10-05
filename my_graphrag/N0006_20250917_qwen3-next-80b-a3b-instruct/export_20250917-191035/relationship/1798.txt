@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>BUZHI XIUZHENG</target_entity>
+    <relationship_description>Sages have no sense of “I am enlightened”; their non-attachment to attainment is what defines their enlightened status.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

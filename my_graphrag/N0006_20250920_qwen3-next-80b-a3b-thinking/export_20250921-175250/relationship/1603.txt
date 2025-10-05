@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT_WISDOM</source_entity>
+    <target_entity>REALMS</target_entity>
+    <relationship_description>Non-attachment wisdom observes realms without clinging to them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

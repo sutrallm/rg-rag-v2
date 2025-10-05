@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>SHELI</target_entity>
+    <relationship_description>Regular zhennian (mindfulness) develops the capacity for sheli (letting go), since awareness allows one to notice clinging and release it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

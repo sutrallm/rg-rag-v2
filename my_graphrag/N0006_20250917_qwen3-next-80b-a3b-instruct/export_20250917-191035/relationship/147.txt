@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHI ZHI</source_entity>
+    <target_entity>WULING</target_entity>
+    <relationship_description>Wuwo zhi zhi arises from seeing the five aggregates as impermanent, impersonal, and constantly changing — not a real "self".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

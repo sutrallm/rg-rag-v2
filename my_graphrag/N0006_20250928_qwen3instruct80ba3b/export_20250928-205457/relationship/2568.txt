@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>禪定需要透過精進修行才能持續維持，不被懈怠與無明所破壞，二者是實現內心清淨的必要條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

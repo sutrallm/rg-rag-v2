@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIERHAN</target_entity>
+    <relationship_description>The noble one has realized or is on the path to Nirvana (Nierhan), having transcended all conditioned existence and egoic identification.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

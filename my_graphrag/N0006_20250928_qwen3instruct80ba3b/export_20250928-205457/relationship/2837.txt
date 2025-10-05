@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Jie supports Zhihui by purifying the mind; without ethical grounding, wisdom may degenerate into speculative or corrupt views.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

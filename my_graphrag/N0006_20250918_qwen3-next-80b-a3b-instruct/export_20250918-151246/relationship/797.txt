@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>A shengzhe is someone who has fully realized transcending attachment and no longer clings to any experience or state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

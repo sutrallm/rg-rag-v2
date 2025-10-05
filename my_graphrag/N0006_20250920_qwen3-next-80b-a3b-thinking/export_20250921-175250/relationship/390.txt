@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>IGNORANCE DUST</target_entity>
+    <relationship_description>PRACTITIONER must immediately eliminate IGNORANCE DUST</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SUBSTANTIALITY</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realizing non-substantiality is essential to attaining nirvana, as one no longer misinterprets reality as fixed or self-owned.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

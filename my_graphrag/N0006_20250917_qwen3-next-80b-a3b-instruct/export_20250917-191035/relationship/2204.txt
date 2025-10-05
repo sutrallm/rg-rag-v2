@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDING_ATTACHMENT</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>不贪恋觉受与境界，即是对欲望的直接超越，是断除执着的核心表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

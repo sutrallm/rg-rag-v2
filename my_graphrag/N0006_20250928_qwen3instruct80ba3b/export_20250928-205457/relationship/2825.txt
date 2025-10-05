@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMINGHUI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Only when precept, concentration, and wisdom are fully developed can liberation (jiede) be achieved — this is the necessary and sufficient path to transcend samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>魔境</target_entity>
+    <relationship_description>不放逸使人時時警醒、精進不懈，能在心念上持續覺照，從而遠離魔境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

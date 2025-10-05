@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>防护</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过防护六根，防止被外境染污，是修行中重要的自我管理方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

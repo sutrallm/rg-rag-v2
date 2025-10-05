@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>無明是生死輪迴的根本因，因不知諸法實相，眾生才不斷輪轉。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

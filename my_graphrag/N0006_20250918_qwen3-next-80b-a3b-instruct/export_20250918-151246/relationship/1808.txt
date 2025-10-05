@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The ultimate mark of a Shengzhe is the complete realization of Wuwo—the absence of a fixed self—and thus, freedom from all ego-based suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEI HU</source_entity>
+    <target_entity>YAN XUE</target_entity>
+    <relationship_description>猛虎伏于岩穴，象征依靠安稳基础保持威猛自保的状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

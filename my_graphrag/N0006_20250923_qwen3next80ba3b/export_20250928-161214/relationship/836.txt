@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX ROOTS PURITY</source_entity>
+    <target_entity>SIX DUSTS</target_entity>
+    <relationship_description>SIX ROOTS PURITY ensures the sense organs remain untainted by external SIX DUSTS.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

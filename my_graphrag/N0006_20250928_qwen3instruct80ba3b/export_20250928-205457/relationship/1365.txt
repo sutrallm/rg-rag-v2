@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>菩薩行</target_entity>
+    <relationship_description>菩薩行以慈悲與智慧雙運為核心特徵，慈悲是菩薩度化眾生的根本動力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

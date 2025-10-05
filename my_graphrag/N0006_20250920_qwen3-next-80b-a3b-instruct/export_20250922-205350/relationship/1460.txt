@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PUTRIDITY OF LUXURY (INDULGENCE)</source_entity>
+    <target_entity>DELUSION (IGNORANCE)</target_entity>
+    <relationship_description>Indulgence and laxity strengthen ignorance by preventing the arising of mindfulness and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

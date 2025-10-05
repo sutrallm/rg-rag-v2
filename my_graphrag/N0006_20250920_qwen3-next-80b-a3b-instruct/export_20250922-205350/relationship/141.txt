@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Chanding matures into Hui — insight and wisdom emerge naturally from a stable and concentrated mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EQUAL-MINDEDNESS</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Equal-mindedness is the lived expression of non-attachment in daily experience, especially when facing external conditions of pleasure and pain.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH OF LIBERATION</source_entity>
+    <target_entity>BONDAGE</target_entity>
+    <relationship_description>Following the path of liberation allows practitioners to transcend the bondage created by attachment and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

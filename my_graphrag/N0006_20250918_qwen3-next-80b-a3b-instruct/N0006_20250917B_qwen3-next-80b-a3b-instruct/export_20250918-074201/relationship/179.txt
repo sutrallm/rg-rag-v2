@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>死亡魔王</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>死亡魔王通过贪爱操控众生，令其沉溺轮回，贪爱是其统治的机制之一。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

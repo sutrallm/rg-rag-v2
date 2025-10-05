@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>True non-attachment is essential for enlightenment, as even attachment to spiritual results obstructs final liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

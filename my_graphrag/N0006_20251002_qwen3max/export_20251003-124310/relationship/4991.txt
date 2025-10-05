@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>內證境界</target_entity>
+    <relationship_description>聖者的內心狀態即為內證境界的體現：寂靜、不動、慈悲與智慧自然流露。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

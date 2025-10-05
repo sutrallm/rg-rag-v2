@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>寂滅之境</target_entity>
+    <relationship_description>聖者安住於寂滅之境，為其內心煩惱止息的自然狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

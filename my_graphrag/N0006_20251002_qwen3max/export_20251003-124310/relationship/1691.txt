@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真正的寂静</source_entity>
+    <target_entity>内心解脱</target_entity>
+    <relationship_description>真正的寂静被定义为内心彻底远离贪爱、瞋恚与无明后的状态，即内心解脱的自然显现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照无常</source_entity>
+    <target_entity>解脱者</target_entity>
+    <relationship_description>解脱者通过观照无常等修习，深知一切有为法如梦幻，故不执取任何境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

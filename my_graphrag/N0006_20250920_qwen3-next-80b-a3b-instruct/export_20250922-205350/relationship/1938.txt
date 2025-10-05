@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>无我观是智慧的核心内容，是如实观照实相的具体方法，成就智慧的必经之路。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

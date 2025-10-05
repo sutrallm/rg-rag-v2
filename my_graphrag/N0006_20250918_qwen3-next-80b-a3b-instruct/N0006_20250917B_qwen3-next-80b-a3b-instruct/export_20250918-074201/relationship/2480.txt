@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起无常</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>了知缘起无常能破除对得失、顺逆的执著，是实现解脱的心理基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

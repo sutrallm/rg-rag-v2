@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Only through persistent effort (Jingjin) can one develop the penetrating wisdom (Chashi) that sees through illusion and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

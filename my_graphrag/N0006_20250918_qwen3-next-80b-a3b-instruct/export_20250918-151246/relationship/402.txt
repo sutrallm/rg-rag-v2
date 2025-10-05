@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHUO</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>Transcending attachment is the key mechanism through which liberation is achieved, as letting go of clinging to experiences and states removes the roots of samsaric bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

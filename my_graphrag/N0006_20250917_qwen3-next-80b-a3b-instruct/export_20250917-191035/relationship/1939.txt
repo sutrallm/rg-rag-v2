@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xiulian depends on jingjin to be continuous and unwavering; diligence is the engine of all daily practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

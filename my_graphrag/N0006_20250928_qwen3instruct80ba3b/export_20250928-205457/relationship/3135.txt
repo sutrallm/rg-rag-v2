@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROUND_OF_REBIRTH</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>The endless cycle of rebirth arises directly from ignorance—misunderstanding the nature of self and reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

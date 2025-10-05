@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>內觀智慧</target_entity>
+    <relationship_description>修行者在禪定穩固後，心清明澄澈，便能生起內觀智慧，如實觀照五蘊本質。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

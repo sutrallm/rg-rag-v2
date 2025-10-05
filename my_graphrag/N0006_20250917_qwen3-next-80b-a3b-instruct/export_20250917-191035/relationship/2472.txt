@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RICHIANG</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Richiang (daily mindfulness) is the practical expression of mindfulness applied throughout all daily activities, not isolated to meditation sessions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

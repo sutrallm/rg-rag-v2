@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGJIAN</source_entity>
+    <target_entity>YUAN QI XING KONG</target_entity>
+    <relationship_description>Zhengjian includes the correct understanding of dependent origination and emptiness as essential for avoiding delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

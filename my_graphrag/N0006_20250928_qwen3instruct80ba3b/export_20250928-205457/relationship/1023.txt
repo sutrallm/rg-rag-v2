@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DESIRES</target_entity>
+    <relationship_description>Chanding is practiced to withdraw attention from desires and prevent them from disturbing the mind, thus weakening their grip over consciousness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

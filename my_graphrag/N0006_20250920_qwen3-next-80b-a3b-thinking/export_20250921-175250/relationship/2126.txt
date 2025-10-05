@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>mind</source_entity>
+    <target_entity>peace</target_entity>
+    <relationship_description>Through meditation, the mind naturally achieves peace and stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

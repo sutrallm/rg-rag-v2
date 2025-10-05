@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_PRACTICE</source_entity>
+    <target_entity>STEFFIN</target_entity>
+    <relationship_description>Daily Practice requires constant Steffin — alertness and persistence — to maintain mindfulness during ordinary actions, resisting lapses into autopilot or distraction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

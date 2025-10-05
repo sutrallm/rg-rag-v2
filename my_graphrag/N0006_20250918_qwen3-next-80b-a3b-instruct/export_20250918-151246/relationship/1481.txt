@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Hatred, like greed, is rooted in delusion—misunderstanding reality leads to aversion and reactive suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

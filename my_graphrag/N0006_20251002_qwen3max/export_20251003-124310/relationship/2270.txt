@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>色</target_entity>
+    <relationship_description>色是五蕴的第一蕴，指物质或身体现象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

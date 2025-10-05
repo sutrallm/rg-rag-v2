@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHUOZHI</target_entity>
+    <relationship_description>Chanding leads to insight, but true freedom comes only when one transcends attachment even to meditative states—making chao yue zhuo zhi the necessary next step.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Awakening occurs only in the present moment when the mind is clear and unattached.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

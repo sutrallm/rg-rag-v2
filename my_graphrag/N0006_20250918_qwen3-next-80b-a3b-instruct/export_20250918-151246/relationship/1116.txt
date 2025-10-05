@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>看透无常是获得超越执着智慧的关键方法，是如实观照现象本质的切入点。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

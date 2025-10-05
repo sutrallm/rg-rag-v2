@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>THREE-FOLD EMPTINESS</target_entity>
+    <relationship_description>Wisdom is essential for realizing the Threefold Emptiness, as demonstrated in '三轮体空的布施智慧' where wisdom underpins the threefold emptiness perspective in charitable giving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

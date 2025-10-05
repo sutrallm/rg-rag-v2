@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENDING AFFLICTIONS</source_entity>
+    <target_entity>TRANSCENDING SUFFERING</target_entity>
+    <relationship_description>ENDING AFFLICTIONS directly leads to the process of TRANSCENDING SUFFERING.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

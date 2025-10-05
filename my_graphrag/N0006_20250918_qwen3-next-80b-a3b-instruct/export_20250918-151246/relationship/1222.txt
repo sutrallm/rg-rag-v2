@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>涅槃的实现依赖于当下的正念觉知，不执不攀，心不再被烦恼牵引即是涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

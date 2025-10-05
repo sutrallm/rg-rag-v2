@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE XINXING TEZHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A sage’s tranquil conduct arises from mastery of Chanding, enabling them to remain unmoved by external or internal conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

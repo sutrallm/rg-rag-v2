@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>圣者已断尽烦恼，内心安稳无惧，不再受贪瞋痴等烦恼扰动。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

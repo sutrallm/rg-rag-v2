@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>死亡魔王</source_entity>
+    <target_entity>掌控</target_entity>
+    <relationship_description>死亡魔王握有掌控</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

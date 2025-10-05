@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Fangyi (negligence) directly undermines Chanding (meditative concentration), causing mental restlessness and dispersal of attention.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

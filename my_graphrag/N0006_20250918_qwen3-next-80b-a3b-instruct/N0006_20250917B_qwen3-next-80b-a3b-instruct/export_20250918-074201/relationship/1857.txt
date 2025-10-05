@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>REINCARNATION</target_entity>
+    <relationship_description>Effort combats sloth and ignorance, which perpetuate the cycle of reincarnation; diligent practice breaks this cycle.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

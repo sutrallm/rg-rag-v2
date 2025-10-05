@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REINCARNATION CYCLE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion is a primary driver of the reincarnation cycle, as it causes mistaken identification and clinging, perpetuating rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

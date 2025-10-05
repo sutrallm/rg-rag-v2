@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>貪瞋痴</target_entity>
+    <relationship_description>聖者斷盡貪瞋痴三毒，這是其達到身心自在與超越痛苦的標誌。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

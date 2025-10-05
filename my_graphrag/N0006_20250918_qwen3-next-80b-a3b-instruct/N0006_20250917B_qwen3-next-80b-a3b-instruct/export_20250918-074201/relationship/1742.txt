@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Realization of impermanence is a core component of insight in Buddhist practice; seeing all phenomena as transient undermines attachment and fuels liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

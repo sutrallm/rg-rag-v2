@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIKONG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Sikong provides the five components that are observed to realize wuwo. Contemplating the aggregates as non-self is the practical method for developing this insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

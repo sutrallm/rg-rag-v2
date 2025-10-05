@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生老病死</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>生老病死是輪迴之苦的體現，解脫即是徹底超越此四種苦的狀態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

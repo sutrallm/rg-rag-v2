@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS_IN_DAILY_LIFE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is said to be found not in isolation but through continual awareness in daily existence, making this practice the true path to freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

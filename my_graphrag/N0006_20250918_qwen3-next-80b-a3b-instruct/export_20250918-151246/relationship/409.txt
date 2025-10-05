@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN RIGU</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Daily cultivation requires consistent, diligent effort (jingjin)—without it, moment-to-moment mindfulness cannot be sustained.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

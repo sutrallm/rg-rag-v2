@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>佛法是修行者实践的核心，需将教义落实于生活，通过转化身心体证真理，获得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

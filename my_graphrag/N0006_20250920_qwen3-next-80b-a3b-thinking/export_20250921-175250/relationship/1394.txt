@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REBIRTH CYCLE</source_entity>
+    <target_entity>BONDAGE</target_entity>
+    <relationship_description>The cycle of rebirth inherently contains bondage that practitioners aim to transcend.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

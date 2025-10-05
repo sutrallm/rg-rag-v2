@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MESSAGE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The message requests the original text for translation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

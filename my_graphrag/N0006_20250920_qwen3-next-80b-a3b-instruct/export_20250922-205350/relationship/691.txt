@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE THREE POISONS</source_entity>
+    <target_entity>ENERGETIC EFFORT</target_entity>
+    <relationship_description>Effort is required to confront and overcome the three poisons, which otherwise lead the practitioner into spiritual regression and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

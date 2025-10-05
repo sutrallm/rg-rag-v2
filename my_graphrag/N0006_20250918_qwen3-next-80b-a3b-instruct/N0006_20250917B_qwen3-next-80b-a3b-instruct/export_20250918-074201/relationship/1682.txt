@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>圣者的生命自然散发寂静之光，寂静是其内在状态的外在体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

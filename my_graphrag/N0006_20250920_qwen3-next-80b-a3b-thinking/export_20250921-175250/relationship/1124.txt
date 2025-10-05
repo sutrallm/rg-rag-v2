@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>ANALOGY</target_entity>
+    <relationship_description>Analogies are intrinsic components of the original text structure that require transformation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

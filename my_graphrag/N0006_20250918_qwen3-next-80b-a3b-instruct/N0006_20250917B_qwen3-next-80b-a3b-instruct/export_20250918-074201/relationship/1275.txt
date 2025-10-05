@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHMENT</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>True liberation is achieved only through complete detachment from all experiences and attainments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHE</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Chize (non-attachment) directly uproots Fan Nao; when one does not cling to experiences, afflictions cease to arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

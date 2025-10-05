@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOOLISH PERSON</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Foolish persons take many eons to realize nirvana due to ignorance, as specified in '愚者历经百劫难以证悟涅槃'.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

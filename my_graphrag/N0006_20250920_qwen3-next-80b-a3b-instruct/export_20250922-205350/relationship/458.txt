@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋恚</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者不隨情緒所轉，因已斷除瞋恚，能以平等心面對逆境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

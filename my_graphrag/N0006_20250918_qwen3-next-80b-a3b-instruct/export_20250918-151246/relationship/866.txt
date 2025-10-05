@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUQIU WUDE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the direct expression of "no desire, no attainment"—the complete cessation of craving and clinging, precisely described as the state of "no gaining, no losing."</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

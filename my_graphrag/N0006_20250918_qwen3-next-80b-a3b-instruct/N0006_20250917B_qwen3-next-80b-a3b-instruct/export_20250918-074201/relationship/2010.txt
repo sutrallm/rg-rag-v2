@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHIZHU</target_entity>
+    <relationship_description>Chanding cultivates the mental clarity necessary to realize Chizhu — non-attachment to meditative states or spiritual achievements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

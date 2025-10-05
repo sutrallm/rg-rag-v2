@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>RESPECT</target_entity>
+    <relationship_description>Those who maintain precepts receive universal respect from society.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

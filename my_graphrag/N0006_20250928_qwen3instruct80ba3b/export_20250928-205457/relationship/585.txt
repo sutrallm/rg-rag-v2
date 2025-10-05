@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEIYUZHINENG</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Cibei yu zhineng (compassion and wisdom) must be balanced and supported by chanding to ensure that awareness is not only clear but also loving and stable.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

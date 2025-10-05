@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无我观以五蕴为观察对象，通过观照其因缘和合、无独立自性，破除对“我”的执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

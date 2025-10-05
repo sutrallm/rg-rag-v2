@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>无明即是愚痴的同义表达，指对实相的无知，是三毒的根源。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

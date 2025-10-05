@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ETHICAL_DISCIPLINE</target_entity>
+    <relationship_description>Saints are defined by their perfect observance of ethical discipline, which underpins their profound spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>Realizing the true nature of the Five Aggregates leads to the end of clinging and thus to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

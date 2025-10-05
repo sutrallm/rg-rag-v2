@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ABIDING MIND</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-abiding mind is the experiential realization of complete liberation — freedom from clinging to any condition or state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

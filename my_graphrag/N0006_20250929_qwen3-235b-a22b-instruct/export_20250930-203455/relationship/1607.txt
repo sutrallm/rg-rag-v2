@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>通过觉知身心现象的生灭，可逐步瓦解烦恼的根源。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>慈悲是解脱状态的自然流露，内心清净、无挂碍者自然增长对众生的关怀与善意。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

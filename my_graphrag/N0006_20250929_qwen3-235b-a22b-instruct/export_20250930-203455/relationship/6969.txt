@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>正见是八正道之首，是正确理解真理的基础，引导其他七支正道的实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

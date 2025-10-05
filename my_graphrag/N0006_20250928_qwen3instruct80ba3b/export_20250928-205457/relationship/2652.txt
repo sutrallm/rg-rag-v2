@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Insight arises from deep Chan Ding and, in turn, deepens its quality by revealing the true nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

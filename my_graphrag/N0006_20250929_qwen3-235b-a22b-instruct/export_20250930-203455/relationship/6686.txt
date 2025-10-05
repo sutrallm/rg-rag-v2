@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>神通不是修行成果的检验标准，不应作为追求目标。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

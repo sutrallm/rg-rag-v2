@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>观照是洞察诸法实相的直接方法</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

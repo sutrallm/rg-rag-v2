@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>觉性</target_entity>
+    <relationship_description>正念如灯照亮内心，使本具觉性显现，是智慧与解脱的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

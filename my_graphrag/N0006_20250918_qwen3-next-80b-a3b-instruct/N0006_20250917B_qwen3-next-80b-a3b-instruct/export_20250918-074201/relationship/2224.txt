@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhihui arises from seeing Wuchang clearly; insight into impermanence is the key to transcending attachment and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

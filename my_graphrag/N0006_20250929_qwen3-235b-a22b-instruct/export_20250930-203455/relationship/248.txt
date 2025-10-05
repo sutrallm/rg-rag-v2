@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心寂静</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>内心寂静者不为外境与情绪所扰，自然远离烦恼与忧苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

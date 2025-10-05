@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR MINDFULNESSES</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>The mind is examined as a key object in the four mindfulness practices.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

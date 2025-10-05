@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOIC SAGE</source_entity>
+    <target_entity>VIRTUE</target_entity>
+    <relationship_description>The Saintly Figure embodies perfected virtue, serving as the ideal model of ethical living.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

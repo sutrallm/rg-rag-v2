@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>缘起</target_entity>
+    <relationship_description>中道修行依缘起法而行，不落断常二边，本质是顺应诸法因缘生灭的真相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

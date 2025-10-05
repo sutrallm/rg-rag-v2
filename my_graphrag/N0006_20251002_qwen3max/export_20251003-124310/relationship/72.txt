@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>完美修行者</source_entity>
+    <target_entity>貪、瞋、痴</target_entity>
+    <relationship_description>完美修行者已徹底斷除貪、瞋、痴等根本煩惱，達到內心寂靜與解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

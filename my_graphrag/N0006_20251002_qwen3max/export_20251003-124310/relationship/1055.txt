@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四禪</source_entity>
+    <target_entity>念</target_entity>
+    <relationship_description>念在四禪中作為純粹的心理要素存在，與一境性共同構成此階段的心態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

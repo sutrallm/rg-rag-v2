@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The insight that the five aggregates are impermanent and selfless leads to the release from clinging, which is the realization of nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

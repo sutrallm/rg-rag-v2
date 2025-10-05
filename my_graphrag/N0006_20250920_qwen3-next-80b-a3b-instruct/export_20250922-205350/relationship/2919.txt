@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Saintly qualities are the result of perfected non-attachment, manifesting as freedom from craving, aversion, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

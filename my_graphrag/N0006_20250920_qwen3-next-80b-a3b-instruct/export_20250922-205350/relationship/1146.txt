@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZAIZHIGUANZHANG</target_entity>
+    <relationship_description>Chanding must be accompanied by non-attachment wisdom to avoid clinging to meditative states, which would otherwise become another form of bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

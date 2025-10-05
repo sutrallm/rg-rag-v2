@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHÁNDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding relies on continuous mindfulness to maintain focus on the present moment without distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

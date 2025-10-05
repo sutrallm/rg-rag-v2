@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Chanding, when properly cultivated with wisdom and moral discipline, leads to Niepan by calming the mind and enabling insight into the nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

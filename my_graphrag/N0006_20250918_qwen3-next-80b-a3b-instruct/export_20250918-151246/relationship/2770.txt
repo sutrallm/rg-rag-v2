@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wuzhizhe ensures that one does not cling to the blissful states produced by meditative concentration, allowing true freedom beyond attachment to experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

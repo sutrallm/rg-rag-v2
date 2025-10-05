@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON</source_entity>
+    <target_entity>BOUNDARIES</target_entity>
+    <relationship_description>BOUNDARIES are the domains controlled by the DEATH DEMON that practitioners seek to avoid.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

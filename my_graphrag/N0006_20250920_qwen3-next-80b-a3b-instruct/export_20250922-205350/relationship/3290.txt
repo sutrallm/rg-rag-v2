@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Understanding Yuanqi leads to the cessation of ignorant craving, which is the path to Niepan — liberation from the cycle of conditioned arising.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

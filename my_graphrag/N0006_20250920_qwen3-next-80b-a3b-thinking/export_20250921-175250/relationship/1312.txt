@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENMENT</source_entity>
+    <target_entity>ATTAINMENT</target_entity>
+    <relationship_description>Enlightenment represents the highest spiritual attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

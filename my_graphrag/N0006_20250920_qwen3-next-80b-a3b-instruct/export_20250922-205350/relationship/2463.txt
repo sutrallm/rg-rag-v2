@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>The Buddha’s teachings are centered on awakening insight wisdom — seeing things as they truly are — as the path to freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

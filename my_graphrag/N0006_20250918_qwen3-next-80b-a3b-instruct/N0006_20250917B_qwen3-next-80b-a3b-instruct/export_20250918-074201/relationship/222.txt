@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Through chanding, one gains distance from attachment by observing the mind without clinging to objects or experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

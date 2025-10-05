@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>STANDARD OF HOLY ONES</target_entity>
+    <relationship_description>Those who embody the standard of holy ones are characterized by profound stillness, having eradicated mental afflictions and abiding in peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

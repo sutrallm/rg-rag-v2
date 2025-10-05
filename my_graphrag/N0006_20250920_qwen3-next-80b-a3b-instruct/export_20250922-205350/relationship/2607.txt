@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>魔障</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>魔障是修行者需要以精进去克服的障碍，精进能防止魔障乘虚而入。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

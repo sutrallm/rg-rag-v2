@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEINGS</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Enlightened beings dwell perpetually in inner peace, having transcended all sources of mental disturbance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

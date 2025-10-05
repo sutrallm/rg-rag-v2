@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAN NAO</source_entity>
+    <target_entity>LI JIE</target_entity>
+    <relationship_description>Liberation is attained only after the complete eradication of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

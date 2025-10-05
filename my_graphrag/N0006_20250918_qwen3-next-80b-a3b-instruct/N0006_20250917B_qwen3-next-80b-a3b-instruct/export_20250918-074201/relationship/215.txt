@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>超越执着的智慧需通过禅定修习才能获得，禅定是产生此智慧的条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

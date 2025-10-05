@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUE CHA</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Jue cha is the practical application of Zhengnian in all activities — they are synonymous in function, with Jue Cha emphasizing daily life context.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

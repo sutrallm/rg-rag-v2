@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIXU XIULIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Continuous practice is the expression of diligent effort over time, emphasizing consistency rather than intensity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

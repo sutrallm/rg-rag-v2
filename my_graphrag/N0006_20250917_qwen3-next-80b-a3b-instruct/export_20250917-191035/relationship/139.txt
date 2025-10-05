@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>A saintly being has uprooted delusion through wisdom, no longer misperceiving reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

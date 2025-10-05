@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>颠倒妄想</target_entity>
+    <relationship_description>修行者通过四念处修持断除颠倒妄想，是其心念清净的关键。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

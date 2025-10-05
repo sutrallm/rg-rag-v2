@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>TAN CHEN CHI</target_entity>
+    <relationship_description>Through non-self observation, practitioners directly undermine the roots of greed, hatred, and delusion by seeing the illusory nature of self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

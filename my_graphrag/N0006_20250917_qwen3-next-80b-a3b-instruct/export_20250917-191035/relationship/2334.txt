@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGRZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>A Shengzhe (saintly practitioner) continuously practices Jingjin (diligent effort) to maintain mindfulness and cut through delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

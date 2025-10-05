@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>正念是戒定慧修行的贯穿基础，若失正念则三学无法成立。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

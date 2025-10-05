@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIAOCHA</source_entity>
+    <target_entity>JIHUI</target_entity>
+    <relationship_description>Jiaocha (observing afflictions) develops Jihui (wisdom) by revealing the transient and selfless nature of emotional states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

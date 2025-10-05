@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>REINCARNATION</target_entity>
+    <relationship_description>Through sustained effort, one breaks the karmic chains that bind one to the cycle of reincarnation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

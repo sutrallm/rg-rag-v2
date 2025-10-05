@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHIZHE</target_entity>
+    <relationship_description>Chanding enables deep insight into impermanence, which leads to non-attachment to meditative states themselves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

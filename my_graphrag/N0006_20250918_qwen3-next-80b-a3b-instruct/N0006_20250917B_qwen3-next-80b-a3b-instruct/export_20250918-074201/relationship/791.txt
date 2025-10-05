@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SILENCE</target_entity>
+    <relationship_description>Saints naturally dwell in silence—not just auditory quiet, but the absence of mental proliferation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

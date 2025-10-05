@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Nirvana is synonymous with the eradication of ignorance; their cessation is one and the same.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

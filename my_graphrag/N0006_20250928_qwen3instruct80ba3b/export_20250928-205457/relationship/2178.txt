@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Sages have fully transcended hatred, having uprooted aversion through insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

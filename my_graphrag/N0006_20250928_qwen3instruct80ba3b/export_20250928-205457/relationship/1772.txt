@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jielv (moral discipline) is the essential foundation for stable chanding. Without ethical conduct, the mind remains agitated and meditation cannot take root.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LOTUS</target_entity>
+    <relationship_description>Precepts are compared to a lotus, symbolizing purity growing amid worldly defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

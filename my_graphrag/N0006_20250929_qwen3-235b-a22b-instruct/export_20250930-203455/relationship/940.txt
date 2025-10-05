@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>修行进度</target_entity>
+    <relationship_description>修行者需自我检验修行进度，如是否减少贪嗔痴、增强觉知力、安住当下等。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

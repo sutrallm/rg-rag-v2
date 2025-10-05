@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者是已经获得解脱的人，其特质即为摆脱贪嗔痴与生死束缚，因此是解脱的体现者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

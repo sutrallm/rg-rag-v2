@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>正念的实践依赖于觉知当下身心现象的能力，觉知是正念的核心内容。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

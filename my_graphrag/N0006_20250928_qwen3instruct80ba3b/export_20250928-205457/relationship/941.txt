@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANGGUAN</source_entity>
+    <target_entity>WUGUAN</target_entity>
+    <relationship_description>Wuchangguan (impermanence) is a stepping stone to Wuguan (non-self); recognizing impermanence leads to seeing that there is no enduring “self” behind phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

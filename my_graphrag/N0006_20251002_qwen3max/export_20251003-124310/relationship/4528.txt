@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>戒律是戒定慧三学中的“戒”，为三学圆满的基础组成部分。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

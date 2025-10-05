@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE_ZHUZHE</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Transcending attachment is essential for achieving liberation, as clinging is the cause of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

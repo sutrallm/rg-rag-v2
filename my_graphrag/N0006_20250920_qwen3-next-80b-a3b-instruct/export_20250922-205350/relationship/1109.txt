@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Shengzhe are those who have realized Niepan — they have transcended all suffering and delight in the freedom of cessation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>禅定的修习旨在克服心的散乱状态，使心趋于专注与安定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

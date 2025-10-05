@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者的核心特质是彻底断除三毒，三毒的止息是成为圣者的必要条件，二者为因果与特征关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGJIE SHIXIANG</source_entity>
+    <target_entity>JIEXIE</target_entity>
+    <relationship_description>Zhongjie shixiang is the ultimate description of jiexie — the state of a mind beyond all dualities and conceptual grasping, representing the pinnacle of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

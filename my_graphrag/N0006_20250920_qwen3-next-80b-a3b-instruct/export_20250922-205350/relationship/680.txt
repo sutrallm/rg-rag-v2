@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Through Chanding, practitioners develop Wuzhu (non-attachment) by seeing mental states as transient, reducing attachment to outcomes and experiences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

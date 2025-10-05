@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Wisdom and meditation are mutually dependent: meditation calms the mind to enable clear insight, while wisdom ensures meditation is not misdirected into delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

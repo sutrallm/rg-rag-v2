@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒、定、慧三学</source_entity>
+    <target_entity>戒</target_entity>
+    <relationship_description>戒是戒定慧三学的基础，无戒则心散乱，无法生起禅定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

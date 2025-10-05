@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CAUSALITY</target_entity>
+    <relationship_description>WISDOM discerns the cause and effect relationships governing existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

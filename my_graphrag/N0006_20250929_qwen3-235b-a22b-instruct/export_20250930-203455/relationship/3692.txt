@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心</target_entity>
+    <relationship_description>修行者以心为修行对象，通过正念、觉察、禅定等方法使其远离纷扰、澄净无碍。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

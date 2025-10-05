@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>离执</target_entity>
+    <relationship_description>了知无我使修行者不再将任何境界视为“我”或“我所”，从而彻底断除贪爱与执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

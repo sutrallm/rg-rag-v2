@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>四念处被明确称为“通向解脱的直路”，是系统性修行以达成解脱的实践纲领。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

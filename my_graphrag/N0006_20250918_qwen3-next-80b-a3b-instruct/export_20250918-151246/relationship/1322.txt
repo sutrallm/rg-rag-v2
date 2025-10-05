@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Awakening is achieved through the sustained practice of mindfulness in daily activities, as emphasized in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

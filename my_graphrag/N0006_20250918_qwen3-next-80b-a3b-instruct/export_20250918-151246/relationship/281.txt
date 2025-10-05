@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPRITUAL PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Spiritual practice includes chanding as a core technique for training the mind toward liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

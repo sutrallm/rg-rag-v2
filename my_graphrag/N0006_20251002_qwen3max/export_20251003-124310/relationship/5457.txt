@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>次第修行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是次第修行的最终阶段，需以戒和定为基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

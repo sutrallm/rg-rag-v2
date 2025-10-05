@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SI SHENG DI</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Si Sheng Di is the doctrinal framework explaining the cause and path to Jietuo — liberation is achieved by comprehending and enacting the Four Noble Truths.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

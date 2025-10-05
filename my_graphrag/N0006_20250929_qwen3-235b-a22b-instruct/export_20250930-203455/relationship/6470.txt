@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定能澄净内心，削弱烦恼的影响力，是断除烦恼的重要工具。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

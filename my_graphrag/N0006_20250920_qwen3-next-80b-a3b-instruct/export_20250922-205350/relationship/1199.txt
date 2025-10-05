@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTENTIVENESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Attentiveness is the immediate and complete path to Nirvana—when fully matured, it dissolves ignorance, and the innate luminous mind shines forth without needing to be gained externally.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

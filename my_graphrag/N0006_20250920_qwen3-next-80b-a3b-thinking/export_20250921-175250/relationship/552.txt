@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>ANANDA</target_entity>
+    <relationship_description>Buddha directly addressed Ananda in the example text, using metaphors to explain the relationship between thoughts and desires.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

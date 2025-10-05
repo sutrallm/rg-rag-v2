@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>超越执着的智慧正是通过无我观的实践而实现的，二者是同一修行过程的成果与方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

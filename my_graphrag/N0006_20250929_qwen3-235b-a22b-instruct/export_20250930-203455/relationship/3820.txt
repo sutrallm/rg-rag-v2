@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧观照</source_entity>
+    <target_entity>无住无执</target_entity>
+    <relationship_description>智慧观照最终导向无住无执的解脱境界，是其实践的圆满结果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

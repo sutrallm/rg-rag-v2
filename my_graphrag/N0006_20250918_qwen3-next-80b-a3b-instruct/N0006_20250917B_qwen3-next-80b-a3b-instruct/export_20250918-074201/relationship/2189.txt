@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGSI LUNHUI</target_entity>
+    <relationship_description>Only through persistent jingjin can one break free from the cycle of shengsi lunhui and attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

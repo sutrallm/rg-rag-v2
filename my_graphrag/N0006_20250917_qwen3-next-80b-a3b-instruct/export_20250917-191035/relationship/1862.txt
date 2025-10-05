@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN</source_entity>
+    <target_entity>JIEMING</target_entity>
+    <relationship_description>Xiulian (spiritual practice) begins with Jieming; it is the foundational step in the progressive path described.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

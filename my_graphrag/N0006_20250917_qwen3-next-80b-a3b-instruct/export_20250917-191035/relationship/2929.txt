@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>MIDDLE WAY</target_entity>
+    <relationship_description>Saintly practitioners embody the Middle Way by avoiding both attachment to pleasure and extremes of self-mortification, relying instead on balanced mindfulness and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

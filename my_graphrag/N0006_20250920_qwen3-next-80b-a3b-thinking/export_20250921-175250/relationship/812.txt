@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMS</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Attachment arises from forms and should be avoided, as stated in '面对色相时不生贪着'.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZAOZUO</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Wuzaozuo is the highest expression of the Shengzhe’s state — they no longer seek, strive, or cling, embodying effortless liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

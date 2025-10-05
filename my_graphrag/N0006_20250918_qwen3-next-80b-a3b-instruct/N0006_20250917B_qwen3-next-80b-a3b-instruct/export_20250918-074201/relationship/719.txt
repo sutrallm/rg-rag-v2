@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>無所得</target_entity>
+    <relationship_description>無我是無所得的體現，因無我則無「得者」，故無所執著於成就，正是真修之要。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

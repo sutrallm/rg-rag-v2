@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT_WISDOM</source_entity>
+    <target_entity>FINAL_ACHIEVEMENT</target_entity>
+    <relationship_description>Insight wisdom is the direct path to final spiritual achievement, enabling transcendence of birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

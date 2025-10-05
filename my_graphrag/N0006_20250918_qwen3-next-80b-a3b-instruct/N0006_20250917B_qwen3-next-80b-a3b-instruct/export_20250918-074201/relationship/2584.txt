@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Saintly qualities, such as freedom from greed and delusion, are the natural manifestations of someone who has attained Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

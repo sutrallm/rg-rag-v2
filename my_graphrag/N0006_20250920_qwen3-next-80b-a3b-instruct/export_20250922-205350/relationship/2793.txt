@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>八正道是实现解脱的唯一完整路径，缺一不可，涵盖见、行、定、慧的全面修习。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

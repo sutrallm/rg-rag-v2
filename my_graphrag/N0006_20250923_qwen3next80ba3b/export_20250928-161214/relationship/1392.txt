@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SWORD FORGING</source_entity>
+    <target_entity>COLD WATER</target_entity>
+    <relationship_description>COLD WATER is used in SWORD FORGING to temper the blade, stabilizing it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

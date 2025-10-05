@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOIC_SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The sage has achieved liberation by eliminating greed, hatred, and delusion, embodying its fruit fully.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

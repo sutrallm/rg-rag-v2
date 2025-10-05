@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ENTHUSIASM_IN_PRACTICE</target_entity>
+    <relationship_description>Enthusiasm in practice is necessary to enter and sustain chanding, as laxity leads to stagnation in samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

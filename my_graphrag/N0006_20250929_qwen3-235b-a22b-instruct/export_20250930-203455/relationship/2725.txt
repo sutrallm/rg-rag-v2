@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>慈悲心建立在无我观基础上，因无“我”故能平等对待众生，无条件关怀。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

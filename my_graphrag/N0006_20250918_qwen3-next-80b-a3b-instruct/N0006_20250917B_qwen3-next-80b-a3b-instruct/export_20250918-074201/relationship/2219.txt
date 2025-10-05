@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>夢幻泡影</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>「夢幻泡影」是超越執著智慧的比喻性表達，用以說明萬法空性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Wuwo guanzhao is the primary method for developing hui (wisdom), as it enables direct insight into the non-self nature of reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

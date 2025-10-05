@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGXIA</source_entity>
+    <target_entity>JIEXIE</target_entity>
+    <relationship_description>Fangxia (letting go) is the practical expression of jiexie; liberation is experienced through the act of releasing all forms of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

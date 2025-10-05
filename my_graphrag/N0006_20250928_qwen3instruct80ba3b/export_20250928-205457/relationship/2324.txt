@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无所得</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无所得是解脱的实质体现，真正的解脱即是在心上无一法可得、无一念可执。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

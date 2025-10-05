@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-CLINGING</source_entity>
+    <target_entity>SAMSAra</target_entity>
+    <relationship_description>Attachment to self and possessions is the fundamental cause of rebirth and continued suffering in samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

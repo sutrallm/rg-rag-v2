@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOZHI</source_entity>
+    <target_entity>SAMSA RA</target_entity>
+    <relationship_description>Wozhi is the root cause of samsara—the mistaken belief in a permanent self perpetuates craving and aversion, trapping beings in the cycle of rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

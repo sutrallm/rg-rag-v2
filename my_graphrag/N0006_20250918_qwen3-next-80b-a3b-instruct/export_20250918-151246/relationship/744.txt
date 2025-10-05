@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>FEAR</target_entity>
+    <relationship_description>Ignorance causes fear through misunderstanding the nature of self and phenomena, leading to aversion and resistance to change.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

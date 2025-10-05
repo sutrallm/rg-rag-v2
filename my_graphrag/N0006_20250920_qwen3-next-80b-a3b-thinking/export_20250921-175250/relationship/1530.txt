@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BOW</source_entity>
+    <target_entity>ARROW</target_entity>
+    <relationship_description>The bow propels the arrow toward its target, demonstrating their interdependent function in archery.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

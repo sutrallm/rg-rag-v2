@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是禅定的根本要素之一，禅定需在持续正念的基础上才能成就。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

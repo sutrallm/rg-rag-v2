@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正道</source_entity>
+    <target_entity>修行的终极目标</target_entity>
+    <relationship_description>正道以断除烦恼、证得涅槃为目标，偏离此方向即非正道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

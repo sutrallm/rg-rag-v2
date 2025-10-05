@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>心若被贪嗔痴三毒所染，便陷入痛苦与轮回；净化心可断除三毒。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

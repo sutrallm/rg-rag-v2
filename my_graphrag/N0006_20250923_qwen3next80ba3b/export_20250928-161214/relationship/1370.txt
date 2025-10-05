@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HEEDFULNESS</target_entity>
+    <relationship_description>Practitioners cultivate heedfulness to overcome sloth, master meditation, and avoid being controlled by the Death King, as stated in "唯有不放逸，才能真正掌握禅定之法".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

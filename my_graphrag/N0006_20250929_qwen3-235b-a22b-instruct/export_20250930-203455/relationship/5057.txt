@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>觉知是正念在日常行住坐卧中的具体体现，使心如明镜映照而不黏着，远离贪嗔痴三毒。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

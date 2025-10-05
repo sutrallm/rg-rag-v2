@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>四念处修习中需如实观察身受心法的苦本质，苦是四念处观照的核心对象之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion is eradicated in saints through profound insight into reality, which is the hallmark of saintly wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

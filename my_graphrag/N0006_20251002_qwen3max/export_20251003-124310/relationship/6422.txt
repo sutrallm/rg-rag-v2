@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>智慧包含对无我本质的如实观照，了知无我能有效断除执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>观照无常可破除对自我与外境的执着，因为了知一切皆刹那生灭，无有可执之实体。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

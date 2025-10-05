@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Liberation is attained when delusion—particularly the illusion of self—is completely uprooted.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

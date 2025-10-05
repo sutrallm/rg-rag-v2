@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Chanding leads to tranquility by stabilizing the mind and removing disturbances such as craving, anger, and sloth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

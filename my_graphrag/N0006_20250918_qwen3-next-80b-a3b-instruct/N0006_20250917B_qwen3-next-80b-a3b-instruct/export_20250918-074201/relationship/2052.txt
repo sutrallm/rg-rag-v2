@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWEI</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Xiuwei (true practice) is defined as living with Zhengnian (mindfulness) in every moment—making mindfulness the essence of all activity, not just formal sitting.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

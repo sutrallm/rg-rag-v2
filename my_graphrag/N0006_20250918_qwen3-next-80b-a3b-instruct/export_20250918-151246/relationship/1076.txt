@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>SANGHUI</target_entity>
+    <relationship_description>Through Neiguan (mindfulness), one gains insight that breaks the cycle of Sanghui (samsara), as wrong perceptions and attachments are dissolved.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

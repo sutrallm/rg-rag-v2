@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Ignorance leads to aversion, as one misperceives unpleasant experiences as inherently threatening and seeks to reject them.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

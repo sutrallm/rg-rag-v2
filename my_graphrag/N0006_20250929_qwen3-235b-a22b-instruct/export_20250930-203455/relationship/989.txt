@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>智慧通过无我观的实践得以深化，无我观帮助修行者如实照见五蕴无常无我，从而断除我执，增长智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

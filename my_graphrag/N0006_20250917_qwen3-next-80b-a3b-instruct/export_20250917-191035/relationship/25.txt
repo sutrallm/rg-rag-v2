@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸行无常</source_entity>
+    <target_entity>诸法无我</target_entity>
+    <relationship_description>诸行无常是现象层面的实相，诸法无我是其深层本质，二者共同构成对“我”与“常”的破除。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

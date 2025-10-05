@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>SAINTLY_QUALITIES</target_entity>
+    <relationship_description>One who embodies non-attachment naturally manifests saintly qualities such as equanimity and freedom from desire.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

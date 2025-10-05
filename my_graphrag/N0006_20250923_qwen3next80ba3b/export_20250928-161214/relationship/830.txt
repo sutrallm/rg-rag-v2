@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGES OF CULTIVATION</source_entity>
+    <target_entity>CLEAR MIND AND SEE NATURE</target_entity>
+    <relationship_description>CLEAR MIND AND SEE NATURE is the foundational stage within the overall Stages of Cultivation process.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

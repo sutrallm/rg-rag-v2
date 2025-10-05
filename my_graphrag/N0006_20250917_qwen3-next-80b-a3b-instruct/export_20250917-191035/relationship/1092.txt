@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Concentration provides the stable mental platform from which insight and wisdom can emerge; without it, wisdom does not develop.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

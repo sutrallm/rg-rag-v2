@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST PRACTICE</source_entity>
+    <target_entity>EFFORTFUL PRACTICE</target_entity>
+    <relationship_description>Effortful practice is an indispensable element of the broader path of Buddhist practice, required to maintain progress and avoid regression.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知无常</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>觉知无常使人不再执着，从而断除烦恼的根源。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

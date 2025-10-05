@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>體悟萬法無常是超越執著的智慧的基礎，唯有看清變化本質，才不會執著任何現象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

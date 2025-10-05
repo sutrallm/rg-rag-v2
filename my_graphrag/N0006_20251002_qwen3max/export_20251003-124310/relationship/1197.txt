@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定令智慧明澈，是智慧生起的樞紐條件；此處「智慧」內蘊於「戒定慧三學」與「涅槃」等實體中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

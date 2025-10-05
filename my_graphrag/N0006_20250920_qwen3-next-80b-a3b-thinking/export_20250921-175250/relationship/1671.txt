@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True wisdom is the key factor enabling liberation, as "自然通达解脱" relies on genuine insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

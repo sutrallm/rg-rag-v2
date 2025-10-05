@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>LIANGUO</target_entity>
+    <relationship_description>Deep insight into non-self enables one to break free from the cycle of samsara, as attachment and ignorance—its driving forces—are uprooted.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

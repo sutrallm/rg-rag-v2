@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世間八風</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者已超越世間八風的影響，其心境不為順逆境界所動，這正是其成就的體現。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

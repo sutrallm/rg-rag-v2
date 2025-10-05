@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Practitioners cultivate wisdom as a key component of their spiritual development and liberation journey.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

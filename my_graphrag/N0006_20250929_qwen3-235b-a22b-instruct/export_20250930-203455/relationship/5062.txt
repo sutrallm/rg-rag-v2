@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自然显现</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱是内在智慧与定力成熟后自然显现的结果，非外求所得。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

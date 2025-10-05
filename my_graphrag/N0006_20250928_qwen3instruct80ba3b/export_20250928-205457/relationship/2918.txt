@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FINISHED_NIRVANA</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Final liberation (Nirvana) arises from the complete realization of Non-Self; without dissolving the illusion of “I,” liberation cannot be attained.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>寂静是禅定的自然结果与外在表现，禅定实践导向并维持内心寂静的状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

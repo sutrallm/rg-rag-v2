@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INCORPORATED PRACTICE</source_entity>
+    <target_entity>SIKSA</target_entity>
+    <relationship_description>Diligent practice includes cultivating moral discipline; ethical conduct is inseparable from sustained effort toward liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

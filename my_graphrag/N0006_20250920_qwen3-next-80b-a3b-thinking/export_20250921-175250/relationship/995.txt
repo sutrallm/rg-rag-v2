@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>RIGHT PATH</target_entity>
+    <relationship_description>PRACTITIONER follows the right path as part of spiritual discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

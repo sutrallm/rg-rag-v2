@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Virtue creates the ethical foundation necessary for the mind to become stable and tranquil without guilt or remorse.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

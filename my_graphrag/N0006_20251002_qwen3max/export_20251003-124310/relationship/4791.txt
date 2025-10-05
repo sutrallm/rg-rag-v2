@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>一心</source_entity>
+    <target_entity>二禅</target_entity>
+    <relationship_description>一心存在于二禅，是二禅三支之一，表示心的专注安住。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

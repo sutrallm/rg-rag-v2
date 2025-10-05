@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>觉悟者以如实观照五蕴的生灭本质为解脱之道，五蕴是其观照的核心对象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

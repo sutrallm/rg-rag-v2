@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ST. HOLY_QUALITIES</target_entity>
+    <relationship_description>Those who attain liberation embody saintly qualities; liberation is the realization of these qualities in full.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

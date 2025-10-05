@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO WUZHIG</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wuwo wuzhi (no-self and non-attachment) is the very essence of niepan — when the concept of self dissolves, suffering ends, and nirvana is attained.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

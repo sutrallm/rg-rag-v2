@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEWUZHE</source_entity>
+    <target_entity>SIKONG</target_entity>
+    <relationship_description>Juewuze has fully realized Sikong (the ultimate goal) — total non-identification with the self and possessions, resulting in unconditioned freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

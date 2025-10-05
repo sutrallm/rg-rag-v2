@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE NEIZAI PINZHI</source_entity>
+    <target_entity>JUECHA</target_entity>
+    <relationship_description>A holy being's inner qualities arise from sustained mindful awareness, which supports moral discipline and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

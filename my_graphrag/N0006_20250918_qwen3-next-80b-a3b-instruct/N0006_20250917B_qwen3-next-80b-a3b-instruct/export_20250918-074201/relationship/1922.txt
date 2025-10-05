@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>因缘和合是无我的理论基础，一切现象无独立自性，正因缘起才证明“我”为假名。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

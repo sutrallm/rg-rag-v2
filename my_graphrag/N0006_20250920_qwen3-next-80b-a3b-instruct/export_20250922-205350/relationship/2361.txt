@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wuzhu (non-attachment), especially non-attachment to liberation itself, is the defining characteristic of realizing nirvana — the unconditioned state beyond all grasping.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

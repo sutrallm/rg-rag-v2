@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETINGHUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jietinghui are the path to Niepan: morality purifies, concentration calms, and wisdom liberates — together leading to the cessation of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

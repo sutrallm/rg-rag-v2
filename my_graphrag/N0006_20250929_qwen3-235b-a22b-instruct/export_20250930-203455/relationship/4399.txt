@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪爱与无明</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>无常观通过观察一切法刹那生灭，能有效对治贪爱与无明，减少执着，从而削弱其作为烦恼根源的力量。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

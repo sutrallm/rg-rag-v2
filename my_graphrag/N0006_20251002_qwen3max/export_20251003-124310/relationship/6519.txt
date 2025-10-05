@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>精进必须依照正法进行，正法为精进提供正确的方向和内容，避免修行偏离。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

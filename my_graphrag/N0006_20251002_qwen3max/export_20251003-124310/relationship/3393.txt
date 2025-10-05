@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>掉举</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>忆念无常是对治掉举的有效方法之一，有助于收摄心念。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHICHI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>True liberation is achieved through zhichi — the wisdom that sees through the illusory nature of all phenomena and ends clinging, even to spiritual attainments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

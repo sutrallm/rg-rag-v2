@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY WISDOM</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Middle way wisdom is the path to achieving spiritual awakening.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

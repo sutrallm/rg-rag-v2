@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENOUGH_MORAL_DISCIPLINE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral discipline provides the foundational purity necessary for successful chanding practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

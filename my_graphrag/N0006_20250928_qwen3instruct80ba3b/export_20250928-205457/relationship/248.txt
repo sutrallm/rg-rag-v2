@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_FOLDED_PATH</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion is the dynamic energy that propels the practice of all three elements of the path — without it, ethics, concentration, and wisdom cannot mature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

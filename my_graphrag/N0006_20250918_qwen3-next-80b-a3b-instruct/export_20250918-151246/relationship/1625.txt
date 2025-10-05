@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>忧悲苦恼</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Yeoubi kusao is the suffering from which liberation frees one; true freedom is measured by the absence of these emotional afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

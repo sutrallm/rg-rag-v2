@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无相修行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无相修行不执着境界，心无所住，是通向究竟解脱的核心方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

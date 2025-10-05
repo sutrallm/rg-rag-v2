@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Daily mindful awareness is the practical application and extension of Chan Ding into ordinary life, making meditation continuous rather than confined to sitting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

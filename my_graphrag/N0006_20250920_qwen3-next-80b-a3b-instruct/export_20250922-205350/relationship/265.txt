@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Non-self is realized through the direct observation of impermanence—the understanding that all phenomena arise and pass away, leaving no stable self to cling to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

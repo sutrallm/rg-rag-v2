@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCLUDING_VERSE</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>CONCLUDING_VERSE must be deleted from the original text as per instructions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

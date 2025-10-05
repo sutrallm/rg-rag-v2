@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA</source_entity>
+    <target_entity>WORLDLY PHENOMENA</target_entity>
+    <relationship_description>Dharma provides the wisdom to transcend worldly phenomena by recognizing their transient nature.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

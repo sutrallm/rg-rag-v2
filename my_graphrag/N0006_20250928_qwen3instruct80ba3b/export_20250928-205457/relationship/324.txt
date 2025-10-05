@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起智慧</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>缘起智慧能彻底根除无明，因无明正是源于错认现象为实有、有“我”与“我所”。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

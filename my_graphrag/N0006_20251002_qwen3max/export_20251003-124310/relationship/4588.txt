@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的清净</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>心的清净源于贪欲、瞋恚、愚痴等烦恼的逐渐止息。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

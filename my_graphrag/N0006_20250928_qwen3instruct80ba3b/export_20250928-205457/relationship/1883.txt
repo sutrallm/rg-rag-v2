@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINYI YU ZHIHUI</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Wisdom in Xinyi yu zhihui directly cultivates Wuzhi, while faith ensures commitment to the path of non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Effortful practice is the active means of resisting and overcoming afflictions before they overwhelm the practitioner.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

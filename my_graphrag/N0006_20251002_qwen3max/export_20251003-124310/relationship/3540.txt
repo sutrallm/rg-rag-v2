@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者以持戒與遠離為基礎，調伏五蓋後進入禪定狀態，作為內觀與解脫的根基。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

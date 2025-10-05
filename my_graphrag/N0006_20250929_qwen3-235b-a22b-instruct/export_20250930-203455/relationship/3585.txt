@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>禅定通过使心念专注且保持正念，达到远离纷扰、内心安宁的状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

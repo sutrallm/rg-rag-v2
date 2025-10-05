@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>THE FOUR FOUNDATIONS OF MINDFULNESS cultivates WISDOM through systematic observation of impermanence, suffering, and non-self, leading to profound insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

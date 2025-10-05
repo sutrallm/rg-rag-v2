@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ELEPHANT</source_entity>
+    <target_entity>DEEP FOREST</target_entity>
+    <relationship_description>The ELEPHANT is depicted walking calmly in the DEEP FOREST as part of the meditation metaphor.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

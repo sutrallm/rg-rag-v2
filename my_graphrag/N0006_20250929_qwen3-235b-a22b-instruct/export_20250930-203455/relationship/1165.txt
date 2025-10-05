@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>四禅</target_entity>
+    <relationship_description>四禅是通往解脱的重要修行阶段，最终证得心解脱与慧解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

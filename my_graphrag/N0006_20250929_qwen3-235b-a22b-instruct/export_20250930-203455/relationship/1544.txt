@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>日常生活</target_entity>
+    <relationship_description>无常观应用于日常生活中，观一切现象刹那生灭，不执常断，于顺逆境中保持平常心，减少焦虑。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

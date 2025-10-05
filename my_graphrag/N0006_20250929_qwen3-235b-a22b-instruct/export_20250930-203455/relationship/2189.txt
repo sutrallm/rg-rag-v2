@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>解脱体现四圣谛的“灭”与“道”，彻底断除烦恼，超越生死。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

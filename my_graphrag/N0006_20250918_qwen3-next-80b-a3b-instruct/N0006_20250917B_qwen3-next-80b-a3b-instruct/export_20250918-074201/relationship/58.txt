@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENXIN</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>The observation of body-mind phenomena (the five aggregates) is the direct method through which non-self insight is cultivated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

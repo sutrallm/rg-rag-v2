@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>困扰</target_entity>
+    <relationship_description>智慧能直接消除困扰，帮助修行者摆脱无明带来的烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

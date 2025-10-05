@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>The SAGE has completely transcended the THREE POISONS through wisdom and practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

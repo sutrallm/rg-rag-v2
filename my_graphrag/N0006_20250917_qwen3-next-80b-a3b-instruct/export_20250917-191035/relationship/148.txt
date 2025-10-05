@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHI ZHI</source_entity>
+    <target_entity>SHENGSI SHUBU</target_entity>
+    <relationship_description>Realizing non-self leads to liberation from the cycle of birth and death, as attachment to the "self" is what fuels samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSES</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion includes the conscious restraint of the senses to avoid being overwhelmed by external stimuli and to preserve inner tranquility.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

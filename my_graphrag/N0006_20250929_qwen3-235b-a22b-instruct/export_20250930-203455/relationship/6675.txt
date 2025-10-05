@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住而生心</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>无住而生心要求即使在禅定中体验到空性，也不贪恋或执着。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

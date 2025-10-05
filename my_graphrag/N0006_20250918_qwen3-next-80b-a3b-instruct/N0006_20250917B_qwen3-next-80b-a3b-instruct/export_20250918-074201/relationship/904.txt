@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>REINCARNATION</target_entity>
+    <relationship_description>Liberation is the release from the cycle of reincarnation; the two are diametrically opposed states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

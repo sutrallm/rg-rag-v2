@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如法修行者</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>如法修行者依循戒定慧三学进行实践，以戒为师、以慧为导，勤修止观。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

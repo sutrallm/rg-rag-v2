@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力法则</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>业力法则要求修行者以正念守护身口意，避免造作恶业，是正念实践的理论基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

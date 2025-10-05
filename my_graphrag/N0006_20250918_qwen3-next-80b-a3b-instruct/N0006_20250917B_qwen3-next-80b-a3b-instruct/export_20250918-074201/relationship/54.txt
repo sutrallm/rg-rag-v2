@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>Impermanence is the key insight that supports the realization of non-self — if all things change, nothing can be a permanent “self.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

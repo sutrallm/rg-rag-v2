@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>隨順因緣</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>隨順因緣是精進修行的態度與方法，不強求不抗拒，使修行融入生活，持續而不苦惱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

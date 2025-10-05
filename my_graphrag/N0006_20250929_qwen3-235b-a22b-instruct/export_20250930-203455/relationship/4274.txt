@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清泉甘露</source_entity>
+    <target_entity>离欲</target_entity>
+    <relationship_description>清泉甘露比喻离欲之乐，清净恒久，是离欲修行的成果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

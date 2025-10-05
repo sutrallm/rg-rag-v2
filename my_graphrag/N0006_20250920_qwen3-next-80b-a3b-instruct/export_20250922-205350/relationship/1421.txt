@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念觉知</target_entity>
+    <relationship_description>正念觉知是实现和维持禅定的核心方法，二者相辅相成，共同构成定慧修习的实践基础。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

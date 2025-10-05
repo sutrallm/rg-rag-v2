@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHUOZHUO</target_entity>
+    <relationship_description>Chanding enables the practitioner to observe phenomena deeply enough to develop non-attachment, which is the essence of transcending clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

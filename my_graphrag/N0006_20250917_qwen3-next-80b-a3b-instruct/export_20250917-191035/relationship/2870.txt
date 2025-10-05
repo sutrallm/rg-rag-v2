@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>FOJIAO</target_entity>
+    <relationship_description>Ultimate wisdom is the pinnacle goal within Buddhist teachings, representing the culmination of the path laid out by the Buddha.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

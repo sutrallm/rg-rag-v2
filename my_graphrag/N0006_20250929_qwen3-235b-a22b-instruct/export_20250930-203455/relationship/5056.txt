@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者具足戒律与智慧，戒律是其勤修心念、安住寂静、断尽烦恼的基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

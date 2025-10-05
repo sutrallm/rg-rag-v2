@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA_OBSERVATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True anatta observation leads directly to liberation by dissolving the illusion of self and ending all forms of clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

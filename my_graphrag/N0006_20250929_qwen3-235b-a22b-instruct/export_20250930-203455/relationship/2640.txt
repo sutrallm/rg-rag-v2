@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>心解脱是通过智慧洞察无常、不执着境界而获得的内心自由状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

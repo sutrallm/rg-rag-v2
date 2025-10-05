@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Effortful daily practice is required to overcome laziness and ignorance, making it possible to enter and sustain chanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

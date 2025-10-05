@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous mindfulness (正念) supports and deepens meditative absorption (Chanding); awareness in daily activity extends meditative clarity into all aspects of life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

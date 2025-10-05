@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINXIN</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>True faith, grounded in direct experience, is the seed that grows into wisdom and ultimately leads to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

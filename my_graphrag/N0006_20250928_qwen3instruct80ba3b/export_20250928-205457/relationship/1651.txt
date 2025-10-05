@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Delusion (ignorance of reality) fuels desire; believing in a permanent self leads to attachment to fleeting experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

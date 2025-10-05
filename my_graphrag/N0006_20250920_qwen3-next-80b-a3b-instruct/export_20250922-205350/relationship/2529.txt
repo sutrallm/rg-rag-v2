@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHÍHUÌ</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>True chíhuì results in wuqiu (non-seeking), as one no longer clings to spiritual achievements or goals, having realized their emptiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

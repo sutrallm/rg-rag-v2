@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>圣者已断尽贪嗔痴，此三毒是圣者超越的对象，标志着其解脱成就。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

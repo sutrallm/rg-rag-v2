@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Zhishi (wisdom) is cultivated through zhengnian (mindfulness); one observes the true nature of experience to generate insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

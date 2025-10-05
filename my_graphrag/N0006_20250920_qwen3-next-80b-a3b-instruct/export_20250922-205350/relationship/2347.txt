@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The realization of no-self is the core insight of wisdom, enabling liberation from ego-based clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROPRIETY</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Ethical conduct creates the conditions necessary for the mind to settle into stable meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

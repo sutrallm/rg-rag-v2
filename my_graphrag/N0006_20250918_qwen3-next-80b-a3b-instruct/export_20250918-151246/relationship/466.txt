@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EFFORTFUL_PRACTICE</target_entity>
+    <relationship_description>Chanding can only be deepened and maintained through sustained effort; without diligence, one falls back into distraction and dullness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

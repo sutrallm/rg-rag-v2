@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧的生起依赖于如实观照无常，无常是智慧认识世界的核心对象之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

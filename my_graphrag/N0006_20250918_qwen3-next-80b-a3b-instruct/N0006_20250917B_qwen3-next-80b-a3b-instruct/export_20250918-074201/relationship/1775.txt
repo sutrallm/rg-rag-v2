@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONAL_ORIGIN</source_entity>
+    <target_entity>WISENESS</target_entity>
+    <relationship_description>Wisdom arises from understanding conditional origin — seeing the impermanent, interdependent nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

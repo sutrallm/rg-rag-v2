@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING OF FEELINGS</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Understanding feelings as suffering reduces aversion-based HATRED</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

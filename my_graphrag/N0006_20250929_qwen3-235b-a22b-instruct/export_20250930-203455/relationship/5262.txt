@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧等持</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>定慧等持包含禅定，强调禅定必须与智慧结合，方能避免堕入空寂或动摇。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

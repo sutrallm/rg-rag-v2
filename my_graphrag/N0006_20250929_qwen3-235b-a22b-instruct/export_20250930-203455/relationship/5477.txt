@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>智慧与慈悲必须结合，智慧引导慈悲，慈悲体现智慧，二者圆融方为圆满修行。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

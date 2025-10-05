@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>观察五蕴无自性可破除我执，二者构成无我观的核心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

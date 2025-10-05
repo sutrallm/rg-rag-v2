@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BEE</source_entity>
+    <target_entity>FLOWER</target_entity>
+    <relationship_description>Bee collects nectar from flowers without causing damage, illustrating wise and compassionate action.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

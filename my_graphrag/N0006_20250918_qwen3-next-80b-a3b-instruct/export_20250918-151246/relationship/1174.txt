@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TRANSCENDENTWisdom</target_entity>
+    <relationship_description>Chanding prepares the mind for transcendent wisdom; deep concentration enables clear insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

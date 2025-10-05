@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZI YOU</source_entity>
+    <target_entity>SHENG JIE</target_entity>
+    <relationship_description>Zi you is the experiential result of Sheng jie — liberation is manifest as inner freedom from all attachments and conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZIXINGBENJING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the practice that helps reveal Zixingbenjing by calming mental disturbances and allowing innate clarity to emerge.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

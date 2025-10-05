@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是戒定慧三学中的“定”，是连接戒与慧的桥梁，不可或缺。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

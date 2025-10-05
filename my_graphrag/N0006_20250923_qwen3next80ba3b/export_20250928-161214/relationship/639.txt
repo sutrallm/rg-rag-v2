@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>RESPECT</target_entity>
+    <relationship_description>Wisdom earned through practice garners respect from all sentient beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

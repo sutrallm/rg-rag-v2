@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO</source_entity>
+    <target_entity>WUWO YU WUCHANG</target_entity>
+    <relationship_description>Transcending attachment arises directly from the realization of non-self and impermanence; understanding these truths enables non-clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

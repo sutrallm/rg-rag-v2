@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>追求</source_entity>
+    <target_entity>修行成果</target_entity>
+    <relationship_description>对修行成果的追求也被心解脱者所超越。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

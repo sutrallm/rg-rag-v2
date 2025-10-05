@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>TROUBLES</target_entity>
+    <relationship_description>Desire is a source of mental troubles.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLARITY</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Clarity is the operational form of insight wisdom; it is the direct, non-conceptual awareness of reality that leads to transformation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

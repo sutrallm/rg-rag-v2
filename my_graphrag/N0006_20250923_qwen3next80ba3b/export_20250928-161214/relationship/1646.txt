@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>STATE</target_entity>
+    <relationship_description>ATTACHMENT to STATE perpetuates suffering by fixing the mind on transient meditative conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

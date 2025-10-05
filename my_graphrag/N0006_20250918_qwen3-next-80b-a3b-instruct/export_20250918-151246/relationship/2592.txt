@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>修行者依靠精进克服懈怠，以持续修习正道，避免沉溺轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

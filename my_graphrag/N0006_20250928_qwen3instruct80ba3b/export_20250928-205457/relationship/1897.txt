@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUZHIZHE</target_entity>
+    <relationship_description>Wuwo is the analytical insight that underlies Wu.zhizhe — non-attachment arises from realizing that nothing — not even meditation — is a self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

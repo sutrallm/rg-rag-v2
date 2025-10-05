@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST_PRACTICE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Buddhist practice aims at cultivating wisdom as its ultimate goal, integrating ethical conduct, meditation, and insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

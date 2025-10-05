@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>SENSE PLEASURE</target_entity>
+    <relationship_description>Greed is driven by attachment to sense pleasure, perpetuating suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSAFA</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The shengzhe has transcended samsara entirely by eradicating the causes of rebirth — greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

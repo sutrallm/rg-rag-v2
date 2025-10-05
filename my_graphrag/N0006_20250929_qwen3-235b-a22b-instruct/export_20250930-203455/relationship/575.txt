@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力法则</source_entity>
+    <target_entity>错觉</target_entity>
+    <relationship_description>业力法则破除对“常、乐、我、净”的错觉，因行为与果报无常变化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

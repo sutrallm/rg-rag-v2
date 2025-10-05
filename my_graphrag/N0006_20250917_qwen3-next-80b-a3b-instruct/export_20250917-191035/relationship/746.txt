@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU_MING</source_entity>
+    <target_entity>FANG_YI</target_entity>
+    <relationship_description>Ignorance gives rise to indulgence and sloth, which together prevent spiritual progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

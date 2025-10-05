@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Deep mindfulness is practiced by anchoring attention in the present moment, which is the foundation for all authentic spiritual work.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

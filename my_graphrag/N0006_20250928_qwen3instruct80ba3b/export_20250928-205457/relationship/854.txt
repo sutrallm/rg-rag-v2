@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>圣者已彻底破除无明，不再误认身心为“我”，因而能安住于无我之中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

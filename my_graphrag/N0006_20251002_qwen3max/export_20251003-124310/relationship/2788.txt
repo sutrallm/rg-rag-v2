@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>真正的解脫要求超越一切執著，包括對禪定與果證的貪著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

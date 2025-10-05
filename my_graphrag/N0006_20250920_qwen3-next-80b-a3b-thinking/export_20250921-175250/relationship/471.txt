@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY</source_entity>
+    <target_entity>KARMA OBSTACLES</target_entity>
+    <relationship_description>The body is the place where karmic obstacles accumulate.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

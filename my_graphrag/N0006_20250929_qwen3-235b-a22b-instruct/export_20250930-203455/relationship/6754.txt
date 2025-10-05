@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>诸天</target_entity>
+    <relationship_description>圣者因具足清净戒律与深彻智慧，即使诸天亦会对其生起敬重之心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

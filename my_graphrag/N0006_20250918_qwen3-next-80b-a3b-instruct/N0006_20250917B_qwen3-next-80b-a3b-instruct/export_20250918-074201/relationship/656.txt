@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHI XU XIU XING</source_entity>
+    <target_entity>CHAO YUE ZHU ZHAI</target_entity>
+    <relationship_description>Continuous practice enables the gradual cultivation of insight into impermanence, suffering, and non-self, leading to transcendent wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

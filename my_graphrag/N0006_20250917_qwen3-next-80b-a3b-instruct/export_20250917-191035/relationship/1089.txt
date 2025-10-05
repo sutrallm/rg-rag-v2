@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Non-self contemplation is the method through which wisdom (hui) is developed, directly leading to insight into the nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

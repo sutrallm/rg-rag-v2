@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>智慧的作用是彻底断除执着，通过观照诸法实相而不再贪恋任何境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

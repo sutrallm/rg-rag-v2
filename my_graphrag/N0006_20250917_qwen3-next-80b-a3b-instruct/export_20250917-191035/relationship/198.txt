@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUA</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Realizing non-self is essential for liberation; the sense of a separate, enduring self is the core delusion obstructing freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

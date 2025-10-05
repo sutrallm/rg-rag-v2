@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary for wisdom to arise. A calm, focused mind can deeply observe the true nature of phenomena and develop non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

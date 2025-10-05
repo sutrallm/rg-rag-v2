@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ENDEAVOR</target_entity>
+    <relationship_description>Sustained endeavor is required to achieve and maintain deep chanding, as it demands consistent effort against the tendency toward laziness and distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

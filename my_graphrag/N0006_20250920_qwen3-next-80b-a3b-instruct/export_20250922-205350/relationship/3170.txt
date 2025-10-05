@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>六根是接觸外境的通道，若未守護，即易生起貪欲與執著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

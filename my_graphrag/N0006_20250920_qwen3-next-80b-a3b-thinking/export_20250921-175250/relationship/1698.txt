@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Wisdom is a fundamental attribute of saints, developed through spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

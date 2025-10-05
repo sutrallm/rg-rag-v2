@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE THREE POISONS</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Septic beings have completely eradicated greed, anger, and delusion — the three root causes of suffering — which defines their liberated state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

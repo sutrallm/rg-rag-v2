@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_CONDUCT</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Clear moral discipline forms the foundation for the development of wisdom and is necessary to overcome the roots of suffering and attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

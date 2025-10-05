@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>身心变化</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念要求修行者如理观察身心变化，不随妄念流转。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轮回</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>贪欲是驱动众生陷入轮回的主要力量之一，是轮回的根源性烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

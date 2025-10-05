@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHU ZHI</source_entity>
+    <target_entity>WU WO GUAN ZHAO</target_entity>
+    <relationship_description>Chao Yue Zhu Zhi (transcending attachment) is the result of practicing Wu Wo Guan Zhao (non-self contemplation), which reveals the true nature of impermanence and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

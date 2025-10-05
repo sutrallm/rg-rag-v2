@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>JI E</target_entity>
+    <relationship_description>Jing Jin is the direct antidote to Ji E; one must overcome laziness through persistent effort to progress on the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

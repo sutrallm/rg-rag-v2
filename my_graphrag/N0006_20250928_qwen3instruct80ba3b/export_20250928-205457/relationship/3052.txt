@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>ZHONGDAO</target_entity>
+    <relationship_description>Jielv (moral discipline) is the practical expression of zhongdao (Middle Way) in action—avoiding excessive pleasure and self-punishment through ethical conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

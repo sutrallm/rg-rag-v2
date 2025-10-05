@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The saintly being abides in deep meditative absorption (Chandigh), constantly guarding the mind with stability and clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>无我观是破除执着的核心修习路径，通过观察身心生灭，证知无我，使执着自然消失。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

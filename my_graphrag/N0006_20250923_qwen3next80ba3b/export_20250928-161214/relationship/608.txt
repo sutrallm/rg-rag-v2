@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>Translation is dependent on the availability of original content to perform the conversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

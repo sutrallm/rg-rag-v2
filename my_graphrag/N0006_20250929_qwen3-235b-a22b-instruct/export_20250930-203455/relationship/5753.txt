@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出世间法</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>出世间法以无得无失为要，是修行者追求解脱、断除贪嗔痴、证得涅槃寂静的路径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

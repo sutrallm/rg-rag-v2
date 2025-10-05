@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Only when one fully embodies saintly qualities—pure discipline and penetrating wisdom—can liberation from suffering and samsara be attained.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

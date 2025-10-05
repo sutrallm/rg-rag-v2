@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A saintly being has achieved full liberation — free from the cycle of birth and death and all forms of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

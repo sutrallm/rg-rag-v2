@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>XIU DAO CIXI</target_entity>
+    <relationship_description>Diligent effort is required throughout the entire sequential path (xiu dao cixi) to maintain discipline, meditation, and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

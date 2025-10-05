@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CESSATION TRUTH</source_entity>
+    <target_entity>RELEASE FROM DESIRE</target_entity>
+    <relationship_description>RELEASE FROM DESIRE is a necessary action within the Cessation Truth to eliminate craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

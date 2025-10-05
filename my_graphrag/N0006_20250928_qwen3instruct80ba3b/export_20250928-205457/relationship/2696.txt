@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺照</source_entity>
+    <target_entity>無明</target_entity>
+    <relationship_description>覺照是觀察與瓦解無明的工具，透過覺知念頭的生滅，能逐漸消融無明的執著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL_DISCIPLINE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral discipline purifies behavior, creating the stable conditions necessary for deep meditation (chanding) to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

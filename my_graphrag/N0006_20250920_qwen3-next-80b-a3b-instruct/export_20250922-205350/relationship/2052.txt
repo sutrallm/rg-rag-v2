@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ERADICATION_OF_DEFILEMENTS</target_entity>
+    <relationship_description>Recognizing impermanence allows the practitioner to see defilements as fleeting and insubstantial, aiding their natural dissolution through wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

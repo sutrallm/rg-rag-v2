@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Jie (moral discipline) is the foundational basis that prevents mental agitation, enabling DING (concentration) to develop and be sustained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

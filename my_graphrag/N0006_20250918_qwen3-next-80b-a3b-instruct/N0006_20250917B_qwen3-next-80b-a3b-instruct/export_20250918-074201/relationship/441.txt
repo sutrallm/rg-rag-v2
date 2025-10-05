@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>A Saint has completely eradicated the three poisons — greed, hatred, and delusion — which defines the saintly state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

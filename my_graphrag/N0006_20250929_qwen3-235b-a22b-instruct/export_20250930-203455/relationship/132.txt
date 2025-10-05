@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起性空</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>缘起性空是智慧所证得的终极实相，是智慧观照的最高成果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

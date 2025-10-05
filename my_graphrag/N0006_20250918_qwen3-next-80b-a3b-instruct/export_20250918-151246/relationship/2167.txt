@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGSI_LUNHUI</source_entity>
+    <target_entity>TA_DUAN_CHI</target_entity>
+    <relationship_description>The three poisons fuel the cycle of suffering and rebirth through craving and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

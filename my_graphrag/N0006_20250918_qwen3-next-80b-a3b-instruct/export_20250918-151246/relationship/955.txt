@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INTERNAL_TRANSFORMATION</source_entity>
+    <target_entity>TRANSCENDENCE_OF_SAMSARA</target_entity>
+    <relationship_description>Internal transformation—changing one’s relationship to thoughts and emotions—is the true path to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

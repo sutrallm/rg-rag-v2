@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EARLY_MINDFULNESS_PRACTICE</source_entity>
+    <target_entity>CHANGDING</target_entity>
+    <relationship_description>Early mindfulness practice in daily activities is a methodical way to develop and deepen changding beyond seated meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGXING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengxing (ethical conduct) prevents mental disturbance, thereby creating the optimal conditions for chanding to arise and stabilize.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

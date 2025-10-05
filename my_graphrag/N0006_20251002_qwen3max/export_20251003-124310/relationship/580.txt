@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>修行者必須「善護諸根」，防止眼、耳、鼻、舌、身、意追逐外境而生貪愛，這是禪定的根本條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

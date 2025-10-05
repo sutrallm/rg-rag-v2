@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ERADICATION_OF_DEFILEMENTS</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>The eradication of defilements specifically refers to the uprooting of the three poisons — which are the primary defilements in Buddhist practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

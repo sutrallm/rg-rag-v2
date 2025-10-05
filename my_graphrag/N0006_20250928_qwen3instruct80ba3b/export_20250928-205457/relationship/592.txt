@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUANCHUFANNAO</source_entity>
+    <target_entity>HUNCHEN</target_entity>
+    <relationship_description>Hunchen (dullness) is one of the afflictions addressed through Duan chu fan nao by cultivating clear awareness and mindfulness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

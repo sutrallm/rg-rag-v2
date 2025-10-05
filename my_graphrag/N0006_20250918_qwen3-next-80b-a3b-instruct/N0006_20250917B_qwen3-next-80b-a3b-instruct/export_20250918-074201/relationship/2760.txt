@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOYUE ZHUOZHE</target_entity>
+    <relationship_description>Saintly ones embody the wisdom of transcending attachment, as they no longer cling to any experiences or states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

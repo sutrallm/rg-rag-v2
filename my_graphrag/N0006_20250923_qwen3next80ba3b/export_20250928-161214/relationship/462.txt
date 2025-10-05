@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>病</source_entity>
+    <target_entity>病愈</target_entity>
+    <relationship_description>疾病治愈导致病愈</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

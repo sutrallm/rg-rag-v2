@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘</source_entity>
+    <target_entity>现象</target_entity>
+    <relationship_description>现象依因缘聚合而生，随因缘离散而灭</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVOLUTIONARY PRACTICE</source_entity>
+    <target_entity>CHATING</target_entity>
+    <relationship_description>Evolutionary practice entails sustained discipline that leads to stable and deep chanting as a core component.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

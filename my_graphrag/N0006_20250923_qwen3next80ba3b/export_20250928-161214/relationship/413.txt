@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>TEXT PROCESSING</target_entity>
+    <relationship_description>The assistant performs text processing services based on the requirements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

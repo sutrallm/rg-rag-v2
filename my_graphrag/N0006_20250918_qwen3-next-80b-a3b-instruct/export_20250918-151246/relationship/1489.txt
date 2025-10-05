@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding cannot be achieved without consistent, diligent effort to overcome laziness and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

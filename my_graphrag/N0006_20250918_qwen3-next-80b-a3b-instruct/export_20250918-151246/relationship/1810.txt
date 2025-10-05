@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAOXING</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Daoxing, through moment-by-moment observation, directly nurtures Zhinen by revealing the true nature of phenomena in real time.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

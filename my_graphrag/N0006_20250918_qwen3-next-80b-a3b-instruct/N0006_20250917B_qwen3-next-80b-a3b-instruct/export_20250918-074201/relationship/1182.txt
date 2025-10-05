@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIU HUAN</source_entity>
+    <target_entity>SHENG JIE</target_entity>
+    <relationship_description>Liu huan (samsara) is the cycle from which Sheng jie (liberation) offers release; the entire spiritual path aims to break this cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

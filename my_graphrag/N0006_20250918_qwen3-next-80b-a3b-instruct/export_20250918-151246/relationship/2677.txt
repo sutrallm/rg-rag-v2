@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>A Shengzhe embodies Chaoshi, as they are fully free from clinging and delusion due to their profound insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SELF-ATTACHMENT</target_entity>
+    <relationship_description>True liberation requires the complete severing of all forms of attachment, including attachment to the concept of liberation itself.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

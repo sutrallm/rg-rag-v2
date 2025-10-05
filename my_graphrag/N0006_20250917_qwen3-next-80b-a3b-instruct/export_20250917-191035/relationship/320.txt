@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_BEING</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>An awakened being has completely eradicated the three poisons, making them free from the root causes of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

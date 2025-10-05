@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDA (MEDITATIVE CONCENTRATION)</source_entity>
+    <target_entity>INSIGHT (WISDOM)</target_entity>
+    <relationship_description>Concentration provides the mental clarity required for insight to unfold; without focus, wisdom cannot penetrate deeply.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

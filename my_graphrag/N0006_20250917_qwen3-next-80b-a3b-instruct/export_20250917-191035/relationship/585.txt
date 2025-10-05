@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Delusion fuels aversion by distorting perception of experiences as inherently hostile or desirable, triggering reactive aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

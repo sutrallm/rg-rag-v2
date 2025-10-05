@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>A sage fully realizes wuwo — acting without any notion of self as agent or beneficiary — which is integral to their liberated state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

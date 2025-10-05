@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Defilements are the root causes of samsara; as long as greed, hatred, and delusion persist, beings remain trapped in the cycle of rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

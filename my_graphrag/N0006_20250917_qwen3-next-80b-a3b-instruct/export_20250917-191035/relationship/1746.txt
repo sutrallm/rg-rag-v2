@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>Wisdom and insight are the mental faculties that enable a being to transcend suffering and become a saintly being.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

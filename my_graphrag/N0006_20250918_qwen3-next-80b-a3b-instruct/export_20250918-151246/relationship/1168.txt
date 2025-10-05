@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>天界眾生</target_entity>
+    <relationship_description>聖者因心境清淨光明，超越世間，連天界眾生亦對其生起恭敬，顯示其成就之崇高。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

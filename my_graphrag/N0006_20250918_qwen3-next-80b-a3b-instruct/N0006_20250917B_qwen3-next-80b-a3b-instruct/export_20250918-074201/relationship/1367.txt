@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-attachment is the direct path to nirvana; without clinging, suffering ends, and nirvana is realized.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

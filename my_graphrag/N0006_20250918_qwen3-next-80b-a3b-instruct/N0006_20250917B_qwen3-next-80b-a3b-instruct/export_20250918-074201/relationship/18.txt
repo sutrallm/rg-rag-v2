@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUAO BU SHOU SHI KONG JI XIAN ZHI</source_entity>
+    <target_entity>YE LI</target_entity>
+    <relationship_description>Liberty is achieved by transcending karmic force (Ye Li) through inner transformation rather than ritualistic or timed practices.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

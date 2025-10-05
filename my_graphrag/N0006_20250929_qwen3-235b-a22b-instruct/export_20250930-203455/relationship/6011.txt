@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>心识</target_entity>
+    <relationship_description>烦恼遮蔽心识如尘垢遮镜，净化心识需对治烦恼，二者为障碍与被障碍关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>Chanding (meditative concentration) depends on Zhenian (mindfulness) as its foundation; without mindfulness, stable concentration cannot arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

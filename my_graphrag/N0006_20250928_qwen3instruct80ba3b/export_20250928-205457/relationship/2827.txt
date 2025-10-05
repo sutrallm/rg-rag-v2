@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Fannao (defilements) are the root cause of suffering in samsara; their eradication is the direct cause of achieving liberation (jiede).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

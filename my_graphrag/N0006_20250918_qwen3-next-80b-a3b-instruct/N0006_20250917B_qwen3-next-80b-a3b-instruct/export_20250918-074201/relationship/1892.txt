@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSIENCE</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Both transience and non-self are core insights in Buddhist teaching; recognizing impermanence leads to seeing no enduring self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

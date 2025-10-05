@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF_ATTACHMENT</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Self-attachment arises from and reinforces ignorance, the root cause of suffering and cyclic existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Ethical precepts provide the foundation for successful samadhi practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGXIA</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>True letting go is the experiential prerequisite and expression of liberation — freedom from clinging is liberation itself.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

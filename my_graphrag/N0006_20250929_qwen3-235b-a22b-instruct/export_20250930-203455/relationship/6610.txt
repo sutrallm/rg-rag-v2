@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>禅定中可深入观察身心变化，生起无常观，破除恒常错觉。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

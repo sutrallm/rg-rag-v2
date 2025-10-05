@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE DESIRES</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Clinging to the five desires directly results in attachment, causing spiritual困境.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

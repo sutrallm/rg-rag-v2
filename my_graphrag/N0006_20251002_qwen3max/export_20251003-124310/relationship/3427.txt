@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>苦是四圣谛的第一谛，指生命中普遍存在的痛苦与不圆满，是修行者必须如实了知的对象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

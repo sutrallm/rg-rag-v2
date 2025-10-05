@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>禪定是通往心解脫的必經之路，透過穩定專注才能見真實、得解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENGE</target_entity>
+    <relationship_description>Shenge (the holy being) embodies the stable, tranquil mind cultivated through chanding, supported by discipline and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>The realization of non-self is a crucial insight required to break free from samsara and attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

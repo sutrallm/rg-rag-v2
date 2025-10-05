@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Chanding is cultivated through mindfulness; mindfulness is the essential condition for achieving deep meditative concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

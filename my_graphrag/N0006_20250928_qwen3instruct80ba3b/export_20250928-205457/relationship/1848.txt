@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAY_TO_DAY_PRACTICE</source_entity>
+    <target_entity>REGRESSION_IN_PRACTICE</target_entity>
+    <relationship_description>Daily practice prevents regression; even one day of laxity leads to loss of progress, emphasizing the fragility of attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

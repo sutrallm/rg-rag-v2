@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIJIE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Chijie supports the development of zhihui by creating mental clarity and ethical integrity, which are prerequisites for true insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

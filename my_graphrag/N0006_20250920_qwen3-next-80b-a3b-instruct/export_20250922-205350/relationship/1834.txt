@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我 (NON-SELF)</source_entity>
+    <target_entity>解脱 (LIBERATION)</target_entity>
+    <relationship_description>Realization of non-self completely dismantles ego-clinging and is the direct cause of final liberation from suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ABIDING_IN_TRANQUILITY</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Abiding in tranquility cultivates inner peace.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

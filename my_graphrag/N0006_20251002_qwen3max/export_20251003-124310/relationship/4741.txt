@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>执着于禅境或成果会阻碍真正的解脱，解脱需超越一切执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

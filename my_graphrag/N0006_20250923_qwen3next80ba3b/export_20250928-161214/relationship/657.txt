@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NULL</source_entity>
+    <target_entity>NULL</target_entity>
+    <relationship_description>No relationships present in the provided text.</relationship_description>
+    <relationship_strength>0</relationship_strength>
+</relationship>

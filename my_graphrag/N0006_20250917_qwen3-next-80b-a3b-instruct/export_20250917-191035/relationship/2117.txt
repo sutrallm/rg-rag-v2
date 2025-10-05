@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUDAO</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Jie is the foundational step on the path of cultivation, as explicitly stated in the text: “戒为根基”.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

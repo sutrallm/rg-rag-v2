@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Impermanence is a key insight leading to the realization of non-self; if all things are constantly changing, none can be a permanent “I” or “mine.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

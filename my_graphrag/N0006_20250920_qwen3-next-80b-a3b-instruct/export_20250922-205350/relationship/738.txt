@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the “def” (meditative) component of the Threefold Practice, supporting the development of wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

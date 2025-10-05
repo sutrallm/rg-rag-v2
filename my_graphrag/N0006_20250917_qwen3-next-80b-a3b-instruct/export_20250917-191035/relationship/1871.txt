@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Effortful practice (jingjin) is necessary to establish and stabilize meditative concentration (chanding); without it, the mind remains scattered and unstable.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

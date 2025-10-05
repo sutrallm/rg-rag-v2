@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>圣者内心已彻底调伏，无论身处何境皆安住于不动寂静之中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

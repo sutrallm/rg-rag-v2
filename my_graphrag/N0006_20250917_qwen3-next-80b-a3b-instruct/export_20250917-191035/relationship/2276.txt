@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>聖者透過禪定修習，達到內心安定與無執的境界，禪定是其修行基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

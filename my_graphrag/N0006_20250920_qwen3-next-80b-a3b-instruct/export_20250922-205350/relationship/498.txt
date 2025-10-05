@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Keeping precepts requires continuous effort (jingjin); discipline is not passive but demands mindful vigilance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

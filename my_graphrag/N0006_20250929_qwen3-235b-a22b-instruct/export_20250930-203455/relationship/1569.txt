@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>耐心与恒心</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>耐心与恒心是禅修中不可或缺的品质，修行非一蹴可及，需长期积累，即使进步缓慢亦不可灰心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

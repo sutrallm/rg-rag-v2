@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_BEING</source_entity>
+    <target_entity>PURE_MORAL_CONDUCT</target_entity>
+    <relationship_description>A holy being is defined by possessing pure moral conduct as the ethical basis for their spiritual state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

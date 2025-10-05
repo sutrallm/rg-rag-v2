@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_OF_PRACTICE</source_entity>
+    <target_entity>ZEALOUS PRACTICE</target_entity>
+    <relationship_description>Zealous Practice is the driving force that sustains each stage of the Path of Practice, especially in maintaining discipline and mindfulness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

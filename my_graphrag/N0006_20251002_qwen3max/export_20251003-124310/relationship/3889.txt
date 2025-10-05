@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺知</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>覺知與專注相輔相成，使人能如實觀察心的狀態，有效處理散亂與昏沉，促進禪定成熟。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

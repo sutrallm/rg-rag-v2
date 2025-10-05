@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XIN</source_entity>
+    <target_entity>GUAN ZHAO</target_entity>
+    <relationship_description>Cultivating the mind (Xiu Xin) is accomplished through mindful observation (Guan Zhao) of thoughts and emotions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

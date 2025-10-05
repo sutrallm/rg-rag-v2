@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FINAL_FREEDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Final freedom is the ultimate description of liberation: the complete cessation of all clinging, distinctions, and conceptual identities—only liberation itself remains.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>The understanding of impermanence leads directly to the insight of non-self, as nothing enduring can be identified as “I” or “mine.”</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

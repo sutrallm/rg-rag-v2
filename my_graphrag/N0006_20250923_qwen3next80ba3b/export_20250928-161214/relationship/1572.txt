@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOCATION</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>LOCATION references must be omitted from the original text during processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

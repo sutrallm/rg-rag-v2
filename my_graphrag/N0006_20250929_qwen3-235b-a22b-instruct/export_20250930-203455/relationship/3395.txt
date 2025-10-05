@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无为</target_entity>
+    <relationship_description>修行者在贪嗔痴熄灭后自然安住于无为，无需刻意压制或追求，体现解脱的圆满。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋恚</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>瞋恚作为三毒之一，使人心生对立与痛苦，持续造业，导致轮回不断。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是“定”的核心组成部分，而定是三学之一，因此正念是戒定慧完整修行道路中的关键环节。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ENTHUSIASTIC_PERSEVERANCE</target_entity>
+    <relationship_description>Chanding must be cultivated through continuous, diligent practice; sporadic effort is insufficient to attain its deep stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

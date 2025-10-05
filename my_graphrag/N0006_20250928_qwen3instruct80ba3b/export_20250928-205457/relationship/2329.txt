@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUO</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Transcending attachment arises from directly observing the impermanence (Wu Chang) of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

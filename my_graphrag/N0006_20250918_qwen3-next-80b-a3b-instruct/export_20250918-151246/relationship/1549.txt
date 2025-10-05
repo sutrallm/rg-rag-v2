@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>超越执着的智慧是圣者得以真实自在、不执取任何境界的根本能力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

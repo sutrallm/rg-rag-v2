@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>圣者如实修习四念处，安住于正念与寂静，由此断尽烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

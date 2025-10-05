@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>佛法包含禅定作为修行方法之一，但佛法的范畴更广，不止于禅定。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

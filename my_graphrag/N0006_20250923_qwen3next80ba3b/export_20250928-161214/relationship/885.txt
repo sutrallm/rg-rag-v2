@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>想</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>Perception processes are empty of a fixed, enduring self-identity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

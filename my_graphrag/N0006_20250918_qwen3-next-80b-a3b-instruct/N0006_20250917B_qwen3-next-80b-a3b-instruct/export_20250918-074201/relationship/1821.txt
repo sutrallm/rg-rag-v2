@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHIJIE</target_entity>
+    <relationship_description>Diligent practice includes upholding moral discipline as a core component of spiritual progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

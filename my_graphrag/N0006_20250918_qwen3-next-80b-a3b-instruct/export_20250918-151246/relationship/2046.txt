@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Economic effortful practice directly counters delusion by cultivating awareness and insight, preventing mental obscurity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

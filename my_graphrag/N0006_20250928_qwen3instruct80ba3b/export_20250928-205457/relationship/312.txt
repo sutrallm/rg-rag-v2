@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>我见</target_entity>
+    <relationship_description>无明是深层的心理蒙蔽，我见是其具体表现形式，无明导致众生错认五蕴为“我”。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

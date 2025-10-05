@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是解脱的最终状态与实现形式，当所有执著断尽、造作止息，即达涅槃。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>正道</target_entity>
+    <relationship_description>解脫者的一切行為自然合乎正道，無需刻意造作，顯示其內在已與正道完全相應。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>無我觀的實踐对象是五蘊，修行者透過觀照五蘊的無常與非我，證悟無我。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

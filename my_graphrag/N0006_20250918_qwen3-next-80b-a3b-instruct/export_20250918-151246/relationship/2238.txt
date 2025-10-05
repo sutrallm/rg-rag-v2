@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is realized through mindfulness in daily activities, not in exceptional settings; everyday life is the true path to freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

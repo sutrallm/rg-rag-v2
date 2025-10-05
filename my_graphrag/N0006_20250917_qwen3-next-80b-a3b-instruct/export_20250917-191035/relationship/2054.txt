@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Chaoshi, the wisdom of non-attachment, directly extinguishes afflictions by seeing through the illusory nature of desires and aversions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

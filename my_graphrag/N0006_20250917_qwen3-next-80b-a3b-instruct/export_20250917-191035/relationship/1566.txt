@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL_AWARENESS</source_entity>
+    <target_entity>STRAINED_EFFORT</target_entity>
+    <relationship_description>Mindful awareness must be maintained with constant, diligent effort; without strive, attention slips, and the path of awakening is lost.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

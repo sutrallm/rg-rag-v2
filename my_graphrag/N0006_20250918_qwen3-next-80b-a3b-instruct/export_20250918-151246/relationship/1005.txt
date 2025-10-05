@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>圣者安住于寂灭之境，是已达成涅槃状态的实际体现者。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

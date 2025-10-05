@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INTERNAL_AGITATION</target_entity>
+    <relationship_description>Chanding leads to the calming of inner mental turmoil and emotional turbulence, allowing the mind to settle into tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Wuwu guan is the specific meditative practice directed toward understanding the nature of Wuyun (five aggregates).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

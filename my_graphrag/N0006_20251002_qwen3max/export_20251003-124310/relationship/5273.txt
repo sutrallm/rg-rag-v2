@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪修者</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>禪修者透過內觀觀察五蘊的生滅，了知其無常苦無我，從而斷除對五蘊的執取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

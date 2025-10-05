@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执著</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>执著是维持生死轮回的动力，因爱染不舍而不断造业流转，唯有断除执著才能解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

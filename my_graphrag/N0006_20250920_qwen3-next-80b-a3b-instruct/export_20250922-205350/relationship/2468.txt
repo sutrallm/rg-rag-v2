@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者之所以为圣，是因为具足如实智慧，能洞见诸法实相，断尽烦恼，不为执著所缚。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

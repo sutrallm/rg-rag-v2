@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Samsara is characterized by a sea of suffering, as explicitly stated in '跨越生死轮回的苦海'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

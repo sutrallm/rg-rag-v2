@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>SAMSAARA</target_entity>
+    <relationship_description>Ignorance of reality is the root cause of samsara, as it leads to false views and craving.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

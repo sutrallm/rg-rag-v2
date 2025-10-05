@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Chanding supports the weakening of attachment by stabilizing the mind and reducing its reactive tendencies.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

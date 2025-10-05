@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>精進是斷除生死輪迴、邁向解脫的必經之路，缺乏精進則無法真實得解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Chanding is a means to cultivate Transeendent Wisdom, which sees through the illusory nature of experiences attained in meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

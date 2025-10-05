@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>TAN AI</target_entity>
+    <relationship_description>Jing Jin prevents attachment by continuously reinforcing discipline and awareness, reducing the opportunity for craving to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

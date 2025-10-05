@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念放逸</source_entity>
+    <target_entity>失控风险</target_entity>
+    <relationship_description>Is the primary cause of the risk of losing control.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

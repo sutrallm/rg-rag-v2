@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>阿罗汉</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>阿罗汉是已证涅槃的圣者，但若执“我已证得”，则背离涅槃无我之义，故二者可对立也可统一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

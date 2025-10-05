@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>無明</target_entity>
+    <relationship_description>禪定透過專注與正念，能斷除無明，使心遠離愚癡與困惑。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

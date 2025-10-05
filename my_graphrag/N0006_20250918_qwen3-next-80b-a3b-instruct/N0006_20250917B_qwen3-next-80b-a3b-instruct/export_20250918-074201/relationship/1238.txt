@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真實修行者</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>真實修行者以堅定意願每日修持，體現了精進的修行態度，不可或缺。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

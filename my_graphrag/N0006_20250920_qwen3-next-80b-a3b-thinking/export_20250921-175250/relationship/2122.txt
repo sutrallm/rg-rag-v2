@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>practitioner</source_entity>
+    <target_entity>afflictions</target_entity>
+    <relationship_description>Practitioners must confront and overcome afflictions to progress in their meditation journey.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

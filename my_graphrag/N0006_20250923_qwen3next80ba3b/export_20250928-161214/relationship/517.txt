@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>The Five Aggregates are analyzed to demonstrate the truth of Non-Self, as they lack any permanent, independent identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

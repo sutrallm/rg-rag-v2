@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常化修行</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>日常化修行的核心是在一切活动中保持正念，是正念实践的延伸与深化。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

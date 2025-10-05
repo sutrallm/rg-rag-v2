@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实照见</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>如实照见是智慧运作的方式，通过不评判、不取舍地觉知身心现象，证得诸法实相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

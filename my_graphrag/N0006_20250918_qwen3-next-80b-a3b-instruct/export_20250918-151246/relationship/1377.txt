@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHUOZHI</target_entity>
+    <relationship_description>Chanding creates the mental stability necessary to develop the wisdom that transcends attachment; deep concentration allows one to observe phenomena clearly without clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

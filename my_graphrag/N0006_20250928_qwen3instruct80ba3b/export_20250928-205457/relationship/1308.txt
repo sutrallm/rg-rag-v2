@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIBBANA</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Realization of non-self is the key insight that directly leads to nibbana, as the cessation of the illusion of self extinguishes the root of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>身心转变</target_entity>
+    <relationship_description>解脱过程中伴随可验证的身心转变，如烦恼减轻、心念澄明等。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

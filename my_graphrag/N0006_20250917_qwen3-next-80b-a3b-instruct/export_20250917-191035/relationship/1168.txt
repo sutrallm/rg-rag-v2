@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>禅定为超越执着的智慧提供稳定的心境基础，使修行者能清晰观照实相而不被情绪或境界干扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

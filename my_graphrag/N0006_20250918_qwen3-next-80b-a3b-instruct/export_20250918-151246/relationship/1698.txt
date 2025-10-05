@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Tranquility is both the result and the environment of chanding—the still mind supports deep meditation and is nourished by it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

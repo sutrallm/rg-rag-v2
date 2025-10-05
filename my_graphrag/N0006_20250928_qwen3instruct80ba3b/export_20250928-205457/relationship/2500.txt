@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_NOBLE_TRUTHS</source_entity>
+    <target_entity>THREEfold_PATH</target_entity>
+    <relationship_description>The Threefold Path (Precepts, Meditation, Wisdom) is the practical means to realize the Four Noble Truths — the path of practice leads directly to seeing these truths as lived reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

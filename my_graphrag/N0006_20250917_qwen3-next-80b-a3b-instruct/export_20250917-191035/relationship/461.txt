@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIE TUI</target_entity>
+    <relationship_description>Zhihui, the clear seeing of impermanence and non-self, is the direct path to Jietui (liberation); wisdom is the essential means to attain freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>CHAO YUE ZHU ZH</target_entity>
+    <relationship_description>Insight from Chan Ding leads to transcending attachments, as meditative clarity enables one to see the illusory nature of experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

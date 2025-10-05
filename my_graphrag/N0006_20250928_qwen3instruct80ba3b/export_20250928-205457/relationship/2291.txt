@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Enlightened beings have transcended aversion by seeing all experiences as empty and impermanent.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

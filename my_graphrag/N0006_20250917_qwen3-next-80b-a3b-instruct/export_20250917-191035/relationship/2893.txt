@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Desire and aversion are two sides of the same coin—both are reactive mental states rooted in attachment to pleasant and unpleasant experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

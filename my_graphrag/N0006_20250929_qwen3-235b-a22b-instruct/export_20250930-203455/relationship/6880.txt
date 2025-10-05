@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒律清净是禅定成就的前提，持戒为定基，定为慧本，三者缺一不可。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

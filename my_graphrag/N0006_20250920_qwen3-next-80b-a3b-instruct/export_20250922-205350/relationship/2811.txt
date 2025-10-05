@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>RIGHT EFFORT</target_entity>
+    <relationship_description>Right Effort is taught by the Buddha as a core practice to avoid negligence and cultivate the path toward liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

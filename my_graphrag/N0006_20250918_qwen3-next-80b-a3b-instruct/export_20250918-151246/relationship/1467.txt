@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Stillness is the result of cultivated mindfulness—an unshakable inner quietude maintained through non-reactive awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

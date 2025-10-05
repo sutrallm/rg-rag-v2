@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>ANGER is a specific type of AFFLICTION that must be eradicated.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

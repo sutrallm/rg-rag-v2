@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>贪嗔痴三毒需通过三学（戒定慧）对治，正见、正思惟、正精进是断除三毒的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

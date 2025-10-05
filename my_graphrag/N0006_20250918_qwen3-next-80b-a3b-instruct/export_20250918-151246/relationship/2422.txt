@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SEEKING</source_entity>
+    <target_entity>TRUE_PATH</target_entity>
+    <relationship_description>Non-seeking embodies the true path, as liberation arises naturally when goal-directed striving ceases.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

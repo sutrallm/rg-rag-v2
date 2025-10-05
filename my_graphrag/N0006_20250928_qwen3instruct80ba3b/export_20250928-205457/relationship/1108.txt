@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN JUEZHI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>By practicing mindful awareness in all activities, one reduces妄念 and渐次达至解脱, supporting the path to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

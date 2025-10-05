@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>對「無我」的實證能自然鬆脫執著，因為當「我」與「我的」被看破，執著便失去根基。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

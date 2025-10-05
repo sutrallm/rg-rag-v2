@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMATHA AND VIPASSANA</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>The practices of Samatha and Vipassana cultivate and strengthen Mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

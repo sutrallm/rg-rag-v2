@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG HUI</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Transcendent wisdom (Sheng Hui) leads to the realization of non-self (Wu Wo), allowing the practitioner to abandon all notions of attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

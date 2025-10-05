@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不执取</source_entity>
+    <target_entity>证得的境界</target_entity>
+    <relationship_description>解脱者不执著于任何证得的境界，即使有所成就亦不以得失为念。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

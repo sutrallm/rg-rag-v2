@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>精进是持续修习智慧的必要动力，无精进则智慧难生、难固。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

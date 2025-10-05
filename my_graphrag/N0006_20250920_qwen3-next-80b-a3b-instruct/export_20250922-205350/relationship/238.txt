@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>The noble one (shengzhe) is defined by the full cultivation of ethical discipline (jie), along with concentration and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

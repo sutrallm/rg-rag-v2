@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MASTERY OF MIND</source_entity>
+    <target_entity>FINAL LIBERATION</target_entity>
+    <relationship_description>Mastery of mind removes the turbulence that obscures true nature; it enables the stability required for liberation to be realized.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

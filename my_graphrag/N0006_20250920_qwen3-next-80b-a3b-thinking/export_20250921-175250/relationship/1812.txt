@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SLOTH</target_entity>
+    <relationship_description>AFFLICTIONS control SLOTH.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

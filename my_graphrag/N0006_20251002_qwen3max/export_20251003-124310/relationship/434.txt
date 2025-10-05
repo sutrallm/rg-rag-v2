@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者应依循中道，避免极端，以实现平衡的修行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

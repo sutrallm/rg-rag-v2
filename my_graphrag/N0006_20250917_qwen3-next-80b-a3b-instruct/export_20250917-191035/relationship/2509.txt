@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>輪迴</source_entity>
+    <target_entity>貪嗔</target_entity>
+    <relationship_description>貪嗔是輪迴中持續存在的煩惱動力，驅使眾生造業、不得解脫。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

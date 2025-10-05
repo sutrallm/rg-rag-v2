@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我見</source_entity>
+    <target_entity>法執</target_entity>
+    <relationship_description>我見是執「能修」之我，法執是執「所證」之果，二者為解脫的兩重障礙。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

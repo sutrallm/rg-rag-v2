@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>感官易诱使心识追逐外境，违犯戒律，修行者需以智慧观察其虚妄性。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

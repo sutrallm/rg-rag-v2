@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DILIGENT PRACTICE</target_entity>
+    <relationship_description>MINDFULNESS is a component of DILIGENT PRACTICE.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

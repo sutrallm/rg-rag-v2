@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>觉照</target_entity>
+    <relationship_description>涅槃不是遥远境界，而是通过当下的觉照，烦恼歇息、执取止息时自然显现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

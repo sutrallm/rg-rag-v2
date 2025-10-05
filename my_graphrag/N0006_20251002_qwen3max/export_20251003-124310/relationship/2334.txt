@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>圣者安住于中道，不依境界而住，不希求果报亦不厌离世间，如实观察生灭，体现其彻底自由的心境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

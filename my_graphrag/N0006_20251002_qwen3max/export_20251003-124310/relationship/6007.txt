@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒、定、慧三学</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>智慧（慧）的功能是观照实相、断除无明；若无慧，即使有定，也无法根除无明，说明三学共同作用以对治无明。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

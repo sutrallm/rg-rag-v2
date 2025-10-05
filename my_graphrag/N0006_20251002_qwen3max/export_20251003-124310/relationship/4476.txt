@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警醒</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>警醒是不放逸的重要组成部分，时刻警醒才能防止懈怠，稳固修行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

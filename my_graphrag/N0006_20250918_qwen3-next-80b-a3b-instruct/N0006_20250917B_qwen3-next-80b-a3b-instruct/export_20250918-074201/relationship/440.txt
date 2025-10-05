@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>A Saint possesses complete wisdom — non-attachment to any state, including meditative bliss — and thus exemplifies the highest realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

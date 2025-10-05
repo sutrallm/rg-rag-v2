@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The attainment of saintly qualities leads directly to the realization of nirvana—the cessation of all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

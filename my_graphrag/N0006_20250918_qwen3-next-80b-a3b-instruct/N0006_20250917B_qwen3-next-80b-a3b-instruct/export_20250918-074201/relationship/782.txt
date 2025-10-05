@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSIENCE</source_entity>
+    <target_entity>UNATTAINABLE</target_entity>
+    <relationship_description>Because all things are impermanent, they cannot be permanently possessed or grasped—hence, unattainable.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

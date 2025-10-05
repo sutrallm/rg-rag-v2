@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETINGHUI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Jietinghui are the three essential practices required to achieve Jiede; without any one, liberation is impossible.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

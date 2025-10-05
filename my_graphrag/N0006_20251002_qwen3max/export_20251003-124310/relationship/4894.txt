@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实修行者</source_entity>
+    <target_entity>妄想</target_entity>
+    <relationship_description>真实修行者远离妄想，不沉溺于虚妄的成就感，如实观照内心并持续精进。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

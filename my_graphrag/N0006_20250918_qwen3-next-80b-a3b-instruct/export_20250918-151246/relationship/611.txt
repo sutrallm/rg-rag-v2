@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUE WU</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Jue Wu (awakened practice) includes Chan Ding as a core component—mindful awareness in daily life requires meditative concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

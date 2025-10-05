@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>对五蕴实相的无知构成无明，而观照五蕴的无常、苦、无我本质是破除无明的关键方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

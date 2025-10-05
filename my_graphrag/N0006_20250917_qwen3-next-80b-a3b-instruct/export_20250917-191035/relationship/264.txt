@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUO ZHUOZHI</source_entity>
+    <target_entity>WUWO ZHIHUI</target_entity>
+    <relationship_description>Transcending attachment is the practical manifestation of the wisdom of non-self—seeing phenomena without clinging to them as real or self-owned.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

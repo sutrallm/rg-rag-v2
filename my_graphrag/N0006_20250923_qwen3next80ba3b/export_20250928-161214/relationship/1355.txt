@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Practitioners uphold moral precepts as the foundation for ethical conduct and spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无我的洞察对象是五蕴——身心现象的聚合，修习者观照其无常、无主、无我。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

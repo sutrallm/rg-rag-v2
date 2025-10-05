@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENSHI JIEDE</target_entity>
+    <relationship_description>The Shengzhe is the embodiment of Zhen Shi Jiede, having achieved true liberation through the destruction of afflictions and non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

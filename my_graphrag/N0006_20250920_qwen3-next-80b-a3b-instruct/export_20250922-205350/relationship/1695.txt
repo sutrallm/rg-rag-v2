@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Jie Ding Hui is the systematic path that, when fully cultivated, leads directly to liberation (Jiede) from samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

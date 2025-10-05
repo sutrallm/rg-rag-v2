@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平衡之道</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>平衡之道对治贪欲，避免过紧导致压抑或过松导致放逸，减少对境界的执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

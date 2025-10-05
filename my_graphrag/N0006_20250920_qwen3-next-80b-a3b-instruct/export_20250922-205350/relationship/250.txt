@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO</source_entity>
+    <target_entity>WUWU</target_entity>
+    <relationship_description>Liberation (jietuo) is not achieved by striving, but through non-doing (wuwu) — the cessation of all grasping and fabrication.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

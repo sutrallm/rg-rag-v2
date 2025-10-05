@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Nirvana is defined by the complete absence of attachment, making non-attachment both the path and the nature of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

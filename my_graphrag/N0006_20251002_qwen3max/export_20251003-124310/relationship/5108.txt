@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正行</target_entity>
+    <relationship_description>精进体现为日复一日在身、口、意上坚持正念与正行，正行是精进修行的具体表现之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>解脱的修行者内心增长慈悲，是检验修行成效的重要标准之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

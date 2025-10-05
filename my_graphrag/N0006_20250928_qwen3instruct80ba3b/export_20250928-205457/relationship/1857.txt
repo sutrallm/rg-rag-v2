@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>Transcending attachment is achieved through the practice of non-self contemplation, which reveals the false nature of ownership and identity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

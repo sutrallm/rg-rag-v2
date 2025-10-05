@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MAGIC CHARMS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Magic charms are rejected as ineffective means to attain Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

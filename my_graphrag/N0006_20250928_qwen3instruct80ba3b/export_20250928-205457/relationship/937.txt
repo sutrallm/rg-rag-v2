@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>Shengzhe has realized Nierhuan (Nirvana), the ultimate state of liberation, and thus dwells beyond all suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

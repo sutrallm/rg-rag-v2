@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>禅定是精进修行的核心方法之一，精进修行推动禅定的深化，二者共同作用以调伏心性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

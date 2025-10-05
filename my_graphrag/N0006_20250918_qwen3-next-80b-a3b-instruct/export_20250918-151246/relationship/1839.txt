@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiede (liberation) is the outcome achieved through the synergistic practice of chanding and zhishi, not external acts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

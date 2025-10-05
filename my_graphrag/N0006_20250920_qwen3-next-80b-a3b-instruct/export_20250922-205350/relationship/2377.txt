@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZI XING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Zi xing (self-reflection) is the daily practice that sustains jingjin (diligent effort), allowing practitioners to correct deficiencies and maintain steady progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

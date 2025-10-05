@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding calms the mind, reducing the power of anger by withdrawing attention from aversive thoughts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

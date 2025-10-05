@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>二禪</source_entity>
+    <target_entity>定</target_entity>
+    <relationship_description>定是二禪的特質之一，指心的專注與穩定狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

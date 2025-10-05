@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE LV</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without proper ethical discipline, the mind remains agitated and cannot settle into stable contemplation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

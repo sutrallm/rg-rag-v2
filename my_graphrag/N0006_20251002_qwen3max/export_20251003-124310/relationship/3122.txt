@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>禅悦</target_entity>
+    <relationship_description>不放逸的修行者即使体验禅悦也不会贪着，因时刻警醒而避免将轻安喜乐视为执取对象。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

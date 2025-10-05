@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jiedinghui is the complete path — virtue, concentration, and wisdom — that leads directly to the realization of Niepan, the ultimate liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

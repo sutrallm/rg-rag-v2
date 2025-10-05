@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者是已證得解脫的修行者，其生命特質源於解脫的實現。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

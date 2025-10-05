@@ -1,0 +1,12 @@
+**Processing Error: Required Text Absent with '原文如下：--------------' Placeholder**  
+
+The system consistently fails to process messages when required text is missing. The generated error explicitly identifies the absence of content and provides precise instructions to resolve the issue. The message includes a specific placeholder string to indicate where the original text must be inserted, along with a directive to supply complete content before resubmission.  
+
+**Error Source: Missing Required Text**  
+The processing failure is directly triggered by the absence of necessary text in the message. The missing original content is the sole cause of the error condition.  
+
+**Content Placement Indicator**  
+The error message contains the exact placeholder string "原文如下：--------------" to designate the precise location where the original text must be inserted.  
+
+**Resubmission Directive**  
+The system explicitly instructs users to provide the complete missing content prior to submitting any subsequent processing requests. This directive ensures the error is resolved before retrying.

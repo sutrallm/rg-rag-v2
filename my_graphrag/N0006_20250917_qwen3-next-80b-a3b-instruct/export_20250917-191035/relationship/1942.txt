@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENZHENG ZIYOU</source_entity>
+    <target_entity>RENREN JIE KE QI RU</target_entity>
+    <relationship_description>Zhenzheng ziyou is accessible to everyone who practices renren jie ke qi ru—the universal accessibility of liberation is grounded in this freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

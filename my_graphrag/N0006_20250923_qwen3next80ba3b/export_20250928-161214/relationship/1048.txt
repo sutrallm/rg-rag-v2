@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MISCONCEPTION</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Misconception is a root cause of greed.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

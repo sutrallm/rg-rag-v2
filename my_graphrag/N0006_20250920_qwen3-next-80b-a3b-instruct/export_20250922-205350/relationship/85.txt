@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTINUOUS AWARENESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous awareness is the practical, moment-to-moment expression of chanding in daily life, making meditation accessible beyond formal sitting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

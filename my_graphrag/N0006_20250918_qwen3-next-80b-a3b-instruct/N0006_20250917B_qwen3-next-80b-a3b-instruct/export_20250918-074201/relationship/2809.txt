@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>圣者是已实现心解脱的修行者，二者为状态与成就者的对应关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

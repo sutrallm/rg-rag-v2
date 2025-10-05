@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SHELI</target_entity>
+    <relationship_description>Niepan (nirvana) is the direct result of complete Sheli (letting go); true liberation is present when the mind is unattached and non-reactive.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

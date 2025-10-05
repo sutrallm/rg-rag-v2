@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STABLE MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Stable meditation is part of the threefold training that "彻底断尽烦恼" as per the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

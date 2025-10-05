@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>观照</target_entity>
+    <relationship_description>修行者若能如实观察身心的生灭变化，就能看清贪爱与执取的虚妄，这种观照力是修心的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

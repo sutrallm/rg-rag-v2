@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>TRI-world</target_entity>
+    <relationship_description>A Shengzhe has transcended the tri-world, being no longer bound by the cycles of existence due to complete eradication of defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慈悲與智慧如鳥之雙翼，缺一不可；智慧觀空而不執，慈悲應世而不棄，雙運方能圓滿菩提。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

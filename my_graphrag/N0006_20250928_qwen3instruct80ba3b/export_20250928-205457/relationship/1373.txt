@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>While wisdom arises from meditation, its development is blocked without the foundation of ethical conduct, which prevents the mind from being distracted by remorse or unwholesome actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

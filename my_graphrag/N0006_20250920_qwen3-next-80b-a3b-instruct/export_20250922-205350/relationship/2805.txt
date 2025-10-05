@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF_OBSERVATION</source_entity>
+    <target_entity>FIVE_SKANDHAS</target_entity>
+    <relationship_description>Non-self observation involves seeing the five aggregates as empty of self, thereby dissolving attachment and leading toward liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

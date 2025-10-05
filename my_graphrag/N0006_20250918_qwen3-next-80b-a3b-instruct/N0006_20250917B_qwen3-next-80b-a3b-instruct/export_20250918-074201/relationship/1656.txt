@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Niepan is the direct result of fully realizing chaoshi—non-attachment to all phenomena, leading to complete release from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

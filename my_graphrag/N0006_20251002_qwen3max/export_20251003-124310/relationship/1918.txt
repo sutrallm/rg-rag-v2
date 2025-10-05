@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>貪、瞋、癡</target_entity>
+    <relationship_description>戒定慧三學具足能逐步斷除貪、瞋、癡等根本煩惱，是解脫道的核心實踐。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

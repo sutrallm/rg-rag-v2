@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>良马</source_entity>
+    <target_entity>定中</target_entity>
+    <relationship_description>A well-trained horse symbolizes the disciplined state required for meditative concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

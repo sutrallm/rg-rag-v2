@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修道次第</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>戒律是修道次第的第一阶，为禅定与智慧奠定行为与心灵的基础。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

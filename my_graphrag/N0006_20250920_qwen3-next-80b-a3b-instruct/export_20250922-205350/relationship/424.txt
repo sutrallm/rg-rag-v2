@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者深彻智慧，能如实观照诸法无常苦无我，是其身心解脱的核心特质。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

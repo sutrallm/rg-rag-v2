@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHATING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chatting provides the mental stillness necessary for wisdom to arise through clear observation of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

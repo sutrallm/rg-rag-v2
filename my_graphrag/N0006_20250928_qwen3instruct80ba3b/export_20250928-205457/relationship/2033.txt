@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT_ORIGIN</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the cessation of the dependent origination chain; when ignorance ends, suffering ends.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

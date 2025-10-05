@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO BU KAO SHENLI, ER KAO ZIXIN JUEWU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The sage embodies the truth that liberation comes from self-awakening, not external aid — the Buddha is only a guide.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

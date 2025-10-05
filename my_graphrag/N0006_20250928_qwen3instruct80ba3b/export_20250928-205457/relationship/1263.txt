@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>緣起性空</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>五蘊因緣和合、剎那生滅，正是緣起性空的具體展現，其無自性印證了一切法緣起性空的真義。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

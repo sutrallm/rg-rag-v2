@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Wisdom is necessary to realize the emptiness of all phenomena, as stated in '了知诸法空相'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

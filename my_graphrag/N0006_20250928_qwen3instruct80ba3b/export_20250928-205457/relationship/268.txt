@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者的日常态度</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>日常觉察是正见的实践方式，依正见而不攀缘、不幻想，方能安住当下。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

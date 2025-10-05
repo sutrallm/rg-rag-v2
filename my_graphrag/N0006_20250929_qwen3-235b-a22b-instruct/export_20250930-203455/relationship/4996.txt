@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>心</target_entity>
+    <relationship_description>当心清净、专注、无执时，智慧自然生起，如实照见诸法实相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

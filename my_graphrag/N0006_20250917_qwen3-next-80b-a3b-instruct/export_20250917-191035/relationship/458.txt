@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding requires Jingjin to be developed and maintained; without diligent effort, meditative concentration cannot be sustained or deepened.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHI</source_entity>
+    <target_entity>CHIZHOU</target_entity>
+    <relationship_description>Wuzhi (true awakening) is the culmination of Chizhou (wisdom) — both refer to the clear seeing of reality without distortion, leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

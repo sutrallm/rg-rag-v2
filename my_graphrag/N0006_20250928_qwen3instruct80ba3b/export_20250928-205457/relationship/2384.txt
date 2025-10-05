@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE_FIVE_AGREGATES</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Insight into the five aggregates as empty, changing, and impersonal leads directly to the realization of no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

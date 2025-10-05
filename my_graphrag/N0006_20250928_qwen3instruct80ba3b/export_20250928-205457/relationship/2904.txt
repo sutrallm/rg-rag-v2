@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUIJIAN_WUCHANG</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Sustained Huijian Wuchang leads directly to the dissolution of clinging, which is the condition for attaining NIEPAN (nirvana)—complete freedom from attachment and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

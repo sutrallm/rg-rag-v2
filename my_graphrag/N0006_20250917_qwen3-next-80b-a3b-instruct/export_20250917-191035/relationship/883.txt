@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST_PRACTICE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Buddhist practice includes meditation as a core method for developing concentration, mindfulness, and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

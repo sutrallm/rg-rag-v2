@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Saintly beings (shengzhe) are those who embody the wisdom of non-attachment (wuzhi), having seen all phenomena as impermanent and selfless, and thereby transcended suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly persons constantly cultivate chanding as part of abiding in stillness and mental purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

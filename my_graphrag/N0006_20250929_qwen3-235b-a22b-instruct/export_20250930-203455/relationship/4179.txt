@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>自在</target_entity>
+    <relationship_description>圣者已断烦恼，达到自在状态，不随境转，心无挂碍。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saintly qualities include the eradication of delusion through insight into the true nature of reality.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

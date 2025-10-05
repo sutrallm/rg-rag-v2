@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>SHENGSHI</target_entity>
+    <relationship_description>Jiede is the escape from shengshi (cyclic existence); liberation means no longer being bound by birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

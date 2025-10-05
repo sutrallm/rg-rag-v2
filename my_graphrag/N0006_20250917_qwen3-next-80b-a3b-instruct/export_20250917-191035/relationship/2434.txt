@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持續修行</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>持續修行是解脫得以穩定與成熟的必要條件，非一蹴可及，需日積月累的實踐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

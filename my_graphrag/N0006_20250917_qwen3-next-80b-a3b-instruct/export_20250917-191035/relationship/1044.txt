@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingjin (diligence) is the sustained effort required to cultivate and maintain chanding (meditative concentration).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

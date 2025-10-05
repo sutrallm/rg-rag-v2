@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪嗔痴</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫的真義在於斷盡貪嗔痴三毒，這是聖者內在特質的核心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

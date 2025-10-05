@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>习气</source_entity>
+    <target_entity>持续觉察</target_entity>
+    <relationship_description>持续觉察可防止习气复起；即使已证初步解脱，仍需通过持续觉察对治潜藏的烦恼惯性。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The enlightened sage has utterly removed delusion by realizing non-self and impermanence, achieving complete clarity of mind.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

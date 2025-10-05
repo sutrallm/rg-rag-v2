@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>無我是五蘊的真實本質，修行者透過觀照五蘊無我，破除「我」與「我所」的錯覺。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

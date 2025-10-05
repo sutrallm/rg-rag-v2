@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT wisdom</source_entity>
+    <target_entity>NON-SELF OBSERVATION</target_entity>
+    <relationship_description>Transcendent wisdom is the direct realization of non-self observation; the understanding that all things are empty of inherent self is the core of this wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

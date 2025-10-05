@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>超越執著的智慧提醒修行者不應貪求神通，避免落入執著，二者形成對治關係。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

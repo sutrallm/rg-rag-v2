@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is a means to develop the inner stillness necessary to move toward liberation, but liberation transcends even chanding when attachment to it is relinquished.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

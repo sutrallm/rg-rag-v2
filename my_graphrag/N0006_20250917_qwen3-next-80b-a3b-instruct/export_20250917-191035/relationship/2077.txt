@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>智慧的核心內容即體認無我，唯有明白無我，才能徹底斷除我執與貪嗔。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN JUEZHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengnian juezhi extends chanding beyond formal meditation into daily life, making concentration continuous and effortless.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

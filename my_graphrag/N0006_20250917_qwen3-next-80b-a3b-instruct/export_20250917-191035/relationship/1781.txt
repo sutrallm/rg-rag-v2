@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>ATTAINMENT</target_entity>
+    <relationship_description>Even spiritual achievements should not be grasped; clinging to them hinders true liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

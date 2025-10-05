@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣地</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣地不能自动净化心灵，凸显解脱内在性——非靠环境，而靠心的转变。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

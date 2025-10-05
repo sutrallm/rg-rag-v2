@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天人</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>天人因敬仰圣者的清净与圆满而生恭敬，显示圣者境界超越天界。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

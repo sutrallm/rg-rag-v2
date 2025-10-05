@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>PATH_TO_LIBERATION</target_entity>
+    <relationship_description>Effortful Practice is the active, sustained effort required to walk the Path to Liberation, making it indispensable to achieving解脱.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>道</source_entity>
+    <target_entity>四圣谛与八正道</target_entity>
+    <relationship_description>道是四圣谛之一，即八正道，是四圣谛与八正道体系中的实践路径，引导修行者趋向灭苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

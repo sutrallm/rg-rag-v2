@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>菩提</target_entity>
+    <relationship_description>智慧彻底照破无明时，烦恼即菩提，生死与涅槃无别，当下即是圆满。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

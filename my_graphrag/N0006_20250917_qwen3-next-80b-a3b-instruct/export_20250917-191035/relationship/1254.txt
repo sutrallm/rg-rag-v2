@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>Continuous practice (精进修行) must be anchored in moment-to-moment mindfulness (正念) to avoid slipping into mechanistic rituals or mechanical effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

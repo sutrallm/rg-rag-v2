@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAINTHOOD</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Sanctified beings have utterly destroyed aversion, freeing themselves from reactive hostility and aversion toward unpleasant experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

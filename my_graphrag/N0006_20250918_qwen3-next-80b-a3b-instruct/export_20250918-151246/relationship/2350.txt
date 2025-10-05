@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO SHI BENRAN</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>True mindfulness (Zhengnian) is the natural expression of liberation—one’s essential clarity is revealed when one stops seeking, controlling, or resisting, allowing the innate state to appear.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

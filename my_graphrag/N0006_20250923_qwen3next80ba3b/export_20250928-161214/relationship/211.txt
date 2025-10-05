@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSATION</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>SENSATION is one of the five aggregates that make up a person's existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

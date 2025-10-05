@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PARAGRAPH</source_entity>
+    <target_entity>TOPIC</target_entity>
+    <relationship_description>TOPIC is the subject of a PARAGRAPH to be clarified via numbered headings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

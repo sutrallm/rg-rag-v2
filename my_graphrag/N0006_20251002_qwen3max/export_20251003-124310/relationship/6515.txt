@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者具足正见与智慧，智慧是其断除烦恼、超越生死的关键能力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

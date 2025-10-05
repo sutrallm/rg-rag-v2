@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ACTUAL EXPERIENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Only through actual experience—real, personal insight—not belief or doctrine, can liberation be fully realized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>珍贵宝物</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者应如守护珍贵宝物般守护自心，是其日常态度的比喻表达。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

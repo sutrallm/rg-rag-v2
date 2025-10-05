@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>理解無我能根本性地瓦解對「我」與「我所」的執著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

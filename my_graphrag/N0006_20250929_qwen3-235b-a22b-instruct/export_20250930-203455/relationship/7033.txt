@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>四圣谛是理解苦与灭苦之道的框架，如实知见四谛是实现解脱的前提。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

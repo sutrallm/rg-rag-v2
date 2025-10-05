@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>INNER PURITY</target_entity>
+    <relationship_description>Following precepts fosters inner purity through ethical conduct and discipline.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SIQING</target_entity>
+    <relationship_description>Niepan (nirvana) is defined as the complete cessation of Siqing (the three poisons); their extinction is synonymous with liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

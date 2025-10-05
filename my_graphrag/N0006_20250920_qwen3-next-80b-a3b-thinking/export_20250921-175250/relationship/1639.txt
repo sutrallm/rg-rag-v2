@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Focusing the MIND is integral to SAMADHI practice as stated in '心念专注'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

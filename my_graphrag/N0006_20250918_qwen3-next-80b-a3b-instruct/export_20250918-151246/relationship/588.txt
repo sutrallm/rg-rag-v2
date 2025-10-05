@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SI SHENG DI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The ultimate purpose of chanding is to realize the Four Noble Truths — insight into suffering, its cause, its end, and the path is the goal of meditative practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

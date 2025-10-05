@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL AWARENESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindful Awareness is both the foundation and the ongoing practice of Chanding, allowing the mind to remain stable and undisturbed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

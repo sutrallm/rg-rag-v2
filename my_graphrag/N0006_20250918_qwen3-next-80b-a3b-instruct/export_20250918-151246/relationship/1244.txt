@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>XIUXIN DE CIDI</target_entity>
+    <relationship_description>Zhennian is the practical foundation of the first stage (guarding the sense bases) in the progressive path of mental cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>修行者透过禅定摆脱放逸，避免心念散乱与懈怠，从而获得内在的平静与安稳。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

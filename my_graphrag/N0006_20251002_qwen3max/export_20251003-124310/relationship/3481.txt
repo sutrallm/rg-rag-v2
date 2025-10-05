@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>我</target_entity>
+    <relationship_description>无我指一切现象皆无独立恒常的“我”，修行者照见无我，从而破除对“我”的执著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

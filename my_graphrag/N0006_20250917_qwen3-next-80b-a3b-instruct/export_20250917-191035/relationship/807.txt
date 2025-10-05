@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>The realization of non-self is identified as the ultimate condition for attaining complete liberation and “great freedom.”</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

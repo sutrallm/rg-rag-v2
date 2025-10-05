@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GATHA</source_entity>
+    <target_entity>DOCTRINAL_DETAILS</target_entity>
+    <relationship_description>Gathas encapsulate doctrinal details of Buddhist teachings in poetic form for memorization and dissemination.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

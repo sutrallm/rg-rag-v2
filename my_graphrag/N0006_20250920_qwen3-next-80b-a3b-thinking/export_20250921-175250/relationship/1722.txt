@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>Mindfulness guards the six sense bases from external distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

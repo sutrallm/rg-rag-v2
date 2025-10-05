@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SICHAN_BADING</source_entity>
+    <target_entity>JIWU</target_entity>
+    <relationship_description>Practitioners may attain sichan bading, but jiwu demands not clinging to these states as signs of personal achievement.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

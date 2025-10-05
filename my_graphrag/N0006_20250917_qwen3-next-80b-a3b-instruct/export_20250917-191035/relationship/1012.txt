@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ROOT_OF_SUFFERING</target_entity>
+    <relationship_description>Liberation is the complete cessation of suffering by uprooting its cause: clinging to “I” and “mine.”</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

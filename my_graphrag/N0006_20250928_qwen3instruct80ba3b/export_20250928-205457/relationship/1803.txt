@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定需以智慧为引导，否则易堕入境界执著；智慧透过禅定如实观照，二者相互依存。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

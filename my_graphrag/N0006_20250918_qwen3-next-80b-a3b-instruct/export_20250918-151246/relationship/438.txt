@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Jingjin is the sustained practice needed to overcome and prevent the arising of Fan Nao (mental afflictions).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

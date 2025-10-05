@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAAN</source_entity>
+    <target_entity>CHEN</target_entity>
+    <relationship_description>Craving (Taan) and aversion (Chen) are both classified as afflictive mental states that arise from ignorance and perpetuate suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

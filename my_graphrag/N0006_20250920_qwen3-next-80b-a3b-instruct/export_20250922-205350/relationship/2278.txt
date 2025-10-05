@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>三界</target_entity>
+    <relationship_description>智慧使人洞見三界本無實體，緣起性空，從而超越對三界果報的貪著與恐懼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

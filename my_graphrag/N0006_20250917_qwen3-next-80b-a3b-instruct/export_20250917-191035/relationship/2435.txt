@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我是解脫的根本洞察，當執著「我」的幻覺瓦解時，痛苦與輪迴便自然止息。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

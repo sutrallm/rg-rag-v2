@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DESIREE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-desire is the internal condition through which true and lasting liberation manifests—freedom arises when there is no yearning for anything.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

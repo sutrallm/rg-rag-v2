@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO DE ZHIHUI</target_entity>
+    <relationship_description>Chanding provides the stable mental platform necessary for transcendent wisdom to arise, while wisdom deepens Chanding by dissolving attachments that otherwise disrupt concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

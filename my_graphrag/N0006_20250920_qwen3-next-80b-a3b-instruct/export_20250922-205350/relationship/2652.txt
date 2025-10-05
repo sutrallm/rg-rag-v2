@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANGWU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Changwu (impermanence) and Wuwo (non-self) are mutually reinforcing insights: because all things change, there is no permanent, independent self to be found.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

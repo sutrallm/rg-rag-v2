@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YIN YUAN HE HE</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Yin yuan he he (conditioned arising) is the philosophical basis for wuwo guanzhao, as it explains why the “self” cannot be found as a fixed entity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

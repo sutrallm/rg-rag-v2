@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JI JIE</target_entity>
+    <relationship_description>Saintly Practitioners are defined by their perfect moral discipline, a core trait of their attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

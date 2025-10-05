@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不抗拒、不追逐</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>面对烦恼时采取不抗拒、不追逐的态度，只是如实地觉察，能使烦恼自然消融。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

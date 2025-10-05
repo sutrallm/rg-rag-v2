@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>The Four Foundations of Mindfulness practice helps to escape the cycle of samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

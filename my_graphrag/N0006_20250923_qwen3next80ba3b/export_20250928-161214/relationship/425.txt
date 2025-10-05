@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚痴</source_entity>
+    <target_entity>因缘观</target_entity>
+    <relationship_description>因缘观是破除愚痴、理解真相的关键方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

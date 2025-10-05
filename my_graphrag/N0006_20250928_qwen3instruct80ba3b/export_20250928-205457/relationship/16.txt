@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Through Chan Ding, the mind achieves inner stillness and freedom from agitation caused by craving and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

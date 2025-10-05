@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUAN HUO</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Only through persistent Jingjin can one break free from the cycle of Quan Huo, as laziness perpetuates ignorance and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者应时刻保持正念，觉知四念处，不随外境流转，以维持内心安稳。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

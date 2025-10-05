@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>LOCATIONS</target_entity>
+    <relationship_description>Geographical locations present in original text may be deleted as part of processing requirements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

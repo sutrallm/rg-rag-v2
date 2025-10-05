@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER STILLNESS</source_entity>
+    <target_entity>ETHICAL CONDUCT</target_entity>
+    <relationship_description>Inner stillness is both the result and support of ethical conduct, creating mutual reinforcement in spiritual development.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

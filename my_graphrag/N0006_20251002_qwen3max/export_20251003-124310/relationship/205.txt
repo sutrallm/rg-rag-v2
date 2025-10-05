@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>放逸會導致心散亂，妨礙禪定的修習，修行者需放下放逸以進入禪定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

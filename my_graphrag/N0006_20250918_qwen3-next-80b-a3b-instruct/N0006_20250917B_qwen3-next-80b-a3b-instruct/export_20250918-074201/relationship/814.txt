@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NATURE_OF_MIND</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom arises when one directly perceives the true nature of mind—its inherent emptiness and completeness—beyond conceptual elaboration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

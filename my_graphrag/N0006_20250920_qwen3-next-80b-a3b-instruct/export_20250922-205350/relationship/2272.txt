@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>不精進則心被無明與貪欲控制，必落入生死輪迴；精進是出離輪迴的關鍵力量。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

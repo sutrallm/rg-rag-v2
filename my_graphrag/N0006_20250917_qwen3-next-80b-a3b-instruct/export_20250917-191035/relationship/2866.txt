@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUZHIZHUO</target_entity>
+    <relationship_description>Non-self observation is the method through which one cultivates transcending attachment—seeing the self as illusion leads directly to non-clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

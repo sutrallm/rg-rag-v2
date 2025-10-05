@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>TRANSCENDING SUFFERING</target_entity>
+    <relationship_description>SAGE achieves TRANSCENDING SUFFERING through the complete cessation of afflictions and direct wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

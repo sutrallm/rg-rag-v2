@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-Self</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realizing non-self is the direct insight that dismantles ego-clinging, leading to Nirvana—the end of identification with aggregates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

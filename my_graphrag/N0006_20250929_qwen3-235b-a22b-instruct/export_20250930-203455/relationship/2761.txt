@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅观</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>禅观的每一阶段皆需正念分明，觉知是禅观修习的核心能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

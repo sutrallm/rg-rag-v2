@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>TRANSCENDENTWisdom</target_entity>
+    <relationship_description>Observing the mind continuously in daily life cultivates insight into impermanence and non-self, the foundation of transcendent wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

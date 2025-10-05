@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAGES</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Only those who have fully embodied non-attachment can attain the stage of sages — free from craving, aversion, and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

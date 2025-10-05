@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE</source_entity>
+    <target_entity>ALL BEINGS</target_entity>
+    <relationship_description>The virtue of practitioners is respected by all beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

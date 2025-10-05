@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE</source_entity>
+    <target_entity>MINDDFULNESS</target_entity>
+    <relationship_description>Practice is the sustained application of mindfulness in all daily activities, making mindfulness the vehicle of spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

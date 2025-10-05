@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学 (THREE TRAININGS)</source_entity>
+    <target_entity>戒律 (ETHICAL CONDUCT)</target_entity>
+    <relationship_description>The Three Trainings include ethical conduct as its first and foundational component.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

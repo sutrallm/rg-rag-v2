@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>发慧</target_entity>
+    <relationship_description>三学中的发慧是最终目标，通过持戒与修定的积累，以智慧破除无明，达成解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

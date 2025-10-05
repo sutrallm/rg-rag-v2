@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGIN</source_entity>
+    <target_entity>HUAI</target_entity>
+    <relationship_description>Shengin (the saint) has completely uprooted huai (delusion), having transcended all false views of self and permanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

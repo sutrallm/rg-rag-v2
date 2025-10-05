@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>观照的对象是五蕴，通过持续觉察其虚幻性以破除执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

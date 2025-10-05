@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SANSARA</target_entity>
+    <relationship_description>ATTACHMENT perpetuates the cycle of SANSARA by binding beings to rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

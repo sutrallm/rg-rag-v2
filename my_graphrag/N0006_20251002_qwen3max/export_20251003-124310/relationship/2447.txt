@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>世间福田</target_entity>
+    <relationship_description>具足戒定慧者堪为世间福田，因其德行与解脱境界值得恭敬供养。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

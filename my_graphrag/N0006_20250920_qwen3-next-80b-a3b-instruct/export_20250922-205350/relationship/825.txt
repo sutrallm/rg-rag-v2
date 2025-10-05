@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>RELEASING</target_entity>
+    <relationship_description>Saints represent the fully realized state of releasing — they have let go of all conceptual clinging, including notions of self and attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

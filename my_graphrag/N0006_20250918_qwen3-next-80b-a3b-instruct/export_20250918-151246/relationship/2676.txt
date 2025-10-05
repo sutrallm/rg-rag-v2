@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Chaoshi, the wisdom that sees all phenomena as ungraspable, is the direct path to Jiede (liberation) by dissolving attachment to even spiritual experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>PATH_OF_PRACTICE</target_entity>
+    <relationship_description>Chan Ding is one of the three essential components of the Path of Practice, forming the middle stage between ethics and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

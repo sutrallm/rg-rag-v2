@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_PRACTICE</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>True practice is defined by the continuous observation of impermanence in all phenomena as a path to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

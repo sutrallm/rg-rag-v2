@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净戒律</source_entity>
+    <target_entity>真实智慧</target_entity>
+    <relationship_description>清净戒律与真实智慧是圣者的两大根本特质，共同构成完整修行体系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

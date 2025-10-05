@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingjin sustains Chanding by preventing slackness and distraction, ensuring continuity of meditative focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

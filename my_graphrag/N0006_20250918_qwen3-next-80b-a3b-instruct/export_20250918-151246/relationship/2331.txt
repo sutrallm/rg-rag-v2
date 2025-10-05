@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MASTERY OF MIND</target_entity>
+    <relationship_description>Chanding is the practice through which mastery of mind is cultivated—enabling one to remain unmoved by distractions and mental fluctuations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

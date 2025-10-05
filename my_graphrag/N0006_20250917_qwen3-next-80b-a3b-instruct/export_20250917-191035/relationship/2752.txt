@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Zhihui (wisdom) includes insight into Wu Wo (non-self), which is essential for transcending ego-clinging and achieving liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

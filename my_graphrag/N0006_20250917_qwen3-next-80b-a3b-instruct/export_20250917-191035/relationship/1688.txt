@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>INNER tranquility</target_entity>
+    <relationship_description>A Saint abides in Inner tranquility because they are no longer moved by external conditions or internal disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

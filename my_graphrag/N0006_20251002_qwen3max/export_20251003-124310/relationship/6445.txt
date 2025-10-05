@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫者</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>心解脫者的心已從一切執取中釋放，直接體現其與執著的斷離關係。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

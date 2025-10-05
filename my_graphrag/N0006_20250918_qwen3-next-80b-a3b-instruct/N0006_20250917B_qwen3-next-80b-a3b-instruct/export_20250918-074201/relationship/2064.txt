@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED BEING</source_entity>
+    <target_entity>EMPTY-MIND</target_entity>
+    <relationship_description>Awakened beings embody the empty-mind state—free from attachment, aversion, and conceptual proliferation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>生死</target_entity>
+    <relationship_description>煩惱是導致眾生輪迴生死的根本原因，斷盡煩惱則能超越生死束縛。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者依循戒定慧三學的次第修習，作為解脫之道的實踐框架。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

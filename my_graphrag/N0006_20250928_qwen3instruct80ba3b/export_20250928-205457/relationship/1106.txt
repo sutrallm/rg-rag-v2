@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYI GUANZHAO</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>Wuyi guanzhao focuses on the five aggregates as the object of contemplation to dissolve the illusion of self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

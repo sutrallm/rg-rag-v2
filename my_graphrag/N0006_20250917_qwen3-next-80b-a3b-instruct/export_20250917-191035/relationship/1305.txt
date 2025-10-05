@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>DISCIPLINE</target_entity>
+    <relationship_description>Enlightened beings embody perfect discipline, having cultivated ethical conduct and mental restraint over lifetimes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

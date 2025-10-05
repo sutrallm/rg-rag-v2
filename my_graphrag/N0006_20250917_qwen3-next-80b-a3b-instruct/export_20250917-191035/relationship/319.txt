@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True meditation (chanding) requires non-attachment even to meditative states, distinguishing authentic practice from spiritual attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

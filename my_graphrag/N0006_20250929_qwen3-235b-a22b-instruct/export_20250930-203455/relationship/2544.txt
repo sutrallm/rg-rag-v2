@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>禅修依循三学（戒定慧）循序渐进，缺一不可。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

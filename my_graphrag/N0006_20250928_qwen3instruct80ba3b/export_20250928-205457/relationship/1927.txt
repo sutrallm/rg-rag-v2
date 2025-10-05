@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YIN YUAN SHENG MIE</source_entity>
+    <target_entity>ZHENGLIAN</target_entity>
+    <relationship_description>Zhenlian is the correct understanding of Yin Yuan Sheng Mie — seeing all phenomena as dependently arisen and conditioned — which is the essence of right view.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

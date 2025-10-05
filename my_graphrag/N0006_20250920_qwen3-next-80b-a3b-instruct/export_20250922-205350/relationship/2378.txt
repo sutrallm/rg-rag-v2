@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU XING</source_entity>
+    <target_entity>GUANZHAO WUCHANG</target_entity>
+    <relationship_description>Wu xing (the five aggregates) are the objects of guanzhao wuchang — by observing their impermanent nature, one realizes the falsity of the self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

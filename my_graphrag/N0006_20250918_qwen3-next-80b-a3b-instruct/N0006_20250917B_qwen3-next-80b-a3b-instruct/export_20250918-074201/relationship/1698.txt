@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>當下</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>當下是修行的唯一場域，真正的修行不在未來或他處，而在當下的覺察中。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BIRD</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>The bird serves as a metaphor to illustrate the ideal focused state of the mind during meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

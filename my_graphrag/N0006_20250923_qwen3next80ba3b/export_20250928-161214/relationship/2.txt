@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>PROCESSING REQUIREMENTS</target_entity>
+    <relationship_description>The query specifies the processing requirements that must be applied to the original text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

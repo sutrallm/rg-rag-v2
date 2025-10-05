@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>正念实践者依四圣谛如实观察苦、集、灭、道，不随妄念流转。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

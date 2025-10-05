@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Sustained Zhengnian leads to Wuwo, as continuous observation reveals that no fixed “self” remains constant across experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>正语</target_entity>
+    <relationship_description>正语是八正道的第三支，指不说妄语、恶口、两舌、绮语，属于戒的范畴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

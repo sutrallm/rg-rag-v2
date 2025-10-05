@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法修行</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>Buddhist practice is fundamentally rooted in wisdom that sees beyond attachment; without this wisdom, practice is not authentic.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

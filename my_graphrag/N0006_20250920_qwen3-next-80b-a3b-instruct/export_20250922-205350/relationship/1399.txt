@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六尘</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定的目的是使心不随六尘动，不被外境扰动，从而达到内在安宁。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

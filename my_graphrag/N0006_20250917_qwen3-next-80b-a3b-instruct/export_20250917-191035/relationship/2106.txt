@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVERYDAY PRACTICE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Everyday practice is the lived expression of mindfulness, applying continuous awareness to routine activities as the practical path to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

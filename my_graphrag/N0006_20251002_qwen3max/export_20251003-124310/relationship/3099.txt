@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>神通感应</target_entity>
+    <relationship_description>正见使修行者不执着神通感应，避免因此偏离解脱正途。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

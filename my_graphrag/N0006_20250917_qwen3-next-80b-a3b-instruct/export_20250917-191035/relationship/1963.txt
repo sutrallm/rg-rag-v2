@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINED PRACTICE</source_entity>
+    <target_entity>CYCLIC EXISTENCE</target_entity>
+    <relationship_description>Only through disciplined practice can one break free from the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

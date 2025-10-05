@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Realizing impermanence leads directly to the insight of non-self, as nothing permanent can be identified as “I” or “mine.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

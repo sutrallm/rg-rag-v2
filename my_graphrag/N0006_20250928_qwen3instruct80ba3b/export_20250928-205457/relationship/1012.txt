@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Defilements arise at the point of contact between the six sense bases and their objects; observing these contacts is key to stopping the arising of craving.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

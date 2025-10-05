@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENEWED_CULTIVATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Renewed cultivation (effort) is the driving force that deepens and sustains chanding against the intrusion of烦恼 (defilements).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

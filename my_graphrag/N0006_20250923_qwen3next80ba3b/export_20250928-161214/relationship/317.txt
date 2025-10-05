@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSTRUCTION</source_entity>
+    <target_entity>METAPHOR</target_entity>
+    <relationship_description>The instruction directs the conversion of metaphors into direct doctrinal explanations as part of the processing workflow.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Insight into no-self undermines the basis of attachment, enabling non-attachment to arise naturally.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

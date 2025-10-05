@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Continuous diligent practice (Jingjin) is the essential method for achieving liberation (Jietuo), as it overcomes the cycle of rebirth by preventing懈怠 (laziness) that leads to craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

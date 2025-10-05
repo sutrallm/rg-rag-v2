@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STRAIGHTPATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Straight Path is the necessary practice leading to the ultimate goal of liberation from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

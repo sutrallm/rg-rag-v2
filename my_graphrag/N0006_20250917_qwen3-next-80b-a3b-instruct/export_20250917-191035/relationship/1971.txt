@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAINTLY QUALITIES</target_entity>
+    <relationship_description>Those who attain liberation naturally manifest saintly qualities such as purity, wisdom, and inner stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真正的寂靜</source_entity>
+    <target_entity>貪、瞋、癡</target_entity>
+    <relationship_description>真正的寂靜來自貪愛、瞋恚、愚癡的完全止息，此三毒斷除後心方得無動無擾。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>聖者已經徹底斷盡三毒，這是其作為解脫成就者的根本特徵。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

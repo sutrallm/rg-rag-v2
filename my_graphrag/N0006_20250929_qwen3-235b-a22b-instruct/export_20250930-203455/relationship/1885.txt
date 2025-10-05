@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>轻安是解脱过程中可自我验证的成就之一，心越轻安，越接近解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

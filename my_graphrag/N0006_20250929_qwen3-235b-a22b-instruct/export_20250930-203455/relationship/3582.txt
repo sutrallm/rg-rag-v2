@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>净化后的心识如镜，能如实照见诸法实相，即一切现象的真实本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

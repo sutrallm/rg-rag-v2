@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>SHENGHUI</target_entity>
+    <relationship_description>Zhengnian, when practiced deep enough, generates Shenghui — the wisdom that arises from observing impermanence and non-self in every moment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

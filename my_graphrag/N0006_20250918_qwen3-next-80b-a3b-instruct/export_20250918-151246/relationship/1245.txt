@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIZAI ZHUANHUA DE LILIANG</source_entity>
+    <target_entity>LING</target_entity>
+    <relationship_description>Inner transformation occurs through changing the mind's habits — altering perception, reactivity, and attachment patterns to end suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FREEDOM</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>自由源于不执着，不牵引任何境界，方能无挂碍、无恐惧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

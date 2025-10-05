@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>專注</target_entity>
+    <relationship_description>修行者透過持續修習專注，逐步克服放逸與煩惱，證得內在安定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

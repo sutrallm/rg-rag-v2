@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUXU DI</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Nirvana is the final goal realized through the sequential completion of the four stages.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

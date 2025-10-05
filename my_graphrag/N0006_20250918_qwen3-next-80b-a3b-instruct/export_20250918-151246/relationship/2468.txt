@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>死魔的网罗</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>死魔的网罗是懈怠的隐喻，而精进修行正是突破这一网罗的唯一方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

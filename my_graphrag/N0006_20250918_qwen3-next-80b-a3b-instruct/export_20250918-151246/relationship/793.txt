@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>INTERIOR LIBERATION</target_entity>
+    <relationship_description>Realizing no-self is the key insight that dissolves the illusion of a suffering “I,” leading directly to interior liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

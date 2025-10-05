@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>煩惱（貪、瞋、癡）導致心被控制，使人落入生死輪迴之中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

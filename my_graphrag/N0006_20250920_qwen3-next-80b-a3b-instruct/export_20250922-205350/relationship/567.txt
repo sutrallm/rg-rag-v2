@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>禅定的达成需要持续的精进努力，否则易被懈怠吞噬，二者是修行中相辅相成的实践要素。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHIYU</target_entity>
+    <relationship_description>Shengzhe embodies Chiyu (wisdom), having realized the true nature of reality — impermanence, non-self, and suffering — and transcended all delusions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

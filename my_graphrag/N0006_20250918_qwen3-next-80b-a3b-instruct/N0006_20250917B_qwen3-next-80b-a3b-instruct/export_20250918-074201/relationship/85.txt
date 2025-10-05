@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BAO HU LIU GEN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Guarding the six sense bases creates the conditions necessary for chanding — without it, sensory stimuli disturb concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

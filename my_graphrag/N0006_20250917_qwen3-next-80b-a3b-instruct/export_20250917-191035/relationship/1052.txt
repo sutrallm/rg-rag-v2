@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Sheli (non-attachment) is the behavioral manifestation of wuwo (non-self) — acting without clinging to “mine” or “I.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Nirvana cannot be realized while hatred persists; it necessitates the total extinction of aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

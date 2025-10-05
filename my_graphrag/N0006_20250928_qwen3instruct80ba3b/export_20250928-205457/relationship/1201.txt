@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT-VIEW</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Right-view provides the correct framework and motivation for practicing concentration; without it, concentration can become empty or misdirected.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

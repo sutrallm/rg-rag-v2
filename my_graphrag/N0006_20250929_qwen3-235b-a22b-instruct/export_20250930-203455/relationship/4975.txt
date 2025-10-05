@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无为法</source_entity>
+    <target_entity>放下执着</target_entity>
+    <relationship_description>无为法是放下执着后的自然显现状态，非刻意追求所得，二者是结果与前提的关系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

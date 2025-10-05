@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸行无常</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>一切有为法皆刹那生灭，认清此理可生起出离心，力求断尽生死之根。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

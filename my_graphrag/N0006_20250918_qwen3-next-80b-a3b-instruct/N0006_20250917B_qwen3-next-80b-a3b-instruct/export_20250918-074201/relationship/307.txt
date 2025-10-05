@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Xiuxin (mind cultivation) is the practical path leading directly to Jietuo (liberation), as it transforms consciousness through consistent inner awareness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

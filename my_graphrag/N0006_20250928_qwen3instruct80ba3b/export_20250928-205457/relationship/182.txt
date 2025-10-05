@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行路径</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是修行路径中收束妄心的核心实践，与戒、慧共同构成完整解脱之道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Insight into Non-Self is a critical path to achieving Liberation, as it dismantles the root of ego-based clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

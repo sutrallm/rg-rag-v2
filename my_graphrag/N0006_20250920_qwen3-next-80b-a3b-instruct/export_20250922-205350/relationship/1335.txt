@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>信心</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>信心是驱动精进修行的内在动力，缺乏信心则修行难以持久。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

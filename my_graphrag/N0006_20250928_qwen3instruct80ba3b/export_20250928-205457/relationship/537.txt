@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_LIFE_INTEGRATION</source_entity>
+    <target_entity>CHANGDING</target_entity>
+    <relationship_description>Daily life integration is the extension of changding into all activities, transforming everyday behavior into spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

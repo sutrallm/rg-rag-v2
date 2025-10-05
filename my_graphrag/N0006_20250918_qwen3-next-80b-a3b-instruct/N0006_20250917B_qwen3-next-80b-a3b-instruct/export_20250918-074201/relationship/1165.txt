@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>无我与空性是同一实相的两种表达：无我是从“主体”角度的洞察，空性是从“现象”角度的洞察。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

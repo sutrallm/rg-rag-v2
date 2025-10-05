@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SEA OF BIRTH AND DEATH</target_entity>
+    <relationship_description>LIBERATION transcends the SEA OF BIRTH AND DEATH cycle by ending the conditions for rebirth and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

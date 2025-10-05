@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>對無常的親身體證，是智慧的核心內容，是斷除執著與顛倒見的關鍵觀察。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

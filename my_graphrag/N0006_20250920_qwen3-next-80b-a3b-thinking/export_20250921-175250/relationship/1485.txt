@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>DILIGENCE prevents the DEATH DEMON from controlling practitioners by avoiding laxity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

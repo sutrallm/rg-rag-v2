@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Impermanence and no-self are core insights that mutually support each other: all things arise and cease conditionally, so there can be no fixed self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

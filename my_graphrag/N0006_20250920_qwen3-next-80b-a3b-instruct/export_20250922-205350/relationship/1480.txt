@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禪定建立在正念之上，正念是心念持續專注、安住的基礎，禪定是正念深化的結果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

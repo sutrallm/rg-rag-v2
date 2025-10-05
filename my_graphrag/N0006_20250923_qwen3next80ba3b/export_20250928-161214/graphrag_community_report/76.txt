@@ -1,0 +1,24 @@
+**Numbered Structure Requirements with Location and Person Exclusion and Doctrinal Clarity**  
+
+The requirements outline specific steps for processing content to ensure structural clarity, complete removal of prohibited elements, and precise doctrinal presentation. These steps include organizing content using numbered headings, eliminating all geographic and personal references, converting figurative language into direct doctrinal statements, preserving all religious teachings without omission, and removing concluding poetic verses. The process strictly adheres to plain language standards for clear communication.  
+
+**Numbered Headings for Structural Clarity**  
+Content must be organized using numbered headings to structure topics into clear sections following specified instructions.  
+
+**Removal of Geographic References**  
+All geographic locations must be entirely excluded from the processed output as required.  
+
+**Exclusion of Person References**  
+All individuals must be completely removed from the processed output per instructions.  
+
+**Transformation of Figurative Language**  
+Metaphorical expressions and dialogues are converted into direct doctrinal statements to ensure clarity.  
+
+**Complete Preservation of Religious Teachings**  
+All religious teachings must be maintained in full detail without omission or simplification.  
+
+**Elimination of Concluding Verses**  
+Poetic concluding sections are removed from the processed output.  
+
+**Plain Language for Clarity**  
+Communication must adhere to simple, precise style for clear idea expression.

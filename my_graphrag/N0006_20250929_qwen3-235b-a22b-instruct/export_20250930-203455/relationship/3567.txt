@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>通过观无我破除我执，可获得心解脱，不执着于任何境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

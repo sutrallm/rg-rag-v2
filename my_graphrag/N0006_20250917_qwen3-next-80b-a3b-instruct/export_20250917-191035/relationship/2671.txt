@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪嗔痴</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>貪嗔痴是導致放逸的根本原因，放逸則是貪嗔痴顯現的行為狀態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

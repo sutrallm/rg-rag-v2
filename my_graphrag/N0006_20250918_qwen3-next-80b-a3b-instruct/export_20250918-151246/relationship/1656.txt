@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHÌHUÌ</source_entity>
+    <target_entity>WÚWÓ Yǔ KŌNGXÌNG</target_entity>
+    <relationship_description>Zhihui is the direct insight into non-self and emptiness — they are conceptually identical, as wisdom is the realization of emptiness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

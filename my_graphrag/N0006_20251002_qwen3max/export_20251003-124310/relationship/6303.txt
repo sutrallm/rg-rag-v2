@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧圆满者</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>戒定慧圆满者能断除贪、瞋、痴等根本烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

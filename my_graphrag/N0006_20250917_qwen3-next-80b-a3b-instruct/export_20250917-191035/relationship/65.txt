@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Greed disturbs inner peace; its removal is necessary for tranquil mental states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

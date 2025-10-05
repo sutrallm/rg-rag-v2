@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION_AND_INTELLIGENCE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Only through the balanced development of concentration and wisdom can one cultivate true non-attachment—not through suppression, but through insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

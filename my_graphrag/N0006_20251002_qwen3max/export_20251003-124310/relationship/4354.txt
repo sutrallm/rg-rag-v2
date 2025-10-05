@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>魔境</target_entity>
+    <relationship_description>若跳过修行次第而急于追求高深境界，修行者容易落入魔境，因此依循次第可避免此障碍。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

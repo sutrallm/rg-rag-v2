@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEMING_SANXUE</target_entity>
+    <relationship_description>Chanding is the second component of the Jieming Sanxue structure, whose purpose is to progressively lead to liberation through morality → concentration → wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

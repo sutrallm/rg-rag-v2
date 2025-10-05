@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jiede (liberation) is not a future state but an immediate realization of reality as it is—this realization is Niepan, experienced in the present moment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善恶二边</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者超越善恶二边，虽行善离恶却不执著，洞悉其缘起无自性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

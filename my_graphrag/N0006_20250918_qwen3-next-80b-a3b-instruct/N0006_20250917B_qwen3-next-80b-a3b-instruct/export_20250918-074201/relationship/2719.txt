@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出離</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>出離是通往解脫的關鍵態度，真正的出離體現於內心不執著，是解脫的外在表現與內在準備。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSONAL EFFORT</source_entity>
+    <target_entity>REALIZATION</target_entity>
+    <relationship_description>Consistent personal effort is the necessary foundation for true realization to arise, as passive understanding cannot replace embodied awakening.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

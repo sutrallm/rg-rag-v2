@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>緣起性空</target_entity>
+    <relationship_description>五蘊是緣起性空理論的具體觀照對象，其無自性正是性空的體現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

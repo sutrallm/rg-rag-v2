@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>缘起法说明苦并非偶然，而是由无明与贪爱等因缘条件所产生，具有可被断除的逻辑。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>杂念</target_entity>
+    <relationship_description>禅修旨在调伏心念，防止杂念干扰，通过正念守护保持专注。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

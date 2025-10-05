@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGIN OF SUFFERING TRUTH</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>CRAVING is identified as the fundamental root cause of suffering in the Origin of Suffering Truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

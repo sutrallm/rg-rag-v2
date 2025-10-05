@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BIRD</source_entity>
+    <target_entity>FOREST</target_entity>
+    <relationship_description>The bird metaphorically represents the mind's focused devotion to a single object, its forest, symbolizing undistracted attention in practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

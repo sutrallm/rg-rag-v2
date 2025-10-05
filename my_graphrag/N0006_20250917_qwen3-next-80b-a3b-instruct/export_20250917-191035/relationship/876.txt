@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom — the direct insight into impermanence, non-self, and suffering — is the essential factor that leads to liberation from the cycle of samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

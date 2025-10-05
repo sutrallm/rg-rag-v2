@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WULI</target_entity>
+    <relationship_description>Zheng Nian is the third of the five spiritual faculties, essential for maintaining continuous awareness in all activities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

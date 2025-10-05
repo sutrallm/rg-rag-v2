@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ABIDING MIND</source_entity>
+    <target_entity>BREAKING ATTACHMENT</target_entity>
+    <relationship_description>NON-ABIDING MIND practice directly cultivates BREAKING ATTACHMENT by not clinging to any phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

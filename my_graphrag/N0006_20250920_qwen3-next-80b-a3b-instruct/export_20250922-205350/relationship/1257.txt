@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Fo Tu is the teacher who transmitted Zhensheng nian as the essential method for inner awakening and liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

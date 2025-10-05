@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>EGO VIEW</target_entity>
+    <relationship_description>The ego view arises from mistakenly clinging to the five aggregates as a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI PINGDENGXIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Saintly beings naturally express loving-kindness and equal-mindedness as a manifestation of their wisdom; compassion arises spontaneously when ego-attachment is dissolved.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

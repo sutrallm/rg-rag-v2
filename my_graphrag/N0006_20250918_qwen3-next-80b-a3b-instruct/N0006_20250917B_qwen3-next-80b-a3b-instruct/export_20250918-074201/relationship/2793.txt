@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QING JING JIE XING</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Sheng Zhe must possess Qing Jing Jie Xing as a foundational quality to be considered truly liberated and free from defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

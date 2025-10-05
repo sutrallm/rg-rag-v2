@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉</source_entity>
+    <target_entity>修行障碍</target_entity>
+    <relationship_description>警觉是对治懈怠、散乱、昏沉、掉举等修行障碍的关键心理状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

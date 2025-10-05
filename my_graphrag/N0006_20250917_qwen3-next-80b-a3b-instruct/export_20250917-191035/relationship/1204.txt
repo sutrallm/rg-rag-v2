@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENGHUI</target_entity>
+    <relationship_description>Chanding, when cultivated properly, leads to Shenghui — the wisdom that sees phenomena as impermanent and selfless, preventing attachment to meditative states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

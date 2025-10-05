@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲望</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>五欲是欲望的具体表现形式，修行者需舍离对五欲的贪爱以获得自由。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

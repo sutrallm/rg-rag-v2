@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHAMO</target_entity>
+    <relationship_description>Without jingjin, one succumbs to the cycle of samsara through negligence and desire.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

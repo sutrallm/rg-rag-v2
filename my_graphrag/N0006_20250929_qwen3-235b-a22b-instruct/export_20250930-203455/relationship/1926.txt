@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>平等心</target_entity>
+    <relationship_description>修行者在顺逆境界中应保持平等心，这是日常修行成就道业的关键态度。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

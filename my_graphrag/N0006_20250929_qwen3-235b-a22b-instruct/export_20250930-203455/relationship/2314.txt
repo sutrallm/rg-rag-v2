@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>无明表现为误认无常为常，是认知颠倒的核心，需通过如实观察无常来破除。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

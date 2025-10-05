@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>我执通过智慧圆满断除，慧为究竟，能彻底断除无明，导向解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

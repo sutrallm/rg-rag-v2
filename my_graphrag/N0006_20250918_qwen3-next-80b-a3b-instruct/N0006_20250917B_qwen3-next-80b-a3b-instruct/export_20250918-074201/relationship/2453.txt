@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is the direct antidote to defilements, seeing through their false nature and uprooting them.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

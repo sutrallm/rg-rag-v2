@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>通过观照缘起，了知一切法无独立自性，从而证悟无我，缘起是通向无我的逻辑路径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

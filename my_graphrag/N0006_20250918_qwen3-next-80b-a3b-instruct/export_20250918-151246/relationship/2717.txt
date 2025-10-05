@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUO</source_entity>
+    <target_entity>KONG XU</target_entity>
+    <relationship_description>The state of transcending attachment is described as “mind like empty space” — a natural result of non-clinging wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

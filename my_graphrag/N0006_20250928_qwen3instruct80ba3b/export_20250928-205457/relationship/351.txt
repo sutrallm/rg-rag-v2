@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-EMANCIPATION</source_entity>
+    <target_entity>COMPASSIONATE ACTION</target_entity>
+    <relationship_description>After self-emancipation, compassionate action naturally flows from a liberated mind, without egoic motive.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

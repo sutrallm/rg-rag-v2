@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧之道</source_entity>
+    <target_entity>生死輪轉</target_entity>
+    <relationship_description>定慧之道的終極目標是超越生死輪轉，是對治輪迴的方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

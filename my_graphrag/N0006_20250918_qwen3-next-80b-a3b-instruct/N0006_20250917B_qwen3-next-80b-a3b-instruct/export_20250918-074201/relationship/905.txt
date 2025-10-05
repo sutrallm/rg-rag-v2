@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INVALIDATION_OF_SENSE_PLEASURE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Letting go of attachment to pleasure, even meditative joy, is essential to achieving liberation from all forms of clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

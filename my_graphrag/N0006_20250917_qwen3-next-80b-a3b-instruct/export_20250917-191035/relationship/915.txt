@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHIZHI</target_entity>
+    <relationship_description>A sage embodies zhizhi — the wisdom that sees the true nature of reality and remains free from attachment or aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

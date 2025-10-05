@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>貪欲是三毒之一，為禪定修行中的主要障礙，需透過智慧與正念斷除。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

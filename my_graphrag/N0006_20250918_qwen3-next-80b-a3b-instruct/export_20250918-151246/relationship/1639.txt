@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Chanding develops and deepens awareness, making it stable and continuous — awareness is both the method and the result of meditative concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

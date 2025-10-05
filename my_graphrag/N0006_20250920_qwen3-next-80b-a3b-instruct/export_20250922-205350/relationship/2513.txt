@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHE</source_entity>
+    <target_entity>JIEDINGHUI</target_entity>
+    <relationship_description>Chizhe is the wisdom component (the 'Hui' in Jiedinghui) that arises from proper meditation and observation, cutting through illusions and enabling liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

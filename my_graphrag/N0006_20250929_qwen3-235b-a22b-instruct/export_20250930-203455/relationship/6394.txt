@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行次第是从初发心到究竟解脱（涅槃）的阶段性路径，每一阶段为达成涅槃服务。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

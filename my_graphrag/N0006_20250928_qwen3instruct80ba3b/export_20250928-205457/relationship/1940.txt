@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>正定</target_entity>
+    <relationship_description>正定是八正道之一，是修习禅定的核心实践，与其他道支共同构成完整解脱系统。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

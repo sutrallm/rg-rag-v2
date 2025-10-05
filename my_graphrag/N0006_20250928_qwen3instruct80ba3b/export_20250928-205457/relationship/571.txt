@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-VIEW</source_entity>
+    <target_entity>CONDITIONAL ORIGIN</target_entity>
+    <relationship_description>Conditional origin reveals that all phenomena, including the sense of self, arise dependently — thus undermining the illusion of an independent self-view.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

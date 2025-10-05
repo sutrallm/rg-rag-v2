@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUMING</source_entity>
+    <target_entity>CHENG</target_entity>
+    <relationship_description>Wuming (ignorance) leads to Cheng (greed) by causing mistaken identification with transient phenomena as "mine."</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

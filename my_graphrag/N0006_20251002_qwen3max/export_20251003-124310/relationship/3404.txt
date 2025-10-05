@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>如实知见四圣谛是解脱之道，通过了知苦与灭苦之道，最终断尽烦恼证涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

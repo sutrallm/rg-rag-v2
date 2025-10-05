@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ELIMINATION OF AFFLICTIONS</source_entity>
+    <target_entity>ROOT OF BONDS</target_entity>
+    <relationship_description>Elimination of afflictions cuts off the root of bonds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

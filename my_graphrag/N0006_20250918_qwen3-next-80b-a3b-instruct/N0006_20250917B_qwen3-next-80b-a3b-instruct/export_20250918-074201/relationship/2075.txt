@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>WAICHANG</target_entity>
+    <relationship_description>Jiede (liberation) explicitly does not depend on waichang (external factors), but arises solely from internal transformation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

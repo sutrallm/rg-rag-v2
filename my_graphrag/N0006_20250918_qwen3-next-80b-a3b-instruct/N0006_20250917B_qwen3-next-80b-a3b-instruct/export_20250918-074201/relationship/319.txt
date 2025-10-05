@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>STABLE_MIND</target_entity>
+    <relationship_description>One who has achieved awakening possesses a mind that is unshakable, unaffected by pleasure or pain — the hallmark of a stable mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

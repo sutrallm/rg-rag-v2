@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUE XING</source_entity>
+    <target_entity>WANG NIAN</target_entity>
+    <relationship_description>Mindful awareness (Jue Xing) observes the arising and ceasing of deluded thoughts (Wang Nian) without attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

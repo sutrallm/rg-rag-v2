@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>精進作為解脫的根本條件，能幫助修行者避免落入生死輪迴的陷阱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

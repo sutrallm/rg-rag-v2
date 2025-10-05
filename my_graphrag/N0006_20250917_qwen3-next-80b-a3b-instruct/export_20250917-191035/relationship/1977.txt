@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDOLIGENCE</source_entity>
+    <target_entity>RENUNCIATION</target_entity>
+    <relationship_description>Indolgence prevents renunciation; one must overcome laziness to let go of worldly and spiritual attachments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

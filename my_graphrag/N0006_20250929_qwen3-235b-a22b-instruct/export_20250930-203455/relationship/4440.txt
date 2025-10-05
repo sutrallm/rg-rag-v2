@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>情绪</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>情绪波动常反映内心的执着，若修行者仍被情绪所牵动，说明尚未断除对自我或外境的执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

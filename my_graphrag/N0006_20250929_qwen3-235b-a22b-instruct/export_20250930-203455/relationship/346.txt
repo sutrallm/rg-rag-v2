@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>烦恼因误认五蕴为“我”或“我所”而生，如实观照五蕴可瓦解我执、断除烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

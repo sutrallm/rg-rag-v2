@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>貪</target_entity>
+    <relationship_description>禪定狀態能遠離貪的干擾，使心安詳平靜，不執取任何境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

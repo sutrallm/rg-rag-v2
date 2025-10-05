@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲樂</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>耽著欲樂會使心落入煩惱的掌控，是修行中需對治的障礙。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>NEGLECT</target_entity>
+    <relationship_description>Mindfulness helps avoid neglect through continuous present-moment awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

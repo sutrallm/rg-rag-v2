@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True meditative concentration (chanding) includes non-attachment to meditative states, preventing subtle clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

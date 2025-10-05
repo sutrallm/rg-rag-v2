@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>观照无常能破除对“我”、“我所”及禅境的执著，是断除烦恼的重要智慧基础。（注：此处“执著”未单独列为实体，关系转为与“烦恼”或“解脱”关联）</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

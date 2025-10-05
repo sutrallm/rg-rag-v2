@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRAITS OF THE SAINT</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>The described traits of the saint—freedom from desire, equanimity, and eradication of defilements—are the observable manifestations of true liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

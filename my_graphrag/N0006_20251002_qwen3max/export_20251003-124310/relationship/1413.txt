@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行者的终极目标是获得解脱，需通过戒定慧等修持逐步达成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

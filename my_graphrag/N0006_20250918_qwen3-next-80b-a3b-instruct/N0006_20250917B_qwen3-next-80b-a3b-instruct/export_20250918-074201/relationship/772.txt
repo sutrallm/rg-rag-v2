@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>精进是打破无明的直接力量，持续警觉能破除无知，防止沉溺于欲望与轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

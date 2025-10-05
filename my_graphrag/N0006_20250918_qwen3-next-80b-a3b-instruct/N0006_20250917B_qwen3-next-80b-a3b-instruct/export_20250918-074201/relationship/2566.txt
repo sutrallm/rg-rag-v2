@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Zhihui (wisdom) is the key that leads to jiede (liberation); seeing the true nature of reality dismantles ignorance and frees one from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

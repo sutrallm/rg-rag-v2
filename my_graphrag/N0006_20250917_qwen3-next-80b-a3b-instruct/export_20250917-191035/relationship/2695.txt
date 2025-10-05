@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO LIBERATION</source_entity>
+    <target_entity>SAINTLY QUALITIES</target_entity>
+    <relationship_description>Completing the threefold path of discipline, concentration, and wisdom results in the development of saintly qualities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

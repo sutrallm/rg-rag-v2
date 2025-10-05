@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>ZIXIN</target_entity>
+    <relationship_description>Niepan is realized through zixin—the awakening that true freedom is found not outside, but in the immediate awareness of the mind itself.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

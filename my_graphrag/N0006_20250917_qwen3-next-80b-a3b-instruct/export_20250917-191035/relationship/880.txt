@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Stillness is the result of sustained mindfulness, allowing the mind to settle into calm observation without agitation or reactivity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

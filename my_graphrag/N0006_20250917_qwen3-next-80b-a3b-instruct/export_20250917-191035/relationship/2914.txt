@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Shengzhe embody continuous jingjin, maintaining disciplined practice without sloth, which sustains their enlightened state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

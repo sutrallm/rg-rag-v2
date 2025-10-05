@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGREGATES</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Through mindfulness, one observes the five aggregates in real-time, recognizing their impermanent and selfless nature as part of daily practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

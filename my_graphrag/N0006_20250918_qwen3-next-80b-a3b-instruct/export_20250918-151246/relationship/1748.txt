@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENOUGH</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Enthusiastic effort is necessary to maintain and deepen chanding, preventing the mind from lapsing into laziness or distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

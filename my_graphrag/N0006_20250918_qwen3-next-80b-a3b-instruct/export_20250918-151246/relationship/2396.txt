@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NINGPAN</source_entity>
+    <target_entity>WANGZHUO</target_entity>
+    <relationship_description>Ningpan is the state that results from the total dissolution of Wangzhuo, especially the clinging to "I" and "mine."</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

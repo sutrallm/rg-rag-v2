@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DOCTRINAL DETAILS</source_entity>
+    <target_entity>NUMBERED THEMES</target_entity>
+    <relationship_description>Doctrinal details are structured into numbered themes for organization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

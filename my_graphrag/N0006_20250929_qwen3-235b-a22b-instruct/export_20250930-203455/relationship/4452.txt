@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>正思维</target_entity>
+    <relationship_description>正见与正思维共同构成对治烦恼的基础，正见指导正思维，二者协同净化内心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

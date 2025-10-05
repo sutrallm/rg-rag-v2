@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuwo is realized by observing the Wuyun as impermanent and interdependent aggregates, revealing the absence of a permanent self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

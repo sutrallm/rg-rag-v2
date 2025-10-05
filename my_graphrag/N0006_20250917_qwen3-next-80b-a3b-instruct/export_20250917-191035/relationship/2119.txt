@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUDAO</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Zhihui is the liberating key on the path, described as “慧为钥匙,” which cuts the root of samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

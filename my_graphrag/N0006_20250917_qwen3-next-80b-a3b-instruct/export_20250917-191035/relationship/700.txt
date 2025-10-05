@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>瞋恚</target_entity>
+    <relationship_description>聖者已斷盡瞋恚，瞋恚的滅除體現其心的平靜與智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

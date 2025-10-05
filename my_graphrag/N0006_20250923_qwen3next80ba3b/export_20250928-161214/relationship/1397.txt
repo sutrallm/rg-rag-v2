@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>LIBERATION represents transcendence over the cycle of REBIRTH.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

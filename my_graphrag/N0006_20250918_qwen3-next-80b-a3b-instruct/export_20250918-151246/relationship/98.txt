@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是通向解脱的辅助方式，但解脱本身不是禅定的成果，而是放下所有执着后的自然显现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>文本说明戒定慧三学是通向涅槃的完整道路，而心解脱是烦恼止息后的状态，因此三学是实现心解脱的必要修行体系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

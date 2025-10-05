@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Seeing impermanence helps dissolve attachment, as clinging arises from the mistaken belief in permanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

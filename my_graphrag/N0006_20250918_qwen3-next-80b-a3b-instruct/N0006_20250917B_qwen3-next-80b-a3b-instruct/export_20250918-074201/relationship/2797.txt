@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QING XING</source_entity>
+    <target_entity>ZHI HUI</target_entity>
+    <relationship_description>Qing Xing leads directly to Zhi Hui by allowing phenomena to be seen clearly without distortion, leading to insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

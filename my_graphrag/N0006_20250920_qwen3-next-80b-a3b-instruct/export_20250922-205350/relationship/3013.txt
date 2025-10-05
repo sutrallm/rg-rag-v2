@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXTERNAL_RITUALS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>External rituals are not sufficient for chanding if inner purity is missing; true chanding is internal, not performative.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>定</target_entity>
+    <relationship_description>正念实践者修习禅定，作为连接戒与慧的枢纽，帮助其断尽烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

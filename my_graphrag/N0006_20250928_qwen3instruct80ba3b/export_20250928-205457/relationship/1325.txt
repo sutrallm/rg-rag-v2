@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIPONG</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Sipong serves as the motivating force behind Jingjin; the awareness of death's unpredictability drives relentless spiritual effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

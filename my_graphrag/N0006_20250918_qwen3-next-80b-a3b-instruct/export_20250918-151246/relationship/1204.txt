@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE_FIVE_SKANDHAS</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>The five aggregates are the components analyzed to realize non-self. Observing them as transient, conditioned, and selfless reveals the illusory nature of identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>INNER LIGHT</target_entity>
+    <relationship_description>A saint embodies an inner radiance that is the natural result of purifying the mind and eliminating defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

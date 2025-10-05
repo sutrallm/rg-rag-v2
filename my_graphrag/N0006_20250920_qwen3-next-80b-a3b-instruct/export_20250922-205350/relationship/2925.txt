@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>终极目标</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The ultimate goal of Buddhist practice is the attainment of nirvana—the complete cessation of suffering through eliminating ignorance and clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>无住无求</target_entity>
+    <relationship_description>真正的禅定以无住无求为态度，不执着境界、不追求感应，唯求如实知见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

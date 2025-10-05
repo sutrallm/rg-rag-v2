@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>一切法皆是因缘和合、生灭无常，因此执著任何境界都会成为束缚，因缘和合是破除执着的理论依据。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA_OBSERVATION</source_entity>
+    <target_entity>NON_ATTACHING_WISDOM</target_entity>
+    <relationship_description>Anatta observation is the method or insight that gives rise to non-attaching wisdom, enabling practitioners to see all phenomena as not-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

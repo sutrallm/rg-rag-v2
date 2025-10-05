@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingjin (diligence) is the driving force that sustains the practice of chanding, without which meditation cannot deepen or lead to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

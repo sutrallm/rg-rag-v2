@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ETHICAL_CONDUCT</target_entity>
+    <relationship_description>Wisdom and ethical conduct are described as inseparable; their union enables the observer to see the non-self nature of phenomena and cut afflictions at the root.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

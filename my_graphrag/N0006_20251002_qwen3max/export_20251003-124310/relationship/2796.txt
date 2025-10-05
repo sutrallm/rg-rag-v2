@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>智慧能徹見四聖諦，斷除三毒，是達成解脫的關鍵要素。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIVER OF BIRTH AND DEATH</source_entity>
+    <target_entity>SHORE OF NIRVANA</target_entity>
+    <relationship_description>Crossing the river of birth and death leads to the shore of nirvana, the ultimate goal of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

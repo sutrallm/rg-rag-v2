@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PURIFIED_MIND</target_entity>
+    <relationship_description>Practitioners cultivate a purified mind as a core goal of their spiritual practice in Buddhism.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

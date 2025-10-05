@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPERNATURAL_POWER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Supernatural powers can arise in meditation but must be transcended to avoid becoming obstacles to true liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定是培養智慧的基礎，而真正的智慧又能深化禪定，使其不執著境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

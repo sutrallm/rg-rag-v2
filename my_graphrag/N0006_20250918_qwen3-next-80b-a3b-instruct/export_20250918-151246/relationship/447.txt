@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANXUE</source_entity>
+    <target_entity>ZHIZHANG</target_entity>
+    <relationship_description>Zhizhang is the culmination of Sanxue — wisdom is the final and liberating component of the threefold training.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

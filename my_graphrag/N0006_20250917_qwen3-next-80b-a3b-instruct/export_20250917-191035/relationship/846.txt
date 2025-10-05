@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED ARISING</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Conditioned arising explains why all phenomena are impermanent—they depend on causes and conditions that are themselves impermanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

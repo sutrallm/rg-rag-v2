@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天人</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>天人雖福報深厚，但其內在的清淨與自在仍不及聖者，顯示聖者成就之殊勝。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>一心</source_entity>
+    <target_entity>初禪</target_entity>
+    <relationship_description>一心是初禪的禪支之一，貫穿四禪始終。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

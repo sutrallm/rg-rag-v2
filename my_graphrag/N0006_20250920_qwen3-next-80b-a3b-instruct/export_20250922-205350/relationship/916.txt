@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>KAN AI</target_entity>
+    <relationship_description>Ignorance (wu ming) gives rise to craving (kan ai), and craving reinforces ignorance, forming a cycle of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

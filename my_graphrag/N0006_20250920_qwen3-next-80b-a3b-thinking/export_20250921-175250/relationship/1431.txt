@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轉換格式</source_entity>
+    <target_entity>純法義陳述</target_entity>
+    <relationship_description>The conversion process emphasizes pure doctrinal statements in the final output format.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

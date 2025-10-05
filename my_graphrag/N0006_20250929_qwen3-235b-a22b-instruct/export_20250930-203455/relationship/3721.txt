@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>耐心与恒心</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>耐心与恒心是长期修行、最终达成解脱的必要品质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

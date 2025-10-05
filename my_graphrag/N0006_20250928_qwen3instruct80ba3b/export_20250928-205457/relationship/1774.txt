@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIELV</target_entity>
+    <relationship_description>The Shengzhe (enlightened sage) embodies perfect jielv (moral discipline), which is one of the qualities of their attainments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

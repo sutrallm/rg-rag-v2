@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常与无我互为印证：一切法无常，故无固定实体之“我”，二者是同一真理的两面。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

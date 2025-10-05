@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORGANIZATION</source_entity>
+    <target_entity>RETAIN_DOCTRINE_DETAILS</target_entity>
+    <relationship_description>The organization process requires retaining all doctrinal details.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

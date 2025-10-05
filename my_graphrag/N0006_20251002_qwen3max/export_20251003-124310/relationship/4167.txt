@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>圣者已断尽一切烦恼，超越生死之苦，彻底脱离生死轮回。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

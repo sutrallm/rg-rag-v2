@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死轮回</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>生死轮回因执着而持续，对“我”与“我所”的执取是轮回的根本动力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

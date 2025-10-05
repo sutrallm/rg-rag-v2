@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUANCHUFANNAO</source_entity>
+    <target_entity>TANYU</target_entity>
+    <relationship_description>Duan chu fan nao instructs practitioners to observe Tanyu (craving) as impermanent and selfless, thus causing it to dissolve naturally.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

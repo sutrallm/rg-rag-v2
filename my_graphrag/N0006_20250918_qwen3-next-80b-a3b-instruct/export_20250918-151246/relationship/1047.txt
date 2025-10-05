@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>A saintly being embodies perfected wisdom, having seen the true nature of reality and thus freed themselves from all afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

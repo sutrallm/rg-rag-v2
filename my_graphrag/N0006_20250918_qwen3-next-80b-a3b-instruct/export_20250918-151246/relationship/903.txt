@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者具足禅定能力，是其修行成就的体现之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

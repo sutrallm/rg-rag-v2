@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU_YUN</source_entity>
+    <target_entity>ANATTA_PATH</target_entity>
+    <relationship_description>The Anatta Path directly investigates the Wu Yun (five aggregates) to see that none constitute a permanent self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

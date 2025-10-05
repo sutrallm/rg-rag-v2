@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>聖者如實觀照五蘊的無常、無我，徹底不再執著五蘊為「我」或「我所」。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

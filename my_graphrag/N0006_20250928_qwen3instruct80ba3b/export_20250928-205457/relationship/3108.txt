@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realizing non-self is the core insight that severs the root of suffering, thereby enabling liberation from the cycle of birth, death, and distress.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行进度</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行进度可通过正念增强程度、觉知力提升等指标衡量。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>ATTACHMENT_TO_STATES</target_entity>
+    <relationship_description>Even the experiences gained in Chan Ding must not be clung to; attachment to meditative states impedes true liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

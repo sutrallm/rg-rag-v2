@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Greed is a primary cause that binds sentient beings to the cycle of rebirth, fueling desire and attachment that perpetuate samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

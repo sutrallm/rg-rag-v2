@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINED PRACTICE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Disciplined practice is the active means to overcome ignorance, which binds beings to suffering and samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

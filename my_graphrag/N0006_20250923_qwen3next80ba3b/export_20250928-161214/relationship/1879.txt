@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFY MIND</source_entity>
+    <target_entity>PURITY</target_entity>
+    <relationship_description>The process of purifying the mind leads to achieving a state of mental purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

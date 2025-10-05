@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOYUE ZHUZHUO</target_entity>
+    <relationship_description>The sage is characterized by non-attachment and non-clinging, demonstrating the full realization of transcending attachment as a key trait of enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

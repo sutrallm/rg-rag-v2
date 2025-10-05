@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIE</source_entity>
+    <target_entity>FREEDEOM</target_entity>
+    <relationship_description>True stillness is a manifestation of ultimate freedom — being untouched by external conditions is a sign of complete liberation from conditioning.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

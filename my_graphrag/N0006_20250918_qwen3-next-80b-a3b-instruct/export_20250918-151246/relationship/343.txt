@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT_WISDOM</source_entity>
+    <target_entity>AGONY_AND_PAIN</target_entity>
+    <relationship_description>True wisdom involves non-rejection of painful experiences, seeing them as impermanent phenomena to be observed without aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

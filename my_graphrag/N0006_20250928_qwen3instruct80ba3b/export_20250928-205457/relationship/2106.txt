@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHI</source_entity>
+    <target_entity>NIHUA</target_entity>
+    <relationship_description>Wuzhi includes non-attachment to the concept of Nirvana itself, warning against spiritual clinging even to the goal of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

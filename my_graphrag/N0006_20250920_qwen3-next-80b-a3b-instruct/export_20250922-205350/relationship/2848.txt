@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律與智慧形成修行的兩端，戒律淨化行為，智慧破除無明，二者的圓融是修行圓滿的體現。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

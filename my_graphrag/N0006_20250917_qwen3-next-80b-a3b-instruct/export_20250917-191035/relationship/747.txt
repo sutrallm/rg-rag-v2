@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG_HUI</source_entity>
+    <target_entity>WU_CHANG</target_entity>
+    <relationship_description>Transcendent wisdom involves directly seeing the impermanent nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE UNDERSTANDING</source_entity>
+    <target_entity>CONDITIONED PHENOMENA</target_entity>
+    <relationship_description>True understanding involves directly perceiving conditioned phenomena as they are.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

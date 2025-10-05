@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOLIE ZHUZHE</target_entity>
+    <relationship_description>Chanding serves as the foundation for transcending attachment; deep concentration allows one to observe phenomena without clinging to meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

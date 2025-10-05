@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX ROOTS PURITY</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>SIX ROOTS PURITY results in the emptiness of FIVE AGGREGATES, leading to the cessation of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

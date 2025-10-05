@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Through exertion in practice, one avoids being overwhelmed by delusion and ignorance, which lead to suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

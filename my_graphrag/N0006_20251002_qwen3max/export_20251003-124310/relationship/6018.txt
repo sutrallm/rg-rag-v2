@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>神通是修行中可能生起的殊胜体验之一，若对其生起贪着，即落入执着，非真正解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

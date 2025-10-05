@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Seeing the impermanence of all phenomena leads naturally to non-attachment, as one realizes nothing is worth clinging to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

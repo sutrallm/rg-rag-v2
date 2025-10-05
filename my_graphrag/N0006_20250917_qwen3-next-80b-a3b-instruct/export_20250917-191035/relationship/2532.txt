@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Recognizing impermanence naturally undermines attachment, making non-attachment a rational and experiential necessity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

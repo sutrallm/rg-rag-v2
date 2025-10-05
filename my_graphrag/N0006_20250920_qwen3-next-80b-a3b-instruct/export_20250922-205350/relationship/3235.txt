@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>须陀洹</source_entity>
+    <target_entity>斯陀含</target_entity>
+    <relationship_description>须陀洹、斯陀含、阿那含、阿罗汉构成修道四果的渐进次第，前果为后果的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

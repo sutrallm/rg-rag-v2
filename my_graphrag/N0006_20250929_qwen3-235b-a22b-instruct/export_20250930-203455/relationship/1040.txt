@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>来世福报</target_entity>
+    <relationship_description>修行者不应以来世福报为终极目标，而应追求彻底断除烦恼、证得涅槃。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

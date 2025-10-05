@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NINGPAN</source_entity>
+    <target_entity>CHAOGUO ZHUZHE</target_entity>
+    <relationship_description>Nirvana is only realized through the complete transcendence of attachment — non-clinging is the defining quality of ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

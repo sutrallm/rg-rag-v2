@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>烦恼源于执着，即对自我与外境的错误抓取，需通过无我观与智慧破除。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

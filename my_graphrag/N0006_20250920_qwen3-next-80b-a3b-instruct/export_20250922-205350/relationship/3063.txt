@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Chanding provides the stable mental foundation from which true wisdom arises to see the nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

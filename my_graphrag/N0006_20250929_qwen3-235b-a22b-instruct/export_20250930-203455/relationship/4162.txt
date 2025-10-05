@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正见是智慧的基础，确保智慧不堕入虚妄，依循缘起、无我、涅槃。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

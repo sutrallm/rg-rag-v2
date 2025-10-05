@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The threefold training of precepts, meditation, and wisdom is the precise path that leads to the realization of nirvana — they are the means to extinguish greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

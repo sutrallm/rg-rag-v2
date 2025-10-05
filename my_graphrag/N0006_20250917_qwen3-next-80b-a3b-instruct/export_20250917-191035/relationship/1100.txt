@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Right mindfulness is the method and foundation for cultivating chanding, making the two inseparable in practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENTONG</source_entity>
+    <target_entity>CHAZHUO</target_entity>
+    <relationship_description>Pursuit of supernatural powers often reinforces attachment and ego, thus deepening clinging rather than transcending it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

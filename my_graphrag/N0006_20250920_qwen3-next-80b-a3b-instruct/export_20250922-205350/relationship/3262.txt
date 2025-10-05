@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX_SENSE_BASES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Understanding the insubstantial nature of the six sense bases enables the mind to not cling to sensory experiences, leading directly to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

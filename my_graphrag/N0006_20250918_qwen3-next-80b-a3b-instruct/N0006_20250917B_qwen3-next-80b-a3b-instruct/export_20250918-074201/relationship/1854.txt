@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Chanding creates the mental clarity necessary to see through ignorance and recognize the true nature of phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion arises from the failure to see impermanence — mistaking fleeting phenomena as stable, leading to attachment and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

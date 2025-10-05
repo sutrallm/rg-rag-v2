@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念是禅定的核心实践，保持觉知不被外境牵引，是修习禅定的基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

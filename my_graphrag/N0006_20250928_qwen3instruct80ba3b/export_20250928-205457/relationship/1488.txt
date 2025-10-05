@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT WISDOM</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Insight wisdom directly uproots defilements (greed, hatred, delusion) by revealing their basis in false perception of permanence and self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

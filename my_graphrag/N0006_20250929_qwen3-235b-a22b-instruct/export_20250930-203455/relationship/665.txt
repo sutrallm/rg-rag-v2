@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>缘起性空</target_entity>
+    <relationship_description>涅槃是彻底洞察缘起性空的成就，破除我执，超越生死。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

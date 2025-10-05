@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Jingjin sustains the practice necessary to develop Zhineneg; continuous effort enables the deep observation of impermanence, suffering, and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

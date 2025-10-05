@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WEIHUZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wei hu zhi hui leads directly to the realization of wuwo — understanding non-self is the essence of transcending attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

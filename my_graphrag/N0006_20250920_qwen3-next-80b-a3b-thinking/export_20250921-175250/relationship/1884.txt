@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>ANANDA</target_entity>
+    <relationship_description>Buddha directly instructed Ananda on the nature of the five aggregates, ego view, and liberation during their teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

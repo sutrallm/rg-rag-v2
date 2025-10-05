@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Teachings instruct practitioners on how to develop Chan Ding through focused attention and mental discipline.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

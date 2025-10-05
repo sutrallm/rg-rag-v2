@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO GUANYUAN</source_entity>
+    <target_entity>ER SAN DU</target_entity>
+    <relationship_description>The root of afflictions is explicitly identified as the Three Poisons (greed, hatred, ignorance), making them the core constituent of this concept.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

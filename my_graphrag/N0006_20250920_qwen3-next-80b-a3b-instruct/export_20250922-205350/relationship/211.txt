@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PANYUAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Panyuan (attachment based on discrimination) arises from ignorance of wuwo; seeing through non-self directly dissolves discrimination and clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

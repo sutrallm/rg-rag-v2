@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGJIAN</source_entity>
+    <target_entity>ZHENGXING</target_entity>
+    <relationship_description>Zhengjian and zhengxing are interdependent: correct view guides ethical action, and ethical conduct reinforces correct understanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

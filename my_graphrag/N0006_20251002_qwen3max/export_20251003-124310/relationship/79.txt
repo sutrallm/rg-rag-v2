@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>萬法無常、苦、無我</target_entity>
+    <relationship_description>智慧透過禪修深入觀察而親證萬法無常、苦、無我的實相，此三法印為智慧所照見的核心內容。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

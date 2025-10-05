@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>By calming the mind, chanding reduces afflictions such as greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

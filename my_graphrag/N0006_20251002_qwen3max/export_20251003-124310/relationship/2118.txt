@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀照無常</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>觀照無常所生起的智慧能斷除煩惱的根本——執著，從而逐步消除煩惱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

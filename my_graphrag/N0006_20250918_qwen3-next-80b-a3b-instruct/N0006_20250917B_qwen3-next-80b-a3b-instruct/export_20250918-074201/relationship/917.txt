@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True liberation is only possible through constant, unbroken awareness of the present moment — the gateway to awakening.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

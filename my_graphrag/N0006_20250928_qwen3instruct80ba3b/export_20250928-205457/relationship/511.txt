@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>XINJIEDE</target_entity>
+    <relationship_description>Niepan is the direct expression of xinjiede—liberation of the mind through the extinction of defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QING JING JIE LV</source_entity>
+    <target_entity>WU LOU ZHI HUI</target_entity>
+    <relationship_description>Clear moral discipline creates the mental and ethical purity required for unblemished wisdom to arise.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>對治</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>煩惱的止息依賴正確的對治方法，如不淨觀、慈悲觀、緣起觀等。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Desire arises from and reinforces ignorance, together forming core obstacles to spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正定</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>正定作為中道實踐的核心，能導向照見四聖諦並證得涅槃寂靜。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

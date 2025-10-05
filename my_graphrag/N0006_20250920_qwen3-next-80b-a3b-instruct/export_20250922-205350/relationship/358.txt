@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CI_BEI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding leads to natural compassion; deep meditation reveals interconnectedness, motivating spontaneous care for others.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

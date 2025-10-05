@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>修行者无论顺逆境皆保持慈悲与平等心，体现真修行者的风范。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

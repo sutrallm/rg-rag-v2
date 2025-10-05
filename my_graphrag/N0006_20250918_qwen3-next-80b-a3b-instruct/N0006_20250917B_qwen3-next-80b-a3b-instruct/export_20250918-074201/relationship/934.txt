@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINJIEPUTUO</source_entity>
+    <target_entity>WUZHUI</target_entity>
+    <relationship_description>Xinjieputo (mental liberation) is the direct result of fully realizing Wuzhui (non-attachment), where one no longer clings to any state or outcome.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

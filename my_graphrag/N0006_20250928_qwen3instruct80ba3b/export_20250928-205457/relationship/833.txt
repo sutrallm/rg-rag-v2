@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>妄念</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是覺知妄念並使其自然消滅的方法，非壓抑而是觀照。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

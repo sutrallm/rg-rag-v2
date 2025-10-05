@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPURITY CONTEMPLATION</source_entity>
+    <target_entity>ROTTEN CORPSE</target_entity>
+    <relationship_description>The rotten corpse serves as a key metaphor in impurity contemplation practices to illustrate bodily decay.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

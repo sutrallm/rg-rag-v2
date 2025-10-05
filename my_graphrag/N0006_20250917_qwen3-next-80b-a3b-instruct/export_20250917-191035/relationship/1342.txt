@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念是进入和维持禅定状态的关键方法，日常中的持续觉知有助于深化禅定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

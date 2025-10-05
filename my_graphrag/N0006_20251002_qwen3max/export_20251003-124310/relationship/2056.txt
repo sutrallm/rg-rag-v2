@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>禅定必须以正见为基础，缺乏正见的禅定可能导致执著，阻碍解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

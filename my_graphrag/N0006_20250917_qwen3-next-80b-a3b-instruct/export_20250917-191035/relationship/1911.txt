@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法随法行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>法随法行包括以定摄心，禅定是依教奉行中不可或缺的实践环节。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

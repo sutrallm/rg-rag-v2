@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>贪</target_entity>
+    <relationship_description>涅槃的达成意味着贪欲的彻底止息，贪是涅槃所要消除的根本障碍之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

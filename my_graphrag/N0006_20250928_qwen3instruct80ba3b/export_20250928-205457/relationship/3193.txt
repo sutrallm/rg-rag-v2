@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>FO</target_entity>
+    <relationship_description>Niepan is the goal the Fo awakened to and pointed toward; the Fo is not Nirvana itself, but the one who realized and taught it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

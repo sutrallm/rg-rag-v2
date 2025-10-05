@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUIET MIND</source_entity>
+    <target_entity>MOON</target_entity>
+    <relationship_description>A quiet mind reflects the clarity and stillness of the moon illuminating a calm surface.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

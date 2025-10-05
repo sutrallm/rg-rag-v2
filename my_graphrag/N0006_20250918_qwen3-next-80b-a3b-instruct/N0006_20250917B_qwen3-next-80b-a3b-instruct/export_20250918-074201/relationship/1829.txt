@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>ZHIDI</target_entity>
+    <relationship_description>Right mindfulness is the direct path through which true wisdom arises by observing phenomena as they are.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

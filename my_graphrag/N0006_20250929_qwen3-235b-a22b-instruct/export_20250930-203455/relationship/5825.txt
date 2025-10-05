@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>寂静是解脱状态的体现，代表无纷扰、无烦恼的终极安宁。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Wuwo (realization of no-self) is the key insight that directly causes the cessation of clinging, thereby leading to jietuo (liberation).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

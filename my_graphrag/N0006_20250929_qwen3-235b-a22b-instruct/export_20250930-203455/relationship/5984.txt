@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无我观通过观照五蕴生灭、皆空，破除“我”与“我所”的执着，是解脱的核心方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

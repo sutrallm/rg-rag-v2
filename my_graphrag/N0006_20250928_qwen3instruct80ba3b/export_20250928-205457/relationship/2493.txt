@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA_OBSERVATION</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>Anatta Observation is the practice of analyzing and insightfully seeing through the Five Aggregates as non-self and impermanent, forming the core contemplative method for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Attachment is a core manifestation of defilements such as greed and clinging, which bind beings to samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

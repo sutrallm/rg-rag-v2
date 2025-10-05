@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>智慧导向涅槃而非追求神通，神通非修行终极目标。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

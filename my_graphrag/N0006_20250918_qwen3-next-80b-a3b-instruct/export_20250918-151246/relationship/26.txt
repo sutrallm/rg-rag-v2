@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>MORAL DISCIPLINE</target_entity>
+    <relationship_description>Stages of saintliness include full cultivation of moral discipline, which enables the mind to remain stable and pure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

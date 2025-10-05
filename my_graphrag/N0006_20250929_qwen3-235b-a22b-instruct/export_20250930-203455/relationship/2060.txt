@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>佛陀教导对治嗔恚，作为烦恼根本之一，需以正见与正思维净化内心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

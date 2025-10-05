@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>The enlightened one exemplifies perfected diligence — their path is marked by unwavering, effortless effort rooted in wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

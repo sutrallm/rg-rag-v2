@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是戒定慧三學的最終目標，是貫穿修行次第的指引之眼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

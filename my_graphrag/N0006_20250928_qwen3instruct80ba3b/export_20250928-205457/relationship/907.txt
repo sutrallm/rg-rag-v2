@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>嗔是轮回中痛苦与对立的根源，阻碍解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

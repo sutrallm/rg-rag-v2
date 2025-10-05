@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>五盖</target_entity>
+    <relationship_description>五盖是禅修的主要障碍，若不及时对治，难入定。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

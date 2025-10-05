@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISENESS_BEYOND_ATTACHMENT</source_entity>
+    <target_entity>NO_SELF_OBSERVATION</target_entity>
+    <relationship_description>Wisdom beyond attachment arises from clear no-self observation; recognizing the absence of self eliminates clinging even to spiritual goals.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

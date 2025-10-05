@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDING_ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>超越执着的智慧是实现解脱的本质，只有不执著于境界与果报，才能达到究竟自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

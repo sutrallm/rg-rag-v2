@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DEPENDENCE_ON_AUTHORITY</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>True insight is cultivated through personal, direct observation—not through adherence to authority or tradition—making this principle foundational to the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

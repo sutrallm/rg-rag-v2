@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIHUI</target_entity>
+    <relationship_description>Jihui depends on Chanding as its fuel; insight only becomes profound and liberating when grounded in deep concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

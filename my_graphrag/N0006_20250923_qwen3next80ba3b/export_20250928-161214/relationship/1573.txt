@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENDING VERSE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>ENDING VERSE should be deleted from the original text prior to final output.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

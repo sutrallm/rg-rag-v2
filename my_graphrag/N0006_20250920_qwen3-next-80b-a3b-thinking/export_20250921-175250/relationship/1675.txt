@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURITY</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Purity of mind directly contributes to inner peace as described in "获得内心的安定与清净".</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE WISDOM</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>True wisdom directly perceives emptiness as the "直接体证空性" in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

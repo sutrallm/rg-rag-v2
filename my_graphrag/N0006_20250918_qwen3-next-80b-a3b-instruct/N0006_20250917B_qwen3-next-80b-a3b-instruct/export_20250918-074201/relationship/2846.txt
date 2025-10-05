@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGYI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcendent wisdom (Shengyi) enables direct insight into the truth of non-self (Wuwo), the realization that all phenomena are without inherent identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

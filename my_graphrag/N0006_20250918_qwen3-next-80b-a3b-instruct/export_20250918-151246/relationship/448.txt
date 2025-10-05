@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANXUE</source_entity>
+    <target_entity>JIEXIE</target_entity>
+    <relationship_description>Sanxue is the structured path leading to Jiexie — the three trainings together produce complete liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

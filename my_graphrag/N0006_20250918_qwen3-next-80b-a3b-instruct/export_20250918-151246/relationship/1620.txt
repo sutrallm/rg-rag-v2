@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>Wuwo directly negates the basis of greed; if nothing is truly “mine,” the impulse to cling or desire diminishes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

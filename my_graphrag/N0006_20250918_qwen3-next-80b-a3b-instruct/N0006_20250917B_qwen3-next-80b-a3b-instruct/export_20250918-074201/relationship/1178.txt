@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHENG JIE</target_entity>
+    <relationship_description>The Shengzhe embodies the fully realized state of liberation; their qualities — eradicated defilements, unmoving tranquility — are the result of attaining enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

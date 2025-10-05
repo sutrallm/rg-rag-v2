@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_TO_LIBERATION</source_entity>
+    <target_entity>MORAL_DISCIPLINE</target_entity>
+    <relationship_description>Moral discipline is one of the four pillars of the path to liberation, forming its ethical foundation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

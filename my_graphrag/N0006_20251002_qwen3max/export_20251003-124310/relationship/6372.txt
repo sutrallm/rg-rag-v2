@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚痴</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>愚痴是烦恼的根本形式之一，指对缘起、无常、无我等实相的无知，导致贪欲与瞋恚生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NEYUAN</target_entity>
+    <relationship_description>Chanding, when coupled with wisdom, is a primary means to attain Neyuan by calming the mind and allowing insight into truth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

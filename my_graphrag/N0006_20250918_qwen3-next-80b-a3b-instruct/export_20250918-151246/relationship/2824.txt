@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Hatred and delusion are mutually reinforcing afflictions that hinder awakening.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

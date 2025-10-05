@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED PROCESSES</source_entity>
+    <target_entity>TRANSCENDENT WISDOM</target_entity>
+    <relationship_description>Transcendent wisdom involves seeing all phenomena as conditioned processes — arising and passing due to causes, without inherent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

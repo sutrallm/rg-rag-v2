@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>FATOU</target_entity>
+    <relationship_description>Jingjin (diligence) is the direct antidote to Fatou (slackness); without constant effort, one falls into ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

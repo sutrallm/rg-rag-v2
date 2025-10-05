@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>人</source_entity>
+    <target_entity>旷野</target_entity>
+    <relationship_description>人位于旷野中，遭遇凶兽。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>佛陀教导</target_entity>
+    <relationship_description>修行者遵循佛陀教导进行精进修行，以避免堕入死亡魔王掌控，是修行的实践主体。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

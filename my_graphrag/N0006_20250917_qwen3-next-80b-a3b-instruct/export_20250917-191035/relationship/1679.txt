@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Zhengnian (mindfulness) acts as the antidote to wu ming (ignorance), illuminating the true nature of phenomena and dissolving false perceptions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

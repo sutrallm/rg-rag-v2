@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHARACTER</source_entity>
+    <target_entity>STAGE OF THE SAGE</target_entity>
+    <relationship_description>The practitioner who fully cultivates discipline, concentration, and wisdom becomes the sage — the ideal realization of the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

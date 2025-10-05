@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者应持续修习正念，作为禅定与觉察的基础，是日常修行中保持内心清明的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

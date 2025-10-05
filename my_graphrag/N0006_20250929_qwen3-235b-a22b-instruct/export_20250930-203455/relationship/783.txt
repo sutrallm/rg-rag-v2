@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>终极目标</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行的终极目标是彻底断除烦恼、证得无我、圆满智慧，从而获得究竟安乐，永离轮回，即解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

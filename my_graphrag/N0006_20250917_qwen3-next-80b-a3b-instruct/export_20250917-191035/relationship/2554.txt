@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天人</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>天人虽地位崇高，仍对圣者的内在清净与自在生起敬仰，体现圣者超越性。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

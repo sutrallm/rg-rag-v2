@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常规范</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>日常规范如饮食作息的节制，是护持精进修行的基础，确保持久精进。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

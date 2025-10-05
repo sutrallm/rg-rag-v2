@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Chan Ding is a preparatory state that enables the arising of liberative wisdom through clear, stable awareness to observe reality as it is.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

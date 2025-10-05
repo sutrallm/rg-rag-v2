@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>煩惱源於心的動盪與執取，調伏心是斷除煩惱習氣的關鍵。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

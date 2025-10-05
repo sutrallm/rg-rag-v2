@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>舍离是通往涅槃的实践路径，涅槃是舍离究竟圆满后的状态——彻底无执、无挂碍。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

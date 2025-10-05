@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>清净戒行是禅定的基础，没有戒律的支撑，禅定难以稳固生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGY</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous effort (energy) is necessary to develop and maintain chanding, preventing regression into distraction and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

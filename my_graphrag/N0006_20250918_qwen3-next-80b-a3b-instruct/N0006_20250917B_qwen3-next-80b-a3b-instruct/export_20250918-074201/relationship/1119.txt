@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>戒行</target_entity>
+    <relationship_description>精進的修行建立在戒行的基礎之上，守戒能減少外緣干擾，使精進更有方向與力量。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

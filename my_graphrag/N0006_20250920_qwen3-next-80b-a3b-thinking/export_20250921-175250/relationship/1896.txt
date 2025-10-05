@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BLIND PERSON</source_entity>
+    <target_entity>DANGEROUS PATH</target_entity>
+    <relationship_description>A blind person walking on a dangerous path symbolizes the misleading consequences of clinging to false views.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

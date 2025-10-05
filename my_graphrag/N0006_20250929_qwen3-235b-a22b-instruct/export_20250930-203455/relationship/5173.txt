@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观身念处</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>观身念处是对治散乱的方法之一，通过观察身体感受使心念稳定。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

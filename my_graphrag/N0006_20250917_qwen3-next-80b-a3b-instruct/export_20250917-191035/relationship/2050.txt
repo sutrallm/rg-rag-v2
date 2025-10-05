@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Chanding facilitates insight into impermanence by calming the mind and allowing direct perception of changing phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

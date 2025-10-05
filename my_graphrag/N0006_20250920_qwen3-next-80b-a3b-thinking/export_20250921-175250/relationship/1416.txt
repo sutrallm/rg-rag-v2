@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>WORLDLY REALM</target_entity>
+    <relationship_description>Saints receive universal respect within the worldly realm.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

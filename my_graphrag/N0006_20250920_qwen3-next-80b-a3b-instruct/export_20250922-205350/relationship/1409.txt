@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Attachment arises from delusion — the mistaken belief in permanence and selfhood — and together they fuel suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我見</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>我見是輪迴再生的根本原因，執我則有業力牽引，不斷受生。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

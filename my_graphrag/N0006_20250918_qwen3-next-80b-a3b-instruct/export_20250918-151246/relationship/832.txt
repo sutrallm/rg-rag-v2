@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUQIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wuqiu describes the mature state of chanding where no striving or seeking remains—peace arises effortlessly from non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>對五蘊的錯誤執著生起我執與貪嗔癡，驅動業力與輪迴循環。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

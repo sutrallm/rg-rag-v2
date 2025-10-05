@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Mindfulness, when fully cultivated, reveals nirvana in the present — it dispels ignorance and allows the cessation of suffering to be directly experienced now.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

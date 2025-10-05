@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Realizing no-self enables one to transcend attachment, because if nothing is “I” or “mine,” there is no basis for clinging or rejection.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

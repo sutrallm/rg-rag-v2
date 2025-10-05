@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATIENCE</source_entity>
+    <target_entity>INNER TURMOIL</target_entity>
+    <relationship_description>PATIENCE dissipates INNER TURMOIL, allowing wisdom to naturally manifest like a clear moon.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

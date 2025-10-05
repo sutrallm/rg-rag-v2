@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SONG JIE</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Song Jie (liberation) is synonymous with Nièpán (Nirvana), as both refer to the immediate, non-conceptual realization of truth beyond clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

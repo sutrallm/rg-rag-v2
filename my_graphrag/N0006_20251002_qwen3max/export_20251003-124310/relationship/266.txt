@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒定慧三學</target_entity>
+    <relationship_description>修行者勤修戒定慧三學，以斷除煩惱種子，達成苦的止息。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

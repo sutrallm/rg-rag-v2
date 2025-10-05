@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NO SELF</target_entity>
+    <relationship_description>Understanding the insubstantial nature of FIVE AGGREGATES leads to realizing NO SELF.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧包含對無常的確切體認，是洞察實相的關鍵面向。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

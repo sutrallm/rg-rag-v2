@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION_AND_INTELLIGENCE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Concentration is the practice of chanding; intelligence arises through insight meditation that arises from a stable, concentrated mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

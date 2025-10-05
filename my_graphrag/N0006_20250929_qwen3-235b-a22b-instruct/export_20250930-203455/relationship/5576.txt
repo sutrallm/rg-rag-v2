@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持续精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>持续精进是维持禅定不退转、不断深化的必要条件，修行如逆水行舟，不进则退。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

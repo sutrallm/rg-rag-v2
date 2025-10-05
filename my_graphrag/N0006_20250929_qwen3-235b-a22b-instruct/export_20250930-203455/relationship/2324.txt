@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>精进修行是克服放逸的途径，唯有不放逸，才能避开生死轮回的束缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

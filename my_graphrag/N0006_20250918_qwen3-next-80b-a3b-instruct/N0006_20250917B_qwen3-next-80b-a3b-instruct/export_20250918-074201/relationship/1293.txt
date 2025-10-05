@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saintly beings have fully attained liberation: they are free from all afflictions and the cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

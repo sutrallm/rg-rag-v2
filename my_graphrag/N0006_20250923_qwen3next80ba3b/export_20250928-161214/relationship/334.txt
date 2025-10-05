@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXAMPLE_FORMAT</source_entity>
+    <target_entity>NUMBERED_TITLES</target_entity>
+    <relationship_description>The example format specifies the use of numbered titles for clear structural organization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

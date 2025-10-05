@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Non-attachment arises from realizing non-self, as there is no fixed entity to cling to when no self exists.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

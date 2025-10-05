@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>只有持續精進，才能脫離生死輪迴，最終實現解脫，二者為因果關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

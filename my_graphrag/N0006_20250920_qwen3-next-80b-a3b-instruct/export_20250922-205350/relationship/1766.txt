@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>XIUXIN CIDI</target_entity>
+    <relationship_description>Mindfulness is a continuous practice integrated into the threefold training, especially supporting concentration and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

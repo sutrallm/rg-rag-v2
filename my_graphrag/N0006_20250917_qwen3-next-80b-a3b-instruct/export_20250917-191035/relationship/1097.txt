@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>SAN SHENG</target_entity>
+    <relationship_description>Ignorance is the root cause of samsara—the cycle of suffering and rebirth—keeping beings trapped in endless existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

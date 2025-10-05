@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>修行误区</target_entity>
+    <relationship_description>修行误区会阻碍解脱进程，如追求神通或沉溺禅悦，真正的解脱需避免这些误区。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

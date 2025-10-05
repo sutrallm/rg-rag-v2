@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧与慈悲</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>智慧与慈悲的圆满是通往涅槃的究竟道路，二者缺一不可，共同成就解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

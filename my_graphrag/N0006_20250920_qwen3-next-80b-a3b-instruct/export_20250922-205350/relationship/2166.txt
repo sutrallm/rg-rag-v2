@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>念头</source_entity>
+    <target_entity>正念觉知</target_entity>
+    <relationship_description>正念觉知的核心实践之一即是观察念头的生灭，不随之流转。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

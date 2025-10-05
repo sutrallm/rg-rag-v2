@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是通向解脱的直接道路，唯有通过如实智慧，才能彻底断除无明与我见，达成解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

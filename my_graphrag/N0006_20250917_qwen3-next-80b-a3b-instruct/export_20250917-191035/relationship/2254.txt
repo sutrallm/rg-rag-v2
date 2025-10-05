@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAGE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The sage embodies perfected chanding, having fully stabilized mind and eliminated all defilements through it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

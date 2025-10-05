@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定是智慧生起的基础，静定的心才能如实观照万法实相，二者相辅相成，共成解脱之道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

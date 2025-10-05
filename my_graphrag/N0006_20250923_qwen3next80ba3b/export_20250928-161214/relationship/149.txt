@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>暗</target_entity>
+    <relationship_description>智慧的作用是破除无明之暗，形成直接对立关系</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

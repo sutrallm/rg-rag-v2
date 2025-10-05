@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>Realization of no-self leads to the cessation of greed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>驯马者</target_entity>
+    <relationship_description>禅修如驯马者以缰绳调伏烈马，比喻以正念与正知驯服散乱之心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIWANG</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Niepan entails transcendence of fear toward Siwang; realizing death as natural impermanence removes the bondage of existential dread.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>身见</source_entity>
+    <target_entity>证量</target_entity>
+    <relationship_description>身见是修行者在证量阶段需断除的烦恼之一，如断除身见、疑、戒禁取等。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

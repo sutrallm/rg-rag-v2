@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>无我观是获得智慧的关键实践，通过观五蕴皆空，如实照见实相，从而生起自然智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

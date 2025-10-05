@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER PURITY</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Inner purity eradicates afflictions by purifying the mind from defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

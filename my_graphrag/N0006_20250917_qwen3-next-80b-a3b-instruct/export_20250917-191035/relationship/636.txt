@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法修行</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>Effortful practice is a core component of Buddhist practice, which emphasizes consistent mindfulness and effort to eliminate mental defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

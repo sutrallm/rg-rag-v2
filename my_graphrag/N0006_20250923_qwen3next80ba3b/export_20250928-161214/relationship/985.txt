@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONSCIOUSNESS</source_entity>
+    <target_entity>CANDLE FLAME</target_entity>
+    <relationship_description>Candle flame metaphorically represents the unsteady state of consciousness</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

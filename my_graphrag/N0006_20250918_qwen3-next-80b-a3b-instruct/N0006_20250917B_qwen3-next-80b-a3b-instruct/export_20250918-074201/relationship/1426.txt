@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_PEACE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Inner peace is both a sign and a step toward full liberation, as the mind becomes free from agitation and craving.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

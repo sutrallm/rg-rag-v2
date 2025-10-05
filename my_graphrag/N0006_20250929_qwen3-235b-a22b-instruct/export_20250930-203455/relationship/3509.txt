@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>情绪</target_entity>
+    <relationship_description>真正的修行成果表现为在顺逆境中不被情绪左右。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

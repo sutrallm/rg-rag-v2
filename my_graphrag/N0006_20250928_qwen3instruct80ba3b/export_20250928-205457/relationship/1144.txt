@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔怒</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>嗔怒是三毒之一，根源在于执取与无明，破坏禅定与内心安宁。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

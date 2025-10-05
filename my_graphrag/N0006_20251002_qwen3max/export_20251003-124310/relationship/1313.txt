@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪瞋痴</source_entity>
+    <target_entity>內心轉化</target_entity>
+    <relationship_description>內心轉化的過程即在不斷淨化貪瞋痴，使人不再被其驅使。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Chanxiu is the method used to extinguish Wuming (ignorance) by observing the mind’s true nature, thereby uprooting the source of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

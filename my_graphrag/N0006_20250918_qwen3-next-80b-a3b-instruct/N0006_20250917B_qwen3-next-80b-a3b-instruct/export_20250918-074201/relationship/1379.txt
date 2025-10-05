@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者 (THE SAINTLY ONE)</source_entity>
+    <target_entity>真实智慧 (TRUE WISDOM)</target_entity>
+    <relationship_description>The saintly one has fully developed true wisdom, enabling them to see reality as it is without distortion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>持戒清净有助于降伏烦恼，为禅定与智慧的生起创造条件。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

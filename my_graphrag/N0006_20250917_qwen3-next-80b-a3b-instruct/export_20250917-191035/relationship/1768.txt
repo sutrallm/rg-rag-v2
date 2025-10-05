@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>RIGHT PRACTICE</target_entity>
+    <relationship_description>Saints embody the ideal outcome of sustained right practice in ethics, meditation, and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

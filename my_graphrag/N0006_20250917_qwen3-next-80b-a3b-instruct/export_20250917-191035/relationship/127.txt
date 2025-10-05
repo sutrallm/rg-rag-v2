@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sustained good practice is necessary to stabilize and deepen chanding, preventing regression due to laziness or distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

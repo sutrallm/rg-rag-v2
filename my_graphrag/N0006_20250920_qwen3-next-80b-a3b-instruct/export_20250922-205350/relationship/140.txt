@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Chanding arises from Jie, as moral discipline leads to mental calmness and stability necessary for concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

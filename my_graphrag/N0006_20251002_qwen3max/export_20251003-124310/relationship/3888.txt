@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>專注</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>專注是禪修的核心方法，透過將心安住於所緣促進禪定的深化與穩定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

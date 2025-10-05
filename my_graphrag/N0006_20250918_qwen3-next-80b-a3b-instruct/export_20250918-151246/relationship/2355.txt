@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chanding supports Chashi by creating mental stillness necessary to observe the impermanent, non-self nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

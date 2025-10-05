@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是实现真正解脱的关键，唯有了悟无常无我，不执任何境界，才能彻底自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

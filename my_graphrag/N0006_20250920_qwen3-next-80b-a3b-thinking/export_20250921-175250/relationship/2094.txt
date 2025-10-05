@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>RESULTS</target_entity>
+    <relationship_description>Non-attachment to results prevents clinging during the pursuit of enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

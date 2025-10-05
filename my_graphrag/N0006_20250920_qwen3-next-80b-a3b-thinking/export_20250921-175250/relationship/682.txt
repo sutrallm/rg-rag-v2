@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Observing ethical precepts is a foundational aspect of spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

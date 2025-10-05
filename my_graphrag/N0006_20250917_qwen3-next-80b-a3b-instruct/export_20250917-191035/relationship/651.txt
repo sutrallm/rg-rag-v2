@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness (zhennian) is the method through which meditative concentration (chanding) is cultivated and sustained, anchoring awareness in the present moment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

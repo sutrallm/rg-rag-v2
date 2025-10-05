@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE</source_entity>
+    <target_entity>MASTERY OF MIND</target_entity>
+    <relationship_description>Ethical behavior calms the conscience and reduces internal conflict, creating the mental clarity necessary for mastering the mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

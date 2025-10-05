@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom leads to non-attachment by revealing the emptiness of all phenomena; non-attachment is both the result and expression of wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

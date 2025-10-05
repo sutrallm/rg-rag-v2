@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELIVERANCE</target_entity>
+    <relationship_description>Saintly qualities are the manifestation of deliverance; those who embody these traits have achieved liberation and no longer suffer from samsaric bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

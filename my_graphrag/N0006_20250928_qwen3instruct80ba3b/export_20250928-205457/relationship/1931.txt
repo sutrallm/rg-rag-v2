@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正定</target_entity>
+    <relationship_description>“禅定”在这里作为整体修行目标，而“正定”是八正道中的具体实践方法，二者为同一修行维度的总体与组成部分关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

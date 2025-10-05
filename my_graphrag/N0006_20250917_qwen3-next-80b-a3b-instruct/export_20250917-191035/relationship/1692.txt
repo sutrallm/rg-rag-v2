@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-ESTABLISHED LIBERATION</source_entity>
+    <target_entity>WISENESS</target_entity>
+    <relationship_description>Self-established Liberation is achieved only through Wiseness — the direct insight into reality that enables letting go without reliance on external forces.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

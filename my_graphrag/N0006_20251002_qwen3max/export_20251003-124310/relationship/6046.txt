@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>戒定慧三學的圓融實踐能斷除煩惱根本，其中戒防非止惡、定攝心不亂、慧照見真相，共同對治煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

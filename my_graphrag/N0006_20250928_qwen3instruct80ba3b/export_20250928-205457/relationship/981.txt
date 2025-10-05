@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>无我观是四念处中观法无主的核心内容，四念处是实践无我观的具体方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

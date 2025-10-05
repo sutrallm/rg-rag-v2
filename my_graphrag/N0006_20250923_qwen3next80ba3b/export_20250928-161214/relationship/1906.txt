@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>FREE_FROM_AFFLICTIONS</target_entity>
+    <relationship_description>Complete renunciation leads to freedom from all mental afflictions and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

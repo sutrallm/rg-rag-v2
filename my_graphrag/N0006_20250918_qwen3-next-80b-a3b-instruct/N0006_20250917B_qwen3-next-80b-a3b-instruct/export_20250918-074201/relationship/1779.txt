@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saintly qualities are the characteristics of those who have attained liberation, having eradicated afflictions and transcended samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

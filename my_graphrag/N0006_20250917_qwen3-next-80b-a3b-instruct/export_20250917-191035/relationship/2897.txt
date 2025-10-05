@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Recognizing Impermanence is a critical insight leading to Liberation, as it undermines the foundation of all clinging and identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

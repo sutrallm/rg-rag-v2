@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_FREEDOM</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Inner freedom is synonymous with liberation, defined as the absence of dependence on external conditions or experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

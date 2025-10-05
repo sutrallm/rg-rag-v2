@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The query explicitly requests the original text content which is currently missing, preventing the translation process from proceeding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

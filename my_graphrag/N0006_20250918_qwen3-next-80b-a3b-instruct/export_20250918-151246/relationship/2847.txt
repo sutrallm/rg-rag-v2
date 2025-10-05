@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHRISTIAN MEDITATION</source_entity>
+    <target_entity>EFFORT</target_entity>
+    <relationship_description>精进是稳固禅定的前提，没有持续努力，禅定无法深入。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

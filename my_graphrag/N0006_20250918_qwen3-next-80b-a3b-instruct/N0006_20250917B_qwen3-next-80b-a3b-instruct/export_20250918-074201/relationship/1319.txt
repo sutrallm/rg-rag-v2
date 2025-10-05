@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>圣者是心解脱的实践者与体现者，其特质即为完全实现解脱状态之人。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

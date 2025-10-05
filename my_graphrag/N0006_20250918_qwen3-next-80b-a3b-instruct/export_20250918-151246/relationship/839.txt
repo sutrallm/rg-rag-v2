@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAN YAO</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Defilements (Fan Yao) such as greed, hatred, and delusion arise from ignorance (Wu Ming) and perpetuate suffering unless uprooted by wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

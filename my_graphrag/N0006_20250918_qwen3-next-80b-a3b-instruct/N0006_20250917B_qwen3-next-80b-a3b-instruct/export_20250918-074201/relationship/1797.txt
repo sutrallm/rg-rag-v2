@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Non-attachment (wuzhu) is grounded in the understanding of wuwo (non-self), as recognizing no inherent self reduces craving and attachment to phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

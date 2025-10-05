@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the ultimate expression and condition of true liberation—where there is no arising, ceasing, or movement of mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>戒律為身心提供穩定框架，支持正念的持續生起，使修行者能安住於當下。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

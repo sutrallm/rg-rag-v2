@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常与无我是佛教观照现实的两大核心真理，二者常并列提及，共同构成了超越执着的基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

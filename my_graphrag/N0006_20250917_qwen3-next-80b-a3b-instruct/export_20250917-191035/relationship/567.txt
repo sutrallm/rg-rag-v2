@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>GANCHENCHI</target_entity>
+    <relationship_description>Zhihui (wisdom) directly dismantles Ganchenchhi (greed, hatred, delusion) by revealing the illusion of self and permanence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

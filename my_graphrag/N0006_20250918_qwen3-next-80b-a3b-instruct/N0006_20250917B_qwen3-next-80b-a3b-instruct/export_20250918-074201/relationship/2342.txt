@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>INNER_DISTURBANCES</target_entity>
+    <relationship_description>Hatred is a form of inner disturbance that creates aversion and mental unrest.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

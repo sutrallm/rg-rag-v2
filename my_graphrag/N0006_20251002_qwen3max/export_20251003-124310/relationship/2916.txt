@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修成就者</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>禅修成就者能清楚觉察无我，因而不执着于禅境或成果，体现了对实相的如实知见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

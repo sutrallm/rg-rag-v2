@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正定是八正道的第八支，为修行的归宿与深化核心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

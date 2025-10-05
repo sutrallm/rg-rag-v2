@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJI</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Jingji (true stillness) is the experiential manifestation of wuzhu (non-abiding), where the mind remains unmoved regardless of surroundings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

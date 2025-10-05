@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SNAKE</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>ANGER is metaphorically represented as a SNAKE in the source text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

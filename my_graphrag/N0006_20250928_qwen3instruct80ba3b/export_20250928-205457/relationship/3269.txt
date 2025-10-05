@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGDAO XINGXIU</source_entity>
+    <target_entity>CHENGXIANG</target_entity>
+    <relationship_description>Zhongdao xingxiu explicitly avoids attachment to chengxiang (meditative signs), seeing them as distractions on the path to true liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

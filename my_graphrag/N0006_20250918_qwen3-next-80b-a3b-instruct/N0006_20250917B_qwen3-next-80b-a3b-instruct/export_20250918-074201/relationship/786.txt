@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ABIDING_MIND</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Non-abiding mind is the ultimate expression of perfected chanding—where not only calm is achieved, but attachment to any state is relinquished.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

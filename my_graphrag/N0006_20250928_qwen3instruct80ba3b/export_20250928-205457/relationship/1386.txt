@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHUGUAN</source_entity>
+    <target_entity>WUYIN</target_entity>
+    <relationship_description>Shuguan is the method used to observe and deconstruct the five aggregates, revealing their non-self nature.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

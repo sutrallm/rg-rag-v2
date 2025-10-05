@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHIZHIDI</target_entity>
+    <relationship_description>Chanding is the mental foundation that allows Wuzhizhidi — the insight into non-attachment and impermanence — to arise and be sustained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

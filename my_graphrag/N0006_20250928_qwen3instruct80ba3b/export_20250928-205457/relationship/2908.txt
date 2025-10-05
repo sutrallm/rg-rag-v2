@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the constant, everyday expression of Chanding, extending meditative focus into daily life rather than confining it to formal sitting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

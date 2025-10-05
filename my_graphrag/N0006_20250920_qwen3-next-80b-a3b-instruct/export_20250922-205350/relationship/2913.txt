@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>慧是直接通向解脫的工具，透過如實觀照無常、苦、無我，消除內心污染，自然得解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>日常实践是禅定在生活中的延伸，行住坐卧中觉知即为动态的禅定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

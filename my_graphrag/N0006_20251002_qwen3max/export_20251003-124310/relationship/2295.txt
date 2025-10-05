@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常行住坐卧</source_entity>
+    <target_entity>禅修的目标</target_entity>
+    <relationship_description>在日常行住坐卧中落实正念是实现禅修目标（断除烦恼）的具体实践方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

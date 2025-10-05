@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>观照无常</target_entity>
+    <relationship_description>观照无常是以无常为观察对象的修行实践，无常是其核心认知内容。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

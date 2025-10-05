@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINJINGHUA</source_entity>
+    <target_entity>CHAODUE</target_entity>
+    <relationship_description>Xinjinghua prepares the mind for chaodue by removing mental obstructions, allowing insight to arise clearly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

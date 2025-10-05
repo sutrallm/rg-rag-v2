@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定是生起智慧的基础，稳定的心能够如实观照真理，从而引发智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

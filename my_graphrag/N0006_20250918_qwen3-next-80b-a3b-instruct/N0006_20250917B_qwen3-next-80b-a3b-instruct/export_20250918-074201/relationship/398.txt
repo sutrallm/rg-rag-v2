@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行不在形式，而在心行</source_entity>
+    <target_entity>觉照</target_entity>
+    <relationship_description>“心行”即体现为日常中的持续觉照，故觉照是此概念的核心实践方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

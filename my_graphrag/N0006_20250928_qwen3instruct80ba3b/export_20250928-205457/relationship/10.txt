@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENSURED_FAITH</source_entity>
+    <target_entity>SELF_RELIANT_Liberation</target_entity>
+    <relationship_description>Ensured faith is the experiential basis for self-reliant liberation — one trusts the path only after personally experiencing its results.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

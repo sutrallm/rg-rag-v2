@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>通过无常观如实知见身心无常，修行者能放下执念，逐步趋向涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

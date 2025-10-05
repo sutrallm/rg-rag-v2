@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>SAINTS have perfected MEDITATION practice, maintaining unwavering mental stability and focus as part of their spiritual realization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

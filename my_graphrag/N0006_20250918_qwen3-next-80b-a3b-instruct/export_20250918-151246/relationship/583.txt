@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>The defining characteristic of a shengzhe is their possession of zhishi — direct insight into the true nature of reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

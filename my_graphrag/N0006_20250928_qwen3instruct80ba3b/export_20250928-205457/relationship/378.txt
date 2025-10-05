@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG LUJING</source_entity>
+    <target_entity>SHI KAI</target_entity>
+    <relationship_description>Jiefang lujing (path to liberation) is built upon Shi kai as its foundational element.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

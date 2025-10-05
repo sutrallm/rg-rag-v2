@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>结尾</source_entity>
+    <target_entity>偈颂</target_entity>
+    <relationship_description>Concluding part containing the gatha verses to be removed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>A saintly being has completely eradicated the three poisons—greed, hatred, and delusion—which are the primary obstacles to liberation and the source of all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Libertion arises when one fully accepts and internalizes the truth of impermanence, no longer resisting change or clinging to transient phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>菩提</target_entity>
+    <relationship_description>慈悲心是成就菩提的重要资粮，能软化刚强习气，促进觉悟。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

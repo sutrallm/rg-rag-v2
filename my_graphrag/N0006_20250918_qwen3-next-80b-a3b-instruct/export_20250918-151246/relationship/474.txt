@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REALIZATION_OF_NO_SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The realization of no-self is the key insight that leads directly to liberation—when the illusion of self is dissolved, clinging and suffering cease.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

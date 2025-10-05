@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Through deep chanding, one directly perceives the truth of wuwo—the absence of a permanent self—in the arising and passing of mental phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

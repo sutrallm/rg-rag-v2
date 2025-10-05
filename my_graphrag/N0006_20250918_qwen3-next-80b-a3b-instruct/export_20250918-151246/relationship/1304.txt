@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE_LIBERATION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Ultimate liberation is only possible when delusion is utterly annihilated by direct insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

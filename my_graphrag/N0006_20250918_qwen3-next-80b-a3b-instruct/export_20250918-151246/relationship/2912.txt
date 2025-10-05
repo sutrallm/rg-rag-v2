@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>YINYUAN HEHE</target_entity>
+    <relationship_description>Insight into non-self arises from understanding that all components of experience arise through interdependent conditioning, not independent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

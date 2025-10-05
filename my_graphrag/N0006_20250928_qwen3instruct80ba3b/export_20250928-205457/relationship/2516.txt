@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>精進修行是持續培育智慧的必要態度，無精進則智慧難以生長與深化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

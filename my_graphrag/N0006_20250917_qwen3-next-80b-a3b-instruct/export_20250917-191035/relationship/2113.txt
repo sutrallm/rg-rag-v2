@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>Wisdom leads to non-attachment; true insight into impermanence and emptiness naturally results in not seeking or clinging to experiences or states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

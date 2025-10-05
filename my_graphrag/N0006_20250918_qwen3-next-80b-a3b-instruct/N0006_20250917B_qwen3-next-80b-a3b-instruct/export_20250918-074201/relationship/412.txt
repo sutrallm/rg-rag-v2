@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARDSVIRTUE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Good conduct purifies the mind and creates favorable conditions for the development of wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

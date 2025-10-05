@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIANZHU DANGXIA</source_entity>
+    <target_entity>JINGJI</target_entity>
+    <relationship_description>Nianzhu dangxia (mindfulness in the present moment) is the practical means to realize Jingji (nirvana), as liberation is found not in the future but in this moment of pure awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>修行者应持续修习四念处，以此培育正念、觉察身心变化，不被烦恼牵引。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

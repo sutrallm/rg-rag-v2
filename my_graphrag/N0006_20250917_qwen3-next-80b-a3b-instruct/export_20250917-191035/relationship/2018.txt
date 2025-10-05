@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因緣生滅</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>因緣生滅的實相表明萬法無獨立自性，故無「我」，無我是因緣生滅的必然結論。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

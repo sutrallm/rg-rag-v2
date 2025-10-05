@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>LIFE-DEATH CYCLE</target_entity>
+    <relationship_description>Hatred generates negative karma and mental agitation, conditioning future rebirths in suffering states, and thus perpetuates the cycle.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

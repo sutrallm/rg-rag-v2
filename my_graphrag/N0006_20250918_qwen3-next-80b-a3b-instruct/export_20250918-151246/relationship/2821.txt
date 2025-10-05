@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT_TO_MEDITATIVE_STATES</source_entity>
+    <target_entity>LIBERATION_OF_MIND</target_entity>
+    <relationship_description>Attachment to meditative bliss obstructs true liberation, which requires non-attachment even to spiritual experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

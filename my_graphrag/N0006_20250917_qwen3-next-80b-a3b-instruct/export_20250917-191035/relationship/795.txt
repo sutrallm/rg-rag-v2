@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Saints are defined by the complete eradication of defilements such as greed, hatred, and delusion, which marks their enlightened state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

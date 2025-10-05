@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>五蕴无自性、无实体，是空性的具体显现，观照五蕴可体悟空性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

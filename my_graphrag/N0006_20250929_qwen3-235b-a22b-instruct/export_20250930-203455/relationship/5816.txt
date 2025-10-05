@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>掉举</source_entity>
+    <target_entity>修行障碍</target_entity>
+    <relationship_description>掉举是修行障碍之一，需通过修正念、观照当下等方法对治。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

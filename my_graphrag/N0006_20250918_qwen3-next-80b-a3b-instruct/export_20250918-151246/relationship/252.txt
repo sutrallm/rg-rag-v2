@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Chanding arises through the cultivation of mindfulness, which helps maintain focused awareness and distance from distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

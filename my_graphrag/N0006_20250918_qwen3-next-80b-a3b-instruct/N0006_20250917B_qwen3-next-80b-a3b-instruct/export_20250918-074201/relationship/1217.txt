@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Xiuxin is the practical manifestation of Zhengnian—daily life actions performed with continuous mindfulness constitute the essence of spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

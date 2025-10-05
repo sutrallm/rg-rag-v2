@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Realizing impermanence (wuchang) leads to the dissolution of clinging, which is central to liberation (jietuo).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

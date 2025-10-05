@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MOMENT AWAKENING</source_entity>
+    <target_entity>THREE MARKS OF EXISTENCE</target_entity>
+    <relationship_description>Present-moment awakening is the direct experience of the Three Marks—impermanence, suffering, and no-self—in current awareness, not in theory.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

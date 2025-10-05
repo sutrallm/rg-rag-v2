@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WARENESS_IN_DAILY_LIFE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True liberation is not found in exotic experiences, but in ordinary awareness; daily mindfulness is the direct path to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiulian (daily practice) is the practical manifestation of Chanding, applying mindfulness in ordinary activities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

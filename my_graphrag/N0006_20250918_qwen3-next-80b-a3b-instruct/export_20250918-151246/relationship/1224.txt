@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平静</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>真正的平静是涅槃的外在表现，内心不随外缘波动即是解脱的体验。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

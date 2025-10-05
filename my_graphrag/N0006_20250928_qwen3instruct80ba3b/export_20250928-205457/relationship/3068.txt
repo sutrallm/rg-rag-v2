@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Zhengnian involves observing the five aggregates (Wuyun) mindfully to see their impermanent and selfless nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

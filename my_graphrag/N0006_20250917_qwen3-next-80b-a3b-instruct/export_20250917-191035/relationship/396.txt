@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>SIKSA</target_entity>
+    <relationship_description>Moral discipline (siksa) is a foundational quality of saintly beings, enabling inner stillness and supporting the development of wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

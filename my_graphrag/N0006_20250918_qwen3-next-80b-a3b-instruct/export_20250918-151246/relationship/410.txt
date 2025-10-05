@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN RIGU</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>Everyday mindfulness is the accessible path through which liberation is gradually achieved, making enlightenment practical, not esoteric.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

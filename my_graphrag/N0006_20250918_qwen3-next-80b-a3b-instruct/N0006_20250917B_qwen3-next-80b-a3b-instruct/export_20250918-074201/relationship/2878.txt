@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANYUAN</source_entity>
+    <target_entity>SHENGSI LUNHUAI</target_entity>
+    <relationship_description>The entangling net of craving and aversion is what perpetuates the cycle of birth and death; thus, they are causally linked.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

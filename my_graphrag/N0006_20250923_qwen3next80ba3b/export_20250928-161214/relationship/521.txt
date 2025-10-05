@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is the direct result of overcoming Suffering through insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

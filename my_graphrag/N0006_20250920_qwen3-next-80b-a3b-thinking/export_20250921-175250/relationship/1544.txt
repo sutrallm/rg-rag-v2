@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNPLEASANT FEELINGS</source_entity>
+    <target_entity>TWO EXTREMES</target_entity>
+    <relationship_description>Clinging to unpleasant feelings is the other extreme that must be transcended for middle way wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

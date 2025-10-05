@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者 (SAINT)</source_entity>
+    <target_entity>无明 (IGNORANCE)</target_entity>
+    <relationship_description>Saints have completely uprooted ignorance, which is why they are unmoved by emotional fluctuations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

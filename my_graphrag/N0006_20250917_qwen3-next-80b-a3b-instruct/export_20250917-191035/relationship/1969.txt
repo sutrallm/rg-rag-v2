@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Understanding impermanence undermines attachment by revealing the futility of clinging to transient phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

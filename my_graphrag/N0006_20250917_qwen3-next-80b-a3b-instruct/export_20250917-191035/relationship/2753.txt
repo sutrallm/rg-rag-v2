@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>TAN AI</target_entity>
+    <relationship_description>Wu Ming (ignorance) is the root cause of Tan Ai (greed and attachment), as delusion leads to clinging to impermanent phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

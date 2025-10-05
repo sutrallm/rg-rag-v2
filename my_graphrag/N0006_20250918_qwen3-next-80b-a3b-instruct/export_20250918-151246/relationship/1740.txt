@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禅修包含正念的培养，正念是禅修过程中的基本心法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JUEXINGZHE</target_entity>
+    <relationship_description>Sheng Zhe and Jue Xing Zhe refer to the same ideal: the fully awakened person of perfect equanimity and freedom from attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

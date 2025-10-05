@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实相</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是对实相的直接体证，实相即诸法本空、缘起性空，是智慧的核心内容。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

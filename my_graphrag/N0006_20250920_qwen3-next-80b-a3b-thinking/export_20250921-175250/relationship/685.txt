@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIGILANCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Constant vigilance is required to attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

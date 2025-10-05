@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGYE</source_entity>
+    <target_entity>CHAOGUEIZHEZHII</target_entity>
+    <relationship_description>Enlightened beings embody transcendent wisdom, having let go of all attachments to spiritual achievements or states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

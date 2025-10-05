@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT_INTENTION</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Right intention fuels and directs Jingjin (diligent practice); knowing that greed, hatred, and delusion are causes of suffering motivates continuous, wise effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

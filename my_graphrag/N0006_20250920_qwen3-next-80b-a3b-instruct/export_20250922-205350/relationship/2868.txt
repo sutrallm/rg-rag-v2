@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>解脱的本质即是彻底断除我执，我执的消除是解脱实现的必要与充分条件。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

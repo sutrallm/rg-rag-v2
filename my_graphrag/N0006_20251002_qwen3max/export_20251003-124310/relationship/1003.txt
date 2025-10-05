@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>捨念清淨</source_entity>
+    <target_entity>四禪</target_entity>
+    <relationship_description>捨念清淨是四禪的核心特質，此時連樂也捨棄，達到不苦不樂的純粹平等心。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

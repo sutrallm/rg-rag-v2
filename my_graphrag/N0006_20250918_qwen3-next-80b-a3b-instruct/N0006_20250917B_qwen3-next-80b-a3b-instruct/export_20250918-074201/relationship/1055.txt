@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSE_OBJECTS</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Sense objects trigger attachment when perceived without mindfulness, forming the basis of craving and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

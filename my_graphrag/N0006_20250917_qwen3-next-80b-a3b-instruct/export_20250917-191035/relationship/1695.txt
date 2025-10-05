@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>SELF-ESTABLISHED LIBERATION</target_entity>
+    <relationship_description>Daily Practice is the living expression of Self-established Liberation — every mindful action is a step toward freedom through personal effort.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

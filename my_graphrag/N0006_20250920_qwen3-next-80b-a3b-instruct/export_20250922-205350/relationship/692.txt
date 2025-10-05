@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>MIND_PURITY</target_entity>
+    <relationship_description>Since the mind is the root of karma, purifying the mind stops the creation of harmful karma and leads directly to purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

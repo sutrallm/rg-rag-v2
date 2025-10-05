@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHI GUANZHAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Observing non-self deepens meditative concentration by removing the ego-driven distractions that confuse and agitate the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

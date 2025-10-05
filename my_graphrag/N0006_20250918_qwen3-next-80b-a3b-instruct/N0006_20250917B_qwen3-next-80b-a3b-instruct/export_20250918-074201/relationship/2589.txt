@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAZINESS</source_entity>
+    <target_entity>REBIRTH_CYCLE</target_entity>
+    <relationship_description>Laziness prevents spiritual progress, causing one to remain entangled in the cycle of birth and death due to lack of effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

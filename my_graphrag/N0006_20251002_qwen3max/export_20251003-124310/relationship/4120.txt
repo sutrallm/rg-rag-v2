@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>圣者具足清净戒行、深入禅定、通达智慧，三者圆满其身心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

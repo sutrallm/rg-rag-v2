@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUQIU</source_entity>
+    <target_entity>CHAOWUZHUO</target_entity>
+    <relationship_description>Wuqiu flows naturally from chaowuzhuo; when there is no attachment to outcomes, seeking dissolves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

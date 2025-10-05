@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-Self</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Suffering arises from mistaking the non-self as self; insight into non-self ends suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

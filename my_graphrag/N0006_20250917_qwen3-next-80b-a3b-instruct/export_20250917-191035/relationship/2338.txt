@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU-MING</source_entity>
+    <target_entity>SHENGZHI</target_entity>
+    <relationship_description>Shengzhi (transcendent wisdom) is the direct antidote to Wu-ming (ignorance), dissolving delusion through clear seeing of impermanence and non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

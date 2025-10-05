@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者已真正成就，不仅自己解脱，也为他人树立典范，是解脱果位的体现者。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

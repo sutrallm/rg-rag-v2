@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Realization of non-self is the key to liberation, as it dismantles the fundamental illusion of identity that causes suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

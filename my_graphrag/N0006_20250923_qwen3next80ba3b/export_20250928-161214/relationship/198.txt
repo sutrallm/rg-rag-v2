@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>德行</source_entity>
+    <target_entity>众生</target_entity>
+    <relationship_description>Virtue (德行) is revered by sentient beings (众生).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

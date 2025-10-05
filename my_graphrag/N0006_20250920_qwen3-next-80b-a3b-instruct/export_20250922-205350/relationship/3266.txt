@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAODUE</target_entity>
+    <relationship_description>Chanding (concentration) creates the stable mental platform necessary for chaodue (wisdom) to function; insight arises from a calm and focused mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

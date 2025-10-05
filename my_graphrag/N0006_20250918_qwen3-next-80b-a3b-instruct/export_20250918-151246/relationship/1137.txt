@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Meditative absorption (禅定) is deepened and completed by wisdom, which allows insight into the true nature of reality and prevents attachment to meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

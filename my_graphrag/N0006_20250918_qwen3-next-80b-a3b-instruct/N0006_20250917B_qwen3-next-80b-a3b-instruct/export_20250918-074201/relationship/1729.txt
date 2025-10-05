@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>佛陀的教法涵盖禅定的修习方法，是修行体系中不可或缺的部分。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

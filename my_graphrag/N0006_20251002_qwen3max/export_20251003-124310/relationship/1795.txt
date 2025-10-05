@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四禪</source_entity>
+    <target_entity>樂</target_entity>
+    <relationship_description>四禪階段樂受亦被超越，苦樂雙亡。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

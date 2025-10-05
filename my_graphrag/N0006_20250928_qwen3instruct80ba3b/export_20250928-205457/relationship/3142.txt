@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISENESS</source_entity>
+    <target_entity>NON-self</target_entity>
+    <relationship_description>Wisdom is the direct realization and experiential understanding of non-self; one cannot fully realize non-self without wisdom, and wisdom is complete only when non-self is fully seen.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧透過對五蘊無常、無我的觀照而生起，五蘊是智慧觀照的主要對象。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

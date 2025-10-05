@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四观</source_entity>
+    <target_entity>过用</target_entity>
+    <relationship_description>四观使用需避免过用，以恰到好处为宜。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

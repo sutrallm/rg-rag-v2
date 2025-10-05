@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>深入禅修是获得心解脱的重要途径，禅定为心解脱提供基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

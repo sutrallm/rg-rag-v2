@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>呼吸</source_entity>
+    <target_entity>修行障碍</target_entity>
+    <relationship_description>呼吸是调整身心、对治散乱、昏沉等修行障碍的重要工具。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

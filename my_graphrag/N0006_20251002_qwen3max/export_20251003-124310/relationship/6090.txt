@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>聖者具備深入禪定的內證境界，其心常安住於寂靜。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

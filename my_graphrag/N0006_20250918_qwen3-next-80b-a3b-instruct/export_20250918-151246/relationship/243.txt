@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CIBEI</target_entity>
+    <relationship_description>Shengzhe naturally manifest cibei because, having ended craving and aversion, they see all beings equally caught in suffering and respond with boundless compassion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

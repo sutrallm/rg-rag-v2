@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三法印</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫的唯一途徑是親證三法印，三法印為解脫的真理依據。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>唯有通过持续精进修行，才能真正掌握禅定的本质，二者是手段与目标的关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

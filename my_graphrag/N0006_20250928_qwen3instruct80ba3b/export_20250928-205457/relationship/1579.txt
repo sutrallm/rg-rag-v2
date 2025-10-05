@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom allows one to understand the root of suffering in attachment and ignorance, enabling its cessation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

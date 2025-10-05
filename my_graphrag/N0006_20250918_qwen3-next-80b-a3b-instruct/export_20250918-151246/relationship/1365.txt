@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Jing Jin (diligent effort) is required to sustain and deepen Chan Ding (meditative concentration); without effort, one cannot maintain focused mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

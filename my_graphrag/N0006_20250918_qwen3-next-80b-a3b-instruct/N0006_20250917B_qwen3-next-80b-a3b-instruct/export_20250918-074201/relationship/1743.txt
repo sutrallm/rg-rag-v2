@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Understanding non-self is one of the highest insights in Buddhism, leading to disidentification from the ego and a profound reduction in suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

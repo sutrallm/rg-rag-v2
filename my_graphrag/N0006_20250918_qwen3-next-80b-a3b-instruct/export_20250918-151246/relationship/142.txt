@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Attachment fuels the cycle of samsara by binding beings to desire and aversion, perpetuating rebirth and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

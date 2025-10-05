@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Transcendent wisdom directly leads to liberation by dissolving attachment to phenomena, including meditative experiences and the notion of self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

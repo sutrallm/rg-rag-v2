@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHUZHUO</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary to develop the wisdom required to transcend attachment and observe phenomena as impermanent and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

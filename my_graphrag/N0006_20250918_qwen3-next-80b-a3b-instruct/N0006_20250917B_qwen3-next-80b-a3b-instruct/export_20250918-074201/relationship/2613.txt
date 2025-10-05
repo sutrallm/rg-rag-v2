@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>怠惰</target_entity>
+    <relationship_description>Diligent practice is the antidote to laziness and mental sloth, actively overcoming this hindrance to progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

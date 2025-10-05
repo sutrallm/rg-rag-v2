@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENSHI JIEDE</source_entity>
+    <target_entity>NEYUAN</target_entity>
+    <relationship_description>Zhenshi jiede (true liberation) is synonymous with Neyuan—the state of being free from clinging, fear, and dependence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

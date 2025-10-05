@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROCK</source_entity>
+    <target_entity>DANGER</target_entity>
+    <relationship_description>ROCK represents stability in the face of DANGER.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

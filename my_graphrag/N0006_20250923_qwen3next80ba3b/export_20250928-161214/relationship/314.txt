@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSTRUCTION</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The instruction specifies the processing steps for the original text, which is currently missing as per the user's request.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

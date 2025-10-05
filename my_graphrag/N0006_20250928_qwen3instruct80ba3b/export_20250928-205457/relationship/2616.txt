@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUYU CHENJING</target_entity>
+    <relationship_description>Chanding enables one to remain unmoved by wuyu chenjing (the five desires and worldly objects), preventing the mind from being pulled into craving and distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

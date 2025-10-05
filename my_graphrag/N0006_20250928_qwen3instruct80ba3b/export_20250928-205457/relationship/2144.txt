@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUMING</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuming obscures the realization of Wuwo; overcoming ignorance is prerequisite to seeing non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

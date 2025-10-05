@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BULI WAIXIANG</source_entity>
+    <target_entity>WUZHIGZHIDI</target_entity>
+    <relationship_description>Buli waixiang (non-reliance on outer signs) is an expression of Wuzhi (non-attachment), meaning liberation is internal, not dependent on external rituals or places.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Understanding impermanence is a core component of wisdom that leads to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

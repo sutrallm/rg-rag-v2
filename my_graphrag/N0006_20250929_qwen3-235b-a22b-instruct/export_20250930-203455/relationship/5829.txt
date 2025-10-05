@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心暗角</source_entity>
+    <target_entity>杂念</target_entity>
+    <relationship_description>内心暗角是杂念藏匿之处，正念如灯可照亮之，使其无处藏身。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

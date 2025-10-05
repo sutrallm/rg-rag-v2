@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无我观是松脱轮回锁链的关键，直接导向解脱的实现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

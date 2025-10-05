@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FREEING放下</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>True freeing involves the ultimate form of non-attachment — letting go even of spiritual achievements and concepts of progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

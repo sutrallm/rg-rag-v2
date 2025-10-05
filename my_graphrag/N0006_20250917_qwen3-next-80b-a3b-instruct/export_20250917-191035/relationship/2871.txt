@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>FOJIAO</target_entity>
+    <relationship_description>The Buddha is the founder and central teacher of Buddhism, whose teachings are the source of all the practices and insights described.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

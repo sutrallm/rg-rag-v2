@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saintly individuals have fully overcome hatred, as it is one of the root defilements that inhibit inner peace and clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

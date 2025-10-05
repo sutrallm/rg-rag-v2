@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAZINESS</source_entity>
+    <target_entity>HARM</target_entity>
+    <relationship_description>LAZINESS causes HARM through careless behavior.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>REAL NATURE</target_entity>
+    <relationship_description>Zhengnian acts as the guiding light that clears mental obscurations, revealing the true nature of mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

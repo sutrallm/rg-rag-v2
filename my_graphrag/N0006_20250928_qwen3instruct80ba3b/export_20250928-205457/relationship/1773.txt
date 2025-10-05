@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Without chanding, zhishi is unstable and easily scattered, like a candle in the wind — both must be cultivated together for true insight to endure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

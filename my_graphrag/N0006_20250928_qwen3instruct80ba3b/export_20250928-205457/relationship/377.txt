@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGSILUNHUI</source_entity>
+    <target_entity>YUAN AII</target_entity>
+    <relationship_description>Yuan ai (craving) is the active force that perpetuates Shengsi lunhui, driven by ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

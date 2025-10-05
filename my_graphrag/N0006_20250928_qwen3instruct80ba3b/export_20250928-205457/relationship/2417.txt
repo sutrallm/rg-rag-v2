@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>三界</target_entity>
+    <relationship_description>圣者已超越三界的束缚，不再被欲界、色界、无色界所系缚，是其解脱的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

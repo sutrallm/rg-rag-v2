@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死轮回</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱即是从生死轮回中彻底出离，不放逸与三学是脱离轮回掌控的途径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

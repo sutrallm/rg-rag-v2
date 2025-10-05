@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>懈怠</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>懈怠是修行者需对治的心理状态，通过思惟无常、业果来激发精进心。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

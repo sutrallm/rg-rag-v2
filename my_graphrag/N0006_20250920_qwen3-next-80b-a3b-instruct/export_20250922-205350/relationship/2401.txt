@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIE PAN JING JI</source_entity>
+    <target_entity>三国印</target_entity>
+    <relationship_description>Nie Pan Jing Ji is the fulfillment of the third Mark—nirvana as peace—achieved when one fully embodies impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

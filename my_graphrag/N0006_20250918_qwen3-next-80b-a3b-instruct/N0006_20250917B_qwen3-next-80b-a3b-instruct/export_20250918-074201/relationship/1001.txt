@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>觉知是瓦解无明的直接工具，通过每一刻的清醒觉察断除愚痴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

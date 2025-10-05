@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蓋</source_entity>
+    <target_entity>掉舉惡作</target_entity>
+    <relationship_description>掉舉惡作是五蓋之一，包含心的躁動（掉舉）與對過去的懊悔（惡作），共同障礙內心平靜。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

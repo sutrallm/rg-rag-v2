@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>A sage embodies transcending attachment by not clinging to any experience, which is a defining characteristic of their enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

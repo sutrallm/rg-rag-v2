@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>心识若不清净，杂染未除，则易生烦恼；通过修习止观可净化心识。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

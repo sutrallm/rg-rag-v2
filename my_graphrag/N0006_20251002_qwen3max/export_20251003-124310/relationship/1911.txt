@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>渴愛</source_entity>
+    <target_entity>內心的寂靜</target_entity>
+    <relationship_description>內心的寂靜源於斷除渴愛；當渴愛被斷除，心不再向外攀緣，便安住於無求無執的平靜。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Mindfulness is the practice through which non-self observation is carried out moment by moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

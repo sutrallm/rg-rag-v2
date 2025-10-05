@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>禪定的實踐有助於擺脫貪欲，是對治貪欲的主要方法之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

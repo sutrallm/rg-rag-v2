@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGETIC PRACTICE</source_entity>
+    <target_entity>WISE OBSERVATION</target_entity>
+    <relationship_description>Without energetic practice, the mind remains dull or distracted, preventing the arising of penetrating insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

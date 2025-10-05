@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENT ATTACHMENTS</source_entity>
+    <target_entity>PURE NATURE</target_entity>
+    <relationship_description>Removing defilement attachments allows the pure nature to be realized.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

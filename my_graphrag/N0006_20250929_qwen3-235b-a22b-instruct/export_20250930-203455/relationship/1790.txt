@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>心通过修行达到无挂碍、自在无碍的状态，即是解脱的体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

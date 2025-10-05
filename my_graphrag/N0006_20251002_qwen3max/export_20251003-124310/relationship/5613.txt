@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定为智慧的生起奠定基础；两者必须结合（止观双运）才能断尽烦恼、证得解脱。单独的禅定易落入沉空守寂，单独的智慧则难以稳固。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

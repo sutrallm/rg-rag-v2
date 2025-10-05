@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY ONES</source_entity>
+    <target_entity>CULTIVATION</target_entity>
+    <relationship_description>SAINTLY ONES engage in ongoing CULTIVATION to deepen their spiritual state.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

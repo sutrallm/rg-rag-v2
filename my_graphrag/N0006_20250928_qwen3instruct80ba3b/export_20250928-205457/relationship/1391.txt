@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jietuo is the process or path, and Niepan is the ultimate realization or state of that liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

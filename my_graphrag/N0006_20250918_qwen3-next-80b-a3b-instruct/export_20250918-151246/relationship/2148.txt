@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is the cessation of suffering. The entire path described leads to the end of suffering through understanding and transformation, not avoidance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

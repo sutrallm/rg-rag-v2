@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者是解脫的實證者與化身，解脫的狀態在聖者身上完整體現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

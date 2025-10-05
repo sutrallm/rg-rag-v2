@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLEASANT FEELINGS</source_entity>
+    <target_entity>TWO EXTREMES</target_entity>
+    <relationship_description>Clinging to pleasant feelings is one extreme that must be abandoned in the middle way practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

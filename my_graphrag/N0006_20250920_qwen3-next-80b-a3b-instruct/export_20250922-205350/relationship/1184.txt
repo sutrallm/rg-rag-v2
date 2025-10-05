@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Precepts purify behavior, creating the ethical foundation necessary for the mind to settle into stable concentration; without moral discipline, distraction and guilt hinder meditative depth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

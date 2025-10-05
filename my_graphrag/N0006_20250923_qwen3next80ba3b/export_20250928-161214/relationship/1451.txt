@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE WISDOM</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>Wisdom and meditative concentration mutually reinforce each other in the path to enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

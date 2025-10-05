@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIETAI</target_entity>
+    <relationship_description>The saintly practitioner is one who has attained Jietai — ultimate liberation — through wisdom and moral perfection.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

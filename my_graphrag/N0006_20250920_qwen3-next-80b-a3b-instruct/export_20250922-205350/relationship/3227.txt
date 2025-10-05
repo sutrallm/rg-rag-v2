@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒律清净是禅定生起的前提，身口意清净方能收摄散乱，进入定境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

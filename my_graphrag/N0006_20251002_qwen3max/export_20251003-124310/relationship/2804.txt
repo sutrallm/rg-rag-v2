@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>生死</target_entity>
+    <relationship_description>若人不放逸，時刻警醒，便能不為生死所困；反之則陷於輪迴苦迫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wisdom is the direct means to achieve Niepan, as only through liberating insight can the defilements of greed, hatred, and delusion be uprooted.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者因具足清净智慧而能安住宁静、断尽烦恼，是智慧实践的圆满体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

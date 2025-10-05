@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起性空</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>缘起性空揭示一切法无自性，从而彻底否定“我”作为独立实体的存在，是无我观的理论基础。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>眾生</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>所有眾生皆有潛力達成解脫，解脫不是特權，而是任何修行者皆可實現的普遍目標。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

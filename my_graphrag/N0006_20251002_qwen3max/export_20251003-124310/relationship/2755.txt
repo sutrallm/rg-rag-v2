@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>精进是断除烦恼的关键修行要素，通过持续精进、毫不放逸，修行者能对治烦恼，不被其所胜。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

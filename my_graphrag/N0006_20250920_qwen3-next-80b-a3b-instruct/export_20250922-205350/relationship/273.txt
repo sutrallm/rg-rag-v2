@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Nirvana is the realization that all conditioned states—anxiety, desire, identity—are impermanent and therefore not worth clinging to, leading to total release.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

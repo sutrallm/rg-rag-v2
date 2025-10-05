@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMING</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Jieming leads indirectly to Zhihui: moral discipline enables calmness, which allows wisdom to develop through insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修道者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修道者通过日常觉察与放下执著，逐步趋向并实现解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

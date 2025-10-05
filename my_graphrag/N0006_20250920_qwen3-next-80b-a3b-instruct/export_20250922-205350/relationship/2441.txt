@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真實的自由</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>真實的自由即是涅槃的當下體現，非死後境界，而是此時此心之解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

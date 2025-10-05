@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>仪式</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>缺乏正见时，修行者可能仅依赖仪式，但无法获得真正解脱；正见是超越仪式局限的必要条件。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通感应</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>神通感应虽可能在修行中出现，但若执取则违背心解脱的无执原则，故为应超越之对象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

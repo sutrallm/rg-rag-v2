@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXING WU XAIQIU</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>The teaching that liberation is innate aligns with the emergence of inner wisdom—it is not granted from outside but revealed through correct practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

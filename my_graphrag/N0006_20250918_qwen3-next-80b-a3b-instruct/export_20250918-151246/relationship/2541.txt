@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Holy beings embody perfected chanding, as they remain undisturbed and stably abiding in mindfulness and equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者是已達成解脫的人，具備斷盡貪愛與無明的特質，是解脫的具體體現。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

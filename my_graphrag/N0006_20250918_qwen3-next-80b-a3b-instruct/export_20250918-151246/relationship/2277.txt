@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>YUANHE</target_entity>
+    <relationship_description>Wuchang and Yuanhe are interrelated: all phenomena are impermanent because they arise dependently.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

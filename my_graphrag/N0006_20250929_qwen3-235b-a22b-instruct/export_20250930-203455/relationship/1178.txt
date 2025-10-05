@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定与智慧相辅相成：禅定若无智慧引导易入误区，智慧若无禅定支持难以深入实相，二者等持方能成就解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

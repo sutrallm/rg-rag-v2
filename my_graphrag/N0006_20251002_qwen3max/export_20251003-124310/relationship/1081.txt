@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>解脫的實現以徹底斷盡三毒（貪、瞋、癡）為標誌。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

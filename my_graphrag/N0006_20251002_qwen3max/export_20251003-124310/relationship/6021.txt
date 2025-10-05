@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>无畏</target_entity>
+    <relationship_description>解脱者因已断尽烦恼，心性本净，自然流露无畏，于一切境中安稳自在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

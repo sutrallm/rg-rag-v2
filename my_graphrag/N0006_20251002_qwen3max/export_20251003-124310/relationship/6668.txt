@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>空</source_entity>
+    <target_entity>解脱者</target_entity>
+    <relationship_description>解脱者如实了知一切法皆空，故心无所住，不执取任何境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

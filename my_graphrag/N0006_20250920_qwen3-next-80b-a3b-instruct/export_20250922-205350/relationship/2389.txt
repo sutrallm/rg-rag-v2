@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHUO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wu Zhuo is the wisdom that arises from Chanding, allowing practitioners to see through the illusion of meditative states and remain unattached even to blissful experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

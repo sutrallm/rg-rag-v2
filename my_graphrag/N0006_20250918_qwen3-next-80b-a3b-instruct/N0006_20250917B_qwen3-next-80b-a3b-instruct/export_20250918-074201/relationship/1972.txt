@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Saintly individuals have transcended anger, demonstrating equanimity and freedom from reactive emotions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

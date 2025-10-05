@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER TRANSFORMATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Inner transformation is the process through which non-attachment is cultivated and solidified in the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

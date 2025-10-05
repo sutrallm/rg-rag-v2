@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding is cultivated through sustained mindfulness; mindfulness is the foundational attitude that enables stable concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Hatred generates agitation and aversion, directly obstructing the calm and equanimity required for deep meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

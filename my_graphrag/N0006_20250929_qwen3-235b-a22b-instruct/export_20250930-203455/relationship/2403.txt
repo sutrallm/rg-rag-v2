@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>禅修误区</target_entity>
+    <relationship_description>追求神通是禅修误区之一，会阻碍真正的解脱，不应作为修行目标。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

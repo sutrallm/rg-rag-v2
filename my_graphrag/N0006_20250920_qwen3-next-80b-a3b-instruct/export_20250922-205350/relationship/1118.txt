@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼断尽</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>烦恼断尽是圣者内在状态的标志，体现其真实自在，是圣者经验的实证。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

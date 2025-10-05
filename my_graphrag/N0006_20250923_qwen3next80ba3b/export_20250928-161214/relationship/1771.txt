@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLACE NAME</source_entity>
+    <target_entity>PROCESSING</target_entity>
+    <relationship_description>Place names are removed during text processing per instruction 1.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

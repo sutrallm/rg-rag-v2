@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>ZHI HUI</target_entity>
+    <relationship_description>Ku is observed through Zhi Hui as an inherent condition of samsaric existence, motivating liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

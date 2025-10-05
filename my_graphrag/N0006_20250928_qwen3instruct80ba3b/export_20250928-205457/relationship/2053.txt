@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO</source_entity>
+    <target_entity>YIFABUYIREN YIYIBUYUYU</target_entity>
+    <relationship_description>The Buddha taught this principle explicitly, using the finger-and-moon analogy to point beyond words to direct realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

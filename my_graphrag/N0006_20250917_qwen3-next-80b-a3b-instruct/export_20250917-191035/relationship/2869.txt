@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The sage is the embodiment of ultimate wisdom—having fully realized the insight that all concepts, including liberation, are empty, and thus abides in perfect freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

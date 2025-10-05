@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>CHAOWUZHUO</target_entity>
+    <relationship_description>By practicing xiuxin, one develops the ability to observe without clinging or rejecting, thereby cultivating chaowuzhuo.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

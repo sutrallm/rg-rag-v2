@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>证果</target_entity>
+    <relationship_description>证果的过程即是依戒定慧次第断除烦恼，最终彻底解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

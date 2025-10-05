@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实相</source_entity>
+    <target_entity>定慧双修</target_entity>
+    <relationship_description>定慧双修的目的在于以清明之心如实观照实相，深入诸法无常、苦、无我本质。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

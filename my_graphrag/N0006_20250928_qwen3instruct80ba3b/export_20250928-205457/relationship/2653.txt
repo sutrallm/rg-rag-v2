@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Stillness is the defining characteristic and result of successful Chan Ding practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

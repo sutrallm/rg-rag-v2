@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>智慧通过看清五蕴的无常、苦、无我本质，使贪爱逐渐止息。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

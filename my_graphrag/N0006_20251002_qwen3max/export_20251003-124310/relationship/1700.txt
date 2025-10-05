@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念专注</source_entity>
+    <target_entity>妄念</target_entity>
+    <relationship_description>心念专注能使人远离各种干扰与妄念，表明专注具有消除妄念的作用。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

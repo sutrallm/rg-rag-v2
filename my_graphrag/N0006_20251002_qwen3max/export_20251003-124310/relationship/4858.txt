@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>觀察無常能引導修行者體證無我，因無常故無實體可執為「我」。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

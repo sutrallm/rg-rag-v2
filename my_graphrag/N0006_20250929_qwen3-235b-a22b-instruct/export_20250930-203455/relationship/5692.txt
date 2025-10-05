@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>真智慧必含慈悲，真慈悲必依智慧，二者相辅相成，缺一不可。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

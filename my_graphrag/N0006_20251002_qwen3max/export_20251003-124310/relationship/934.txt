@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心解脱者</target_entity>
+    <relationship_description>禅定是心解脱者修行的核心方法之一，助其获得宁静与观照力。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

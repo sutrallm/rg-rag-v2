@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>正念在精進修行中不斷被強化，而精進則是使正念不退失的動力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

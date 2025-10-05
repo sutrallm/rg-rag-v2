@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>STATE</target_entity>
+    <relationship_description>ATTACHMENT to a STATE perpetuates suffering and prevents transcendence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

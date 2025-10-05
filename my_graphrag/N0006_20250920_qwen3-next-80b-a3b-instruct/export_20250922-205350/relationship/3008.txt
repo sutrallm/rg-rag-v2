@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>中道的修習需以智慧為導向，方能不執不拒、平等覺知，故中道是智慧的實踐表現。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

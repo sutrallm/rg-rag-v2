@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuzhi (wisdom) manifests through the deep realization of muwo (non-self), particularly through observing the five aggregates as empty of inherent identity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

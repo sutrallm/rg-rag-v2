@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZIYING</source_entity>
+    <target_entity>JIEXIANG</target_entity>
+    <relationship_description>Ziying is the philosophical stance that guarantees jiexiang is attainable only through one’s own practice, not through external authority.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

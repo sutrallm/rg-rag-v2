@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUSES_AND_CONDITIONS</source_entity>
+    <target_entity>FREEDOM</target_entity>
+    <relationship_description>Harmonizing with causes and conditions without clinging brings forth freedom and ease.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

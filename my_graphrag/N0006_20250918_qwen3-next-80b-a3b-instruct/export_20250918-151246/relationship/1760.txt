@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>REPUTATION</target_entity>
+    <relationship_description>The Sage does not seek or value external reputation, focusing instead on inner realization.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

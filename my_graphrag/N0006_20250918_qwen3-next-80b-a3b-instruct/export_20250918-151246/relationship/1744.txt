@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧之法</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>定慧之法是精进修行所要掌握的核心方法，二者是目标与路径的关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

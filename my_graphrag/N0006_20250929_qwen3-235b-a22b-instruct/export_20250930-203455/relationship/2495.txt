@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>贪欲是三毒之一，是轮回的根本原因。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

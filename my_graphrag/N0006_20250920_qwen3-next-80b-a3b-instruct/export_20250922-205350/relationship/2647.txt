@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHELI YIQIE</target_entity>
+    <relationship_description>The quintessential attribute of Shengzhe is She li yiqie (complete letting go), as they have relinquished even the attachment to spiritual attainment itself.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

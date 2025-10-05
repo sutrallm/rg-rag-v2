@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>毒蛇</target_entity>
+    <relationship_description>禅修中观贪欲如毒蛇般带来痛苦与束缚，需觉察其虚妄本质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

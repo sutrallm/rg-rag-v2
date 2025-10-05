@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法門</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>法門是通向涅槃的工具，但涅槃本身超越一切法門，唯有不執法門，方能與涅槃相應。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

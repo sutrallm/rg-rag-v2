@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Chanding cultivates the mental clarity necessary to develop Wuzhi, the wisdom of non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

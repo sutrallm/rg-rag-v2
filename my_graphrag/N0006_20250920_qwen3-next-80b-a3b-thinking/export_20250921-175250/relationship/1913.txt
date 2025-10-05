@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE LIBERATION</source_entity>
+    <target_entity>BONDS</target_entity>
+    <relationship_description>True liberation results in complete freedom from all bonds.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

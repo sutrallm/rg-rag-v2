@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUSUODE</target_entity>
+    <relationship_description>Niepan is synonymous with Wusuode — true liberation is not gaining anything but realizing that nothing has ever been lost or needed to be gained.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

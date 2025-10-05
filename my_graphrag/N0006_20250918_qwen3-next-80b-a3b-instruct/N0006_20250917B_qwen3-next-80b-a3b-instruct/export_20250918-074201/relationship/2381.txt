@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>Liberation</source_entity>
+    <target_entity>EMPTY_MIND</target_entity>
+    <relationship_description>The liberated mind is likened to empty space — boundless, undisturbed, and uncolored by external conditions, reflecting the nature of true freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

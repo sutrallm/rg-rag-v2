@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離欲</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>离欲是解脱的内在表现；解脱并非外在逃离，而是内心不再渴求与攀缘。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

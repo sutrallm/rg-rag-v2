@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Impermanence and non-self are two interdependent insights—since all things change constantly, there cannot be a fixed, independent self to cling to.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

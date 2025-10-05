@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>二禪</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>二禪是禪定的第二階段，顯示禪定修習的深化。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

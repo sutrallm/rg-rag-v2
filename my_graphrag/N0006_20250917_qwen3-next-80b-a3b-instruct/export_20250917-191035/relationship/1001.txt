@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ST. HOLY_QUALITIES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is one of the practices through which saintly qualities are cultivated, especially stillness and freedom from defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

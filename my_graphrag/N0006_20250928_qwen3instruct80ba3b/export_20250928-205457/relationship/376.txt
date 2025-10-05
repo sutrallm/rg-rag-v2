@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGSILUNHUI</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Shengsi lunhui is caused by Wu Ming, which leads to attachment and karmic action.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

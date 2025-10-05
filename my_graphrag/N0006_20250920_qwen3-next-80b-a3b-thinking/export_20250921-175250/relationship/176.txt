@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_BEYOND_ATTACHMENT</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>WISDOM_BEYOND_ATTACHMENT transcends attachment to STATES by recognizing their impermanent nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

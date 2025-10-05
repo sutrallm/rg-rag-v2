@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Physical death is feared, but it is attachment to life—greed, delusion, and hatred—that constitutes the “true death”—the ongoing psychological death spiral.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

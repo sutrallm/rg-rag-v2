@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EFFORTFUL PRACTICE</target_entity>
+    <relationship_description>Chanding cannot be maintained without persistent, vigilant effort;懈怠 (laziness) causes one to fall back into delusion, undermining concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

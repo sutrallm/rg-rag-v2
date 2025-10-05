@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Wisdom is the direct path to achieving the state of enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

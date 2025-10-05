@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>FUYUN</target_entity>
+    <relationship_description>Zhengnian is the practice of observing the arising and ceasing of the five aggregates to realize their emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

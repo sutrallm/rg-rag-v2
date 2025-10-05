@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>离欲</target_entity>
+    <relationship_description>圣者已彻底舍离贪爱，不为五尘所动，是离欲的终极体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

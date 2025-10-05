@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Samadhi strengthens discipline to counteract indulgence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

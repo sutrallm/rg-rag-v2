@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIE</source_entity>
+    <target_entity>WUSUODE</target_entity>
+    <relationship_description>Chasing meditative states is a form of attachment; non-attainment requires letting go even of desirable spiritual experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

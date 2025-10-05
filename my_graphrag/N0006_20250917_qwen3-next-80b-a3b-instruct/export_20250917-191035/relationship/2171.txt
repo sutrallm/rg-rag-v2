@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>净戒</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>净戒是禅定的基础，纯净的持戒行为有助于减少内心干扰，使心易得安住。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

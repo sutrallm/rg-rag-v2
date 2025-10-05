@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The assistant is responsible for performing the translation upon receipt of the original text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

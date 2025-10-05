@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe are characterized by perpetual jingjin — their diligence is unceasing and inseparable from their enlightened state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三界</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行者依戒定慧断尽三界烦恼，方能超然三界之外，证入涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

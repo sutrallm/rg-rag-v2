@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>GUANZHAO</target_entity>
+    <relationship_description>Chanding involves the practice of guanzhao (mindful observation) to observe mental and physical phenomena without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL_PRACTICE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Persistent practice gradually dispels ignorance through insight and experiential understanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

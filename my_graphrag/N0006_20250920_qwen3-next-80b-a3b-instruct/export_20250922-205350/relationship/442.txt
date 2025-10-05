@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>The Buddha’s teachings provide the framework and motivation for exertion, calling practitioners to diligently follow the path to freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

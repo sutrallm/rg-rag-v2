@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>TRANSCENDING_ATTACHMENT</target_entity>
+    <relationship_description>Saintly beings exemplify transcending attachment by remaining unaffected by meditative states, suffering, or supernatural powers, embodying the highest wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

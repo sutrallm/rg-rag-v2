@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greed arises from delusion—specifically, the mistaken belief that lasting happiness comes from external or sensory objects.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Hatred creates negative karma and suffering, which perpetuate the cycle of rebirth through aversion and conflict.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

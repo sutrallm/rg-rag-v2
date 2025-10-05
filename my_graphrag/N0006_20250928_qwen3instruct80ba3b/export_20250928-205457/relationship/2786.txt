@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhihui is the means by which Wuwo, the insight of non-self, is realized through direct observation of mental and physical phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

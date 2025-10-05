@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Understanding non-self is the highest expression of wisdom, dismantling the illusion of a permanent self and leading to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

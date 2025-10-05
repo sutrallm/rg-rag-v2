@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>修行的次第</target_entity>
+    <relationship_description>佛陀教导了修行的三阶段次第——戒、定、慧，作为通向解脱的标准化路径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

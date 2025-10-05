@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREATH OBSERVATION PRACTICE</source_entity>
+    <target_entity>CLAY</target_entity>
+    <relationship_description>The Breath Observation Practice compares the mind to clay being shaped by the potter's focus.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

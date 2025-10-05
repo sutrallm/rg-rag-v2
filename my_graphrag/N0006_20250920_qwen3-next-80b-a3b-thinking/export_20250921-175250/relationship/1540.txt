@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Detaching the mind from attachments leads to spiritual awakening, as described in the text's third point.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

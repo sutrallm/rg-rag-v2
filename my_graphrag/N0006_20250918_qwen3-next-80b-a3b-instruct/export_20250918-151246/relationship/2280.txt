@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZIYOU</source_entity>
+    <target_entity>JIEJING</target_entity>
+    <relationship_description>Ziyou (freedom) is the experiential state of Jiejing (stillness) when the mind is no longer agitated by clinging.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

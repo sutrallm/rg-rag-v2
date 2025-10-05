@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>智慧能断除对一切境界（包括禅定之乐、神通等）的执着，使修行者不贪着、不依恋。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

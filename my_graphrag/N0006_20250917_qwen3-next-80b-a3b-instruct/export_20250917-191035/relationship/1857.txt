@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Zhihui directly leads to Non-attachment; true wisdom sees that all phenomena are ungraspable and thus ceases clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

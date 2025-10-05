@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Liberation entails release from hatred, as a liberated mind no longer resists or reacts with aversion to unpleasant experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

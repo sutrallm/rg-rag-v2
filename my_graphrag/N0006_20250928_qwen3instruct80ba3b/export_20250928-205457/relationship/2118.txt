@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>因一切法无常，执取便导致痛苦；观无常是理解苦的根本前提。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

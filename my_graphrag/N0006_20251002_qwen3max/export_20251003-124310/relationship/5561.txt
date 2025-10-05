@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>平等舍心</target_entity>
+    <relationship_description>圣者因如实知见一切感受的缘起本质，不随境流转，故能安住于平等舍心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

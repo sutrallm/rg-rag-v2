@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>福田</target_entity>
+    <relationship_description>已證解脫的聖者因其戒定慧圓具，成為世間值得敬仰的福田。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

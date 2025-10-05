@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>透過深入禪修（禪定），修行者能如實照見一切現象的苦之本質。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

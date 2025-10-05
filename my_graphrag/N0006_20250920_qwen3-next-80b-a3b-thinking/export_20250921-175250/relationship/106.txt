@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>我与我所</target_entity>
+    <relationship_description>无明引发对自我及所属事物的执着</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

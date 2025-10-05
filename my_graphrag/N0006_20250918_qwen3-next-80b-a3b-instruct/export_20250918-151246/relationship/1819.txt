@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description> Moral discipline (Jie) and wisdom (Hui) together form the "armor" of the enlightened being — one protects conduct, the other transforms understanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

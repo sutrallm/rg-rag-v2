@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUWU</target_entity>
+    <relationship_description>Fannao is fueled by the mistaken belief that the five aggregates constitute a real self; insight into Wuwu uproots this misconception.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

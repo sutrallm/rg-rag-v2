@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Without sustained exertion, one cannot develop the concentration or insight needed to break free from afflictions and attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

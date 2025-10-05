@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离相无住</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>真正的修行者安住于离相无住的境界，不执着于修行成果或神通。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

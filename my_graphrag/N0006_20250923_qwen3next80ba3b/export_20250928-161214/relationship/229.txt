@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT ORIGINATION</source_entity>
+    <target_entity> CYCLE OF BIRTH AND DEATH</target_entity>
+    <relationship_description>DEPENDENT ORIGINATION is the causal mechanism that perpetuates the CYCLE OF BIRTH AND DEATH.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

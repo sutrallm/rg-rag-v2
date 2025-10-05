@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>A sage has completely overcome hatred, remaining equanimous even in adverse conditions, free from aversion and reactivity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

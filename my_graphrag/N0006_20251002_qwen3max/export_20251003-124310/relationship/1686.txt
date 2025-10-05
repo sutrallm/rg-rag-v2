@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>语默动静</target_entity>
+    <relationship_description>修行者在语默动静中保持正念正知，如实了知身心变化。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

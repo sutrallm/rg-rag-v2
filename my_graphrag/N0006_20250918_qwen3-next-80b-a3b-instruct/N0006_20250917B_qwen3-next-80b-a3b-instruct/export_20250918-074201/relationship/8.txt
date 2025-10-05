@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUYAN DE RICHANG SHILIAN</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Daily practice consists of applying mindfulness in mundane activities — mindfulness is both the method and the goal of this practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

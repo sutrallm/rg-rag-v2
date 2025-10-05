@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_PRACTICE</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>DILIGENT_PRACTICE prevents HEEDLESSNESS by maintaining vigilance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

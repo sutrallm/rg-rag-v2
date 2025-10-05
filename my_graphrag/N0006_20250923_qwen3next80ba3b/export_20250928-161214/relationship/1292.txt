@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>EGO ATTACHMENT</target_entity>
+    <relationship_description>Practitioners release ego attachment through insight and non-clinging.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

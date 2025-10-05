@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>神通异能</target_entity>
+    <relationship_description>解脱者不追求神通异能，表明其修行重心在于内在解脱而非外在能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

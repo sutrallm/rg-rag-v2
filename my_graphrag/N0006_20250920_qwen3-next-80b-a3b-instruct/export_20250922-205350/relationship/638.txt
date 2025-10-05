@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STL (SAINTLY BEING)</source_entity>
+    <target_entity>CLEANLINESS OF MORALITY</target_entity>
+    <relationship_description>Saintly beings are characterized by pure ethical conduct, which supports their meditative stability and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

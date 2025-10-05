@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Failure in Jingjin leads to entanglement in Samsara; only through diligent practice can one escape its web.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

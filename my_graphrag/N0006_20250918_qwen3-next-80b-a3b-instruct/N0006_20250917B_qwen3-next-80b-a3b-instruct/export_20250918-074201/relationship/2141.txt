@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越執著的智慧</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>超越執著的智慧需洞察苦的本質，進而不再貪樂或厭苦，達成心的自由。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

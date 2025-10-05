@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Realization of Wuwo is integral to attaining Niepan — liberation is impossible without the direct insight that no “self” exists to be freed.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

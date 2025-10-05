@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>不放逸被明確描述為「解脫的根本」，是遠離輪迴苦海的關鍵。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

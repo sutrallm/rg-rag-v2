@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>Diligence (精进) counteracts negligence (放逸) by promoting consistent spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

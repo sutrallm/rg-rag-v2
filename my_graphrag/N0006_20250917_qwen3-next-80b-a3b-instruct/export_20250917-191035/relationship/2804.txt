@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>無我是超越執著智慧的關鍵洞見，與無常、無自性共同構成三法印。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

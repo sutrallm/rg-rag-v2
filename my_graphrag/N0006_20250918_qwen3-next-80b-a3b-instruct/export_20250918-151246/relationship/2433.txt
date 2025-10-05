@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUDAO</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Xiudao manifests through zhengnian—continuous mindfulness in daily life—as its core principle, not relying on external forms.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

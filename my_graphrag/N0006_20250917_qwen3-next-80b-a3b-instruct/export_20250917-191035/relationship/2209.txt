@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary for insight to arise; without concentration, deep wisdom cannot be cultivated.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

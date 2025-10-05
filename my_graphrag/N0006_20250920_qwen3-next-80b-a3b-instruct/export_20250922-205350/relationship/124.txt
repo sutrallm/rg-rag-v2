@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>觉醒</target_entity>
+    <relationship_description>解脱即是觉醒，二者为同一终极状态的不同表述，不在未来，而在当下。 </relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

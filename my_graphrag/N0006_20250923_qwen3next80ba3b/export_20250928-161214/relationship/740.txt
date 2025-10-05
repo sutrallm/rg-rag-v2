@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>MANI JEWEL</target_entity>
+    <relationship_description>The wish-fulfilling jewel is a metaphor for the mind nature's ability to dispel ignorance and illuminate all directions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

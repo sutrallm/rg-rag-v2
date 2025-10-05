@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心净化</source_entity>
+    <target_entity>尘垢</target_entity>
+    <relationship_description>内心净化是通过正念如清水洗涤烦恼尘垢的过程，使心从纷飞到澄澈。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

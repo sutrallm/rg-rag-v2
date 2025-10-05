@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念能对治烦恼，如护城门般阻挡烦恼侵入心识。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

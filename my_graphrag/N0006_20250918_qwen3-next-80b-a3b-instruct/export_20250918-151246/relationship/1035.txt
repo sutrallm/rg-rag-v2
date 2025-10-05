@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Aversion arises from suffering and perpetuates it, as resistance to unpleasant experiences deepens mental agitation and attachment to comfort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

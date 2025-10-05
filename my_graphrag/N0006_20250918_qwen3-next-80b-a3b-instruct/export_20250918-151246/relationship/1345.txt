@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>解脱的本质即是断尽贪嗔痴三毒，彻底摆脱其对心识的控制。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

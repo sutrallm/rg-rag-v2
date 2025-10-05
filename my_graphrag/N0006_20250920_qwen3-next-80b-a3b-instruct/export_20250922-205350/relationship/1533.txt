@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KONGXING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Kongxing informs Zhengnian — mindfulness is practiced with the understanding that all phenomena are illusory, so one neither clings to nor rejects experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

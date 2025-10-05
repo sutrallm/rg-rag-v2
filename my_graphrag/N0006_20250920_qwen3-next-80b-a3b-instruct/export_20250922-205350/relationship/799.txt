@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正道</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>正道是通向解脱的唯一方法，包含戒、定、慧，是修行的完整路径。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

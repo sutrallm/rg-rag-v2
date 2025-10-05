@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ENTERING_THE_PRESENT_MOMENT</target_entity>
+    <relationship_description>Chanding is defined as the mental state of being fully anchored in the present moment, free from distraction and conceptual wandering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

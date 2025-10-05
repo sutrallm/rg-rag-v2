@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY DHARMA</source_entity>
+    <target_entity>TRANSCENDENT DHARMA</target_entity>
+    <relationship_description>WORLDLY DHARMA is not abandoned when achieving TRANSCENDENT DHARMA.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LETTING GO</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Letting go removes mental clinging, which is the primary obstacle to achieving inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

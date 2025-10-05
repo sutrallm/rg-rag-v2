@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>SHENG JIE</target_entity>
+    <relationship_description>Chaoshi, or wisdom seeing emptiness and non-self, is the insight that directly uproots attachment and enables true liberation beyond all conceptual grasping.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

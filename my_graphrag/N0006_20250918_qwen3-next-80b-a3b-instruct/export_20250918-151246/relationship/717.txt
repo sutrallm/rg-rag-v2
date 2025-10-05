@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Non-negligence is essential for maintaining chanding, as lapses in attention disrupt meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

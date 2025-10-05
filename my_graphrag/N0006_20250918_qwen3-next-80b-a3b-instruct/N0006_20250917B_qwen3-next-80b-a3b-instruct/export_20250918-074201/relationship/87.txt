@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGSI KU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe have transcended shengsi ku entirely, making them the living example of liberation from cyclic suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

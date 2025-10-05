@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Niepan is the state where the five aggregates no longer give rise to suffering, having been fully understood and no longer clung to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

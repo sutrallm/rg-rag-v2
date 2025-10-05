@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYI</source_entity>
+    <target_entity>SHENG SI XUN HUAN</target_entity>
+    <relationship_description>When wuyi (non-self insight) is fully realized, the root of clinging is severed, and thus the cycle of birth and death (shengsi xunhuan) naturally dissolves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

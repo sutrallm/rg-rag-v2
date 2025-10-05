@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHTFUL_OBSERVATION</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>Insightful observation is the method used to analyze and realize the impermanent and non-self nature of the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

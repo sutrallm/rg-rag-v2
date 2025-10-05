@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内观</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>内观通过觉察贪瞋痴的生起与止息，真正净化烦恼，是成就道果的关键方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

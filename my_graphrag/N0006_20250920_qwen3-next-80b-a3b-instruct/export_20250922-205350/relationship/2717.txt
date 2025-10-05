@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>僧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>僧作为同行者可引导与印证修行，但不能代行解脱，解脱终究依赖个人的实修与觉醒。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

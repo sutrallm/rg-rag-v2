@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xiuxin requires constant jingjin—the persistent, non-halting effort to maintain awareness in everyday actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

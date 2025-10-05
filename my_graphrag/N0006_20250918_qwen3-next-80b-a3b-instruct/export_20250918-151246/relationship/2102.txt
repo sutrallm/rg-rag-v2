@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Chanding relies on zhengnian to maintain focused awareness without distraction; zhengnian is an essential component of chanding practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脱与涅槃是同义语，皆指烦恼永灭、超越生死的究竟安乐状态。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

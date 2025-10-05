@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>ORIGINAL DOCUMENT</target_entity>
+    <relationship_description>The QUERY pertains to the presence and content of the ORIGINAL DOCUMENT, which is currently missing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

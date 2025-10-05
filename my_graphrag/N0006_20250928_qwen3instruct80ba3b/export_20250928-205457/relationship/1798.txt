@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>SI NIAN CHU</target_entity>
+    <relationship_description>Zheng Nian (mindfulness) is the practical application and daily embodiment of the Four Foundations of Mindfulness in ordinary activities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

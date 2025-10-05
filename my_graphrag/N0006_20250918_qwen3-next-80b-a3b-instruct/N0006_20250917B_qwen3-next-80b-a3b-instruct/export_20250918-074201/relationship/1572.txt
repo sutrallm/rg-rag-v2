@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Sheli arises naturally from the deep realization of Wuwo; when there is no “I” to own or possess, letting go becomes effortless.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

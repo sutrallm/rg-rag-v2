@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>执着是解脱的障碍，即使修行中出现殊胜境界，若贪着不放，反而阻碍解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

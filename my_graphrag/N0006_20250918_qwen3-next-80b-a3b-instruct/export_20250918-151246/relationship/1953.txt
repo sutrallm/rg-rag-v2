@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净戒行</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>清净戒行是精进修行的实践基础，持续持戒是精进的具体表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

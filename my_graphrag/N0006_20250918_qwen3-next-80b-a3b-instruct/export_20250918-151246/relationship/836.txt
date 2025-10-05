@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE DING HUI</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>A Saint (Sheng Zhe) is defined by the complete perfection of Morality, Concentration, and Wisdom (Jie Ding Hui); these are the defining qualities of awakening.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

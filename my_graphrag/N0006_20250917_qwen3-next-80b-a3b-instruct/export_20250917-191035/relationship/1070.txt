@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MOMENT AWARENESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Persistent present-moment awareness develops wisdom by revealing the true nature of sensations, thoughts, and phenomena as they are.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>REALITY</target_entity>
+    <relationship_description>The FIVE AGGREGATES embody REALITY through their impermanent and transitory nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

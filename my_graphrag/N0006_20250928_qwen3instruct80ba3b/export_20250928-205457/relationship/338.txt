@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHATING</source_entity>
+    <target_entity>DELIVERANCE</target_entity>
+    <relationship_description>Through deep chanting, one gains the inner stability required to eradicate defilements and attain full deliverance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

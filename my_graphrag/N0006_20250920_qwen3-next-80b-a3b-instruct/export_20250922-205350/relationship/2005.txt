@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Shengzhe (sages) are those who have achieved Jietuo (liberation) through the complete eradication of defilements and cultivation of virtue and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

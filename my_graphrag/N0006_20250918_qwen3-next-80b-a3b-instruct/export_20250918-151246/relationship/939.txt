@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Defilements are the root cause of karma that perpetuates the rebirth cycle; their cessation leads to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

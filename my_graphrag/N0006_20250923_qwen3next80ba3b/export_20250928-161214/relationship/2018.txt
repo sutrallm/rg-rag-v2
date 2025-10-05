@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DELUSIONAL GRASPING</target_entity>
+    <relationship_description>WISDOM dispels DELUSIONAL GRASPING by revealing the illusion of self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

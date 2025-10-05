@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Jing Jin provides the sustained effort required to develop and maintain Chan Ding over time.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>聖者以真實智慧照見諸法實相，這是其成為世間光明之鏡的核心原因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

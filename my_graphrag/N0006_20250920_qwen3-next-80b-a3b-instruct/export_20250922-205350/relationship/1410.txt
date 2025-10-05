@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>THE FIVE SKANDHAS</target_entity>
+    <relationship_description>Attachment is directed toward the five skandhas, mistaking them as a permanent, independent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

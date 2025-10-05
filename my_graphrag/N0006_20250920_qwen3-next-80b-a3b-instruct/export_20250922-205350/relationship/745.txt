@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱的路径</source_entity>
+    <target_entity>贪、嗔、痴</target_entity>
+    <relationship_description>解脱的路径核心在于断除贪、嗔、痴三毒，它们是苦的根本原因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>諸行無常</source_entity>
+    <target_entity>出離心</target_entity>
+    <relationship_description>對諸行無常的親身體證能自然引發出離心，使人不再追逐世間虛幻快樂。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

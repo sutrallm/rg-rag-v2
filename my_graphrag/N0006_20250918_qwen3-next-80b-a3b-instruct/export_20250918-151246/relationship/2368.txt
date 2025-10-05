@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXING</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>Xiuxing is authentic only when it embodies Wuqiu — no striving or seeking for outcomes, only pure awareness of present reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

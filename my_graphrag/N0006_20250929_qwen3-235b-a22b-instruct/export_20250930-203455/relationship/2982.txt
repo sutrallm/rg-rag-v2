@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>日常实践依赖正念的持续培养，如吃饭时知吃饭，走路时知走路，是正念的具体应用。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

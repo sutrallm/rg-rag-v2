@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>修行者向内收摄六根，主动舍离外境诱惑，安住于禅定所生的寂静喜乐。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

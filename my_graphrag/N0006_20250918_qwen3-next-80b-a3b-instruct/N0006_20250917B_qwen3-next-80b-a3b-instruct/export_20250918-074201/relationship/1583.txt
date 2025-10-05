@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGLI ZHIHUI</target_entity>
+    <relationship_description>Without jingjin (persistent effort), shengli zhihui cannot develop, as insight requires sustained observation and non-condoning of delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

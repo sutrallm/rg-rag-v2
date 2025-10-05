@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>貪欲、瞋恚、昏沉、掉舉、懷疑</target_entity>
+    <relationship_description>貪欲、瞋恚、昏沉、掉舉與懷疑是煩惱的具體表現形式，屬於禪修過程中的內在障礙。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

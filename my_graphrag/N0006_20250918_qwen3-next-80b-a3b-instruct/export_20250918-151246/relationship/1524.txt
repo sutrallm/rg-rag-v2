@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无求之心</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>无求之心体现了真正的智慧——不执著于果报，如实观照，与智慧“不执境界”的特质完全一致。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Continuous effort (Jing Jin) is required to maintain and deepen meditative concentration (Chan Ding), as slackness leads to distraction and defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

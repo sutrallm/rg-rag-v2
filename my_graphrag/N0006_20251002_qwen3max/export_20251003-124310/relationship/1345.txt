@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>放逸与不放逸互为对立，放逸是衰败之源，而不放逸是觉悟的基石。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

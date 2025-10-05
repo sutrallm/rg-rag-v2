@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL_AWARENESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Mindful awareness is the living path to Nirvana; each moment of clear attention is a direct manifestation of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

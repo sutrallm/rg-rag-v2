@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>禅定能使修行者远离散乱，散乱是禅定所对治的主要障碍之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

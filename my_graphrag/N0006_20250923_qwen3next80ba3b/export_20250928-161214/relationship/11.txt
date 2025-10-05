@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>TRANSLATION TASK</target_entity>
+    <relationship_description>The query initiates the translation task but lacks essential components for execution.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

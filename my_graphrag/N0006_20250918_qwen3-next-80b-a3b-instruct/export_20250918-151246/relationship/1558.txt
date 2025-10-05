@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔恨</source_entity>
+    <target_entity>生死輪轉</target_entity>
+    <relationship_description>嗔恨與貪欲、無明一道，是束縛眾生於生死輪轉中的主要煩惱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

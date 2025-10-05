@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>禪修者</target_entity>
+    <relationship_description>不放逸是禪修者修行的根本，唯有保持警覺才能掌握禪修要領。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

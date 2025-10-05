@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN JIE TUO</source_entity>
+    <target_entity>WU ZHU</target_entity>
+    <relationship_description>Heart liberation (xin jietuo) is the experiential realization of non-attachment (wu zhu), a state of complete mental freedom beyond all clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

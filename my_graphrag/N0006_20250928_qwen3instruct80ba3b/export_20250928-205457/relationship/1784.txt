@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Zhishi directly counteracts and eliminates wuming (ignorance) by revealing the true nature of phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

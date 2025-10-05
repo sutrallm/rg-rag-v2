@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>修行者若不遵循佛陀教导持续精进，易堕入死亡魔王的掌控，象征修行懈怠的后果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

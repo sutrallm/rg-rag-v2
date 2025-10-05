@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>内心清净</target_entity>
+    <relationship_description>贪嗔痴的断除是内心清净显现的前提，内心清净是贪嗔痴渐次断除后自然显现的状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

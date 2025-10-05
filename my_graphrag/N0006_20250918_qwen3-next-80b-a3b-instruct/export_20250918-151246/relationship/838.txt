@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RI CHANG JUE ZHI</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Daily mindfulness cultivates and stabilizes meditative concentration (Chan Ding) by training attention in ordinary moments, making it accessible beyond retreat settings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

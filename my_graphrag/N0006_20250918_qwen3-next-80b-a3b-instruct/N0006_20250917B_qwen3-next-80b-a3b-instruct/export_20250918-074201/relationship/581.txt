@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHICHUANG</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Transcendent wisdom (zhichuang)—seeing impermanence and non-self—is essential for achieving liberation (jietuo) by breaking attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGMI</target_entity>
+    <relationship_description>The Shengzhe resides in Jingmi, as the noble one's mind is unshaken by outer conditions and remains in tranquility through wisdom and discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

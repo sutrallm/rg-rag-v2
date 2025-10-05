@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我之見</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>無我之見的觀照對象即是五蘊，透過觀照五蘊的生滅無常，證知無我。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

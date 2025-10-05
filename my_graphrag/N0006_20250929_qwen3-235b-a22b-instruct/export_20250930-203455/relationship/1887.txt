@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>自我验证</target_entity>
+    <relationship_description>解脱的次第可通过自我验证来确认，如观察心是否更轻安、烦恼是否减少等。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

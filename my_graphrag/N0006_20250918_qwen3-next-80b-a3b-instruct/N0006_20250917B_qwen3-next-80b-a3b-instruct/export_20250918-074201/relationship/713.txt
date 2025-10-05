@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>觀察苦的普遍性與本質，是智慧發展的重要面向，幫助修行者放下對樂境的追求。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

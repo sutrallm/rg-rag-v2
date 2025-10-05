@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDA (MEDITATIVE CONCENTRATION)</source_entity>
+    <target_entity>INSIGHT (WISDOM)</target_entity>
+    <relationship_description>Quiet concentration enables deep observation, leading to the arising of liberating wisdom about impermanence and not-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

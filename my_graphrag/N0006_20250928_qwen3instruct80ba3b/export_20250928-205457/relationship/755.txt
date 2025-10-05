@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行的次第与目标</source_entity>
+    <target_entity>持戒</target_entity>
+    <relationship_description>持戒是修行三步曲的第一步，为禅定和智慧奠定基础，是实现终极目标的必要前提。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

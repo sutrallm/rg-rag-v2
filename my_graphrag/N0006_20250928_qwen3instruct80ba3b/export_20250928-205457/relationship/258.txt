@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者是具足超越执着智慧的修行者，其特质正是这种智慧的圆满体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实修行者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>真实修行者通过如实知见与持续精进，逐步净化心灵，最终趋向究竟涅槃。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

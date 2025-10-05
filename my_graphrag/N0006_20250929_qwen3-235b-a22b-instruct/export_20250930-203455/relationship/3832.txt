@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>知足</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>知足是修行者日常行持的准则之一，帮助其不沉溺享乐、自然远离障碍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

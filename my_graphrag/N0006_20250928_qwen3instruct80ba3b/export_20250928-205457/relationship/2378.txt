@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Delusion — the misunderstanding of reality — is the root cause that gives rise to greed and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

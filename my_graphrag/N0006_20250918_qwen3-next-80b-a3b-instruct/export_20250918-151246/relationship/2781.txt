@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHIZHE</target_entity>
+    <relationship_description>Chanding leads to Chize, as sustained meditative focus enables the practitioner to see the impermanent and non-attached nature of all experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

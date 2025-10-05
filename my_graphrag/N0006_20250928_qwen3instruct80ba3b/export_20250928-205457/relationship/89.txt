@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>HUIGUAN</target_entity>
+    <relationship_description>Chanding stabilizes the mind, which is a prerequisite for HuiGuan to arise effectively — the two are interdependent stages of the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

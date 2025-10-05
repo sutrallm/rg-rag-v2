@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是断除我执与法执、证得解脱的关键，通过如实观照诸法实相实现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

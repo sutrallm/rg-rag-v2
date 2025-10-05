@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Jingjin is described as the "bridge to liberation"; without persistent effort, liberation cannot be attained.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

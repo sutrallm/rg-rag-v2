@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者透過持續修習正念來觀察身心現象，保持心念不散亂。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

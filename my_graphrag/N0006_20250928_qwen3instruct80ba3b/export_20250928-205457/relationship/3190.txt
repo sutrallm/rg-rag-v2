@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUANFANLIAO</source_entity>
+    <target_entity>WUZHIZHE</target_entity>
+    <relationship_description>Duan fanliao completes with Wuzhizhe—the final layer of non-attachment to even the process of elimination itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

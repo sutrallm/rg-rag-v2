@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>修行者需以慈悲观对治嗔恚，化解嗔恨，培养慈悲心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

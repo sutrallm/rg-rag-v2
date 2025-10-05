@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE_OBSERVATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>IMPERMANENCE_OBSERVATION involves direct contemplation of IMPERMANENCE in all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

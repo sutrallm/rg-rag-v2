@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUOZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Transcending attachment is a key insight leading to Nirvana, the cessation of all suffering and mental clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

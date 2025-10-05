@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实知见</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>如实知见包括对无常的直接了知，是洞察诸法实相的关键组成部分。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

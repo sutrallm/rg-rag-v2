@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>修慧</target_entity>
+    <relationship_description>解脱最终需以修慧破除无明，是解脱次第的最终目标，若无修慧则不能彻底断除烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

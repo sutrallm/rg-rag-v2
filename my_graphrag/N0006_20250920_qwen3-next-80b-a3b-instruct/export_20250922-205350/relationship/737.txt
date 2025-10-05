@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>SHELI</target_entity>
+    <relationship_description>Saintly Beings have perfected Sheli, having utterly abandoned attachment to self, desire, and outcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

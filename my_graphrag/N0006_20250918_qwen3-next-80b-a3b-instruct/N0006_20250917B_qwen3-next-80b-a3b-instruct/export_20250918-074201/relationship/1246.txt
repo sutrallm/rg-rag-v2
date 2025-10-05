@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺醒的日常實踐</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>日常覺知的實踐是智慧在生活中的應用，透過當下覺察來體證無常與無我。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

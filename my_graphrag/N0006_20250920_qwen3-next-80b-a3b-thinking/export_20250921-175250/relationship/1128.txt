@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>GATHA</target_entity>
+    <relationship_description>Gathas are specific text elements within the original document that are designated for removal.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

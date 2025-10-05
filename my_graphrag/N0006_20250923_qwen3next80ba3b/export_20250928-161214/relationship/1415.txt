@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERSES</source_entity>
+    <target_entity>PLAIN_LANGUAGE</target_entity>
+    <relationship_description>VERSES are excluded to maintain plain language style in the final text.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

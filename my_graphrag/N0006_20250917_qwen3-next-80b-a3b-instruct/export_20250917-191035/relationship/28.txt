@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Ignorance gives rise to desire, as misunderstanding the nature of reality leads to attachment to impermanent phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

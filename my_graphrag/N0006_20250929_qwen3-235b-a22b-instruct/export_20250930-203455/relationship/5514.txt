@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修行</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>日常修行的核心是保持正念，贯穿行住坐卧一切时中，使修行生活化、持续化。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>禅悦境界</target_entity>
+    <relationship_description>真正的寂静源于不贪求禅悦境界，即使修行体验殊胜状态也不生贪爱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

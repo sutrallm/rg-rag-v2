@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>語言</source_entity>
+    <target_entity>實義</target_entity>
+    <relationship_description>語言是通向實義的工具，但若執著語言則遠離實義。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

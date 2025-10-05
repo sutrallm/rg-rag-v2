@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Continuous mindfulness is the practical means by which one stabilizes the mind to realize Nirvana, as it ensures awareness remains unwavering even in the face of changing conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

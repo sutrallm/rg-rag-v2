@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF_OBSERVATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Non-self observation involves seeing the impermanence of all phenomena, which undermines the illusion of a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

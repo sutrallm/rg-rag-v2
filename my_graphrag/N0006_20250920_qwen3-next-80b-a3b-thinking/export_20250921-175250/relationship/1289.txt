@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE STRUCTURE</target_entity>
+    <relationship_description>Title structure forms part of the original text's organization that may require adjustment during processing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

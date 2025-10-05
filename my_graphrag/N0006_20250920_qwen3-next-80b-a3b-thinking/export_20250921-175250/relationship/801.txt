@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BOAT</source_entity>
+    <target_entity>RIVER OF BIRTH AND DEATH</target_entity>
+    <relationship_description>A boat serves as a vehicle to safely cross the river of birth and death, representing the Buddhist path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

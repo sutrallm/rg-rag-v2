@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>HEEDLESSNESS obstructs the attainment of LIBERATION by perpetuating ignorance and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

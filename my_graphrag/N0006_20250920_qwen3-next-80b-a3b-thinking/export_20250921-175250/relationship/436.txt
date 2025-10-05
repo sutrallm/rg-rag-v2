@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>静定</source_entity>
+    <target_entity>内心清凉</target_entity>
+    <relationship_description>静定修行能带来内心清凉的状态</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

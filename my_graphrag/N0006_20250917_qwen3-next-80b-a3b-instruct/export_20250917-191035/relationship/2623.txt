@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Only through diligent, sustained effort (jingjin) can one maintain the consistent practice of wuwo guanzhao necessary for deep insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>ABIDING_IN_STILLNESS</target_entity>
+    <relationship_description>SAINTS maintain ABIDING_IN_STILLNESS as a core aspect of their being.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

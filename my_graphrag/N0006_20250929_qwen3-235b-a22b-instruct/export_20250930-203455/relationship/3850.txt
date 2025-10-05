@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>无我观是智慧的重要体现，通过体证五蕴皆空，智慧得以破除我执。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

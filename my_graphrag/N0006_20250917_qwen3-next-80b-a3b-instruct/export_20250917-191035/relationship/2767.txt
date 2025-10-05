@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MOMENT AWARENESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Present-moment awareness is the immediate, accessible means of entering chanding — making it not a distant ideal but a practical reality here and now.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

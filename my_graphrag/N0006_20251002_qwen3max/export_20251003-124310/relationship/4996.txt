@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>修行者透過觀照無常體悟一切現象皆為苦，無常與苦是相互關聯的佛教核心教義。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

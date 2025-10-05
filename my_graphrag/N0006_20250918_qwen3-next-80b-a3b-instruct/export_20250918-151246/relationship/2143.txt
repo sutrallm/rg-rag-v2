@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>MINDFULNESS AS GUARDIAN</target_entity>
+    <relationship_description>Mindfulness is metaphorically described as the “guardian” (护航者)—a constant, protective presence that prevents the mind from being carried away by afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

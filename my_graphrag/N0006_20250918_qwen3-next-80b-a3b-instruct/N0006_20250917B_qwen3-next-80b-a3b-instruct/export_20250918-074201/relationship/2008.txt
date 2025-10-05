@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Seeing all things as impermanent naturally leads to non-attachment, since nothing can be truly owned or clung to.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

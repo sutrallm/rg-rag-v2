@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>PRACTITIONERs attain INNER_PEACE through the practice of SAMADHI and cultivation of mindfulness, directly referenced in the source text's '修行者...获得内心安宁'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

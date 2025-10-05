@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-LAXITY</source_entity>
+    <target_entity>PURE ACTIONS</target_entity>
+    <relationship_description>Non-laxity ensures consistent and mindful cultivation of pure actions without negligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

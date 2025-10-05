@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_BEYOND_ATTACHMENT</source_entity>
+    <target_entity>PURSUIT_OF_OUTCOMES</target_entity>
+    <relationship_description>WISDOM_BEYOND_ATTACHMENT prevents attachment to PURSUIT_OF_OUTCOMES.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>禅定要求彻底舍离放逸，放逸会阻碍心的专注与正念，破坏禅定的安稳。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

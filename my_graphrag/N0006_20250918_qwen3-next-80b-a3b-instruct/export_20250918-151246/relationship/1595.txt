@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The three poisons (greed, hatred, delusion) are the fundamental roots of all suffering in the Buddhist framework.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

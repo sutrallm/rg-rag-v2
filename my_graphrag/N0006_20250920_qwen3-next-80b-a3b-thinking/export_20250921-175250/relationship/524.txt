@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTENTMENT</source_entity>
+    <target_entity>DAILY NEEDS</target_entity>
+    <relationship_description>Contentment involves finding satisfaction in life's basic daily needs.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

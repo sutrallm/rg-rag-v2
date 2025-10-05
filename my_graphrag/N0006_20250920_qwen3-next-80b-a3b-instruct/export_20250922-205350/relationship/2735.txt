@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Fannao (afflictions) obstruct Chanding; their presence fragments attention, while Chanding helps still and dissolve them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>保持正念可直接止息烦恼，如持灯稳持使光明不灭，心若不乱则烦恼自然止息。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

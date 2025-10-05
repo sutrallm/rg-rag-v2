@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行成果应由修行者自省衡量，表现为内心贪嗔痴减少、慈悲智慧增长，而非外在评价。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

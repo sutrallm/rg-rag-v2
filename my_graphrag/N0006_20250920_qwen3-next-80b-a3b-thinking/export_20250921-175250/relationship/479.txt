@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>KARMA OBSTACLES</target_entity>
+    <relationship_description>The mind is the root of karmic obstacles through unwholesome intentions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

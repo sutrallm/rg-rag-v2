@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修成果</source_entity>
+    <target_entity>心解脱者</target_entity>
+    <relationship_description>心解脱者虽可能经历禅修成果，但因其已超越对一切境界的执取（包括禅悦），故不贪著这些体验，体现了与普通修行者对待禅修成果的根本区别。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

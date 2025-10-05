@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>心识依缘而生、无自性，是空性在心理层面的体现，如实了知心识可契入空性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHIJIAN YINGYING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shijian yingying reflects the outer expression of inner chanding, where equanimity and non-attachment are maintained even in worldly engagement.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

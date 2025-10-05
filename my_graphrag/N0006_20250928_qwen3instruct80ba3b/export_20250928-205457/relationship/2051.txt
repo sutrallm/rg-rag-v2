@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YIFABUYIREN YIYIBUYUYU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>This principle warns against blind faith and encourages direct experiential insight through practices like chanding, not mere intellectual belief.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

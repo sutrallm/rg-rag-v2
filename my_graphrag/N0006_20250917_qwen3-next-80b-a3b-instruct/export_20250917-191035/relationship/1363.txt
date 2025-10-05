@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>MORAL DISCIPLINE</target_entity>
+    <relationship_description>Saintly qualities arise from the foundation of moral discipline, which cleanses behavior and supports inner harmony necessary for deep wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

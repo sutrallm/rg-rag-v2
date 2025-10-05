@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脱即是涅槃寂静的当下体现，二者本质相同，是烦恼止息、觉性现前的状态。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

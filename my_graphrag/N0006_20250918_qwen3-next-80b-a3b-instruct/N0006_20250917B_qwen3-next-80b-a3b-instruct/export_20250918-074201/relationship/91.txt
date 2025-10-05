@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>SAMSAra</target_entity>
+    <relationship_description>Greed fuels attachment, which binds beings to the cycle of birth and death in samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>所缘对象</target_entity>
+    <relationship_description>禅定要求心念持续专注于所缘对象，以此为基础达成专注与平静。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

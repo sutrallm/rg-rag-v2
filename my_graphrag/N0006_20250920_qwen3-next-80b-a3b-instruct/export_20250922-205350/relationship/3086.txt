@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>无我观照的实践是直接瓦解我执的方法，二者是破与立的辩证关系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

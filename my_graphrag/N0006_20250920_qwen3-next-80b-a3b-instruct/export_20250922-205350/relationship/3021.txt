@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>STANDARD_OF_SAINTHOOD</target_entity>
+    <relationship_description>Non-attachment is both a characteristic and a result of saintliness—saints no longer cling to anything, inner or outer.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

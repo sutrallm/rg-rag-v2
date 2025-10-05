@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>BIRTH, OLD AGE, SICKNESS, DEATH</target_entity>
+    <relationship_description>Saintly persons are liberated from the suffering inherent in birth, aging, sickness, and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

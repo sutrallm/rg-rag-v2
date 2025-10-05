@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>STRAIGHTFORWARD MINDFULNESS</target_entity>
+    <relationship_description>Chanding is established and sustained through continuous mindfulness; the two are causally and functionally interdependent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

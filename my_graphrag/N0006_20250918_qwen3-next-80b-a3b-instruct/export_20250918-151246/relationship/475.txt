@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is a practice that cultivates the inner conditions necessary for liberation, serving as both a tool and a signpost toward it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

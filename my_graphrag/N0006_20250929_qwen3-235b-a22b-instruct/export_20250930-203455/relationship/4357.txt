@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无明导致对五蕴的执着，智慧观照五蕴皆空可破除无明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

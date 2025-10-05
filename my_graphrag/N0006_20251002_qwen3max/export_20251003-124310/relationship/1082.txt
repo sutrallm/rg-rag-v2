@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀慧</source_entity>
+    <target_entity>六入</target_entity>
+    <relationship_description>觀慧觀察六入的無常、苦、無我本質，從而斷除對感官經驗的執著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

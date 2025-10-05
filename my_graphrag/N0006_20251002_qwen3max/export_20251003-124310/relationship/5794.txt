@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>慧能照見實相，斷盡煩惱，是達成解脫的關鍵要素。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

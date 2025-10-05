@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>聖者持續培育正念，使其身口意清淨，安住於寂靜中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

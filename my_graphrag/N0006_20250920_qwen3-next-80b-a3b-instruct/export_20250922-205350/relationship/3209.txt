@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saints possess unwavering wisdom and thus are free from the fundamental delusion that perpetuates suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

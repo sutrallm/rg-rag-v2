@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>CONCENTRATION develops the focused state necessary for WISDOM to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

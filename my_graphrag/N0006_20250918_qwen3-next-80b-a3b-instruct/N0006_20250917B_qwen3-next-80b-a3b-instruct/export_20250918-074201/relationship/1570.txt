@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>WUYU</target_entity>
+    <relationship_description>Sheli is the deliberate renunciation of attachment to Wuyu (sensual desires), which are seen as impermanent and ultimately unsatisfying.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

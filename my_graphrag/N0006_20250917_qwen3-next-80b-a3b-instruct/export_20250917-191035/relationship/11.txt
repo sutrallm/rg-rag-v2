@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuchang (impermanence) is the foundational observation that leads to the realization of wuwo (non-self); if all is in flux, no permanent self can be found.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

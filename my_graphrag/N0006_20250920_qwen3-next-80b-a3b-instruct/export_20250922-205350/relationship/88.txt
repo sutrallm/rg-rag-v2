@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTINUOUS AWARENESS</source_entity>
+    <target_entity>SPIRITUAL Liberation</target_entity>
+    <relationship_description>Continuous awareness is the daily practice that breaks the chains of ignorance, making spiritual liberation attainable in this very moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

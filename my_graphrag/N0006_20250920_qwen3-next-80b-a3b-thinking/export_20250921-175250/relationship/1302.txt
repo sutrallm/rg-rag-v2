@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEITY</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Deities respect practitioners who embody wisdom and precepts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

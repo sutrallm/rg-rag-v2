@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>ENDING AFFLICTIONS</target_entity>
+    <relationship_description>STILLNESS enables the eradication of AFFLICTIONS through mental clarity and purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>修行者必须具备精进，才能持续修习正道，避免懈怠。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

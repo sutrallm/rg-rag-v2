@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSORY_NATURE_OF_REALITY</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Understanding the illusory nature of reality is the highest expression of wisdom in Buddhist practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

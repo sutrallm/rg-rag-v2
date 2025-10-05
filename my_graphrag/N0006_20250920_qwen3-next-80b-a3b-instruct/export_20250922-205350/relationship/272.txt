@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Through deep chanding, one gains the stillness and clarity needed to observe the five aggregates and realize the truth of non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

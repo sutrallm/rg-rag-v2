@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>禅定若不配合超越执着的智慧，易陷入对禅相的贪著，智慧确保禅定不成为新的执著对象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

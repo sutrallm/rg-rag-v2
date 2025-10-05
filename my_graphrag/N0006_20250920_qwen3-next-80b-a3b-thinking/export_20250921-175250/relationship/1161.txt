@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>RIGHT PATH</target_entity>
+    <relationship_description>EFFORT is diligently applied along the RIGHT PATH for spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

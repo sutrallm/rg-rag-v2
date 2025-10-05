@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如理思惟</source_entity>
+    <target_entity>禪修者</target_entity>
+    <relationship_description>禪修者需具備如理思惟，作為循序漸進、穩步前進的修行態度。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

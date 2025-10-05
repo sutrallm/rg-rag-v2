@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMON</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiemei provides the ethical foundation required for Chanding; unethical behavior agitates the mind and prevents deep concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

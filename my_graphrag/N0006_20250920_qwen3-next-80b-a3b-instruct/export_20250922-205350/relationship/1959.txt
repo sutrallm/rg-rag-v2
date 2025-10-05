@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>精进是持续修行的动力，唯有不松懈地实践，才能步步迈向解脱，是解脱不可或缺的条件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

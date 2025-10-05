@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是戒定慧三学中的“定学”，是连接持戒与开发智慧的关键阶段。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

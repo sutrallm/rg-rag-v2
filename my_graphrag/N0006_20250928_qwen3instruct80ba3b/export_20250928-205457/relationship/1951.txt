@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CI BEI YU ZHIHUI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The saintly practitioner embodies perfect compassion and wisdom, having realized their non-attached, non-dual nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

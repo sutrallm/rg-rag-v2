@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧观</source_entity>
+    <target_entity>六入</target_entity>
+    <relationship_description>六入作为缘起环节，亦为慧观所察之法，以洞察其无常与苦的本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

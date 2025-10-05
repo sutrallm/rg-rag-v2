@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FU FA ZUI ZHONG GUI SU</source_entity>
+    <target_entity>WU ZHU</target_entity>
+    <relationship_description>Nirvana, as the ultimate destination, is defined by a mind that "abides nowhere"—exactly matching wu zhu.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

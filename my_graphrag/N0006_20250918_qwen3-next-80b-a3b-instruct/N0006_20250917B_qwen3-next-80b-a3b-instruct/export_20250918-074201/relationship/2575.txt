@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Chanding (concentration) provides the mental clarity and stability required to progress through the stages toward jiede (liberation).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

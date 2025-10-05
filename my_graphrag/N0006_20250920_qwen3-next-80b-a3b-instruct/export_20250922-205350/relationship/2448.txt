@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_CONDUCT</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Ethical conduct reduces mental turmoil and regret, allowing the mind to settle into stillness, which is essential for meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

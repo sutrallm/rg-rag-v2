@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JĪNGJÌN</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>Continuous diligent practice is necessary to break the cycle of rebirth; without it, one remains trapped.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

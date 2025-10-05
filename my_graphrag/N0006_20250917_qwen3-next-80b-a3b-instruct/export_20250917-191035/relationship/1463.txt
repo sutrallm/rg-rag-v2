@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN XIU ZHI ZUI ZHONG MU BIAO</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>The ultimate goal of meditation — seeing through the illusion of self — relies on discerning Wu Chang (impermanence) as a core characteristic of all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

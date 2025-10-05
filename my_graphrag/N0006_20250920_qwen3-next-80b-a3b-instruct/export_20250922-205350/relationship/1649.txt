@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT Meditation</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Insight meditation involves directly observing impermanence in all mental and physical phenomena to cultivate wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

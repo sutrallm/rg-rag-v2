@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Non-self observation (wuwo) is the method through which wisdom beyond attachment (wuzhi) is cultivated — recognizing the absence of a permanent self leads to non-clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

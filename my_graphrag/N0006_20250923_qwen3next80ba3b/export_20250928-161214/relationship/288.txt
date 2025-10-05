@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Precepts are one of the three essential components of the Threefold Training, forming the ethical foundation of Buddhist practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

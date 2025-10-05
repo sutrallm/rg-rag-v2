@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>TAN'AI</target_entity>
+    <relationship_description>Shengzhe have completely transcended Tan'ai (craving), which binds beings to samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

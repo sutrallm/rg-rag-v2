@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREAKING ATTACHMENT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>BREAKING ATTACHMENT is a method for treating AFFLICTIONS.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

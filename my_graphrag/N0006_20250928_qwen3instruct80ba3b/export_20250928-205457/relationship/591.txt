@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUANCHUFANNAO</source_entity>
+    <target_entity>CHENHUI</target_entity>
+    <relationship_description>Duan chu fan nao provides the method for observing Chenhui (hatred) as falsely constructed and self-harming, prompting its deconstruction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

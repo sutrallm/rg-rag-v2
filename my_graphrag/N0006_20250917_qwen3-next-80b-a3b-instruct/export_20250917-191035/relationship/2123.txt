@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Niepan is the state of the shengzhe—the liberated being who has extinguished all afflictions and resides in serene freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>如实了知一切现象皆苦，使修行者不执取，从而达成心解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

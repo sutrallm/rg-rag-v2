@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺知</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>真正的智慧源於覺知中的親身體證，而非理論學習，覺知是智慧生起的途徑。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU CHANG</source_entity>
+    <target_entity>GAN</target_entity>
+    <relationship_description>Understanding wu chang weakens gan by revealing that pleasurable experiences are fleeting and therefore not worth clinging to.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

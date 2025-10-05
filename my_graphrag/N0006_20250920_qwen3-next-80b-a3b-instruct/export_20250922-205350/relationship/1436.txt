@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary for zhinen (wisdom) to arise, enabling observation of impermanence, no-self, and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

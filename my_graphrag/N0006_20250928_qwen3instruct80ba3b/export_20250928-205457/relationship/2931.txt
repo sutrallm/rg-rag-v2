@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM_OF_NON-ATTACHMENT</target_entity>
+    <relationship_description>Insight into impermanence is the core of wisdom of non-attachment: seeing all things as transient dissolves clinging to them, including spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

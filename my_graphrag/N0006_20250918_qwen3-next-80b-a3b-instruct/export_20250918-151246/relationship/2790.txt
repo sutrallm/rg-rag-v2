@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>JINGMI</target_entity>
+    <relationship_description>When Fan Nao (afflictions) are eradicated, Jingmi (stillness) naturally arises as the mind is no longer agitated by craving or aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

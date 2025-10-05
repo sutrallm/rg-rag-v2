@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>观慧</target_entity>
+    <relationship_description>四念处是观慧开展的基础训练，通过观察身受心法为后续深入观照无常苦无我铺路。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

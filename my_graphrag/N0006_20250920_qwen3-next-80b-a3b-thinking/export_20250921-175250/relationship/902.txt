@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>CELESTIAL BEINGS show reverence toward SAGES due to their spiritual attainment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

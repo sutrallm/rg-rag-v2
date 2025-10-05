@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHIZHE</target_entity>
+    <relationship_description>Chanding (meditative concentration) enables the clarity and stability needed for Chizhe (wisdom of non-attachment) to arise through direct observation of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND CULTIVATION</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>MIND CULTIVATION leads to STILLNESS through consistent mental development.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

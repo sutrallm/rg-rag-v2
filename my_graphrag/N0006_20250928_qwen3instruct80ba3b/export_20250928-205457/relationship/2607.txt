@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUYI</target_entity>
+    <relationship_description>Wuwo (non-self) is understood through the examination of wuyi (five aggregates), which reveal that what we call "self" is merely a transient combination of physical and mental factors.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

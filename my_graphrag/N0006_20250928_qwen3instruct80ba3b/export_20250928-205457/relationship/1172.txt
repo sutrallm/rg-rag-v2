@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Effort sustains the practice of chanding; without persistent diligence, chanding cannot be stabilized or deepened.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

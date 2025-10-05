@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>持戒与正念互为根基，持戒净化行为，正念净化心念，二者共同支撑禅定的发展。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

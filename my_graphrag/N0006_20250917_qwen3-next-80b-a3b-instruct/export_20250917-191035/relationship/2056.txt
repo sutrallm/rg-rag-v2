@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>GUOWEI</target_entity>
+    <relationship_description>Chaoshi cautions against attachment even to spiritual attainments, emphasizing non-clinging as the true path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

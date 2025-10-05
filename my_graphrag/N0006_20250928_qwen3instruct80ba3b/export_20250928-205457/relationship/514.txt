@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BA ZHENG DAO</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is explicitly one of the eight factors of the path, essential for progress.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

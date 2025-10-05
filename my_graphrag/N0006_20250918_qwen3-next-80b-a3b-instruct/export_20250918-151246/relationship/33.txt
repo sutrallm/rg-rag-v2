@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>NEARNESS</target_entity>
+    <relationship_description>Nirvana is defined by the complete cessation of attachment and clinging; thus, letting go of attachment leads directly to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

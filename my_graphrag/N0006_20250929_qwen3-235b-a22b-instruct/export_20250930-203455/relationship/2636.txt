@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心识净化</target_entity>
+    <relationship_description>修行者通过持续禅修与观照实现心识净化，使杂染沉淀、清净本性显现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

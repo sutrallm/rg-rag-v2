@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>无我观是智慧的实践方式之一，通过观照五蕴无我，破除执着，从而增长智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

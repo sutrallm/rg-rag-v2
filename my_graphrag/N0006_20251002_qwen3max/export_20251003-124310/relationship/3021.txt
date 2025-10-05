@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>定力</target_entity>
+    <relationship_description>内心真正离欲能使定力稳固，二者存在因果关系：离欲为因，定力为果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

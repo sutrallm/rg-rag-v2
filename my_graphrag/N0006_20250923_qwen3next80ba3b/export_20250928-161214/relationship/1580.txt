@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>PROCESSING FORMAT REQUIREMENTS</target_entity>
+    <relationship_description>The assistant uses the processing format requirements to structure its response.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

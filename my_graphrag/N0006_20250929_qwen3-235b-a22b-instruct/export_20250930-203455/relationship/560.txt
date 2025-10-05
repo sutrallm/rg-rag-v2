@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>慈悲心使修行者不执着于任何境界，因平等心超越境界分别。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

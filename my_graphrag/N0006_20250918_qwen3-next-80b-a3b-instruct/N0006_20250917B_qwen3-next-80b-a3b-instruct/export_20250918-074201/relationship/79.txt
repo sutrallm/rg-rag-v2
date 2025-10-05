@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BAO HU LIU GEN</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Bao hu liu gen is an expression of zhengnian in action — applying mindfulness to the sensory gates to prevent mental defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

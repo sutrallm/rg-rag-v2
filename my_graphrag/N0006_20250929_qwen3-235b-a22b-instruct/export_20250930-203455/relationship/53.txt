@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>解脱需修定以凝心神，禅定是通往解脱的关键阶段。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

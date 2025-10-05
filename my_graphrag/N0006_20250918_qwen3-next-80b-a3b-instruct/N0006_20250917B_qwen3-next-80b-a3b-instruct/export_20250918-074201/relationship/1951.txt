@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>A sage has completely eradicated the three poisons (贪嗔痴), which defines their liberated state and distinguishes them from ordinary beings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

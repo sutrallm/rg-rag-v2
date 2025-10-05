@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_MINDFULNESS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Daily mindfulness is the practical extension of general mindfulness into everyday life, making awareness continuous rather than limited to formal meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

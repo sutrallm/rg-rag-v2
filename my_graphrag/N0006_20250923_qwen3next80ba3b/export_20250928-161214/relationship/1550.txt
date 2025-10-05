@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>譬喻</source_entity>
+    <target_entity>法义</target_entity>
+    <relationship_description>譬喻需转化为直接的法义陈述以明确教义</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

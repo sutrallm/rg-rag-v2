@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Wisdom directly addresses and dispels ignorance, as "依智慧破除无明" explicitly shows this causal relationship.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

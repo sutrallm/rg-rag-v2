@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT (WISDOM)</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Direct insight into the empty nature of phenomena naturally results in non-clinging and non-grasping.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

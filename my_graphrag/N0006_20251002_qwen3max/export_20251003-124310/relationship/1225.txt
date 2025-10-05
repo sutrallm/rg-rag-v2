@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是戒定慧三学中的核心组成部分，居于戒与慧之间，由戒生定，由定发慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

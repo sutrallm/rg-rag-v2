@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>提供</source_entity>
+    <target_entity>原文</target_entity>
+    <relationship_description>"提供" (provide) is the action performed on "原文" (original content).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

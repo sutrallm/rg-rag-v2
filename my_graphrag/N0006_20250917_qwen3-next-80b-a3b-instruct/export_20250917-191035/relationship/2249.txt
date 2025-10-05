@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT_TO_EXPERIENCES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Even meditative bliss can become an obstacle; true chanding involves transcending attachment to its pleasant states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

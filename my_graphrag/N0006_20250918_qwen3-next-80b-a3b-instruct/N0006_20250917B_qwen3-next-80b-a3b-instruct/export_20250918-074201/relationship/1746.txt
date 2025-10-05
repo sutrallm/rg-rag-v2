@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOGUAN ZHIZHU</target_entity>
+    <relationship_description>Chanding enables the development of Chaoguan Zhizhu (wisdom of non-attachment), allowing practitioners to observe mental states without clinging to them.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Insight arises from seeing the true nature of phenomena, which directly dismantles clinging by revealing their emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

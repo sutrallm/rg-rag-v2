@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>“无我”的体证源于洞察五蕴只是暂时聚合的假名，五蕴是无我观念所针对的对象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

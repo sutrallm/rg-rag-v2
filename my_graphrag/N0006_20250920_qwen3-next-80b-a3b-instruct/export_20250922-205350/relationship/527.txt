@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Shengzhe (the noble one) is the embodiment of jiede, having fully realized liberation through wisdom and ethical conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

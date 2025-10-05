@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>內心的平靜</source_entity>
+    <target_entity>世間成就</target_entity>
+    <relationship_description>內心的平靜被強調遠勝世間成就，後者若無煩惱斷除仍屬凡夫境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

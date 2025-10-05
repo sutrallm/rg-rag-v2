@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>阿罗汉</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>阿罗汉是证得涅槃的人，二者是证悟者与证悟境界的关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

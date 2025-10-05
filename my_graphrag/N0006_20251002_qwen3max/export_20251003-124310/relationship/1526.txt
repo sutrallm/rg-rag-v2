@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>观照无常能够破除执著，因为了知一切现象无常，便不会执取为“我”或“我所”。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

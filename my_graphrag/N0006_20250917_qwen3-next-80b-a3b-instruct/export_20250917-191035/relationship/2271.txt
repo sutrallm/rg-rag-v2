@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>大地</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>大地不執著於任何事物，承載萬物而不據為己有，是無我精神的具體象徵。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

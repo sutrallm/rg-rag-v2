@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念不放逸</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念不放逸是維持禪定持續不散亂的實踐方式，是禪定的核心實修方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

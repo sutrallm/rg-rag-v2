@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Exertion is the sustained effort required to eliminate sloth and maintain the practices (chanding and wisdom) that lead ultimately to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

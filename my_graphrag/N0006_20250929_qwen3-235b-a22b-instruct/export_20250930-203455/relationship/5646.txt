@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>觉知是正念在日常行住坐卧中的具体实践，是保持不随外境流转的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

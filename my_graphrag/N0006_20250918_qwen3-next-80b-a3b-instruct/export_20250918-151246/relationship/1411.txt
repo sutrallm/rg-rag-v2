@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Saintly qualities include the abandonment of aversion as part of inner purification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>精進是修習禪定的必要態度，唯有恆常勤修才能掌握禪定核心，否則易放逸墮落。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>众生</target_entity>
+    <relationship_description>慈悲的对象是众生，修行者因见众生之苦而生悲愿，为拔苦而行菩萨行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

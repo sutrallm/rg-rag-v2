@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>CELESTIAL_BEINGS</target_entity>
+    <relationship_description>Enlightened saints inspire awe and reverence even among celestial beings due to their purity and transcendence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOWUZHUO</target_entity>
+    <relationship_description>Chanding provides the mental clarity necessary to cultivate Chaowuzhuo (wisdom beyond attachment); insight into impermanence arises through stable meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

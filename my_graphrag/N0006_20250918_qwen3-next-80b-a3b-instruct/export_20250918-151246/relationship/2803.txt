@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>A saintly being is distinguished by the full realization of wisdom, which enables detachment and transcendence of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

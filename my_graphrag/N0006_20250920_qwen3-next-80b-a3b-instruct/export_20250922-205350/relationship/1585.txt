@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真正的解脱</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>真正的解脱是对轮回的彻底超越，摆脱因执着与无明导致的生死循环。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

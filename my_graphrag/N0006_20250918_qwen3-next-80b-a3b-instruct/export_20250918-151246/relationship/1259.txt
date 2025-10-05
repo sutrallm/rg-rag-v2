@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_SAGE</source_entity>
+    <target_entity>MORAL_DISCIPLINE</target_entity>
+    <relationship_description>A true sage has fully accomplished moral discipline as part of their perfected cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

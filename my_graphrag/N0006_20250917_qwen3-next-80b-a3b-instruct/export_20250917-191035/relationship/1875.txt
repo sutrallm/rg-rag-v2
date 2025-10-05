@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness is the practical expression of meditative concentration in daily life; it sustains the stability of mind cultivated in formal chanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

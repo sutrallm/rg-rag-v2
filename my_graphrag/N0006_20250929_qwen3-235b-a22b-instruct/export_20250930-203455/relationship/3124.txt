@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>佛果</target_entity>
+    <relationship_description>修行者通过戒定慧圆融成就佛果，佛果是其修行终极成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

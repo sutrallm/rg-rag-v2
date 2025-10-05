@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>修行者以四念处为实修方法，如实观察身受心法生灭，不加评判，通向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

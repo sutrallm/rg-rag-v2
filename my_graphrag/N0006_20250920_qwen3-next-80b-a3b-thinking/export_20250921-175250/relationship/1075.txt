@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHTFOLD PATH</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>RIGHT MINDFULNESS is a core element of the Eightfold Path for awareness and insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

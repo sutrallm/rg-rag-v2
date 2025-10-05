@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSATIONS</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Transient sensations can become sources of attachment if not observed with mindfulness and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

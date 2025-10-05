@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX PERFECTIONS</source_entity>
+    <target_entity>CHARITY</target_entity>
+    <relationship_description>Charity serves as the first of the six perfections for benefiting others.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

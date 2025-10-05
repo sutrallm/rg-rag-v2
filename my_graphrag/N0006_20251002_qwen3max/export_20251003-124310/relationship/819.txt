@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>解脫者</target_entity>
+    <relationship_description>真正具備戒定慧三學圓滿的修行者，即是已證解脫的聖者，能徹底斷除煩惱並成為世間福田。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

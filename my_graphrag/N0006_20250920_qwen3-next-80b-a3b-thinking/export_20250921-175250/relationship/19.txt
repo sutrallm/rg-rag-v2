@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文如下</source_entity>
+    <target_entity>具体内容</target_entity>
+    <relationship_description>Specific content (具体内容) is expected to follow the "原文如下" phrase in the query.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

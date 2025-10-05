@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>LING</target_entity>
+    <relationship_description>Chanding is a practice aimed at stabilizing and calming the mind (ling), making it free from distraction and agitation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

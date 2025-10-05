@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>XIUXUE CIDI</target_entity>
+    <relationship_description>Chanding is the second stage in the threefold path of spiritual practice, following moral discipline and preceding wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

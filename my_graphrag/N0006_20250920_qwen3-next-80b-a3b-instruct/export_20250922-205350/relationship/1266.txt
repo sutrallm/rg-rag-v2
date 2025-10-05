@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LETTING_GO</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is achieved only through the complete act of Letting Go of all worldly and self-centered clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

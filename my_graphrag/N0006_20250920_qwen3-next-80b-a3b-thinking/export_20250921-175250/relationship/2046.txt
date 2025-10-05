@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN NIAN</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>心念通过正念保持专注，是禅定修持的基础环节，避免散乱纷扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhihui enables the realization of wuwo — insight into non-self is the core wisdom that dismantles the illusion of a permanent self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

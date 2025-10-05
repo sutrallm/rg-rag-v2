@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴 (FIVE AGGREGATES)</source_entity>
+    <target_entity>正念 (MINDFULNESS)</target_entity>
+    <relationship_description>Mindfulness is the method by which practitioners observe and directly experience the nature of the five aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNATE_BUDDHA_NATURE</source_entity>
+    <target_entity>STAGE_OF_SAGE</target_entity>
+    <relationship_description>The Sage embodies the full expression of Innate Buddha Nature, having removed all obscurations and revealing the true mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

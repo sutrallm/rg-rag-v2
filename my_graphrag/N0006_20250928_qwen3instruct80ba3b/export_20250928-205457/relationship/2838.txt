@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Zhihui affirms the value of Jie by revealing how moral conduct aligns with the insight of impermanence and non-self, preventing moral laxity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

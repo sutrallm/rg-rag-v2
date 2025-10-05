@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANZHI</source_entity>
+    <target_entity>CHAOYUE ZHUZHI</target_entity>
+    <relationship_description>Inner observation (Guanzhi) is the method by which one develops the wisdom to transcend attachment, seeing clearly the impermanent and selfless nature of experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

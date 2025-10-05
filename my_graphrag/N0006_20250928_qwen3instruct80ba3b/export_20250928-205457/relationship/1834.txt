@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION_IN_PRACTICE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Continuous exertion in practice is required to overcome ignorance and prevent falling into delusion and samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

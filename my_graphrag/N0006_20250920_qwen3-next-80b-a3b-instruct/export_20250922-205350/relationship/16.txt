@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>Birth and death (生死) are sustained by ignorance (无明)—the failure to see reality as it is—making ignorance the root cause of existential suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

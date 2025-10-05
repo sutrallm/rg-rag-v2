@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Mindestness is foundational to chanding, which itself is part of the threefold training, making mindfulness indirectly essential to the entire path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

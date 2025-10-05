@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定帮助修行者远离散乱与烦恼，当心不再攀缘外境，烦恼便无从生起。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

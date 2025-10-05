@@ -1,0 +1,4 @@
+<heading>Repeated Missing Source Text Notifications After Separator Lines<\heading>
+Messages and instructions repeatedly note missing source text for translation after separator lines (e.g., "--------------").
+
+Each prompt requires user-provided text for processing.

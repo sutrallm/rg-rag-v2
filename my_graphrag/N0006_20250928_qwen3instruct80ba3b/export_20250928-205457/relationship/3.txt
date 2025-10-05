@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT_WISDOM</source_entity>
+    <target_entity>NON_ATTACHED_PRACTICE</target_entity>
+    <relationship_description>Transcendent wisdom naturally leads to non-attached practice, as one no longer clings to spiritual experiences or supernatural powers.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

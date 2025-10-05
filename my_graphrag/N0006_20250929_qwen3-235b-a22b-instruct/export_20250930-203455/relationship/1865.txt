@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>我执源于误认五蕴为恒常实有的“我”，如实观察五蕴的因缘和合与刹那生灭能破除我执。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

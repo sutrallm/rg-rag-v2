@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAN DU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>San du are the root obstacles that Shengzhe have overcome — they define the state of being from which Shengzhe emerged.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

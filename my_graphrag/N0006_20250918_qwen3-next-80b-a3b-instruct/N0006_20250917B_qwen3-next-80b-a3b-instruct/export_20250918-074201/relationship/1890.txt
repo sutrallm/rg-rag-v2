@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Anger stems from the misconception that self and other are fixed and separate—a deluded view that suffering reinforces.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

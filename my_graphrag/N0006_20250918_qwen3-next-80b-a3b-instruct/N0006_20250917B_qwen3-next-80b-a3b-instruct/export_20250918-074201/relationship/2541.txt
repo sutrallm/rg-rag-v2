@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>當下</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>對當下的如实觀照，是開發智慧的直接途徑，能穿透「我」與執著的幻相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

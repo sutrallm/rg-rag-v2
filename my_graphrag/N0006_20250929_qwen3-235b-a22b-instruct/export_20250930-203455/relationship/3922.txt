@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>贪嗔是因执着“我”而生起的贪欲与嗔恚，需通过无我观破除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

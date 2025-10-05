@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FEIFA</source_entity>
+    <target_entity>KONGTAN</target_entity>
+    <relationship_description>Feifa explicitly rejects Kongtan (empty ritual or talk), insisting that true Dharma is lived through direct awareness, not theatrical or intellectual displays.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>FEAR</target_entity>
+    <relationship_description>Desire and fear are two sides of the same coin—attachment to gain and aversion to loss—both arising from ignorance and binding the mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

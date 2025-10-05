@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ELEPHANT</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>PRACTITIONER embodies the steadfastness of an ELEPHANT when navigating spiritual challenges</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

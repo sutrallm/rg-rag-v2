@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实观见</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>如实观见是实践超越执着智慧的具体方法，智慧通过如实观见得以生起与深化。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

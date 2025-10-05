@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Neiguan is the method through which one directly perceives wuchang (impermanence) in the flow of mental and physical phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

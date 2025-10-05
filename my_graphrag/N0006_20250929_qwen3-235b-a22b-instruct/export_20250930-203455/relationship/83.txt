@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修定</source_entity>
+    <target_entity>修慧</target_entity>
+    <relationship_description>修定为修慧提供专注与稳定的心境，若无修定则修慧难以成就，二者相辅相成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

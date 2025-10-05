@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chanding provides the mental stillness necessary to realize non-attachment, as a calm mind can clearly observe impermanence and non-self without being pulled by desire or aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

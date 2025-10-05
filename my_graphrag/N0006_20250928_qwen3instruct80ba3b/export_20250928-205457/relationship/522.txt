@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINJIEDE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Xinjiede and niepan are synonymous: the liberated mind is the realized nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

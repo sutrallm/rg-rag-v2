@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEDINGHUI</target_entity>
+    <relationship_description>Chanding is the middle stage of jiedinghui; it arises from jie and leads to hui, forming a core component of the threefold path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

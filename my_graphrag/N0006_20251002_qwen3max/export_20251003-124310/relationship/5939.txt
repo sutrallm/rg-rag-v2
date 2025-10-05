@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>次第</source_entity>
+    <target_entity>四禅八定</target_entity>
+    <relationship_description>四禅八定是修行次第中由浅入深的定境层次，需按部就班修习而达成。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

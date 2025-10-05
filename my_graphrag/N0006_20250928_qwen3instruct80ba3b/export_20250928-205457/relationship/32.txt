@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSES</source_entity>
+    <target_entity>SAINTLY QUALITIES</target_entity>
+    <relationship_description>Saintly beings consistently guard the six senses to prevent sensory-induced craving and disturbance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

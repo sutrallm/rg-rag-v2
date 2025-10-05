@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhineneg culminates in the realization of Wuwo (non-self), destroying the illusion of a separate, permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

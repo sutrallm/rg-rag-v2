@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI YIQIE ZHIZHUO</source_entity>
+    <target_entity>SAMSA</target_entity>
+    <relationship_description>Complete relinquishment of all attachment (sheli yiqie zhizhuo) is the key to exiting samsara and achieving true freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

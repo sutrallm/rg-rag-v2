@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>精进修行是获得超越执着智慧的前提，唯有持续不懈，才能深入观照诸法实相，从而破除执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

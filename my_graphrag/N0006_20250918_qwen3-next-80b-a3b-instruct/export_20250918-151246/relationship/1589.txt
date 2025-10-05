@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realizing non-self is the transformative insight that leads directly to liberation from the illusion of bondage.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>享樂</target_entity>
+    <relationship_description>不放逸要求不貪著享樂，若貪著享樂則會陷於迷惑與苦迫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

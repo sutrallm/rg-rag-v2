@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTY-MIND</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The empty-mind state is the experiential manifestation of liberation: non-attachment to any state or concept.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

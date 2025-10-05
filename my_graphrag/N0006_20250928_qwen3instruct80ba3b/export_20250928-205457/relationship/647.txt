@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>执着使众生依附于现象，从而持续流转于生死，是轮回的强化因素。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

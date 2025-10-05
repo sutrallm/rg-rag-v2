@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>菩提心</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>菩提心需以智慧为引导，避免落入执着，实现自他利益的圆满。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NINGPAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Ningpan arises when the illusion of Wuwo (self) is fully seen through; there is no "self" to suffer or attain.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

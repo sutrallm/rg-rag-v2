@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The sage has destroyed delusion by realizing the true nature of reality—non-self, impermanence, and interdependence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

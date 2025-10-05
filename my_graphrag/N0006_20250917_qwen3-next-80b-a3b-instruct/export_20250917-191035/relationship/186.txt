@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXTERNAL_CONDITIONS</source_entity>
+    <target_entity>STABILITY_OF_MIND</target_entity>
+    <relationship_description>A serene mind remains unmoved by external conditions, demonstrating the maturity of inner stability.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

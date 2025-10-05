@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>CHATING</target_entity>
+    <relationship_description>Saintly beings have perfected chanting as part of their purified mind and deep meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD_ACTIONS</source_entity>
+    <target_entity>CHANTHING</target_entity>
+    <relationship_description>Good actions create the ethical foundation necessary for the mind to settle into chanthing, reducing guilt and mental unrest.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

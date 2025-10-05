@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定力</source_entity>
+    <target_entity>慧观</target_entity>
+    <relationship_description>定力使心稳定，为慧观破除无明提供必要条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

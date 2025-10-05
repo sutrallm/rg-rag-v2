@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>涅槃是解脱后所达到的寂静状态，心无挂碍，无有恐惧与忧恼，是解脱的最终体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

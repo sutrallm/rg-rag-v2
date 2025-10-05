@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知当下</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>觉知当下是禅定修习中的关键方法，通过如实观照维持正念，支持禅定的深入。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

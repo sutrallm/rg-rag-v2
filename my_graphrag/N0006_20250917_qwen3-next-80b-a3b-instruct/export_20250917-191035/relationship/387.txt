@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>INCORPORATED PRACTICE</target_entity>
+    <relationship_description>Chan Ding requires continuous, diligent practice (incorporated practice) to be sustained and deepen; without effort, meditation cannot be stabilized.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

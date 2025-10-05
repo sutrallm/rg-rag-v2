@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>ETHICAL_CONDUCT</target_entity>
+    <relationship_description>Saintly qualities arise only when ethical conduct is fully cultivated, as it is the foundational support for mental clarity and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

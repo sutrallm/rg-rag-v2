@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初禅</source_entity>
+    <target_entity>伺</target_entity>
+    <relationship_description>伺是初禅的禅支之一，初禅具足寻、伺、喜、乐、一心五支。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

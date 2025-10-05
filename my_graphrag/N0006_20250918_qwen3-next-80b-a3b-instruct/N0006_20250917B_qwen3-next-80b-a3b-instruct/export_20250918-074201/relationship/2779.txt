@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JEJIN</target_entity>
+    <relationship_description>Jejin provides the sustained effort necessary to establish and maintain Chanding; without diligence, meditative concentration cannot be perfected.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

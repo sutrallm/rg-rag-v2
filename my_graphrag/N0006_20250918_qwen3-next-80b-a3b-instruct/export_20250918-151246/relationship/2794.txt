@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>A Shengzhe fully realizes Wuwo — they have transcended the illusion of self, which is core to their noble status.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

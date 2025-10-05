@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>调伏自心</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>调伏自心需依靠时时觉察、念念分明，即正念的持续实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

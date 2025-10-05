@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>ETHICAL DISCIPLINE</target_entity>
+    <relationship_description>Continuous effort supports the observance of ethical discipline, which in turn creates the conditions for mental stability and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

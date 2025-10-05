@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN DE CIDI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the second stage in the progressive path of mental cultivation, following the guarding of the senses and preceding insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

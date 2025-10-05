@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>SHENG SI LUN HUI</target_entity>
+    <relationship_description>Sheng Zhe has transcended Sheng Si Lun Hui by eliminating the causes of rebirth through wisdom and ethical purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

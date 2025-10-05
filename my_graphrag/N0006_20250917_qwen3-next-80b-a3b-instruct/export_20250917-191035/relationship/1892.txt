@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>圣者破除愚痴，即证得无明的根本转化，是觉醒状态的核心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

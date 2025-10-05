@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>一切苦的根源在于对“我”的执取，认清无我实相是终结苦的根本途径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is not a thing to be attained by a self; understanding no-self reveals that nirvana is the absence of clinging to any conceptual goal, including nirvana itself.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DEDICATION</target_entity>
+    <relationship_description>Dedication is essential to master chanding; without persistent effort, one cannot stabilize the meditative state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>瞋是煩惱的主要表現形式之一，擾亂心性，障礙解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

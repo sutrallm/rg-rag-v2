@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Saints realize non-self as the core insight that uproots all suffering, forming the foundation of their wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

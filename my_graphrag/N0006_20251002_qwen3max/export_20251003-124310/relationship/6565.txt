@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蓋</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>五蓋是障礙禪定的主要煩惱，唯有平息五蓋才能證入初禪。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

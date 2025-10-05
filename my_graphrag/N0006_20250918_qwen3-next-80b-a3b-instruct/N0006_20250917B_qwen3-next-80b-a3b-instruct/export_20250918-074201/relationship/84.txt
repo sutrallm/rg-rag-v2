@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>While chanding provides mental stillness, zhinen provides the insight that prevents clinging to meditative states, making the two complementary.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>The five aggregates (五蕴) are the building blocks of conditioned existence, which perpetuate the cycle of birth and death (生死轮回) when misunderstood as a permanent self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

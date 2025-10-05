@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持續的覺察</source_entity>
+    <target_entity>因緣所生之法</target_entity>
+    <relationship_description>透過持續的覺察，修行者能清楚了知因緣所生之法的剎那生滅與不可掌控。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

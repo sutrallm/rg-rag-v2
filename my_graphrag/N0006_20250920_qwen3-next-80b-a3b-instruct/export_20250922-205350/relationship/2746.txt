@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wuyu (five desires) are obstacles to Chanding — attachment to sensory pleasures scatters the mind and prevents concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

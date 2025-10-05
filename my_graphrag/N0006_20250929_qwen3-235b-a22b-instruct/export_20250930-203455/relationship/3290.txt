@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法</source_entity>
+    <target_entity>清净</target_entity>
+    <relationship_description>依佛法修行者能逐步体验内心清净，这是烦恼减轻、智慧增长的体现，是通向解脱的必经过程。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

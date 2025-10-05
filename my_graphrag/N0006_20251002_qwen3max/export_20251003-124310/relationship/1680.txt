@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>圣者已断除愚痴，心恒常安住于无扰的寂静中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

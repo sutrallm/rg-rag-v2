@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>所缘境</target_entity>
+    <relationship_description>禅修中需将心念安住于所缘境，所缘境是专注的对象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

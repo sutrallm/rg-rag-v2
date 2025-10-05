@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realizing that there is no fixed self removes the root of ego-clinging, which is the key mechanism of bondage — thus directly enabling liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

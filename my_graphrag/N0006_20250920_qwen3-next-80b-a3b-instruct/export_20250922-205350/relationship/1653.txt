@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_LIBERATION</source_entity>
+    <target_entity>SAINTLY_BEING</target_entity>
+    <relationship_description>A saintly being is one who has attained true liberation — free from craving, aversion, ignorance, and all forms of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

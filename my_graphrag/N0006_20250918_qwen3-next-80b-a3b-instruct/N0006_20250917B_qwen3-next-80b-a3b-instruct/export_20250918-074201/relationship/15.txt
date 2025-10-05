@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JIE TUAO BU SHOU SHI KONG JI XIAN ZHI</target_entity>
+    <relationship_description>Sages exemplify liberation as an inner transformation that is not bound by external conditions, as described in the concept of timeless emancipation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

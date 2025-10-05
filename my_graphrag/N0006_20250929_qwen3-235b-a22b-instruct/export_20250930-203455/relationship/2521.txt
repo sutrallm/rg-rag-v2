@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的调伏</source_entity>
+    <target_entity>缰绳</target_entity>
+    <relationship_description>缰绳比喻正念与正知，是调伏散乱之心、使其趋于平静的工具。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

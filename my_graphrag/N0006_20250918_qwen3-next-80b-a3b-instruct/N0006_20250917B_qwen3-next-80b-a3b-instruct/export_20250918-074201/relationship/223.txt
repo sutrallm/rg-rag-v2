@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Chanding calms reactive emotions like anger by stabilizing the mind and reducing reactivity to external stimuli.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

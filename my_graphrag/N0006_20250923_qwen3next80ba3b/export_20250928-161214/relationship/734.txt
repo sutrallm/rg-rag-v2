@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CURRENT MESSAGE</source_entity>
+    <target_entity>ORIGINAL TEXT PLACEHOLDER</target_entity>
+    <relationship_description>The current message contains the placeholder string "原文如下：--------------" to indicate where the original text should be inserted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

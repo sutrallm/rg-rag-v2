@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>身心观察</source_entity>
+    <target_entity>戒</target_entity>
+    <relationship_description>身心观察帮助持戒清净，通过如实觉知当下，远离烦恼、安住寂静。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

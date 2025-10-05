@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-Attachment, born from wisdom, directly leads to Liberation by dissolving all forms of clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

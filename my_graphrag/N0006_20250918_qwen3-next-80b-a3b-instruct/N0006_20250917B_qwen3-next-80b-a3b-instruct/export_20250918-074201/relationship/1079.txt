@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>破除分别的执着</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>分别心源于无明，破除分别即是直接对治无明的修行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

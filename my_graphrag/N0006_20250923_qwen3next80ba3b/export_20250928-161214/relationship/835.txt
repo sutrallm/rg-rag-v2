@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMLESS DHARMA GATE</source_entity>
+    <target_entity>BREAKING ATTACHMENT</target_entity>
+    <relationship_description>The FORMLESS DHARMA GATE is a method specifically designed to achieve BREAKING ATTACHMENT to conceptual forms.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

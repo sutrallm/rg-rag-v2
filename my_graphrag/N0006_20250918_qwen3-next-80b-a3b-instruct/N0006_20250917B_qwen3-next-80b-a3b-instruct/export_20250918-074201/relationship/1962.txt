@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>THE_FIVE_AGREGATES</target_entity>
+    <relationship_description>Saints directly perceive the five aggregates as empty and not-self, which allows them to transcend suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

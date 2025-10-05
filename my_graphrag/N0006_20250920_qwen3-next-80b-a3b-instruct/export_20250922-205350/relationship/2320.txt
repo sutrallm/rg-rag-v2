@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>风中烛</source_entity>
+    <target_entity>戒行</target_entity>
+    <relationship_description>The metaphor of "a candle in the wind" (风中烛) illustrates how meditation collapses without the stabilizing foundation of moral discipline (戒行).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETAILED_PRACTICE</source_entity>
+    <target_entity>TRAVERSING_SAMSARA</target_entity>
+    <relationship_description>Diligent daily practice is the antidote to falling deeper into the cycle of samsara, which is fueled by negligence and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

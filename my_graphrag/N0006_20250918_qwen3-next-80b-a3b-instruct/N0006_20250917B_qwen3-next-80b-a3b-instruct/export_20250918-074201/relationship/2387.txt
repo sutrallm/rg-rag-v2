@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定为智慧生起提供基础，而智慧又能超越禅定中的执著，二者相辅相成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

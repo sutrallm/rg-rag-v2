@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Understanding suffering leads to realization of the non-self nature.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPT STUDY</source_entity>
+    <target_entity>HARMONIZATION</target_entity>
+    <relationship_description>PRECEPT STUDY is a critical component harmonized in the threefold training for spiritual progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

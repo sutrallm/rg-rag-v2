@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION_PRACTICE</source_entity>
+    <target_entity>MENTAL_LIBERATION</target_entity>
+    <relationship_description>MEDITATION_PRACTICE leads to MENTAL_LIBERATION by freeing the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

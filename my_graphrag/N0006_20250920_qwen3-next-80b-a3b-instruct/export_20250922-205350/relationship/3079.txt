@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>正念使修行者如实观照实相，从而导向正见的生起，是通向智慧的关键路径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

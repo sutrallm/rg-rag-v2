@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺悟者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>覺悟者的心境建立在禪定所帶來的內在安定與覺察力之上。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

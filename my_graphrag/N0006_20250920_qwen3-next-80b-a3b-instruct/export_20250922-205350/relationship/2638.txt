@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN JUECHA</source_entity>
+    <target_entity>WUWU GUAN</target_entity>
+    <relationship_description>Mindful awareness in daily life is the practical method through which one cultivates the insight of non-self in real-time experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>圣者开发智慧，如实了知真理，断除烦恼与執見。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

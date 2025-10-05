@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Fannao (afflictions) arise from ignorance of wuwo (non-self); realizing non-self directly uproots the cause of all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

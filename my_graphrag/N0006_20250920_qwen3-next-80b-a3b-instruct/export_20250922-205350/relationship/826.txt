@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness is the foundational practice that supports and sustains chanding, ensuring continuous awareness and preventing mental distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

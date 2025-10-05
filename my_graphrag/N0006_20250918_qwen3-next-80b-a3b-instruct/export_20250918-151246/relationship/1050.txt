@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INNER QUIET</target_entity>
+    <relationship_description>Chanding leads to inner quiet by stabilizing the mind and freeing it from distracting thoughts and emotional turbulence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱通过日常的觉知实践实现，每一刻的如实观察都是通往解脱的路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

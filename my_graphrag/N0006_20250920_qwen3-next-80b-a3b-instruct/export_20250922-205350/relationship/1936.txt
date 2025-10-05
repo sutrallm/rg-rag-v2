@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念是禅定的实践形式，二者相辅相成，正念使禅定融入日常，禅定深化正念的持续性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

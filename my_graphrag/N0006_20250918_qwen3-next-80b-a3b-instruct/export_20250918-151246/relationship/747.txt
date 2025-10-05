@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CALMNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Calmness is both the result of successful chanding and the internal state that allows chanding to deepen without distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

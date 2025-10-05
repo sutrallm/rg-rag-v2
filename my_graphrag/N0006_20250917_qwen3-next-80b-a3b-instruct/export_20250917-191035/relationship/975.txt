@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Enlightened beings are defined by their profound wisdom into reality’s true nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

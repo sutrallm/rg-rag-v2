@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已彻底断尽贪嗔痴三毒，不再被其驱使，因而达到内心彻底解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

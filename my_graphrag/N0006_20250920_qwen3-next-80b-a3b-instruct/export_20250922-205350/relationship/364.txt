@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUZHUO</target_entity>
+    <relationship_description>Saintly beings possess complete wuzhuo — they are utterly free from clinging to any experience or attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

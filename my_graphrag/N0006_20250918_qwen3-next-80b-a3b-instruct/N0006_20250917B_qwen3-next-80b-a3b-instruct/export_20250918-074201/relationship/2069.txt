@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Chanding serves as a foundational practice that leads to liberation by calming the mind and reducing attachment to distractions and妄想.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

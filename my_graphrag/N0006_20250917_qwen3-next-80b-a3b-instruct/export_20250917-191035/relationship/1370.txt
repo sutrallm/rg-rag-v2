@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>LUN HUI</target_entity>
+    <relationship_description>Continuous effort (Jing Jin) allows one to progressively distance oneself from the cycle of rebirth and its associated suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

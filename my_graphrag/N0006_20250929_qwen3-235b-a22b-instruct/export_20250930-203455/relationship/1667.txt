@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修误区</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>贪恋轻安是禅修误区之一，会偏离真正的禅定——无住无求、如实知见。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENGING</source_entity>
+    <target_entity>PRESENT-MOMENT AWARENESS</target_entity>
+    <relationship_description>Continuous effort (senging) is required to sustain present-moment awareness, which is not passive but demands consistent mindfulness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

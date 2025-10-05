@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Delusion is the root cause that gives rise to greed, as it misleads one to perceive impermanent things as desirable and lasting.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

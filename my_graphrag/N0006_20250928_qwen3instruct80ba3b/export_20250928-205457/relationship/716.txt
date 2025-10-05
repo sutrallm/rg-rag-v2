@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Hatred is one of the three poisons that give rise to suffering through aversion and resistance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

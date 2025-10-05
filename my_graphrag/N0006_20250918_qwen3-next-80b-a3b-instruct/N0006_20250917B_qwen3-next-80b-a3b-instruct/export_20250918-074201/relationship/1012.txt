@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUZHIZHIDI</target_entity>
+    <relationship_description>Wuwo is the core insight of Wuzhizhidi — realizing non-self leads to non-attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

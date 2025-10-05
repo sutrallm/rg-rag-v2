@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Meditation depends on mindfulness to maintain present-moment awareness and prevent the mind from wandering into distraction or delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

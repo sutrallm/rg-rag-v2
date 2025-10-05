@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>JIANZHI</target_entity>
+    <relationship_description>Jianzhi (present-moment awareness) is described as the only path to jiede — enlightenment arises exclusively through continuous mindfulness of the now.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

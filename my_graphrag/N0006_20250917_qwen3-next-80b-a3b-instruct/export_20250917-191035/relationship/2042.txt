@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天界众神</target_entity>
+    <relationship_description>圣者因德行与智慧超越凡俗，连天界众神亦对其心生敬仰，显示其崇高地位。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

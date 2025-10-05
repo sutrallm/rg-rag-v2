@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEZHUO</source_entity>
+    <target_entity>WUSUODE</target_entity>
+    <relationship_description>Wusuode is the resolution of zezhuo; true liberation occurs when the desire to attain—a form of attachment—is relinquished.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

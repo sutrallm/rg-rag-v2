@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>SAINTLY BEINGS perceive the five aggregates as impermanent illusions, transcending attachment to them.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

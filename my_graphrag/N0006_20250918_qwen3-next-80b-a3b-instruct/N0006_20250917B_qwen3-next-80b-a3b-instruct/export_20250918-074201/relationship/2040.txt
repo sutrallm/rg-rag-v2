@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>贪瞋痴</target_entity>
+    <relationship_description>圣者已彻底断除贪瞋痴三毒，这是其超越生死轮回的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

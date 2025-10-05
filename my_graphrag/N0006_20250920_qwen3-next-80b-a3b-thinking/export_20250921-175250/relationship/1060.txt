@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING TRUTH</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>FIVE AGGREGATES represent the physical and mental components whose attachment leads to suffering in the Suffering Truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

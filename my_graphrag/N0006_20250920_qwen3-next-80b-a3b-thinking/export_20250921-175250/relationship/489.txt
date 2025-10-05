@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>DOCTRINAL DETAILS</target_entity>
+    <relationship_description>DOCTRINAL DETAILS are part of ORIGINAL TEXT that must be retained.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

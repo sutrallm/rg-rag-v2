@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MOMENT AWAKENING</source_entity>
+    <target_entity>TRUE STILLNESS</target_entity>
+    <relationship_description>True stillness is realized through present-moment awakening — when one is not disturbed by internal disturbances while being fully aware of current experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

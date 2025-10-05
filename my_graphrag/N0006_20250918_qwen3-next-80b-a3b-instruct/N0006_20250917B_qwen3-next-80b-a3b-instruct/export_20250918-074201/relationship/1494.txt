@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>CHI</target_entity>
+    <relationship_description>Wuwo is the direct antidote to chi—the delusion of self—so true insight into non-self eliminates ignorance at its root.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>解脱需通过修定使心安定，禅定是断除烦恼、证得无漏智慧的必要阶段。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

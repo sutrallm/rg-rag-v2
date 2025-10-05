@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHING_WISDOM</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Non-attaching wisdom prevents one from clinging to meditative states, allowing chanding to be stable and unconditioned.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

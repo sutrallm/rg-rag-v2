@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION_PURE</target_entity>
+    <relationship_description>Greed is fueled by delusion — the mistaken belief that objects or experiences can bring lasting satisfaction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

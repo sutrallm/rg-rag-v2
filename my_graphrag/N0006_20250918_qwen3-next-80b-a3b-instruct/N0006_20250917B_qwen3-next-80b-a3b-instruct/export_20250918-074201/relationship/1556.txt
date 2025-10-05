@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding (meditative concentration) cannot be fully developed without Jingjin (diligent effort), as persistent practice is required to overcome laziness and maintain focus.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

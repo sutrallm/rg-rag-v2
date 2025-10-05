@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGREZHE DE ZHENSHI CHENGZHI</source_entity>
+    <target_entity>CHAOLIE ZHUZHE</target_entity>
+    <relationship_description>True practitioners do not cling to meditative states or achievements, demonstrating the full realization of transcendence over attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIZAI ZHUANHUA</source_entity>
+    <target_entity>JIETAO</target_entity>
+    <relationship_description>Neizai zhuanhua is the internal process through which Jietao manifests—liberation occurs as greed, anger, and delusion diminish through mindful transformation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

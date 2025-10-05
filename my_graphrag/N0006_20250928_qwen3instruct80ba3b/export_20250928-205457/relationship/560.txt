@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Chanding enables the practitioner to sever the bonds of defilements (greed, hatred, delusion) by calming the mind and cultivating insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

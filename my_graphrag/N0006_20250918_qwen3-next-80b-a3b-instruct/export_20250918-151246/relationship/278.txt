@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>觉知与正念是同一体系的两个面向，正念是觉知的持续、有方向的实践形式。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

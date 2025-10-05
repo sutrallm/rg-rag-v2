@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>警觉帮助修行者不被五欲所诱，保持清醒，避免放逸。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

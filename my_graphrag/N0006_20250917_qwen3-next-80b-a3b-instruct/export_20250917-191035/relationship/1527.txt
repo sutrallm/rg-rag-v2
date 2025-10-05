@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT_WISDOM</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Transcendent wisdom allows one to see the impermanent nature of objects and thus overcome attachment and greed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

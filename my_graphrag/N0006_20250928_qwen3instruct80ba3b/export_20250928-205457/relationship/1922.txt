@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGLIAN</source_entity>
+    <target_entity>CHAOYUE ZHUOZHUO</target_entity>
+    <relationship_description>Zhenlian (right view) leads directly to Chao Yue Zhuo Zhuo (transcending attachment), as seeing phenomena as impermanent and empty dissolves clinging to them.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

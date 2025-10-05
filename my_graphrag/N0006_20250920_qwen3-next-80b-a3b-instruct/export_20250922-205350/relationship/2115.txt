@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>A saintly being has completely eradicated the three poisons of greed, hatred, and delusion, which is the hallmark of their enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

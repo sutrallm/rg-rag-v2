@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PSYCHIC_CALM</target_entity>
+    <relationship_description>Chanding leads to psychic calm by stabilizing the mind and removing disturbances from external and internal sources.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

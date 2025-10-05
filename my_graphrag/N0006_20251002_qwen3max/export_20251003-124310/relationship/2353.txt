@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天界众生</target_entity>
+    <relationship_description>圣者的心彻底自由，其境界深不可测，连天界众生亦无法测度。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

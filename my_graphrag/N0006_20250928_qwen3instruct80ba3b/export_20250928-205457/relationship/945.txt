@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG</source_entity>
+    <target_entity>WANGNIAN</target_entity>
+    <relationship_description>Jiefang (liberation) represents freedom from Wangnian (mental distraction); the liberated mind is no longer scattered by conditioned thoughts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHICHANG</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Transcendent wisdom is the direct cause of liberation; it dissolves clinging and ignorance, enabling complete release from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

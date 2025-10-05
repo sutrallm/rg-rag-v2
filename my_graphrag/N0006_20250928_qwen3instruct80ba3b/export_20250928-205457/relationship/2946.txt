@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>慈悲的實踐驗證了無我的實相，兩者相輔相成，互為證成。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

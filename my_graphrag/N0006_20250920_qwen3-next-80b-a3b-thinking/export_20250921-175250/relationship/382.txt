@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>SAVING BURNING HEAD</target_entity>
+    <relationship_description>SAVING BURNING HEAD is a metaphor for the urgent urgency of DILIGENT PRACTICE</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

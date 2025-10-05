@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常与无我是佛教核心教义，彼此关联：因一切皆无常，故无恒常之“我”。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

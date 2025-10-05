@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUIET MIND</source_entity>
+    <target_entity>WATER SURFACE</target_entity>
+    <relationship_description>Quieten mind mirrors the reflective tranquility of a calm water surface.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

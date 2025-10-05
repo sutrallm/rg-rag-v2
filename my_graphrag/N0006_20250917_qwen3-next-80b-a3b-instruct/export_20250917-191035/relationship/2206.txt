@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_CHARACTERISTICS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>圣者通过禅定安住寂静，表明禅定是圣者内在状态的重要组成。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

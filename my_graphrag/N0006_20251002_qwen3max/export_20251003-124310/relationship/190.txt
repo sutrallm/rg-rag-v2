@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>文本明確指出「不放逸是解脫的關鍵」，顯示不放逸是達成解脫的必要條件。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

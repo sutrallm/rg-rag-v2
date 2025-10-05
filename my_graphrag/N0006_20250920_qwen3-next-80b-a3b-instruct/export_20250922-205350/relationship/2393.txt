@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>WU MIN</target_entity>
+    <relationship_description>Zheng Nian is the antidote to Wu Min, as moment-to-moment awareness dispels ignorance by revealing reality as it is, rather than through deluded interpretations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

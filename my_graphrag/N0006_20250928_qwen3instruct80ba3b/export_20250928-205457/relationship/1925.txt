@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>WUWU</target_entity>
+    <relationship_description>Wuchang (impermanence) and Wuwu (not-self) are taught together; observing constant change reveals that no stable self can be found.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>PATH_TO_LIBERATION</target_entity>
+    <relationship_description>Liberation is the ultimate goal achieved by following the path of mindfulness, discipline, meditation, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

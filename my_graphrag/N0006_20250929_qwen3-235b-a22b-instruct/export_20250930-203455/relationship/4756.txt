@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>尘垢</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>尘垢比喻烦恼，需通过正念洗涤，是内心净化过程中的障碍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

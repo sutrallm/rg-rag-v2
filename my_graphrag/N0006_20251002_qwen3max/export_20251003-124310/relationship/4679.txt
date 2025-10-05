@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观照</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>即使修得甚深禅定，也需以无常观照防止对禅定境界生起贪爱，避免执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

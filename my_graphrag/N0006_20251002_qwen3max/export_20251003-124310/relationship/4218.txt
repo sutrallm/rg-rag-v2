@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>七觉支</target_entity>
+    <relationship_description>正念对应七觉支中的“念觉支”，是七觉支的首要组成部分。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

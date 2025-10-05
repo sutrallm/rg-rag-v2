@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>戒定慧三学是证得涅槃的必要修行路径，唯有三者圆满，方能断尽烦恼、证入涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

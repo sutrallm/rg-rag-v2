@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Meditation directly addresses heedlessness by "断除放逸", making it a core method for overcoming this state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

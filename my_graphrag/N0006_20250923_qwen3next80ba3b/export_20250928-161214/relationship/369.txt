@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>BIRTH AND DEATH</target_entity>
+    <relationship_description>By practicing DILIGENCE, one transcends the cycle of BIRTH AND DEATH.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

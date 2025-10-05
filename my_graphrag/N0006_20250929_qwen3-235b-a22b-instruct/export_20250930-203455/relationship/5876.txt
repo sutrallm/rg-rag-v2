@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>正念帮助修行者不执着于修行境界或成果，以平等心观待，避免贪着成为解脱障碍。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

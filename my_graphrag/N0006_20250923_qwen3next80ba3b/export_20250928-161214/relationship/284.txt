@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>REQUEST</target_entity>
+    <relationship_description>The assistant processes the request and detects the absence of required original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

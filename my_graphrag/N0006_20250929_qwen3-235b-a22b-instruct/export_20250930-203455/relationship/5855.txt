@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>定慧等持</target_entity>
+    <relationship_description>禅定是定慧等持中“定”的部分，必须与“慧”平衡发展，才能证得究竟解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

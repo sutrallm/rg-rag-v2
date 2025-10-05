@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WANGNIAN</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>妄念是烦恼的根源，其显现导致心理困扰，需通过正念止息。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

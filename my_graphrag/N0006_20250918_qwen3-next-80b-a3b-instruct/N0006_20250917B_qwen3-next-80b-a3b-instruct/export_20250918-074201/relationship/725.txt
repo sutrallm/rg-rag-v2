@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不依他力</source_entity>
+    <target_entity>自覺自證</target_entity>
+    <relationship_description>不依他力是自覺自證的根本態度，強調覺醒必須來自內在覺察而非外在權威。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

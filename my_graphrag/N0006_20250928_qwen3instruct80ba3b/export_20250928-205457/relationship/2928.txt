@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSORY_DESIRE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Sensory desire is a manifestation of greed, the craving for pleasurable experiences that binds one to suffering and samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

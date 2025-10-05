@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正念能对治烦恼，当心念不随境界流转，贪嗔痴三毒便无从生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

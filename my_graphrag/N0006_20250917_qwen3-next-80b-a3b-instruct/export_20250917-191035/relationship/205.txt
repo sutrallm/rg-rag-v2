@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>唯有持續精進，才能深入禪定，避免懈怠導致的退失，精進是通往禪定的堅實道路。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

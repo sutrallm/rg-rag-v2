@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪愛</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>貪愛是煩惱的三大根本之一，是內心苦的源頭。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

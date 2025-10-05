@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEZHIZHI GUICHU</source_entity>
+    <target_entity>CHAOGUAN ZHIZHU</target_entity>
+    <relationship_description>Juezhizhi Guichu embodies Chaoguan Zhizhu by observing phenomena as they arise and pass without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

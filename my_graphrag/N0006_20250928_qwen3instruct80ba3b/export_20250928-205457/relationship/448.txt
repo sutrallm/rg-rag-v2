@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>煩惱的生起源於對五蘊的執取，誤認五蘊為「我」或「我所」，進而產生貪瞋。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

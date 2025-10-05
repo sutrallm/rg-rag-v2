@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Jie and Hui are interdependent: discipline prevents the mind from being corrupted, allowing wisdom to see clearly; wisdom ensures discipline is not mechanical but insights-based.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

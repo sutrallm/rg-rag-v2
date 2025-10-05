@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>烦恼的断除依赖于如实了知五蕴无常，五蕴是烦恼生起的所依。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

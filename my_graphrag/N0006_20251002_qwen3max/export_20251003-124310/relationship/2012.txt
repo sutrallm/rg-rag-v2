@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>心解脫需徹底斷除無明與執著方能達成。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

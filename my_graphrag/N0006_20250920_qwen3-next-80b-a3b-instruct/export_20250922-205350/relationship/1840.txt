@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者 (SAINTLY BEING)</source_entity>
+    <target_entity>戒律 (ETHICAL CONDUCT)</target_entity>
+    <relationship_description>Saintly beings are defined by their perfect ethical conduct and mental purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

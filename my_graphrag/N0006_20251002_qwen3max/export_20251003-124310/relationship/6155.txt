@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>離欲</target_entity>
+    <relationship_description>修行者若仍貪著禪定中的輕安、喜樂等境界，便無法徹底解脫；唯有實踐離欲，放下一切渴望與取著，才能斷盡煩惱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>SAINTs dwell in tranquility through "安住寂静".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

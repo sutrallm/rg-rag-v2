@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Chanding reduces aversion by stabilizing the mind so that it does not react with aversion to unpleasant stimuli.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

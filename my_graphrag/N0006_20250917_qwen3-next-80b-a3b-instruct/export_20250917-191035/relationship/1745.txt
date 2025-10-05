@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>Saintly beings are characterized by their perfect adherence to ethical conduct, which is one of the pillars of their liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

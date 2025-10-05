@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CESSATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>CESSATION represents the end of the cycle of SAMSARA.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

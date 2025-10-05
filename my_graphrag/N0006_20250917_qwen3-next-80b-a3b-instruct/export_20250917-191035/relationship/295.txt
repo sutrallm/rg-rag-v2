@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>內觀</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>內觀是通往解脫的唯一真實路徑，依此親證真理，而非依賴外在儀式或他人。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

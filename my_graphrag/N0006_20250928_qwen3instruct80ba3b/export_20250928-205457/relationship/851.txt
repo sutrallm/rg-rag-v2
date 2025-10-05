@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念为智慧提供实时觉察的工具，智慧则引导正念观照无常、无我等实相，二者互为支持。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

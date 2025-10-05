@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROOT_OF_SUFFERING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion is the fundamental ignorance that gives rise to the belief in “I” and “mine,” which is the very root of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

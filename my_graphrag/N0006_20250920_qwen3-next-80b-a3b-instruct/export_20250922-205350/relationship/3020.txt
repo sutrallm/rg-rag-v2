@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOTION_OF_SELF</source_entity>
+    <target_entity>STANDARD_OF_SAINTHOOD</target_entity>
+    <relationship_description>Overcoming the notion of self is a core achievement of saintly individuals, who have transcended egoic identity and attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

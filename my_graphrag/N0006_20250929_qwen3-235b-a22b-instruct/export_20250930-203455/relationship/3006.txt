@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者具足智慧，这是其断尽烦恼、超越痛苦的关键品质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

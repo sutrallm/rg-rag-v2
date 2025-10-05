@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>爱染</target_entity>
+    <relationship_description>我执是爱染的心理基础，因为执著有“我”，才会对事物产生贪恋与执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

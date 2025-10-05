@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU WO SHI XIANG</target_entity>
+    <relationship_description>The saint's freedom arises from the complete realization of no-self; they do not cling to any notion of "I" as practitioner or achiever.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUXIU ZHI XIU</target_entity>
+    <relationship_description>As chanding deepens, the need to force meditation fades — the mind naturally settles into non-striving awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

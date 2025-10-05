@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執取</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>執取被明確指出是苦的根源，了知此關係是離苦得解脫的基礎。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

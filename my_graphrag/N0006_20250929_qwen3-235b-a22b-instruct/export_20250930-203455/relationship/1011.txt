@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>正观</target_entity>
+    <relationship_description>智慧是正观的基础，正观依靠禅定与智慧结合，如实照见无常无我，断除烦恼，导向解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

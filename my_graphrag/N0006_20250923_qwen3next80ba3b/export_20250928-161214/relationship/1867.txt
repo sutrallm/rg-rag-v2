@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMUEL NAMARA</source_entity>
+    <target_entity>ALHAMIA PRISON</target_entity>
+    <relationship_description>Samuel Namara was imprisoned in Alhamia Prison.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

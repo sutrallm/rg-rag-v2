@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides mental stability, which allows wisdom to arise; wisdom in turn deepens the quality of meditation by removing misconceptions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

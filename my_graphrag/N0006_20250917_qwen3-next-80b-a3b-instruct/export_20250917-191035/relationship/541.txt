@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>恒常觉照</source_entity>
+    <target_entity>转识成智</target_entity>
+    <relationship_description>恒常觉照是转凡夫识为圣者智的训练过程，是实现转化的必要条件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

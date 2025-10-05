@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOYUE ZHUOZHI ZHIHUI</target_entity>
+    <relationship_description>Sages are those who have fully realized the wisdom of non-attachment and non-clinging to any spiritual experience or outcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

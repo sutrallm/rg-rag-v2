@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Chanding is not an end in itself but a tool cultivated to weaken mental distractions and pave the way for liberating wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

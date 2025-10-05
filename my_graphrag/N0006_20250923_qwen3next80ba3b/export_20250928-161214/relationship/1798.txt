@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR MINDFULNESSES</source_entity>
+    <target_entity>BODY</target_entity>
+    <relationship_description>The body is one of the four objects of mindfulness for contemplation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

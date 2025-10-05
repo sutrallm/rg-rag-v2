@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我见</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>我见由无明所生，是对身心实相的错误认知；观照五蕴无常、苦、无我可破除我见，从而断除无明。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

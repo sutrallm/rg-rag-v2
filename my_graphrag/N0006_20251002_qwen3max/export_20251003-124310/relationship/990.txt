@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三禪</source_entity>
+    <target_entity>四禪</target_entity>
+    <relationship_description>三禪是四禪次第中的第三階段，緊接二禪之後，最終成就四禪。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

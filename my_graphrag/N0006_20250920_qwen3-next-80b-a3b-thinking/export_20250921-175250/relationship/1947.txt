@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGES</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>Celestial beings revere sages for their wisdom and virtue, as stated in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

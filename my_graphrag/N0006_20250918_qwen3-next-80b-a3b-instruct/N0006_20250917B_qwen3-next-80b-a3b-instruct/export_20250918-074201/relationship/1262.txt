@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELAXATION</source_entity>
+    <target_entity>EFFORT</target_entity>
+    <relationship_description>Relaxation (as spiritual complacency) is the opposite of sustained effort and impedes progress on the path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

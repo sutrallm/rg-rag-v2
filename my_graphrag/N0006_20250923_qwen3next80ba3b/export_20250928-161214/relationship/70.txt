@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_STUDIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The three studies are the pathway to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

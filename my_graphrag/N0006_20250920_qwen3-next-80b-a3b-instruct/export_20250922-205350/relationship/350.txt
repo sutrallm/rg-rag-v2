@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI</source_entity>
+    <target_entity>WUGUANZHAO</target_entity>
+    <relationship_description>Wuguanzhao provides the insight that supports the non-attachment in cibei, ensuring compassion is not rooted in illusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

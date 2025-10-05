@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>圣者亲见缘起法则，洞悉苦之因与灭苦之道，故能坚定行于中道，不堕两边。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

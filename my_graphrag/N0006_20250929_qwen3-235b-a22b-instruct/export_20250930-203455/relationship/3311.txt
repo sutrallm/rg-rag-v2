@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>慧解脱</target_entity>
+    <relationship_description>修行次第的最终阶段包含慧解脱，是通过智慧彻底断除烦恼后达成的究竟解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

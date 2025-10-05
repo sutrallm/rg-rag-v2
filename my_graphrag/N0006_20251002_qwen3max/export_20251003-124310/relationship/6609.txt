@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>捨離</source_entity>
+    <target_entity>粗重</target_entity>
+    <relationship_description>每一禪那階段的昇進皆需捨離前一階段的粗重心理特徵。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

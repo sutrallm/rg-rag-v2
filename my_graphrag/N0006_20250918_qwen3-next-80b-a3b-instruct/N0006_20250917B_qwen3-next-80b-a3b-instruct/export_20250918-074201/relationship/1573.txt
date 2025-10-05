@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>SHENGLUN</target_entity>
+    <relationship_description>Wuwo is the ultimate key to breaking Shenglun, as the belief in a self is the core illusion sustaining the cycle of rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

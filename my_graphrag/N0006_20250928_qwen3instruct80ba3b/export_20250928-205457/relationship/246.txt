@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding prepares the mind to realize nirvana by steadying thought and creating the internal conditions necessary for insight into non-arising and non-duality.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA</source_entity>
+    <target_entity>般若智慧 (Prajna Wisdom)</target_entity>
+    <relationship_description>Anatta is the core object of prajna wisdom — seeing the emptiness of self is the essence of this wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

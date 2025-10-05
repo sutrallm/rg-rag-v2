@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFATONGXIANG</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiefatongxiang is actualized when Chanding — stable, focused attention — is applied continuously in the present moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

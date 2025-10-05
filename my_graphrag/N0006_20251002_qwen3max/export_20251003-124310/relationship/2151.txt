@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>神通若被执取，会引发执着；修行者虽可能修得神通，但应了知其为因缘和合之法，不生贪爱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

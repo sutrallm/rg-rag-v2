@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWOGUAN</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Wuwo guan is the insight that dismantles the root of all afflictions — the belief in a self — thereby leading to their complete cessation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

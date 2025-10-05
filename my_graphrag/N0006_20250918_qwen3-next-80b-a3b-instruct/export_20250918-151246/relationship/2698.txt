@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Sages have utterly eradicated afflictions by penetrating their root in ignorance and non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

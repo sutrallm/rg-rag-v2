@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSAERA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the pathway out of samsara; meditative absorption breaks the chain of conditioned suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

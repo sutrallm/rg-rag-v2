@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINJIN</target_entity>
+    <relationship_description>Chanding is strengthened and stabilized through persistent, undistracted精进 (jinjin), which prevents懈怠 (laziness) and builds the inner power necessary for deep concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

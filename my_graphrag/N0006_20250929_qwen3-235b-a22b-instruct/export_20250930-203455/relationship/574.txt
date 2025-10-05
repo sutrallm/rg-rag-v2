@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力法则</source_entity>
+    <target_entity>缘起性空</target_entity>
+    <relationship_description>业力法则基于缘起性空，行为与果报依因缘而生，无独立自性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

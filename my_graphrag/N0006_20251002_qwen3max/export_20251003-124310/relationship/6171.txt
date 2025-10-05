@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>執取</target_entity>
+    <relationship_description>解脫者對一切法皆無執取，即使經歷深定、神通或殊勝體驗，也不起「我得」「我證」之想，徹底超越執取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

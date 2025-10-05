@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>A Shengzhe has transcended TAN (craving), freeing themselves from attachment and the suffering it creates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

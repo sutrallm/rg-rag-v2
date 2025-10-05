@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FA</source_entity>
+    <target_entity>JIEPU</target_entity>
+    <relationship_description>Fa (the Dharma) is the truth realized through practicing Jiepu; the path is the means to access the true nature of the Dharma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

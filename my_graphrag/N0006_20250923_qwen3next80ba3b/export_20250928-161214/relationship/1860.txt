@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUE</source_entity>
+    <target_entity>DOCTRINE_EXPOSITION</target_entity>
+    <relationship_description>Dialogues must be converted into direct doctrine exposition</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

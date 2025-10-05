@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>日常实践</target_entity>
+    <relationship_description>修行者将修行融入日常实践，行住坐卧皆可修习正念，使生活成为修行道场。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

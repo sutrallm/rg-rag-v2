@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>瞋</target_entity>
+    <relationship_description>聖者已斷除瞋，心境安詳無礙。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

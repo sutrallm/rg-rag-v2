@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides the mental clarity for wisdom to arise, while wisdom ensures chanding does not become attachment to meditative bliss; they mutually support each other.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

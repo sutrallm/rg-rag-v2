@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JIE JING</target_entity>
+    <relationship_description>The sage is defined by possessing pure moral discipline, which is essential for their spiritual realization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

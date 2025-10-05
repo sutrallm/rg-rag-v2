@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>當下</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>當下是正念的對象與實踐場所，正念的本質即是對當下的覺知。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

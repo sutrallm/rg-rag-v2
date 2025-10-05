@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberal liberation is achieved gradually through consistent daily practice, not through occasional rituals or spontaneous insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

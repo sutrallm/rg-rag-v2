@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>DUKKHA</target_entity>
+    <relationship_description>Dukkha (suffering) is observed as one of the four contemplations in the Four Foundations of Mindfulness, specifically regarding feelings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

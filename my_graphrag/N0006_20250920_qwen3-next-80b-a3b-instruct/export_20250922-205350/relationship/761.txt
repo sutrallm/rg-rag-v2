@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>聖者已具足深透智慧，能如實觀見諸法實相，不會執著於任何修行境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

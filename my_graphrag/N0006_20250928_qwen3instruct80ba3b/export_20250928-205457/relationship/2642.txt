@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>一切法皆为药</source_entity>
+    <target_entity>了义</target_entity>
+    <relationship_description>“了义”是正确运用“一切法皆为药”的标准，即应依了义教法破执，而非执文字或表相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

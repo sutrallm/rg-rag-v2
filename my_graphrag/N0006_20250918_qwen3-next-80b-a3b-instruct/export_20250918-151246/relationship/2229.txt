@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUDAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The path of cultivation (xiudao) includes meditative concentration (chanding) as the second stage, building upon moral discipline.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

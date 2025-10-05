@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>持戒清净是禅定生起的前提，守护根门可减少外缘扰动，使心易于安定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

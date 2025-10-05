@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISENESS</target_entity>
+    <relationship_description>Chanding leads to wiseness by calming the mind, allowing deep insight into impermanence and non-self to arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

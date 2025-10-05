@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>THE_NATURE_OF_CONCENTRATION</target_entity>
+    <relationship_description>Meditation cultivates the state of concentration, allowing the mind to remain stable and undisturbed by external or internal distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

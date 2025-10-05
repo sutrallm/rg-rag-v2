@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Wisdom arises from directly seeing the truth of no-self; without this insight, wisdom remains intellectual rather than liberating.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

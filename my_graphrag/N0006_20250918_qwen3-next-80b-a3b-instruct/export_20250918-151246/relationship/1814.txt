@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The person who achieves Jiede becomes a Shengzhe; liberation transforms one into an enlightened being.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Through the support of precepts and chanding, insight wisdom can arise; the three are interdependent.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

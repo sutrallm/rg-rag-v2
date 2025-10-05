@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>An enlightened being has fully attained liberation, having cut all bonds of craving and ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

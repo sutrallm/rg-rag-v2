@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>常见</target_entity>
+    <relationship_description>智慧能照见“常见”的虚妄，从而断除这一颠倒见。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

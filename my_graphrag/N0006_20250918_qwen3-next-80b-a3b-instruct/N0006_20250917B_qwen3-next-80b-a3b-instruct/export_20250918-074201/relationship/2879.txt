@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WANGMIN</target_entity>
+    <relationship_description>Without diligent effort, one succumbs to delusion — thus, Jingjin acts as the antidote to Wangmin.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

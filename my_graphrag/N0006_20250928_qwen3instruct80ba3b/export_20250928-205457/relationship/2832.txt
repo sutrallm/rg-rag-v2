@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Samsara is the cyclic existence perpetuated by the presence of fannao (afflictions) such as greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

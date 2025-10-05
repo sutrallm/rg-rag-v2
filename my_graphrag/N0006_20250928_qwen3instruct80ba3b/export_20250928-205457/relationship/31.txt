@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSES</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Guarding the six senses with mindfulness prevents unwholesome reactions and supports mental clarity and stability.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

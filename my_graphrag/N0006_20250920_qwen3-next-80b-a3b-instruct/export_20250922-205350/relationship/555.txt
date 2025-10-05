@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is cultivated not only in formal meditation but also through continuous mindfulness in everyday activities like walking and breathing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>心念专注</target_entity>
+    <relationship_description>心念专注需保持正念，正念是其核心组成部分。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

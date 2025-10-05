@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINTLY_QUALITIES</target_entity>
+    <relationship_description>Only those who have developed deep wisdom can embody saintly qualities such as emotional equanimity and freedom from worldly disturbance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANHE</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chaoshi includes recognizing all experiences as Yuanhe (conditioned arising), thus refraining from craving or aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

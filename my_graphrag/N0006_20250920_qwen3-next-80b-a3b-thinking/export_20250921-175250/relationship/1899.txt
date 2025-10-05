@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>SIGNS</target_entity>
+    <relationship_description>Clinging to signs leads to misunderstanding reality and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

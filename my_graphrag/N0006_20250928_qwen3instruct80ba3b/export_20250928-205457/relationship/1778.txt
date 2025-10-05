@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANXUE</source_entity>
+    <target_entity>JIELV</target_entity>
+    <relationship_description>Sanxue (threefold training) explicitly includes jielv as its first component, essential for spiritual progress.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ASSISTANT</source_entity>
+    <target_entity>PROCESSING REQUIREMENTS</target_entity>
+    <relationship_description>The assistant follows the processing requirements to modify the original text accordingly.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

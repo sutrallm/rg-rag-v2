@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NEIGUAN</target_entity>
+    <relationship_description>Chanding (meditative concentration) is cultivated through Neiguan (inward observation), which is the practical method to stabilize the mind and observe mental phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

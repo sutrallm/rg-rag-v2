@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEI GUAN</source_entity>
+    <target_entity>CHAO YUE ZHU ZH</target_entity>
+    <relationship_description>Through internal observation, one sees the transient nature of experiences and thus naturally releases attachment to them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

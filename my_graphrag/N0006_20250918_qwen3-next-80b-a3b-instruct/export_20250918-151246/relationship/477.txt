@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED_HATRED_DELUSION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Greed, hatred, and delusion are the driving forces behind samsara; their persistence perpetuates the cycle of suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

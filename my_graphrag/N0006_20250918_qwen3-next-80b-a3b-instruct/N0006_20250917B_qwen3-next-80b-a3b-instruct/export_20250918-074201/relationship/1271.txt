@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DUALITY</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-duality represents the matured state of liberation, where one no longer seeks to escape reality but transcends conceptual dualities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

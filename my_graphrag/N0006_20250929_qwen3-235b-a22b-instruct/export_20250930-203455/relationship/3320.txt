@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进是持续修行禅定的驱动力，唯有不懈精进才能掌握禅定核心要义，避免被无明懈怠所困。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

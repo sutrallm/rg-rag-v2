@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>智慧的本质就是洞见空性，了知一切现象的无常与无自性。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

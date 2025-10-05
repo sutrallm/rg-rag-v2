@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>缘起法揭示诸法不常不断、不一不异的中道特性，是中道见的理论依据。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

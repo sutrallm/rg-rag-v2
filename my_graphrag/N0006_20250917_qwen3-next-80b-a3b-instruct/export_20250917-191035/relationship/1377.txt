@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LUN HUI</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>The cycle of rebirth is perpetuated by ignorance; overcoming ignorance leads to liberation from this cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

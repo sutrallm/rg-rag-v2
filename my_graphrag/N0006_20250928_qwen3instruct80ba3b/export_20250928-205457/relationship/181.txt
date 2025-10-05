@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行路径</source_entity>
+    <target_entity>戒</target_entity>
+    <relationship_description>戒是修行路径中的第一支柱，为所有后续修行奠定道德与行为基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

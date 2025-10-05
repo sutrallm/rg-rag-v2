@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>內觀</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>內觀的實踐使人直接體驗一切現象的無我本質，是證得無我智慧的主要方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

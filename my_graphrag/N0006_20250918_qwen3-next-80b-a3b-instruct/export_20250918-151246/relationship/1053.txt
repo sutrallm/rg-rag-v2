@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Chanding requires mindfulness to achieve focus and detach from mental distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

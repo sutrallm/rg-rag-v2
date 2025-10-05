@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>心的淨化</target_entity>
+    <relationship_description>聖者是心已完全淨化的體現，其存在本身就是淨化成就的證明。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

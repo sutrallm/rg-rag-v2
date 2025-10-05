@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED PHENOMENA</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Conditioned phenomena lack a self-nature, arising only through dependent origination; thus, they are non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

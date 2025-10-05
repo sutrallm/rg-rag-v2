@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>解脱的终极目标不是追求神通，神通非解脱本质，修行者应避免执着神通。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

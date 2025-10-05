@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saintly qualities—such as moral discipline and eradication of greed, hatred, and delusion—are the defining characteristics of one who has achieved liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

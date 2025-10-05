@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>妄念</target_entity>
+    <relationship_description>四念处修习能令心安住当下，不被妄念牵引，是破除散乱与执着的有效方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

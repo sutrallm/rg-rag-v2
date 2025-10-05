@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸天</source_entity>
+    <target_entity>动静相宜</target_entity>
+    <relationship_description>诸天敬重实践动静相宜的圣者，因修行稳定，无有偏颇。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

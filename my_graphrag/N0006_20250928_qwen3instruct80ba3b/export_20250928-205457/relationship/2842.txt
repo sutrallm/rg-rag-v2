@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shengzhe embodies perfected Chanding, as one who dwells in stillness and is unmoved by external stimuli.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCE NDENT_WISDOM</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Transcendent wisdom dissolves anger by removing the false sense of self that resists unpleasant experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

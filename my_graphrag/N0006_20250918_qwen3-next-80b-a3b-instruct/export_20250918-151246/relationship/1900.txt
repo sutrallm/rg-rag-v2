@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>TAN CHEN CHI</target_entity>
+    <relationship_description>Ignorance (Wu Ming) is the root cause that generates the three poisons (Tan Chen Chi).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

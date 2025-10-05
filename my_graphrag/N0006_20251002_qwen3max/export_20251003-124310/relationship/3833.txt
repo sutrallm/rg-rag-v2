@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>預流果</source_entity>
+    <target_entity>阿羅漢果</target_entity>
+    <relationship_description>預流果是解脫道上的初果，阿羅漢果是究竟果位；修行者從預流果逐步進修，最終斷盡貪瞋癡證得阿羅漢果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

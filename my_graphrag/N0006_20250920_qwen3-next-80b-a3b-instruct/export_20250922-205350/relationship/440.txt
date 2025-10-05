@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Nirvana is the direct result and manifestation of perfect non-attachment—the mind no longer grasping or rejecting any experience.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUGUAN</source_entity>
+    <target_entity>WUZHIZHINO</target_entity>
+    <relationship_description>Wuguan (non-self) deepens Wuzhi (non-attachment) by removing the ontological basis of all clinging — the belief in a separate, enduring self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

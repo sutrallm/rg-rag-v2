@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_VERBAL_REALIZATION</source_entity>
+    <target_entity>INNER_OBSERVATION</target_entity>
+    <relationship_description>Non-verbal realization is achieved through inner observation, which transcends intellectual understanding and requires direct experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

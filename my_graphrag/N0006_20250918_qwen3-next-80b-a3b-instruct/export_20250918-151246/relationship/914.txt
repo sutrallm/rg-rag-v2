@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>超越执着的智慧提醒修行者不应追求神通，因其本质仍属执取与幻象，与解脱无关。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

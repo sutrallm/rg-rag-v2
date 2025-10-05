@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>超越执着的智慧是通往解脱的关键机制，通过放下一切执取，包括对解脱本身的执著，实现真正的自由。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

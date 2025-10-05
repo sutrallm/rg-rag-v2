@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈心</source_entity>
+    <target_entity>阳光</target_entity>
+    <relationship_description>Loving-kindness (慈心) is analogous to sunlight that evenly illuminates all beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

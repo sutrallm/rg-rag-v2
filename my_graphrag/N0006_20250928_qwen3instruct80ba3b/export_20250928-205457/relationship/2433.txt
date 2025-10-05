@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXTERNAL RITUALS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True practice does not rely on external forms; chanding and wisdom are internal, non-dependent on rituals or displays.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

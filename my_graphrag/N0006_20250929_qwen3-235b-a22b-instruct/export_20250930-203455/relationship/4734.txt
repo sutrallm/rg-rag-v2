@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>名闻利养</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者应舍弃名闻利养，不贪求外境，以安住当下、稳步前进。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

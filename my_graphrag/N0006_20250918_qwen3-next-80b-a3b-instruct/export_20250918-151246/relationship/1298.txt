@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION_AND_WISDOM</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Compassionate action is genuinely effective because it is grounded in non-attachment and authenticity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

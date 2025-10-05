@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三法印</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无我是三法印的第三印，指一切法中无真实恒常的“我”。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

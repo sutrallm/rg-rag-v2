@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF OBSERVATION</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>No-self observation is the practical method through which one realizes the theoretical truth of non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

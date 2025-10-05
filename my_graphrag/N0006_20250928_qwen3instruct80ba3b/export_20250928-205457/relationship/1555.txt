@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE TUXU DI</target_entity>
+    <relationship_description>The enlightened sage is the result of fully realizing the sequential stages of liberation: discipline → calm → wisdom → freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

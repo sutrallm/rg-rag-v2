@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF_AND_LIBERATION</source_entity>
+    <target_entity>TRANSCENDING_ATTACHMENT</target_entity>
+    <relationship_description>Non-self insight is the foundation of transcending all attachments, including attachment to liberation itself, making this relationship central to the path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

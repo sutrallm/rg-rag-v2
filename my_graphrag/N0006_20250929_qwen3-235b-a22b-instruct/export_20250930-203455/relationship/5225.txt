@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>清净本性</target_entity>
+    <relationship_description>解脱是内在烦恼断尽后自然显现的清净本性，非外求所得，是解脱的最终状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

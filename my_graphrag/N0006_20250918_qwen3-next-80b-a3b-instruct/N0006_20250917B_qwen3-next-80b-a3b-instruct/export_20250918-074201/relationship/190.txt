@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>EFFORT</target_entity>
+    <relationship_description>Effort is required to overcome greed, as it is one of the primary obstacles that effort seeks to subdue in spiritual practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

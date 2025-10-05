@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是达成解脱的根本途径，唯有洞察实相才能真正放下执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

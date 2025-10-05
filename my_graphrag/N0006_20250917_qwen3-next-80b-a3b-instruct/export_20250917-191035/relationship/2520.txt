@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVERSION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Aversion arises from delusion about what is truly harmful or beneficial, reinforcing suffering through resistance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

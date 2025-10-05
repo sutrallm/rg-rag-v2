@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGYE</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Shengye is defined by the complete eradication of Fannao; an awakened being no longer harbors greed, hatred, or delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

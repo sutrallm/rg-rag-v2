@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定令心静，但唯有智慧能根除烦恼，禅定为智慧提供基础，智慧为禅定提供方向与深度。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

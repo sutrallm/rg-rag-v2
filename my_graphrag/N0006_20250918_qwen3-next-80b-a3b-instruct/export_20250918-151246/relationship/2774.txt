@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINJIN</target_entity>
+    <relationship_description>Shengzhe continuously cultivates diligence and mindfulness as part of their unbroken practice, even after attaining deep wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

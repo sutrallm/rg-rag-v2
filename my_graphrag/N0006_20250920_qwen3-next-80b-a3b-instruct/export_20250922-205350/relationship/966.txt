@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Rejecting the illusion of self is essential for ending suffering, as clinging to self is its root cause.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>圣者能持续修习心念、安住于寂静之中，寂静是其内在修行状态的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

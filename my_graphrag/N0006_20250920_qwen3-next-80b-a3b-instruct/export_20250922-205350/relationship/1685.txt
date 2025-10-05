@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我執</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>我執是所有煩惱的根源，因執著「我」與「我所」而生貪瞋癡等煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我見是達成解脫的關鍵洞見，無我即無執，無執方得大自在。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

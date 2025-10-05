@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天神</target_entity>
+    <relationship_description>圣者的清净与尊贵超越天神，因天神仍未断除根本烦恼，不离轮回。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

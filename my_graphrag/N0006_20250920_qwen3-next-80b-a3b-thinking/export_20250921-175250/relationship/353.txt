@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>WISDOM involves insight into the true nature of the FIVE AGGREGATES.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

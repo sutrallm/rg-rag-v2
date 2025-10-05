@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANZHAO WUCHANG</source_entity>
+    <target_entity>WUWO WUZHIG</target_entity>
+    <relationship_description>Guangzhao wuchang (observing impermanence) is the direct method to dismantle the illusion of self, leading to wuwo wuzhi (no-self and non-attachment), the ultimate goal.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

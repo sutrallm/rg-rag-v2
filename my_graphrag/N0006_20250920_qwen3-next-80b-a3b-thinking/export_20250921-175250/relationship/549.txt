@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ACTUAL TEXT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>Translation operation cannot be executed because the actual text is missing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

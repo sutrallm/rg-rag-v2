@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGXIA</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Fangxia is cultivated through zhengnian, as mindful awareness reveals attachment patterns and enables their release in daily life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

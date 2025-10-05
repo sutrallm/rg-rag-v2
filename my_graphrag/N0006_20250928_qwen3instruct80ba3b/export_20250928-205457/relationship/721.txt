@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGETIC_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without energetic practice, chanding cannot be sustained; consistent effort is necessary to overcome sloth and distraction that disrupt concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

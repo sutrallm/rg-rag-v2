@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念与觉知</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>觉知是正念与觉知的另一核心组成部分，使修行者不随顺逆境界流转，恒常安住于法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

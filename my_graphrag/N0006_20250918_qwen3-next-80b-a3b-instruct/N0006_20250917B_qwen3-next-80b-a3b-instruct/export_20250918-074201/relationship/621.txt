@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANG NIAN</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Continuous mindfulness leads to insight into the absence of a fixed self in each moment of experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

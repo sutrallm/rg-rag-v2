@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMATHA AND VIPASSANA</source_entity>
+    <target_entity>SCATTERED MIND</target_entity>
+    <relationship_description>SAMATHA practice stabilizes the scattered mind through concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

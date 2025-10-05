@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Anger disrupts mental calm; overcoming it is essential for achieving inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

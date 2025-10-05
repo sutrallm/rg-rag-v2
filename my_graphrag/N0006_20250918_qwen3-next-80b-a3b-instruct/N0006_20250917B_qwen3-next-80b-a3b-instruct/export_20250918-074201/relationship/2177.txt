@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_TO_LIBERATION</source_entity>
+    <target_entity>RIGHT_MINDFULNESS</target_entity>
+    <relationship_description>Right mindfulness is the active, practical tool that propels one along the path, maintaining awareness and preventing regression into delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>XIN NIAN</target_entity>
+    <relationship_description>正念是心念专注的实现方式，心念通过保持正念才能超越散乱纷扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

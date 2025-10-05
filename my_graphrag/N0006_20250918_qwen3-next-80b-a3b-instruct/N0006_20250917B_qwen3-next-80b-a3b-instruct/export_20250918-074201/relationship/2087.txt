@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>Non-Self is the insight derived from understanding that the “self” is merely a temporary combination of the Five Aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>TRANSCENDENCE</target_entity>
+    <relationship_description>Liberation is the experiential realization of transcendence — freedom from all dualistic clinging, conceptual thinking, and conditioned states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

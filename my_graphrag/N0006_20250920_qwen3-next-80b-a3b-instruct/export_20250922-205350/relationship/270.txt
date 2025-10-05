@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD CONDUCT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Good conduct creates the ethical and mental stability necessary for deep meditation (chanding) to arise without inner conflict or remorse.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

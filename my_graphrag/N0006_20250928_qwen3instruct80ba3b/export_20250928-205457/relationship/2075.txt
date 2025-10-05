@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>JIEDUO</target_entity>
+    <relationship_description>Wuwo (non-self insight) is the direct cause of Jieduo (liberation), as the dissolution of the illusion of self ends clinging and thus ends suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

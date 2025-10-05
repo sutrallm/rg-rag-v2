@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>禅定是通往心解脱的途径，通过专注与正念使心不再被三界境界系缚。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

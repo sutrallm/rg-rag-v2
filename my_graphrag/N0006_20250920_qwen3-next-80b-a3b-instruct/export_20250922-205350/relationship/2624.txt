@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>六尘</target_entity>
+    <relationship_description>六根与六尘相触而生识，是产生执着与烦恼的机制，二者构成认知链条。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

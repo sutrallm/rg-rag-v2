@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Enlightened beings dwell in Nirvana — their minds are free from craving and delusion, and liberation is their natural state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

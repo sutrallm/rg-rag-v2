@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Delusion is the root of suffering, as it misleads beings into identifying with impermanent, selfless phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

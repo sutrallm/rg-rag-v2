@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>内在清净</target_entity>
+    <relationship_description>圣者成就内在清净，远离世俗染着，获得自在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

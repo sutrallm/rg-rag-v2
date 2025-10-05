@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The realization of non-self is a core component of transcendent wisdom, leading to the dissolution of egoic clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

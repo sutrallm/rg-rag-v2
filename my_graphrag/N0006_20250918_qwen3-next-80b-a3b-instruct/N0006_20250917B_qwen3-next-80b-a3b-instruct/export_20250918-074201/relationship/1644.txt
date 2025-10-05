@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>明镜</target_entity>
+    <relationship_description>涅槃如明镜般无尘，象征心性本自清净而能照物不染。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心清净</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是达成内心清净的重要手段，当心不被贪嗔痴所扰，即是禅定成果的体现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

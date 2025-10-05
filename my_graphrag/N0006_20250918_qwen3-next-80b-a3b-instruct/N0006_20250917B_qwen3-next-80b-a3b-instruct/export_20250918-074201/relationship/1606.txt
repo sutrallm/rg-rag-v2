@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEXING</source_entity>
+    <target_entity>JIE tu</target_entity>
+    <relationship_description>Awakening (Juexing) is the named path itself—clear, practical, and universal—that leads to liberation (Jietu).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

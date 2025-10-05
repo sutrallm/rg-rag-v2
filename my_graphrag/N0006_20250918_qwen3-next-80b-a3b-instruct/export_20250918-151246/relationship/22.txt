@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Insight into impermanence and non-self directly dismantles attachment by revealing the illusory nature of clinging objects.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

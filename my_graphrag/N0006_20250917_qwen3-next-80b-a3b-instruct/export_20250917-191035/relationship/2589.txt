@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>PRESENT_MOMENT</target_entity>
+    <relationship_description>Saintly beings abide in the present moment without being swayed by pleasure or pain, embodying equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REBIRTH CYCLE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion—ignorance of the Four Noble Truths and lack of insight into no-self—is the root cause of samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>True wisdom enables the practitioner to recognize and release all forms of attachment, including attachment to spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

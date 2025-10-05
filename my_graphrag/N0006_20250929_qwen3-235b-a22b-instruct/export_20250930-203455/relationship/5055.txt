@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轮回</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>贪嗔痴三毒是导致众生陷入轮回的根本原因，修行的终极目标是断除三毒以脱离轮回之苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

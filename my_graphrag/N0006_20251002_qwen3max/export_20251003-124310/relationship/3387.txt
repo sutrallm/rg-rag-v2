@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>行</target_entity>
+    <relationship_description>行是五蕴的第四项，指意志与造作等心理活动。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

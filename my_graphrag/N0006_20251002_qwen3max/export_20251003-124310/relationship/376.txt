@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>七覺支</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>念覺支是七覺支的根本，其他覺支皆依正念而生起與調和。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

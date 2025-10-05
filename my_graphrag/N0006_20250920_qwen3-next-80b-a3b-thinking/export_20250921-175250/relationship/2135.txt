@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>dhyana</source_entity>
+    <target_entity>mental liberation</target_entity>
+    <relationship_description>Through dhyana, practitioners attain mental liberation and insight into reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

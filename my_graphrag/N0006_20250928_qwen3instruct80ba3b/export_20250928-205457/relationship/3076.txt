@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我觀照</target_entity>
+    <relationship_description>智慧體現於無我觀照中，透過觀照無常、苦、無我來破除我執。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

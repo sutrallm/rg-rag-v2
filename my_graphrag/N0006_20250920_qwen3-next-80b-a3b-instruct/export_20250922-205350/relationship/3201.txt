@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_OF_NON_ATTACHMENT</source_entity>
+    <target_entity>NON_SELF_OBSERVATION</target_entity>
+    <relationship_description>Non-attachment arises from the deep insight into non-self through contemplation of the impermanent and conditioned nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

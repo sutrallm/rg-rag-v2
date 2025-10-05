@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MYSELF_AND_MINE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is achieved when one sees through and relinquishes the delusion of “myself and mine,” dissolving the roots of attachment and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

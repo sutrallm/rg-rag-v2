@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>MEDITATIVE CONCENTRATION directly cultivates STILLNESS through focused mental absorption.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

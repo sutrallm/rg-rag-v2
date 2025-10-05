@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>缘起揭示了万物生灭变化的法则，其必然结果即是无常，二者互为支撑，是根本的佛法见地。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

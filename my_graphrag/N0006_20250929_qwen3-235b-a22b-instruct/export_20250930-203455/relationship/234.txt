@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>修行者需通过智慧破除痴心，如实认知诸法实相，是修行中需断除的根本烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

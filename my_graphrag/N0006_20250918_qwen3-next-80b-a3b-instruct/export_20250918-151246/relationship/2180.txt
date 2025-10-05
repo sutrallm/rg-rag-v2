@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>清净心依赖于持续的觉知状态，觉知是保持清净的实践方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>Chaoshi (wisdom) is the direct means to Jiefang (liberation), as it dissolves the root of clinging and ignorance that binds beings to samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

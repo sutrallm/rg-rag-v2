@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>NON_SELF_OBSERVATION</target_entity>
+    <relationship_description>Nirvana is realized precisely through the deep non-self observation that dissolves attachment and illusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

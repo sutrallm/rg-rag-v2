@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELEASING</source_entity>
+    <target_entity>NONSELF</target_entity>
+    <relationship_description>Insight into nonself enables the mind to release all clinging, leading to true freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

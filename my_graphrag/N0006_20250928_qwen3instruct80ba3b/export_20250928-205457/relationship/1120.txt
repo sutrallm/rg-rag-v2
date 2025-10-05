@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI ZHI HUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chaoshi zhihui leads to the realization of wuwo — that no permanent self exists within the five aggregates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

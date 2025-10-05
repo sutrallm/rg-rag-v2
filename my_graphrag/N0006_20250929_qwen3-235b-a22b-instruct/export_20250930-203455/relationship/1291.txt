@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸天</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>诸天因圣者成就无上解脱而由衷敬重，体现圣者修行境界的圆满与超越，是圣者德行的外在印证。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>戒与慧虽分属修行首尾，但二者通过定相互联结，戒净化行为，慧破除无明，共同完成解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

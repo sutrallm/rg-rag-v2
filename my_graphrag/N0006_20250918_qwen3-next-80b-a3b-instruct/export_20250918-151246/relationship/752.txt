@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>CALMNESS</target_entity>
+    <relationship_description>Liberation results in profound calmness, as the mind is no longer agitated by craving, aversion, or delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

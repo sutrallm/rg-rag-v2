@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSE BASES</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>Mindfulness (zhennian) is used to monitor and tranquilize the mind's reactions through the six sense bases in daily activity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

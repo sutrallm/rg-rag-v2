@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO YU WUCHANG</target_entity>
+    <relationship_description>A sage fully realizes and lives in accordance with the truth of non-self and impermanence, which is why they are free from emotional and mental disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

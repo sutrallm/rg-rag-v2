@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Gods maintain mindfulness continuously in all activities as part of their awakened state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

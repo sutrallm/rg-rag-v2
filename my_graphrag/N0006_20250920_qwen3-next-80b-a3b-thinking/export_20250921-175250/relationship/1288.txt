@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PARABLES</source_entity>
+    <target_entity>DOCTRINAL EXPLANATIONS</target_entity>
+    <relationship_description>Parables are systematically converted into doctrinal explanations to enhance textual clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

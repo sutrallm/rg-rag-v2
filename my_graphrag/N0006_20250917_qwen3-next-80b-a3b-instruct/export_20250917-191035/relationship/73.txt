@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_ONE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>A Noble One has completely eradicated greed as aroot defilement.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

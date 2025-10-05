@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUI ZHI FAN NAO</source_entity>
+    <target_entity>TA YU</target_entity>
+    <relationship_description>The not-retention meditation is a specific method to counteract greed and attachment to sensory objects.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

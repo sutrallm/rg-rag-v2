@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>修行成果</target_entity>
+    <relationship_description>不放逸是修行成果得以生起的前提，唯有持续精进才能积累解脱资粮。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGJIAN</target_entity>
+    <relationship_description>Chanding alone is insufficient for liberation; it must be united with zhengjian (wisdom) to penetrate the true nature of reality and cut through ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

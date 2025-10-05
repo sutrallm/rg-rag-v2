@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>戒定慧三學</target_entity>
+    <relationship_description>在慧學中，修行者以正見觀察五蘊的本質，作為修慧的重要內容，體現戒定慧三學的整合實踐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

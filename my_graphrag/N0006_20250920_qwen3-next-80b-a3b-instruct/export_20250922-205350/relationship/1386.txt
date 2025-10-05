@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Realizing no-self is the key insight that severs the chain of suffering and leads directly to enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

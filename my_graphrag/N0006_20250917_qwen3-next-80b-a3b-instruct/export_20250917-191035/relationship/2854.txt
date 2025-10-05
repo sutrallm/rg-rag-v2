@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>RELEASING</target_entity>
+    <relationship_description>Saints embody releasing completely — they are untouched by attachment or aversion because their wisdom has eradicated the roots of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

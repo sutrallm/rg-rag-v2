@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>觉知使心如明镜映照，如实知见诸法实相，是正念与智慧的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

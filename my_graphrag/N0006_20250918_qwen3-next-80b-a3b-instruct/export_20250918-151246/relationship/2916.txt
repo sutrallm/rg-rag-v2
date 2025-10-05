@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWEI BUAZAI XINGSHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>While seated meditation is a common form of practice, true cultivation transcends form and occurs through continuous awareness, which is the essence of chanding.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

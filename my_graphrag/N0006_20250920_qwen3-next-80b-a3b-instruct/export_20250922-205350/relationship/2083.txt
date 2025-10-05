@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIGEN</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Wuzhigen (transcending attachment) is both a result of and a practice of wisdom (Hui), as insight reveals the futility of clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

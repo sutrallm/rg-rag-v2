@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOIC TRANQUILITY</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Stoic tranquility is the result of completely uprooting defilements through wisdom and meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

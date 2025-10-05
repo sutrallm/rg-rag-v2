@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>TANCHENDU</target_entity>
+    <relationship_description>The Shengzhe has completely severed Tanchendu — greed, hatred, and delusion — as the root causes of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEDICATION_TO_PRACTICE</source_entity>
+    <target_entity>ENTANGLEMENT_IN_SAMSARA</target_entity>
+    <relationship_description>Without dedicated practice, individuals remain trapped in samsara due to negligence and delusion; diligence is the means to escape it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

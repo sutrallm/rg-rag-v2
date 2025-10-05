@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True liberation manifests as non-attachment: no striving, no fear, no craving—just pure awareness and responsiveness. This is the hallmark of the liberated mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

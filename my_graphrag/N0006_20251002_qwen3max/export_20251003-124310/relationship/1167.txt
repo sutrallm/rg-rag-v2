@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>智慧能洞察五蕴的生灭过程，了知其非“我”或“我所有”。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

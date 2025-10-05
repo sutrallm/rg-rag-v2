@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执取</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱的本质即是从一切执取中彻底放下，包括对“我已得”的执着，执取不除则非真解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

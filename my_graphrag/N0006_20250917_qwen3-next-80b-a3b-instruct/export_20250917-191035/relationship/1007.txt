@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROOT_OF_SUFFERING</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Hatred arises from the root suffering of clinging and aversion to experiences perceived as threatening to “I” or “mine.”</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

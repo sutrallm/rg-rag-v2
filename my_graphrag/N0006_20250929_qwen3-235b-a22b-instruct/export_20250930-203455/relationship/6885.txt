@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不净观</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>不净观是对治贪欲烦恼的善巧方法，通过观想身体不净破除感官执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

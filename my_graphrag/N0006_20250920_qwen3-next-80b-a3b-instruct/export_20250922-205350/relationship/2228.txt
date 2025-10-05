@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪欲</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>貪欲是禪定的主要干擾物，阻礙心念專注與清淨。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

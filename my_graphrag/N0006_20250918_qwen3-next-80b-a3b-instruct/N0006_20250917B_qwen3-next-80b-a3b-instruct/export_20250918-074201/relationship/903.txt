@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAVANT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Savants are those who have attained full liberation by uprooting greed, hatred, and delusion through wisdom and ethical practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

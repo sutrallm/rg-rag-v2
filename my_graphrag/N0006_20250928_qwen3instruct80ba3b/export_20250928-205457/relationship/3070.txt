@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Realizing that the five aggregates (Wuyun) are not-self leads directly to Jietuo by dissolving the illusion of a permanent identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

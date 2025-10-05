@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JSINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingjin (diligent effort) is necessary to sustain Chanding (meditative concentration) and prevent mental laxity or distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

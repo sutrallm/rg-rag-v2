@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND LIBERATION</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Mind liberation results in profound inner peace through freedom from defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

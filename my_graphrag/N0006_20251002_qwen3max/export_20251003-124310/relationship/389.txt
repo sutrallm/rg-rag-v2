@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>正知</target_entity>
+    <relationship_description>正知與正念共同用於守護六根，使心不被外緣牽引，為禪定奠定基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

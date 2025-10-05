@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion is necessary to maintain chanding and prevent it from being overcome by sloth or distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

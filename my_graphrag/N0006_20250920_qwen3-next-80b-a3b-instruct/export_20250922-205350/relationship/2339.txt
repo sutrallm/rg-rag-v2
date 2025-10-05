@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Nirvana is the state where delusion has been extinguished; the two are directly opposed — nirvana is the absence of delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

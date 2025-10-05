@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观察无常的修法</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>观察无常是进入无我观的前置方法，通过觉察一切法刹那生灭，破除“我”与“我所”的坚固幻觉。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

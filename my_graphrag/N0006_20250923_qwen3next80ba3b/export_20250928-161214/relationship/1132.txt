@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THEME_CLARITY</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>THEME_CLARITY requirements must be applied to the processed ORIGINAL_TEXT.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

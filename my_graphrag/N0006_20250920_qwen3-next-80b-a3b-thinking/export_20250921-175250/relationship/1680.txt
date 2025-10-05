@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>WILD ELEPHANT</target_entity>
+    <relationship_description>Heedlessness is metaphorically represented by the uncontrolled wild elephant as stated in the text: "放逸会导致心念如失控的野象般自损".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

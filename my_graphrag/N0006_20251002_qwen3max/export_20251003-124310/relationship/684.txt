@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>遵循正法而行是避免墮入苦境的根本方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

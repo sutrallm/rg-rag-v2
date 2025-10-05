@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>QINGJING</target_entity>
+    <relationship_description>Shengzhe dwell in Qingjing (pure stillness); their inner clarity and peace are the outward manifestation of their perfected practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

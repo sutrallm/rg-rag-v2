@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是禅定的基础与支撑，禅定需以持续正念维持，二者相互依存，正念使禅定得以深化与持续。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>现前觉悟</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>现前觉悟即是涅槃在当下的显现，非未来目标，而是当下心境的如实状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

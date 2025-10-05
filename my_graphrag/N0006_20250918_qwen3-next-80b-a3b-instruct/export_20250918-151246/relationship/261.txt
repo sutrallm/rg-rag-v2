@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>A holy being has dispelled delusion, seeing reality clearly without distortion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

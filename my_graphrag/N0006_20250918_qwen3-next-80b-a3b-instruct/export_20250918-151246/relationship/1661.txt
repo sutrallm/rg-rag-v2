@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHÈNGZHE</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>The sage has broken free from the cycle of birth and death through full realization of the Dharma.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

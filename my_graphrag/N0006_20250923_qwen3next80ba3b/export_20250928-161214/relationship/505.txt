@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Non-Self is the fourth contemplation in the Four Foundations of Mindfulness, focusing on the absence of independent self in all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

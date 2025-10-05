@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HENCHANG SHOUHU</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Hengchang shouhu is the operational expression of jingjin—it is the continuous, persistent effort required to maintain spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

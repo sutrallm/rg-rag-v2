@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>XIN JIE TUO</target_entity>
+    <relationship_description>Sages (shengzhe) are those who have fully realized heart liberation (xin jietuo), having eradicated greed, hatred, and delusion completely.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

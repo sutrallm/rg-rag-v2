@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD DEEDS</source_entity>
+    <target_entity>FREEDOM</target_entity>
+    <relationship_description>Accumulating good deeds creates conditions for inner freedom and unimpeded ease.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

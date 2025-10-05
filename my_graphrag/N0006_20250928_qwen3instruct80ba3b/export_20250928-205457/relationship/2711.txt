@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING ZHOU</source_entity>
+    <target_entity>JIE TUI</target_entity>
+    <relationship_description>Continuous mindfulness (Jing Zhou) practiced moment by moment leads directly to liberation (Jie Tui), as per teaching in point 7.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

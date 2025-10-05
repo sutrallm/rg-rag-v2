@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>心解脱是实现究竟解脱的核心状态，二者实质等同，代表终极精神自由。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

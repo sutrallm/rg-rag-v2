@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RICANG XINGXIU</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Daily practice requires Jingjin—persistent effort—to maintain awareness and prevent distraction throughout daily life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>贪欲是导致轮回的重要因缘，使人执着于生死境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

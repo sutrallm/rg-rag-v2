@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>禪定的目標是超越執著，若修行者執著於禪定中的安樂或神通，則背離其本質。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

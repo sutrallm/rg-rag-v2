@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE DUO</source_entity>
+    <target_entity>SHENG SI LUN HUI</target_entity>
+    <relationship_description>Liberation (Jie Duo) transcends the cycle of rebirth (Sheng Si Lun Hui).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

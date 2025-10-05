@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEANINGFUL_ACHIEVEMENT</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Even spiritual achievements can become objects of attachment; true wisdom involves letting go of them.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

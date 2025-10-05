@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DING</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Stable concentration (Ding) allows the mind to remain unwavering during insight meditation, enabling the arising of liberating wisdom (Hui).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

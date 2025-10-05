@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>五蕴是缘起法则的具体表现，身心现象皆依缘起而生灭，非恒常实体。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>禅定的成就依赖于持续精进的修行，缺乏精进则难以维持定力与正念。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

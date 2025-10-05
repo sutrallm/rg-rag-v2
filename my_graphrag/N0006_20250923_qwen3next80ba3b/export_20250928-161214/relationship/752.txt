@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>DARKNESS</target_entity>
+    <relationship_description>The mind nature's clarity dissipates darkness in all realms.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

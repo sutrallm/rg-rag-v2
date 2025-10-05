@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>莲</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>莲象征心解脱者虽处世间却不为世间所染的纯净状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

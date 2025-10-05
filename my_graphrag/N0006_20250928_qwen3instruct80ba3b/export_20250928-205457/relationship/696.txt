@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without continuous exertion, chanding cannot be maintained or deepened; exertion is the driving force behind meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

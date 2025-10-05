@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENCE_OF_BIRTH_AND_DEATH</source_entity>
+    <target_entity>FIVE_AGREGATES</target_entity>
+    <relationship_description>True transcendence of birth and death arises only through the insight that the five aggregates are impermanent and devoid of self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

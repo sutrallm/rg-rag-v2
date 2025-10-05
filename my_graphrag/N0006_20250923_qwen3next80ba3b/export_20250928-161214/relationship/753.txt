@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MANI JEWEL</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>The wish-fulfilling jewel's light dispels ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

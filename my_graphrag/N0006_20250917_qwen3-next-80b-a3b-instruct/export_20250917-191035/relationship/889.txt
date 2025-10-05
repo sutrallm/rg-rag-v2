@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>NO SELF</target_entity>
+    <relationship_description>Insight directly leads to the realization of no-self — seeing all phenomena as impermanent, interdependent, and lacking a fixed self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHANG</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Wuzhang is the practical expression of Hui — wisdom manifests as non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

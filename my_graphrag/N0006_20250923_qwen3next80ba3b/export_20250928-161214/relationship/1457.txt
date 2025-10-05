@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>Heedlessness obstructs the development of meditative concentration by causing mental laxity and lack of focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

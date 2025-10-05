@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT-DHARMA</source_entity>
+    <target_entity>ENTANGLEMENT_OF_DEFILEMENTS</target_entity>
+    <relationship_description>Following the Right Dharma is the method to free oneself from the entanglement of mental defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

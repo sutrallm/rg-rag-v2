@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>DINGHUI</target_entity>
+    <relationship_description>Zhengnian is the practical implementation of Ding in daily life, supporting concentration that, when developed, becomes wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

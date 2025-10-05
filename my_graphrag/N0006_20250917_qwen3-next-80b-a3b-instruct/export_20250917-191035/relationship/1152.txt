@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Through persistent inner observation, one directly perceives the absence of a permanent self in all experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

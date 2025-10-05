@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUZHIZHIXING</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Buzhizhixing (non-attachment to the idea of practice) is the hallmark of true realization of NIEPAN—no notion of attainment remains.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

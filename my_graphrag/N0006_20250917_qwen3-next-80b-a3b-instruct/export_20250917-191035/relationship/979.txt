@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Enlightened beings have fully realized liberation and are no longer bound by samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

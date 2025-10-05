@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-DELUSION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>The delusion of a permanent self arises from ignoring impermanence; recognizing impermanence is the path to dismantling this illusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

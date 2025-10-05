@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>四念处修习中，修行者通过观察“法”的无我性来体悟无我这一核心教义。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

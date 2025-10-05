@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHIZHANG</target_entity>
+    <relationship_description>Only through persistent effort (Jingjin) can one sustain the conditions for deep insight (Zhizhang) to emerge and penetrate delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

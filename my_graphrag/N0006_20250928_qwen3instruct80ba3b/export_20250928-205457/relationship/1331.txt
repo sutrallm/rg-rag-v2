@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU XIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Wuzhu xin is the defining characteristic of the Shengzhe—those who have reached ultimate liberation and abide in non-clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

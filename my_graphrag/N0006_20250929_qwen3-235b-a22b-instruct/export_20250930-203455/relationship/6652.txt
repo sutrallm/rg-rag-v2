@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧等持</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>定慧等持包含禅定作为基础，强调定力与智慧的平衡发展。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

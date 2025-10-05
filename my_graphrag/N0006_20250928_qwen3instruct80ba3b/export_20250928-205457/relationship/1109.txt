@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG GUAN</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Wuchang guan deepens wuzhi by reinforcing the understanding that all conditioned phenomena are transient, weakening attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YINGUAN</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Yinguan is the method through which wuzhu is cultivated—by directly observing impermanence and non-self, one lets go of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

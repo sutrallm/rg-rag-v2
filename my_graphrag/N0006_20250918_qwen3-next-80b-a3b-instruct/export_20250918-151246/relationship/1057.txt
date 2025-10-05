@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Together, ethical conduct and wisdom form the two pillars of liberation—ethics purifies action, wisdom purifies understanding.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

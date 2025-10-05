@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>渴爱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>断除渴爱是证得涅槃的前提；唯有彻底止息渴爱，才能止息轮回，进入涅槃寂静。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

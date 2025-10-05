@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Craving arises from the illusion of self. When one realizes non-self, the basis for craving collapses, leading to its cessation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

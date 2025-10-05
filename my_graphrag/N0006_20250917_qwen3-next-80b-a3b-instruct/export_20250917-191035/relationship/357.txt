@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>聖者以戒律調伏身心，戒律是其外在行為的表現，體現其內在的清明與自我約束。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>無明是煩惱的根本起因，凡夫因無明而產生貪嗔癡等煩惱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

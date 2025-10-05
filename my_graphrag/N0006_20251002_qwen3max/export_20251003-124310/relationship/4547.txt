@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>執著是解脫的主要障礙；真正的解脫者即使修證有所成就，亦不貪戀任何果位或境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

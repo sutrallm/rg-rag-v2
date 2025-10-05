@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>缘起智慧</target_entity>
+    <relationship_description>禅定是开启缘起智慧的工具，心澄澈时才能清晰照见现象互依、无自性空的实相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

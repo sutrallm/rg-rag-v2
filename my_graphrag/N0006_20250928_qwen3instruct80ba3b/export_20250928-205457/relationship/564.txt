@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Understanding non-self is the gateway to realizing emptiness — both reveal the absence of intrinsic reality in all things.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

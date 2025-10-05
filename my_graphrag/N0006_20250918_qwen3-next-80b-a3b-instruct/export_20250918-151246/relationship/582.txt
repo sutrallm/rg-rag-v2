@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Shengzhe continuously uses zhengnian (mindfulness) to observe mental states and remain anchored in the present moment, maintaining enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

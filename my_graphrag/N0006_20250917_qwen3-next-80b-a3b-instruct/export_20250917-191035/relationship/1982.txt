@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT_WISDOM</source_entity>
+    <target_entity>DELUSION_PURE</target_entity>
+    <relationship_description>Transcendent wisdom is the antidote to delusion, replacing ignorance with direct insight into reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者成就的根源在于圆满实践了戒定慧三学，三学是通往圣者境界的必经之路。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

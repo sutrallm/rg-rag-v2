@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUECHA DANGXIA</source_entity>
+    <target_entity>WANGNIAN</target_entity>
+    <relationship_description>Present-moment awareness is the antidote to delusory thoughts; by observing without reacting, one prevents the mind from being carried away by mental distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

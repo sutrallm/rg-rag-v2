@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>真正的禅定必须辅以超越执着的智慧，否则易陷入对禅相的执著，失去真实自在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>顺逆境界</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者通过正念与觉知，面对顺逆境界能如如不动，不被贪嗔痴所扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

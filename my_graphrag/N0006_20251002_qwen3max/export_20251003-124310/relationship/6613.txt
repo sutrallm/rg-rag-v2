@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>煩惱減輕</target_entity>
+    <relationship_description>禪定修習可使煩惱減輕，促進內心平靜。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

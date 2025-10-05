@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH</source_entity>
+    <target_entity>CHÁNDING</target_entity>
+    <relationship_description>The path to liberation includes chanding (meditative concentration) as a core practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

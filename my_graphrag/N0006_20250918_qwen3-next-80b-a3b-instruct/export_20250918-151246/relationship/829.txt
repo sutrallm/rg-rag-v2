@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Zhengnian is identified as the core of all practice and the immediate path to liberation, as it anchors one in the present moment where freedom is realized.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

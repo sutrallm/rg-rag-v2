@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>TRANSLATION_PROCESSING</target_entity>
+    <relationship_description>The query initiates the translation processing service, but the service fails due to missing content.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

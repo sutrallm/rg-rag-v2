@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANQUILITY</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Tranquility assists in eliminating afflictions, as per "安住寂静，能断尽烦恼".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

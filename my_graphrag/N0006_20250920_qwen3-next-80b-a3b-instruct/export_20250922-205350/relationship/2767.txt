@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>XIUXINGMU标</target_entity>
+    <relationship_description>Xiuxingmu biao (the ultimate goal) is the complete manifestation of Wuwo — letting go of even the idea of "I am liberated."</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

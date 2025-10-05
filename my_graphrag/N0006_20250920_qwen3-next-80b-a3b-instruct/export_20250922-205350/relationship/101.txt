@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>真实智慧必然生起慈悲心，因洞见众生皆陷苦海，自然生起平等同情。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

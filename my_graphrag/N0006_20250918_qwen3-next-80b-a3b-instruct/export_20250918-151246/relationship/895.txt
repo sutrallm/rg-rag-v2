@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>贪嗔痴三毒是轮回与痛苦的根源，彻底断除三毒是达成解脱的决定性标志。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

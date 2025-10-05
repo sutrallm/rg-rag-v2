@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>BLISS</target_entity>
+    <relationship_description>Liberation inherently produces BLISS as its natural outcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

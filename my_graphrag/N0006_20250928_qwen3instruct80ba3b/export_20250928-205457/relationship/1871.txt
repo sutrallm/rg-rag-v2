@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Shengzhe have eradicated Wuming (ignorance), which is the root of all suffering and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

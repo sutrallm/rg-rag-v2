@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CESSATION_OF_AFFLICTIONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The complete cessation of afflictions is synonymous with achieving liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

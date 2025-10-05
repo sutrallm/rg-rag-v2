@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>日常修行强调在行住坐卧中修习正念，是禅定在生活中的延伸与落实，使禅定不局限于静坐。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

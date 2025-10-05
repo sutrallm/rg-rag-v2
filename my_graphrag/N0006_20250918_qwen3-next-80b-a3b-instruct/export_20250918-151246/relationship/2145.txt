@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>The Noble Ones embody non-attachment—they do not cling to attainments, titles, or states, and their freedom is evident in their equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

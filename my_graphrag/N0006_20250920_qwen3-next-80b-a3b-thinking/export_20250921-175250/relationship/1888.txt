@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>BODY AND MIND</target_entity>
+    <relationship_description>Practitioners observe body and mind through meditation to understand their impermanent and non-self nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

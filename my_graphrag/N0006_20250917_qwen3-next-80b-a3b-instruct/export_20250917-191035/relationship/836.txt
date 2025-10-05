@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Liberation is defined by freedom from greed; when the mind is liberated, it no longer seeks or clings to pleasurable objects or states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

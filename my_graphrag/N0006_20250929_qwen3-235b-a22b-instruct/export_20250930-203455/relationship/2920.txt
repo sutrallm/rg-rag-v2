@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>佛法是修行者实践与验证的真理，依教奉行者皆可成就，具普适性。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

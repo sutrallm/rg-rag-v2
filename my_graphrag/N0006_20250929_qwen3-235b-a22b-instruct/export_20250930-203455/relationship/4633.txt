@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>心性</target_entity>
+    <relationship_description>涅槃是心性本具的清净圆满状态，非外在获得，而是内在本性的显现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>聖者之所以能斷盡煩惱，源於其具足超越執著的智慧，能如實觀見無我與無常。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

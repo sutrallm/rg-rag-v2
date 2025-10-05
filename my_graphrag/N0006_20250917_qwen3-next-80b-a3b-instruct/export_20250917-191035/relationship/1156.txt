@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHI</source_entity>
+    <target_entity>WUZISHENG</target_entity>
+    <relationship_description>Non-attachment allows the mind to rest in the unborn and undying truth, unclouded by desire or aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

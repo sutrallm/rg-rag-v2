@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT_TO_MEDITATIVE_EXPERIENCES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Attachment to meditative experiences obstructs true liberation, as liberation requires non-clinging even to spiritual attainments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

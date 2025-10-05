@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG SI ZHI LUN</source_entity>
+    <target_entity>TAN AI</target_entity>
+    <relationship_description>Shengsi zhi lun is sustained by Tan ai; craving and attachment keep beings bound to rebirth and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

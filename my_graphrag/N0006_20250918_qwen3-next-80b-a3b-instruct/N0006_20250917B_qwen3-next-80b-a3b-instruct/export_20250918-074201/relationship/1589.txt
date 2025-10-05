@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WEIZHI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcendent wisdom (weizhi) directly realizes the truth of no-self (wuwo); seeing phenomena as non-self leads to the dissolution of all clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

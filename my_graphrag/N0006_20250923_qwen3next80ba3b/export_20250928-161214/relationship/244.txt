@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISPASSION</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>DISPASSION towards the FIVE AGGREGATES leads to liberation by breaking attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

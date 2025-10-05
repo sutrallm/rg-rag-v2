@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>完全解脱者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>完全解脱者因贪嗔痴止息、不再造业，自然达成究竟涅槃，是实现涅槃的主体。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

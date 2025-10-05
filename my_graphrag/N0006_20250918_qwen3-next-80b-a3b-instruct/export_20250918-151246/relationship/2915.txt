@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PINGCHANGXIN SHI DAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The ordinary mind includes the presence and stillness cultivated in meditation — both involve maintaining awareness in all activities, not only seated practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

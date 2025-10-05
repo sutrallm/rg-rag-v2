@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Sages have fully realized non-self; their freedom stems from complete relinquishment of egoic identification.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

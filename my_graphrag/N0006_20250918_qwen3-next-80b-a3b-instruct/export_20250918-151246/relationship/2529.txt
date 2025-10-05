@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>Wuwo is understood through the insight that the five aggregates, the components of personal identity, are not self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

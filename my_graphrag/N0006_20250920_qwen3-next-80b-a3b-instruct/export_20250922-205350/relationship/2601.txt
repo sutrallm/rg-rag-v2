@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>五蕴是构成“我”错觉的组成要素，观照五蕴的无常与无我性是破除我执的关键。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

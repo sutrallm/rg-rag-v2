@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>功德</target_entity>
+    <relationship_description>修行者通过日日精进、念念不忘，累积功德，为成就道果奠定基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sages have perfected chanding as part of their path to eradicate the three poisons and dwell in serenity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

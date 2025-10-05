@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>No-self insight leads naturally to non-attachment — when one realizes there is no permanent “I” to cling to, attachment naturally dissolves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

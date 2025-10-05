@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法执</source_entity>
+    <target_entity>觉悟者</target_entity>
+    <relationship_description>觉悟者已断除法执，不为境界所染，心如明镜清净无染，体现其自在无碍的解脱境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

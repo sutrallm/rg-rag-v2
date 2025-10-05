@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Non-attachment is grounded in the insight of non-self — realizing there is no permanent entity to cling to or reject.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

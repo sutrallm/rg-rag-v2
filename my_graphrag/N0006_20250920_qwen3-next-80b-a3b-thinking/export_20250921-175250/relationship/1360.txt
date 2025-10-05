@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORGANIZATION</source_entity>
+    <target_entity>ENSURE_CLEAR_THEMES</target_entity>
+    <relationship_description>The organization process requires ensuring each paragraph has a clear theme.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

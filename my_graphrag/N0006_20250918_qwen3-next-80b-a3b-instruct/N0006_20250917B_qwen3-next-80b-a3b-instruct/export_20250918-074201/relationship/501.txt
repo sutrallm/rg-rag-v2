@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>A Saintly Being has completely eradicated Greed, along with other defilements, as part of perfected spiritual attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

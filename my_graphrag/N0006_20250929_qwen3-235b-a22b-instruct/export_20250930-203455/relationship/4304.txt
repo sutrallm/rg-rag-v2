@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>无我观通过观五蕴皆空破除我执，使修行者不再为得失忧惧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

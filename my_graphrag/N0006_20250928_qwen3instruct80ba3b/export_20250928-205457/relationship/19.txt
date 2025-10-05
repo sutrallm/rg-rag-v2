@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-Self</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Insight into non-self leads naturally to non-attachment, because if there is no "self" to possess experiences, clinging dissolves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Jie creates the conditions under which zhihui can arise cleanly and reliably. Ethical behavior purifies the mind, making it receptive to insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

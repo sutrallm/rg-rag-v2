@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念是進入與維持禪定的直接方法，透過當下覺知收攝散心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

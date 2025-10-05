@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Steady effort (Jingjin) is necessary to establish and maintain meditative concentration (Chanding), as stated in section 2.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHARITY</source_entity>
+    <target_entity>MERIT</target_entity>
+    <relationship_description>Charity is a primary method for accumulating merit.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

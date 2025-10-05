@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>指月之指 (FINGER POINTING TO THE MOON)</source_entity>
+    <target_entity>解脱 (LIBERATION)</target_entity>
+    <relationship_description>External forms such as rituals or teachings are tools (the finger) that point toward liberation (the moon), but are not liberation itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

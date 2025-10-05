@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED ARISING</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Conditioned arising demonstrates non-self: since phenomena arise due to interdependent causes, nothing exists independently as a fixed self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

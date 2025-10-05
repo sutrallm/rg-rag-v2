@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>禪定提供內心穩定的基礎，使修行者能清晰觀照無常與無我，從而發展出超越執著的智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

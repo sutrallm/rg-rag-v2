@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平常心</source_entity>
+    <target_entity>覺察</target_entity>
+    <relationship_description>平常心是覺察的態度基礎，以不執著、不評斷的方式如實觀照當下。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

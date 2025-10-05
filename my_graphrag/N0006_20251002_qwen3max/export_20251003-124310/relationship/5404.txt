@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修成果</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>正见能帮助修行者正确看待禅修成果，避免将其执取为“我”或“我所”，从而防止禅修成果成为新的束缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

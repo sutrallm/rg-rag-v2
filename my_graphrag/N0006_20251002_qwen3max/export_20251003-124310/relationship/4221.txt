@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>所作已办</target_entity>
+    <relationship_description>“所作已办”是解脱者自证的四种确定之一，表示修行任务圆满完成。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

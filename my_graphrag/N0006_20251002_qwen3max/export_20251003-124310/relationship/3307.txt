@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>由定发慧，定力稳固后能生起照见实相的智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

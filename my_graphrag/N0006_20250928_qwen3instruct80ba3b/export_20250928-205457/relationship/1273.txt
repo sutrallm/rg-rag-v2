@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Nirvana is attained through the complete extinction of greed, which is one of the primary causes of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

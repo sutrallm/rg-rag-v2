@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒行與智慧並列為聖者圓滿的兩大支柱，清淨行為支撐智慧的生起與穩定。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

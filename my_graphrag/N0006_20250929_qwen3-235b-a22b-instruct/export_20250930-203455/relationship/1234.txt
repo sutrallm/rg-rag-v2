@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>日常实践要求在一切活动中保持正念，使修行融入生活。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

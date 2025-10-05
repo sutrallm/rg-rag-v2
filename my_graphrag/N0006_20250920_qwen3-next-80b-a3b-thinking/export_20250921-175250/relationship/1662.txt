@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION PRACTICE</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Meditation practice is used to "深入洞察世间一切现象的无常性", directly linking it to understanding impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

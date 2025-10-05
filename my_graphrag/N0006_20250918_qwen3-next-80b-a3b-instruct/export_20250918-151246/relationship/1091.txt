@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saintly qualities are defined by the absence of hatred, as liberated beings no longer react with aversion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

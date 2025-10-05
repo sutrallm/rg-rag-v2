@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWU</source_entity>
+    <target_entity>WUZHAI</target_entity>
+    <relationship_description>Wuwu (non-self observation) is the method through which wuzhai (non-attachment) is cultivated; seeing the five aggregates as not-self undermines the root of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

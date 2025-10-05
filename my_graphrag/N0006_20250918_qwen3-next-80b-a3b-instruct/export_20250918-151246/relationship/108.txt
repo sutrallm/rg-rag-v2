@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我无相</target_entity>
+    <relationship_description>无我无相的究竟境界是智慧的圆满体现，唯有如实观照才能证得此境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

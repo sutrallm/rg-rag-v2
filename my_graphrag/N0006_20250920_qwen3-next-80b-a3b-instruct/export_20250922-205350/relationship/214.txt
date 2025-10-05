@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Niepan arises only when Mara — the forces of ignorance and craving — are completely eradicated; they are diametrically opposed states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

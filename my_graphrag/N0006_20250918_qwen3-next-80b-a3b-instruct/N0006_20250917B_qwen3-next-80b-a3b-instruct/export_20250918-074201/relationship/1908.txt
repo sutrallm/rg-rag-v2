@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RICHANGXINXIANG</source_entity>
+    <target_entity>YINGUAN</target_entity>
+    <relationship_description>Richang xinxiang is the practical application of yinguan in daily life, transforming mundane actions into opportunities for insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

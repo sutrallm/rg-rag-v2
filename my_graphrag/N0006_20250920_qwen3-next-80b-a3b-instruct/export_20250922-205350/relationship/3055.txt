@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>JIE-DING-HUI</target_entity>
+    <relationship_description>Niepan is the final goal achieved through the complete cultivation of the Jie-Ding-Hui path; the threefold training culminates in liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

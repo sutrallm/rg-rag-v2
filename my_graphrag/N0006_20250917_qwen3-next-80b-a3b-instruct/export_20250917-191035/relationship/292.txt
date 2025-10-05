@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行的核心實踐就是將正念融入日常一切行動中，使覺照成為生活慣性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

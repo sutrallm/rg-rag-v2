@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-attachment allows practitioners to pursue Nirvana without being bound by desires for the outcome.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

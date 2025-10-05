@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>禅定为超越执着的智慧提供内心稳定的基础，而智慧则防止禅定沦为执著禅相的陷阱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

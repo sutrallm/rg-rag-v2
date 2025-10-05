@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>正见源于对正法（尤其是缘起与四圣谛）的如实理解，是依止正法修行的起点。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

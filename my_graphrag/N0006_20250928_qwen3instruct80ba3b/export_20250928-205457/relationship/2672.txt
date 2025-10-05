@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Nirvana is defined precisely as the state of non-attachment and non-clinging — the culmination of transcending all forms of attachment, including spiritual ones.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

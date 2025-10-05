@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>所緣</source_entity>
+    <target_entity>專注</target_entity>
+    <relationship_description>所緣是專注的對象（如呼吸），為專注提供錨點，使心能穩定安住。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

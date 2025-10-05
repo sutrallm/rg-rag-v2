@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修者</source_entity>
+    <target_entity>禅病</target_entity>
+    <relationship_description>若禅修者跳过基础仅追求高深境界，易堕入禅病。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

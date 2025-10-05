@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE THREEFOLD TRAINING</source_entity>
+    <target_entity>CHANDA (MEDITATIVE CONCENTRATION)</target_entity>
+    <relationship_description>Concentration is the second pillar and the stabilizing force within the threefold training.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

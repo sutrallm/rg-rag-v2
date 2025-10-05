@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心转化</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过内心转化（如实观照、调伏自心）才能真正净化烦恼，而非依赖外在形式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

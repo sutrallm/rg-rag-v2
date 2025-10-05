@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding cannot be maintained without jingjin; sustained effort is necessary to keep the mind from sinking into dullness or distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

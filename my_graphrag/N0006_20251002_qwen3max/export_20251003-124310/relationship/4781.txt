@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>唯有配合无我观慧，修行才能超越世间定，导向涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

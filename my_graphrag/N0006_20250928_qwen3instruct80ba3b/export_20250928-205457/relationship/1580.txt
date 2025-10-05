@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Wisdom realizes the truth of non-self, seeing through the illusion of a permanent identity in any mental or physical process.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

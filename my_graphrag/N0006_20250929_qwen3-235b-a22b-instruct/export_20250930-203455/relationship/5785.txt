@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>杂念</source_entity>
+    <target_entity>浊水</target_entity>
+    <relationship_description>杂念如浊水中的杂质，需静置沉淀方能清除，象征通过止观修习净化心识。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

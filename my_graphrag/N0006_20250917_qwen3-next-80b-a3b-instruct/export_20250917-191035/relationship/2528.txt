@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Daily Practice is the lived expression of mindfulness, integrating awareness into every action.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

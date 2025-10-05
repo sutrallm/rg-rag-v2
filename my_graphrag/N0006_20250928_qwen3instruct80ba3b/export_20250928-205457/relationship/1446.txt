@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>无住</target_entity>
+    <relationship_description>真正的无住即是不执著涅槃之相，方为真解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

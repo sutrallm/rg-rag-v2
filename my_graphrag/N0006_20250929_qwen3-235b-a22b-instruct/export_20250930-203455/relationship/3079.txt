@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>德行</target_entity>
+    <relationship_description>圣者具足清净戒律与如实智慧，其德行是其修行成就的外显表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

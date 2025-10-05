@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding helps quiet the defilements (greed, hatred, delusion) that cause mental agitation and distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

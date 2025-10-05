@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>AWAKENED_BEINGS</target_entity>
+    <relationship_description>Awakened beings exemplify non-negligence constantly, as their entire being is rooted in continuous mindfulness and vigilance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

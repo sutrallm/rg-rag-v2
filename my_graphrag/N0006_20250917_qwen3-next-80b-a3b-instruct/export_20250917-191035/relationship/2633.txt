@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRIPOD_OF_MIND</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberalion is achieved only when the three poisons — craving, aversion, and delusion — are fully uprooted.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

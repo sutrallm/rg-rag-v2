@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIJIE</source_entity>
+    <target_entity>ZHIDI</target_entity>
+    <relationship_description>Clear moral conduct purifies the mind, creating the conditions for true wisdom to emerge.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

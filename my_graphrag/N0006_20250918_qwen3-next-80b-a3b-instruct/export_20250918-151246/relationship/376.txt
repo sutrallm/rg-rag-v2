@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENGHUI</target_entity>
+    <relationship_description>Chanding provides the mental stillness necessary for shenghui to arise; wisdom arises when the mind is concentrated and free from distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

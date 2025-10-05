@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定为通向涅槃的必要修习，静心专注能帮助断除妄念，为证入涅槃铺路。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

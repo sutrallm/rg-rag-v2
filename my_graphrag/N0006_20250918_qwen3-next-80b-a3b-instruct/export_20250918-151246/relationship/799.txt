@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>JIEXIE</target_entity>
+    <relationship_description>Zhengnian is described as the sole path to jiexie (liberation); continuous present-moment awareness leads directly to freedom from samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

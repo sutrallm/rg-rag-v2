@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>REGRESSION</target_entity>
+    <relationship_description>Greed can lead to regret when desires are unfulfilled, creating mental turmoil that undermines mindfulness and progress.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

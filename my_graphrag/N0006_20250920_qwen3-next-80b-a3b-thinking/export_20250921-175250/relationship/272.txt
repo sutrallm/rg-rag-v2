@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>SOUND</target_entity>
+    <relationship_description>The ear, as part of the six sense bases, perceives sound ("耳闻声"), forming a key sensory interaction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

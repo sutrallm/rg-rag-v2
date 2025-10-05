@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Chanding stills the mind so that the insight of No-self can be clearly seen beyond conceptual thought.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

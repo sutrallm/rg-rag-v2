@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持续觉察</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>持续觉察通过削弱执著，逐步导向解脱，是实现解脱的日常路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

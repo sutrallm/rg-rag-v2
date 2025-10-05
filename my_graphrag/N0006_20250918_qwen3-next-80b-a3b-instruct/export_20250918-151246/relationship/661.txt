@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU ZHI XIN</source_entity>
+    <target_entity>NIHAN</target_entity>
+    <relationship_description>The non-abiding mind transcends clinging to nirvana, recognizing that even liberation should not be grasped as an object to attain.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO SHISHI</source_entity>
+    <target_entity>YIN YUAN HE HE</target_entity>
+    <relationship_description>Insight into no-self is gained by observing all phenomena as conditioned, interdependent, and arising without a core self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

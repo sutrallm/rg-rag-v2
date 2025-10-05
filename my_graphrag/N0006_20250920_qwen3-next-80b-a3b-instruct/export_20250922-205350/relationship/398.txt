@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YIXIE JINGJIE</source_entity>
+    <target_entity>WUZHIGZHIDI</target_entity>
+    <relationship_description>Wu yixie jingjie (non-attachment to all states) is a practical expression of Wuzhi (non-attachment), demonstrating equanimity toward meditative experiences and worldly phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

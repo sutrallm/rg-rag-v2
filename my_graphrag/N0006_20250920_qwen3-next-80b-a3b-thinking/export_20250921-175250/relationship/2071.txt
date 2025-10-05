@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DREAMS</target_entity>
+    <relationship_description>Dreams symbolize the fleeting and impermanent nature of existence in Buddhist metaphors.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

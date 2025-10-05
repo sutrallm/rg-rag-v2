@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>YUANQI</target_entity>
+    <relationship_description>Wuwu (non-self) is a direct insight derived from understanding Yuanqi (dependent origination), which reveals that all phenomena, including the sense of “I,” are conditionally arisen.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

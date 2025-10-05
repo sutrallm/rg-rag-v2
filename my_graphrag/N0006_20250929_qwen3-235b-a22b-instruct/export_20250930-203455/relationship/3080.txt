@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>成就</target_entity>
+    <relationship_description>圣者通过修行获得断除烦恼、超越轮回的成就，成就体现其解脱境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING</source_entity>
+    <target_entity>SHELI</target_entity>
+    <relationship_description>Daily practice (Xiuxing) is the living expression of renunciation (Sheli), applied constantly in the present moment without avoidance or grasping.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>智慧通过对五蕴（身心现象）的如实观照而生起，了知其无常、苦、无我本质，从而破除我见与执著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

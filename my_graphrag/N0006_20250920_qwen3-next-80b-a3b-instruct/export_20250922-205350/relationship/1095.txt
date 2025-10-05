@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Jie is the foundation; Ding is the center; Hui is the illuminating force. All three are inseparable for liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

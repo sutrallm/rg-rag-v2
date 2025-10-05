@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>离欲能减少烦恼，使心清净，从而更易进入禅定状态，是禅定的重要前提。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

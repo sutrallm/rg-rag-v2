@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>GREED is a major obstacle that hinders progress in MEDITATION.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

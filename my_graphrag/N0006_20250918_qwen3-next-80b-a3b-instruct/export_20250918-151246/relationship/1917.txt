@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我正见</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>无我正见是断除轮回之根的关键正见，因破除我执，故不再造业流转。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

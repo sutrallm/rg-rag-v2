@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>观照</target_entity>
+    <relationship_description>正念是观照的心理基础，观照是正念在智慧层面的深化应用，二者密不可分。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

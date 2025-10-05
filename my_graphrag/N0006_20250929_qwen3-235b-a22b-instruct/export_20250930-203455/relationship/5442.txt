@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>烦恼（贪嗔痴）需以正念调伏，正念是觉知烦恼并逐步断除三毒的关键方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

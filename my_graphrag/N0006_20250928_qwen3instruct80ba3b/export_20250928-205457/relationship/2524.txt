@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ING</target_entity>
+    <relationship_description>Chanding is synonymous with ding (concentration); both represent the same meditative state of focused, unified awareness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

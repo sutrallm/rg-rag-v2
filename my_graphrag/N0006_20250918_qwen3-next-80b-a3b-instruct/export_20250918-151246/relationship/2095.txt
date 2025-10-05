@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平等心</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>平等心是解脫的基石，心不迎不拒、無分別，方能脫離執著與煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

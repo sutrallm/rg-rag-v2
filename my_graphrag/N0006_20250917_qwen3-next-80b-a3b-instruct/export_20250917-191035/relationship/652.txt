@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>ZHICHANG</target_entity>
+    <relationship_description>Mindfulness enables clear observation of phenomena, which is the foundation upon which transcendent wisdom (zhichang) develops.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

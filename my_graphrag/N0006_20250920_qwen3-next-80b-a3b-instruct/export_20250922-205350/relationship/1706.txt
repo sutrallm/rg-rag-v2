@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>WUWANG</target_entity>
+    <relationship_description>Jiede is the result of overcoming Wuwang (ignorance), which is the root delusion sustaining suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

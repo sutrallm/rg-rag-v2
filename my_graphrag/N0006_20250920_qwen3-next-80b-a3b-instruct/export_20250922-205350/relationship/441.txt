@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Nirvana is the realization of no-self; understanding that there is no fixed self to be liberated leads directly to liberation itself.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

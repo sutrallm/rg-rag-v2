@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>Non-self (wu wo) is the philosophical insight that the contemplative practice of wuwo guan aims to realize experientially.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

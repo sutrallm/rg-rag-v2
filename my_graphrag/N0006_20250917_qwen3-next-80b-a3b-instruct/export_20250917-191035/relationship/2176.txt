@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>究竟安稳</target_entity>
+    <relationship_description>修行是通往究竟安稳的唯一路径，所有方法——禅定、精进、智慧——都服务于实现此终极目标。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

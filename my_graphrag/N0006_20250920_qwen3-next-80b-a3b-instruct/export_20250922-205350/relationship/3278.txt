@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUCHANGZHUANYI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Huchangzhuyi (continuous mindfulness) is the practical method for developing and strengthening chanding in daily life, not just formal meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

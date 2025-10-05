@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wisdom directly undermines attachment by seeing through the illusion of permanence and inherent existence in objects of desire.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

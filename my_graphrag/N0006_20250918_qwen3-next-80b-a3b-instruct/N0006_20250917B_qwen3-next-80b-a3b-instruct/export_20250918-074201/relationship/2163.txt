@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding requires and is supported by mindfulness; mindfulness enables the mind to remain focused and undistracted, which is central to achieving deep concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

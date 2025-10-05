@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲觀</source_entity>
+    <target_entity>瞋恚</target_entity>
+    <relationship_description>慈悲觀用以轉化瞋恨，通過培養慈愛來消除對立與怨恨。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

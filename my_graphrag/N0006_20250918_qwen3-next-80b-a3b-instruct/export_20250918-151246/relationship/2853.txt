@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>圣者因如实智慧而断除三毒，智慧是其清净与超脱的根本成因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

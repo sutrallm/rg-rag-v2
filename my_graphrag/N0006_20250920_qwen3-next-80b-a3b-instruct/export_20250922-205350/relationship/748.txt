@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不依外境而得自在</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>不依外境而得自在是禅定成就后的内在稳定状态，是禅定的最高体现之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

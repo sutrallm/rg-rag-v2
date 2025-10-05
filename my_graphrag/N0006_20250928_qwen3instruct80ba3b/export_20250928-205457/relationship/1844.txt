@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_BEING</source_entity>
+    <target_entity>UNSHAKABLE_PEACE</target_entity>
+    <relationship_description>The holy being embodies unshakable peace, their mind like empty space—unaffected by worldly conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

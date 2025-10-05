@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMS ATTACHMENT WISDOM</source_entity>
+    <target_entity>FORMS</target_entity>
+    <relationship_description>Form Attachment Wisdom focuses on investigating the nature of forms to eliminate attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

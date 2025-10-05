@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定若缺乏智慧，僅為情緒安靜；智慧引導禪定超越境界執著，達成真正的解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhineneg involves the direct and lucid observation of Wuchang (impermanence) as one of its three foundational insights.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

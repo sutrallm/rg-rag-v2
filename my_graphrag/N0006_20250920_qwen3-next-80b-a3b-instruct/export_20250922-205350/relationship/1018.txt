@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>禪定的深入最終引導修行者證悟無我，唯有無我觀照才能真正 breakthrough 離執。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

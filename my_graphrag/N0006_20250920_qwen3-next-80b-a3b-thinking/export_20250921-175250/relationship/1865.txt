@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>TRUTH</target_entity>
+    <relationship_description>Wisdom is the essential method for comprehending ultimate reality and true nature of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

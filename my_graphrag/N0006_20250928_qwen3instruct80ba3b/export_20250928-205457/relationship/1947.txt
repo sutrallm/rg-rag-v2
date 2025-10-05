@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOGUO ZHUOZHI</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary to apply the wisdom of transcending attachment without being misled by spiritual experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

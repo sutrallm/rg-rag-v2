@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO ZHI ZHI</source_entity>
+    <target_entity>SI SHENG LUN HUI</target_entity>
+    <relationship_description>Wu Wo Zhi Zhi is the key insight that breaks the cycle of samsara, as the sense of “I” is the root of clinging that perpetuates rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

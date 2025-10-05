@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修障碍</source_entity>
+    <target_entity>掉举</target_entity>
+    <relationship_description>掉举是禅修障碍的一种，表现为心念散乱，需以数息、专注所缘等方法对治。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

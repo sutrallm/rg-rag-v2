@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Enlightened beings have completely eradicated delusion through insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

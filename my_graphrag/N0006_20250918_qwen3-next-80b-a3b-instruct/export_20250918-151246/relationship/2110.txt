@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAOZHEN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A taozhen maintains unwavering chanding, remaining undisturbed and tranquil, as part of their realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

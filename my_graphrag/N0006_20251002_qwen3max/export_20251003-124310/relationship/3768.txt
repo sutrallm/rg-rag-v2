@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>生死轮转</target_entity>
+    <relationship_description>若能依循正法勤修禅定，便能脱离生死轮转的掌控。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

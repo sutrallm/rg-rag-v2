@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDFULNESS</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Heedfulness involves guarding the MIND to prevent negligence, per "唯有持续守护心念，才能真正掌握解脱之法".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

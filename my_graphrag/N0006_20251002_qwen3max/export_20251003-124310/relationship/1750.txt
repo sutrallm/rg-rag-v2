@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>修行次第即体现为戒定慧的循序修习：先持戒，再修定，后发慧，三者构成修行路径。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

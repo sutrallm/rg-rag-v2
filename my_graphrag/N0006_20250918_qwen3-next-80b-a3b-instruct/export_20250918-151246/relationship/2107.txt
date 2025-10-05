@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHISUI</target_entity>
+    <relationship_description>Chanding stabilizes the mind, allowing zhishui to unfold through clear observation; concentration enables wisdom to arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

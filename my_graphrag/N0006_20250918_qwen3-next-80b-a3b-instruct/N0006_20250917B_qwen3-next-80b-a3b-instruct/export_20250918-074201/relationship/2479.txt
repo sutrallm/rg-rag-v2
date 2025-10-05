@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>缘起无常是支持无我观念的根本理论依据，一切法无自性，故无“我”可得。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

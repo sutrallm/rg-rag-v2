@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUESTION</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The query requests translation services but the necessary input content is absent.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

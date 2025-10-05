@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRI_FOLDSY</source_entity>
+    <target_entity>JI_JIE</target_entity>
+    <relationship_description>Tri-fold ethical practice (body, speech, mind) constitutes the comprehensive structure of moral discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

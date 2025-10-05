@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>禪悅</target_entity>
+    <relationship_description>禪定可能產生禪悅，但修行者需不執取此種感受，以免成為執著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

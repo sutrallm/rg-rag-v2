@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>掉舉惡作</source_entity>
+    <target_entity>五蓋</target_entity>
+    <relationship_description>掉舉惡作是五蓋之一，作為障蔽心性、妨礙禪定的根本煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

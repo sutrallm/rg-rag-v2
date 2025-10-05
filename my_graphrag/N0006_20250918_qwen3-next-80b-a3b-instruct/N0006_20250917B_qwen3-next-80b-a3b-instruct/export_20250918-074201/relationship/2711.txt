@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>TRANSCENDENT wisdom</target_entity>
+    <relationship_description>Saintly Qualities arise from and express Transcendent Wisdom; purified conduct and insight are inseparable in the enlightened being.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

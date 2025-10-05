@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU_MOBIAO</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The realization of Wuwo (no-self) is a core insight sought in Chanxiu mubiao, as liberation arises from seeing there is no permanent self to cling to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

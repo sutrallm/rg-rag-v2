@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION_AND_WISDOM</source_entity>
+    <target_entity>ULTIMATE_GOAL_OF_PRACTICE</target_entity>
+    <relationship_description>Only through the balance of compassion and wisdom can the ultimate goal of non-clinging and liberation be fully realized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>精进是获得和维持禅定的关键条件；唯有持续精进、毫不放逸，修行者才能真正掌握定力，避免散乱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

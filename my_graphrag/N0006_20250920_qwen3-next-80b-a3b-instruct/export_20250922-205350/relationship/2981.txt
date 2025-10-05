@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天神</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>天神因聖者具足戒定慧而依法敬重之，顯示聖者德行的超越性。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>Only through unwavering diligence (jingjin) can one attain the purity and insight characteristic of a saintly being.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

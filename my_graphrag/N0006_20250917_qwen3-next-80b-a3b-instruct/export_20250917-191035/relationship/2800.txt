@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自心</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定的實踐基地是自心，所有專注與覺察皆發生在內心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

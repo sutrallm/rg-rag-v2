@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行的终极目标</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>修行非为求神通，追求神通即偏离正道。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

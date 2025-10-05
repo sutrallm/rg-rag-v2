@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEXING</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Awakening is the direct insight into non-self—the core realization that dismantles all identification with the illusory sense of “I.”</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

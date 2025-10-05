@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>緣起無我</target_entity>
+    <relationship_description>禪定是體證緣起無我的途徑，唯有在專注與清明的心狀態下，才能清晰照見此真實本性。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

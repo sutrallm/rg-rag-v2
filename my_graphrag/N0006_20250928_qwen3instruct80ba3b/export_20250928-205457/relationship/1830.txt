@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>恭敬与放下</source_entity>
+    <target_entity>法</target_entity>
+    <relationship_description>恭敬法是修行的态度，但放下对法的形式执著，才能真正领受法义，避免法缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

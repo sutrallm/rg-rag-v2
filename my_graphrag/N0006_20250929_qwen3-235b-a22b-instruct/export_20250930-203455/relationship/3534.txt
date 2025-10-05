@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>通过如实观照五蕴生灭，可从根本上断除烦恼之根。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

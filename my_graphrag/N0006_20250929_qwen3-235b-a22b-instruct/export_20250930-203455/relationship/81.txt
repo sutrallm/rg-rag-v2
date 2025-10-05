@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念观照能逐步瓦解烦恼势力，若不修习正念，烦恼将如野火蔓延。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

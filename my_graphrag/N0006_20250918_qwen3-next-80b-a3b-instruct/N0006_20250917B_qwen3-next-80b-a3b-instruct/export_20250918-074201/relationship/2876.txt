@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TISHI JUEZHAO</source_entity>
+    <target_entity>WANGMIN</target_entity>
+    <relationship_description>Constant mindfulness is the direct remedy to delusion — it cuts through ignorance by bringing awareness to each moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

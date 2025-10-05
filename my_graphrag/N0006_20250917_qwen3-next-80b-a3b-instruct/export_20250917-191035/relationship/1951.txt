@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WAN FA WU CHANG</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>The insight into impermanence (all phenomena are changing) leads to the realization that there is no fixed, independent self — the foundation of no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

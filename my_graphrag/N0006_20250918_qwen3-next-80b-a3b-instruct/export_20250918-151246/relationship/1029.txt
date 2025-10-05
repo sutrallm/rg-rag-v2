@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANYING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>True chanying involves not clinging to meditative states; non-attachment ensures that peace is not mistaken for attainment, preserving insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照无常</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>观照无常主要通过对五蕴的观察来实现，以体悟其无常、苦、无我本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

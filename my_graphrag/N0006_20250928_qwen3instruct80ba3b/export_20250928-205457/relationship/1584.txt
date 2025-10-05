@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditation cultivates both concentration (chanding) and insight (wisdom), with the two working together for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>WORLDLY_DESIRES</target_entity>
+    <relationship_description>Practitioners avoid worldly desires to remain focused on their spiritual path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

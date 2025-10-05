@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>精进是修行的核心态度与实践方式，修行的实质即是持续不懈地精进。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Saintly individuals have eradicated greed, which is a root cause of suffering and a barrier to spiritual freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

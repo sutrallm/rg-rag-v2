@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jieti (moral discipline) provides the ethical foundation that pacifies outer and inner disturbances, making chanding (meditative concentration) possible.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

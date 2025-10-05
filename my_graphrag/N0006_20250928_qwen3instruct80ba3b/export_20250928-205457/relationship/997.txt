@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG</source_entity>
+    <target_entity>ZHONGJI JINGMI</target_entity>
+    <relationship_description>True liberation (jiefang) culminates in ultimate stillness (zhongji jingmi) — the natural, unconstructed state beyond all seeking.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

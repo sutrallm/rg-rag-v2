@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>WISDOM is the direct cause of achieving LIBERATION from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

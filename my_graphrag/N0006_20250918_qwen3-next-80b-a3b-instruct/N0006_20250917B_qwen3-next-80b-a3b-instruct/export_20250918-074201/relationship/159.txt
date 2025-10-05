@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>QING JING JIE LV</target_entity>
+    <relationship_description>The Sheng Zhe embodies and perfectly upholds pure moral discipline as a foundational aspect of their enlightened state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

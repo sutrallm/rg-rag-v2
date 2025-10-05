@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊空性</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>體證五蘊空性是當下證得涅槃的關鍵，見空性即離我執，即是解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Realizing Wuwo dissolves the root of suffering (I-attachment), which directly leads to the arising of Niepan.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

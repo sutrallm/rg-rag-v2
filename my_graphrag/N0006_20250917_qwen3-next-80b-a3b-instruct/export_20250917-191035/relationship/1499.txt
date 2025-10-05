@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSE DESIRES</source_entity>
+    <target_entity>GRIEF</target_entity>
+    <relationship_description>Indulgence in sense desires leads to grief and suffering, as pleasure is temporary and its loss causes pain.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

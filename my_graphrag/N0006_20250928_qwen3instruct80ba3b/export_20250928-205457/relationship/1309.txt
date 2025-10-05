@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Non-self insight is achieved by observing the five aggregates as impermanent, unsatisfactory, and not-self; they are the objects of this liberating analysis.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

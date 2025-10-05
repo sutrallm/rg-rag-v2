@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>般若</target_entity>
+    <relationship_description>般若是究竟的智慧，是智慧修行的最高形式，體現為無執無得。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINJIN</target_entity>
+    <relationship_description>Continuous diligence (jinjin) is necessary to sustain and deepen meditative absorption (chanding) and prevent backsliding into laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

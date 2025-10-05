@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>正語</target_entity>
+    <relationship_description>正語是八正道的第三項，屬於戒學，是八正道的組成部分。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自证自知</source_entity>
+    <target_entity>修行成果</target_entity>
+    <relationship_description>自证自知是修行成果的检验标准，强调内心烦恼减轻、慈悲增长、智慧清晰、行为清净，非依赖外在评价。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMING</source_entity>
+    <target_entity>CHANGXIU</target_entity>
+    <relationship_description>Jieming is the culmination of Changxiu: the state where striving, fear, and comparison are absent.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

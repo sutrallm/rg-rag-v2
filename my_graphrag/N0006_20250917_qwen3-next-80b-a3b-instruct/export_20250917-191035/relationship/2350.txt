@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>外境</source_entity>
+    <target_entity>情绪流转</target_entity>
+    <relationship_description>外境是引发情绪流转的外部诱因，修行者需通过禅定与智慧不随其转。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

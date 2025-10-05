@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISENESS_BEYOND_ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-attachment, a hallmark of this wisdom, is the direct path to nirvana, where no craving or clinging remains.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

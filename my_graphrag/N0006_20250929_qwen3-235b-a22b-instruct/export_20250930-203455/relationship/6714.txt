@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>骄慢</target_entity>
+    <relationship_description>智慧使修行者不因成就而生骄慢，如实洞察无我，超越对成果的执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

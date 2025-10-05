@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRUZABAD</source_entity>
+    <target_entity>AURELIA</target_entity>
+    <relationship_description>Firuzabad and Aurelia were directly involved in a hostage exchange.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

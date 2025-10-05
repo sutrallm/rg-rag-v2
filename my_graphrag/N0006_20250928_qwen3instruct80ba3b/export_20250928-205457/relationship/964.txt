@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sustained mindfulness prevents the arising of afflictions and is the continuous practice that culminates in liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律與觀慧相輔相成，清淨戒行為智慧生起提供穩定基礎，智慧則使戒行不流於形式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

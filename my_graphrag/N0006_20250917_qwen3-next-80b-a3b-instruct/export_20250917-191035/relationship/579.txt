@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>清净光明</target_entity>
+    <relationship_description>圣者的内心自然显发清净光明，此为其解脱境界的外在显现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

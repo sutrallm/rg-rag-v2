@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>浊水</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>浊水需通过止观修习静置沉淀，象征心识净化过程。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

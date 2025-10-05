@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱不依赖苦行；即使不行苦行，只要内心转化、烦恼止息，亦能达至解脱。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

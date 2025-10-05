@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO GUANZHAO</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Wu Wo Guanzhao is the meditative practice by which one directly realizes the truth of Wu Wo—the absence of a fixed self in the aggregates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

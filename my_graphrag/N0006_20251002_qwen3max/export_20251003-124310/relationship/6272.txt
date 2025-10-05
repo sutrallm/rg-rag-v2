@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内外干扰</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>内外干扰是禅定的主要障碍；唯有远离外缘喧嚣与内心牵挂，实现内外俱寂，禅定方能深入。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

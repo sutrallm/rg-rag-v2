@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>TANAI</target_entity>
+    <relationship_description>Sheli directly weakens Tanai (craving and attachment) by removing the objects and conditions that fuel them.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

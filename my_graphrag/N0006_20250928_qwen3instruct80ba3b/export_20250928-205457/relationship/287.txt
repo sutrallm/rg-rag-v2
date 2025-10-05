@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>業力</target_entity>
+    <relationship_description>正念使人覺知每一念頭與行為，從而對治惡業、培育善業，是業力修習的關鍵。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

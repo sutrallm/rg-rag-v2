@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEYUAN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jieyuan (liberation) is the lived experience of niepan (nirvana) in the present moment — they are synonymous in this context.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

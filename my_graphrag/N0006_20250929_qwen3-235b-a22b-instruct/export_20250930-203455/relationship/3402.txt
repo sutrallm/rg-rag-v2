@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>身心变化</target_entity>
+    <relationship_description>正念使修行者在行住坐卧中如理观察身心变化，避免随妄念流转。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

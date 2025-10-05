@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>REALIZING NON-SELF diminishes attachment and thus reduces INDULGENCE by dissolving ego-centric clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

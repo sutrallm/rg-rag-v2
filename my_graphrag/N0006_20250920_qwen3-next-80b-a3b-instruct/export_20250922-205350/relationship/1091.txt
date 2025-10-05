@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Chanding provides the mental stillness needed for Zhihui — insight — to arise. Without calm, wisdom cannot penetrate reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

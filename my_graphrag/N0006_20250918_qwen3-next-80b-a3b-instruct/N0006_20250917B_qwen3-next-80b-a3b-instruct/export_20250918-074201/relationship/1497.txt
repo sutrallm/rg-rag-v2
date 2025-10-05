@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWEI</source_entity>
+    <target_entity>WU YU LU</target_entity>
+    <relationship_description>Xiuwei is the manifestation of wu yu lu—the practice of clear, unattached awareness in all activities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

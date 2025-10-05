@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shengzhe (enlightened beings) embody perfected Chanding, as they remain unmoved by external conditions due to deep concentration and inner stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

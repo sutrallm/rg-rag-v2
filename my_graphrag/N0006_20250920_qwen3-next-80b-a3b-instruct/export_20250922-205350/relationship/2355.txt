@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>LOOSENESS</target_entity>
+    <relationship_description>Effort counters looseness — continuous vigilance prevents the mind from slipping into laxity and indulgence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

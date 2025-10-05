@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>WISDOM observes and realizes the true nature of DHARMA.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

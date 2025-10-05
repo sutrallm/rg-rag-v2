@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>JINGXIN</target_entity>
+    <relationship_description>When afflictions are observed and dissolved through mindfulness, the mind becomes purified, revealing its innate clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

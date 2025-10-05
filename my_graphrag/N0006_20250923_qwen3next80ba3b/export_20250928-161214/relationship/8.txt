@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROCESSING REQUIREMENTS</source_entity>
+    <target_entity>NORMATIVE FORMAT</target_entity>
+    <relationship_description>The processing requirements specify the normative output format.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

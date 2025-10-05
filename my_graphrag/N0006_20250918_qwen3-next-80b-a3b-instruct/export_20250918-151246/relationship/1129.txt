@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELEASINGATTACHMENT</source_entity>
+    <target_entity>NONSELF</target_entity>
+    <relationship_description>Releasing attachment arises from realizing that nothing has a permanent, independent self to cling to.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

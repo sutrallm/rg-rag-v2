@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Wisdom allows one to see the impermanent and unsatisfactory nature of all phenomena, naturally leading to non-attachment and freedom from clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

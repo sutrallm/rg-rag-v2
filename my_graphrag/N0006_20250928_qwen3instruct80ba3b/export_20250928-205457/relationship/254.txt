@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>LEARNING_VIRTUES</target_entity>
+    <relationship_description>Learning virtues arise from consistent mindfulness practice applied to real-life conditions — they are expressions of mindfulness in action.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

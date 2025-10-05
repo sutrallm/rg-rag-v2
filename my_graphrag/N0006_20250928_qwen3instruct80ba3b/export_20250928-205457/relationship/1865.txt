@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Those who successfully transcend attachment are described as enlightened beings (Shengzhe), indicating that this practice leads to sainthood.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

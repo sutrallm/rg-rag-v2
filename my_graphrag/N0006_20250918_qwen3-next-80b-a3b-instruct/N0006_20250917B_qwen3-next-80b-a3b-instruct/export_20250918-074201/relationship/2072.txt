@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHICHI</target_entity>
+    <relationship_description>The holy one embodies zhichi, as their defining quality is the clear and direct wisdom that leads to non-attachment and emancipation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

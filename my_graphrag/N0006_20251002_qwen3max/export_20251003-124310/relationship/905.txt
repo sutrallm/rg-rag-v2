@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>禅定是戒定慧三学中的“定”部分，由戒所生，为慧所依。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

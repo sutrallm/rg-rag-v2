@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>超越执着的智慧使修行者不执取禅定境界，避免陷入新的执着，是禅定的升华。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

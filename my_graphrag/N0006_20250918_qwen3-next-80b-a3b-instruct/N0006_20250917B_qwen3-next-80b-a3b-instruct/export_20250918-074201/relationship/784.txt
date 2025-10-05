@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ABIDING_MIND</source_entity>
+    <target_entity>ATTACHMENT_TO_LIGHT</target_entity>
+    <relationship_description>Non-abiding mind transcends even attachment to pleasant meditative experiences like light, recognizing them as impermanent phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

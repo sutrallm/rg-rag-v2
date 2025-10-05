@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT_WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Transcendent wisdom leads to the realization of non-self and impermanence, which is essential for attaining Nirvana—the cessation of clinging and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

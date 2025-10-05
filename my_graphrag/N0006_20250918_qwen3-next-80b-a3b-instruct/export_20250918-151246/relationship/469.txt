@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHING_WISDOM</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Non-attaching wisdom includes the realization of non-self, allowing one to transcend identification with experiences and entities.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Buddha showed the way to liberation but stressed that liberation must be achieved through one’s own effort, not through external worship or dependence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

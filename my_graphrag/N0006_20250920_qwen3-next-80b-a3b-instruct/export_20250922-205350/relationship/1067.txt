@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Meditative concentration is a necessary step toward the ultimate state of liberation (jiefu) or Nirvana, as it calms the mind to allow deep insight to arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

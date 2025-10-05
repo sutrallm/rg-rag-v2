@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>The sage embodies Chan Ding as part of their stable, concentrated mind free from agitation and distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>LUN HUI</target_entity>
+    <relationship_description>Continuous effort (Jing Jin) is necessary to escape the cycle of birth and death (Lun Hui), otherwise one falls under its control.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

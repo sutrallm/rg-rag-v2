@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>一心</source_entity>
+    <target_entity>三禅</target_entity>
+    <relationship_description>一心存在于三禅，是三禅二支之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

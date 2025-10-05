@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHUI</target_entity>
+    <relationship_description>Chanding leads to the insight of WuZhui (non-attachment), as sustained concentration reveals the impermanent nature of inner experiences, dissolving attachment to meditative states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

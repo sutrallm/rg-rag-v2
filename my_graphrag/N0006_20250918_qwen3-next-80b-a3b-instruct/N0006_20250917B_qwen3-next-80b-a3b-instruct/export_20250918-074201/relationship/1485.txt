@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>YUNGLI</target_entity>
+    <relationship_description>Chanding creates the mental stillness required for yungli (wisdom) to arise, allowing direct insight into the nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

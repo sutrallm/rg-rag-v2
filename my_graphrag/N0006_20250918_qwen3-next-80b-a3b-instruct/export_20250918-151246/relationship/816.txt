@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Niepan is defined as the complete cessation of all mental afflictions — the final elimination of greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

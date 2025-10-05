@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUSALITY</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>All phenomena being causally conditioned implies they have no fixed, independent self-nature, reinforcing the insight of non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

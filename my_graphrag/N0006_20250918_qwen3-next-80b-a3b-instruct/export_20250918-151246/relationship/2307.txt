@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>修行是達成解脫的具體方法，透過持續覺察與觀照，逐步脫離輪迴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

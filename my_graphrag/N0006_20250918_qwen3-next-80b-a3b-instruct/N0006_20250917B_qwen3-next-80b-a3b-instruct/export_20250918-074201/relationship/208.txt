@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>智慧防止修行者溺于有为与执着，是维持中道、不执两端的根本保障。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

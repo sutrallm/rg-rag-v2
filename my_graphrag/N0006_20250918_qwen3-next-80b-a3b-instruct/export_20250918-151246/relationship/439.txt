@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEXIE</source_entity>
+    <target_entity>LUNHUI</target_entity>
+    <relationship_description>Jiexie is the escape from Lunhui — liberation from the endless cycle of rebirth triggered by ignorance and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>观智</target_entity>
+    <relationship_description>禅定提供心的稳定基础，使观智得以生起；观智则深化禅定的智慧内涵，二者相辅相成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

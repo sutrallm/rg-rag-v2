@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI SHENG MIE</source_entity>
+    <target_entity>WUWU GUAN</target_entity>
+    <relationship_description>The insight of dependent origination and impermanence forms the intellectual and experiential foundation for realizing non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

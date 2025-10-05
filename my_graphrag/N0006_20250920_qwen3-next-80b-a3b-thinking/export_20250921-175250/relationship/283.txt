@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WIND</source_entity>
+    <target_entity>CANDLELIGHT</target_entity>
+    <relationship_description>Wind extinguishes candlelight, symbolizing scattered thoughts disrupting mental clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

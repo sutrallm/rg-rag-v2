@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Chanding is the tool through which ignorance is directly observed and destroyed; meditation enables correct insight into reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Zhihui (wisdom) deepens and perfects Chan Ding by enabling non-attachment to meditative experiences, transforming concentration into liberating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

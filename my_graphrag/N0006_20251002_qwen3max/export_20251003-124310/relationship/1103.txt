@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>不放逸被明確指出是通向解脫的關鍵與必要條件，唯有持續精進方能避免落入輪迴。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

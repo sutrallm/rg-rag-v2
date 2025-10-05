@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Sages embody pure moral conduct, which is grounded in the observance of ethical precepts as a foundation for wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

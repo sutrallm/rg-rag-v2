@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>舍离执着是解脱的必要条件，只有放下对事物的系缚，解脱的清净本性才能显现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

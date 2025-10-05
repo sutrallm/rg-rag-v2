@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DARKNESS</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>DARKNESS is a symbolic representation of ignorance and delusion within the mindfulness context.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

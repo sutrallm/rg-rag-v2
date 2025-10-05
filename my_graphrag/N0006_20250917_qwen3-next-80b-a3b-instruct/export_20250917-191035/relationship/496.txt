@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Shenge has fully realized no-self and is thus free from all attachment, aversion, and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

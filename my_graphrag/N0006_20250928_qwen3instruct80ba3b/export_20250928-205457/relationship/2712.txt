@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU XIU ER XIU</source_entity>
+    <target_entity>ZHENG JIAN</target_entity>
+    <relationship_description>Wu Xiu Er Xiu arises from fully established Zheng Jian — the realization that everything is already perfect and complete as-is.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

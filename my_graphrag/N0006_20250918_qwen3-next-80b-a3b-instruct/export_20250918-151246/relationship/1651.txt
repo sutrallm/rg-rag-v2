@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STRAINING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Continuous effort (straining) sustains mindfulness, preventing it from lapsing into forgetfulness or distraction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

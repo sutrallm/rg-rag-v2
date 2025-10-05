@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>智慧通过无常观的修习获得，能洞察世间无常、无我、苦。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE_CONCENTRATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditative Concentration is the necessary condition for WISDOM to arise; without a calm and focused mind, penetrating insight cannot develop.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

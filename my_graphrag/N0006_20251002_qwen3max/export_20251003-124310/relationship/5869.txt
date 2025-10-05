@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>专注</target_entity>
+    <relationship_description>修行者应以专注为本，持续守护内心，使心念安住于所缘境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

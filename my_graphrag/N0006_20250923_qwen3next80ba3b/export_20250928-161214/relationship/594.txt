@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CALM ABIDING AND INSIGHT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Calm abiding and insight is the progressive path leading to the attainment of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>正见是修习止观的基础，修行者须先确立正见，再以此为基础修习止观。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

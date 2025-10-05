@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>真正的修行者以慈悲与智慧为本，引导他人离苦，不为名利或境界所动。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

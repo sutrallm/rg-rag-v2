@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GAN SHOU</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Zhi Neng (wisdom) enables one to observe Gan Shou (feelings and sensations) without clinging or resisting them, maintaining equanimity even in the presence of pleasant meditative states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

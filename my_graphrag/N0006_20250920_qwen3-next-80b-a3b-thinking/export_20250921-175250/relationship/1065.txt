@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>CYCLE OF REBIRTH</target_entity>
+    <relationship_description>CRAVING drives the continuous cycle of death and rebirth as described in Buddhist teachings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GRIEF</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Grief and anger are both mental afflictions arising from ignorance and attachment; they are two sides of suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

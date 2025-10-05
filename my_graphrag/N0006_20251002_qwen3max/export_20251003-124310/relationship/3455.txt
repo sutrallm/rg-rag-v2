@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>缘起</target_entity>
+    <relationship_description>中道依缘起智慧而建立，圣者通过观照缘起而不堕“存在”或“非存在”等边见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

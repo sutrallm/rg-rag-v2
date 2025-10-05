@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Wuwo is described as the “ultimate key” to liberation; the complete dissolution of the self-illusion cuts the root of suffering and leads to true freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>禅定使人远离心识的散乱与欲望牵引，是降伏贪欲的根本方法之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

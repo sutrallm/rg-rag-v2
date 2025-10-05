@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Realization of non-self dissolves clinging to the concept of a permanent identity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

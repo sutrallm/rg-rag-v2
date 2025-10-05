@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NUMBERED TITLES</source_entity>
+    <target_entity>PARAGRAPH THEMES</target_entity>
+    <relationship_description>Numbered titles structure and organize paragraph themes for clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>飞蛾</source_entity>
+    <target_entity>自毁</target_entity>
+    <relationship_description>Moth flying toward flame results in self-destruction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

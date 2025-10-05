@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWEI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xiuwei requires Jingjin (diligent effort) to maintain ethical conduct and mindfulness consistently in daily challenges, not just formal sitting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

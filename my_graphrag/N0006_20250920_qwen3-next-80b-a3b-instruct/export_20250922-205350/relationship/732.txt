@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANICCA_OBSERVATION</source_entity>
+    <target_entity>ANATTA_PATH</target_entity>
+    <relationship_description>Anicca Observation is the method through which Anatta Path is realized—seeing impermanence leads to seeing no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

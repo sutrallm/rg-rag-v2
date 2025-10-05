@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>A saint has completely eradicated greed, as it is one of the three root defilements overcome on the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

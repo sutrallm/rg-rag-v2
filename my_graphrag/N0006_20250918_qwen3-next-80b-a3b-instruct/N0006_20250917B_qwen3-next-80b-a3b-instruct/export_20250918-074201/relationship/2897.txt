@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>A saintly being has completely uprooted hatred, enabling inner peace and equanimity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

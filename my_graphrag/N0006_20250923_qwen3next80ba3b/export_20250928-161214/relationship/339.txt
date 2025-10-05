@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PARABLE</source_entity>
+    <target_entity>DHARMA TEACHINGS</target_entity>
+    <relationship_description>Parables are explicitly converted into direct Dharma teachings during processing to eliminate metaphorical language.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

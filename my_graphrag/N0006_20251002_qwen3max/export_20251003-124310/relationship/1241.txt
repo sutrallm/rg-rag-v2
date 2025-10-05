@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>渴爱</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>渴爱是生死轮回的根源，因对感官享乐、存在乃至非存在的贪求，导致众生不断流转于生死之中。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

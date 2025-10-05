@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FUYUN</source_entity>
+    <target_entity>YUANQI SHENGMIE</target_entity>
+    <relationship_description>The five aggregates are the objects observed to see that they arise and cease according to dependent origination.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

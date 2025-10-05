@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Suffering arises when one resists or attaches to impermanent phenomena, mistaking them for stable or satisfying.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

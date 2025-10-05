@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Clinging to the five aggregates as a self causes misunderstanding of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

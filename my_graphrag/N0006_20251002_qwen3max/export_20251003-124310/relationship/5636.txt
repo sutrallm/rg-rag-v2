@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>无常与苦紧密相连，一切有为法因无常而具苦的本质，如实了知二者是智慧生起的基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

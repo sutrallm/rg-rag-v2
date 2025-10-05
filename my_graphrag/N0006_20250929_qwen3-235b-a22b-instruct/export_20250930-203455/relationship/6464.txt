@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>智慧通过无我观实践，如实洞察五蕴无常无我，从而破除“我”的错觉，消融执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

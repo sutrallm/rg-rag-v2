@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>日常实践通过持续觉察积累，使烦恼褪去、智慧显发，最终导向解脱，是解脱的可操作路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

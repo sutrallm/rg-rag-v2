@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DULLNESS</source_entity>
+    <target_entity>RESTLESSNESS</target_entity>
+    <relationship_description>DULLNESS and RESTLESSNESS are two primary mental obstacles that hinder meditation practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

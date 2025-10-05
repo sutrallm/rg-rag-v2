@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>INNER PURIFICATION</target_entity>
+    <relationship_description>Daily mindful practice is the means of purifying the mind of afflictive mental states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

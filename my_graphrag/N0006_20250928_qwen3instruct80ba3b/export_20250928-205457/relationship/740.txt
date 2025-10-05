@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我觀</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我觀是通向解脫的關鍵方法，觀見無我則執著消融，心即得解放。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

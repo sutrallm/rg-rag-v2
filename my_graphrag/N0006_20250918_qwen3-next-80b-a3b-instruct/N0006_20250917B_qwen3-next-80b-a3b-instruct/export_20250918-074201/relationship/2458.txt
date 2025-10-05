@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding alone is not sufficient; wisdom is required to avoid attachment to meditative states and to see beyond transient peace to true liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOGUO ZHIZHUO DE ZHIHUI</target_entity>
+    <relationship_description>True meditative absorption leads to transcending attachment by seeing the true nature of experience, making wisdom the natural outcome of deep concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

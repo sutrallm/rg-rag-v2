@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅修误区</target_entity>
+    <relationship_description>修行者若追求境界或神通，易堕入禅修误区，偏离断烦恼、证解脱的正道。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六度萬行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>六度萬行中的智慧是核心，修行者行六度而不執著，體現無住之智。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五盖</source_entity>
+    <target_entity>昏沉睡眠</target_entity>
+    <relationship_description>昏沉睡眠是五盖之一，属于障碍禅定与智慧生起的心理障碍。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

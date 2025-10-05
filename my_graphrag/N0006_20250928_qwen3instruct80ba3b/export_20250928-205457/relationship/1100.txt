@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念覺察</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念覺察是發展智慧的修習方法，透過持續覺知真實本相而生起慧觀。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

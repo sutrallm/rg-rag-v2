@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>RESPECT</target_entity>
+    <relationship_description>Cultivating wisdom leads to widespread admiration and reverence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

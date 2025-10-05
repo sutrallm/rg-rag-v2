@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>FANGXIA</target_entity>
+    <relationship_description>Zhishi (wisdom) directly leads to fangxia (letting go), as seeing reality as impermanent and non-self dissolves attachment and clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

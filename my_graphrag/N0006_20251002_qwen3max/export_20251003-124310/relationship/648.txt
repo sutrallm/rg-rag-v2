@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>心解脱者通过洞见无常而不执取任何境界，无常的如实认知是实现心解脱的直接原因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

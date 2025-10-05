@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEXIAO</source_entity>
+    <target_entity>FU</target_entity>
+    <relationship_description>Liberation is defined as the state of non-abiding—where the mind clings to nothing and is unfixed in any experience.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

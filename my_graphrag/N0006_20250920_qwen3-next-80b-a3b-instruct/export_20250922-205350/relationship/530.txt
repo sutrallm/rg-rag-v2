@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Zhengnian prevents fannao (afflictions) from arising by keeping the mind anchored in the present and aware of mental patterns.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

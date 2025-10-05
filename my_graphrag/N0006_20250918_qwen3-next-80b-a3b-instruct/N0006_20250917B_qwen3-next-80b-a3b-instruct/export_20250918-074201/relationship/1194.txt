@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Saintly qualities are the visible manifestations of a person who has attained liberation — free from all defilements and attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

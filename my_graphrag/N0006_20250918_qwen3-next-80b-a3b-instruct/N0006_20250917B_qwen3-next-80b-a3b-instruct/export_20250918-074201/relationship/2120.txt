@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Saintly beings are those who have fully realized enlightenment, having transcended samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Insight wisdom is the direct cause of liberation; without it, defilements persist and liberation remains unattainable.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

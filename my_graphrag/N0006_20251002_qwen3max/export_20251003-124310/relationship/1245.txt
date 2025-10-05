@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正知</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正知作为如实了知身心状态的能力，是智慧观照的前提之一，协助修行者如实观察五蕴生灭，断除妄见。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

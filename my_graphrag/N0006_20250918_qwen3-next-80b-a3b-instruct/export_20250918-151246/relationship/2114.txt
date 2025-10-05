@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANHUGUAN</source_entity>
+    <target_entity>ZHISUI</target_entity>
+    <relationship_description>Fanhuguan develops zhishui by enabling direct observation of phenomena’s impermanent and selfless nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

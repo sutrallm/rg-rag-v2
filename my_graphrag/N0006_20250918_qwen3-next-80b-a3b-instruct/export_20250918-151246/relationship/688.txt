@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_LIBERATION</source_entity>
+    <target_entity>INNER_OBSERVATION</target_entity>
+    <relationship_description>Inner observation is the essential method underpinning the development of wisdom, the final stage of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

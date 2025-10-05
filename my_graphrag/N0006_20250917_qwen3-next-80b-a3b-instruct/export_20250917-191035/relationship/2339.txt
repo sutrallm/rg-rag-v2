@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DA_XIAN</source_entity>
+    <target_entity>WU-MING</target_entity>
+    <relationship_description>Da Xian (presence in the present moment) prevents the arising of Wu-ming (ignorance) by cutting off mental distractions that fuel delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

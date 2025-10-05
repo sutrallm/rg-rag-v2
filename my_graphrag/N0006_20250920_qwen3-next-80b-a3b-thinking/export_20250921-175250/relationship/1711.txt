@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Wisdom enables practitioners to transcend attachment and maintain non-attachment even when pursuing liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

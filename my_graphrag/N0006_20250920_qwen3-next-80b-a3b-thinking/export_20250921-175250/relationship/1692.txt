@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>Heedlessness makes individuals vulnerable to being controlled by the death demon.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

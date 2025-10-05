@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT EFFORT</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Right effort requires constant vigilance in the present moment to maintain mindfulness and prevent sloth or distraction, making the present the arena where right effort is continuously applied.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>道果</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>文本指出唯有烦恼永断、心彻底自由者，才堪称已证道果，表明道果的验证标准在于烦恼是否断尽。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

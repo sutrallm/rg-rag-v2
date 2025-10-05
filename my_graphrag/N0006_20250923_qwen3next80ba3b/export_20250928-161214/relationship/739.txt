@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>LOTUS</target_entity>
+    <relationship_description>The lotus serves as a metaphor to describe the purity and clarity of the mind nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

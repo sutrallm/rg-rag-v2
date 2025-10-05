@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>貪嗔痴</target_entity>
+    <relationship_description>聖者已斷盡貪嗔痴，因此能安住於寂靜，超越憂悲苦惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

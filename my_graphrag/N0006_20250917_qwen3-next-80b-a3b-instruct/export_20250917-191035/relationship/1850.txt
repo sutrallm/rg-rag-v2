@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>The enlightened being's quality of non-attachment is one of the hallmarks of their sainthood, distinguishing them from ordinary practitioners.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

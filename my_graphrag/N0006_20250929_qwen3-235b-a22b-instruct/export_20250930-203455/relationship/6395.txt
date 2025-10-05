@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>心识依缘而生无自性，如实了知此理可破除常见断见，契入空性。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

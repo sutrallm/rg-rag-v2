@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>XIUXIN ZHONGJIE MUBIAO</target_entity>
+    <relationship_description>The state of the enlightened being is the realization of the ultimate goal of cultivation: the complete cessation of greed, hatred, and delusion, and liberation from the illusion of self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

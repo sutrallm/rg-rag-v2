@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A Noble Sage embodies chanding by continuously maintaining mindfulness and inner stillness without being swayed by external conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

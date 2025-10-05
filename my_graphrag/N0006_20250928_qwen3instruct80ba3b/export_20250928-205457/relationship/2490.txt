@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>THREEfold_PATH</target_entity>
+    <relationship_description>Precepts are the foundational element of the Threefold Path, providing the ethical basis for mental calm and wisdom to emerge.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHOU</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Chizhou — the wisdom of non-attachment and seeing reality — is the direct path to achieving Niepan, the final liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

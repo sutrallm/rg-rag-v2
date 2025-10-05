@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SELF</target_entity>
+    <relationship_description>Liberation is defined as the complete release from attachment to the concept of "self" and "mine"; the two are directly opposed in the teaching.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

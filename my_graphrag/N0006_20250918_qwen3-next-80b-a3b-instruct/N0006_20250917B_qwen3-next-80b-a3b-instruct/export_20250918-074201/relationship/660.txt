@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_OF_NON_ATTACHMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Non-attachment is cultivated because attachment to impermanent and selfless phenomena is the cause of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

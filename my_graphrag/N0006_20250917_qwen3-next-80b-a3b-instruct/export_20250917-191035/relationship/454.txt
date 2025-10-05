@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI YU CI BEI</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>A true Sheng Zhe (enlightened one) embodies the perfect balance of Zhi Hui (wisdom) and Ci Bei (compassion), which together define the perfected liberated mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

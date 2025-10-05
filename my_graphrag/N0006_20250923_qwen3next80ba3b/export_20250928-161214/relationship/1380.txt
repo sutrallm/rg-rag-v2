@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>REALM</target_entity>
+    <relationship_description>Non-attachment involves not clinging to any mental realms or states, as per the phrase '不执着于任何境界' in the source text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

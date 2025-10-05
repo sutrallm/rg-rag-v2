@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chanding leads to insight into impermanence, which naturally fosters non-attachment. One who is deeply concentrated can observe thoughts and sensations without clinging, making non-attachment a natural outcome of sustained meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

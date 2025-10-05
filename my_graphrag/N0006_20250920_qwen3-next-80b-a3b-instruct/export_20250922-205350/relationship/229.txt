@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WENSI XIU</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Only through the integrated practice of hearing, thinking, and realizing can one truly attain liberation; abstract knowledge or blind practice alone cannot lead to awakening.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

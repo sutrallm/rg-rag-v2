@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>日常修行通过持续觉察，使人逐步剥离无明，是通往解脱的直接路径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定之喜</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>禅定之喜是修行路上的暂时体验，若执著则背离涅槃的无依本质，故涅槃超越此等境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

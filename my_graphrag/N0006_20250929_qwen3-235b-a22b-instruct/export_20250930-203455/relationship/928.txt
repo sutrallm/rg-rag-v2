@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>修行者需如实知见四圣谛，方能彻底断除轮回，是解脱的根本路径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BA ZHENG DAO</source_entity>
+    <target_entity>SI SHENG DI</target_entity>
+    <relationship_description>The Eightfold Path is the fourth Noble Truth — the method to realize the truth of suffering and its cessation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

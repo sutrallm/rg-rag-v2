@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LINZHONG ZHENGNIAN</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Linzhong zhengnian (mindfulness at death) is the critical juncture where one’s lifetime of practice culminates; mastery of this moment determines final liberation (jiede).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

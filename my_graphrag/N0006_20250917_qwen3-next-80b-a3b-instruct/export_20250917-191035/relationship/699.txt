@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>聖者已斷盡貪欲，貪欲的消除是其作為聖者的重要特徵。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

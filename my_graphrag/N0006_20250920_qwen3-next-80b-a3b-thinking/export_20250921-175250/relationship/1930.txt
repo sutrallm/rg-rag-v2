@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Renunciation involves letting go of desire.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

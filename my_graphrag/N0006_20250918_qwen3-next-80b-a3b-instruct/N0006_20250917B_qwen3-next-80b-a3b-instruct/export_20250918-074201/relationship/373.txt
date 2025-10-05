@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>外相</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>外相是擾動心念的外因，修行者需不為外相所動以護心念。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

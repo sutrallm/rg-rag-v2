@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>慧解脫</target_entity>
+    <relationship_description>心解脫與慧解脫實為一體兩面，共同構成阿羅漢的完整解脫境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

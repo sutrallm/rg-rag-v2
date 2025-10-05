@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>灯</target_entity>
+    <relationship_description>觉知如灯，象征其照亮内心暗角、驱散杂念、促进专注的能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

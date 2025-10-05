@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>二元对立</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>超越执着的智慧正是为了超越二元对立的妄见与执取，二者是所破与所达的关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

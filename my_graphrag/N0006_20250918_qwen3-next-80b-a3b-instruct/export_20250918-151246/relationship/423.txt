@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>经教</source_entity>
+    <target_entity>方便</target_entity>
+    <relationship_description>经教是佛陀设立的方便法门，用于引导众生觉悟，本身非终极真理。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

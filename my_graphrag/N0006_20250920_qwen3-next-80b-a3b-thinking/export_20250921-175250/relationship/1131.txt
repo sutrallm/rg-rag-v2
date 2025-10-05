@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>LOCATION</target_entity>
+    <relationship_description>Locations mentioned in the original text are to be deleted as part of processing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

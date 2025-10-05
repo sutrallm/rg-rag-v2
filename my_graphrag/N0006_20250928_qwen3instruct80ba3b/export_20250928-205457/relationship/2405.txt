@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>當下</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念的實踐即是對當下的持續覺知，二者互為表裡。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

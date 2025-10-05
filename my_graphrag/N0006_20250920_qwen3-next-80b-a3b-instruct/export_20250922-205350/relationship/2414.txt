@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>圣者因具足戒律而身口意清净，这是其超凡特质的基础条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

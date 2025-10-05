@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>聖者不被五欲所牽，顯示其已從感官欲望中徹底解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOGUO ZHIZHUA</target_entity>
+    <relationship_description>Chanding is the method to cultivate the mindfulness necessary for observing phenomena as impermanent and non-self. It serves as the gateway to transcending attachment through wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIYONG</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Riyong integrates jie into daily behavior, making ethical conduct habitual rather than situational, thereby reinforcing the foundation of practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

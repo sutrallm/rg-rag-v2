@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHEN</target_entity>
+    <relationship_description>A Shengzhe has completely eradicated Chen (hatred/aversion) along with the other two poisons.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

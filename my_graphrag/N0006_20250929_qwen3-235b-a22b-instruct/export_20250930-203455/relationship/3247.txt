@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>调伏</source_entity>
+    <target_entity>心</target_entity>
+    <relationship_description>调伏是使散乱的心回归专注与清明的实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

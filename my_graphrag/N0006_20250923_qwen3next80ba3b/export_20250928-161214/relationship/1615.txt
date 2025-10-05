@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>ENDING AFFLICTIONS</target_entity>
+    <relationship_description>PRECEPTS provide ethical discipline that supports the eradication of AFFLICTIONS through practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

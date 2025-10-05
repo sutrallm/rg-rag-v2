@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>FANGXIA</target_entity>
+    <relationship_description>True letting go (fangxia) is the behavioral manifestation of transcending attachment — one stops clinging because they no longer believe in the solidity or permanence of things.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出離心</source_entity>
+    <target_entity>離欲</target_entity>
+    <relationship_description>出離心是離欲的心理動力，唯有生起強烈出離心，才能真正厭離三界、斷除貪愛。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

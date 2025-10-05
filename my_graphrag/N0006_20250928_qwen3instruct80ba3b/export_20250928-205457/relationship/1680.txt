@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念是進入禪定的關鍵入口，持續覺知使心念專注，自然趨向禪定狀態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

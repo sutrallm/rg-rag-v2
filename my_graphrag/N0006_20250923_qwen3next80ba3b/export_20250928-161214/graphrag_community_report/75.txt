@@ -1,0 +1,28 @@
+Title: Content Transformation Requirements and Execution Dependencies  
+
+Summary:  
+The processing task mandates specific modifications including removal of individual and geographic references, metaphor-to-doctrinal translation, preservation of core religious or philosophical teachings, elimination of concluding poetic verses, and generation of a new title reflecting anonymized doctrinal focus. Execution requires the original input to proceed, with all processed output adhering strictly to predefined structural guidelines, including numeric section titles.  
+
+Anonymization Procedures Exclude Individual and Geographic References  
+All references to specific individuals and locations must be removed to ensure content abstraction and universal applicability.  
+
+Metaphorical Expressions Translated to Explicit Doctrinal Language  
+Figurative or symbolic language must be converted into clear, direct doctrinal explanations while maintaining original meanings.  
+
+Core Doctrinal Details Preserved During Modification  
+Religious or philosophical teachings must remain intact throughout processing to ensure conceptual accuracy.  
+
+Concluding Poetic Elements Removed from Final Material  
+Any concluding verses or stanzaic elements serving poetic or ritualistic purposes must be deleted.  
+
+Revised Title Represents Anonymized Doctrinal Focus  
+A new title must be generated to reflect the anonymized nature and doctrinal emphasis of the processed content.  
+
+Section Titles Structured with Numeric Formatting  
+Titles applied during processing must follow a numbered structure as dictated by procedural requirements.  
+
+Processing Requires Input Provision to Initiate  
+Task execution cannot occur without the original input provided for transformation.  
+
+Final Output Complies with Predefined Structure Rules  
+The resultant material must conform exactly to the established format specifications for consistency and usability.

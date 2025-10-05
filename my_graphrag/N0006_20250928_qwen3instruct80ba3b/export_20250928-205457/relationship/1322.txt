@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUZHIG</target_entity>
+    <relationship_description>Wuwo is the practice through which Wuzhig is realized—observing the five aggregates as empty of self leads directly to non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

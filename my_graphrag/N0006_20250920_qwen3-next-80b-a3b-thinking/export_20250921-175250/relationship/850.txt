@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>CAUSE AND EFFECT</target_entity>
+    <relationship_description>KARMA operates as the natural law of cause and effect.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>RELEASING</target_entity>
+    <relationship_description>Recognizing impermanence allows one to release attachment to transient phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

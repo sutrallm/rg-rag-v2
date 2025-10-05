@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>无我观照</target_entity>
+    <relationship_description>因缘和合是“无我”理论的哲学基础，无我观照正是建立在对一切法缘起性空的如实了知之上。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

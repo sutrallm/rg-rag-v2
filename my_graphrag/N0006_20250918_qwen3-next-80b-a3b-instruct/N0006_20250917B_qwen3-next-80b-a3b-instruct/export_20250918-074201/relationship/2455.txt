@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-EMANCIPATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Self-emancipation is accomplished by using wisdom as a sword to cut through ignorance and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五盖</source_entity>
+    <target_entity>禅修障碍</target_entity>
+    <relationship_description>五盖是禅修障碍的具体表现，包括昏沉、掉举、疑、悔、散乱，需以善法对治。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

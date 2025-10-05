@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIXU XIULIAN</source_entity>
+    <target_entity>SHENGSIKUHAI</target_entity>
+    <relationship_description>Continuous practice is the means by which one escapes the endless cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

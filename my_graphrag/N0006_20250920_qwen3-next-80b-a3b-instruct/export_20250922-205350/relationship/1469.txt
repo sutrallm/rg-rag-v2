@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行的日常實踐</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>日常中的正念實踐是增長禪定的途徑，使定力在生活小事中累積。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

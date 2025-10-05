@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DAILY_LIFE</target_entity>
+    <relationship_description>Chanding is not confined to formal meditation but must be integrated into all daily activities to be authentic and continuous.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

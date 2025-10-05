@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XU KONG</source_entity>
+    <target_entity>WAN FA</target_entity>
+    <relationship_description>The empty space (Xu Kong) contains all phenomena (Wan Fa) without inherent existence or self-display.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROCESSING</source_entity>
+    <target_entity>PEOPLE</target_entity>
+    <relationship_description>PROCESSING requires the removal of all PEOPLE references from the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>離相</target_entity>
+    <relationship_description>離相是達成解脫的終極實踐，真正的解脫必須不執任何修行成果或相狀。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

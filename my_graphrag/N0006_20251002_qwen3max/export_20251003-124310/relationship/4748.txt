@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>慧观</target_entity>
+    <relationship_description>禅定须以慧观为导，否则仅能暂伏烦恼而不能根除；慧观在定中开展。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

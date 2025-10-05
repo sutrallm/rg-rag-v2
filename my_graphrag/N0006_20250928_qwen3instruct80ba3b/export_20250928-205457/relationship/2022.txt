@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding requires sustained mindfulness to remain free from distractions and achieve inner stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

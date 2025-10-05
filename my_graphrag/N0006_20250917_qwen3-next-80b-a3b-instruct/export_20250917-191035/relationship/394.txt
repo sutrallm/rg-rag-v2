@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saintly beings have eradicated hatred through equanimity and insight, ceasing reactive aversion to unpleasant experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

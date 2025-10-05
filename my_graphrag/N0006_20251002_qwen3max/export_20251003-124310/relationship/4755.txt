@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是解脱的终极体现，解脱者所证得的寂静状态即为涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

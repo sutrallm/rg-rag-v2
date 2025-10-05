@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文</source_entity>
+    <target_entity>人物</target_entity>
+    <relationship_description>原文中可能包含人物相关信息，处理步骤要求删除</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>BEINGS</target_entity>
+    <relationship_description>Compassion extends equally to all beings without discrimination.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>清净是解脱后心性回归的本然状态，解脱即意味着纯净无染的心境显现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENZHENG_ZIYOU</source_entity>
+    <target_entity>SHENGTAO</target_entity>
+    <relationship_description>True freedom is liberation from shengtao (cyclic existence), not physical escape from the world.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

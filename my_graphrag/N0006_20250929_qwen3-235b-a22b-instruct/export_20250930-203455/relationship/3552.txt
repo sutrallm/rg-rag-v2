@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>修行成果</target_entity>
+    <relationship_description>修行者以贪嗔痴是否减少、心是否平静、行为是否清净为成果检验标准。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正念能令修行者心不散乱，从而远离一切烦恼扰动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

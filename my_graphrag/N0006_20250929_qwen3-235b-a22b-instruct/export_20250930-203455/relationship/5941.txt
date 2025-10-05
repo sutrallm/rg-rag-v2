@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>觉知力</target_entity>
+    <relationship_description>正念是培养觉知力的基础，无论行住坐卧皆保持觉知，是禅修中不随境转的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

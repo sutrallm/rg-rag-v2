@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Wisdom entails the insight that there is no fixed, independent self, which liberates one from ego-based attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进 (DEDICATION)</source_entity>
+    <target_entity>解脱 (LIBERATION)</target_entity>
+    <relationship_description>Only through consistent dedication can one progress along the path and ultimately attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

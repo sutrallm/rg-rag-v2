@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom is the direct insight into the true nature of reality and is the key liberating factor leading to nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

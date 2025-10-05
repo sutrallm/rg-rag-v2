@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EQUAL_MIND</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Equal mind — non-reactive, non-discriminating awareness — is described not as a future goal but as the very present expression of Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

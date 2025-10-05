@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Meditation cultivates mindfulness as a core component of the practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

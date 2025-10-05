@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>SHENGSI LUNLIU</target_entity>
+    <relationship_description>Realizing wuwo breaks the illusion of a permanent self that fuels clinging; this insight is the key to ending the cycle of birth and death (shengsi lunliu).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

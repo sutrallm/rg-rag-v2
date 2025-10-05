@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅悦</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>禅悦 is a specific type of 境界 experienced during meditation, and a common object of subtle clinging that must be released.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

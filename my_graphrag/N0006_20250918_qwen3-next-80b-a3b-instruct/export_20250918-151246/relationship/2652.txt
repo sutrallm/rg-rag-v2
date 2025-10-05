@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUYU</target_entity>
+    <relationship_description>Nirvana is achieved when the mind is no longer entangled by the five desires; letting go of these cravings is essential for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

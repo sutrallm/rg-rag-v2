@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHEN ZHEN JING JI</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>True stillness is one of the experiential qualities of Nirvana — when the mind clings to nothing, it is naturally liberated.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

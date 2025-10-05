@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>禪定雖非涅槃本身，但它是通向涅槃的重要途徑，為斷苦因的必要修習。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

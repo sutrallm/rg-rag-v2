@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念觉知</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念觉知是禅定在日常生活中的实践方式，通过持续觉察积累定力，使禅定深化。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

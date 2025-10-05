@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Insight into impermanence is a critical component of the wisdom leading to enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

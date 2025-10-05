@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>SHENGSI LUNHUI</target_entity>
+    <relationship_description>The realization of no-self (wuwo) breaks the chain of clinging that sustains the cycle of birth and death (shengsi lunhui), leading to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

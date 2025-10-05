@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The ultimate goal of Buddhist practice is liberation from suffering, achieved through integration of chanding, effort, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

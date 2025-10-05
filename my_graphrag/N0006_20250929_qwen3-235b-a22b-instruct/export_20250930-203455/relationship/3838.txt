@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不松懈</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>不松懈是精进修行的具体表现，与不放逸同义，是稳固修行根基的态度。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

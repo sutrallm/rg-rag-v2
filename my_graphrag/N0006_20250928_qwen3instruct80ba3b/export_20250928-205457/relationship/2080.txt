@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>SHENGZHI</target_entity>
+    <relationship_description>Wuchang (impermanence) is one of the key truths observed through Shengzhi; wisdom arises from directly seeing that all things are transient.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

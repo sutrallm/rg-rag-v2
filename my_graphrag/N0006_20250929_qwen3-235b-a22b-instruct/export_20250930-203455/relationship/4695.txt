@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>无色界</target_entity>
+    <relationship_description>心解脱者不再被无色界的贪着所系缚，超越了最细微的执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

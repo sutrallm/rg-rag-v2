@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>人物</source_entity>
+    <target_entity>地点</target_entity>
+    <relationship_description>人物和地点均属于需要在整理时删除的信息类别</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

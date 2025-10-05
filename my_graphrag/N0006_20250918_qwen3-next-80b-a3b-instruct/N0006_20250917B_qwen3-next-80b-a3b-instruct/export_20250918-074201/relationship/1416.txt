@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Insight into non-self directly undermines the ego’s basis for clinging — thus severing attachment at its root.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

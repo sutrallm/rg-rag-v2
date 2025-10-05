@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRUDE_DESIRES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Crude desires are the root of samsaric suffering; their cessation is necessary for attaining nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

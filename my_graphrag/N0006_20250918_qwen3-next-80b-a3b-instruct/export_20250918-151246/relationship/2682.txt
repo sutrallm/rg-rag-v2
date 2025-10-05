@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Jiede is achieved through the realization of No-self—the abandonment of the attachment to a permanent, separate “I” that grasps or rejects experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

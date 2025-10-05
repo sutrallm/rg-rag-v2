@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CCULARITY</target_entity>
+    <relationship_description>When chanding is established, the mind becomes clear and radiant, free from disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

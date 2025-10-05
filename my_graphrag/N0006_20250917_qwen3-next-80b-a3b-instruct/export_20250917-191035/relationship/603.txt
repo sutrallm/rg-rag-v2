@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>了悟無我是超越我執與法執的關鍵，因此是超越執著智慧不可或缺的核心見地。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

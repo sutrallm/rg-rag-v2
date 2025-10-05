@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>瞋擾亂心靈，使心無法安靜，直接阻礙禪定的成就。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

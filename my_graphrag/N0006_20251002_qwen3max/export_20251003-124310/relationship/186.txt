@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>瞋是烦恼的根本形式之一，正念可防护其生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

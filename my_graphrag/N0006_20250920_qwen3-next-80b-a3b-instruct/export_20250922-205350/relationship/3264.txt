@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>RIGHT_VIEW</target_entity>
+    <relationship_description>Wisdom is the experiential realization of right view — they are mutually reinforcing, with right view guiding wisdom, and wisdom deepening right view.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

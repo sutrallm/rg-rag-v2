@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛</source_entity>
+    <target_entity>如来</target_entity>
+    <relationship_description>如来是佛的尊称，两者指同一觉悟者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

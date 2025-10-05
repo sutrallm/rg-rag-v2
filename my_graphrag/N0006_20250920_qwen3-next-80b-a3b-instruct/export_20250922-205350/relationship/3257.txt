@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saintly qualities are the outward manifestations of a liberated mind — the result of having extinguished craving, ignorance, and self-view.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SEVERAL SAINTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Severable saints embody perfected wisdom, having eradicated greed, hatred, and delusion through deep insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

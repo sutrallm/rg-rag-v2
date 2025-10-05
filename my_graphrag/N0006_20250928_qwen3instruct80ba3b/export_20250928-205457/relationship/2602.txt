@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正法的內容即為無常、苦、無我，智慧即為對正法的親證與體悟。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

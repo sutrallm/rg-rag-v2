@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>魔軍</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>魔軍代表煩惱與障礙，當正念失敗時魔軍乘虛而入，因此正念是對抗魔軍的關鍵武器。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

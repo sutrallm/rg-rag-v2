@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI YU ZHINENG</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Compassion without wisdom leads to attachment; wisdom without compassion leads to detachment. Their union enables true transcendence without clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

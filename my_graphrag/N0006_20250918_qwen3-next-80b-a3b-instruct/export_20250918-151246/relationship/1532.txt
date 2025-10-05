@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Clinging manifests as the three poisons: greed (clinging to desire), hatred (clinging to aversion), and delusion (clinging to false self).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

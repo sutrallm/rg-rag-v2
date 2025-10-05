@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAINTHOOD</source_entity>
+    <target_entity>DELLUSSION</target_entity>
+    <relationship_description>Sanctified beings have surpassed delusion through penetrating wisdom, seeing reality as it truly is—impermanent, suffering, and without self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

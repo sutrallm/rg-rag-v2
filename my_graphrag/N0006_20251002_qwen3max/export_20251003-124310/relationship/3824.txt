@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒清淨</source_entity>
+    <target_entity>四禪</target_entity>
+    <relationship_description>戒清淨是修習四禪的前提條件；唯有戒行無瑕，心才能逐步進入喜悅、輕安、專注，最終達至四禪。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

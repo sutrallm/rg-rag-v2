@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Mindfulness is the ongoing practice that supports and deepens Chan Ding, extending meditative awareness into daily life.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

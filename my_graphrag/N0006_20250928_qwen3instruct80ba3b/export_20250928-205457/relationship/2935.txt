@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Hatred, as a root affliction, perpetuates suffering and reactivity, keeping beings trapped in samsara through aversion and conflict.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

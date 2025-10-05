@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Suffering arises from identifying with a self; recognizing non-self removes the foundation for suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

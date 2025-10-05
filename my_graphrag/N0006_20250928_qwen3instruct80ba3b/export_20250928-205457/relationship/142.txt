@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A Saintly Being is one who has fully attained Liberation through perfecting conduct, meditation, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

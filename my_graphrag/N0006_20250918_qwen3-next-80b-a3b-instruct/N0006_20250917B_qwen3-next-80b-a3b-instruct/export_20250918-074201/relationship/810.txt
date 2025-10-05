@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>DAILY_PRACTICE</target_entity>
+    <relationship_description>Awareness in each moment—such as during breathing or walking—is how awakening is realized now, not in some distant future.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

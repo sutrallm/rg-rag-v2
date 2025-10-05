@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHOU CHAN</source_entity>
+    <target_entity>GUANG MING</target_entity>
+    <relationship_description>手颤导致光明熄灭</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

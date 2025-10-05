@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住而生心</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>无住而生心体现慧学的圆满，虽修善法而不执着，是三学中慧观的终极体现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

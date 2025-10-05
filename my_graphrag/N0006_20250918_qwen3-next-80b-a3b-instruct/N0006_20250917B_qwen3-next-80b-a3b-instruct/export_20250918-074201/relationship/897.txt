@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EFFORTFUL_PRACTICE</target_entity>
+    <relationship_description>Chanding requires sustained effortful practice to maintain focus and prevent mental regression into distraction and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>通过戒定慧三学次第修行，断除烦恼根源，拔除苦根，从而不再轮回受生，脱离生死轮回。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

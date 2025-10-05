@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我是解脫的實相本質，真正的解脫即在於證得無我。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

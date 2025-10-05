@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>JIE DU</target_entity>
+    <relationship_description>Wisdom is the key faculty that leads to Liberation, as it uproots ignorance and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

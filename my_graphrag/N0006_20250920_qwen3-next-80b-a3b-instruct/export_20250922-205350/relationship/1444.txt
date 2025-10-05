@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Mistaking the wuyun as "self" is the root error; realizing wuwo is seeing through this illusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

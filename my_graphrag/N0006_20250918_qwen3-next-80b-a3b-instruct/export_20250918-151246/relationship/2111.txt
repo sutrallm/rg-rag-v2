@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAOZHEN</source_entity>
+    <target_entity>ZHISUI</target_entity>
+    <relationship_description>A taozhen possesses complete zhishui — seeing reality as it is, without delusion, and thus is free from all attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

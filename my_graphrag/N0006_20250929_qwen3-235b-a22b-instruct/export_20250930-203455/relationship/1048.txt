@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>正念使心如明镜不染，能自然远离贪嗔痴三毒，是日常修行的核心实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>死亡之网</target_entity>
+    <relationship_description>Persistent practice prevents entanglement in the cycle of birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

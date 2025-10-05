@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>非恒常</target_entity>
+    <relationship_description>五蕴非恒常，是无常的具体表现，是智慧观照的对象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

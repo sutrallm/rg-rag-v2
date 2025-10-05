@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPONTANEOUS EFFORT</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Without sustained effort, one remains trapped in delusion; diligence combats ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

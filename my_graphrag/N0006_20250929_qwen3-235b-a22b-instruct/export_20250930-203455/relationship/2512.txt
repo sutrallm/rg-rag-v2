@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>喜</target_entity>
+    <relationship_description>修行者修习喜觉支，因修行进步或禅悦而生愉悦，支持持续精进。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

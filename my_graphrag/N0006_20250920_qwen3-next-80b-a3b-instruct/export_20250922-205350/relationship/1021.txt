@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪瞋痴</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>貪瞋痴是煩惱的三種主要表現形式，合稱三毒，為所有痛苦的根源。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

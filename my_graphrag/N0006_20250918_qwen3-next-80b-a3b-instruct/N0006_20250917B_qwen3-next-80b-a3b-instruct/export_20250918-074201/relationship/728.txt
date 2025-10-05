@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行者透過修習智慧來覺察無常與無我，避免陷入境界執著，是其修行動力的導向。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

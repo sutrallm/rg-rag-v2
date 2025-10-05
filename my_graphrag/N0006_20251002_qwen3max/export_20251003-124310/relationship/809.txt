@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>不放逸通过警醒守护心念，防止痴的侵入，是抵御痴烦恼的重要修行态度。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

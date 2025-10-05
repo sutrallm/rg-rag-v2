@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Insight into impermanence naturally leads to the realization of non-self, since nothing lasting or independent can be found in the ever-changing aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

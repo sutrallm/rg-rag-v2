@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者的日常态度</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>修行者的日常态度正是通过觉知在行住坐卧中实践禅修，觉知是其核心方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A Shengzhe embodies perfected Chanding as part of their stillness and mental equipoise, undisturbed by external conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

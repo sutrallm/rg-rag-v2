@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>THE FOUR FOUNDATIONS OF MINDFULNESS is a key practice to overcome INDULGENCE through observing impermanence, suffering, and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

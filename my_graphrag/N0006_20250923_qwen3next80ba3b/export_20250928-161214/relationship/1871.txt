@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADVERSITY</source_entity>
+    <target_entity>DILIGENT EFFORT</target_entity>
+    <relationship_description>Overcoming adversity requires continuous diligent effort and adaptive strategies.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

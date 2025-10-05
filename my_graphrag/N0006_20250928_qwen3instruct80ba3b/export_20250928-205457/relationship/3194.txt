@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>DUANFANLIAO</target_entity>
+    <relationship_description>Zhennian is the practical tool used in stage-by-stage elimination of afflictions (Duan fanliao).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

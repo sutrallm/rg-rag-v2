@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>Original text has a title that must be renamed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

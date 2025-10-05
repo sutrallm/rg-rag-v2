@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ALL_BEINGS</target_entity>
+    <relationship_description>Saints serve as the supreme exemplars for all sentient beings, inspiring and guiding them toward liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

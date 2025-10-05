@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪欲</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>貪欲的對象即是五欲，兩者有直接的依存關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

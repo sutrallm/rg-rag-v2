@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>SI NIAN CHU</target_entity>
+    <relationship_description>Chan Ding provides the concentrated focus necessary for effective practice of the Four Foundations of Mindfulness, which are the primary method for developing insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

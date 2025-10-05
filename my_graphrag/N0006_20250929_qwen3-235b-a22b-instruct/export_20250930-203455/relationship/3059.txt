@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>离欲意味着不再受五欲牵引，五欲是修行者需远离的感官欲望对象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUOZHI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The true saintly person embodies transcendent wisdom—seeing all experiences as impermanent and illusory—making this wisdom a defining trait of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

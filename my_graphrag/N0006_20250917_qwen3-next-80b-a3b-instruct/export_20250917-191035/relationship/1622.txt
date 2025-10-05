@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LETTING_GO</source_entity>
+    <target_entity>SENSE_OBJECTS</target_entity>
+    <relationship_description>Letting go specifically involves relinquishing attachment to sense objects as a central practice toward liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

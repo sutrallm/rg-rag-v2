@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>五蘊是修行者觀照無我本質的具體對象，觀察其生滅無常與非我性，是證得無我的方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

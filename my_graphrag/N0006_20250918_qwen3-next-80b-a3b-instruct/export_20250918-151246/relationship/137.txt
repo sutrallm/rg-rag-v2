@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行是通向解脱的唯一路径，通过持续的觉察与放下，逐步消除无明与执着，实现解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

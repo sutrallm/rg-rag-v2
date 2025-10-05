@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NATURE_OF_MIND</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The nature of mind is inherently pure; chanding serves to uncover this purity by removing delusions, not to create anything new.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

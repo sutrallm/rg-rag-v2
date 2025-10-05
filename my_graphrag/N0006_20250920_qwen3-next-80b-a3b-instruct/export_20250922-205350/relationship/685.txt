@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA (NO-SELF)</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Insight into no-self is a critical component of realizing nirvana, as the illusion of self is the root of all craving and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

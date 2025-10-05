@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVERYDAY PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is realized through consistent everyday mindfulness, not through extraordinary experiences, making daily practice the direct path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMANCIPATION</source_entity>
+    <target_entity>EVERYDAY PRACTICE</target_entity>
+    <relationship_description>Emancipation is not achieved through occult practices or distant retreats, but through the unwavering mindfulness of everyday moments, making daily practice the direct path to freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

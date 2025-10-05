@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGSI_LUNHUI</source_entity>
+    <target_entity>WU_MING</target_entity>
+    <relationship_description>Ignorance is identified as the root cause driving the cycle of birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

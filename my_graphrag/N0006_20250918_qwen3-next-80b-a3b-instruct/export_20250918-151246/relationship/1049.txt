@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXTERNAL CONDITIONS</source_entity>
+    <target_entity>INNER QUIET</target_entity>
+    <relationship_description>Inner quiet is independent of external conditions; even in noise, one may be inwardly still, while in silence, one may still be mentally agitated.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUNGLI</source_entity>
+    <target_entity>CHI</target_entity>
+    <relationship_description>Yungli directly uproots chi (delusion) by disclosing the truth of non-self and impermanence, dispelling the mistaken view of a fixed identity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>精進能防護自身，防止煩惱趁隙而入，是對抗煩惱的重要力量。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔恨</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>嗔恨是煩惱的三大根本之一，阻礙內心平靜與解脫。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

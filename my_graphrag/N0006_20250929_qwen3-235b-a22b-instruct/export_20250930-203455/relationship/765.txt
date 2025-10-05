@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>圣者断尽无明，如实照见实相，不再被错觉与无知所困扰。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

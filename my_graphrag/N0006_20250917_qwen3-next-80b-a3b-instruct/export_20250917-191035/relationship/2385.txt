@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WO</source_entity>
+    <target_entity>ZI YOU</target_entity>
+    <relationship_description>True Zi you is only attained when the illusion of “Wo” is dissolved — freedom comes from the end of ego-clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

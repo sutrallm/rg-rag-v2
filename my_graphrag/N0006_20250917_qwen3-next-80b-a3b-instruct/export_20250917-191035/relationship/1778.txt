@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Non-attachment arises from the deep understanding that all phenomena are impermanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MAJOR_FREEDOM</source_entity>
+    <target_entity>ILLUSORY_NATURE_OF_REALITY</target_entity>
+    <relationship_description>Major freedom is the experiential result of fully realizing the illusory nature of reality — allowing the mind to be unbounded.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

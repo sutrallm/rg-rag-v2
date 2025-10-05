@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhihui involves the direct realization of Wuchang — seeing all phenomena as impermanent — as a core component of liberating insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

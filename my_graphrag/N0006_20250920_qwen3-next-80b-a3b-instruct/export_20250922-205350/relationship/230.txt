@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Jiede (liberation) is defined by the cessation of wuming (ignorance); when ignorance about the true nature of reality is destroyed, liberation manifests.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

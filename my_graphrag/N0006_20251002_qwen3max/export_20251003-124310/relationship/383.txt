@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖弟子果證</source_entity>
+    <target_entity>五蓋</target_entity>
+    <relationship_description>修行果位的提升與五蓋的逐步斷除密切相關，尤其三果斷除欲貪與瞋恚（屬五蓋）。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

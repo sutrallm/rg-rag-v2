@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WAN FA</source_entity>
+    <target_entity>KONG XING</target_entity>
+    <relationship_description>All phenomena (Wan Fa) naturally realize emptiness (Kong Xing) when non-attachment is practiced.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

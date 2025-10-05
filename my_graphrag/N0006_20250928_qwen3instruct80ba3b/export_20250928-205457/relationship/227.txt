@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUSUODE</target_entity>
+    <relationship_description>The shengzhe has transcended striving and attainment; their state is one of wusuode, free from the desire to be or not to be.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

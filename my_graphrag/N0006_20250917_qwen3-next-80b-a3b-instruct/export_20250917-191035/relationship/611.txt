@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin is essential to stabilize and support chanding; without diligence, chanding cannot be maintained or deepened.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

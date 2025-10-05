@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Diligence (Jingjin) is required to sustain and deepen meditative focus (Chanding) and prevent backsliding into laziness or distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

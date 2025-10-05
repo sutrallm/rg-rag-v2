@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_STUDIES</source_entity>
+    <target_entity>WISDOM_OF_NON_ATTACHMENT</target_entity>
+    <relationship_description>Wisdom (prajna) is the third study, and it is cultivated through chanding to see reality clearly and let go of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

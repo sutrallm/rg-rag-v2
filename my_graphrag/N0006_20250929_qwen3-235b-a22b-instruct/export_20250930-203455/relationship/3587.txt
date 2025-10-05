@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>放逸是导致被死亡魔王掌控的原因，象征修行退转或陷入生死轮回。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

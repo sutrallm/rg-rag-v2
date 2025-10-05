@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>凡俗染着</target_entity>
+    <relationship_description>圣者已远离凡俗染着，故即使天神亦会恭敬赞叹。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

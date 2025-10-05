@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒、定、慧三学</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者具备戒、定、慧三学圆融的特质，三者共同促成其彻底断除苦因、超越忧悲苦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

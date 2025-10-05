@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNOBSTRUCTED_WISDOM</source_entity>
+    <target_entity>SUPREME_PEACE</target_entity>
+    <relationship_description>Unobstructed wisdom results in the highest level of inner peace and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

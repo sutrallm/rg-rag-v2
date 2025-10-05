@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DIALOGUE</target_entity>
+    <relationship_description>BUDDHA participates in DIALOGUE with ANANDA as part of his teaching.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

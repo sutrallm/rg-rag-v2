@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>刀剑</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>刀剑是嗔恚的比喻，象征其割裂身心的伤害性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

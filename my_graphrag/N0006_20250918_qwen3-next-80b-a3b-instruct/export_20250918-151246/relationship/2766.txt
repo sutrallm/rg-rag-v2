@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TANCHEN</target_entity>
+    <relationship_description>Chanding helps to still the mind and reduces the influence of craving and aversion, which are its primary obstacles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

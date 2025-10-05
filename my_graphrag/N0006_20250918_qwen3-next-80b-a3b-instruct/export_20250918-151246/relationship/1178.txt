@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JOYFUL EFFORT</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Diligent mindfulness and effort help dissolve aversion and hatred by cultivating equanimity and presence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

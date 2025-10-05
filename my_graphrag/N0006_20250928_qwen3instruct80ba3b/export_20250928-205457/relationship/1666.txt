@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding requires persistent effort (jingjin) to be sustained and mastered; without continuous practice, meditation cannot overcome defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

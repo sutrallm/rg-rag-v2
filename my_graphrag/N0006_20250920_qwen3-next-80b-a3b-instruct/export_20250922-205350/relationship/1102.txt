@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUZHANG</target_entity>
+    <relationship_description>Niepan is synonymous with Wuzhang — the mind that abides nowhere, free from clinging, aversion, or妄动.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

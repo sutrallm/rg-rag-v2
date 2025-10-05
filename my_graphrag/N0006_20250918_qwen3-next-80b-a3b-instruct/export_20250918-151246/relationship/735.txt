@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>TAN CHEN CHI</target_entity>
+    <relationship_description>Jiede is defined by the complete cessation of Tan Chen Chi; liberation is the state where these root afflictions no longer arise.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

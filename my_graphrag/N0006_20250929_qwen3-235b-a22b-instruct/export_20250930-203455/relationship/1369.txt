@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无得</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无得是不执著于获得任何成果或境界的状态，是真正成就的标志，能契入究竟解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

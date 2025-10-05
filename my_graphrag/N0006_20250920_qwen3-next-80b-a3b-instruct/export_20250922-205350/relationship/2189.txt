@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIGUO</source_entity>
+    <target_entity>ZHUFAYUWO</target_entity>
+    <relationship_description>Wuzhiguo arises from the realization of Zhufayuwu; understanding that all phenomena lack inherent self leads naturally to non-attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

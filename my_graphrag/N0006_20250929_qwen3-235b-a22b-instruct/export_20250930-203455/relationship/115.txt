@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>蚊虫侵扰</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>蚊虫侵扰是比喻中干扰野兽自在的因素，象征烦恼对修行者的干扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

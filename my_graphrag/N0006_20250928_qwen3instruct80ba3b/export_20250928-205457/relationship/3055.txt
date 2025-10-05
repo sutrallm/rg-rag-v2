@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANXUE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Sanxue (threefold training) culminates in zhihui (wisdom), the highest goal, which arises only when jielv and chanding are fully developed.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

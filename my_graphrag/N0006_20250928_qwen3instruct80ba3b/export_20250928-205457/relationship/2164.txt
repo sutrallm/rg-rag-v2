@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGSHENG</source_entity>
+    <target_entity>JIEDINGHUI</target_entity>
+    <relationship_description>Zhongsheng (all sentient beings) can awaken their inherent Buddha-nature through the cultivation of jiedinghui (ethics, concentration, wisdom).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

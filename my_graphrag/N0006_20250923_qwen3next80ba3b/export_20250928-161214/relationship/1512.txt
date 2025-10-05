@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>WORLD</target_entity>
+    <relationship_description>Worldly beings respect and revere SAGES for their wisdom and ethical conduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

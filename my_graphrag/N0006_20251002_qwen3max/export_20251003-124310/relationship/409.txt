@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蓋</source_entity>
+    <target_entity>昏沉睡眠</target_entity>
+    <relationship_description>昏沉睡眠是五蓋之一，指心的昏昧與身體的嗜睡，障蔽心性，妨礙禪定與智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

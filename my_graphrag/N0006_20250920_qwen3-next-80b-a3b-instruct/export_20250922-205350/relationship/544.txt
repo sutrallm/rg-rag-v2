@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT ORIGINATION</source_entity>
+    <target_entity>TRANSIENCE</target_entity>
+    <relationship_description>Dependent origination explains why all phenomena are transient — they arise and cease due to changing conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

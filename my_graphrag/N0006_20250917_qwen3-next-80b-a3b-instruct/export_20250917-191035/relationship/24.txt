@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轮回</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者因其彻底解脱而不再受轮回驱使，轮回是圣者已超越的束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

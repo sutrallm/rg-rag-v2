@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_OF_NON-ATTACHMENT</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Wisdom of Non-Attachment arises from the direct realization of Non-Self, recognizing that all phenomena lack an owner or controller.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

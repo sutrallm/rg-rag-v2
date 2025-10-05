@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Realization of impermanence is a core component of wisdom, enabling practitioners to let go of grasping at transient phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

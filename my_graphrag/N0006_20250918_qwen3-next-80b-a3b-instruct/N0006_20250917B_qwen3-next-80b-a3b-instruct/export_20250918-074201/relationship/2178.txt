@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGREGATES</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>The five aggregates are the components of experience that are misperceived as "self"; understanding non-self means seeing these aggregates as empty of inherent identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

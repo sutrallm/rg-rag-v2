@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定力</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>定力由正念生起，当心念不散乱、不攀缘时，自然产生专注与稳定的力量。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

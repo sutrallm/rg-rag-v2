@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轻安与喜乐</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>轻安与喜乐是禅定中可能出现的体验，但若贪著则成障碍，需以正念如实观察。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

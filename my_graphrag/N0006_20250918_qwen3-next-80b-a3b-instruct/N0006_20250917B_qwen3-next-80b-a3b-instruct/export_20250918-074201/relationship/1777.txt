@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REAL_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Real practice is the everyday manifestation of chanding — chanding is not confined to formal meditation but is alive in every moment of mindful awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

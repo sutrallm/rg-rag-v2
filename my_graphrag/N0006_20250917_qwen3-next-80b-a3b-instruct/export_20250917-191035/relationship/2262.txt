@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>緣起</target_entity>
+    <relationship_description>智慧乃透過理解緣起法而生，了知一切法依因緣而生滅，是智慧的內容核心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>Mindfulness is a key method for overcoming the Five Hindrances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

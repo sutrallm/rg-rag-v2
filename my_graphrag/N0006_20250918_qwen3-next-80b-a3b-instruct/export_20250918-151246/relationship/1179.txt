@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JOYFUL EFFORT</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Without sustained effort, delusion persists; effort supports the development of wisdom that dispels ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

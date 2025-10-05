@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>An enlightened being embodies the perfected form of meditative stability and inner calm.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

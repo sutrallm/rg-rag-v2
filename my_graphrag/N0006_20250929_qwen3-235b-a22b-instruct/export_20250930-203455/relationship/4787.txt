@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>智慧是无我观的成果，通过无我观深入观察五蕴皆空，最终获得解脱智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

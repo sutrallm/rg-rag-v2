@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHIAOYU</target_entity>
+    <relationship_description>Chanding serves as the foundation for Chiaoyu; without stable concentration, deep insight into impermanence and non-self cannot arise.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

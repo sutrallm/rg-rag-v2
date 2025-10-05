@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGSHI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xingshi requires constant diligence (Jingjin) to maintain awareness in every action, preventing unconscious reactivity or mental drifting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

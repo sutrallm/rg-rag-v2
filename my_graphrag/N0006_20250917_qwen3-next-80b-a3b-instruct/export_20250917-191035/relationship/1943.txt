@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENREN JIE KE QI RU</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Everyone can achieve liberation, but only through sustained jingjin—the commitment to daily practice is the equalizer.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

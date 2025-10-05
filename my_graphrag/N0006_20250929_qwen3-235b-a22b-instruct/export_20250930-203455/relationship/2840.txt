@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>菩萨行</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者实践菩萨行，不仅自度，亦利他，以清净身心引导他人，体现圆满智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_FOUNDATIONS_OF_MINDFULNESS</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>The four foundations reveal craving as the underlying cause of suffering by exposing how attachment arises to sensations and mental phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

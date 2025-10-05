@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>COMPASSION</target_entity>
+    <relationship_description>True enlightenment manifests as boundless compassion that arises from deep wisdom, never separate from insight into suffering and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

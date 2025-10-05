@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX PERFECTIONS</source_entity>
+    <target_entity>MORALITY</target_entity>
+    <relationship_description>Morality is the second of the six perfections guiding ethical conduct.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>圣者已超越五欲的染着，不为感官享受所动，体现其内在的清净与解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

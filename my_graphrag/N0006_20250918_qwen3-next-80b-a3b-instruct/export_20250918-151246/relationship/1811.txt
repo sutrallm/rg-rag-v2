@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Jiede (liberation) is the direct result of realizing Wuwo; liberation is inseparable from the insight that there is no self to be liberated.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

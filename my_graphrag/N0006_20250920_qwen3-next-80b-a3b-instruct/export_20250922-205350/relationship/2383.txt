@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>The five aggregates are mistaken by ordinary beings as constituting a permanent self, which is the essence of clinging (我执) and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

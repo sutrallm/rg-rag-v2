@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EQUAL-MINDEDNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Equal-mindedness is the expression of stable chanding in daily life; it reflects the mind’s ability to remain undisturbed by external conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

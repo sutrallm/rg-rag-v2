@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINZI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xinzi (mind cultivation) encompasses chanding as one of its core practices, aiming to train the mind to be stable and undisturbed.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

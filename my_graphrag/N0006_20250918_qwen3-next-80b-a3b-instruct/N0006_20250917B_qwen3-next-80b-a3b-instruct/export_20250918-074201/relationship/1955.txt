@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>Through deep meditation (Chanding), one directly observes the impermanent nature (无常) of thoughts, sensations, and phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

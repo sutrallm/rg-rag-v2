@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>戒定慧三學是通往解脫的完整道路，三者不可偏廢，共同促成究竟離苦得樂。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

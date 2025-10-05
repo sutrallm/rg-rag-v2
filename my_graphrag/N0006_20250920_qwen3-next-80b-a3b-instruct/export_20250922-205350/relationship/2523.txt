@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin (persevering effort) is necessary to establish and maintain chanding (meditative concentration), as without constant practice, the mind cannot become stable.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

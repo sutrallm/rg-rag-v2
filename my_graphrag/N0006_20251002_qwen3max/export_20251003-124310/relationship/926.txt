@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>禅定能止息妄念，有效减少或消除烦恼，使心远离散乱与染污。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

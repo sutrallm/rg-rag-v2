@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANZHAO WUCHANG</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Guangzhao wuchang is the direct experiential practice of realizing the nature of impermanence (Wuchang) in everyday phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHI</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Wuzhi (wisdom) is the direct antidote to fannao; by seeing impermanence and non-self, greed and ignorance dissolve naturally.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

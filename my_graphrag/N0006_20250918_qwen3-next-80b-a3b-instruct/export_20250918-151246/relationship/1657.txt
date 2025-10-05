@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHÈNGZHE</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>The sage has extinguished greed, as one of the three poisons, through wisdom and moral discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

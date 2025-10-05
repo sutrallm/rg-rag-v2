@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>感官享受</target_entity>
+    <relationship_description>离欲包括彻底舍离对感官享受的贪着，是导向真正解脱的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

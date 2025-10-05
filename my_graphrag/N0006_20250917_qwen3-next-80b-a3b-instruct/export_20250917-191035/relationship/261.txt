@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUWO ZHIHUI</target_entity>
+    <relationship_description>Chanding (meditative concentration) serves as the foundational practice through which the wisdom of non-self is cultivated and realized.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

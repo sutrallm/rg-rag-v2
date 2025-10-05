@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEGGIE TAZBAH</source_entity>
+    <target_entity>FIRUZABAD</target_entity>
+    <relationship_description>Meggie Tazbah was held as a hostage in Firuzabad.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

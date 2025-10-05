@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>WUSUODE</target_entity>
+    <relationship_description>True wisdom leads to non-attachment; realizing emptiness means not clinging even to the idea of having attained insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

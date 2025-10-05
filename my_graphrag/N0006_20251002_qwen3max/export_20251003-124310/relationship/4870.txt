@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>不放逸是解脱的根本，唯有时刻警觉精进，才能脱离生死轮回，迈向心解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

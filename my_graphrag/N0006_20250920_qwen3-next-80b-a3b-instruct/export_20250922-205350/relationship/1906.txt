@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>涅槃的實現依賴於貪、嗔、痴三毒的完全熄滅，其本質即是三毒的終極止息。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

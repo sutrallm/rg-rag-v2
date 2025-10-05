@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>RESULTS</target_entity>
+    <relationship_description>NON_ATTACHMENT helps practitioners not be bound by RESULTS, as stated in '即使追求成果也不被其束缚'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

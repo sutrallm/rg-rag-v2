@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>STATE</target_entity>
+    <relationship_description>ATTACHMENT manifests as clinging to various mental STATEs, hindering spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

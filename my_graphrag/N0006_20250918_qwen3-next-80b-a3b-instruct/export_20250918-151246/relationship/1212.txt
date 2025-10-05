@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO BU KAO SHENLI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The core insight enabling self-liberation is the realization of non-self. Without understanding that “I” is an illusion, no amount of self-effort or awareness can lead to true freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>聖者具足禪定能力，安住於寂靜無擾之境，禪定是其德行的重要表現。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Diligent practice helps practitioners overcome the cycle of samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

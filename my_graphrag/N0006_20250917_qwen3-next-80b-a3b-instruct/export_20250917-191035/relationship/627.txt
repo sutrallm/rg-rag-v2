@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>淨戒</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>淨戒與智慧相輔相成，清淨行為有助內心澄明，為實證智慧提供條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

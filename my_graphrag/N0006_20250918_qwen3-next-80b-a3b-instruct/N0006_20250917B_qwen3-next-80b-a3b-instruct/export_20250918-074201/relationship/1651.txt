@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGREN</source_entity>
+    <target_entity>YUANSHI</target_entity>
+    <relationship_description>Shengren has completely uprooted the yuanshi (greed, hatred, delusion), which is the defining trait of enlightened beings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

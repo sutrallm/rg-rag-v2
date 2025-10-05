@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>解脱者以智慧照见实相，心恒常安稳，远离一切恐惧与执着。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

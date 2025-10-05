@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>沉空守寂</source_entity>
+    <target_entity>定慧双修</target_entity>
+    <relationship_description>仅有禅定而无智慧会导致沉空守寂，因此必须定慧双修以避免此过失。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

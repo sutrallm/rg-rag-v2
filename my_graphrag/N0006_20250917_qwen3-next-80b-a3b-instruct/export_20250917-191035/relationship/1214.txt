@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGJIE</source_entity>
+    <target_entity>WU XIANG</target_entity>
+    <relationship_description>Shengjie is inseparable from Wu xiang — true liberation naturally transcends all external forms and conditions, becoming independent of place or ritual.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

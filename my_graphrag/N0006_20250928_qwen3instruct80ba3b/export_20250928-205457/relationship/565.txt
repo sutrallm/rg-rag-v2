@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion is the active antidote to defilements; without disciplined effort, the mind remains captive to greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

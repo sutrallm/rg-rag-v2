@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The ability to transcend attachment is a defining trait of a holy being (Shengzhe).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGUO</source_entity>
+    <target_entity>WULIAN</target_entity>
+    <relationship_description>Shenguo, when clung to, contradicts Wulian; true freedom requires non-attachment even to spiritual attainments.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

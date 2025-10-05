@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>无我观是超越执着智慧的核心实践方式，通过观五蕴无我，瓦解对“我”的执着，是智慧的具体体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

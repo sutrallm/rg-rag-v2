@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>AFICTIONS</target_entity>
+    <relationship_description>SAINTLY BEINGS have completely eradicated AFICTIONS through deep meditation and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

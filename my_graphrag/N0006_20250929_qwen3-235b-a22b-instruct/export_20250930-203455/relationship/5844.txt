@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>灯</source_entity>
+    <target_entity>杂念</target_entity>
+    <relationship_description>灯照亮杂念藏匿的内心暗角，使其无处藏身。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

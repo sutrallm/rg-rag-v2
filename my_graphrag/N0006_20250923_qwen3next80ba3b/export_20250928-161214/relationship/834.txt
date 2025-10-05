@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRAJNA WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>PRAJNA WISDOM directly leads to LIBERATION by realizing the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

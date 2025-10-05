@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蓋煩惱</source_entity>
+    <target_entity>禪那</target_entity>
+    <relationship_description>五蓋煩惱障碍禅那的生起，禅修的目标之一即是远离这些烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

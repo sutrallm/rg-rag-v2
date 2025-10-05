@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WILD ANIMAL</source_entity>
+    <target_entity>MOSQUITOES</target_entity>
+    <relationship_description>Mosquitoes cannot harm the wild animal in the deep mountains, symbolizing the immunity of enlightened beings to worldly distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

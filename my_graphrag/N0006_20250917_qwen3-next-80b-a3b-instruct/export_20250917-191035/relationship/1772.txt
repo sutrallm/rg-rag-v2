@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Through stable mindfulness in Chan Ding, one detaches from greed and other afflictions of the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

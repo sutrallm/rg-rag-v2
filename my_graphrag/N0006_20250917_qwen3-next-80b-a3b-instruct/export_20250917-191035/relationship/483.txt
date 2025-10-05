@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>MORAL_DISCIPLINE</target_entity>
+    <relationship_description>The Threefold Training consists of moral discipline as its first pillar — the essential starting point of the path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

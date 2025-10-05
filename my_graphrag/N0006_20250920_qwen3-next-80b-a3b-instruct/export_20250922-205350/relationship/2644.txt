@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>Jiefu (freedom from external appearances) is a necessary condition for realizing Nierhua (nirvana); clinging to any experience, even subtle ones, prevents ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding is not attained by clinging to its pleasant states; attachment to meditative bliss obstructs deeper realization.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

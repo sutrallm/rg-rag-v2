@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHELI YIQIE</target_entity>
+    <relationship_description>Chanding (meditative concentration) supports the process of She li yiqie (complete letting go), as a stable mind can observe attachments without reacting.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

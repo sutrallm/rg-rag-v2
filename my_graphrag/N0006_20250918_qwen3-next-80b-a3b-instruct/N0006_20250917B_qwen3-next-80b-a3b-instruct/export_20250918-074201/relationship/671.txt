@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_FREEDOM</source_entity>
+    <target_entity>WISDOM_OF_NON_ATTACHMENT</target_entity>
+    <relationship_description>True freedom is the result of full realization of non-attachment to all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

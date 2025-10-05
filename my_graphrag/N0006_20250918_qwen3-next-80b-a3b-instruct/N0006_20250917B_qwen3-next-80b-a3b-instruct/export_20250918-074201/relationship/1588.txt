@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WEIZHI</target_entity>
+    <relationship_description>Persistent effort (jingjin) is required to develop deep wisdom (weizhi), as insight cannot emerge without sustained practice and vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

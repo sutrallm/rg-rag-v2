@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>PATH OF LIBERATION</target_entity>
+    <relationship_description>Practitioners engage in the path of liberation by cultivating wisdom and insight into impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcending attachment requires realizing the absence of self; these two insights are mutually dependent in enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

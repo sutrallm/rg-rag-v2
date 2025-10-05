@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>SANGHUI</target_entity>
+    <relationship_description>Fannao (afflictions) are the active causes that sustain Sanghui (cyclic existence); their cessation leads directly to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

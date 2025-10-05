@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>FANGXIA</target_entity>
+    <relationship_description>Mindfulness enables letting go by making one aware of the arising and passing of desires and attachments in real time.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

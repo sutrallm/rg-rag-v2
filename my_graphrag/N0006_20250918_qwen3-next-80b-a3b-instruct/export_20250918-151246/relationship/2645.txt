@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The realization of no-self is the direct path to Nirvana; when one sees that no fixed self exists, attachment ceases and liberation is realized.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>執著與無明共同構成苦的根源，唯有根除執著才能斷除苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

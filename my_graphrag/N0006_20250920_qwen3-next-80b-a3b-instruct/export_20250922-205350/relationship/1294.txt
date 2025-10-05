@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NO_SELF_OBSERVATION</target_entity>
+    <relationship_description>None of the aggregates are permanent, so observing impermanence undermines the belief in a fixed self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

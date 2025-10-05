@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>RENUNCIATION</target_entity>
+    <relationship_description>Nirvana is the full fruition of renunciation — the complete letting go of all clinging, including to spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>正見</target_entity>
+    <relationship_description>正見是八正道的第一項，也是整個道品的導向核心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

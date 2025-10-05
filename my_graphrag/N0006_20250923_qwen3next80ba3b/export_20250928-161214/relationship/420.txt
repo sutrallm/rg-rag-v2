@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUIREMENTS</source_entity>
+    <target_entity>CONCLUDING VERSE</target_entity>
+    <relationship_description>The requirements dictate removing the concluding verse from the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

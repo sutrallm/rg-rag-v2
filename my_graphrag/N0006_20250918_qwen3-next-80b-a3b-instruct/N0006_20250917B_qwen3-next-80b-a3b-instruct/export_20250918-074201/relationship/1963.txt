@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUSTAINED_PRACTICE</source_entity>
+    <target_entity>INDUSTRY</target_entity>
+    <relationship_description>Sustained practice and industry are synonymous in this context—both refer to unwavering, continuous spiritual effort.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

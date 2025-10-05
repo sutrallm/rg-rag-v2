@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DHARMA_ATTACHMENT</target_entity>
+    <relationship_description>Wisdom enables the abandonment of attachment to dharmas, as demonstrated by the bamboo raft metaphor.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

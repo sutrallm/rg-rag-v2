@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHIZHIXI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chaoshizhixi (wisdom beyond attachment) ensures that chanding is not mistaken for an end in itself; it prevents clinging to meditative states as ultimate truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

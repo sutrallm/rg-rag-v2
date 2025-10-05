@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>不放逸能守护戒律，防止戒律松弛，是持戒得以持续的重要保障。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

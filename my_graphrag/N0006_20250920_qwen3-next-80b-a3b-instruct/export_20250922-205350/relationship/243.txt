@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FUZHI</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>The cessation of attachment (fuzhi) is the essential step and condition for liberation (jietuo) to emerge.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

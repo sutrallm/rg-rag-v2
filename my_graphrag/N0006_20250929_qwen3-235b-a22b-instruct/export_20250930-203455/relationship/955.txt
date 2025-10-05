@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力法则</source_entity>
+    <target_entity>因果自然法则</target_entity>
+    <relationship_description>业力法则是因果自然法则的具体体现，善恶之业必感果报，非由神明主宰。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

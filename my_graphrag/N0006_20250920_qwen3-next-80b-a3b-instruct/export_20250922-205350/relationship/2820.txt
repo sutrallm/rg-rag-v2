@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>Wuwo insight directly arises from observing the five aggregates as empty of self, revealing their transient and non-substantial nature.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

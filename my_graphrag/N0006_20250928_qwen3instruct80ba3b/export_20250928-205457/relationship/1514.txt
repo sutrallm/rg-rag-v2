@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>WAIVE_ATTACHMENT</target_entity>
+    <relationship_description>Compassion in this context is practiced without clinging to the idea of being a savior or seeking recognition — thus embodying non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

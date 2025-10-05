@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>我見、我所見</target_entity>
+    <relationship_description>解脫者已無「我見」、「我所見」，於一切法中不取不捨，安住於無造作的自然清淨。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

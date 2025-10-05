@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_NOBLE_TRUTHS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom arises from directly realizing the Four Noble Truths — seeing suffering, its origin, its cessation, and the path. This direct insight is the essence of liberating wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

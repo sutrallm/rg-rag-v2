@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcendent wisdom (zhineneng) arises from the direct realization of non-self (wuwo), seeing that all phenomena are empty of inherent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

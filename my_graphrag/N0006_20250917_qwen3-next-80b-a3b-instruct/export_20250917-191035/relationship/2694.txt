@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>NON-SELF OBSERVATION</target_entity>
+    <relationship_description>Mindfulness is the method through which non-self observation is cultivated, allowing the practitioner to witness mental phenomena without identification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

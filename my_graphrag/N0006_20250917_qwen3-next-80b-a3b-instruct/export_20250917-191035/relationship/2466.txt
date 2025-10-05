@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGXIU</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xingxiu (spiritual practice) fundamentally requires Jingjin (diligent effort); without constant practice, genuine inner transformation cannot occur.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

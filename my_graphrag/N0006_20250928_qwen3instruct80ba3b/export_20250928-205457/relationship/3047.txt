@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGGZHE</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Shengzhe are embodiments of jietuo (liberation); their very existence demonstrates the full realization of freedom from suffering and cyclic existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

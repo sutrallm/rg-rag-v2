@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAZINESS</source_entity>
+    <target_entity>RIVER CROSSER</target_entity>
+    <relationship_description>Laziness is compared to a river-crosser who fails to row, resulting in remaining trapped in samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

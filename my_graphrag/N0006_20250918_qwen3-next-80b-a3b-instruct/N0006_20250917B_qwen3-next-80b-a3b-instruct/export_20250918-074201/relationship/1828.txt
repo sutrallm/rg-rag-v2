@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Mindfulness requires persistent effort to maintain without drifting into forgetfulness or distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

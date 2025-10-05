@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SEDATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sedation, or temporary calm, is a byproduct of practice but not sufficient for liberation, which requires deep insight.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

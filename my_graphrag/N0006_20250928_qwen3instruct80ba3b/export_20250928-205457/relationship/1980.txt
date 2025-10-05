@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>唯有精进不懈的实践，才能避免退转，使智慧持续发展并稳固落实于生命中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

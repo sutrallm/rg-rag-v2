@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHIHUI</source_entity>
+    <target_entity>YINYUAN HEHE</target_entity>
+    <relationship_description>The wisdom of non-self is grounded in the understanding of interdependent origination—that nothing exists independently or inherently.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

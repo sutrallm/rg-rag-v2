@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>佛陀提倡在日常生活中的正念覺察，作為修行的根本實踐。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

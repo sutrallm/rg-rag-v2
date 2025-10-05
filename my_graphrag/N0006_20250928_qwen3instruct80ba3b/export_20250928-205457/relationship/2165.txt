@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>SHELI</target_entity>
+    <relationship_description>Wuzhu (non-abiding) is the fruit of sheli (letting go), as both represent the absence of clinging, with wuzhu being the final, perfected expression.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>SAMSAARA</target_entity>
+    <relationship_description>Anger and aversion bind beings to samsara by creating negative karma and mental turmoil.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

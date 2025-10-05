@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪那</source_entity>
+    <target_entity>不善法</target_entity>
+    <relationship_description>進入初禪時，修行者遠離感官欲樂與不善法，作為禪那的基礎條件之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

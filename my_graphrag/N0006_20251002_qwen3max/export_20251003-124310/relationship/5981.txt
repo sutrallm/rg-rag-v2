@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>涅槃被定义为烦恼的彻底止息，当一切贪嗔痴完全熄灭时，即证入涅槃。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>ULTIMATE PRINCIPLE</target_entity>
+    <relationship_description>Through meditation, practitioners gain insight into the ultimate principle of existence and impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

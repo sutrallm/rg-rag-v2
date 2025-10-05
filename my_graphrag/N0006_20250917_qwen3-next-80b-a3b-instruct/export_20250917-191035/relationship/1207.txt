@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>SI DU</target_entity>
+    <relationship_description>Shenge is defined by the complete eradication of Si Du; their existence is characterized by freedom from greed, anger, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

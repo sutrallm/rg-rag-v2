@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Meditative concentration (Chanding) provides the stable mind necessary to deeply observe the non-self nature of phenomena, enabling liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

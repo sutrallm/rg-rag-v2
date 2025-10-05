@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>离欲的实践依赖于守护六根，避免感官被五欲牵引，是调伏内心、实现离欲的基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

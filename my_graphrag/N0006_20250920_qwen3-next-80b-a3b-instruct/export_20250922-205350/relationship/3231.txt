@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>真解脱者</target_entity>
+    <relationship_description>慈悲是真解脱者所自然流露的品质，由智慧所生，非情绪化，是其圆满觉悟的体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

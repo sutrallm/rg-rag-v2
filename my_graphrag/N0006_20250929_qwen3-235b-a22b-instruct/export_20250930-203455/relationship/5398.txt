@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>证量</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者在修行过程中经历不同阶段的证量，如断除身见、疑等，最终导向无漏智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

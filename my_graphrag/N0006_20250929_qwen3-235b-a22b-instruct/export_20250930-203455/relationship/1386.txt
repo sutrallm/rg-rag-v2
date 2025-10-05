@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>修行者依循正法教导修行，是避开生死轮回、获得解脱的根本路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

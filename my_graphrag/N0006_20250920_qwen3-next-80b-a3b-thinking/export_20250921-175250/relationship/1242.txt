@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU XIANG JIE DUO</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Formless liberation (Wu Xiang Jie Duo) directly manifests the state of nirvana (Nie Pan).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Chan Ding weakens ignorance by fostering clear perception of reality, leading to insight that dispels delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

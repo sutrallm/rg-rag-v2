@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲乐</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已超越欲乐的吸引，不再被感官享乐所动摇，体现其解脱境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

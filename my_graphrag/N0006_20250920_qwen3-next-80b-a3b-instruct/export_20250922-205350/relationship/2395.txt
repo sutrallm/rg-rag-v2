@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三国印</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>San Fa Yin serves as the guiding framework for Chanding practice, ensuring that meditation does not become mere escape but leads to correct insight into reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>修习禅定可逐步摆脱放逸等障碍，使内心安稳澄明。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

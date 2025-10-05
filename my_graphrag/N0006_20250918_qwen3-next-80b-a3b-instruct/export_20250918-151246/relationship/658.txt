@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG BU ZAI WAI QIU</source_entity>
+    <target_entity>CHAOGUE ZHUOZHE</target_entity>
+    <relationship_description>True liberation arises not from external rituals but from inner insight and non-attachment, which are the essence of transcendent wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

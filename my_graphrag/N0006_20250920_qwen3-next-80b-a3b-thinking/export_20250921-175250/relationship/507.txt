@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Heavenly beings hold saints in high reverence for their spiritual attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

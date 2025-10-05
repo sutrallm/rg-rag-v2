@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>火中莲花</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>火中莲花是解脱精神的象征——即使身处尘世烦恼，仍能保持清净无染，体现解脱不依赖外境。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

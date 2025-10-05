@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIEXIANG</target_entity>
+    <relationship_description>Zhihui directly leads to jiexiang by enabling detachment from all phenomena. Insight into impermanence and non-self extinguishes clinging and results in liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION_IN_PRACTICE</source_entity>
+    <target_entity>SENSUAL_CRAVING</target_entity>
+    <relationship_description>Without persistent practice, one succumbs to sensual craving, which reinforces attachment and keeps one bound in samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

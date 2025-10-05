@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>SIWANG LUNHUI</target_entity>
+    <relationship_description>Wisdom (Hui), through insight into impermanence and non-self, severs the causal chain of the cycle of birth and death (Siwang lunhui).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIGZHIDI</source_entity>
+    <target_entity>JINGJI</target_entity>
+    <relationship_description>Wuzhi (non-attachment) is the direct path to Jingji (nirvana), as letting go of clinging to all experiences reveals the inherent peace already present.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

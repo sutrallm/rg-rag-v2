@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>贪忧</target_entity>
+    <relationship_description>禅定使心脱离贪忧的干扰，因禅定带来的清明稳定能对治贪欲与忧恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

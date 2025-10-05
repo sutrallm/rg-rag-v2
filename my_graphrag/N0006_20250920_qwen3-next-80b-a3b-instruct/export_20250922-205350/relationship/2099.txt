@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUIGUAN</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Huiguan (mindful observation) is the practical method for cultivating zhinen (wisdom) by directly observing the arising and passing of mental states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

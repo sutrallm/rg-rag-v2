@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment wisdom allows practitioners to pursue liberation without clinging to the concept.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

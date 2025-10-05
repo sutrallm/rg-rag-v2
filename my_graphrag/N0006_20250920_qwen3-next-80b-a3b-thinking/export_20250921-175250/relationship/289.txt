@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SORROW AWARENESS METHOD</source_entity>
+    <target_entity>FOUR POSTURES</target_entity>
+    <relationship_description>The Sorrow Awareness Method involves mindful observation of the four postures during daily activities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

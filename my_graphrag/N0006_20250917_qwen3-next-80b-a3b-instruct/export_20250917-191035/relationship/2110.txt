@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>EMANCIPATION</target_entity>
+    <relationship_description>Attachment is the very obstacle to emancipation; liberation occurs only when attachment—including attachment to spiritual experiences—is fully relinquished.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

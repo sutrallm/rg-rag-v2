@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>YU CHI</target_entity>
+    <relationship_description>The sage has dispelled all delusion regarding reality, seeing things as they truly are.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

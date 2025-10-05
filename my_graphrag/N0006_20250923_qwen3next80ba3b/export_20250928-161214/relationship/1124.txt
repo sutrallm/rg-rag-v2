@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERNACULAR_CONVERSION</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>VERNACULAR_CONVERSION process is applied to ORIGINAL_TEXT to convert it to vernacular Chinese.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

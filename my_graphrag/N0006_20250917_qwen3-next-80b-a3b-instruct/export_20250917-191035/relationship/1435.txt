@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>智慧與慈悲是修行的兩翼，必須雙運才能達成究竟之道，不執我而利益眾生。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>The MIDDLE WAY embraces NON-SELF to avoid the extremes of eternalism and nihilism.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

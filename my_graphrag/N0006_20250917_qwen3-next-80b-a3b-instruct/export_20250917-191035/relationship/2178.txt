@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟安稳</source_entity>
+    <target_entity>自性清明</target_entity>
+    <relationship_description>究竟安稳是自性清明的状态体现，当心不再攀缘拒绝，自性自然显现为安稳。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

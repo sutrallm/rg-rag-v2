@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Zhihui is the antidote to Wuming; through direct observation, wisdom dispels ignorance about the true nature of reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

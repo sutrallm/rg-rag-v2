@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>解脱包括心解脱与慧解脱，心解脱是解脱过程中的重要阶段。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

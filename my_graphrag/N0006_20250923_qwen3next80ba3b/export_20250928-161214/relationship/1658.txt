@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CURRENT QUESTION</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The original content is a required component of the current question for translation purposes but is currently empty.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

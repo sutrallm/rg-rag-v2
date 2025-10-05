@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Chanding allows one to let go of attachment by revealing the transient nature of all mental and sensory experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律为智慧的生起提供清净基础，持戒清净有助于心念稳定，从而如实观察诸法实相。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

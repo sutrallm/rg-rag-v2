@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHUO</source_entity>
+    <target_entity>SHENG SI</target_entity>
+    <relationship_description>Wu Zhuo (non-attachment) is the key that leads to liberation from Sheng Si (cycle of birth and death), as clinging causes rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

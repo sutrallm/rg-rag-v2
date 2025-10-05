@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAMATHA VIPASSANA PRACTICE</target_entity>
+    <relationship_description>PRACTITIONER engages in SAMATHA VIPASSANA PRACTICE.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

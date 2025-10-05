@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我见</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>破除我见是获得真正自由、实现解脱的必要条件之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

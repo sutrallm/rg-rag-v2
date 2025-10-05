@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初果</source_entity>
+    <target_entity>四果阿羅漢</target_entity>
+    <relationship_description>初果是解脫道的起始階段，最終經由修行達至四果阿羅漢的究竟解脫。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>成果</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧者即使追求修行成果，亦不被成果所系缚，保持自在无碍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

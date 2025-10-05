@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>RIGHT_CONCENTRATION</target_entity>
+    <relationship_description>MINDFULNESS must be directed towards RIGHT_CONCENTRATION per the source text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

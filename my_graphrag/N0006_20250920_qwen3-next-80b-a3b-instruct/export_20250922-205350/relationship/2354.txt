@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGGREGATES</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Observing the five aggregates with mindfulness is the primary method for realizing their impermanent and selfless nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

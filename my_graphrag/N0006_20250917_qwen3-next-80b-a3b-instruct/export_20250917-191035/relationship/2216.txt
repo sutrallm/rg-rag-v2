@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Right Practice requires sustained cultivation of chanding to develop the mental clarity and stability needed for progress on the path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

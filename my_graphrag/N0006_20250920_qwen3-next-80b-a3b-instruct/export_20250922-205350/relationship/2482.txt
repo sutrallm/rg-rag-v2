@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_OF_NON_ATTACHING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding deepens when combined with wisdom of non-attachment, preventing attachment to meditative states themselves.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

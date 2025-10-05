@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Mindfulness is the awareness of the present moment — they are intrinsically linked.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学次第</source_entity>
+    <target_entity>内观如实的觉知</target_entity>
+    <relationship_description>内观如实的觉知是“慧学”的具体实践方式，是三学次第中“慧”的体现与应用。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

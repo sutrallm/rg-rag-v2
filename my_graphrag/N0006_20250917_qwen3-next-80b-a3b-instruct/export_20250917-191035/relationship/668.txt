@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>修行的最終目標是解脫，所有實踐皆指向內在煩惱的消減與自由的實現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

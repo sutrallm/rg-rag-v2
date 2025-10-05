@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>唯有透過智慧徹見實相，才能達成涅槃，智慧是通向涅槃的直接導引。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

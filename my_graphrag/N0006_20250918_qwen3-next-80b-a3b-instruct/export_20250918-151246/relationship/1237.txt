@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Enlightened beings have completely eradicated greed as a root cause of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

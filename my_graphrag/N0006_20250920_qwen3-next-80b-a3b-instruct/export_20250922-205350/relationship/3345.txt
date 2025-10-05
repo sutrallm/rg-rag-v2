@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>禅定需要精进的持续修习才能成就，精进是实现禅定的必要动力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

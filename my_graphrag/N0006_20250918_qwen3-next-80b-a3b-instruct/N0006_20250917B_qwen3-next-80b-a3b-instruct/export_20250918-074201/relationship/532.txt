@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Mindfulness is a foundational practice required to achieve chanding, as it helps maintain focus and prevent mental distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

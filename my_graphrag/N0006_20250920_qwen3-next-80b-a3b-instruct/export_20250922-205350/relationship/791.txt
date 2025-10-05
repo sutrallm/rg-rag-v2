@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>法的实证过程即智慧的生起过程，观无常、无我即是对法的如实理解。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

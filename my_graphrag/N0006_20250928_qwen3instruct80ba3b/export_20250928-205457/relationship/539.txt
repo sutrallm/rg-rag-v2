@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>EARLY_MINDFULNESS_PRACTICE</target_entity>
+    <relationship_description>Early mindfulness practice is a concrete application of general mindfulness in mundane daily activities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

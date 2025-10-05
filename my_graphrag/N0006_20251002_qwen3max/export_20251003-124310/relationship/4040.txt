@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>有为</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>轻安被明确归类为有为法，属于因缘和合、刹那生灭的现象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

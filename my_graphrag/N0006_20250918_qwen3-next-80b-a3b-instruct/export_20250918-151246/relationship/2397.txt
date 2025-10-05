@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NINGPAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Ningpan is the realization beyond the cycle of impermanence — it is not subject to rising and falling phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>圣者虽证得涅槃，但不执着于涅槃之想，体现其无执无住的心境。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

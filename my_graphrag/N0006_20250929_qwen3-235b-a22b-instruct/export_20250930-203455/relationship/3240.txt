@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱者是已实现解脱状态的人，不为生死所缚，心如明镜。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

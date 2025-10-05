@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT_WISDOM</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Transcendent wisdom reduces anger by dissolving the illusion of fixed, hostile objects and the self that is threatened.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

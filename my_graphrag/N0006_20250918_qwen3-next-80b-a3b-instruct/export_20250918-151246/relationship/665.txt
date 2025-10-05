@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>禪定的實踐旨在遠離貪欲，作為三毒之一，貪欲是禪定修行的主要對象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>COMPLETE Liberation</target_entity>
+    <relationship_description>A saintly being has achieved complete liberation — they are no longer bound by the cycle of birth and death, having transcended all clinging to self and phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

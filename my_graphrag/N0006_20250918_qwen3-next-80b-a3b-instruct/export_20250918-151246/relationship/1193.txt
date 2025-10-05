@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Non-attachment arises from wisdom — the clear seeing that all phenomena are impermanent and non-self. Wisdom makes non-attachment possible and meaningful.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

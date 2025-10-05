@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧双修</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>定慧双修是证得涅槃的唯一路径，通过定慧圆满才能彻底解脱生死轮回。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

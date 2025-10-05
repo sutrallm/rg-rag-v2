@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心寂静</source_entity>
+    <target_entity>心如明镜</target_entity>
+    <relationship_description>内心寂静的状态常被比喻为心如明镜，澄澈无染，如实映现诸法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>不放逸通過保持警覺與不放縱心念，直接阻斷煩惱的生起，是對治煩惱的根本方法之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

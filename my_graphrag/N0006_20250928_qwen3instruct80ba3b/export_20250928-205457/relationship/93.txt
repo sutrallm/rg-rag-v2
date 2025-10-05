@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUSUOQIU</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wusuoqiu is the experiential state of Nirvana — true peace is found in the absence of craving, including the craving for liberation itself.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

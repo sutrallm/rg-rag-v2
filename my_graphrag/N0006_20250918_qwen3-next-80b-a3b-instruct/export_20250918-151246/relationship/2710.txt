@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-PRACTICING PRACTICE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Non-practicing practice arises from non-attachment—it is the natural state when one no longer clings to goals, states, or methods of practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

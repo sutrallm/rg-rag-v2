@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定虽能带来轻安喜乐，但若无智慧，易生执着；智慧使修行者不执禅定境界，导向真实解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

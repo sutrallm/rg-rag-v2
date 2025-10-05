@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ALERTNESS</target_entity>
+    <relationship_description>Practitioners maintain alertness as part of their spiritual practice to stay mindful and avoid negligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

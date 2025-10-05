@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Delusion fuels desire by causing misperception of reality; together they bind the mind to samsara and obstruct liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

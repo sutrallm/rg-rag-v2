@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saintly beings have uprooted delusion by realizing the true nature of self and phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

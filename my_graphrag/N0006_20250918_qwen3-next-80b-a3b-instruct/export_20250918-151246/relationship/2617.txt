@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINBUQIJINGZHUAN</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>Xin bu qi jing zhuan (mind not swayed) arises naturally when Wuqiu (non-seeking) is fully realized—not seeking to control or change experience, the mind remains effortlessly undisturbed.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

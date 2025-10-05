@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGSHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness practice (Xingshi) is the practical expression of Chanding in ordinary life, training the mind to remain concentrated and alert.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

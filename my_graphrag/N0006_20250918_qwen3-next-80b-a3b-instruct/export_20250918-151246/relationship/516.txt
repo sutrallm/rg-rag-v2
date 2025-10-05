@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>唯有持续精进，才能开发智慧，对抗无明，二者是修行过程的正向闭环。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

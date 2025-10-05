@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Without diligent effort, right mindfulness cannot be sustained; diligence fuels the continuity of awareness in daily life and practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

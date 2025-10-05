@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五盖</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>嗔恚是五盖之一，障碍禅定与解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

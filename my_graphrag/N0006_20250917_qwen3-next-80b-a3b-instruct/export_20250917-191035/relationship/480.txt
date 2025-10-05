@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL_DISCIPLINE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral discipline creates the ethical foundation necessary for concentration to arise without inner conflict or guilt.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

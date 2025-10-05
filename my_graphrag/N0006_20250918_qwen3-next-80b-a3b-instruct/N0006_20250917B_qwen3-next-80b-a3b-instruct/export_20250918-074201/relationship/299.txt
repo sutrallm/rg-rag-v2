@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>KU</target_entity>
+    <relationship_description>When one clings to a perceived self (ignoring Wuwo), suffering (Ku) arises; realizing non-self directly alleviates suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

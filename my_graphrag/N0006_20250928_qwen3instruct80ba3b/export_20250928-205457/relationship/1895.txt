@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>TOULU</target_entity>
+    <relationship_description>Hui enables the practitioner to uproot Toulu (greed, hatred, delusion) by seeing their basis in illusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

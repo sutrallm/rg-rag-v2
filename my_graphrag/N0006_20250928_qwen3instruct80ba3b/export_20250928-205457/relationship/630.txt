@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>TAAN</target_entity>
+    <relationship_description>Ignorance (Wu Ming) is identified as the root cause of craving (Taan), forming the core dynamic of suffering in the Four Noble Truths.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

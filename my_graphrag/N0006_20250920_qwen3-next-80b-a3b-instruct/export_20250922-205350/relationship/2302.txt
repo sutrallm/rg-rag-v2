@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is a core component of Buddhist practice, which includes ethical discipline, mental cultivation, and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

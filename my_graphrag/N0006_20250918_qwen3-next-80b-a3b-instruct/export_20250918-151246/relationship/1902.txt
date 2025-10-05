@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides the calm mind necessary for wisdom to arise; wisdom prevents attachment to meditative states achieved through chanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

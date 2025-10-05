@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QINGJING</source_entity>
+    <target_entity>TANCHENDU</target_entity>
+    <relationship_description>Qingjing (inner purity) is the natural result of purging Tanchendu; when greed, hatred, and delusion cease, stillness and clarity arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

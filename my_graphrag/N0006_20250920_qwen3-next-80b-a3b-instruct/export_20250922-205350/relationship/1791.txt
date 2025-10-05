@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>缘起法揭示了无明如何引发爱、取、有、生、老死的流转，是理解无明运作机制的核心教义。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

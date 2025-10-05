@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG</source_entity>
+    <target_entity>WUZHANG WU WU</target_entity>
+    <relationship_description>True liberation arises from seeing through the five aggregates as empty of self; insight into their transient, conditioned nature dissolves the illusion of identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

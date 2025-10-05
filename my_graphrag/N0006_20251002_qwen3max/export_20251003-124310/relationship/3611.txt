@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进是守护禅定、防止退转的根本方法，确保修行者持续安住于正法修习中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

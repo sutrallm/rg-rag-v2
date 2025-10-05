@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>PRACTITIONERS</target_entity>
+    <relationship_description>SAINTS are highly evolved PRACTITIONERS who have attained enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

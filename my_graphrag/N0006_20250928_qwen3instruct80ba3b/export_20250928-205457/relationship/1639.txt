@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realizing no-self allows the mind to transcend all notions of gain and loss, which is the essence of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

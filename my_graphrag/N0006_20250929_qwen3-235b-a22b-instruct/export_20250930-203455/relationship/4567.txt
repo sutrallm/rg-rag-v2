@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正思维</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>正思维是修行者对治贪嗔痴、引导心向善与解脱的重要心理品质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

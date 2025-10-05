@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MENTAL_RESTLESSNESS</target_entity>
+    <relationship_description>Chanding directly counteracts mental restlessness by stabilizing the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

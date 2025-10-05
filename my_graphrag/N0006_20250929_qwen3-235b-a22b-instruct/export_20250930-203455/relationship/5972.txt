@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官</source_entity>
+    <target_entity>心识</target_entity>
+    <relationship_description>感官牵引心识向外攀缘，是烦恼来源，修行者需以智慧观察其虚妄性，以解脱其束缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

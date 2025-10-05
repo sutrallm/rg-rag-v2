@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANZHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Anzhi (steadfast abiding) is synonymous with or a core manifestation of chanding — both describe the mind’s settled, undisturbed state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

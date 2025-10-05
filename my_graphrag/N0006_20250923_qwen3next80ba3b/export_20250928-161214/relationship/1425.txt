@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION_PRACTITIONER</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Practitioners are instructed to "avoid indulgence" as part of maintaining mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

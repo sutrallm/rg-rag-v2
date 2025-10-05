@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>欲界、色界、无色界</target_entity>
+    <relationship_description>修行者需超越对三界的贪着，才能获得心解脱，如莲出淤泥而不染。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

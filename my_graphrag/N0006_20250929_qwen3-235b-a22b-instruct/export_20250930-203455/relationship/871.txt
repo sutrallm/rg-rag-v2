@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>挫折</target_entity>
+    <relationship_description>修行者面对挫折不应退转，应视其为修道助缘，保持精进与平等心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

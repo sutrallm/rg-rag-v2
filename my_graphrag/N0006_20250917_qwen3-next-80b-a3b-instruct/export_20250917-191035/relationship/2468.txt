@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIXING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The fearlessness toward Sixing (death) arises from overcoming Delusion — seeing life as transient and not identifying with a permanent self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

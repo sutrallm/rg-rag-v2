@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>圣者已断除一切烦恼根源，面对顺逆境界不再生起贪爱、嗔恚或愚痴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

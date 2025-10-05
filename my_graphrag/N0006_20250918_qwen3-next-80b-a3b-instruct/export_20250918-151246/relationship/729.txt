@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SI NIAN CHU</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Si Nian Chu is presented as the only correct path leading to Jiede; it is the essential practice for achieving liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

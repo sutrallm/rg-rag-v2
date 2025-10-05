@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Implementing SAMADHI is a core method for PRACTITIONERs in their spiritual journey.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

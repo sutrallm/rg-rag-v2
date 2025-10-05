@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILENCE</source_entity>
+    <target_entity>TRUE_LIBERATION</target_entity>
+    <relationship_description>True silence — inner freedom from mental clinging — is synonymous with true liberation, not mere physical quiet.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

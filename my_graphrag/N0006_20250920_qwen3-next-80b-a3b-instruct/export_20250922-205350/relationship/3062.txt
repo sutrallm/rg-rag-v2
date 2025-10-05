@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE-DING-HUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jie-Ding-Hui is the systematic path leading to Niepan; their relationship is foundational and causative—the path produces the goal.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

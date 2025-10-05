@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>追求</source_entity>
+    <target_entity>成果</target_entity>
+    <relationship_description>追求是主动寻求成果的行为。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

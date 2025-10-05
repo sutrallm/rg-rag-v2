@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>心解脱需通过彻悟无我之理，方能彻底放下执著，获得自由。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

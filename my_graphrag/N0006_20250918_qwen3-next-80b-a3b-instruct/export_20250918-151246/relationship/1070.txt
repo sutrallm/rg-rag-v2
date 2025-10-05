@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Zhishi (wisdom) is the tool that eradicates Fannao (afflictions) by revealing their basis in mistaken clinging to impermanent phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Effortful practice includes consistent cultivation of chanding, as it is not achieved passively but through disciplined effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

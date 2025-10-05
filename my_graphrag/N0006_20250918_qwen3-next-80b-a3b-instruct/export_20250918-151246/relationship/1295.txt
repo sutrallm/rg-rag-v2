@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saintly persons have fully dispelled delusion by realizing the true nature of reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>成就</target_entity>
+    <relationship_description>智慧者虽精进修行追求成就，但不执着于任何境界或成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

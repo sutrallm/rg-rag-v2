@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>修行态度</target_entity>
+    <relationship_description>慈悲是修行态度的重要组成部分，与智慧并用，共同导向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

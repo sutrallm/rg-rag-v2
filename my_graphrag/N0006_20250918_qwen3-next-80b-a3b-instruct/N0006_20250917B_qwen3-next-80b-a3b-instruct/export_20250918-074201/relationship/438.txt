@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Nirvana is realized through the full understanding of the five aggregates as impermanent, unsatisfactory, and not-self; they are the object of insight leading to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

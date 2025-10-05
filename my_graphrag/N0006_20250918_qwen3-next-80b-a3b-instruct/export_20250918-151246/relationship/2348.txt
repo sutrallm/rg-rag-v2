@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEIYOU "WO" ZAI XIULIAN</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO DE ZHIHUI</target_entity>
+    <relationship_description>The realization that there is no "I" doing the practice is a direct insight into transcendent wisdom, revealing the non-substantial nature of the ego-sense.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

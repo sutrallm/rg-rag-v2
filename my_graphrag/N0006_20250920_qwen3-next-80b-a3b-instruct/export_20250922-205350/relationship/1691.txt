@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我觀</target_entity>
+    <relationship_description>五蘊是無我觀的觀照對象，透過分析五蘊的無常與非我性，破除我執。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

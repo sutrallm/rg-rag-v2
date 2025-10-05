@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI XINGKONG</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The realization of emptiness (Yuanqi Xingkong) leads directly to nirvana (Niepan), as it dissolves clinging to existence and non-existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

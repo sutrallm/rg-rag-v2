@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGDAO XINGXIU</source_entity>
+    <target_entity>SHENTONG</target_entity>
+    <relationship_description>Zhongdao xingxiu teaches not to seek shentong (supernatural powers), recognizing them as side-effects, not goals of practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

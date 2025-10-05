@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU ZHONGJI MUDI</source_entity>
+    <target_entity>REAL NATURE</target_entity>
+    <relationship_description>The ultimate purpose of meditation is to return to and abide in one’s real nature—the ever-present, unaltered mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

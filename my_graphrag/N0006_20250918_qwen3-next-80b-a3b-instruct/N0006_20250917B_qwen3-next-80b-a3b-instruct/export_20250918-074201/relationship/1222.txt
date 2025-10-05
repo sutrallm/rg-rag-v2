@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe is the embodiment of Jiefu—a person who has fully realized liberation by seeing the true nature of reality without clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

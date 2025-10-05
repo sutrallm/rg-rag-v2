@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZEI</target_entity>
+    <relationship_description>Shengzhe have completely eradicated the three poisons (zei); their freedom from greed, anger, and delusion defines their saintly state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

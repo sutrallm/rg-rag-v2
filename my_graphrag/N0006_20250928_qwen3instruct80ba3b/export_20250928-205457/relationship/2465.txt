@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>YUANQI</target_entity>
+    <relationship_description>Zhengnian allows one to observe Yuanqi directly in daily experience — seeing phenomena arise and cease conditionally in real time.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

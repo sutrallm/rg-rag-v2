@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ANATTA_OBSERVATION</target_entity>
+    <relationship_description>Wisdom is realized through the practice of Anatta Observation, which involves seeing the five aggregates as impersonal and impermanent, leading to non-attachment and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

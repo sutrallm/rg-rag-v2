@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>正念是解脱的起点和持续路径，时刻觉照即是在实践中逐步瓦解无明与执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

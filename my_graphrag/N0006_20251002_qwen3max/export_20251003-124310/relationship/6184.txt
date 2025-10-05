@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>禅定的目标之一是远离并防止贪、瞋、痴等烦恼渗入心流。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

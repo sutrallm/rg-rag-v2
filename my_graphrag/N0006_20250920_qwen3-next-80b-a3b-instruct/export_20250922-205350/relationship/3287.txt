@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHUO</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chizhuo is dissolved through the realization of Wuwo; letting go of attachment arises directly from seeing the absence of a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

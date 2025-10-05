@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>苦患</target_entity>
+    <relationship_description>圣者已彻底断除贪瞋痴等根本烦恼，超越一切苦患，内心清净无染。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

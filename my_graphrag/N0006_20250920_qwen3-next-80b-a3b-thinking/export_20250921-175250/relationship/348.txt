@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>Following the DHARMA prevents falling under the influence of the DEATH DEMON.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

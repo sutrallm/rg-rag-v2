@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常揭示现象的流动本质，无我揭示其无主体性，二者共同构成对“自我”幻觉的破除基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>DEATH_AND_REBIRTH</target_entity>
+    <relationship_description>Saints have transcended the cycle of death and rebirth by eliminating the karmic causes that bind beings to samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWEI</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Xiuwei (true practice) is the daily embodiment of Zhengnian (mindfulness), applying moment-to-moment awareness to all life circumstances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

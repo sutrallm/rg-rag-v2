@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIUGEN</source_entity>
+    <target_entity>FENBIE</target_entity>
+    <relationship_description>Unrestrained six sense organs lead to discrimination — the mind creates likes/dislikes upon contact with objects — which fuels craving and aversion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

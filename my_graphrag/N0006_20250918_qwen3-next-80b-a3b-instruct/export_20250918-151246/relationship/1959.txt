@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RI chang SHIXI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description> Daily practice (ri chang shi xi) is the everyday expression and cultivation of meditative concentration (chanding) in ordinary activities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

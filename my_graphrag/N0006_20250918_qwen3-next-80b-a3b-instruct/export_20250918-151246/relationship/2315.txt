@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Insight into impermanence leads to the understanding of no-self, as nothing enduring can be found within changing phenomena to call “I” or “mine.”</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

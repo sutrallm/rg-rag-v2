@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>RIGHT PRACTICE</target_entity>
+    <relationship_description>Chanding is strengthened and stabilized through continuous right practice, which prevents regression into sloth and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

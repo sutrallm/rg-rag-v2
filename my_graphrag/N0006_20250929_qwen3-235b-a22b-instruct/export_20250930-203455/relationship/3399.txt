@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>禅定帮助修行者获得心解脱，能洞察无常、不执着于任何境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

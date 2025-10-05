@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUFENBIAN</source_entity>
+    <target_entity>SHENGZHI</target_entity>
+    <relationship_description>Wufenbian (non-discrimination) is the result of Shengzhi — when wisdom fully unfolds, one no longer judges phenomena as good or bad, holy or profane.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

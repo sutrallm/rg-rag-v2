@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>诸法</target_entity>
+    <relationship_description>我执是对诸法实相（无常、苦、无我）的误解，智慧观照诸法无我可断除我执。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

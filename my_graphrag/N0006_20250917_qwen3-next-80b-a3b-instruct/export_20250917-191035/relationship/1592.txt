@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>XINGXIU</target_entity>
+    <relationship_description>Persevering effort (jingjin) is embodied in daily practice (xingxiu), where sustained mindfulness in all activities represents continuous, non-lazy cultivation of the path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

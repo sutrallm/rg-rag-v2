@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGHUI</source_entity>
+    <target_entity>SHENGE</target_entity>
+    <relationship_description>Shenge possesses Shenghui as an intrinsic quality; the enlightened being sees reality without attachment, which defines their awakened state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

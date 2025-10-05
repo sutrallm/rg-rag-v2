@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>散乱</source_entity>
+    <target_entity>数息观</target_entity>
+    <relationship_description>数息观是安定散乱心念的直接对治方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

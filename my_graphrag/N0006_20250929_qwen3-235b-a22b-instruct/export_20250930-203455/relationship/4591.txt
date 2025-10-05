@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>功德</target_entity>
+    <relationship_description>心通过持续精进与觉知，累积功德，是成就道果与解脱的内在基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

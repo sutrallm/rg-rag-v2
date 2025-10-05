@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>GUAI FAN</target_entity>
+    <relationship_description>Sheng Zhe have completely severed greed, hatred, and delusion — their eradication defines the enlightened state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

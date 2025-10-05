@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>禅定的修持必须通过正念保持专注，以远离散乱纷扰，如猛虎伏于岩穴般自保。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CALMING AND INSIGHT</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>CALMING AND INSIGHT meditation develops the mental stability required for CONCENTRATION practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

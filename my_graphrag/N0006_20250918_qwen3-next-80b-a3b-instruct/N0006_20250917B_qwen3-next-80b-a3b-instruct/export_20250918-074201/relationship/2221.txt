@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin is the necessary foundation for cultivating true Chanding; without diligent effort, one cannot achieve deep meditative concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

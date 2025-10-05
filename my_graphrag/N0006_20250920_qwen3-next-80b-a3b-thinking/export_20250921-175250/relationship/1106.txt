@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIRE</source_entity>
+    <target_entity>FOREST</target_entity>
+    <relationship_description>FIRE burns within FOREST in the metaphor used to describe temporary existence and cessation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

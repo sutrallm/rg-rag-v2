@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INNER LIBERATION</target_entity>
+    <relationship_description>Meditation is the practice that leads to inner liberation from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

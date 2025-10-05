@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion is the root of the mistaken belief in self. Realizing non-self directly dispels this delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

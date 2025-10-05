@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING RICHANG SHIJIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily practice of mindfulness is the method through which chanding is cultivated in ordinary activities—making meditation inseparable from daily life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

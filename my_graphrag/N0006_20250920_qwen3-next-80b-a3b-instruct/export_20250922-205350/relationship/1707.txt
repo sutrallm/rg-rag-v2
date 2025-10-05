@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>The wisdom (Hui) component of Jie Ding Hui is the insight that directly perceives the impermanence (Wuchang) of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

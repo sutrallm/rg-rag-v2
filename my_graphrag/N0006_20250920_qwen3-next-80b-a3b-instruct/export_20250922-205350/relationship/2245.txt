@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS_IN_DAILY_LIFE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness supports and strengthens chanding by making meditative awareness habitual, not confined to sitting practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

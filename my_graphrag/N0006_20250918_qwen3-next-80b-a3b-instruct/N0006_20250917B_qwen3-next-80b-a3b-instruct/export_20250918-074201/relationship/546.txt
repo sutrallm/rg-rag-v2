@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saints embody liberation: they have eradicated all afflictions and transcended saṃsāra, manifesting the result of perfect practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

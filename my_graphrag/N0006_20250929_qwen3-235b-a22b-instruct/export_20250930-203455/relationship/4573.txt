@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>昏沉</target_entity>
+    <relationship_description>心在昏沉时需以正知与精进提振，是调伏心时需对治的两种主要障碍之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

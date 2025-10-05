@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TRUTH</source_entity>
+    <target_entity>EIGHTFOLD PATH</target_entity>
+    <relationship_description>EIGHTFOLD PATH is the prescribed practical method for achieving the goals of the Path Truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

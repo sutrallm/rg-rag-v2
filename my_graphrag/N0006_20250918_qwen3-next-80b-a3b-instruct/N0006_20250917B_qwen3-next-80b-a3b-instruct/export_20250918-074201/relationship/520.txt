@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>正念需精進才能持續，精進為正念不間斷的保障，二者相輔相成。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>观五蕴皆空能破除“我执”与“我所执”，帮助修行者获得心解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

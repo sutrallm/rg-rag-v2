@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WUGUANZHAO</target_entity>
+    <relationship_description>Jingjin enables sustained practice of wuguanzhao, ensuring continuous observation of the non-self nature of phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>慧通过洞察苦而生起，如实了知一切现象无常、苦、无我是解脱的关键智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

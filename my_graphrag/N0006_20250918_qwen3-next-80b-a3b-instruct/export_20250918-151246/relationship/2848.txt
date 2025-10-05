@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHRISTIAN MEDITATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>禅定为智慧的生起提供基础，深度禅修使人如实观照实相，产生超越执着的智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

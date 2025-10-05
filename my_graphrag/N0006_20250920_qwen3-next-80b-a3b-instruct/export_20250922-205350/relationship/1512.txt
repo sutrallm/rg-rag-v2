@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>持戒防止邪見與狂亂，為智慧的正確生起提供道德與心理基礎，三者為次第無漏學。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

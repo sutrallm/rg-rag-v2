@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>障碍</source_entity>
+    <target_entity>疑悔</target_entity>
+    <relationship_description>疑悔是障碍的一种，需通过忆念正法、坚定信心等方法对治。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

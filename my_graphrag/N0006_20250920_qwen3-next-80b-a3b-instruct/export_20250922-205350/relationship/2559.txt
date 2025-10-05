@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEYUAN</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Neyuan is the result of Wuzhu—complete non-attachment leading to the cessation of suffering and the realization of nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

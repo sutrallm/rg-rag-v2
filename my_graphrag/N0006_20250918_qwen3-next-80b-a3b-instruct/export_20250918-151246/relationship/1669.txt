@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WÚWÓ Yǔ KŌNGXÌNG</source_entity>
+    <target_entity>觉悟</target_entity>
+    <relationship_description>Realization of non-self and emptiness is the essence of attaining awakening — they are inseparable.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

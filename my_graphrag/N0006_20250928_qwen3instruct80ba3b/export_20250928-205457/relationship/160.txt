@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我觀</source_entity>
+    <target_entity>我執</target_entity>
+    <relationship_description>無我觀是直接破除我執的修行方法，透過觀照實相來瓦解對自我的執著。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

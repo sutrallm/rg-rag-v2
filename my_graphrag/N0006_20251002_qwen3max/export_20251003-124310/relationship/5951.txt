@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>智慧通过洞察诸法无我、无常，直接破除对境界、果报乃至自我的执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

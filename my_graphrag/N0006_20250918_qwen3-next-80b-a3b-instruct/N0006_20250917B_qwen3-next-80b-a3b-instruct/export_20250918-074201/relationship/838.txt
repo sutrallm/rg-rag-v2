@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEWUZHE</source_entity>
+    <target_entity>CHAOWUZHUO</target_entity>
+    <relationship_description>Juewuze embodies perfect Chaowuzhuo — they see all as illusory, responding without attachment, and are never bound by experiences or outcomes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

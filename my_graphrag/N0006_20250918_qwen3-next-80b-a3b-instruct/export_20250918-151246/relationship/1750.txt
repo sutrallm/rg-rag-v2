@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLARITY</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Clarity is the natural result of successful chanding, where the mind is free from turbulence and mental fog.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

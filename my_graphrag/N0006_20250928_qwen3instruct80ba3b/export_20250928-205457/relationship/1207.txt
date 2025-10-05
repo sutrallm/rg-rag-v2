@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-RELIANCE-ON-EXTERNAL-RITUALS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>True wisdom arises from internal insight, not external rituals; non-reliance on form is a consequence of direct experiential wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

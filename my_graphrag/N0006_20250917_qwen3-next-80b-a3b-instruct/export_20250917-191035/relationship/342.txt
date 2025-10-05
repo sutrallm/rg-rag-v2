@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>圣者以正见为根本，能如实认识四圣谛，从而成就清净戒行与智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUXIU ZHI XIU</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Non-striving does not mean laziness; rather, it is a refined form of jingjin — effort that flows naturally without grasping or resistance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUNGLI</source_entity>
+    <target_entity>CHEN</target_entity>
+    <relationship_description>Yungli dissolves chen (anger) by revealing the emptiness of perceived threats and the futility of aversion in the face of impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

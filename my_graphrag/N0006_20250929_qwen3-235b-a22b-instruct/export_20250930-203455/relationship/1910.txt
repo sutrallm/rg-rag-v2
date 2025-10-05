@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>定力</target_entity>
+    <relationship_description>定力是三学的第二步，通过禅定摄心不散，为慧观提供稳定基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

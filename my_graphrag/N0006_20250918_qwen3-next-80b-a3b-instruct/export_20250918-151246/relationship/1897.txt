@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DA SHI</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>The present moment (Da Shi) is not a means to an end but is itself nirvana (Nie Pan) when the mind is undisturbed and unattached.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

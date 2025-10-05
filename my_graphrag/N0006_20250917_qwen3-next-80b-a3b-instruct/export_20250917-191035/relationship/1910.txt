@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法随法行</source_entity>
+    <target_entity>戒</target_entity>
+    <relationship_description>法随法行包含依戒束身，戒是实践佛陀教法的第一步，是法随法行的组成部分。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA</source_entity>
+    <target_entity>FIVE_AGREGATES</target_entity>
+    <relationship_description>Anatta is realized through the direct observation of the five aggregates as impermanent, unsatisfactory, and not-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

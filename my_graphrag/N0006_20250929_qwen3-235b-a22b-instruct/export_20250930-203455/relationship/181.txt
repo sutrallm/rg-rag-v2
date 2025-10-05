@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行持续性</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行持续性确保禅定不中断，如恒河之流昼夜不息，是稳固禅定、逐步迈向解脱的必要条件。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLEASURE</source_entity>
+    <target_entity>CONDITIONED PHENOMENA</target_entity>
+    <relationship_description>PLEASURE is an instance of CONDITIONED PHENOMENA.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>外境</target_entity>
+    <relationship_description>烦恼常因心被外境牵引而生起，修行者需通过禅定与正念避免。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

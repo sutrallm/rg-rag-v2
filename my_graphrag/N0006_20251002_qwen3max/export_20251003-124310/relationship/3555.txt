@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四禪</source_entity>
+    <target_entity>喜</target_entity>
+    <relationship_description>喜是初禪與二禪的禪支，在進入三禪時被捨離，因此四禪的次第進程中包含對喜的捨棄。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

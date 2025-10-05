@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>戒律与正见结合是修行者彻底终结苦痛的基础</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

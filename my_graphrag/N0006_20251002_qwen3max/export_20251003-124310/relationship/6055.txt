@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>智慧能如实了知无常、苦、无我，从而断除烦恼，是熄灭烦恼的根本力量。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

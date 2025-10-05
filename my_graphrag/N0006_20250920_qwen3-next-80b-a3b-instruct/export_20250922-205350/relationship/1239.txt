@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>眾生</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>眾生的終極目標是解脫，所有修行皆為幫助眾生脫離輪迴與痛苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

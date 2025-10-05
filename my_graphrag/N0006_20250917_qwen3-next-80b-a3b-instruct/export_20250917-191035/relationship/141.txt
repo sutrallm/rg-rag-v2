@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOSHI ZHIHUI</target_entity>
+    <relationship_description>Chanding creates the mental stability needed for Chaoshi zhihui — the insight into impermanence and non-self — to arise clearly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

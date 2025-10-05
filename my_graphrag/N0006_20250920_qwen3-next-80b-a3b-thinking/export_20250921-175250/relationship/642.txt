@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Sages eliminate all afflictions through their profound wisdom and practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

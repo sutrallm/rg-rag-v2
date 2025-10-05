@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHOU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Chizhou (wisdom) is the defining insight of a Shengzhe (sage), who has fully realized impermanence, non-self, and unsatisfactoriness, and thus embodies the liberated state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

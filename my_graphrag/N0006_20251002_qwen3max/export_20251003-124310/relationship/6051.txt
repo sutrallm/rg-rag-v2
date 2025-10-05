@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行者在禅定中可能体验殊胜境界，若对这些境界生起执着，则违背解脱之道；因此需超越对禅境的执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

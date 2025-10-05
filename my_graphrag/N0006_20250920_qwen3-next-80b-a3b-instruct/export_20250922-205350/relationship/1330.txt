@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观照</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无我观照的对象正是五蕴的运作与本质，通过观五蕴得见无我真相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

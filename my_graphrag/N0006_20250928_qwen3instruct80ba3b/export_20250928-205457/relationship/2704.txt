@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI GUAN</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Zhi Guan reveals the illusion of a fixed self, leading to the realization of Wu Wo.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

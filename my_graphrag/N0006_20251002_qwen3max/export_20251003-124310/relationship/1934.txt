@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五盖</source_entity>
+    <target_entity>初禅至四禅</target_entity>
+    <relationship_description>只有彻底降伏五盖，心脱离欲染，才能进入初禅，进而次第成就二禅、三禅、四禅。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

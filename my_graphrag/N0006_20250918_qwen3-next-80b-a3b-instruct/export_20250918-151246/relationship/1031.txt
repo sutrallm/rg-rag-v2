@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-Self</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realization of no-self is the cornerstone of liberation; only when the illusion of a permanent self is dissolved can true freedom from suffering arise.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

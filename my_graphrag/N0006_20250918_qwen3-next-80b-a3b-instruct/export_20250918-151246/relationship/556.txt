@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION_AND_WISDOM</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>True non-attachment arises when compassion is guided by wisdom, preventing emotional clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

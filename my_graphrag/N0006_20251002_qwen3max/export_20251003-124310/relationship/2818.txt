@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>天人</target_entity>
+    <relationship_description>聖者因超越煩惱、圓滿三學，故為天人所敬仰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

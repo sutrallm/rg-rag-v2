@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Belief in a permanent self is the root of suffering; realizing no-self ends this cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

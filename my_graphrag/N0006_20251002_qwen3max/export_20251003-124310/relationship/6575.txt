@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>一境性</source_entity>
+    <target_entity>四禪</target_entity>
+    <relationship_description>一境性是貫穿四禪的核心禪支，在四禪中達到最純粹的專注狀態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

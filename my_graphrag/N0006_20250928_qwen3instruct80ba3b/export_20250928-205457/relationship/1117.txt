@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIJIN XIU XIANG</target_entity>
+    <relationship_description>Chanding requires continuous and diligent practice; without unwavering effort, meditation cannot be stabilized or deepened.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

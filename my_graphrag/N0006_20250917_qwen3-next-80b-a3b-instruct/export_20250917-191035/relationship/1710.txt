@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHED_WISDOM</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Non-attached wisdom involves realizing that all phenomena lack a permanent, independent self — a foundational insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

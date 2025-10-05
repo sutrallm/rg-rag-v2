@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe are defined by possessing full Zhihui; wisdom is what enables them to eradicate all defilements and become liberated.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

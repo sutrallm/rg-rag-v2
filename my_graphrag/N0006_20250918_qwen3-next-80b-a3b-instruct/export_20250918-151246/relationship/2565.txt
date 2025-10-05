@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT</source_entity>
+    <target_entity>RELIGIOUS PRACTICE</target_entity>
+    <relationship_description>All authentic spiritual practice is grounded in awareness and action within the present moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

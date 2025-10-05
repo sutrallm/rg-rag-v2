@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>七觉支</source_entity>
+    <target_entity>觉悟</target_entity>
+    <relationship_description>七觉支相互增长，最终导向觉悟，是通往觉悟的关键修行要素。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

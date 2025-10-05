@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLER WAY</source_entity>
+    <target_entity>PRESENT MOMENT AWARENESS</target_entity>
+    <relationship_description>The Middle Way is embodied in present moment awareness by rejecting both indulgence and denial, and simply observing experience as it is.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

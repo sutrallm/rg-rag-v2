@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saintly qualities involve the destruction of hatred, showing this quality to be a necessary result of full spiritual maturity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

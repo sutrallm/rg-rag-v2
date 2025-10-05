@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>戒定慧即三学，是修行解脱的完整框架，三者不可分割。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

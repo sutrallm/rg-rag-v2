@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>JIAOCHA</target_entity>
+    <relationship_description>Zhengnian (mindfulness) enables Jiaocha (observing afflictions) by allowing one to witness emotions without reaction, just as they arise and pass.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

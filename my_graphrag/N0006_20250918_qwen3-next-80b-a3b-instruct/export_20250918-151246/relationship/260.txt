@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY BEING</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>A holy being has uprooted hatred and aversion, residing in equanimity and untainted compassion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

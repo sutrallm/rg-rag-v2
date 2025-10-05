@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>佛陀教导无常观作为对治执着、破除烦恼的重要方法，是智慧修行的基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

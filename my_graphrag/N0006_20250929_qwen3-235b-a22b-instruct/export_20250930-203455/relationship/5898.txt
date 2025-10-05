@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>实相</target_entity>
+    <relationship_description>智慧源于对身心实相的直接体证，非依赖文字或言说，烦恼断尽时自然流露。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

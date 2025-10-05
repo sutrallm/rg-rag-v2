@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定收攝散亂之心，為智慧的生起提供穩定的心靈基礎，定生慧，慧由定來。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

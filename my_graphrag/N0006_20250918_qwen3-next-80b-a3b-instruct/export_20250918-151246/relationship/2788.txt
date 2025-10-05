@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU_MOBIAO</source_entity>
+    <target_entity>YINYUAN</target_entity>
+    <relationship_description>Chanxiu mubiao leads to direct insight into Yinyuan — the interdependent origination of all phenomena — revealing true emptiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

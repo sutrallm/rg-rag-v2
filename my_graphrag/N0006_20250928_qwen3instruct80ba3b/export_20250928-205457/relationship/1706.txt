@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒與智慧共同構成修行圓滿的三學體系，戒淨則心安，心安則慧生。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

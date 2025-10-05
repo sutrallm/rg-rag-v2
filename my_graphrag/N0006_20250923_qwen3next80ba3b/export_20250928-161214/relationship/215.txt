@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>The FIVE AGGREGATES exemplify NON-SELF as they lack a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

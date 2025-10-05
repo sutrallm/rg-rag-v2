@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO DE ZHISHI</target_entity>
+    <relationship_description>Enlightened beings embody transcendent wisdom — they see clearly and do not cling to any state or achievement.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

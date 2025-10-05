@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>貪嗔</target_entity>
+    <relationship_description>無明是貪嗔生起的根源，因不明實相，故產生貪愛與排斥的煩惱反應。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

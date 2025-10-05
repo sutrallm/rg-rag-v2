@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三缚</source_entity>
+    <target_entity>须陀洹</target_entity>
+    <relationship_description>断除三缚（我见、疑见、戒禁取见）是证得须陀洹果位的标志，二者直接对应。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

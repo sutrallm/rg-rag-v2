@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGY AND EFFORT</source_entity>
+    <target_entity>ENOUGH EXHAUSTION</target_entity>
+    <relationship_description>Only through sustained energetic practice can one completely exhaust the roots of mental defilements and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

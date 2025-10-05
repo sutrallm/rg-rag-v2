@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERNACULAR TEXT</source_entity>
+    <target_entity>DOCTRINAL TEACHINGS</target_entity>
+    <relationship_description>Vernacular text contains preserved doctrinal content</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

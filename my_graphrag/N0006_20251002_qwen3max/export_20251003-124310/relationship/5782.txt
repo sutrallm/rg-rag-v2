@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>戒定慧三學圓滿是達成解脫的完整路徑；三者相輔相成，最終導致煩惱斷盡與解脫成就。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

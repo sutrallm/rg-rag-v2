@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>正见包含对四圣谛的正确理解，是修行的根本基础之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

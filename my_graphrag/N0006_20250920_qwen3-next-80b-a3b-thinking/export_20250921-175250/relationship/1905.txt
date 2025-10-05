@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>SUPREME HAPPINESS</target_entity>
+    <relationship_description>Renunciation of desires directly leads to supreme happiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

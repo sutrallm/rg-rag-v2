@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者必须依循正法持续精进，不懈怠、不放逸，才能避免落入生死轮回并迈向解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

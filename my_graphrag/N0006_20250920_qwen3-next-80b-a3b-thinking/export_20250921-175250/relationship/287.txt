@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREATH OBSERVATION PRACTICE</source_entity>
+    <target_entity>FOCUS</target_entity>
+    <relationship_description>This practice cultivates deep focus and mental clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

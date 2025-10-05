@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhinen enables the practitioner to directly realize wuwo (non-self), seeing through the illusion of a permanent self in body, emotions, and thoughts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

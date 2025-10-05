@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion is required to enter and sustain chanding; without persistent effort, one cannot overcome laziness and enter meditative absorption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

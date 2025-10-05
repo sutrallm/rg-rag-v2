@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAO CHANG</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Dao Chang redefines the context of Chan Ding — it is not confined to formal meditation but occurs in every moment of daily life with mindful awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

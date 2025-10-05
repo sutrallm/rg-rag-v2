@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom arises through the direct insight into impermanence, which is fundamental to transcending attachment and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

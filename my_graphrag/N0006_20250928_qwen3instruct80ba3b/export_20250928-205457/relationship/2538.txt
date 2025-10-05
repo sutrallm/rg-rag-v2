@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>SHENGE</target_entity>
+    <relationship_description>Moral conduct (jie) is one of the three pillars of the saintly state (shenge); without ethical discipline, true spiritual stature cannot manifest.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>CLARITY</target_entity>
+    <relationship_description>Stillness creates the space for clarity to emerge — a calm mind perceives thoughts and sensations without distortion or reactivity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

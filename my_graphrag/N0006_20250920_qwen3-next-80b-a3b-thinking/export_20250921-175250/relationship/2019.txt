@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>比丘</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>比丘需修习禅定以实现内心安定，避免外界干扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

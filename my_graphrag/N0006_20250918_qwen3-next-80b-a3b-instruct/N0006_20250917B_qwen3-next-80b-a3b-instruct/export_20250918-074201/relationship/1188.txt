@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Chanding alone is not sufficient; it must be informed by transcendent wisdom to avoid attachment to meditative states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

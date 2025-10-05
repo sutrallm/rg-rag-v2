@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>禅悦</target_entity>
+    <relationship_description>真正的智慧不执著于禅定带来的愉悦，故能超越禅悦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

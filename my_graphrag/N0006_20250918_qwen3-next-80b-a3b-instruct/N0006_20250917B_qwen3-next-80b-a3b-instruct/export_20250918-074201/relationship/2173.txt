@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>DETACHMENT</target_entity>
+    <relationship_description>Understanding non-self dissolves the illusion of ownership and identity, which is the root of attachment and the foundation of true detachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

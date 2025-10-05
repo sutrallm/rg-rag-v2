@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>The Five Aggregates are the specific phenomena examined to realize the truth of No-Self. Contemplating their impermanence and conditionality is the method to dissolve the illusion of a solid self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

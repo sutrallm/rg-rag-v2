@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSTRUCTION</source_entity>
+    <target_entity>VERSE</target_entity>
+    <relationship_description>The instruction specifies the complete removal of all poetic verses from the final text output.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

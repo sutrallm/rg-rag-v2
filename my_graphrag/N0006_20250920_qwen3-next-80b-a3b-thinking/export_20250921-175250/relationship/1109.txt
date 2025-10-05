@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>METAPHOR</target_entity>
+    <relationship_description>BUDDHA uses METAPHOR in teachings to transform into direct Dharma explanation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无我的洞察建立在对五蕴和合、生灭无常的正确认知之上，五蕴是理解无我的分析基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

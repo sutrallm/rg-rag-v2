@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>佛陀的教法中，戒律是修行的起點，由佛陀宣說並奠定了三學之基。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

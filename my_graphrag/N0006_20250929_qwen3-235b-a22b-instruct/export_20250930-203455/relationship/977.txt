@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在光明</source_entity>
+    <target_entity>觉性</target_entity>
+    <relationship_description>内在光明是心性本具的觉性显现，能照破无明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

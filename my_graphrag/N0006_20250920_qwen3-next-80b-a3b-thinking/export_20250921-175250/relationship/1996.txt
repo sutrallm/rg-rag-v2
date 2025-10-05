@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PROCESSING REQUIREMENTS</target_entity>
+    <relationship_description>The original text must be processed according to the specified requirements to produce the final output.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

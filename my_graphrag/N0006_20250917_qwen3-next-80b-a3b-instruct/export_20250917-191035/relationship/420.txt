@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-EXERTION</source_entity>
+    <target_entity>GREED_HATRED_DELUSION</target_entity>
+    <relationship_description>Continuous self-exertion is necessary to overcome the three poisons of greed, hatred, and delusion, which lead to spiritual stagnation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

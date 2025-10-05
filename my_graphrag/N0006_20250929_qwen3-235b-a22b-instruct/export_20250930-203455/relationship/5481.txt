@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>修行者遵循佛陀教导进行修行，佛陀是其修行路径的根本依据与精神导师。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

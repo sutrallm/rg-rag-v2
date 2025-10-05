@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观照</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>彻底了知无我，是挣脱自我中心牢笼、实现解脱的关键实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

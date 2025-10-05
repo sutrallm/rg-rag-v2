@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHENGZHI</target_entity>
+    <relationship_description>Chanding provides the stable mental platform necessary for Chengzhi (wisdom) to arise, as clear focus enables deep insight into reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

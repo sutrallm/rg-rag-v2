@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Chan Ding leads directly to inner peace by stopping mental disturbances and cultivating stillness, making it the primary method to achieve this state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

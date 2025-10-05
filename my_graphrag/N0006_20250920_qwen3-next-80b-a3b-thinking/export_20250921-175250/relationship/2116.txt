@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>afflictions</source_entity>
+    <target_entity>suffering</target_entity>
+    <relationship_description>Afflictions are the root cause of suffering as they poison the mind and obstruct spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

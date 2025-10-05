@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO</source_entity>
+    <target_entity>ZHENZHENG ZIYOU</target_entity>
+    <relationship_description>Transcending attachment is the direct cause of true freedom; when one lets go of all conceptual and emotional ties, inner liberation arises.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

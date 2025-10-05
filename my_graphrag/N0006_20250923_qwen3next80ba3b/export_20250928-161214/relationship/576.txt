@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>GREED is one of the five hindrances that obstruct meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

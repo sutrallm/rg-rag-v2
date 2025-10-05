@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>野火蔓延</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>野火蔓延是比喻中若不修内观则烦恼将迅速扩散、难以扑灭的状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

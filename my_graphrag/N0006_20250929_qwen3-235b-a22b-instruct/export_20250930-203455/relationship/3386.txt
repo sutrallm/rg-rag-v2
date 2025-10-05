@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>名利</target_entity>
+    <relationship_description>修行者不为名利所动，保持清净与无执，是自觉与觉他圆满的体现。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

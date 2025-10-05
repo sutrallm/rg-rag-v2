@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The state of wuzhu (non-attachment) is a defining trait of the shengzhe, who has transcended all attachments including meditative achievements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>WISDOM_OF_NON-ATTACHMENT</target_entity>
+    <relationship_description>The sage has fully developed wisdom of non-attachment, allowing them to observe all phenomena without clinging, even spiritual experiences, thereby transcending all forms of bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

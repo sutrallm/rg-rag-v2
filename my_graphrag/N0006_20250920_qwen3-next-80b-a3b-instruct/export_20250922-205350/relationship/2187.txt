@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIJIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Only through persistent Jijin can one become a Shengzhe, as holy ones are defined by unwavering, diligent cultivation of mind and morality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

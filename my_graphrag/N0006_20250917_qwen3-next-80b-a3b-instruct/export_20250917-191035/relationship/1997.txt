@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly beings naturally maintain meditative concentration, as their daily life is continuous practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

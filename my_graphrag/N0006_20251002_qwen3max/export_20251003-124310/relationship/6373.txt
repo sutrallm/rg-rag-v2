@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>即使修证达到神通境界，若执著于此，也会成为新的系缚，因此真正的修行者不执取神通。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

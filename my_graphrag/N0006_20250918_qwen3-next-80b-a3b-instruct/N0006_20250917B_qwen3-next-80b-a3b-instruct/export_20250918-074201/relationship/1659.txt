@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO DE ZHIHUI</target_entity>
+    <relationship_description>Chanding provides the stillness necessary for the insight of transcending attachment to arise; meditation without wisdom risks attachment to meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

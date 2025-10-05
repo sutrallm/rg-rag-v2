@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATION</source_entity>
+    <target_entity>DELUSIONS</target_entity>
+    <relationship_description>Cultivation involves dispelling delusions through disciplined mental training.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

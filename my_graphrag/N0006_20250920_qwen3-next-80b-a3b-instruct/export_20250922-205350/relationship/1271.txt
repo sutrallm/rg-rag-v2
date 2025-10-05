@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_SILENCE</source_entity>
+    <target_entity>INWARD_OBSERVATION</target_entity>
+    <relationship_description>True Silence is the result of sustained Inward Observation, where the mind no longer reacts to thoughts or sensations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Impermanence and non-self are two interdependent insights in Buddhist philosophy; recognizing that all things change reveals that no stable “self” can be found.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

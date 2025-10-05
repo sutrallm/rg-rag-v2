@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Chanding provides the mental stability needed to observe phenomena without attachment, which is the essence of transcending clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

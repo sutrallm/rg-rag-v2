@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>SEDATION</target_entity>
+    <relationship_description>Both greed and sedation are mental defilements that hinder meditation; greed pulls the mind outward, sedation drags it inward into dullness.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

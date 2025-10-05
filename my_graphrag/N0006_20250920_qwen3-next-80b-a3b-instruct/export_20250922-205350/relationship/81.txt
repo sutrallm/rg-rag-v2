@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Non-self is the core insight cultivated by wisdom, enabling one to see through the illusion of identity and break the bonds of attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

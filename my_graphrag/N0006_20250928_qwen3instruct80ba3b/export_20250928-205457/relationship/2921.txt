@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WIREDOM</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Wisdom is the direct realization of Non-Self; it is through wisdom that one sees all phenomena — including the Five Skandhas — as empty of self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

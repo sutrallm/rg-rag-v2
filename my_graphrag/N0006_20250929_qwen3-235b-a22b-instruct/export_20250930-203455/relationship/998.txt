@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脱的终极目标是证得涅槃寂静，涅槃是烦恼与无明彻底断除后的究竟自在状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

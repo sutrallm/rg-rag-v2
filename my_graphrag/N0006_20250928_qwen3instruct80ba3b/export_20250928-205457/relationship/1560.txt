@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING TAI DU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Correct attitude ensures ongoing mindfulness and sustained chanding, not merely transient calm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

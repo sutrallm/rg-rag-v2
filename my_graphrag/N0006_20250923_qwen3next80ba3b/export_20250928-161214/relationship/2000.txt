@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>DHARMA is one of the four foundations of mindfulness, observed for not-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

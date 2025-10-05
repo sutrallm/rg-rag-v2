@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>道场</target_entity>
+    <relationship_description>真正的修行者视日常生活中的每一念为道场，强调修行不离日常起心动念。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

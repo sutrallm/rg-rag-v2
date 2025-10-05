@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANZHAO WUCHANG</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Contemplating impermanence is the practical method through which one develops the wisdom to transcend attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

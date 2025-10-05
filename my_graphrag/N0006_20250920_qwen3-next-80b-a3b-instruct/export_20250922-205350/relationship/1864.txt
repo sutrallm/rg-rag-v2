@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES (WUYUN)</source_entity>
+    <target_entity>ILLUSORY SELF</target_entity>
+    <relationship_description>The illusory self arises from erroneous identification with the five aggregates, mistaking them for a permanent “I.”</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

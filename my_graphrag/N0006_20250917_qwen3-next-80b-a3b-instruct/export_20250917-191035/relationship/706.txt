@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Wisdom directly leads to non-attachment, as recognizing the illusory nature of all experiences removes the basis for clinging or rejection.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

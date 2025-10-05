@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SLOTH</target_entity>
+    <relationship_description>Meditation helps overcome sloth, as described in "修行者通过禅定摆脱放逸".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

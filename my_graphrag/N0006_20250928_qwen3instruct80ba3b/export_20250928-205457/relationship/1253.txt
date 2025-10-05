@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六塵</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>不執取六塵為「我」或「我所有」是達成無我的實踐方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CURRENT MESSAGE</source_entity>
+    <target_entity>SUPPLEMENT COMPLETE CONTENT</target_entity>
+    <relationship_description>The current message includes an instruction to supplement complete content before subsequent requests.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

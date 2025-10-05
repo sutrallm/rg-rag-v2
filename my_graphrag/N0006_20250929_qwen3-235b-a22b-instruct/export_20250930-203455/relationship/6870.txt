@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出离心</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>出离心引导智慧朝向无我、无相、无愿的究竟解脱，避免落入执著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

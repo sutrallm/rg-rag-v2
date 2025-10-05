@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The noble one has fully realized non-self and thereby is completely free from the delusion of ownership and identity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

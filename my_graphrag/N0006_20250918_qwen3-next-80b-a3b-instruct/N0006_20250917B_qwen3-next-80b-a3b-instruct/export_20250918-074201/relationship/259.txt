@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>無常是苦的根本原因，因萬法變遷無常，故人類因執著而產生痛苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

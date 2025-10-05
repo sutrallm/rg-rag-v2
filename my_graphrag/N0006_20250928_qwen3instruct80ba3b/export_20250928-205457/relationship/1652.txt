@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-CLINGING</source_entity>
+    <target_entity>THE FIVE AGGREGATES</target_entity>
+    <relationship_description>Self-clinging arises from mistakenly identifying the five aggregates—temporary mental and physical components—as a permanent “I” or “mine.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

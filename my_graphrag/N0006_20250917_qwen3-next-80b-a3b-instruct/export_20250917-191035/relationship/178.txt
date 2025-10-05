@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT_TO_MEDITATIVE_STATES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Attachment to meditative experiences obstructs true liberation, which requires letting go of even pleasant states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

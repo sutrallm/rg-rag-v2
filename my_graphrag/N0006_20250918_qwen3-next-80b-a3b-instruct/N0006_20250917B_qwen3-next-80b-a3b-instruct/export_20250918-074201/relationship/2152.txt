@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺悟者</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>覺悟者與聖者皆為修行成就者，其特質高度重疊，可視為同一種修行果位的不同表述。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

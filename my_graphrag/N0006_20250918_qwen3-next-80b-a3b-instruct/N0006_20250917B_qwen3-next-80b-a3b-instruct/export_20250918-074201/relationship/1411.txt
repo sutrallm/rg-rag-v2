@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Chan Ding enables the practitioner to transcend greed by stabilizing the mind and reducing attachment to sensory pleasures.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

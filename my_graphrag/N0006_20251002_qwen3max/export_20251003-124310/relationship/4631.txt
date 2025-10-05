@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>佛陀教导了禅修之道，包括以正念、不放逸为基础的禅定实践。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

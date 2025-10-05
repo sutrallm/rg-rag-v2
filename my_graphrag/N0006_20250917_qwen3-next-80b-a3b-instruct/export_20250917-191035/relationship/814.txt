@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saintly qualities entail the complete eradication of delusion, among other poisons, through wisdom and moral discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

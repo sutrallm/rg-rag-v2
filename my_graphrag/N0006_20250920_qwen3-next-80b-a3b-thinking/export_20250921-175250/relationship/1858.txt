@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>SELF</target_entity>
+    <relationship_description>Saints realize the illusory nature of the self and are free from attachment to identity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

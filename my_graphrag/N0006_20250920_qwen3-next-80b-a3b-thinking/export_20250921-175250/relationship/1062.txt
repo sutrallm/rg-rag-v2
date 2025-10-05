@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>DESIRE is a primary focus of craving, as explained in the Origin of Suffering Truth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

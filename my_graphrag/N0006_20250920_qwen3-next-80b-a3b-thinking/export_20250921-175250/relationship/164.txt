@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UPROOTING_SUFFERING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>UPROOTING_SUFFERING aims to eliminate SUFFERING completely.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

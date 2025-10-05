@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN XING</source_entity>
+    <target_entity>XU KONG</target_entity>
+    <relationship_description>心性如虚空般包容万物而不执著，体现解脱的空性特质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

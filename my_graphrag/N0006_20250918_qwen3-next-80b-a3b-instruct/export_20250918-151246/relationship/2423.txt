@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SEEKING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Non-seeking directly counteracts greed, especially the subtle greed for spiritual attainment or enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

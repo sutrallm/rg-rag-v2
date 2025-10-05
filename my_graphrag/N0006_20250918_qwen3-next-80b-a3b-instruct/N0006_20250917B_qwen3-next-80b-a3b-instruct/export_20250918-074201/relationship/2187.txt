@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiuxin is the overarching path; chanding is one of its core practices — cultivating the mind through focused awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

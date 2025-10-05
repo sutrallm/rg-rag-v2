@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>CHÁNDING</target_entity>
+    <relationship_description>An enlightened being dwells in consistent meditative stillness as a natural expression of their liberated mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

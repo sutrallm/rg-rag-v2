@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-Self</source_entity>
+    <target_entity>SELF-NARRATIVE</target_entity>
+    <relationship_description>Realizing non-self directly dismantles the self-narrative; when no “I” is found, thoughts like “I am achieving” lose their power.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSION</source_entity>
+    <target_entity>DEPENDENT ORIGIN</target_entity>
+    <relationship_description>Illusion arises from misperceiving phenomena as real, while dependent origin reveals their conditioned and empty nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU ZHUO</target_entity>
+    <relationship_description>Sheng Zhe exemplifies perfect Wu Zhuo—they are beyond all attachment, including attachment to enlightenment itself, demonstrating the highest non-clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

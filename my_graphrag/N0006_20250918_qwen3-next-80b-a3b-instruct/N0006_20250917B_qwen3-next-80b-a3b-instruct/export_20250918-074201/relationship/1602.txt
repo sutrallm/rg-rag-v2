@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE tu</target_entity>
+    <relationship_description>The enlightened being (Shengzhe) embodies the state of liberation, having fully realized and internalized the path to Jietu.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

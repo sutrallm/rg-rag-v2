@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱之道</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>解脱之道在于中道实践，中道是解脱之道的具体实践方式。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

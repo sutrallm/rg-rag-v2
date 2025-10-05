@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO SHI BENRAN</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO DE ZHIHUI</target_entity>
+    <relationship_description>Liberation being innate (Jietuo shi benran) is the outcome of transcendent wisdom, which sees through the illusion that liberation must be attained—only the removal of obscurations is necessary.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>当下</source_entity>
+    <target_entity>恒常的觉察</target_entity>
+    <relationship_description>恒常的觉察正是通过每一个当下的微细觉知积累而成，当下是恒常觉察的实践单位。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

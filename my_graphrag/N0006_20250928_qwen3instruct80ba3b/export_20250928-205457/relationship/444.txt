@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>聖者安住於無分別的寂靜中，其狀態是禪定與智慧圓滿的體現。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

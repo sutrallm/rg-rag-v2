@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>正念是修行的內核，真正的修行不在形式，而在念念分明的正念實踐。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

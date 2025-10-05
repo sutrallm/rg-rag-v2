@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENGTAO</target_entity>
+    <relationship_description>Chanding is practiced as a means to escape the cycle of birth and death, breaking free from suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>身心变化</source_entity>
+    <target_entity>觉察力</target_entity>
+    <relationship_description>觉察力使修行者如实观察身心变化，不随妄念流转，是禅修中的核心能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

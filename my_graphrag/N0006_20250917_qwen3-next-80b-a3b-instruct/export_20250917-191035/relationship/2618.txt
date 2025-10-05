@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGJIAN YU ZHENGXING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengjian (right view) guides the proper practice of chanding, ensuring it is not misused or misunderstood; chanding is the practice side of the dual path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Nirvana is realized only through present-moment awareness — the direct observation of phenomena without attachment, which extinguishes clinging entirely.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

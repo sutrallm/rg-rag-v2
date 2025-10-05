@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN RIGU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness practice (xiuxin rigu) is the practical method for developing and maintaining chanding, integrating meditation into ordinary activities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

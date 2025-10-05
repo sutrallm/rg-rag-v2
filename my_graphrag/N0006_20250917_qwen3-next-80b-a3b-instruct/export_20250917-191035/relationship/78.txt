@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JOY</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Joy is not liberation itself, but can be a signpost along the path—if not clung to.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

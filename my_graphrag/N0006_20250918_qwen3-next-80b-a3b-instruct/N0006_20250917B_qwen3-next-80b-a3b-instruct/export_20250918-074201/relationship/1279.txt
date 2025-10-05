@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSE OF SELF</source_entity>
+    <target_entity>WORLDLY Dharma</target_entity>
+    <relationship_description>Worldly pursuits arise from and reinforce the illusion of a separate self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

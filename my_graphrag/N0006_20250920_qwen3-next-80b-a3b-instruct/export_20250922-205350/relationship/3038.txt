@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUZHI GUOCHENG</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>True liberation (Nierhua) cannot be achieved if one clings to the notion of having attained something—Buzhi guocheng is its necessary condition.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-CLINGING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The cessation of self-clinging is the direct pathway to liberation, as it removes the fundamental cause of suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

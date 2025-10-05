@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>SAMATHA AND VIPASSANA</target_entity>
+    <relationship_description>SAINTLY BEINGS have perfected the practice of SAMATHA AND VIPASSANA to develop deep concentration and insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

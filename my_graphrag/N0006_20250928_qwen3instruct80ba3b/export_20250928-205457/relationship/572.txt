@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Nirvana is the state that constitutes true awakening — the complete cessation of suffering and liberation from samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

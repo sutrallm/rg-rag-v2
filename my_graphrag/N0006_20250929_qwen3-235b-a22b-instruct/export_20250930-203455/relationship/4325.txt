@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>自我检验</target_entity>
+    <relationship_description>修行者通过自我检验（如是否减少贪嗔、增长安忍等）判断修行是否真实进步。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

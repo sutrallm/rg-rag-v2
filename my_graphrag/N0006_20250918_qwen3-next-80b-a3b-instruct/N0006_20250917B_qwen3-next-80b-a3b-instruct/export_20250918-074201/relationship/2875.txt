@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAYI XING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True meditation (Chanding) arises not through ritual or doctrine, but through practicing according to the Dharma — directly observing and cultivating the mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

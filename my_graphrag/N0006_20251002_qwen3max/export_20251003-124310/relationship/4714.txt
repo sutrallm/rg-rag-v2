@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脱即超越苦；苦的止息是解脱的直接体现，也是四圣谛中“灭谛”的内容。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>持戒清净是禅定的基础，戒为定慧之基，缺戒则定慧难成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

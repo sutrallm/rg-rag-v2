@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>CRAVING is the primary cause of SUFFERING as it leads to attachment and dissatisfaction.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

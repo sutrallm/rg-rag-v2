@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定是智慧的资粮，定力能增强观力，使智慧深入；智慧能引导禅定不堕邪定，二者相辅相成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

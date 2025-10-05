@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>外境</target_entity>
+    <relationship_description>正念使修行者不被外境所动摇，保持内心稳定与觉知。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

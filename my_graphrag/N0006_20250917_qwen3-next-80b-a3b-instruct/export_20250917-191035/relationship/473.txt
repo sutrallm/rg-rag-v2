@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUI</source_entity>
+    <target_entity>SHAN</target_entity>
+    <relationship_description>Jietui manifests as Shan — true liberation is experienced as profound inner peace and stillness, not as any external state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

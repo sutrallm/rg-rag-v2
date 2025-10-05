@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修次第</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅修次第包含从正念收摄散乱到专注深化定力的过程，是达成禅定的循序渐进路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观呼吸</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>观呼吸是对治散乱的有效方法，通过专注呼吸拉回正念，安住当下。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

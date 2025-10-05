@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>PRECEPTS and WISDOM are interrelated aspects of spiritual cultivation in Buddhist practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

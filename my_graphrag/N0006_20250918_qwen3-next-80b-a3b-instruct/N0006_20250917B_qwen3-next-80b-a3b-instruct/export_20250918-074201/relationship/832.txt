@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOWUZHUO</source_entity>
+    <target_entity>WANFA</target_entity>
+    <relationship_description>Chaowuzhuo is the wisdom that directly perceives Wanfa (all phenomena) as impermanent, non-self, and empty, leading to non-attachment to all experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

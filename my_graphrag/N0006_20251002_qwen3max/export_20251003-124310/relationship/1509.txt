@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>缘起</target_entity>
+    <relationship_description>缘起是正见的重要组成部分，用于理解诸法实相，指导止观修习。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>WISE_DISCERNMENT</target_entity>
+    <relationship_description>Saintly qualities are grounded in wise discernment—the direct insight into the nature of the five aggregates and the dissolution of ignorance through wisdom, not ritual.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

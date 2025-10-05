@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO DE ZHISHI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Transcending attachment is based on the direct insight into impermanence — recognizing that all phenomena are fleeting.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

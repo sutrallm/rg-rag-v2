@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>A noble being (shengzhe) inherently possesses moral discipline (jie) as one of the three core qualities essential to their nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

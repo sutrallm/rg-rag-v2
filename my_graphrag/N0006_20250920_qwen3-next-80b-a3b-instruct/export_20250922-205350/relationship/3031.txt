@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>Jiedinghui is the systematic method described as the only path leading to the ultimate liberation of Nierhua.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAGES</source_entity>
+    <target_entity>INGS</target_entity>
+    <relationship_description>Sages have attained ings — liberation is their defining condition, characterized by the cessation of suffering and defilements.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

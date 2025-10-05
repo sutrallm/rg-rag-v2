@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY PATH</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>GREED obstructs progress along the HOLY PATH.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

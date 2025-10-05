@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>煩惱（如貪瞋癡）是導致生死輪迴的根本原因。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

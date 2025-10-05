@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Exertion is the necessary disciplined effort to break free from the cycle of birth and death and attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Samsara—the cycle of suffering—is perpetuated by attachment to self and phenomena; breaking this attachment is the only liberation from rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

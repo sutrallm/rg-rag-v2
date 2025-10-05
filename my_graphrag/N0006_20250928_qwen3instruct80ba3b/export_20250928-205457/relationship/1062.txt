@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念是維持禪定狀態的持續覺知力，若正念鬆懈，禪定即難以維持，故正念是禪定的支撐。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>PERFECT ACCOMPLISHMENT</target_entity>
+    <relationship_description>Cultivating wisdom leads to the realization of perfect accomplishment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

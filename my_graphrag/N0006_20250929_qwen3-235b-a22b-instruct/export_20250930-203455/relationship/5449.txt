@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行成果是修行者实践佛法后内心状态的体现，检验标准在于烦恼减轻、慈悲增长、智慧清晰、行为清净。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

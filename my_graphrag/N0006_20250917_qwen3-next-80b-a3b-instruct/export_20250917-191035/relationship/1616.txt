@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者已達成究竟解脫，其存在即為解脫的體現，是解脫境界的具象化。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

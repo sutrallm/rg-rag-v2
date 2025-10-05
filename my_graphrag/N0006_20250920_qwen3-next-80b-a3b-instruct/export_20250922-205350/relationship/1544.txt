@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIHUI</target_entity>
+    <relationship_description>Chanding provides the stable mental foundation from which wisdom (Jihui) arises; deep concentration enables insight into the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

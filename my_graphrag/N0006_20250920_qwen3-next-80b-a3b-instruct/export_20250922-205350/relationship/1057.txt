@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANZHAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Observation (guanzhao) is the method through which meditative concentration (chanding) is cultivated — not by suppression, but by witnessing phenomena with equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

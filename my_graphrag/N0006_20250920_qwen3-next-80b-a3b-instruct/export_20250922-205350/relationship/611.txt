@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>內觀</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>內觀的核心即是觀察諸行無常，透過持續覺察心與身的變遷，自然體證無常的真理。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

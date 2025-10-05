@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADVANCED PRACTITIONER ATTITUDE</source_entity>
+    <target_entity>EFFORTFUL PRACTICE</target_entity>
+    <relationship_description>The attitude of non-attachment to results is the correct frame for applying effortful practice — effort without grasping.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

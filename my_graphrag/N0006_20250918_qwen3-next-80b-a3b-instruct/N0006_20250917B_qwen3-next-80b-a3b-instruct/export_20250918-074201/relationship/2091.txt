@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNATE_BUDDHA_NATURE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Innate Buddha Nature is uncovered only when Non-Attachment allows one to remove deluded thoughts and return to one’s true, unconditioned nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

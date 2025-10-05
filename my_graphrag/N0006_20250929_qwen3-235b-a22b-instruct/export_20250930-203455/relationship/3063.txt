@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>内心起伏</target_entity>
+    <relationship_description>正念使人不因内心起伏而迷失，内心起伏是正念需觉察并超越的内在状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

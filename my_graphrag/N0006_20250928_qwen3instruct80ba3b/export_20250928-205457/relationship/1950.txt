@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENG NIAN</target_entity>
+    <relationship_description>Chanding is the deepened state of Zheng nian, where mindfulness becomes unwavering and concentrated.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGES</source_entity>
+    <target_entity>HEAVENLY_DEITIES</target_entity>
+    <relationship_description>Heavenly deities hold sages in high regard due to their enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

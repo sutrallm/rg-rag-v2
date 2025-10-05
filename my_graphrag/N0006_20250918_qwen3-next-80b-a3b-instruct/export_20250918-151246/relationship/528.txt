@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>觉悟者因体认无我，故能不造作、不控制、不逃避，自然流通。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

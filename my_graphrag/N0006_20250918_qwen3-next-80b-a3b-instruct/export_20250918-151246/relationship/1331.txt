@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_MINDFULNESS_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness practice is the everyday expression and cultivation of chanding, making meditative stability accessible outside formal retreat settings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

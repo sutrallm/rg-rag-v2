@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>NEGligence</target_entity>
+    <relationship_description>Samadhi enables practitioners to transcend negligence by fostering mindful awareness and discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

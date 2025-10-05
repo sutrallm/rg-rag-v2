@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>JieLv (ethical discipline) provides the external stability needed for the mind to settle into Chanding without guilt or disturbance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

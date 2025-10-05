@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER PEACE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Inner peace is the experiential result of successful Chan Ding practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

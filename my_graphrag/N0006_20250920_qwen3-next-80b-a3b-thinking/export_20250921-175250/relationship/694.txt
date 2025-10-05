@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHYANA</source_entity>
+    <target_entity>SAMADHI</target_entity>
+    <relationship_description>Dhyana and Samadhi are closely related meditative states in Buddhist practice, often used interchangeably to describe deep concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

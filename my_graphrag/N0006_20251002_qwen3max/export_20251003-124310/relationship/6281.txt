@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>觉知通过如实观照身心现象的无常本质，为智慧的生起奠定基础，是通向解脱的重要途径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

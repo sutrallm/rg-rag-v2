@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>根本烦恼</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>痴是根本烦恼之一，指无明、不了知诸法实相，与贪、瞋共同构成轮回之因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

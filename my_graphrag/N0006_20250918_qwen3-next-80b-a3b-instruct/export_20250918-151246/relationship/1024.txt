@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INEFFABLE_SUFFERING</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Suffering arises from misperceiving impermanent phenomena as self; recognizing non-self dissolves the root of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

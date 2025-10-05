@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUI</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Transcending attachment depends on realizing non-self, as clinging is reduced when the illusion of a permanent self is dissolved.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

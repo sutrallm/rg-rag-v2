@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom, when fully developed, leads to the complete release from suffering and the attainment of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六尘</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>六尘是引发贪著与执着的外缘，若不正念观照，则六尘触发执取。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

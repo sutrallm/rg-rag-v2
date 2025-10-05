@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>POCHU WO ZHI</target_entity>
+    <relationship_description>Wuwo (non-self) is the content of pochu wo zhi (breaking the illusion of self)—they are conceptual and practical correlates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

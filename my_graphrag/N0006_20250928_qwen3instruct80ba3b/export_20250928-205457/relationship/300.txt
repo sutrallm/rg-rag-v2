@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Suffering arises because beings cling to things that are impermanent; their instability causes disappointment and dissatisfaction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

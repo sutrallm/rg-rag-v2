@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四大</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>观四大无常是修习智慧的重要方法，通过观身无我，破除对身体的执著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

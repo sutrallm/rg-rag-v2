@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>禪定是通往心解脫的基礎修習方法，透過專注與靜定開發智慧，促成解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

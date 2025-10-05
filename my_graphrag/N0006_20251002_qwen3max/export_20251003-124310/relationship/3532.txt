@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>內觀</source_entity>
+    <target_entity>四聖諦</target_entity>
+    <relationship_description>內觀是證悟四聖諦的實踐方法，透過觀察五蘊無常苦無我而親證苦、集、滅、道。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Continuous mindfulness requires diligence (jingjin); without sustained effort, present-moment awareness easily fades.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

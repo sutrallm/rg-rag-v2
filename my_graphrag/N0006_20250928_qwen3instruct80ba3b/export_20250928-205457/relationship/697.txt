@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>FINAL_LIBERATION</target_entity>
+    <relationship_description>True liberation arises from non-attachment to experiences, outcomes, and views; this is a direct cause of freedom from bondage.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

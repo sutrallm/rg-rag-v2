@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_PRACTICE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is developed in daily practice through moment-to-moment observation of experience, not as abstract theory but as lived insight in real-time reactions and sensations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

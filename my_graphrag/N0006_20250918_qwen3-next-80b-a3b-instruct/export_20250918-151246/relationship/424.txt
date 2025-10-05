@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅坐</source_entity>
+    <target_entity>方便</target_entity>
+    <relationship_description>禅坐是修习禅定的方便手段，属于助缘，不应执著为解脱本身。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

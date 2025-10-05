@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>緣起無我</source_entity>
+    <target_entity>無我觀照</target_entity>
+    <relationship_description>無我觀照是修行者對緣起無我實相的實踐與證悟，二者為理論與實踐的關係。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

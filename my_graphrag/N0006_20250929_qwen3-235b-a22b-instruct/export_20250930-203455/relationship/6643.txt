@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>慈悲智慧</target_entity>
+    <relationship_description>修行者在日常实践中的待人接物应以慈悲智慧为本，使修行融入生活并持续增上功德。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

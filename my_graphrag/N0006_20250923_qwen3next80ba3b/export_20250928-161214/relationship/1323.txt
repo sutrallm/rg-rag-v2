@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATIENCE</source_entity>
+    <target_entity>MENTAL CULTIVATION</target_entity>
+    <relationship_description>PATIENCE is a key component of MENTAL CULTIVATION efforts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

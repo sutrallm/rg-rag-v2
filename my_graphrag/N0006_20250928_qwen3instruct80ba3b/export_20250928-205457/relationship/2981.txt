@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Wisdom is the faculty that directly perceives and verifies the truth of non-self, making it the essential cognitive driver of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

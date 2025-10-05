@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMINGHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wisdom (hui) in the threefold training is the means to realize non-self (wuwo); thus, jie ming hui leads directly to this insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

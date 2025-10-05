@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>內惑</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>內惑是擾動心念的內因，聖者能安住寂靜，因已斷內惑。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

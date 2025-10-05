@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>A saintly being is defined by the complete cessation of defilements — greed, hatred, and delusion — which marks full spiritual maturity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

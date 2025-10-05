@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>EFFORTFUL_PRACTICE</target_entity>
+    <relationship_description>Advanced practitioners achieve saintly qualities only through relentless and consistent effort in cultivation over time.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

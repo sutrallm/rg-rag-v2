@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>NON_ATTACHING_WISDOM</target_entity>
+    <relationship_description>A sage possesses profound non-attaching wisdom, enabling them to remain unaffected by pleasure or pain and to see reality as it is.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SINIANCHU</source_entity>
+    <target_entity>SHENGMIAN</target_entity>
+    <relationship_description>Sinianchu systematically cultivates and applies Shengmian in all aspects of experience, serving as its formal framework.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

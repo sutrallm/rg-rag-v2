@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhennian is the active mechanism through which chanding is maintained; mindfulness sustains concentration in all states of being.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

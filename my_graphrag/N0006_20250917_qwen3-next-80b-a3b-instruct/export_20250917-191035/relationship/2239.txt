@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>輪迴</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>精進是為了脫離輪迴的束縛，修行者因恐懼輪迴而生精進心，精進則破除輪迴。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

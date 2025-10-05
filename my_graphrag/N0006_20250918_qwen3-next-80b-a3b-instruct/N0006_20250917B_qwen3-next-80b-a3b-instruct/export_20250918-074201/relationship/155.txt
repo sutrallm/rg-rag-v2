@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Jing Jin provides the sustained energy and discipline necessary to maintain and deepen Chan Ding practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

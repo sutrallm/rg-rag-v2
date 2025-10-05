@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>CAUSE OF SUFFERING</target_entity>
+    <relationship_description>CRAVING is the primary CAUSE OF SUFFERING according to Buddhist teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

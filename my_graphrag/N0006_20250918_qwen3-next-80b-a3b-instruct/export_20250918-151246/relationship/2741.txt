@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDUSTRY</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous industry (effort) is required to establish and maintain chanding; without consistent practice, meditation fades and the mind returns to distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

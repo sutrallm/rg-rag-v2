@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIUDE</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description> Moral purity (jiude) is the necessary foundation for developing concentration (ding); without ethical conduct, meditative stability cannot arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

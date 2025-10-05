@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding relies on sustained mindfulness to achieve focused concentration and inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

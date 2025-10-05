@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧解脫</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>慧解脫與心解脫是修行究竟解脫的兩個面向，相輔相成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

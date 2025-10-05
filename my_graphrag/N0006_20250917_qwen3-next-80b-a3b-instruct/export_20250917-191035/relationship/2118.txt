@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUDAO</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Ding is the supporting condition on the path, described as “定为资粮,” essential for developing higher insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

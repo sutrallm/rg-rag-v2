@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>涅槃即是放下一切執著的狀態，執著的止息即為涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

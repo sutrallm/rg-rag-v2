@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>觉知是修行在日常生活中的具体实践方式，一切行为皆可成为觉知的对象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

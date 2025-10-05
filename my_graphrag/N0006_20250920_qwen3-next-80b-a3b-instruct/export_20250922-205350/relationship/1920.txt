@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>證悟無我是斷除「我執」的關鍵，而「我執」是苦與輪迴的根源，故無我直接通向解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正思维</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正思维用于对治烦恼，通过导向无贪、无嗔、无害的心理活动，净化内心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

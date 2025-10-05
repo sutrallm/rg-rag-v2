@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zhengnian safeguards the mind from defilements, creating conditions where Niepan can naturally manifest through non-clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

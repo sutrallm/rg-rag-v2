@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingjin is the sustained effort required to develop and maintain Chanding, preventing slackness and distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

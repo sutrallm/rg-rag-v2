@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>佛陀教导三学（戒定慧）作为修行的根本路径，三学是其教法的核心框架。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

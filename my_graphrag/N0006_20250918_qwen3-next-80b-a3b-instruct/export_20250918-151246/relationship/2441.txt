@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_OF_NON_ATTACHMENT</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom of non-attachment arises from directly seeing and accepting impermanence in all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>FEELINGS</target_entity>
+    <relationship_description>Mindfulness includes awareness and observation of emotional feelings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

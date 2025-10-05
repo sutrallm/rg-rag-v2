@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The illusion of a fixed self is the root of attachment and aversion; realizing no-self dissolves the ego-based causes of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

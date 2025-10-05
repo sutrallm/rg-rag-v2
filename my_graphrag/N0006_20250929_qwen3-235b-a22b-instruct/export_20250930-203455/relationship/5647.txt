@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实相</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>止观双运的目的是深入实相，使修行者成就究竟智慧，如实知见诸法真实本性。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIGURATIVE_LANGUAGE</source_entity>
+    <target_entity>DOCTRINAL_REPRESENTATION</target_entity>
+    <relationship_description>FIGURATIVE_LANGUAGE is converted into DOCTRINAL_REPRESENTATION.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

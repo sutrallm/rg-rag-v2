@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>EXTERNAL SENSORY OBJECTS</target_entity>
+    <relationship_description>MEDITATION practice helps the mind remain undisturbed by EXTERNAL SENSORY OBJECTS.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

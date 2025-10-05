@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>聖者之所以能內心無染、不為榮辱所動，是因其已徹底體證無我，不再以自我為中心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

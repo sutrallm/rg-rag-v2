@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>生死已尽</target_entity>
+    <relationship_description>“生死已尽”是解脱者自证的四种确定之一，表示生死轮回的终结。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

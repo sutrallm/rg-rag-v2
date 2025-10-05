@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒行</target_entity>
+    <relationship_description>圣者具备清净戒行，戒行是圣者成就智慧与禅定的道德基础，是其特质的组成部分。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

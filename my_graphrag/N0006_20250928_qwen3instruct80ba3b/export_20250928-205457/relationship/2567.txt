@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>五蘊的本質揭示了「我」的虛幻性，「無我」正是對五蘊真實本質的正確了悟。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

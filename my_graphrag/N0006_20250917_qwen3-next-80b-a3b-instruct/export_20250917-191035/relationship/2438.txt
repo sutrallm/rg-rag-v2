@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>煩惱是驅動眾生在輪迴中不斷生死循環的直接力量，唯有止息煩惱才能脫離輪迴。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

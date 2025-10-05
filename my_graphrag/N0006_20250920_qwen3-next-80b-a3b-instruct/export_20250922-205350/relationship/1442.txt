@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MAOZHI</source_entity>
+    <target_entity>ANYUAN</target_entity>
+    <relationship_description>Maozhi allows direct insight into anyuan (dependent origination) by watching phenomena arise and cease in dependence on conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

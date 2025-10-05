@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINYU XING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Zhengnian is among the core daily practices manifesting the unity of faith and action—mindfulness is the lived expression of belief.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Precepts prevent the arising of greed and defilement.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

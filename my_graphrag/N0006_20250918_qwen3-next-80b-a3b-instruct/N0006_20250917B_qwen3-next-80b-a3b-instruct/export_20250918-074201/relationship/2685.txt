@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Non-attachment is both a practice and a result of awakening; it is essential to achieving true freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

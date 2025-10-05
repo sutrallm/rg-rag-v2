@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STATE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Recognizing states as transient prevents clinging to them.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不取不舍</source_entity>
+    <target_entity>念头生灭</target_entity>
+    <relationship_description>在禅定中觉察念头生灭时应不取不舍，如云过虚空般自然观待。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

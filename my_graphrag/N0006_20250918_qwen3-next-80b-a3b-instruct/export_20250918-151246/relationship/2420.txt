@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARD_OF_SAINTHOOD</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>A saintly being has transcended aversion and hatred, remaining equanimous in all circumstances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

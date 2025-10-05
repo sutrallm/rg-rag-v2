@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhennian involves continuously observing Wuchang (impermanence) in all activities, which is the foundation of liberating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

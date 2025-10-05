@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行成果如轻安、喜悦等是禅定与智慧增长的自然结果，非刻意追求。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

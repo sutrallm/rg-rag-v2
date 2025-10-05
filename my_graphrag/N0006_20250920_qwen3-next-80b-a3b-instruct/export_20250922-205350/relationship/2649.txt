@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANZHAO WUCHANG</source_entity>
+    <target_entity>CHIYU</target_entity>
+    <relationship_description>Guangzao wuchang (contemplation of impermanence) is the practical method through which Chiyu (wisdom) is cultivated, directly observing the transient nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

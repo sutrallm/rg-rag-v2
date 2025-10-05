@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>STABILITY</target_entity>
+    <relationship_description>Meditation cultivates mental stability through focused attention and calming the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

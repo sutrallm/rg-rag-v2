@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHEN</source_entity>
+    <target_entity>SIHAI</target_entity>
+    <relationship_description>Hatred generates negative karma and inner turbulence, reinforcing the cycle of suffering and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

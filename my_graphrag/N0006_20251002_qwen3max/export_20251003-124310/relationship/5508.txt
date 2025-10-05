@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>修行者若能时时警觉、不懈怠（即不放逸），便能避免被生死轮回的势力所控制。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

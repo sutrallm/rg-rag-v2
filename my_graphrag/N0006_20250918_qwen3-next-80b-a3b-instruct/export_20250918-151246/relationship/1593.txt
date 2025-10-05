@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WARENESS_IN_DAILY_LIFE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Awareness in daily life is the practical application of mindfulness in ordinary activities, extending meditation beyond seated practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

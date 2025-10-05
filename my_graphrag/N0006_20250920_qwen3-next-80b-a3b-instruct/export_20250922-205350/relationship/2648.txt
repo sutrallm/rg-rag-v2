@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI YIQIE</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>She li yiqie (complete letting go) is the very means to attain Nierhua (nirvana); the absence of clinging defines the state of ultimate peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

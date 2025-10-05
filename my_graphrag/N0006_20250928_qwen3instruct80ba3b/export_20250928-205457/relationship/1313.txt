@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSE-OF-SELF</source_entity>
+    <target_entity>NIBBANA</target_entity>
+    <relationship_description>The eradication of the sense-of-self is the essential condition for attaining nibbana, as the belief in self is the source of all attachment and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

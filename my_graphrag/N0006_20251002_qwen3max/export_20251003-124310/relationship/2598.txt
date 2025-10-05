@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>散亂</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>散亂是禪定的主要障礙；透過專注與正念遠離散亂，方能成就禪定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

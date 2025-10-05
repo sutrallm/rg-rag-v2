@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>正思惟</target_entity>
+    <relationship_description>正思惟是八正道的第二支，指离贪、无恚、无害的思维方向。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

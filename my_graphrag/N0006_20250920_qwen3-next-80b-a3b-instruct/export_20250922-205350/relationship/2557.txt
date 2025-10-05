@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Wuwo is the doctrinal foundation of Wuzhu: realizing non-self leads directly to the practice of non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

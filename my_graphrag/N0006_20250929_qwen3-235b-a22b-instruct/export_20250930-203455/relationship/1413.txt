@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是修行者修行的核心，需时刻保持觉知，不被外境牵引。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

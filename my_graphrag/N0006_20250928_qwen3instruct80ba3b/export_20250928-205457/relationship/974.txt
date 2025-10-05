@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Death is symbolically and literally part of the cycle of rebirth, brought on by ignorance and attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

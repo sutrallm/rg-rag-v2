@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死轮回</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>放逸会让人落入生死轮回的掌控之中，而不放逸是迈向解脱、超越生死轮回的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

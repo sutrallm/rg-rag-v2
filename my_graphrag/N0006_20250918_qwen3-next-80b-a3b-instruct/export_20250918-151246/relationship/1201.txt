@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Aversion, like craving, is fueled by identification with a self that is threatened or displeased. Understanding non-self weakens the ground for aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

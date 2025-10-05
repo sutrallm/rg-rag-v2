@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>正业</target_entity>
+    <relationship_description>正业是八正道的第四支，指不杀生、不偷盗、不邪淫，属于戒的范畴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

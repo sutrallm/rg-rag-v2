@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>日常实践中以定为用，意味着在日常活动中保持心念专注与稳定，延续禅定状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

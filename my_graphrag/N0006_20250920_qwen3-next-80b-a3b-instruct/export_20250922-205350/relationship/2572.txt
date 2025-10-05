@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>雜染</target_entity>
+    <relationship_description>清淨戒行是斷除雜染的基礎手段，二者是對治與被對治的關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

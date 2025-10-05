@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>DISASTER</target_entity>
+    <relationship_description>PRECEPTS prevent DISASTER by avoiding harmful actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

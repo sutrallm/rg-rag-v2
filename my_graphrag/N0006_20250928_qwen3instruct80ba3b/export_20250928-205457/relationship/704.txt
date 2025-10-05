@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FINAL_LIBERATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Final liberation is the direct result of non-attachment; one is freed precisely when clinging to “having” or “not having” ceases.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

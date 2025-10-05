@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO BU KAO SHENLI, ER KAO ZIXIN JUEWU</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>According to this principle, liberation is achieved by confronting and uprooting one’s own mental afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

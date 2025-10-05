@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Insight into inherent suffering diminishes attachment to worldly experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

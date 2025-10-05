@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWEI</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>Xiuwei (daily spiritual transformation) is the practical means through which Jiefang (liberation) is realized in ordinary life, not in retreat or ritual alone.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

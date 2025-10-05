@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>天界众生</target_entity>
+    <relationship_description>戒定慧具足、超越生死苦海的修行者令天界众生心生敬仰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEZHU</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zezhu—non-attachment—is the direct path to Nie Pan, as liberation arises from letting go of clinging even to spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

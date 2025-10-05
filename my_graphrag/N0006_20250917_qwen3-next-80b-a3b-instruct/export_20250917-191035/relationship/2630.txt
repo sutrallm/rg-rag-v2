@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Attachment and aversion are two sides of the same coin — both are reactive states of clinging — and together they form the foundation of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

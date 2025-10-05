@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>圣者以中道而行，超越有无二边，安住于如实智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

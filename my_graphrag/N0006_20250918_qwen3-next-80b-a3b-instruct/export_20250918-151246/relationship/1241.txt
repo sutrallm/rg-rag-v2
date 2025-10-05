@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN DE CIDI</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO DE ZHISHI</target_entity>
+    <relationship_description>The final stage of mental cultivation is transcendent wisdom, which arises from deepening insight into the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

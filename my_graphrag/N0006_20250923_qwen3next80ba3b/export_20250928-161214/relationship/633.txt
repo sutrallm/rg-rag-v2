@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Maintaining precepts cultivates deeper wisdom and clarity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

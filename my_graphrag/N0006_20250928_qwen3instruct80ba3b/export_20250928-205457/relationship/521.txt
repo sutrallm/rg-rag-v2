@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUAN QI XING KONG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Dependent origination and emptiness are the philosophical underpinnings that validate the insight of non-self (wuwo).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

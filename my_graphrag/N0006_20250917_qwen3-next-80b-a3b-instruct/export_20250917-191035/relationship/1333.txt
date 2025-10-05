@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO LIBERATION</source_entity>
+    <target_entity>PRESENT-MOMENT AWAKENING</target_entity>
+    <relationship_description>The path to liberation is defined as being fully aware in the present moment; thus, present-moment awareness is the practical manifestation of the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知力</source_entity>
+    <target_entity>妄念</target_entity>
+    <relationship_description>觉知力体现在如实觉知妄念的生灭，不压抑也不追逐，是净化内心的关键实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>依循正法可以断绝生死轮回的束缚</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

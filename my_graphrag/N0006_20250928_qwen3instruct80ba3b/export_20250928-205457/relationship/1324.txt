@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Zhennian and Jingjin are mutually reinforcing: mindfulness is sustained by diligence, and diligence is directed by mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUWO KONGGUAN</target_entity>
+    <relationship_description>Through deep chanding, one develops the clarity to observe the emptiness and impermanence of phenomena, leading to non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

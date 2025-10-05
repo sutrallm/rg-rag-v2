@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUAO BU SHOU SHI KONG JI XIAN ZHI</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>True liberation arises from dispelling ignorance (Wu Ming) through truthful observation of the present moment, not through external rituals.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

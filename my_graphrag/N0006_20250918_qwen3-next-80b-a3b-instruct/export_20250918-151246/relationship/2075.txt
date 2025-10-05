@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>放逸导致无明与懈怠，使人沉溺轮回，无法自拔，是阻碍解脱的直接心理状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

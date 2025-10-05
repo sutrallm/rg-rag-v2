@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>专注</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>专注使心稳固安住，避免被烦恼扰动，从而获得寂静。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

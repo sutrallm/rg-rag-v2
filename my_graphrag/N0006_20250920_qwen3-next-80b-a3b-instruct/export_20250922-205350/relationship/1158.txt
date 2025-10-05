@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Niepan occurs when Wuming — ignorance of the true nature of reality — is fully eradicated through insight and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

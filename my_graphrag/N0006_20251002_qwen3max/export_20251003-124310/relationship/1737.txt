@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>放逸是懈怠的表现，而精进是其对治；文本强调唯有精进不懈才能真正守护自心、远离放逸的侵蚀。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

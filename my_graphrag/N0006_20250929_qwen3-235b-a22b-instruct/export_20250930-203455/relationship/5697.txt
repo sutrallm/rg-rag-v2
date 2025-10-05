@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>无我观通过对五蕴（色受想行识）的观察，确认其无常无我，破除我执。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

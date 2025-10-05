@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIKONG</source_entity>
+    <target_entity>CHAOWUZHUO</target_entity>
+    <relationship_description>Sikong is the realization of Chaowuzhuo — the profound insight that all phenomena are not-self, leading to complete release from clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

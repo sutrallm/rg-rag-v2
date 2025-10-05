@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>忍耐</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>忍耐是直接对治嗔恚的修行方法，通过不报复而断除嗔恨之根。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

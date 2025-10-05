@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>喜樂</source_entity>
+    <target_entity>三禪</target_entity>
+    <relationship_description>三禪捨離「喜」，僅保留「樂」，是對喜樂的進一步純化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Wu Wo (no-self) is directly known through insight into Wu Chang (impermanence) — recognizing that all things, including the self, are constantly changing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

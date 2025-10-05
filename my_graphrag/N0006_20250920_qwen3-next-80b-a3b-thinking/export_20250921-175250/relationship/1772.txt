@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STABILITY</source_entity>
+    <target_entity>PURITY</target_entity>
+    <relationship_description>Inner stability allows the mind to naturally attain purity of thought and emotion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

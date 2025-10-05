@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>緣起</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>緣起是智慧理解萬法如何生起與消滅的原理，與無常、無我共同構成三法印。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

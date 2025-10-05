@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观双运</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>止观双运使修行者能够如实知见四圣谛，从而证得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

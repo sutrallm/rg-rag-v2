@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHANG</target_entity>
+    <relationship_description>Chanding enables the practitioner to cultivate non-attachment by quieting the mind and stopping identification with transient experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

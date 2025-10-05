@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION</source_entity>
+    <target_entity>PROCESSING</target_entity>
+    <relationship_description>TRANSLATION is a component part of the overall PROCESSING procedure.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

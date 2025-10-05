@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLEAR MIND AND SEE NATURE</source_entity>
+    <target_entity>CALMING AND INSIGHT</target_entity>
+    <relationship_description>CLEAR MIND AND SEE NATURE is the prerequisite practice stage before cultivating CALMING AND INSIGHT.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

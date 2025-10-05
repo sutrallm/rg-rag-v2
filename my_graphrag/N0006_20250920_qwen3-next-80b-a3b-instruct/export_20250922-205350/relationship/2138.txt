@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIZHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhizhi uses Chanding as the stable mental platform from which to observe and understand the true nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

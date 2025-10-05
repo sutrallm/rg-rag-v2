@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Liberation represents escape from the cycle of samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>BRIGHT LAMP</target_entity>
+    <relationship_description>Wisdom is metaphorically described as a bright lamp that dispels ignorance and illuminates the true nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

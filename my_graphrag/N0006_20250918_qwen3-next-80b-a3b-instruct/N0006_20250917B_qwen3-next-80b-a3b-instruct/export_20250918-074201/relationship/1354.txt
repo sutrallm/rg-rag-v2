@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAITUAL SACRIFICES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Ritual sacrifices are considered external and insufficient for achieving Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

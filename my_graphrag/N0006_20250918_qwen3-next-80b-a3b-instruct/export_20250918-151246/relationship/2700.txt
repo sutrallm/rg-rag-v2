@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>FO</target_entity>
+    <relationship_description>A Sage is one who has fully realized Buddha-nature; thus, in essence, a Sage is Fo.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

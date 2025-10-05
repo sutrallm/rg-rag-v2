@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realization of Impermanence is a foundational insight leading to Nirvana, as one stops reacting emotionally to transient phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

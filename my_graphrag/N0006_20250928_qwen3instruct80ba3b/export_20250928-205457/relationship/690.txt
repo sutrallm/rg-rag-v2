@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Wisdom is the direct insight into no-self, which dismantles egoic clinging and leads to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

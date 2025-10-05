@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRIPOD_OF_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Concentration (samadhi) is the second stage in the tripod, developed after moral discipline and leading to wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

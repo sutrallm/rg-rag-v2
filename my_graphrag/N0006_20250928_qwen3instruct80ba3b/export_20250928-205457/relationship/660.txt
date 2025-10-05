@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUNYATA (EMPTINESS)</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Realizing sunyata directly dissolves ego-clinging, making non-attachment natural and spontaneous.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

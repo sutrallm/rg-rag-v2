@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENZHENG YUANLI</source_entity>
+    <target_entity>YUANYU</target_entity>
+    <relationship_description>True detachment is defined by inner freedom from the five desires — the mental clinging that Zhenzheng Yuanli transcends.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

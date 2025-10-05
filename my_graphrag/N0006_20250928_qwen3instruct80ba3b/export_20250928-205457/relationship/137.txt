@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>EMPTY_NATURE</target_entity>
+    <relationship_description>No-Self is a manifestation of Empty Nature when applied to the concept of individual identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

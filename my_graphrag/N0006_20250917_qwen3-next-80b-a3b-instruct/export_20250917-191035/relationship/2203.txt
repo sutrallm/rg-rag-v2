@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDING_ATTACHMENT</source_entity>
+    <target_entity>ILLUSORY_NATURE</target_entity>
+    <relationship_description>超越执着的智慧建立在洞察一切如幻化的基础之上，二者互为因果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

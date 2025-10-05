@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JI DING HUI</source_entity>
+    <target_entity>SHENGTZHE</target_entity>
+    <relationship_description>The perfect cultivation of Ji Ding Hui results in the attainment of Shengtze — a fully liberated being.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

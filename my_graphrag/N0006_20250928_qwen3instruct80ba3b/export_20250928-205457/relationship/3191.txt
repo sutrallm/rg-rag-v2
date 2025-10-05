@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIECHU</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jiechu is the process, and Niepan is the final state—liberation leads to nirvana, the cessation of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

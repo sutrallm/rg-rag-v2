@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺照</source_entity>
+    <target_entity>究竟解脫</target_entity>
+    <relationship_description>覺照之力能令修行者步步踏實，穩穩走向究竟解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

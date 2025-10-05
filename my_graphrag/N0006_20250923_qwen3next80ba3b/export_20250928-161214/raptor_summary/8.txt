@@ -1,0 +1,3 @@
+<heading>Source Text Required for Translation<\heading>
+"原文如下：--------------" placeholder has no text following it.  
+Users must provide the source text for translation.

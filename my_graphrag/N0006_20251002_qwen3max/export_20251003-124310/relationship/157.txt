@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>正念能有效防护六根，不令贪瞋等烦恼趁隙而入。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

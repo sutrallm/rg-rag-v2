@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>修行者須時刻保持不放逸的態度，方能掌握禪定之道並趣向解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

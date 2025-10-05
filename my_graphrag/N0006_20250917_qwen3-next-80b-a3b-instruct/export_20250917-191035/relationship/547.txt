@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>禅定需要通过精进修行来维持和深化，否则容易因懈怠而退失。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

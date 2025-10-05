@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin (diligent practice) is the essential means to establish and sustain chanding (meditative absorption); without diligence, chanding cannot be stabilized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

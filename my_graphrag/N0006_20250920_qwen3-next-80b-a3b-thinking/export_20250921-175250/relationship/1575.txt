@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文</source_entity>
+    <target_entity>标题结构</target_entity>
+    <relationship_description>原文的标题结构需优化调整。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

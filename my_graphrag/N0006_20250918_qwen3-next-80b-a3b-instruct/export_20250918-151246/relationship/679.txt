@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PRESENCE_OF_MIND</target_entity>
+    <relationship_description>Chanding is cultivated through presence of mind, which involves steady, non-judgmental awareness of the present moment as a foundational practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

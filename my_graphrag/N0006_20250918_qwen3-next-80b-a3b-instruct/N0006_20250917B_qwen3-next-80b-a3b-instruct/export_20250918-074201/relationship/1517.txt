@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greedy craving is one of the three primary defilements (along with aversion and delusion) that perpetuate suffering and ignorance.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

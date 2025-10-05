@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>错误见解</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者必须舍弃错误见解如我见、常见等，否则会障碍解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

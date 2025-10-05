@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding alone is not liberation; true freedom comes from wisdom that sees the emptiness of meditative experiences, preventing attachment to them.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

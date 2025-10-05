@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>聖者已證得涅槃，其心無所依著，完全超越生死與執取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

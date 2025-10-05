@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止觀</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>止觀雙修是斷除煩惱、趨向究竟解脫的根本方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

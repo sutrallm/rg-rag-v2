@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>True chanding is incomplete without wisdom; wisdom ensures that meditative states are not clung to and leads to deeper insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

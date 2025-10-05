@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>BEE</target_entity>
+    <relationship_description>The practitioner learns from the bee's behavior to gather wisdom without attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

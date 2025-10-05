@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Shengzhe possesses ultimate zhihui (wisdom), which allows them to be free from attachment, aversion, and ignorance—the defining traits of enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

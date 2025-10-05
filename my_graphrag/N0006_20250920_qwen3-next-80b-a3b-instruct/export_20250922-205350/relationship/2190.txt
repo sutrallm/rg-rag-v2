@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>A Shengzhe is one who has already attained Jiefang, having extinguished all defilements and no longer being bound by worldly conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

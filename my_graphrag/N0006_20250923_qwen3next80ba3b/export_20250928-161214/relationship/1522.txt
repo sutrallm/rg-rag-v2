@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>SUFFERING OF BIRTH AND DEATH</target_entity>
+    <relationship_description>SAGE transcends the SUFFERING OF BIRTH AND DEATH inherent in samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

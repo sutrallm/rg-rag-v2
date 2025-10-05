@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道修行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>中道修行是达成解脱的正确实践路径，避免极端，稳定于不执不染的修行状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

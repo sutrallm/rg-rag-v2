@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真理</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是对真理（无我、无常、无住）的亲证，真理是智慧的对象，智慧是体认真理的能力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

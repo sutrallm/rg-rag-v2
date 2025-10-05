@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF_OBSERVATION</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>Non-self observation is practiced by analyzing the five aggregates as impermanent and non-self, making them the direct object of this contemplative practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

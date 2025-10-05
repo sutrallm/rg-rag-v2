@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三结</source_entity>
+    <target_entity>疑</target_entity>
+    <relationship_description>疑是三结之一，指对佛法僧或四圣谛的怀疑。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

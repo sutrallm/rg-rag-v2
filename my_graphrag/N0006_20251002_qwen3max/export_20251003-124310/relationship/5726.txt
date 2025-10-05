@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四無量心</source_entity>
+    <target_entity>禪定修行</target_entity>
+    <relationship_description>四無量心的修習能擴展心量，破除瞋恨與執著，為禪定奠定心理基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLAIN LANGUAGE EXPLANATION</source_entity>
+    <target_entity>REQUIREMENTS</target_entity>
+    <relationship_description>The plain language explanation must adhere to user requirements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

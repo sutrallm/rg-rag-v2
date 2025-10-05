@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN XING</source_entity>
+    <target_entity>XING HAI</target_entity>
+    <relationship_description>心性清净是超越形骸束缚的根本，形骸差异皆非关键，心性决定真实解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DECLINE</target_entity>
+    <relationship_description>Through chanding, one gains insight into decline (impermanence) and thus avoids being overwhelmed by it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

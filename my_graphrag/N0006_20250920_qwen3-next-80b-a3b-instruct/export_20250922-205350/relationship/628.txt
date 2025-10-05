@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>忧悲苦恼</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已超越忧悲苦恼，此为其内心澄明无染的必然结果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

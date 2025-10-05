@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Nirvana is not attained through chanding alone, but chanding is a necessary supportive condition for the arising of the wisdom that leads to nirvana.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

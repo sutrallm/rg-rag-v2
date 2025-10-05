@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃寂静</target_entity>
+    <relationship_description>涅槃寂静是解脱的最终体现状态，解脱即当下安住于无苦的涅槃寂静。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

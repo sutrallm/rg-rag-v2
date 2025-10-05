@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMONTI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin is the driving force behind each stage of jiemonti, ensuring persistent progress on the path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE LIBERATION</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>True liberation involves the cessation of hatred and aversion, leading to inner peace and equanimity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

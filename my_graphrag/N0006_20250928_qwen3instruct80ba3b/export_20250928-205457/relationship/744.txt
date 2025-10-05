@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋恚</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>瞋恚作為三毒之一，是驅動眾生造業、持續輪迴的業因。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观双运</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>止观双运中的“止”即指禅定，是该修行方法的组成部分之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

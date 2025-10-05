@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUJING</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wujing (five aggregates) are the components that are falsely perceived as a self; realizing that these are transient and non-self is the essence of wuwo (no-self).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

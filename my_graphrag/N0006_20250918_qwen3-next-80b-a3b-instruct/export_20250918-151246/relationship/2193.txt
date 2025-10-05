@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Libertion requires the dissolution of hatred, as aversion perpetuates suffering and blocks inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

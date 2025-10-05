@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>五蘊是構成「我」之幻覺的集合，無我觀即是看破五蘊非「我」、非「我所」的實相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUESTION</source_entity>
+    <target_entity>TEXT PROMPT</target_entity>
+    <relationship_description>The current question includes a text prompt as part of its structure, indicating where the original content should be placed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

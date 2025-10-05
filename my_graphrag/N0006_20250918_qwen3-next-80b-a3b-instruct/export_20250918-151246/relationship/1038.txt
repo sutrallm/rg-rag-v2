@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE FIVE AGGREGATES</source_entity>
+    <target_entity>NO-Self</target_entity>
+    <relationship_description>The Five Aggregates are the components mistakenly identified as “self”; recognizing their transient, composite nature leads directly to insight into no-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

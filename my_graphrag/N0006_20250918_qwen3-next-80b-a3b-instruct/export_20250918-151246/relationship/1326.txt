@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>ETHICAL DISCIPLINE</target_entity>
+    <relationship_description>Enlightened beings are characterized by strict ethical discipline as an expression of their inner purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KUZHENGJIAN</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Kuzhengjian (right view of suffering) develops wisdom (Hui) by transforming suffering from an object of aversion into an object of mindful inquiry.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

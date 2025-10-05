@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Delusion is the root of the three poisons, particularly ignorance that fuels greed and hatred.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

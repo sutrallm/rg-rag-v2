@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>超越执着的智慧使修行者不执取任何境界，彻底脱离得失心，是达成解脱的核心洞察力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

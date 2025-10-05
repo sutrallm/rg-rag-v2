@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is realized only through sustained attention to the present moment; without this, meditation becomes conceptual.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

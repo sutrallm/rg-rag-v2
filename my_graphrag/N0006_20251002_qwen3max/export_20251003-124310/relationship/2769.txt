@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>禅修境界</target_entity>
+    <relationship_description>禅修境界属于缘起法，因其依因缘而生，本质无常。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

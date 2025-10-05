@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Chanding allows one to remain equanimous in the face of aversion, neither suppressing nor identifying with it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

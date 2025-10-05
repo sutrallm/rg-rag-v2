@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>执着是无常观所对治的对象，通过观察无常、苦、无我，能有效破除对境界与得失的执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

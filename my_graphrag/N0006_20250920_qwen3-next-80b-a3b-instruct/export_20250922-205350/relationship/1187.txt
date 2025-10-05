@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Through meditation (chanding), one observes the fleeting nature of thoughts and sensations, directly realizing that nothing can be claimed as “I” or “mine,” thus realizing no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin strengthens and sustains chanding; without diligent effort, meditative concentration cannot be stabilized or deepened.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

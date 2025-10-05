@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定的作用之一即是脱离贪嗔的缠缚，两者构成修行中的对立与对治关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

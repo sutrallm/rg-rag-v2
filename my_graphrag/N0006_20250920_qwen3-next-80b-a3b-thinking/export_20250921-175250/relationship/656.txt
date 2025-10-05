@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>万法缘起性空</source_entity>
+    <target_entity>世界</target_entity>
+    <relationship_description>万法缘起性空揭示“世界”仅为假名，本质为空性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

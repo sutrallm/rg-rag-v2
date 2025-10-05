@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>XINXI</target_entity>
+    <relationship_description>Nirvana is not attained through rituals but through the internal work of heart-mind cultivation—making xinxi the direct path to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

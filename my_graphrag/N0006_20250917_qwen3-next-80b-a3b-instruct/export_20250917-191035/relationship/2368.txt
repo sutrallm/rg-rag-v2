@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiuxin is the practical application of chanding in daily life, manifesting mindfulness in all activities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

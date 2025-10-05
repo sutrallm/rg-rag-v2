@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROGRESSIVE PRACTICE</source_entity>
+    <target_entity>LAZINESS</target_entity>
+    <relationship_description>Progressive practice is the antidote to laziness—sustained effort prevents spiritual inertia and compels forward movement on the path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

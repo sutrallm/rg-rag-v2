@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>缘起法说明一切现象无独立自性，支持无我的教义，二者共同构成佛教对实相的理解。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

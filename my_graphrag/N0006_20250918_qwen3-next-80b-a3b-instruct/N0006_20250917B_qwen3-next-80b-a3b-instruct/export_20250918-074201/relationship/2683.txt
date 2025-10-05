@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>REBIRTH_CYCLE</target_entity>
+    <relationship_description>Continuous exertion is necessary to break free from the cycle of rebirth and attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

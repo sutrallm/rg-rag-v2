@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUDE</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Wude dissolves Wuming (ignorance) by removing the egoic notion of "I attain" which is the root of delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

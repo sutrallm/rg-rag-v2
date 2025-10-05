@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCAI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The five aggregates (wucai) are the objects of analysis through which the realization of non-self (wuwo) is developed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

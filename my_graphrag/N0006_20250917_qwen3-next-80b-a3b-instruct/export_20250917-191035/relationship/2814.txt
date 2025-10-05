@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LETTING GO</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Letting go is the active practice of releasing attachment, the very mechanism that frees the mind from bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

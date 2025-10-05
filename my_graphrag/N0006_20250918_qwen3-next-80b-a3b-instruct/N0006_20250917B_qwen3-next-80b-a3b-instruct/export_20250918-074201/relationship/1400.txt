@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒行</target_entity>
+    <relationship_description>圣者必须具备清净戒行，这是守护心念、成就智慧的基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

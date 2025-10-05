@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>A saint is free from anger and aversion, having fully transcended the three poisons.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

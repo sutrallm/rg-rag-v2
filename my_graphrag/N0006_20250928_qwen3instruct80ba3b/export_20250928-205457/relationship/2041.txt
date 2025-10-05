@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcending attachment arises directly from the insight into non-self (wuwo), where nothing is seen as permanent or "mine."</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

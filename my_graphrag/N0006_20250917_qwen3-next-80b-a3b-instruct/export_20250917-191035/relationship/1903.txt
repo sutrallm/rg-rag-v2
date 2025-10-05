@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>恒常觉照</target_entity>
+    <relationship_description>恒常觉照是禅定的深化与持续实践，强调日常生活中不中断的正念，是禅定的延展形态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

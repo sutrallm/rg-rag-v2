@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>智慧通过修习无常观得以增长，无常观帮助洞察世间无常，破除执着，是智慧的重要体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

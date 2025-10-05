@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSIENCE</source_entity>
+    <target_entity>NON_ATTACHING_WISDOM</target_entity>
+    <relationship_description>Understanding transience is the foundation of non-attaching wisdom, allowing one to remain equanimous toward all experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>INNER LIGHT</target_entity>
+    <relationship_description>Observing moral precepts stabilizes the mind and manifests inner light.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Chanding supports the arising of Zhihui by calming the mind, allowing clear insight into the nature of reality; true concentration leads to wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

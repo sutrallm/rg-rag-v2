@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>RELEASING</target_entity>
+    <relationship_description>Wisdom enables the release of all conceptual attachments, including attachment to enlightenment or spiritual attainment, which is the essence of true letting go.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

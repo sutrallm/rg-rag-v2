@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>解脫者</target_entity>
+    <relationship_description>解脫者已證得心解脫，其心不執外境、禪定或果位，呈現如虛空般的自在狀態。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

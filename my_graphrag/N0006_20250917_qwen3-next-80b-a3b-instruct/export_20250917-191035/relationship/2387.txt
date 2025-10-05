@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUE CHA</source_entity>
+    <target_entity>SHENG JIE</target_entity>
+    <relationship_description>Sheng jie is not a distant goal but is expressed through continuous Jue cha — awakening is present in every moment of mindful awareness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

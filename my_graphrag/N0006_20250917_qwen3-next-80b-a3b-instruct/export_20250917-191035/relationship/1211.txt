@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Fo provides the original teaching that mandates Jingjin as a necessary practice on the path to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

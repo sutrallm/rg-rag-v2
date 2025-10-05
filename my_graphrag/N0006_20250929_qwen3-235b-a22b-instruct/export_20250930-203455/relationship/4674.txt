@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念可转化净化烦恼心念，使心性本净自然显现，如浊水自清。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

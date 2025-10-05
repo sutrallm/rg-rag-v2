@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱的目标即是彻底断尽烦恼，二者为对立关系，断烦恼即得解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>放逸使修行者被烦恼与无明所乘，落入生死魔掌，即生死轮回的束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

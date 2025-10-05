@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDUSTIOUSNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous effort (industriousness) is necessary to protect and strengthen meditative absorption against regression into dullness and desire.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

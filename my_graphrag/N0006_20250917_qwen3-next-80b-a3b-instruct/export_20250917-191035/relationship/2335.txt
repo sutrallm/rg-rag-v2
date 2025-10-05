@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGRZHE</source_entity>
+    <target_entity>WU-YU</target_entity>
+    <relationship_description>A Shengzhe is unmoved by Wu-yu (five desires), having transcended sensory clinging through wisdom and discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

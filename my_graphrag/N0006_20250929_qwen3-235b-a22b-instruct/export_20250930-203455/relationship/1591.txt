@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心的自由</target_entity>
+    <relationship_description>修行者通过持续修行最终达到心的自由状态，即无执无碍、如虚空般自在。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

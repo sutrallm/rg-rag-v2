@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者之所以为圣者，是因为具足如实智慧，这是其心行特征的核心依据。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

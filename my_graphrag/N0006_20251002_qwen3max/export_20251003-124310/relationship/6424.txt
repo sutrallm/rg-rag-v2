@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出离心</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>出离心体现为对五欲的舍弃意愿，是摆脱五欲束缚、深入禅修的前提。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

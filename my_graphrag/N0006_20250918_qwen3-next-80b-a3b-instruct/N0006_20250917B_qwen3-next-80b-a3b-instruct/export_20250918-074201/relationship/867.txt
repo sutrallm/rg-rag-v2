@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>DANGXIA</target_entity>
+    <relationship_description>A saintly person lives fully in the present moment, embodying continuous mindfulness as the essence of their being.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE OF THE SAINT</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Sanctity is achieved only after the complete eradication of delusion, alongside greed and hatred.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>圣者已断尽贪嗔痴三毒，是其区别于一般修行者的核心标志。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

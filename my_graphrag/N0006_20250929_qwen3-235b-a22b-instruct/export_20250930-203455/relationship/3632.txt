@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>智慧源于如实知见诸法实相，即无常、苦、无我，是破除无明、导向解脱的根本能力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

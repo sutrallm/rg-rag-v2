@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REALIZATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Realization is the experiential manifestation of wisdom — the direct, non-conceptual understanding of the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

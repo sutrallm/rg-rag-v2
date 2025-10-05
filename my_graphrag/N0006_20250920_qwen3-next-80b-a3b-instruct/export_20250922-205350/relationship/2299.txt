@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGED SAGE</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>A staged sage is characterized by the total elimination of the three poisons, making this the defining trait of their realization.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

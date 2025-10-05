@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Exertion is the active, sustained effort required to establish and maintain chanding; without exertion, chanding cannot be stable.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

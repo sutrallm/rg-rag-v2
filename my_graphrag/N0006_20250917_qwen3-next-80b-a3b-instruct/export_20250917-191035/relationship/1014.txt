@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禪定依賴正念作為基礎，正念是使心安住、遠離散亂的核心方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

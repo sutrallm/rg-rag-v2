@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY LIFE</source_entity>
+    <target_entity>PRACTICE SPACE</target_entity>
+    <relationship_description>DAILY LIFE activities serve as the natural PRACTICE SPACE for Buddhist cultivation outside formal settings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

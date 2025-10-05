@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Delusion (ignorance of impermanence and no-self) gives rise to craving by falsely perceiving permanence and ownership in phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

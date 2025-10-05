@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>TANAI</target_entity>
+    <relationship_description>Niepan is the complete extinguishing of Tanai; craving and clinging are the causes, and Niepan is their cessation — the ultimate goal.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

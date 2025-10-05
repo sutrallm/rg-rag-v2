@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Sages have completely severed the three poisons through disciplined practice and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内观</source_entity>
+    <target_entity>诸行无常</target_entity>
+    <relationship_description>内观修行的直接对象即是诸行无常，修行者通过持续觉察来体证一切现象的生灭本质。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

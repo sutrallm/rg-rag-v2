@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The realization of non-self directly dissolves delusion, as the false identification with “I” is the core of delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

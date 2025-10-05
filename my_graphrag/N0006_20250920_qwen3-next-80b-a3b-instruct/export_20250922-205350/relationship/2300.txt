@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGED SAGE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A staged sage abides in meditative stillness (chanding) continuously, as a natural expression of their purified mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

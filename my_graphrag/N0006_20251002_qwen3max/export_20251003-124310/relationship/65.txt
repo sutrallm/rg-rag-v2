@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>完美修行者</source_entity>
+    <target_entity>解脫者</target_entity>
+    <relationship_description>完美修行者即是已達解脫者，二者描述同一類證悟者的不同側面。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>谦卑心</target_entity>
+    <relationship_description>修行者应保持谦卑心，不因短暂成就自满，不因挫折退转，以精进与平等心面对一切境遇。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

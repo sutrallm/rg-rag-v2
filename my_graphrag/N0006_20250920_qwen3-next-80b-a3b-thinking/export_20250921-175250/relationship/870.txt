@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND PROTECTION</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Mind Protection is the practice of safeguarding the mind to maintain inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

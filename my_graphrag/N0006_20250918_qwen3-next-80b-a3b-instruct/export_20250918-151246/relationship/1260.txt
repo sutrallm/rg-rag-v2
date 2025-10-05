@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_SAGE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A true sage has achieved mastery over meditative concentration as part of their spiritual fulfillment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

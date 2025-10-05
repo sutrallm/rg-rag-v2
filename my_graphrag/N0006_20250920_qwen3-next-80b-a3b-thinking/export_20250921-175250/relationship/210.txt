@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VERSE</source_entity>
+    <target_entity>NUMERICAL_TITLES</target_entity>
+    <relationship_description>VERSE appears at the end of the text, while NUMERICAL_TITLES restructure the main content; both part of the document formatting process.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

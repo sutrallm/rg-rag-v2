@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON_ATTACHED_WISDOM</target_entity>
+    <relationship_description>True chanding goes beyond temporary calm and is completed when accompanied by non-attached wisdom that sees the false nature of meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

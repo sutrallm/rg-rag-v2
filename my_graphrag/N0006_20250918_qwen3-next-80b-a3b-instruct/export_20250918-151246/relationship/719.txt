@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-NEGLIGENCE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Non-negligence supports non-attachment by ensuring continuous awareness that prevents the arising of clinging due to forgetfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

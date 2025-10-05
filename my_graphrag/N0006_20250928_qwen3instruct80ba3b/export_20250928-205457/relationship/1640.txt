@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>THE FIVE AGGREGATES</target_entity>
+    <relationship_description>No-self is understood by observing the five aggregates as impermanent, unsatisfactory, and not owned by a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

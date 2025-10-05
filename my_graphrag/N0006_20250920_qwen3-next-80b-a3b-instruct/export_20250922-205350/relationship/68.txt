@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自斷煩惱</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>佛陀指出解脫需自斷煩惱，他僅是指路人而非拯救者，強調修行者自主的責任。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

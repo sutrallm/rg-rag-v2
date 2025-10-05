@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲樂</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫的本質在於超越對欲樂的執取，欲樂是解脫的主要障礙。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>众生</target_entity>
+    <relationship_description>佛陀教导众生平等，所有人皆可通过如实觉察与精进证得解脱，无有偏私。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

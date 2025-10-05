@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>慧解脱</target_entity>
+    <relationship_description>禅定与智慧共同导向慧解脱，二者缺一不可，定慧等持方能成就无漏清净之果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

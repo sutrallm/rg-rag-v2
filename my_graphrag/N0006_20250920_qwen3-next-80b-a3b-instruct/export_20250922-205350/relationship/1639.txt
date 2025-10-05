@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>缘起法</target_entity>
+    <relationship_description>五蕴作为身心构成，是缘起法的典型体现——因缘和合而生，缘散则灭。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SEEKING RESULTS</target_entity>
+    <relationship_description>WISDOM prevents being bound by the desire for SEEKING RESULTS.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

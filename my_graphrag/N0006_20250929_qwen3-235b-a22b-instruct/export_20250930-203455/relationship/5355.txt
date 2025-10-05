@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>修行者不因境界高低而分别，于一切时中安住本心，是真实修行的表现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIELV</target_entity>
+    <relationship_description>Chanding is built upon the foundation of moral discipline; without pure precepts, meditation becomes unstable and illusory.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

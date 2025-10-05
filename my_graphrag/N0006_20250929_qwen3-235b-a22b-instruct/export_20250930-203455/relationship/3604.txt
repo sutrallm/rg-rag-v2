@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>通过日常实践中的念念分明与不随境转，修行者可逐步趋向解脱，日常即是解脱之道。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

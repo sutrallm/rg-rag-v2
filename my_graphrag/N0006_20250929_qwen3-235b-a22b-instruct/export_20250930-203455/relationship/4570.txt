@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心寂静</source_entity>
+    <target_entity>独处</target_entity>
+    <relationship_description>独处是培养内心寂静的基础条件，远离喧嚣有助于安住与观察呼吸、念头。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我</source_entity>
+    <target_entity>貪</target_entity>
+    <relationship_description>對「我」的執以為實，導致「我所」的貪愛與佔有，形成貪的根源。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

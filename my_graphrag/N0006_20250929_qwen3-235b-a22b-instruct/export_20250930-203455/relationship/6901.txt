@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>自他利益</target_entity>
+    <relationship_description>修行者在自利断除烦恼的同时，自然能以清净心与智慧利益众生，实现自他利益的统一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

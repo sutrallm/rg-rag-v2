@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF AND EMPTINESS</source_entity>
+    <target_entity>SAINTLY QUALITIES</target_entity>
+    <relationship_description>The realization of non-self and emptiness is the foundation for achieving saintly qualities; only when the illusion of self is dissolved can one be free from worldly judgments and attain true tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

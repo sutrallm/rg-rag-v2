@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WUWO DUCHA</target_entity>
+    <relationship_description>Only through sustained effort (jingjin) can one persistently observe the non-self nature of phenomena (wuwo ducha) and not abandon the practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

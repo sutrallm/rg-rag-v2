@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINYI YU ZHIHUI</source_entity>
+    <target_entity>WENSI XIU</target_entity>
+    <relationship_description>Xinyi yu zhihui (faith and wisdom) form the inner attitude and guidance for successful Wensi xiu (hearing, reflection, practice).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>智慧使人了知诸法无常无我，因而自然能够不执取任何境界，体现为不执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

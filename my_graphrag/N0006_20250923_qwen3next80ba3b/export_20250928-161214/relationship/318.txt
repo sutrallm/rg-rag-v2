@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHOR</source_entity>
+    <target_entity>DOCTRINAL_EXPANATION</target_entity>
+    <relationship_description>Metaphors are transformed into doctrinal explanations to ensure clarity and direct presentation of teachings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

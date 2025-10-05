@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chizhu (non-attachment) arises from the realization of Wuwo (non-self), recognizing that no self exists to cling to any state or attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

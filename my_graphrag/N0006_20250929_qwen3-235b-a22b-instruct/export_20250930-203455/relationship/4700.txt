@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>修行者需持续精进修行以避免堕入死亡魔王掌控，精进是其修行态度的核心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

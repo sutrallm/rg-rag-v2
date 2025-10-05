@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>修行成果</target_entity>
+    <relationship_description>神通不是真正的修行成果，修行成果的验证标准在于烦恼是否减轻、心是否安住、智慧是否增长。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

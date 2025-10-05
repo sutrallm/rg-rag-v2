@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>痴</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>文本指出痴是烦恼的一种，心解脱需断除痴，且真正的解脱体现为内心离痴。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

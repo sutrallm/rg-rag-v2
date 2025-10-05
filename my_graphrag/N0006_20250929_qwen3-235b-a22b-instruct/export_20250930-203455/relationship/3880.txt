@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>佛陀的教导是精进修行的依据，遵循其教导者能避免堕入死亡魔王掌控。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

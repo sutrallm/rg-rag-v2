@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Moral discipline supports the practice of Chan Ding by reducing external and internal disturbances caused by unethical behavior.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

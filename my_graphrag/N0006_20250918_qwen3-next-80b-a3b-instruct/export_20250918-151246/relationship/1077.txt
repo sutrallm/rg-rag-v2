@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>SANGHUI</target_entity>
+    <relationship_description>Zhishi (wisdom) is the direct means to transcend Sanghui (cycle of rebirth) by uprooting ignorance and craving, which fuel cyclic existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

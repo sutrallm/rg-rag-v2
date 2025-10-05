@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANYIN</source_entity>
+    <target_entity>YUANQIXINGKONG</target_entity>
+    <relationship_description>Yuanqixingkong is the expression of Yanyin — all phenomena arise from conditioning factors, and nothing exists outside this interdependent network.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

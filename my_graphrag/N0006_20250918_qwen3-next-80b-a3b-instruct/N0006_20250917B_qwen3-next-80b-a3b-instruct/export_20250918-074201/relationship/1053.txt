@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE_INSIGHT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wise insight is the direct cause of liberation; it dismantles ignorance and enables release from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

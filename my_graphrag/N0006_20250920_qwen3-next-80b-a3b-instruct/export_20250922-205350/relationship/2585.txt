@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>外境</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱不依赖外境改善，而在于识破心识对境的执取，外境非苦乐之源，自心执取才是。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

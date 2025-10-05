@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>ZHENGLIAN</target_entity>
+    <relationship_description>Jielv creates the stable, guilt-free mind necessary for Zhenlian to arise; without ethical conduct, wisdom cannot mature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

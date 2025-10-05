@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHEN GI</source_entity>
+    <target_entity>SHENGRONG</target_entity>
+    <relationship_description>Shengrong (the saintly state) is defined by the complete eradication of shen gi (the three poisons), which is the hallmark of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>圣者已彻底断除贪嗔痴三毒，三毒的消除是界定圣者的重要标准。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

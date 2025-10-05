@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋恚</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>瞋恚是烦恼的主要表现形式之一，扰乱内心，障碍寂静与修行进步。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>戒律是三学之首，为修定与智慧奠定基础，是解脱必经之路。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

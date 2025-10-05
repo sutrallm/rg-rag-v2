@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENG JIE</target_entity>
+    <relationship_description>Jingjin, as continuous diligent effort, is described as the only path to escaping samsara and attaining liberation, making it indispensable for spiritual freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

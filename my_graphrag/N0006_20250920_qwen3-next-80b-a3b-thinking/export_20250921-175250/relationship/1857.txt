@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Saints have eradicated all mental afflictions such as greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

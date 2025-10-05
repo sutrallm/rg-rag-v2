@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>YUANQI</target_entity>
+    <relationship_description>Zhinen allows for the clear realization of yuanqi (dependent origination), recognizing that all phenomena arise conditionally and have no inherent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

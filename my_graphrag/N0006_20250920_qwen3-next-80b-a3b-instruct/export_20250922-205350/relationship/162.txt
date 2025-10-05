@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者是已實現解脫的人，斷盡根本煩惱，超越輪迴，心無所依，是解脫的具體化體現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

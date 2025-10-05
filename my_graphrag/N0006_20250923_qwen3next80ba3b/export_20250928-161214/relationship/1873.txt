@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUTION</source_entity>
+    <target_entity>PRIDE</target_entity>
+    <relationship_description>Maintaining caution helps prevent the development of pride during positive times.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Aversion stems from fear of losing “self”; seeing non-self removes this fear.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

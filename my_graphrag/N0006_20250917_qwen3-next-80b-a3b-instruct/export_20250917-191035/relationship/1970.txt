@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NONSELF</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Realizing nonself dissolves the illusion of a permanent self that grasps and possesses.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

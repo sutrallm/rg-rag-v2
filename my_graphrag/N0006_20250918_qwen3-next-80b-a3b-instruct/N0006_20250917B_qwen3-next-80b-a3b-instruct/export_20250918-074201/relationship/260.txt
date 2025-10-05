@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>因萬法無常，故皆無固定自性，「無我」是對「無常」的深度體悟。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

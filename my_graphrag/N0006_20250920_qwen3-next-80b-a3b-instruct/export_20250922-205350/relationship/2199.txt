@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>禅定通过内心安定，减少对欲望对象的执著，从而削弱贪爱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>专注</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>专注使心念稳固安住于所缘境，是达成禅定的关键条件之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

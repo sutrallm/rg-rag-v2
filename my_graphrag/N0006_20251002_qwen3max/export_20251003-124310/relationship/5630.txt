@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>止观双运</target_entity>
+    <relationship_description>止观双运是证得解脱的必要方法，唯有通过此双运才能断尽烦恼、如实知见四圣谛。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

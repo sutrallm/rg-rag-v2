@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>THREE REALMS</target_entity>
+    <relationship_description>A shengzhe has transcended all three realms of samsara, including even the highest celestial states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

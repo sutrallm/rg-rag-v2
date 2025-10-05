@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUSUODE</target_entity>
+    <relationship_description>Wusuode (non-attainment) describes the experiential nature of Niepan—liberation is not the acquisition of something new, but the cessation of clinging, which is the essence of non-attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

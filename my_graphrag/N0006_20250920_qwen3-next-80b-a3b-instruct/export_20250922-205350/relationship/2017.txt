@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>定</target_entity>
+    <relationship_description>戒使身心清淨，為禪定提供穩定的基礎；若無戒，心難以凝聚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

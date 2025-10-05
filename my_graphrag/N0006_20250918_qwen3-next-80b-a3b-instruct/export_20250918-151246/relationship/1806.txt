@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A Shengzhe (sage) naturally embodies Chanding as a result of profound inner cultivation and freedom from disturbance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

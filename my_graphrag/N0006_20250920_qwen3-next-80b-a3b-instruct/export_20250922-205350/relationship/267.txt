@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is defined as the complete cessation of the three poisons—greed, hatred, and delusion—making their elimination the very condition for its realization.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

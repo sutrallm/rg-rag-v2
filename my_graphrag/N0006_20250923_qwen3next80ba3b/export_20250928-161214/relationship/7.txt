@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>NORMATIVE FORMAT</target_entity>
+    <relationship_description>The task's output adheres to the established normative format.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

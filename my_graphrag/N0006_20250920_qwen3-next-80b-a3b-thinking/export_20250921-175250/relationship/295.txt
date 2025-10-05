@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MATERIAL PHENOMENA</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Material phenomena are characterized by impermanence, a core teaching of Buddhist philosophy.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

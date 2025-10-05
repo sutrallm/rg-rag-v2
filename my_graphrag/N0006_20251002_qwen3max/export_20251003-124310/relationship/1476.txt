@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>杂念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>杂念是禅定的内在障碍，会牵引心念，使其无法专注清明，阻碍进入寂静安稳的状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>AWAKENED_BEINGS</target_entity>
+    <relationship_description>Awakened beings embody non-attachment as a core trait, having let go of all clinging—including to spiritual achievements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

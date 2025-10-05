@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness (zhennian) is the operational mechanism that sustains meditative concentration (chanding); without continuous awareness, concentration dissolves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

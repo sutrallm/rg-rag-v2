@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Right Mindfulness is the continuous practice that sustains and deepens Chan Ding throughout daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

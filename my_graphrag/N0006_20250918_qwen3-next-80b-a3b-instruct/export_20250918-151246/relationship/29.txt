@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Everyday practice involves maintaining mindfulness through routine activities, integrating mindfulness into daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

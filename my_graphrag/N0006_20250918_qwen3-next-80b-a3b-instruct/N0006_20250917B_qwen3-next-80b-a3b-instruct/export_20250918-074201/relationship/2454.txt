@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENCE</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Through presence, one directly observes the impermanent nature of all phenomena, deepening insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

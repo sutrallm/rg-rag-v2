@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Recognizing Wuchang undermines the roots of Fannao, since greed and fear arise from clinging to things believed to be permanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>内心转化</target_entity>
+    <relationship_description>修行者通过如实观照自心、降伏烦恼，实现贪瞋痴淡薄乃至断尽的内心转化。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

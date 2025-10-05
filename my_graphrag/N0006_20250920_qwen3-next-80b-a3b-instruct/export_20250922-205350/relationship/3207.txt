@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Saintly beings have eradicated greed, as their minds are no longer drawn to sensory pleasures or possessive desires.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

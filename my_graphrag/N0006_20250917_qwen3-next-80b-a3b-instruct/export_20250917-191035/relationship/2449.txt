@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>TRANSCENDENT WISDOM</target_entity>
+    <relationship_description>Noble Ones embody transcendent wisdom, which enables them to see reality clearly and completely eradicate defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

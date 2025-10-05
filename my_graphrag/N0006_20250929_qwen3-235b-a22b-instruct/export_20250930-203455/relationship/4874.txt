@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>空性</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>空性与无我紧密相关，观察五蕴皆空即体证无我，是破除我执、契入实相的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

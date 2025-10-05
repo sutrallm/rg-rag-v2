@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Realization of non-self is the core wisdom that leads to complete liberation and enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

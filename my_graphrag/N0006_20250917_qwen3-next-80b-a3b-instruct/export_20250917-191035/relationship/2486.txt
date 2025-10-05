@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Non-self observation is practiced through present-moment mindfulness, observing sensations and thoughts without reaction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

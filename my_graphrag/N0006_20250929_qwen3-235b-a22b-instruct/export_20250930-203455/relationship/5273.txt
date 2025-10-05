@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无我是五蕴的本质，体证无我即认识到五蕴身心并无恒常自我，从而解脱生死。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

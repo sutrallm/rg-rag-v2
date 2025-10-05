@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Anger arises from clinging to how things should be, and resisting how they are — a form of clinging to control and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

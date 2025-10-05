@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom is the essential factor that leads to liberation; without insight into reality, liberation cannot be achieved.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

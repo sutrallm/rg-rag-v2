@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我見</source_entity>
+    <target_entity>我慢</target_entity>
+    <relationship_description>我慢依我見而生，若我見斷除，我慢自然消解，二者為內在執著的關聯結構。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

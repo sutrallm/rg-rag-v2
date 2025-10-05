@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NATURE_OF_MIND</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the full recognition of the innate purity of the mind—liberation is not attained from outside, but revealed by seeing what was always there.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常生活</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>日常生活是禅修实践的场所，修行者可在日常行为中保持觉知，实现禅修生活化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪悅</source_entity>
+    <target_entity>執取</target_entity>
+    <relationship_description>若修行者貪著禪定中的禪悅，便會落入微細執著，障礙真正解脫；執取禪悅是未究竟解脫的表現。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

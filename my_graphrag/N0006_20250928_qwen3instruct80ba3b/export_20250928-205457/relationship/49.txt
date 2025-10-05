@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>唯有精进不怠，方能稳固禅定，避免被妄念所扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

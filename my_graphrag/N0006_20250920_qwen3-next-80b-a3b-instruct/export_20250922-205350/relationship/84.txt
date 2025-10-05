@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Death’s power arises from clinging to a self; realizing non-self dissolves the fear and illusion of death, leading to transcendence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHIDI</target_entity>
+    <relationship_description>Holy beings embody profound wisdom that allows them to perceive ultimate truth and be free from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

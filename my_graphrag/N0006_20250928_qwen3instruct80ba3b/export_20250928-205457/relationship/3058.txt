@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>ZHONGDAO</target_entity>
+    <relationship_description>Jietuo (liberation) is the ultimate expression of zhongdao (Middle Way)—a state of non-attachment where nothing is grasped or rejected.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

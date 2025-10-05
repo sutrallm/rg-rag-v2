@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱次第</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>解脱次第描述修行者从持戒到修定、从修定到发慧的递进过程。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

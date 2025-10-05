@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Ethical precepts are the necessary foundation for developing stable meditation (Chanding); without moral purity, concentration cannot arise or endure.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

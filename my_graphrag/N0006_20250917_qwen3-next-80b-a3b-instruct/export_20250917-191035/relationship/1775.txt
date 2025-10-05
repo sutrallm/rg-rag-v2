@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETERMINED PRACTICE</source_entity>
+    <target_entity>UNCONSCIOUSNESS</target_entity>
+    <relationship_description>Continuous practice is required to overcome the delusion and lack of awareness caused by unconsciousness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

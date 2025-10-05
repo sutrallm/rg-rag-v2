@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSIONATE ACTION</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>Saintly beings demonstrate compassionate action as the natural expression of their inner purity and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

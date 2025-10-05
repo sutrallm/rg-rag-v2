@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离执着</source_entity>
+    <target_entity>究竟安宁</target_entity>
+    <relationship_description>Letting go of attachment leads to ultimate peace and tranquility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

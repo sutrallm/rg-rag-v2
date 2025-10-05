@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENMENT</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Even the pursuit of enlightenment should not become an object of attachment, as true realization involves non-clinging to all states, including spiritual goals.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

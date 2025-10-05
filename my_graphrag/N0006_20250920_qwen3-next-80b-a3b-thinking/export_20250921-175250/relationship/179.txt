@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天神</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>天神认可并赞叹正法与佛法相应。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

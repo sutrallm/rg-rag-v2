@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>RELEASING</target_entity>
+    <relationship_description>Liberation is precisely the state of releasing all concepts, goals, and attachments — it is the culmination of the process of non-clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

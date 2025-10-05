@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>轻安是禅修中可能获得的体验，若对此生起贪着，即构成执着，仍被无明所缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEXING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Juexing (awakening in the present) is the practical expression of chanding; both involve mindful awareness and non-distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding is not clung to as an end in itself; non-attachment ensures it does not become a subtle form of grasping.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

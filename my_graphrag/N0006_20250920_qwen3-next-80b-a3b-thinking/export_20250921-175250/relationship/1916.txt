@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CORRECT PATH</source_entity>
+    <target_entity>PATH PRACTICE</target_entity>
+    <relationship_description>Path practice involves the disciplined application of the correct spiritual path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

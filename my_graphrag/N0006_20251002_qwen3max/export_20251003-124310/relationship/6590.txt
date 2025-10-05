@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪悅</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>若執著禪悅，反而會成為解脫的障礙，故禪定應視為工具而非目的。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

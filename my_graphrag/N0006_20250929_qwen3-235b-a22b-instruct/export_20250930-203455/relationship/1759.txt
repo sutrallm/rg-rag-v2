@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行误区</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>若仅追求禅定境界而忽略智慧与戒律，易堕入误区。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

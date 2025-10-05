@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMON</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jiemei is the first step on the path toward Niepan, as ethical conduct is essential to purify the mind before deeper practices.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

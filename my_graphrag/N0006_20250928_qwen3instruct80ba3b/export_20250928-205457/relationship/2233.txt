@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺照</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>當下的一念覺照，若能不認同煩惱、不執取境界，即是無明的裂縫，直接通向涅槃的入口。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

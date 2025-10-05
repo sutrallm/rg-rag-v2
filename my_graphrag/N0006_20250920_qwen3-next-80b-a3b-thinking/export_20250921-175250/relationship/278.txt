@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD DEEDS</source_entity>
+    <target_entity>BODY AND MIND</target_entity>
+    <relationship_description>Accumulating good deeds purifies the body and mind, as "日积月累的善法增长能净化身心" directly links virtuous actions to physical and mental purification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

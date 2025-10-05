@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATION</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Observing moral precepts is a foundational aspect of Buddhist cultivation practices.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

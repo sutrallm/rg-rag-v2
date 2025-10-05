@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>FANGXIA</target_entity>
+    <relationship_description>Through meditation, one gains the insight that allows true letting go (fangxia) of clinging and aversion, leading to inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

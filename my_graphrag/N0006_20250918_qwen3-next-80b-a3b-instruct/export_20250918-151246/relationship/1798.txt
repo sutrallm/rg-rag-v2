@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHAO YUE ZHU ZHOU</target_entity>
+    <relationship_description>The sage embodies transcending attachment, as they do not cling even to the idea of having attained liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

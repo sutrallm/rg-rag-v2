@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>RESULTS</target_entity>
+    <relationship_description>Attachment to results leads to bondage, which mental liberation avoids.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

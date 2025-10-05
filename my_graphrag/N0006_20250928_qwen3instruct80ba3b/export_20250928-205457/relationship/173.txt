@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>正念是观照“无我”的实践工具，通过持续觉察五蕴，如实知见无我实相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

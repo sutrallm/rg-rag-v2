@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily practice is the practical means through which chanding is cultivated in everyday life, turning mindfulness into a continuous habit.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

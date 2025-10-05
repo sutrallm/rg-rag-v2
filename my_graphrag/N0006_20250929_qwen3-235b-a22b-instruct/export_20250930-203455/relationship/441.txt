@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>成就</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>成就不应执着于名相，智慧成熟方为真成就，不被任何境界迷惑。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

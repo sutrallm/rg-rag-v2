@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REALIZATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realization—direct insight into truth—is the gateway to liberation; without realization, liberation cannot occur.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

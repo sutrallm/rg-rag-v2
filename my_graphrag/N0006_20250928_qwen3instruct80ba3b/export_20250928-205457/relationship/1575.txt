@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHU</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Non-abiding mind is the essential mental condition that defines nirvana: free of clinging, concepts, or goals.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

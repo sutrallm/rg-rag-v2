@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>若懈怠放逸，心便會被煩惱所控制，放逸是煩惱生起的條件之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

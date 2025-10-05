@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>清净心</target_entity>
+    <relationship_description>解脱表现为清净心，即贪嗔痴熄灭后内心如明镜无染。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

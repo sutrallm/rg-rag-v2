@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>日常修行将正念融入生活，使修行者在一切时处保持觉醒，是实现当下解脱、不假外求的重要途径。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SOVEREIGN SAINTS</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Sovereign Saints have completely eradicated greed, among other defilements, as a mark of their perfected spiritual attainment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

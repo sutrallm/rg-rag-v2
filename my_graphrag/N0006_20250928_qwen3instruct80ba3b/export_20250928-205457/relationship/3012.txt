@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>没有精进，修行无法持续，三毒难断，涅槃不可得，精进是通往涅槃不可或缺的实践动力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

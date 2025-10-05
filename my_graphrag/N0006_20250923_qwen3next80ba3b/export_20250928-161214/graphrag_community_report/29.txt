@@ -1,0 +1,12 @@
+**Incomplete Translation Request Analysis**  
+
+This query contains processing directives for translation but lacks the necessary source text, rendering all requested operations unexecutable. The specified instructions—including deletion of person entities, exclusion of geographic locations, conversion of metaphors to doctrinal explanations, retention of doctrinal details, use of numbered section titles, thematic paragraph focus, and removal of ending verses—cannot be applied without original content. A separator line designated for source text input is empty, confirming the absence of required input material.  
+
+**Translation Task Unexecutable Due to Missing Source Text**  
+The query explicitly requests translation services but provides no original content to translate. The source text is entirely absent, preventing any translation or processing from occurring.  
+
+**Processing Instructions Cannot Be Applied Without Source Material**  
+The query mandates specific actions: removal of all person entities, exclusion of geographic locations, conversion of metaphors to straightforward doctrinal explanations, retention of doctrinal details, use of numbered section titles, thematic focus for each paragraph, and deletion of ending verses. These requirements depend on the presence of source text, which is missing.  
+
+**Separator Line Confirms Empty Content Position**  
+A dash-separated line ("--------------") marks the intended location for source text input, but this segment contains no content, confirming the query lacks any material for processing or translation.

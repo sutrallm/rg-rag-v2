@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在转化</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>内在转化的目标是根本断除烦恼，而非压抑或回避，强调对贪瞋痴的如实觉察与根除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

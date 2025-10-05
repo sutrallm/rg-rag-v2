@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU XING</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Wu Wo is realized by understanding that the "self" is merely Wu Xing (five aggregates) temporarily assembled — there is no permanent core.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

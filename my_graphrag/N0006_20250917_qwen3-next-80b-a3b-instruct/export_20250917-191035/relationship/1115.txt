@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT BEING</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Transcendent beings are fully awake to reality and have eradicated ignorance—the root of all suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

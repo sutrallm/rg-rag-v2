@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>智慧能如實觀照無我的本質，因而使修行者不執著於任何感受、境界或成就。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

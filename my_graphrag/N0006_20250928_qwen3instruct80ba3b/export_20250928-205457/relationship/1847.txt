@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_BEING</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>A holy being has completely transcended hatred, leading to inner calm and equanimity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>唯有止观双运（禅定与智慧结合），才能如实了知四圣谛。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENTWisdom</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Transcendent wisdom leads to liberation from rebirth by uprooting ignorance and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

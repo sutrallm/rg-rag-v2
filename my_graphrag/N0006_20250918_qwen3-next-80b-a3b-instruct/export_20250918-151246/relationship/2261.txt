@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU DAO FANGFA</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Xiudao Fangfa directly dismantles wuming (ignorance) by fostering awareness of reality as it is, without distortion or clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENGLI ZHIHUI</target_entity>
+    <relationship_description>Chanding provides the mental stillness required for shengli zhihui (transcendent wisdom) to arise, allowing one to directly observe the true nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>MORAL_CONDUCT</target_entity>
+    <relationship_description>A saintly being is defined by the complete embodiment of moral conduct, which supports mental purity and spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

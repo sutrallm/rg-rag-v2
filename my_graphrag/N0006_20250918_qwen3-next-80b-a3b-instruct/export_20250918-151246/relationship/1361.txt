@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>持戒</target_entity>
+    <relationship_description>正见是持戒的根本基础，使持戒不流于形式，而是配合智慧的道德实践。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

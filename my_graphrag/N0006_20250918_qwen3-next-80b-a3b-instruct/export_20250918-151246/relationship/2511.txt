@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>禪定是達成解脫的核心修習方法，透過專注與平靜，為斷除煩惱創造條件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

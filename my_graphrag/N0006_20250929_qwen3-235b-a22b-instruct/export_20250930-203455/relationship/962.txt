@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>昏沉</source_entity>
+    <target_entity>提神</target_entity>
+    <relationship_description>提神是昏沉的对治方法之一，通过调整身心状态使精神振奋。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

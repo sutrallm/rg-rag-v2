@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>STEVIOUS_PRACTICE</target_entity>
+    <relationship_description>Sustained, diligent practice is necessary to stabilize and deepen chanding; without effort, chanding fades under negligence or attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

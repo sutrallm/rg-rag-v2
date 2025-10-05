@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>平等心</target_entity>
+    <relationship_description>修行者应具备平等心，视顺逆境遇为助缘，视众生为觉悟对象，不分别、不执着，促进内心解脱与慈悲流露。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

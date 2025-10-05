@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Understanding non-self (anatta) is the foundation for letting go of clinging and achieving non-attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

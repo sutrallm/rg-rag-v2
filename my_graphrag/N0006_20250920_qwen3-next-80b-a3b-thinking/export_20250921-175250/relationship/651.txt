@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如来</source_entity>
+    <target_entity>世界</target_entity>
+    <relationship_description>如来阐述世界的本质，指出"世界非世界，是名世界"，说明世界只是假名。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

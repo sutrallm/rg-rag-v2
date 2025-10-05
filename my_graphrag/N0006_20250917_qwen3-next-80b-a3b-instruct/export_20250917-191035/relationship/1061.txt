@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>No-self is a specific application of the broader principle of emptiness to the concept of personal identity; both are foundational insights for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Through constant Zhengnian (mindfulness), one observes the arising and passing of experiences without identifying them as "I" or "mine," thus cultivating Wuwo (non-self) insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

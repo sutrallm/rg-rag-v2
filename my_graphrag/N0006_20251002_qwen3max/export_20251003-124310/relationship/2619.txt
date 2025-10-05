@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>癡</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>癡（愚癡）是煩惱的一種具體表現形式，屬於煩惱的範疇。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

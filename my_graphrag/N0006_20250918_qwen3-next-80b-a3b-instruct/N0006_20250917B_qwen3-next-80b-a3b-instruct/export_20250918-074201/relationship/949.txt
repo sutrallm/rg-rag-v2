@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Insight is the direct path to liberation; only through clear seeing of impermanence, non-self, and suffering can one attain true release.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

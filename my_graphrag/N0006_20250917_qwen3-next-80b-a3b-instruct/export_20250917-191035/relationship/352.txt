@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>智慧是解脫的核心工具，透過洞察實相，斷除無明與執著，直接促成解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

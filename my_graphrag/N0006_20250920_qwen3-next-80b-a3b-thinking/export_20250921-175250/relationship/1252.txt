@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUE XING</source_entity>
+    <target_entity>PAN YUAN</target_entity>
+    <relationship_description>Mindful awareness (Jue Xing) prevents clinging to external objects (Pan Yuan) by not allowing the mind to be influenced by sensory experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

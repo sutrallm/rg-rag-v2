@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀不淨</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>觀不淨是對治貪欲的特定方法，透過觀察身體不淨以減弱執著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>A saintly being embodies non-attachment, having fully transcended all forms of clinging to transient states and achievements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

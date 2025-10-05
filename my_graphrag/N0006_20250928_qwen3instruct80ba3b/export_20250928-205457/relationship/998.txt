@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIYANG JIAOZHAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness (riyang jiaozhao) is the practical extension of meditative concentration (chanding) into ordinary life, sustaining its benefits.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

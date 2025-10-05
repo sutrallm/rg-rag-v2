@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>空性</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>彻悟空性是契入涅槃的必要智慧，涅槃是空性认知的圆满实现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

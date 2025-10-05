@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHONGJI JINGMI</target_entity>
+    <relationship_description>Chanding, properly cultivated without attachment, leads to ultimate stillness (zhongji jingmi) — the unconditioned natural state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

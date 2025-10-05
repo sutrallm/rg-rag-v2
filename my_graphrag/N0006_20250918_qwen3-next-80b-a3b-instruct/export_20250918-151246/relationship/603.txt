@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>智慧使人如实观照无常无我，因而能断除对禅悦与境界的执著，是破除执著的根本力量。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Chanding is not an end in itself; true meditation requires transcending attachment to meditative states to avoid spiritual grasping and remain free.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

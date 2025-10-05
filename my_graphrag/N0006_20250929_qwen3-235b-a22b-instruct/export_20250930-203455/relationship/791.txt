@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>自省与警策</target_entity>
+    <relationship_description>修行者应常自省是否仍被贪嗔痴所困，通过自省与警策不断向前，是修行持续进步的保障。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDULGENCE</source_entity>
+    <target_entity> CYCLE OF REBIRTH</target_entity>
+    <relationship_description>INDULGENCE causes sinking into the CYCLE OF REBIRTH.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

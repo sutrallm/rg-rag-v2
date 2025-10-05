@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANYUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Dependent origination (yuan Yun) is the doctrinal foundation for understanding non-self (wuwo), as nothing exists independently.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

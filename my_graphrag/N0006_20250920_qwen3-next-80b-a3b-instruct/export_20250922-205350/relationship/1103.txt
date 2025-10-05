@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WENSISIXIU</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Wensisixiu includes Jie as its ethical foundation — hearing and reflecting upon the Dharma leads one to adopt disciplined conduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

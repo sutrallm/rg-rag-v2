@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪瞋痴</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是贪瞋痴彻底熄灭后自然显现的状态，二者构成因果关系：烦恼灭尽即证涅槃。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

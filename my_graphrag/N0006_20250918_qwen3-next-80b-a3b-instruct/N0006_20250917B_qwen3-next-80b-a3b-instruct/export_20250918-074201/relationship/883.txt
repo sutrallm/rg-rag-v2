@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ABIDING MIND</source_entity>
+    <target_entity>ANATTA (NO-SELF)</target_entity>
+    <relationship_description>Non-abiding mind arises from the deep realization of no-self — there is no "center" to abide in, as no intrinsic self exists.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION_AND_WISDOM</source_entity>
+    <target_entity>TRANSCE NDENT_WISDOM</target_entity>
+    <relationship_description>Compassion and wisdom together form the perfected state where wisdom enables compassionate action without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

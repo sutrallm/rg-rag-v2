@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom arises from the direct observation and understanding of impermanence in all phenomena, leading to insight and release from attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

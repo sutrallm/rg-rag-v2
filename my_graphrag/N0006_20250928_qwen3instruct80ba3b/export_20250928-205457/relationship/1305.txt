@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ILLUSORY POWERS</target_entity>
+    <relationship_description>Chanding is not practiced to attain illusory powers; the text warns that pursuing such powers without insight leads to deeper delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

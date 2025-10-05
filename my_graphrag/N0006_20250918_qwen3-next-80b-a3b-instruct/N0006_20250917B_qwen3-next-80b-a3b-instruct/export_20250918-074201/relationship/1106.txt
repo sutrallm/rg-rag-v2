@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>The sacred person embodies transcending attachment—they are free from clinging to meditative states or worldly results, demonstrating this wisdom in action.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>FOUR FOUNDATIONS OF MINDFULNESS</target_entity>
+    <relationship_description>Four Foundations of Mindfulness is a specific meditative practice deeply rooted within the broader framework of Meditation, used to develop mindfulness and awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

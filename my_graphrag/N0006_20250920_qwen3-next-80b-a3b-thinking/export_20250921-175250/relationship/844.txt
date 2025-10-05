@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY</source_entity>
+    <target_entity>DUALISTIC OPPOSITIONS</target_entity>
+    <relationship_description>The MIDDLE WAY transcends all dualistic oppositions to realize true reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

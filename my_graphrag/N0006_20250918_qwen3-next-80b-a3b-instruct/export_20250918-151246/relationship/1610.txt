@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常的洞察是理解无我的前提，因一切皆迁流变化，故无恒常不变的“我”可得。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

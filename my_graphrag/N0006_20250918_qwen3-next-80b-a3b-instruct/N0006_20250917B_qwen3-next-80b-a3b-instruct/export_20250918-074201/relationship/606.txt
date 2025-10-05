@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHU ZHAI</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Transcending attachment (Chao Yue Zhu Zhai) is the very essence of achieving liberation (Jie Tuo); without letting go of clinging—even to spiritual goals—true freedom cannot be realized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

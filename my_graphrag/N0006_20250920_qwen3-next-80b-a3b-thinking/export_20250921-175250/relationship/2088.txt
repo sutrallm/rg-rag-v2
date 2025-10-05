@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHIP</source_entity>
+    <target_entity>OTHER SHORE</target_entity>
+    <relationship_description>A ship must navigate towards the other shore to achieve liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

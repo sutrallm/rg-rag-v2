@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EQUAL-MINDEDNESS</source_entity>
+    <target_entity>SAINTLY QUALITIES</target_entity>
+    <relationship_description>Equal-mindedness is one of the inward manifestations of saintly qualities, reflecting their transcendence of dualistic reactions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

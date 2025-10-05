@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>不放逸被视为解脱的根本，通过精进修行与警醒，可远离生死轮回，迈向真正的解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

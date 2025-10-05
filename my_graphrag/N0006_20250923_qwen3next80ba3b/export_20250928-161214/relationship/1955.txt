@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISTURBANCE</target_entity>
+    <relationship_description>Meditation is used to eliminate internal and external disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

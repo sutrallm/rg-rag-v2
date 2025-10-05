@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WULI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Concentration (定) is one of the five spiritual faculties, and must be balanced with wisdom and mindfulness to avoid stagnation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

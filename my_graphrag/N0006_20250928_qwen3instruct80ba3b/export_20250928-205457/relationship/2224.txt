@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>五蘊是構成「我」之錯覺的材料，一旦如實觀照五蘊皆無自性、無常、緣起，「我執」便自然瓦解。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

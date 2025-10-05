@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_BEING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>An awakened being perfectly embodies non-attachment, having transcended all clinging, even to enlightenment itself.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

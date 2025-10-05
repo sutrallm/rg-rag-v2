@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>当下</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱不依赖未来或他方，唯一真实路径即在当下如实觉知，因此当下是解脱的唯一体现与入口。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

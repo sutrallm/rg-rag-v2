@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>如实观照无常是超越执着智慧的核心内容，认识一切皆无常，自然放下执著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

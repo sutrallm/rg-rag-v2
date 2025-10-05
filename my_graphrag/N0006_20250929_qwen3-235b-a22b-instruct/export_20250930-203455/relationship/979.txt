@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>慈悲心以无我之心为基础，愿众生离苦得乐，是智慧的体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

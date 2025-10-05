@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAY-TO-DAY PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous daily mindfulness cultivates and stabilizes the meditative state (chanding) even outside formal sitting.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

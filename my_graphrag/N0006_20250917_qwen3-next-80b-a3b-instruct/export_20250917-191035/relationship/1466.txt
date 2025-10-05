@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAN NAO</source_entity>
+    <target_entity>SHENG SI LUN HUI</target_entity>
+    <relationship_description>Fan Nao (afflictions) are the root cause of Sheng Si Lun Hui (the cycle of birth and death); liberation requires uprooting these afflictions through meditation and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

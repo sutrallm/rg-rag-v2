@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>乐受</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>中道要求修行者不沉溺于乐受，保持平衡，以持久修行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

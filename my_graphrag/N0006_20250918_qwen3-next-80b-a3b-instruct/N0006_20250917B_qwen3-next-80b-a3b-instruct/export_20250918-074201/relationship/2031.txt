@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>神通虽可能在修行中显现，但若追逐则会成为障碍，真正的解脱不依神通。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

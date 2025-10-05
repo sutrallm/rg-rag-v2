@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcending attachment arises from the realization of non-self; without seeing the self as phantom, one naturally stops clinging to experiences, including enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

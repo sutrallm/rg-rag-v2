@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Continuous mindfulness (zhengnian) in daily life is the direct and accessible path to experiencing nirvana (niepan) in the present moment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

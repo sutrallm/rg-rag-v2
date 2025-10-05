@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>THREEfold_PATH</target_entity>
+    <relationship_description>Wisdom is the third and culmination of the Threefold Path. It completes liberation by seeing reality as it is, transforming insight into freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

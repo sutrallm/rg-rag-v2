@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>SAINT</target_entity>
+    <relationship_description>CELESTIAL BEINGS hold SAINTS in high esteem for their virtues and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

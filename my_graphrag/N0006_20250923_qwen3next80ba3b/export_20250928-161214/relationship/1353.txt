@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Understanding impermanence naturally leads to non-attachment, a key aspect of Buddhist wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

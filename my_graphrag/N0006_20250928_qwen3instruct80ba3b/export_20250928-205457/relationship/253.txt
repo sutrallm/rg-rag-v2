@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAGES</source_entity>
+    <target_entity>THREE_FOLDED_PATH</target_entity>
+    <relationship_description>The sage embodies the perfected fulfillment of the threefold path — pure ethics, unwavering concentration, and liberating wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

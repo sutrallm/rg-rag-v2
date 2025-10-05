@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>SAINTLY QUALITIES</target_entity>
+    <relationship_description>Non-attachment is a core component of saintly qualities, manifesting as freedom from喜厌 (likes/dislikes) and emotional reactivity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

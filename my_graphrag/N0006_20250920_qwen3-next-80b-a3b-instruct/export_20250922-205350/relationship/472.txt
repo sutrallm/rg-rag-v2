@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>般若智慧 (Prajna Wisdom)</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Prajna Wisdom is the specific Buddhist term for the profound wisdom described here — the direct insight into emptiness cultivated in meditation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINYU XING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>True faith (xin) manifests as diligent practice (xing); one cannot have genuine belief without consistent action aligned with Dharma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

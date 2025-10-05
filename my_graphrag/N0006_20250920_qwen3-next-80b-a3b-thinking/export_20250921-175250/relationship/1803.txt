@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>WILD_HORSE</target_entity>
+    <relationship_description>MIND, when scattered, is compared to a WILD_HORSE to illustrate restlessness and lack of control.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

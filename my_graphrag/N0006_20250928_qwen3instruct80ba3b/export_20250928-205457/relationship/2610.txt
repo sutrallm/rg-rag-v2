@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The noble one (shengzhe) exemplifies the perfected practice of chanding, having achieved deep concentration and inner stillness through disciplined cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

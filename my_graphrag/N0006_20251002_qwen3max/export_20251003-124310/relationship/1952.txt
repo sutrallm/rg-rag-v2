@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>圣果</target_entity>
+    <relationship_description>通过戒定慧三学的修习，修行者能次第断除烦恼，证得不同层次的圣果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

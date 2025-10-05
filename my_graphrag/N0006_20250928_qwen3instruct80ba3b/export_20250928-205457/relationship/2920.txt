@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>FINISHED_NIRVANA</target_entity>
+    <relationship_description>Chanding develops the mental stability necessary to support deep wisdom and insight, which ultimately lead to Nirvana — yet chanding alone is not sufficient without wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

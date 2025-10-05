@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>UNTOUCHEDNESS</target_entity>
+    <relationship_description>The Sage’s mind remains untouched by worldly distractions, reflecting the result of complete liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

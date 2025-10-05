@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG</source_entity>
+    <target_entity>WUWO WUZHUI</target_entity>
+    <relationship_description>Liberalization (jiefang) is the realization and embodiment of no-self and non-attachment (wuwo wuzhui); the former is the result of fully attaining the latter.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

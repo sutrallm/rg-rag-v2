@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>CHAOYUE ZHUOZHUO</target_entity>
+    <relationship_description>Jiefu is the outcome of transcending all attachments, including those to meditative joys and supernatural abilities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

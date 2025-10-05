@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zheng Nian is the practical method that supports and sustains Chanding, both in formal meditation and in daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

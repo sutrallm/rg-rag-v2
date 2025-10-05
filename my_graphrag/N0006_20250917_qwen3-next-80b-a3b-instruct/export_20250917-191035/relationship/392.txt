@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Underlying all liberative practice is daily mindful living—each conscious moment contributes directly to the erosion of clinging and the arising of freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

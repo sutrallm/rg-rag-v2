@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真實解脫</source_entity>
+    <target_entity>修行的終極目標</target_entity>
+    <relationship_description>真實解脫就是修行的終極目標，二者本質相同，皆指向從輪迴中徹底解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

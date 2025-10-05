@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE DHARMA</source_entity>
+    <target_entity>NO-Self</target_entity>
+    <relationship_description>The core of True Dharma includes the realization of non-self as one of the four defining characteristics of reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

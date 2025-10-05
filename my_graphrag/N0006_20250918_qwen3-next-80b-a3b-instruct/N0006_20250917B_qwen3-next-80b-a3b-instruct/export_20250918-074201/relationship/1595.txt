@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>TAN YU</target_entity>
+    <relationship_description>Ignorance (wu ming) gives rise to craving (tan yu); misunderstanding reality leads beings to desire things that are impermanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

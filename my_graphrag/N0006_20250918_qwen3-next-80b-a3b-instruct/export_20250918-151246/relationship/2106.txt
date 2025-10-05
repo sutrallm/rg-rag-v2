@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMING</source_entity>
+    <target_entity>ZHISUI</target_entity>
+    <relationship_description>Jieming supports the development of zhishui by reducing unwholesome actions that cloud wisdom; moral clarity enables deeper insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

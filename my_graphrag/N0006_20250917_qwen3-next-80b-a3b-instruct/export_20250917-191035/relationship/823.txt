@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUO ZHUZHE</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Saints embody the state of transcending attachment; their enlightenment arises from non-clinging to meditative experiences or phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

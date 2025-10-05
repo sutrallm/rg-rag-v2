@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>智慧能破除執著，透過觀照無常、苦、無我，使人不再執取任何境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

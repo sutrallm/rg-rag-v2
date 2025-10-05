@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>洞见无常是破除执着的智慧基础，理解一切境界皆无常可避免执取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED PHENOMENA</source_entity>
+    <target_entity>NO-Self</target_entity>
+    <relationship_description>Conditioned phenomena are the observable basis for realizing no-self, as they demonstrate impermanence and interdependence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

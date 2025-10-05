@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_PRACTICE</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Daily practice is the application of mindfulness in everyday activities, turning ordinary life into sustained meditative awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

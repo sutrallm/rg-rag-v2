@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>世間八風</target_entity>
+    <relationship_description>聖者因內心無執，不為世間八風（利、衰、毀、譽、稱、譏、苦、樂）所動。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

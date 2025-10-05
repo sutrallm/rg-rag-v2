@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>NON_REACTION_TO_CONDITIONS</target_entity>
+    <relationship_description>Mindfulness cultivates non-reactivity by observing phenomena without attachment or aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

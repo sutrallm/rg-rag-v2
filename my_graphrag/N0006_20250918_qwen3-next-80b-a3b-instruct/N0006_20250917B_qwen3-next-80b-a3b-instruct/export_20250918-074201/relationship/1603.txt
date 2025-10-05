@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WAIJING</source_entity>
+    <target_entity>JIE tu</target_entity>
+    <relationship_description>External conditions (Waijing) are explicitly rejected as sources of liberation; true freedom arises only from internal transformation, making this a critical contrast.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

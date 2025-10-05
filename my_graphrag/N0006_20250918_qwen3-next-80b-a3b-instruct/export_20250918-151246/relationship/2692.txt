@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGXIN</source_entity>
+    <target_entity>FO</target_entity>
+    <relationship_description>The purified mind (Jingxin) is identical to Buddha-nature; thus, realizing Jingxin is realizing Fo.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如實知見</source_entity>
+    <target_entity>貪瞋癡</target_entity>
+    <relationship_description>如實知見能斷除貪瞋癡。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

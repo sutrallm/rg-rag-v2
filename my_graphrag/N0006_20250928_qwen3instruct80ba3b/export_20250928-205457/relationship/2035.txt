@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_DISCIPLE</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>The noble disciple maintains mindfulness continuously as a guiding practice for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

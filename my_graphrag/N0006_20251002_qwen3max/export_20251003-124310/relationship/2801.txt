@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫需斷除三毒，三毒是解脫必須克服的根本障礙。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

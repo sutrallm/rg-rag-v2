@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUANFANLIAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Duan fanliao involves cultivating chanding as the second stage—after ethics and before wisdom—to stabilize the mind for insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

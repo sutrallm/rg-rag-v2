@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天人</target_entity>
+    <relationship_description>Shengzhe, due to their purity and wisdom, naturally inspire reverence from Tianren (heavenly beings), who recognize their spiritual superiority.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

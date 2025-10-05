@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Fangyi (negligence) clouds Hui (wisdom) by allowing habitual patterns and delusions to dominate awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

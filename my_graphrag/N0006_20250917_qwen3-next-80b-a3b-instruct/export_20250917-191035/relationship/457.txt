@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANG DING</source_entity>
+    <target_entity>WU YU</target_entity>
+    <relationship_description>Through Chang Ding, the mind becomes stable and quiet, which creates the internal condition for Wu Yu (non-attachment) to flourish.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

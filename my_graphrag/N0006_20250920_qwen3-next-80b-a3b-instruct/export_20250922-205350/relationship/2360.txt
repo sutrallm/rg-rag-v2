@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING YU ZHIHUI</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>The combined practice of meditation and wisdom leads to wuzhu (non-attachment), seeing all phenomena as impermanent and empty, thus releasing clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

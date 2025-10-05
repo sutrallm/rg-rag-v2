@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>CELESTIAL BEINGS hold SAINTS in high reverence due to their virtues and achieved enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉与省察</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>修行者通过警觉与省察防止烦恼入侵，及时修正身口意业偏差。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

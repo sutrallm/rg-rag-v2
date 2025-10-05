@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>贪瞋痴三毒</target_entity>
+    <relationship_description>我执是贪、瞋、痴三毒生起的根本心理基础，因执“我”而有贪求、排斥与愚痴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

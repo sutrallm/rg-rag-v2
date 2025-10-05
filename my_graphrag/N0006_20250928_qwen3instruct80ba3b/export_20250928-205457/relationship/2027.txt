@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-self</target_entity>
+    <relationship_description>Recognizing impermanence leads naturally to the insight of non-self, since nothing stable can be claimed as "I" or "mine".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

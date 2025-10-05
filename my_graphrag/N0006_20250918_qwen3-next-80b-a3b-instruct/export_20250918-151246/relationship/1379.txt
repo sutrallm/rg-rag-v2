@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>XIANYU</target_entity>
+    <relationship_description>The saintly person has attained liberation; thus, they are the embodiment of enlightenment, having realized the truth that liberation is found only in inner awareness, not externally.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>The Middle Way is the behavioral and mental expression of non-attachment — neither clinging nor rejecting experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

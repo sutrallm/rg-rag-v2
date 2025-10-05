@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Full liberation entails the complete cessation of mental afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

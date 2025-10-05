@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATIENCE</source_entity>
+    <target_entity>ADVERSITY</target_entity>
+    <relationship_description>PATIENCE enables the user to remain calm and gentle when facing ADVERSITY, avoiding reactive anger or retaliation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHU ZHIG</source_entity>
+    <target_entity>WUWO ZHI GUANZHAO</target_entity>
+    <relationship_description>Transcending attachment arises directly from the practice of observing non-self; recognizing the absence of a fixed self removes the basis for clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

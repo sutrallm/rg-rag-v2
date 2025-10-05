@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Jie (virtuous conduct) purifies the mind and creates the necessary conditions for zhihui (wisdom) to arise; without ethical grounding, wisdom is superficial or dangerous.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

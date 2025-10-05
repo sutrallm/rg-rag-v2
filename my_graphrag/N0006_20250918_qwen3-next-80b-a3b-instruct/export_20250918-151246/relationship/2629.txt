@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom—direct insight into non-self and impermanence—is the key factor enabling liberation from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>五盖</target_entity>
+    <relationship_description>正念能觉察五盖的存在，并作为对治五盖的关键手段，帮助修行者逐一克服这些障碍，使内心清净明朗。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

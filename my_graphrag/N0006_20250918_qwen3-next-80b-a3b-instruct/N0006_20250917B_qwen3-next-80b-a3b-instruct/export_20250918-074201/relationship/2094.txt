@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_TO_LIBERATION</source_entity>
+    <target_entity>STAGE_OF_SAGE</target_entity>
+    <relationship_description>The Path to Liberation leads to the attainment of the Stage of Sage, representing its ultimate realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

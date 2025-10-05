@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>攀缘</target_entity>
+    <relationship_description>真正的解脱者内心彻底放下，不再攀缘任何现象，安住于无执状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

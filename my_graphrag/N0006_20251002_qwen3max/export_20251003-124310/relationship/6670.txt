@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>五盖</target_entity>
+    <relationship_description>禅定的目标之一是让心远离五盖的遮蔽，从而如实观照真相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

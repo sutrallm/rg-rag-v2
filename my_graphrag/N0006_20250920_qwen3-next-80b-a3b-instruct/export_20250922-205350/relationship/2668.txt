@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIJIE</source_entity>
+    <target_entity>ZHINENG JIEDE</target_entity>
+    <relationship_description>Chijie prepares the mind for insight; without ethical grounding, the mind remains too turbulent or reactive to attain true wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

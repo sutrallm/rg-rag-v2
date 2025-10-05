@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINXIU</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xinxiu necessarily entails Jingjin — persistent, non-lazy cultivation of the mind through every experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

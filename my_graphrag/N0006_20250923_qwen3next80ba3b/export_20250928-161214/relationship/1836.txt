@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALL BEINGS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>ALL BEINGS express RESPECT toward PRACTITIONER who has attained spiritual purity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

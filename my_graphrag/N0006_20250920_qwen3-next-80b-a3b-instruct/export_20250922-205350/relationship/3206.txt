@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>WISDOM_OF_NON_ATTACHMENT</target_entity>
+    <relationship_description>Saints are characterized by non-attachment, having relinquished clinging to outcomes, identities, and spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

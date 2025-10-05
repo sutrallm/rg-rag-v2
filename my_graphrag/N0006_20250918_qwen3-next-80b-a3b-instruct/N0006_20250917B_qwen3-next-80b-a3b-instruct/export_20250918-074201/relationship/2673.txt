@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪欲</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>貪欲是禪定的主要障礙之一，使人無法專一與寧靜。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

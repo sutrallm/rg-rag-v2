@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>持戒是解脱的起点，为修定与开慧奠定基础，是通向解脱的必然次第。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

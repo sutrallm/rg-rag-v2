@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天人 (DEVAS)</source_entity>
+    <target_entity>圣者 (SAINTLY BEING)</target_entity>
+    <relationship_description>Devas, as celestial beings, respect and revere saintly beings due to their purity and wisdom.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒、定、慧三學</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>透過戒、定、慧三學可斷除煩惱，尤其是貪、瞋、癡三毒。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

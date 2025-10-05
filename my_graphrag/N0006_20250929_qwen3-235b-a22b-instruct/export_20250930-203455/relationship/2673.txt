@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>无住之境</target_entity>
+    <relationship_description>无我观实践使心不再攀缘内外境界，自然安住于无住之境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

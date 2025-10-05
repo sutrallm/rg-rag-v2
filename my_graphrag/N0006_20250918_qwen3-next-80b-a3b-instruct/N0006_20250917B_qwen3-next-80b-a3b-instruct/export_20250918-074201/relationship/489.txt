@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>圣者已断尽贪嗔痴等根本烦恼，因此其境界超越凡俗，此为圣者的核心特质。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过观无常破除恒常妄想，使心不为得失所动，自然安稳。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

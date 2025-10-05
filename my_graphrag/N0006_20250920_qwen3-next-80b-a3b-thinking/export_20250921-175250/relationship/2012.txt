@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>The cultivator's path is to transcend the cycle of samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲與智慧</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者具備慈悲與智慧的圓滿結合，二者是其修行成就的標誌與特質。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

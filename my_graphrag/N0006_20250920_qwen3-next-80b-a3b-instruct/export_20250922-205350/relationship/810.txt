@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>贪欲源于对“我”和“我所”的执着，二者互为因果，执着是贪欲的根本原因。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

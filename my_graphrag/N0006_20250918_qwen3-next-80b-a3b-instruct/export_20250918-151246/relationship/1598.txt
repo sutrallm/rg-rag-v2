@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧观照</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Wisdom observation is the method by which one directly perceives and realizes the truth of non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUE</source_entity>
+    <target_entity>DOCTRINE</target_entity>
+    <relationship_description>DIALOGUE must be transformed into direct explanations of DOCTRINE per processing instructions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

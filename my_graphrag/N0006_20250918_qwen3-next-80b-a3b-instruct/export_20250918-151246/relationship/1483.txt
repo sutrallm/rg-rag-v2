@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Greedy clinging to pleasures and existence is the primary force that binds beings to the ongoing cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

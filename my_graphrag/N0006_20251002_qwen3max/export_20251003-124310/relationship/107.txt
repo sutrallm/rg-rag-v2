@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清淨戒行</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>清淨戒行是修習禪定的基礎，具足清淨戒行者才能穩固地進入禪定狀態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

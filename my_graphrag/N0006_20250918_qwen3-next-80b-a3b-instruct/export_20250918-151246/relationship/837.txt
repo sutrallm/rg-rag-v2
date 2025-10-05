@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE DING HUI</source_entity>
+    <target_entity>SHENG SI LUN HUI</target_entity>
+    <relationship_description>The triad of Jie Ding Hui is the path to transcend the cycle of birth and death (Sheng Si Lun Hui); its perfection breaks the chain of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>缘起</target_entity>
+    <relationship_description>无常与缘起同为佛教核心教义，禅修中通过观察缘起可如实了知无常、苦、无我，二者在智慧生起过程中紧密关联。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

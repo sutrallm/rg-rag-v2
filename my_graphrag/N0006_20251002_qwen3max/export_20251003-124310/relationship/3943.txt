@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>殊胜境界</source_entity>
+    <target_entity>因缘所生</target_entity>
+    <relationship_description>殊胜境界仍是因缘所生，终归坏灭，故不应执取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

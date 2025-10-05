@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>洞察力</target_entity>
+    <relationship_description>聖者因具足洞察力，才能徹見實相、斷除煩惱，達成真正的自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

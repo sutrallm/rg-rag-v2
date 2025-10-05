@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHENXIUZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chenxiuzhe embody jingjin (diligence) by maintaining consistent mindfulness in daily life, avoiding spiritual complacency.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

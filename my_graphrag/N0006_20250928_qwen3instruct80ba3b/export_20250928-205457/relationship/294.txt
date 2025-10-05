@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS IN DAILY LIFE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Mindfulness in daily life extends and anchors the state of Chan Ding beyond seated meditation, making it continuous and practical.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides the mental stillness necessary for wisdom to arise; without deep concentration, insight into the nature of reality remains superficial.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

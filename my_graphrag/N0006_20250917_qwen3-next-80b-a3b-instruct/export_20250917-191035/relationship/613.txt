@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>SHENGJIE</target_entity>
+    <relationship_description>Zhinen, through seeing impermanence and non-self, directly leads to shengjie by dissolving attachment and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

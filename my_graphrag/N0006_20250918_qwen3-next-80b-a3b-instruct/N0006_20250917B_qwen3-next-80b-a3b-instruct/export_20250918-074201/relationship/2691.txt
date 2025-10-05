@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>REBIRTH_CYCLE</target_entity>
+    <relationship_description>Awake beings are liberated from the cycle of rebirth — awakening is the ultimate escape from samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

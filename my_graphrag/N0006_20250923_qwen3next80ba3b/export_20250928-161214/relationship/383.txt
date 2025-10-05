@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>REALM</target_entity>
+    <relationship_description>NON-ATTACHMENT enables practitioners to remain unbound by REALM.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

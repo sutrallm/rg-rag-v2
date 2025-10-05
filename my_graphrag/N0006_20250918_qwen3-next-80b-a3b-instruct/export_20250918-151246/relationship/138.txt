@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>当下</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>在当下如实观照念头的生灭，是生起真正智慧的方式，智慧从对当下的无执觉知中自然生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

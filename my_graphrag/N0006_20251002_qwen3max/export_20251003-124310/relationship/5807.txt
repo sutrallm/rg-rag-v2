@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>聖者之德</target_entity>
+    <relationship_description>聖者具備聖者之德，此德由戒定慧三學圓滿所成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

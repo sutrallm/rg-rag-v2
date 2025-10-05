@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅观</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>禅观的进阶阶段是体悟无我，这是禅观修习的核心目标之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

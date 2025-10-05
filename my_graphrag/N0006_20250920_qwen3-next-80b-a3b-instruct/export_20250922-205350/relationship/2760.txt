@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIWANG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Fear of death arises from attachment to self (ego); Wuwo insight dissolves this fear by revealing the selfless, impermanent nature of the body and mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

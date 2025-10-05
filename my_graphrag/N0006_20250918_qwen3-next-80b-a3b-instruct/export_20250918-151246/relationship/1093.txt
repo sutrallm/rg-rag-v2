@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER TRANSFORMATION</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>True inner transformation occurs when the illusion of self is seen through and released.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>圣者完全具备超越执着的智慧，不贪不惧一切境界，是智慧圆满的化身。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

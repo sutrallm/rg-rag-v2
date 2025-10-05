@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>二果聖者</source_entity>
+    <target_entity>戒、定、慧三學</target_entity>
+    <relationship_description>二果聖者透過持續修習戒、定、慧三學，使貪瞋癡漸薄。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

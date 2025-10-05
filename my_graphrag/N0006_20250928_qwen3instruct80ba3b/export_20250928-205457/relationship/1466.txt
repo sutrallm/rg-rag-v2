@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧等持</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>定慧等持強調禪定需與智慧並行，不可偏頗，是修習的正確方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

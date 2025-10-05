@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念覺知</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念覺知是修習禪定的具體方法，持續覺察當下身心，使心穩定不再散亂。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

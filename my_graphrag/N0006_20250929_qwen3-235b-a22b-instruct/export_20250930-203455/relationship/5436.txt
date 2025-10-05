@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>解脱是修行者追求的终极目标，修行者以谦卑精进为本，步步踏实迈向解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

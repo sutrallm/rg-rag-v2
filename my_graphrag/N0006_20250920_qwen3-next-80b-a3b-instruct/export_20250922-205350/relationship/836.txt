@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides the stable mental platform for wisdom to arise, but wisdom prevents clinging to meditative states, ensuring progress beyond mere concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

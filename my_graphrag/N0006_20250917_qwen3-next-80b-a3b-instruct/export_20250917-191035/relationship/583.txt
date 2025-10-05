@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding is enabled and deepened by mindfulness; the two are inseparable in meditative practice, working together to still the mind and cultivate insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

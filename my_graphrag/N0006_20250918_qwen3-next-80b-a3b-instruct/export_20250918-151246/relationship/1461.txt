@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Letting go of clinging—especially to self, possessions, and experiences—is the direct path to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

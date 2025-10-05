@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT_WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Insight wisdom perceives suffering as inherent in conditioned existence due to impermanence and attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

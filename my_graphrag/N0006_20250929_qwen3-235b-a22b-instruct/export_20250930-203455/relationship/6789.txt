@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善知识</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>善知识引导修行者纠正偏差、启发智慧，是其修行成功的重要保障。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

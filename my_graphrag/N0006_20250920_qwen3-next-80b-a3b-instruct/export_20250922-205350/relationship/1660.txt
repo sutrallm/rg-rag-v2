@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chanding leads to calm, but non-attachment prevents the practitioner from clinging to meditative experiences, ensuring true liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

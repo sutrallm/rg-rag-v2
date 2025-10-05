@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHARMA</source_entity>
+    <target_entity>PRACTICE</target_entity>
+    <relationship_description>The DHARMA provides the doctrinal foundation for spiritual PRACTICE.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

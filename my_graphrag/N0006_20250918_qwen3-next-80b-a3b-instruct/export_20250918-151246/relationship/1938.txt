@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>執著「我」即是將五蘊當作固定不變的自我，這是輪迴的起點，破五蘊我執才能解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANZHI</source_entity>
+    <target_entity>JIETAO</target_entity>
+    <relationship_description>Fanzhi (attachment) is the obstacle to Jietao; liberation is only possible when all forms of clinging—especially to self and experience—are relinquished.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

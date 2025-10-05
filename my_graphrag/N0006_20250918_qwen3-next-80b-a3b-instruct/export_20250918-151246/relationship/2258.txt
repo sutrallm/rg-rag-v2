@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOLUE ZHUZHUO</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chao lue zhu zhuo (non-attachment) is the practical application of understanding wuwo (non-self), allowing one to see that no phenomenon is inherently “me” or “mine.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

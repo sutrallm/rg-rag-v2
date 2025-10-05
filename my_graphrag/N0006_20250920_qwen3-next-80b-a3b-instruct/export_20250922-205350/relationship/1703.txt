@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingji (true stillness) is the inner state achieved through deep chanding, regardless of external conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

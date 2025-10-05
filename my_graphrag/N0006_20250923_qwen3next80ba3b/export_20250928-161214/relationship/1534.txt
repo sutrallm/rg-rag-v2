@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>SAGE has attained complete LIBERATION by eliminating all afflictions and transcending the suffering of birth and death, as stated in "断尽一切烦恼、超越生死痛苦".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

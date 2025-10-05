@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>禅定能帮助修行者摆脱放逸的干扰，使心念专注、安稳，从而远离懈怠与散乱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

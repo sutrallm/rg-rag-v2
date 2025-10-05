@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAN CHEN CHI</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Sheng Zhe is characterized by the complete eradication of Tan Chen Chi, which otherwise binds one to suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saintly beings have completely eradicated delusion, along with greed and hatred, as part of their perfected state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

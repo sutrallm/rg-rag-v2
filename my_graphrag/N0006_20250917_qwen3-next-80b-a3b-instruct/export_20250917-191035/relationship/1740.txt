@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>ILLUSORINESS</target_entity>
+    <relationship_description>Attachment arises from misperceiving illusory phenomena as real and lasting; understanding illusoriness leads to the letting go of attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

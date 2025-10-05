@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>不放逸体现为不懈怠地修习正法，以此避免被无明与烦恼吞噬，确保修行者走在解脱正道上。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

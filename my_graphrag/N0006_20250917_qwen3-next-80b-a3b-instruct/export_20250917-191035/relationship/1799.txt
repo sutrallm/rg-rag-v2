@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHIJIAN AIYU</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Overcoming worldly desires requires sustained effort (jingjin) to resist the pull of sensual pleasures and maintain discipline on the path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

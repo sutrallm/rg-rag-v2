@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST CLASSIC PASSAGE</source_entity>
+    <target_entity>PERSON NAMES</target_entity>
+    <relationship_description>Person names are contained in the original Buddhist classic passage requiring removal</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

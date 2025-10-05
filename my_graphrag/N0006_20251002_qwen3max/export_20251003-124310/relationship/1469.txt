@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>身口意三业</target_entity>
+    <relationship_description>持戒体现为守护身口意三业，使其清净，远离邪念与放逸。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

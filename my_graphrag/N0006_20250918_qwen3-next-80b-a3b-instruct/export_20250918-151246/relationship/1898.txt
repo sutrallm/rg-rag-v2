@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DA SHI</source_entity>
+    <target_entity>XIU XIN</target_entity>
+    <relationship_description>Every present moment (Da Shi) is the actual field of cultivation (Xiu Xin); practice occurs nowhere else.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

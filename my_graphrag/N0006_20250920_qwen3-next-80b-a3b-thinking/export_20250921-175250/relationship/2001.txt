@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCATTERED MIND</source_entity>
+    <target_entity>PRACTICE</target_entity>
+    <relationship_description>A scattered mind causes practice to be futile and ineffective.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

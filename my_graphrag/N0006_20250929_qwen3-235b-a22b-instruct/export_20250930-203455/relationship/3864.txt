@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>慈悲心作为智慧的展现，能化解对立、增长和谐，是菩萨道修行者通往解脱的重要品质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

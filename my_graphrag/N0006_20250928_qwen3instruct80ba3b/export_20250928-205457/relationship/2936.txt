@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Delusion—the fundamental misunderstanding of self and reality—is the root cause of samsara; without its eradication, liberation is impossible.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>烦恼的根本源于对“我”与“我所”的执着，即我执，破除我执即是对治烦恼的核心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>True non-attachment stems from seeing that all phenomena, including the self, lack inherent existence and are non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

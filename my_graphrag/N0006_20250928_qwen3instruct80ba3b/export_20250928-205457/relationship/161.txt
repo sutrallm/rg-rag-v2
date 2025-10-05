@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>涅槃是輪迴的終結，當煩惱與業力止息，生死循環即不再繼續。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

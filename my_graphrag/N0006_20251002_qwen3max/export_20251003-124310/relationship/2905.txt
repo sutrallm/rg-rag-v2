@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修成就者</source_entity>
+    <target_entity>深定</target_entity>
+    <relationship_description>禅修成就者即使体验到深定也不贪著、不执取，视其为非究竟归宿。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>INNER ENEMIES</target_entity>
+    <relationship_description>智慧是降伏贪嗔痴这三种内在毒蛇的根本工具，以智慧为剑方可战胜。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

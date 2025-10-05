@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WANGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wangnian (deluded thoughts) disrupt chanding by pulling awareness away from the present, creating mental dispersion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

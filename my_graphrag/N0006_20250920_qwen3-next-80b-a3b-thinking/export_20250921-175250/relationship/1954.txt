@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY PHENOMENA</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Worldly phenomena often become objects of attachment, leading to further entanglement in samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>正见是戒定慧三学的根基与导向，如同眼睛，指引三学的正确实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

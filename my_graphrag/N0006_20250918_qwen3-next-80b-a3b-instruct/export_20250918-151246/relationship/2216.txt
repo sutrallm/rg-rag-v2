@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我執</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>無我是直接對治我執的觀照方法，透過觀照無我來化解我執帶來的痛苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

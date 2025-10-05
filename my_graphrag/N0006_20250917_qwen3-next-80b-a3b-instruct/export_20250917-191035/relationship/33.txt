@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSORY_NATURE</source_entity>
+    <target_entity>DISPASSION</target_entity>
+    <relationship_description>Seeing all phenomena as illusory generates dispassion — the non-attachment necessary for true freedom from craving and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

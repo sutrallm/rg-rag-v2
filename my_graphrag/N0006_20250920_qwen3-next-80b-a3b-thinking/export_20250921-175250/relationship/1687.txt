@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>REALITY</target_entity>
+    <relationship_description>The five aggregates have reality as their true nature, as stated in the source text: '如实了知五蕴生灭的实相'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

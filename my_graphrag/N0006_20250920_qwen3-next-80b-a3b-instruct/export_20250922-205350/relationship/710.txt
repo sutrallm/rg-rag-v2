@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_TRAININGS</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Insight wisdom is the third leg of the threefold training, completing the path made possible by precepts and chanding.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

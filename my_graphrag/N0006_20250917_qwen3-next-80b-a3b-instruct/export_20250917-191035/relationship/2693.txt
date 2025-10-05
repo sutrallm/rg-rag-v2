@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Saintly beings embody non-attachment as a natural result of their wisdom and purified mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

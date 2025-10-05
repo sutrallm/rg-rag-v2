@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>CYCLE OF REBIRTH</target_entity>
+    <relationship_description>The concept of impermanence underlies the transient nature of the cycle of rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

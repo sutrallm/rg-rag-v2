@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>THREE REALMS</target_entity>
+    <relationship_description>The mind nature moves freely through the three realms without attachment or obstruction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Exertion is described as the foundational practice necessary to achieve liberation; without it, one remains trapped in ignorance and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

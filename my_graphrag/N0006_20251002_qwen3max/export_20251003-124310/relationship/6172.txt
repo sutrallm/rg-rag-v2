@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫者是真正實現解脫的修行者，其內心徹底斷盡煩惱，證得心的真正自由。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

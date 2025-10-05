@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION_PROCESSING</source_entity>
+    <target_entity>ORIGINAL_CONTENT</target_entity>
+    <relationship_description>Translation processing requires original content, which is currently missing in the query.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

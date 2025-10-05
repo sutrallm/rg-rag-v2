@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>定能收攝散亂心，使心專一有力，從而生起觀察實相的智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

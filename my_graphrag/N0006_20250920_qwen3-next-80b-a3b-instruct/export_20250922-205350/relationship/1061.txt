@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>True stillness (jingjie) is the experiential quality of nirvana (niepan) — a mind unperturbed by conditions, whether in silence or noise, because it does not cling or reject.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

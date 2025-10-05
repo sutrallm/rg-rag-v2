@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者 (SAINT)</source_entity>
+    <target_entity>解脱 (LIBERATION)</target_entity>
+    <relationship_description>Saints have already achieved liberation — they are free from all suffering, craving, and fear.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

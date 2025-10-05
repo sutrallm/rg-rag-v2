@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>嗔</target_entity>
+    <relationship_description>智慧能如实洞察诸法实相，从而化解愤怒与怨恨，是调伏嗔烦恼的关键能力。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

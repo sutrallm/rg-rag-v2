@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>True meditative stability (chanding) is deepened by the wisdom that sees all experiences as impermanent and non-self, preventing attachment even to meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

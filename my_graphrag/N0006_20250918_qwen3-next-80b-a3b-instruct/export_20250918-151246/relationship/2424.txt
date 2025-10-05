@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is a foundational practice leading toward liberation, calming the mind to allow wisdom to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

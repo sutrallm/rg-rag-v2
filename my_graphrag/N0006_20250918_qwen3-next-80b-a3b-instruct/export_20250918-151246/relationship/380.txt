@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Zhengnian requires constant, vigilant practice (jingjin); without alert effort, mindfulness lapses into distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

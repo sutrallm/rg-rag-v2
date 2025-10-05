@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>佛陀教导四念处为修行核心路径，是通向解脱的系统方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

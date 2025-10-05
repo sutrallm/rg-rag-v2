@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO_GUANXING</source_entity>
+    <target_entity>WU_YUN</target_entity>
+    <relationship_description>Wuwo guanxing involves observing the five aggregates to realize their empty, non-self nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

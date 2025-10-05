@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGSI LUNHUI</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>The five aggregates (Wu Yun) are mistaken as a permanent self, giving rise to attachment and aversion, which fuel the cycle of samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

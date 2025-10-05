@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Chanding is a stage in the path toward Jiede (liberation); it calms the mind so that wisdom can arise and penetrate the nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

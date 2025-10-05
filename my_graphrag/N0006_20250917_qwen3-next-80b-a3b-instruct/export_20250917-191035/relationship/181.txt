@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLEANLINESS_OF_VIRTUE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral purity supports the stability of meditation by reducing inner conflict and guilt.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

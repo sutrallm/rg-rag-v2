@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Delusion gives rise to attachment by causing false perception of permanence and selfhood in transient phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

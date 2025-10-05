@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>Insight meditation leads to non-attachment and overcoming clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

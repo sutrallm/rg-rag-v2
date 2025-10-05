@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONK</source_entity>
+    <target_entity>EFFORT</target_entity>
+    <relationship_description>Monks are instructed to practice diligence in their spiritual cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

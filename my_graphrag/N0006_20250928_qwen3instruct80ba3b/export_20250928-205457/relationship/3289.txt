@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEXIANG</target_entity>
+    <relationship_description>Chanding is a critical step on the path to jiexiang. It supports the development of zhihui, which in turn leads to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

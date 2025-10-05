@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>无我观使修行者不执着于任何境界，因洞察无我后不再被境界所缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

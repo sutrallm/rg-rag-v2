@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪支</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>禪支皆是因緣所生、無常變易，修行者應了知其無常本質而不執取。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

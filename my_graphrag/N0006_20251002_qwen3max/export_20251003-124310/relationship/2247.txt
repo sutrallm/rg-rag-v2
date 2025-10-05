@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四无色定</source_entity>
+    <target_entity>非想非非想处</target_entity>
+    <relationship_description>非想非非想处是四无色定的第四个阶段，为世间禅定的最高层次。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

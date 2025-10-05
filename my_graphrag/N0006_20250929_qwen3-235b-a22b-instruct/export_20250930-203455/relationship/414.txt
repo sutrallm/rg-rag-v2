@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常生活</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>日常生活是修习正念的道场，行住坐卧皆可保持觉知。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>念住</target_entity>
+    <relationship_description>念住是修行的根本方法，所有真正有效的修行都建立在念住之上。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

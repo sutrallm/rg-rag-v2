@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三界</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱者不为三界所缚，虽处世间而心无挂碍，超越生死轮回，达到究竟自在的境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

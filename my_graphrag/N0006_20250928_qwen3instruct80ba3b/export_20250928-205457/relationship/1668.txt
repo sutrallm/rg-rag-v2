@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIZHILI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Saintly beings (shengzhe) embody wuzhi zhili, as they have completely relinquished all attachments including spiritual experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

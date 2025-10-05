@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TRUE_LIBERATION</target_entity>
+    <relationship_description>Chanding is a vital practice pathway leading to true liberation by calming the mind and enabling deep insight into reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>念住</source_entity>
+    <target_entity>正知</target_entity>
+    <relationship_description>念住与正知相辅相成，前者是觉知对象，后者是觉知的清明洞察，共同构成日常修行方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

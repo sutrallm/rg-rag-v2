@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>ASCENSION_BEYOND_THE_THREE_REALMS</target_entity>
+    <relationship_description>An enlightened being has completely transcended the three realms of samsaric existence, illustrating the ultimate result of the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

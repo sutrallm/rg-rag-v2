@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU ZHONGJI MUDI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the practical means by which one approaches the ultimate purpose of meditation: resting in the natural state.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>圣者已断尽一切烦恼根株，烦恼是其已超越的内在障碍。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

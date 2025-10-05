@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARD_OF_SAINTHOOD</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>A saintly being has completely eradicated delusion through insight and practice, no longer being clouded by ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

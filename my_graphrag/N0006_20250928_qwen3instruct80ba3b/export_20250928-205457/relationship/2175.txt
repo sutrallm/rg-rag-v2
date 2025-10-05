@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VOID</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>The mind described as "void" functions by not grasping or resisting — its nature is inseparable from non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

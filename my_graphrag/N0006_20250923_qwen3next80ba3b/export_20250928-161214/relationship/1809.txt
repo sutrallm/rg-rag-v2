@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>END OF AFFLICTIONS</target_entity>
+    <relationship_description>Nirvana is defined by the complete cessation of all afflictions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

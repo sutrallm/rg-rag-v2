@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGTZHE</source_entity>
+    <target_entity>WUZHE</target_entity>
+    <relationship_description>A Shengtze embodies Wuzhe, having completely transcended clinging even to spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

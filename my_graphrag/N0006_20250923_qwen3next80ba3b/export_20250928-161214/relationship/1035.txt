@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROOT</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>The ROOT is the foundational aspect of GREED that must be severed for eradication.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

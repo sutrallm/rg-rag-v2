@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>生死循環</target_entity>
+    <relationship_description>放逸是導致眾生沉淪於生死循環的根本原因，因貪求與迷失本心而無法出離。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

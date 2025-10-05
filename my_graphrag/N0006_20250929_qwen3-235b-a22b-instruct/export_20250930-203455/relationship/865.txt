@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>烦恼源于无明，无明是对诸法实相的无知，是根本根源。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

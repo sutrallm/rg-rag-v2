@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>覺照</target_entity>
+    <relationship_description>覺照是真正修行的核心，修行者需持續保持覺知、不隨煩惱轉，方為走在解脫道上。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAZHUO</target_entity>
+    <relationship_description>Chanding leads to the ability to observe and transcend attachment; concentration is the means to see through clinging and realize its futility.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

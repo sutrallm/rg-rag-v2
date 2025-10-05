@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>不放逸也是成就智慧的前提，持續警覺與修習為智慧的生起創造條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Threefold Training is the systematic path through which practitioners achieve liberation from suffering and the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

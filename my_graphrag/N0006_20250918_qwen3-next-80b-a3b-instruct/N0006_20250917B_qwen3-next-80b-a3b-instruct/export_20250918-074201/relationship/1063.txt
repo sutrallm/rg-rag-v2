@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEINGS</source_entity>
+    <target_entity>ETHICAL_DISCIPLINE</target_entity>
+    <relationship_description>Enlightened beings uphold perfect ethical discipline as part of their unstained moral conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

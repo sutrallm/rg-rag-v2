@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧双修</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>定慧双修强调禅定是智慧生起的基础之一，禅定提供观照所需的专注与稳定心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

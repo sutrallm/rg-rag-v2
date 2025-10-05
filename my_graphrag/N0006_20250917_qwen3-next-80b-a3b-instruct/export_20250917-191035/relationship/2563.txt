@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom is the guiding force that leads to liberation by dismantling ignorance and attachment, which are the root causes of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

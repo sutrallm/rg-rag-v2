@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Wuwo transforms jingjin from goal-oriented striving into spontaneous, non-egoic practice — effort without the sense of “I am doing.”</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

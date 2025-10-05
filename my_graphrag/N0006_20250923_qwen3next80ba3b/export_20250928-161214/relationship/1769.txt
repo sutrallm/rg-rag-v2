@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANZA</source_entity>
+    <target_entity>PROCESSING</target_entity>
+    <relationship_description>Stanzas are removed during the processing of Buddhist texts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

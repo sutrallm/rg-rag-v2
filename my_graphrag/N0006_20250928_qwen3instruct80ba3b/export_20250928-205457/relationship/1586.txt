@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLER WAY</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>The Middle Way teaches non-attachment by not clinging to pleasant states nor rejecting unpleasant ones.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行次第中，智慧观照是修定之后的关键步骤，用于断除烦恼、证得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

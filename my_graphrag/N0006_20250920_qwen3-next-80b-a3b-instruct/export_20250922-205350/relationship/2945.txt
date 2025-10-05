@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJI</source_entity>
+    <target_entity>WUZHUI</target_entity>
+    <relationship_description>Jingji (true stillness) is the experiential result of WuZhui (non-attachment); when there is no clinging, the mind is naturally still regardless of environment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

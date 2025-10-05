@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIWANG WUCHANG</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>The awareness of death's impermanence serves as a motivator for diligent effort (jingjin)—to not waste life on idle pursuits but to practice sincerely now.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

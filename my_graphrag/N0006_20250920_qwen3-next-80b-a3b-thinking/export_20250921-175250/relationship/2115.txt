@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>mindfulness</source_entity>
+    <target_entity>peace</target_entity>
+    <relationship_description>Mindfulness cultivates inner peace by stabilizing the mind and reducing distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

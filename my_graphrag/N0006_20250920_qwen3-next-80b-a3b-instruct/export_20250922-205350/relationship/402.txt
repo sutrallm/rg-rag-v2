@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING CIXI</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Xiu xing cixi (the path of practice) culminates in Hui (wisdom), which is the liberating outcome of the entire process.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

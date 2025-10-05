@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Wuzhu is a defining characteristic of the Shengzhe, who has fully transcended attachment and thus embodies enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

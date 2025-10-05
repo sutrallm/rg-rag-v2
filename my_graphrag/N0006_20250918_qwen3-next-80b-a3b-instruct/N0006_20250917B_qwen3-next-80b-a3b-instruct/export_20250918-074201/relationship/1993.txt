@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观照</source_entity>
+    <target_entity>缘起法</target_entity>
+    <relationship_description>无我观照正是基于对缘起法的洞察而开展的实践，观诸法无常无我即为缘起的体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

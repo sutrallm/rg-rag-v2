@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING_PRACTICE</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Awakening practice through moment-to-moment mindfulness is the practical method for realizing liberation in daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

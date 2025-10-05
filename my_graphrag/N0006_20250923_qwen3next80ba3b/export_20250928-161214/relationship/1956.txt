@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHOR</source_entity>
+    <target_entity>DOCTRINAL_DETAILS</target_entity>
+    <relationship_description>Metaphors must be converted into direct doctrinal explanations as per processing rules.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

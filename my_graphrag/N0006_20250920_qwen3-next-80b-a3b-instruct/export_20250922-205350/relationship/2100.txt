@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUIGUAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Huiguan supports chanding by training the mind to remain present and undistracted, calming the fluctuations that disrupt absorption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

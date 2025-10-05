@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BA ZHENG DAO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Practicing the Eightfold Path is the prescribed method to realize nirvana (Niepan), the final goal of Buddhist practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

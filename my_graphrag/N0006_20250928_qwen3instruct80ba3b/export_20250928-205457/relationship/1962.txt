@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慈悲與智慧是解脫道路上不可分割的雙翼，缺一則修行不完整。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

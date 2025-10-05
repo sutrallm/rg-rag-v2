@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_FREEDOM</source_entity>
+    <target_entity>AWAKENING_PRACTICE</target_entity>
+    <relationship_description>Inner freedom arises from awakening practice, which trains the mind to remain unshaken by outer conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

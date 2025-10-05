@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Attachment is the primary obstacle to liberation; overcoming it is essential to attain true freedom from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

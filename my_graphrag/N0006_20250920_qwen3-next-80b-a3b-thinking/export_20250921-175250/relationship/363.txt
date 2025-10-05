@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLD</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>The WORLD holds reverence for the qualities attained by a SAGE.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

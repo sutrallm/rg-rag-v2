@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者已斷盡煩惱，超越生死輪迴，是解脫的實現者。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

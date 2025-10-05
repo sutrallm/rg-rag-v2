@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Wuyun are the objects of Wuwo Guanzhao — the five components of experience that the practitioner examines to realize the absence of self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

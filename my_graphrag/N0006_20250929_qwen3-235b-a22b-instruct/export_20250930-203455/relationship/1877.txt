@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的转化</source_entity>
+    <target_entity>平等</target_entity>
+    <relationship_description>心的转化将分别心转化为平等心，平等是转化后的心性品质之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

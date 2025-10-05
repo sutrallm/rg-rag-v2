@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT RELIANCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Dependent reliance on others or traditions is opposed to true wisdom, which is self-reliant and experiential.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

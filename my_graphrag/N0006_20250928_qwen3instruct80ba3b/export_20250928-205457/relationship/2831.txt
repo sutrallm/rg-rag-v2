@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the *method* by which one practices all other concepts — it is applied in daily life to develop chanding, see wuwo, and cultivate she li.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

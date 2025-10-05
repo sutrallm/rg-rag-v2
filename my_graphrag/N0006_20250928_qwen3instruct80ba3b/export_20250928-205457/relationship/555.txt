@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>痴</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>痴即無明，是一切煩惱的根本原因，是貪與瞋的基礎。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

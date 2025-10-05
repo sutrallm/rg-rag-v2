@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>本心</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Realizing benxin — one's true nature — is synonymous with liberation; when the mind sees itself as it is, freedom is immediate.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

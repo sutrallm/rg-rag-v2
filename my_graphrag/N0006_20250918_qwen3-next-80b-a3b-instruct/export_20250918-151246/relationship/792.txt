@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE-FOLD TRAINING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is the final goal of the threefold training, and its full realization depends on the prior development of precepts and chanding.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

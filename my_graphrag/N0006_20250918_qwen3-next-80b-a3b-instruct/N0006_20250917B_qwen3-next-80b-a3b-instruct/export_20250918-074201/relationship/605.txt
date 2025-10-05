@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>CHI XU XIU XI</target_entity>
+    <relationship_description>Jing Jin (diligent effort) is expressed through Chi Xu Xiu Xi (continuous practice); one cannot sustain spiritual progress without consistent effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

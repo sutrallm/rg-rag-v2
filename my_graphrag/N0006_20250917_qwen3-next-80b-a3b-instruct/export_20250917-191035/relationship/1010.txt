@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Liberation is the culmination of non-attachment: freedom from grasping and rejection defines true release.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

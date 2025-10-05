@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Attachment and aversion are dual responses to experience — clinging to pleasure and rejecting pain — both of which bind the mind to suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

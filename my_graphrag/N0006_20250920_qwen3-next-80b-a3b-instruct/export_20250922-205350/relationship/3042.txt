@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>執著是一切苦的根本起因，因為對無常、無我之法的貪取而產生痛苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

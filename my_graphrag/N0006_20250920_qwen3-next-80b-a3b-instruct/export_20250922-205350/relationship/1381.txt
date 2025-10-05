@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXTERNAL_CONDITIONS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding is independent of external conditions; it thrives in any environment through internal awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

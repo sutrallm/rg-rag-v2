@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照无常</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>观照无常能削弱乃至断除烦恼，因烦恼源于对无常法的执取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Hatred stems from delusion — misperceiving reality as hostile or fundamentally opposing one’s desires.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>精进通过不懈修行防止放逸，避免被烦恼控制，是断除烦恼的必要条件。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

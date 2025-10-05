@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪嗔癡</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>精進修行是對治貪嗔癡的直接方法，唯有持續勤勉，才能不被三毒吞噬。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

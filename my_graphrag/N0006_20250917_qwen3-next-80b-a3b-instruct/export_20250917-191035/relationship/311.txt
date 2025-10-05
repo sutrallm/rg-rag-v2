@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>诸行无常，因执着恒常而生苦，明白无常是断苦的第一步。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>NIHUA</target_entity>
+    <relationship_description>Jiede and nihua (nirvana) are synonymous: both refer to the state of inner freedom realized through insight, not external intervention.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>解脱者与圣者在文本中描述高度重合，均指断除烦恼、如实知见、不被境界所转的修行成就者，可视为同一类理想修行者的不同称谓。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

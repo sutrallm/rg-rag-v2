@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIZAI ZHUANHUA DE LILIANG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The realization of non-self is central to inner transformation, as it dissolves the egoic structures that cause suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>錯誤執見</target_entity>
+    <relationship_description>修行者對五蘊不再產生「這是我的」「這是我」「這是我所擁有的」等錯誤執見，貪瞋癡便無從生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

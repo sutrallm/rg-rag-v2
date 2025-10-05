@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Fangyi arises from ignorance of wuchang (impermanence); one postpones practice because they falsely believe time is abundant.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

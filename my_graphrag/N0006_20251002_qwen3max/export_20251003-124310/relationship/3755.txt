@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定稳固是智慧生起的前提，智慧依赖于禅定所提供的内心宁静与专注。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

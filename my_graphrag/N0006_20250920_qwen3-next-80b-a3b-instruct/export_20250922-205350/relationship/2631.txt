@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding helps to calm the mind and mitigate the suffering caused by mental agitation and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

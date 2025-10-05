@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>不放逸能使人避免被生死轮回的力量所掌控，是超越轮回的必要修行态度。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

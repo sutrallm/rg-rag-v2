@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是烦恼（贪、瞋、痴）的完全止息，二者构成对立状态：烦恼熄灭即显涅槃。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

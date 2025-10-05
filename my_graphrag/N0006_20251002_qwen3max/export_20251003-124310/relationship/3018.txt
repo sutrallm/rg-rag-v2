@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>贪瞋痴</target_entity>
+    <relationship_description>通过观察五蕴的生灭，修行者能看清贪、瞋、痴如何生起与止息，五蕴是理解根本烦恼的载体。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

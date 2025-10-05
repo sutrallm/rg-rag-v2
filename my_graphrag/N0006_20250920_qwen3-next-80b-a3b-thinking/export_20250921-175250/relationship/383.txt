@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER MIND</source_entity>
+    <target_entity>EXTERNAL CIRCUMSTANCES</target_entity>
+    <relationship_description>EXTERNAL CIRCUMSTANCES can disturb the INNER MIND if not properly guarded</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHIZHE</target_entity>
+    <relationship_description>Chanding provides the stabilized mind necessary for Wu.zhizhe (wisdom beyond attachment); without concentration, insight cannot arise clearly.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

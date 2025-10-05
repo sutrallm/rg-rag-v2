@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天界众生</target_entity>
+    <relationship_description>圣者的修行成就令天界众生由衷敬仰，显示其超越天界存在的解脱境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

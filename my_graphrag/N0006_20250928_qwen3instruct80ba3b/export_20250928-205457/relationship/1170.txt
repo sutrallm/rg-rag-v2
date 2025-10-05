@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>唯有持续精进，才能累积观照力，使智慧得以在修行中不断增长。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

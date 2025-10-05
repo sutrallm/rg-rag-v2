@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住而行</source_entity>
+    <target_entity>虚空</target_entity>
+    <relationship_description>无住而行如虚空般无碍，象征无执、无相的究竟状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

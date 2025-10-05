@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_FOLDED_PATH</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is the final and culminating component of the three-fold path, completing the journey to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

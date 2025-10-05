@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣道者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>圣道者以正念断除烦恼根源，安住于寂静之中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>顺逆境界</source_entity>
+    <target_entity>平常心</target_entity>
+    <relationship_description>顺逆境界需以平常心面对，不因此动摇，稳步前行至圆满。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

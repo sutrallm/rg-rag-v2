@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT EFFORT</source_entity>
+    <target_entity>STAGNATION</target_entity>
+    <relationship_description>Diligent effort prevents stagnation and ensures ongoing progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDUO</source_entity>
+    <target_entity>NIHUN</target_entity>
+    <relationship_description>Jieduo (liberation) is the experiential realization of Nihun (nirvana); they are synonymous — the cessation of suffering through non-attachment in the present moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

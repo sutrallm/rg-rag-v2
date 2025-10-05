@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY PHENOMENA</source_entity>
+    <target_entity>SELF</target_entity>
+    <relationship_description>Worldly phenomena and self-attachment are interrelated, both being objects of relinquishment in Buddhist practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

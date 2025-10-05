@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEGATIVEEMOTIONS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Negative emotions such as craving and aversion are manifestations of the core defilements of greed and hatred.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

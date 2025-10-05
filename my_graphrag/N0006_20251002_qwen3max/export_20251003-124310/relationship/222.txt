@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初禪</source_entity>
+    <target_entity>二禪</target_entity>
+    <relationship_description>二禅以前一阶段初禅为基础，进一步舍离寻伺，进入更深的定境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

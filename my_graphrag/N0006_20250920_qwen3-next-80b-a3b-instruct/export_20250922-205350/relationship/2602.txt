@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>法</target_entity>
+    <relationship_description>佛陀是法的开示者与引导者，法作为解脱之道源于佛陀的证悟与教导。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

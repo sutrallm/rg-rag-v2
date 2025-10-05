@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Suffering is the inherent condition of existence within samsara; liberation means release from both.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

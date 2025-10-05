@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四禪</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>四禪是禪定修習的具體次第與階段，代表禪定從初階到高度專注與淨化的完整過程。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

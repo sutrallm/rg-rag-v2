@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行误区</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>修行误区包括追求神通，此类执着会使人堕入魔境，偏离真正解脱之道。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

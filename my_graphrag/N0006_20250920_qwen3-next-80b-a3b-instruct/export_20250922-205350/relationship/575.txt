@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是修行的第二个阶段，是戒律之后心智凝聚的核心实践，构成修行次第的重要环节。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

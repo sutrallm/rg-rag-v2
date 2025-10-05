@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Only through persistent Jingjin can one develop and maintain Chanding, as懈怠 (laziness) leads to mental dispersion and prevents deep absorption.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVOTIONAL PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Continuous devotional practice is the means through which one transcends ignorance and laziness and ultimately attains liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

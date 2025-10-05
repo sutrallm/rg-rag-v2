@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WAI XIANG</target_entity>
+    <relationship_description>Shengzhe has transcended reliance on Wai xiang, living without attachment to external forms, sensations, or supernatural experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

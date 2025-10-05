@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通感应</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>佛陀宣说教法并非为了获得神通感应，而是为引导众生证得涅槃。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

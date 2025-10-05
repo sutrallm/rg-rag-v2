@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Shengzhe constantly maintain zhengnian — mindfulness is the foundation of their unwavering awareness and freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

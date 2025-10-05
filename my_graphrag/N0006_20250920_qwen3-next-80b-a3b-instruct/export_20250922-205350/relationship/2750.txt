@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Ku is the foundational truth revealed by Zhihui — wisdom sees that all conditioned existence carries suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

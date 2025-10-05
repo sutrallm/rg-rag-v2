@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIZHE</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Wuzhizhe is the wisdom essential for achieving liberation, enabling non-attachment to all phenomena, including spiritual attainments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

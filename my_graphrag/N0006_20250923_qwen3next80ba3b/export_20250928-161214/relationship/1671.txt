@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>魔障</target_entity>
+    <relationship_description>持续精进能避免被魔障所控制</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

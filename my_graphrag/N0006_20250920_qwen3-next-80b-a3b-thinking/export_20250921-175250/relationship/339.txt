@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>数字标题</source_entity>
+    <target_entity>段落主题</target_entity>
+    <relationship_description>用数字标题重新组织段落主题</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

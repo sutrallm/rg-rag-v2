@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>四圣谛是正见的核心内容之一，构成对苦与解脱之道的正确理解。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

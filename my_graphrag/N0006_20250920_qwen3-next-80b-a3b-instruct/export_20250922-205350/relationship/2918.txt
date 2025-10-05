@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without non-attachment, meditative states can become objects of clinging, transforming insight into spiritual attachment; thus, non-attachment safeguards the purity of chanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

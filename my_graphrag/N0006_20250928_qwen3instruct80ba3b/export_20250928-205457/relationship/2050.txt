@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHILING YU CIBEI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wisdom and compassion must be cultivated through meditation (chanding); they are not separate from, but expressed through, meditative practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>AFFLICTIONS perpetuate the cycle of REBIRTH, and their cessation enables transcendence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

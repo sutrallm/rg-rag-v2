@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PRESENT_MINDFULNESS</target_entity>
+    <relationship_description>Chanding entails sustained present mindfulness, anchoring awareness in the here-and-now to prevent mental distraction and cultivate inner stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

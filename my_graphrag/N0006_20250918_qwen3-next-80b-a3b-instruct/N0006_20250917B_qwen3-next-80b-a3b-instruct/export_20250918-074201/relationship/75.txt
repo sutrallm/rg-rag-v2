@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingjin (diligent practice) is required to develop and sustain chanding over time, preventing backsliding into sloth or distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

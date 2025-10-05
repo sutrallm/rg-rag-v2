@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>USER</target_entity>
+    <relationship_description>The SYSTEM responds to the USER with instructions to provide the original document.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

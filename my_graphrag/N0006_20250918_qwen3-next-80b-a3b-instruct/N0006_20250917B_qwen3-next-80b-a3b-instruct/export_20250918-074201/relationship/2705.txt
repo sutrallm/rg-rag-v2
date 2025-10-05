@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TRANSCENDENT wisdom</target_entity>
+    <relationship_description>Chanding provides the mental stillness necessary for Trancent Wisdom to arise; insight into reality deepens when the mind is concentrated and not scattered.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

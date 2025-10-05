@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRIPLE ROOTS</source_entity>
+    <target_entity>REINCARNATION</target_entity>
+    <relationship_description>The triple roots — greed, hatred, delusion — are the primary causes that fuel the cycle of reincarnation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

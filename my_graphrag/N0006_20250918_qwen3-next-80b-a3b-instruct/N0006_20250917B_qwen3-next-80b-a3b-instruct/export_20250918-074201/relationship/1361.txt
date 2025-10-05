@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT_WISDOM</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Insight wisdom directly discerns the truth of non-self, revealing that the sense of "I" is an illusion composed of five aggregates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

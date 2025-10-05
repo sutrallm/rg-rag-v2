@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>Sheng Zhe (the enlightened being) has completely eradicated Fan Nao (afflictions), such as greed and delusion, through wisdom and meditative practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

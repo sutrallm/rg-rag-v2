@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>聖者因具足不放逸，故能持續保持覺照與修持，避免退轉，是成為聖者的必要條件。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

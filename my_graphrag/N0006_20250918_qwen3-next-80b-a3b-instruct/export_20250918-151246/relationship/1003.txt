@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>智慧证悟无我是其核心洞察，是断除我执、实现解脱的根本。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

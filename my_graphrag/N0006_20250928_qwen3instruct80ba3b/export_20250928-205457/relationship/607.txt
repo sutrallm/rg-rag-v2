@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>戒与定共同构成慧生起的前提条件，三者相辅相成，缺一不可，构成完整的修行体系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

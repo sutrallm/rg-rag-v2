@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU ZHONGJIE MU标</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>The ultimate aim of meditation is the attainment of nirvana — the complete cessation of defilements and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

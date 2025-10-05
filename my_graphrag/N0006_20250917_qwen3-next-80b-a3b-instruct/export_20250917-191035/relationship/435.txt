@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常与无我是佛教核心实相，共同构成如实智慧的观测内容，彼此依存。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

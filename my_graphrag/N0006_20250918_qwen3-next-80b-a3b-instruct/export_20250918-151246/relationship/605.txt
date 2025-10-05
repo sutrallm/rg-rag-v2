@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Chan Ding is cultivated through Jing Jin (diligent effort); sustained practice is necessary to achieve deep concentration and stability in meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

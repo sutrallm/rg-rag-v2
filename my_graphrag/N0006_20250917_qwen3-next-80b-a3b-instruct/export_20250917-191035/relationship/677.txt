@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TRANSCENDENCE_OF_SAMSARA</target_entity>
+    <relationship_description>Chanding, when sustained with proper effort, leads to liberation from the cycle of samsara by calming the mind and enabling insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

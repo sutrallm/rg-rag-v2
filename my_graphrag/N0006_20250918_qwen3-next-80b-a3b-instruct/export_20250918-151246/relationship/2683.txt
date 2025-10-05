@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Chaoshi arises from the direct perception of Impermanence, which dissolves the illusion of fixed, substantial reality and enables non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

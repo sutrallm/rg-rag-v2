@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正思惟</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正思惟是断除烦恼的重要方法之一，与正见、正精进共同对治贪嗔痴三毒。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

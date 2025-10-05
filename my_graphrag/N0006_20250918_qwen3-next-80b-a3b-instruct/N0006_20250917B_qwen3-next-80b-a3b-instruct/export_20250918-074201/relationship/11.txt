@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUO DE ZHI HUI</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>The wisdom of transcending attachment arises from directly observing the impermanent nature of all phenomena (Wu Chang).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

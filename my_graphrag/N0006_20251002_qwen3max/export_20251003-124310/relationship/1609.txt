@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无执</target_entity>
+    <relationship_description>智慧观照使修行者了知诸法无常，从而不执着于禅修境界或所证之果，达成无执状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

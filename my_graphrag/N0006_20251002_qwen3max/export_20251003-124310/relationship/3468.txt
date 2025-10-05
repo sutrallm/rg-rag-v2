@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内观智慧</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>内观智慧能如实觉察痴的生起与止息，使其根本断除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

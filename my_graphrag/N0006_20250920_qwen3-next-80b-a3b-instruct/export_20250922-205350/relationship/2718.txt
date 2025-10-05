@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>贪源于对无常现象的错误执着，误以为其可恒常拥有或控制，从而产生痛苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

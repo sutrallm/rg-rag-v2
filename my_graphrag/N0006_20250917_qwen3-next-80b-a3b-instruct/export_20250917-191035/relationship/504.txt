@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSAra</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Escaping samsara requires the realization of no-self—without this insight, liberation remains unattainable.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIANXIA</source_entity>
+    <target_entity>ZHIZHI</target_entity>
+    <relationship_description>Xianxia is the ground for zhizhi — wisdom arises by observing the impermanent, selfless nature of phenomena as they appear in the present moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Overcoming ATTACHMENT is essential for achieving LIBERATION from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>造作</target_entity>
+    <relationship_description>Mind directs all karmic formations and intentional actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

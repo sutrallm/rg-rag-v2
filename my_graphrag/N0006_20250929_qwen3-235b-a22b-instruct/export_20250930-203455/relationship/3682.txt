@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>修行者需持戒以奠定禅定与智慧的基础，戒律是三学之首。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

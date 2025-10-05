@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGFU</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Sages are those who have fully realized nirvana—having uprooted defilements and abandoned all attachment, they embody its state of freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

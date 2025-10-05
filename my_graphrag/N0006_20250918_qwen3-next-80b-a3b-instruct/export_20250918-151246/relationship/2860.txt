@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Zhihui (wisdom) is the direct path to jiefu (liberation), as true liberation comes from seeing through the illusion of self and letting go of attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

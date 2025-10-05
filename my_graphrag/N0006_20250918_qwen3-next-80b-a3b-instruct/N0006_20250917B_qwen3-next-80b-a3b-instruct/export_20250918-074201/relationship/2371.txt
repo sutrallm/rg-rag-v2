@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>True saintliness arises from the fusion of pure conduct and profound wisdom — wisdom being the cognitive core of saintly qualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Greed fuels suffering by driving attachment to impermanent objects and experiences, reinforcing the cycle of craving and dissatisfaction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

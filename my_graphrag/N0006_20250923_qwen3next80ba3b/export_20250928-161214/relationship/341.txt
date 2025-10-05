@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NUMBERED TITLES</source_entity>
+    <target_entity>PARAGRAPH THEMES</target_entity>
+    <relationship_description>Numbered titles are used to systematically reorganize and structure paragraph themes for clarity and logical flow.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

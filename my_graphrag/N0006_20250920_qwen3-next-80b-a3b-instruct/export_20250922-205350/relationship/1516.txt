@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三法印</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>三法印為解脫的指引，依此照見諸法真相、斷除貪執，方能脫離輪迴，達成真解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

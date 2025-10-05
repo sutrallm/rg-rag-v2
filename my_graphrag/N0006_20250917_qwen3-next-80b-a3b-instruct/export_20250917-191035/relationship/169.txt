@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DISPERSAL</target_entity>
+    <relationship_description>Chanding actively opposes and removes mental dispersal, creating inner stillness and clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Non-attachment reinforces chanding by preventing clinging to meditative experiences, thus deepening mental stability.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

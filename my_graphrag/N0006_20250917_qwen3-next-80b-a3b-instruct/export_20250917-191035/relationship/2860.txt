@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding is free from the illusion of a "meditator" — when one practices without clinging to a sense of self doing the practice, the mind settles more deeply into stillness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

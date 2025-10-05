@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>无染</target_entity>
+    <relationship_description>涅槃是无苦、无染、无生的究竟安乐状态，无染是其核心特征之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>智慧用來體證一切法的空性，空性是智慧所觀照的終極實相。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

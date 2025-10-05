@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONAL_ORIGIN</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Understanding that all things arise and pass due to conditions enables one to stop resisting change and thus attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

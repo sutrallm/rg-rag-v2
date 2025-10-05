@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>精进修行依赖于持续守护觉知，觉知是精进实践的具体表现与工具。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

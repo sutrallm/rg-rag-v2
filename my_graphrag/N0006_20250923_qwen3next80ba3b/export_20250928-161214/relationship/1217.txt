@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHORS</source_entity>
+    <target_entity>DHARMA EXPLANATIONS</target_entity>
+    <relationship_description>Metaphors are directly converted into explicit Dharma explanations as part of processing requirements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

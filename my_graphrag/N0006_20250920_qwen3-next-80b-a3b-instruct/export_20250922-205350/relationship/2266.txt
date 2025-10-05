@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>單持戒律無智慧，僅得人天福報；智慧使人洞見實相，使戒律不流於形式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

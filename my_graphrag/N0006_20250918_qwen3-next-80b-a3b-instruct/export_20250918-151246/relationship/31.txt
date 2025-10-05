@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED PHENOMENA</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>All conditioned phenomena are inherently impermanent; this is a defining characteristic of conditioned existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

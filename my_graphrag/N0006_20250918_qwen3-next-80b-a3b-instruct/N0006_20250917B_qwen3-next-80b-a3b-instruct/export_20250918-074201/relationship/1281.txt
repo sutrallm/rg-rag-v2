@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>CLARITY</target_entity>
+    <relationship_description>Awakening is the full manifestation of the mind’s inherent clarity, once delusion is removed.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

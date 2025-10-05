@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JI JIE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Moral Discipline provides the stable foundation necessary to cultivate Meditative Absorption without interference from unethical conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

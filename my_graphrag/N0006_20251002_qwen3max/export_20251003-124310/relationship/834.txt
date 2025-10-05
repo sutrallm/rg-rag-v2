@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官享樂</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>若人沉溺於感官享樂，便會落入煩惱的羅網，顯示感官享樂是煩惱生起的誘因之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

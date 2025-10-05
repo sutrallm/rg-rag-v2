@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAMP</source_entity>
+    <target_entity>CLARITY</target_entity>
+    <relationship_description>LAMP dispels darkness and illuminates CLARITY.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

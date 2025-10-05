@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>精进是维持和强化禅定的必要条件，没有持续精进，禅定易被懈怠破坏。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

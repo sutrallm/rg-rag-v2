@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shengzhe embody perfected Chanding, as they dwell in continuous mindfulness and inner stillness without disturbance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

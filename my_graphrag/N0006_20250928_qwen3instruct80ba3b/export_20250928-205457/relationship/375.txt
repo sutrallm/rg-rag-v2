@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>SHENGSILUNHUI</target_entity>
+    <relationship_description>Chronic Zhengnian prevents the arising of ignorance and craving that fuel Shengsi lunhui, thus acting as a shield against the cycle of rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

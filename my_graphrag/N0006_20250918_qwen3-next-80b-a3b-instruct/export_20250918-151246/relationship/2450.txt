@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>WISDOM_OF_NON_ATTACHMENT</target_entity>
+    <relationship_description>Buddha’s teachings reveal the insight of non-attachment and non-self as the key to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

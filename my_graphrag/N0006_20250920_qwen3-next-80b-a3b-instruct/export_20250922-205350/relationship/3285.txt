@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding is established and stabilized through consistent Jingjin; without diligent practice, meditative stability cannot be maintained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>BLIND PERSON</target_entity>
+    <relationship_description>Not practicing the Four Foundations of Mindfulness is likened to being a blind person unable to see colors.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

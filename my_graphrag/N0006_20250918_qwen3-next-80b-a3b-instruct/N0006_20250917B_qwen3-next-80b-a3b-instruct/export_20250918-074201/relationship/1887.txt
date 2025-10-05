@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>DEVELOPMENT_OF_WISDOM</target_entity>
+    <relationship_description>Mindfulness allows for clear observation of reality, which is the basis for developing wisdom about impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

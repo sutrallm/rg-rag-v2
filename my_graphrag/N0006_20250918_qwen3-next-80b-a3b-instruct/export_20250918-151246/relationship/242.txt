@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZAHI</target_entity>
+    <relationship_description>Shengzhe possess zahi as their defining trait—perfect insight into reality that liberates them from ignorance and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

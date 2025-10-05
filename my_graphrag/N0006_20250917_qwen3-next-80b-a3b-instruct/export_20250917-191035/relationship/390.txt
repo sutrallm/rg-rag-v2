@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sanctity is the manifestation of full liberation; those who possess saintly qualities have achieved complete freedom from defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

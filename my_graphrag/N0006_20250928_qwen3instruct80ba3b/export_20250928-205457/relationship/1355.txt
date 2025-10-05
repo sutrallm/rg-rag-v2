@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒行提供穩定的心理環境，使智慧得以生起；無戒則心智散亂，難生真慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

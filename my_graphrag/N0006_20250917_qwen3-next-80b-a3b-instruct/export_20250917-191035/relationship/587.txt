@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVERSION</source_entity>
+    <target_entity>ETERNAL_CYCLE</target_entity>
+    <relationship_description>Aversion contributes to the continuation of samsara through negative karma and mental agitation, preventing liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

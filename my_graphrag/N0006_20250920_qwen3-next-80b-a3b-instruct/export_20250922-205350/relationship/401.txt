@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING CIXI</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Xiu xing cixi (the path of practice) includes the cultivation of Ding (concentration) as the necessary middle stage after discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文</source_entity>
+    <target_entity>原始文本</target_entity>
+    <relationship_description>原文与原始文本在语义上完全等同，均指代需要处理的实质内容主体。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃的本质是无明的彻底熄灭，无明覆盖则涅槃不显。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

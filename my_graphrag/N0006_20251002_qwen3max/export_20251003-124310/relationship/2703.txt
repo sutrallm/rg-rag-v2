@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六入</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者观照六入以理解感官接触如何引发烦恼，是智慧修习的重要对象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

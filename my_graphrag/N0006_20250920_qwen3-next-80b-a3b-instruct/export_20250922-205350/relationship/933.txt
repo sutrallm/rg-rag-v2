@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>八正道是四圣谛中“道谛”的具体实践路径，是实现苦灭之法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>FANNAO GUANYUAN</target_entity>
+    <relationship_description>Enlightened beings have completely eradicated the Three Poisons, which are the root of afflictions, thus embodying the result of overcoming them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

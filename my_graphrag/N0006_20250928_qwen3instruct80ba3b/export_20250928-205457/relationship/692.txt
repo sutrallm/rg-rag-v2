@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Clean ethical conduct supports mental clarity and removes distractions, enabling stable concentration and chanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

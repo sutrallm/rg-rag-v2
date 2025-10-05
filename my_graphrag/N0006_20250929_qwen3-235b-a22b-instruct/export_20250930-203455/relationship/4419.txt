@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>禅定过程中需保持觉知，观察身心变化，觉知如护城河抵御烦恼，保障禅定的稳定与深入。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

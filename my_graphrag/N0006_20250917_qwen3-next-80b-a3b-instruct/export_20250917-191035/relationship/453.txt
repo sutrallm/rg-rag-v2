@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>JIE Tuo</target_entity>
+    <relationship_description>Regular practice of Zheng Nian (mindfulness) in daily life is presented as the most fundamental path leading to Jie Tuo (liberation), by cultivating insight into the nature of experience.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCE NDENT_WISDOM</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Transcendent wisdom directly opposes and eradicates delusion through direct insight into reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

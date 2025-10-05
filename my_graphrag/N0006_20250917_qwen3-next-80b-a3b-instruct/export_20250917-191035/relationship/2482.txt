@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIJIE YU ZHISHI</source_entity>
+    <target_entity>CHAOLIE ZHUZHE</target_entity>
+    <relationship_description>Wisdom, one part of perfect virtue and wisdom, directly enables the transcendence of attachment by understanding impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

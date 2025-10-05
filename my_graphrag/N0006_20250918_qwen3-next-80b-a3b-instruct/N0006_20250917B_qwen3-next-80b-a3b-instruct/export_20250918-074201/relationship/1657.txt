@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZIXIN</source_entity>
+    <target_entity>XIULIAN</target_entity>
+    <relationship_description>Zixin is the location where xiulian occurs; every moment of awareness is a practice ground for spiritual cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

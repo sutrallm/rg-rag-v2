@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念放逸</source_entity>
+    <target_entity>无缰野马</target_entity>
+    <relationship_description>Uncontrolled mental distraction is metaphorically described as an unbridled horse, symbolizing chaos and harm.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

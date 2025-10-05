@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUDAO</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>The path of cultivation (xiudao) begins with moral discipline (jie), forming the first essential stage of the threefold training.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

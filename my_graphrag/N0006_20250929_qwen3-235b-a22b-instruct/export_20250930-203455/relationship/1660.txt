@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>觉知是禅定的核心能力，通过觉知当下使心安住，远离纷扰与躁动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

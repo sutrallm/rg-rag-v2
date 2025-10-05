@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Delusion — misunderstanding reality as permanent and self-existing — is the root of all suffering; its eradication is liberation itself.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>平等</target_entity>
+    <relationship_description>解脱者心恒常安住于平等，不为生死、得失、毁誉所动，是真正自由的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

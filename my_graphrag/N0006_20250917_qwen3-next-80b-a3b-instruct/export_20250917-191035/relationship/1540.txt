@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_PEACE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Inner peace is cultivated through mindful awareness, which observes without attachment or rejection.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

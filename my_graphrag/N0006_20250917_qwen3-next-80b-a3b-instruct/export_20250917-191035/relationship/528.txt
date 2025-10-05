@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>贪欲是禅定的障碍，禅定的作用正是帮助修行者脱离贪欲的侵袭与扰动。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

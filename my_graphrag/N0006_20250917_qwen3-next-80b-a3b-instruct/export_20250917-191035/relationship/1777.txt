@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETERMINED PRACTICE</source_entity>
+    <target_entity>REINCARNATION CYCLE</target_entity>
+    <relationship_description>Consistent practice leads to liberation from the cycle of birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

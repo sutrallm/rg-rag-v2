@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuwo is realized through direct insight into the nature of Wuyun — seeing that none of the five aggregates constitute a lasting self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

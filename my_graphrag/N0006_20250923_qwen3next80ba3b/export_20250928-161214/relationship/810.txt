@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>PERCEPTION</target_entity>
+    <relationship_description>Clinging to perception is one aspect that the Buddha instructs to avoid.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

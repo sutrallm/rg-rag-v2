@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>KARMIC CONSEQUENCES</target_entity>
+    <relationship_description>Karma inevitably produces corresponding karmic consequences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

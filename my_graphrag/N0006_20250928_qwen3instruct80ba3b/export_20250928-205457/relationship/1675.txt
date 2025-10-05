@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWOZHENGJIAN</source_entity>
+    <target_entity>WUZHANG</target_entity>
+    <relationship_description>Wuwo zhengjian is realized through observation of the wuzhang (five aggregates), which are shown to be without a fixed self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

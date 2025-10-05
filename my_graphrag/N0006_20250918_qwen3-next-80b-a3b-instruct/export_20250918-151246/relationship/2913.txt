@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>KU</target_entity>
+    <relationship_description>By seeing the non-self nature of experience, craving and clinging cease, thereby eliminating the root cause of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

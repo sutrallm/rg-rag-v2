@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DEITIES</target_entity>
+    <relationship_description>Those who embody saintly qualities naturally evoke reverence from deities due to their inner purity and spiritual attainment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHAO YUE ZHU ZHAI</target_entity>
+    <relationship_description>Sheng Zhe fully embodies the wisdom of transcending attachment, seeing all phenomena as they truly are without clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

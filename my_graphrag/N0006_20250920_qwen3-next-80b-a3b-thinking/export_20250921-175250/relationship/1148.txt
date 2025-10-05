@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Celestial beings hold practitioners who have achieved liberation in high esteem.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

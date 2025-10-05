@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>CLARITY</target_entity>
+    <relationship_description>Stillness of mind is the condition for clarity—only when the mind is undisturbed can it reflect reality as it is.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

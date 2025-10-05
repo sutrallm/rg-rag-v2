@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHING_AS_A_BAFT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Teachings guide one toward chanding, but attachment to doctrines obstructs the realization of true meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

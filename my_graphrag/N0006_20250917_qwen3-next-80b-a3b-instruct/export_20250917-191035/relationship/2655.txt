@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>精进是解脱的根基，唯有持续努力、不放逸，才能摆脱无明与贪欲，最终实现解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

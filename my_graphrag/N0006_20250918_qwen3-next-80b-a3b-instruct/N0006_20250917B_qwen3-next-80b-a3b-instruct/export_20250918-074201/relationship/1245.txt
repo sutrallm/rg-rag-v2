@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自性本淨</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定的目的是清除遮蔽，讓本具的自性本淨自然顯現，二者是本體與方法的關係。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

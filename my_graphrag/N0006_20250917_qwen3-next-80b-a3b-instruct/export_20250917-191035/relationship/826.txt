@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>JIEDE LUXIAN</target_entity>
+    <relationship_description>The path to liberation is specifically designed to uproot afflictions through discipline, concentration, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

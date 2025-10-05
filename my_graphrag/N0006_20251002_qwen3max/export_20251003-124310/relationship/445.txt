@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>贪欲是烦恼的一种具体表现形式，是对顺境或禅悦的贪著，障碍心的解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

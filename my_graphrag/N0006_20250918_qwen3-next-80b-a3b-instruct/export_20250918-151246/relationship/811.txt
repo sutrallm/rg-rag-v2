@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Chao yue zhi zhuo arises from the direct insight into the impermanent nature of all things, allowing one to let go of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

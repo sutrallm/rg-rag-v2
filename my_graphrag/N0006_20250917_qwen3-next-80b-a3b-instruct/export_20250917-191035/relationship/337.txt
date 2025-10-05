@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIZHUO</source_entity>
+    <target_entity>SHENGYE</target_entity>
+    <relationship_description>Wuzhizhuo is a key defining trait of Shengye: the saintly one has no attachment, even to spiritual experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>自省</target_entity>
+    <relationship_description>修行者需常自省是否仍被五欲、得失、“我执”所动，以修正行为、保持修行方向。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

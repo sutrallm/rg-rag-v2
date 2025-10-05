@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRAJNA WISDOM</source_entity>
+    <target_entity>SIGNS</target_entity>
+    <relationship_description>Prajna wisdom perceives signs as empty and non-attachment-free.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

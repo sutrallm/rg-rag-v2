@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>戒定慧三學</target_entity>
+    <relationship_description>修行需依循戒定慧三學的次第：從持戒到禪定再到智慧，三者構成修行的基本路徑。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

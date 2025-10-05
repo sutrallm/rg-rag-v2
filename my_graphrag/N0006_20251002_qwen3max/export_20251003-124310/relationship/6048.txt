@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>心解脫的內在特徵是止息內心的躁動與執取，徹底遠離煩惱，不再被其繫縛。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

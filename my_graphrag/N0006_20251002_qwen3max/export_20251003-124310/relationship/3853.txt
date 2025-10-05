@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>見道者</source_entity>
+    <target_entity>三結</target_entity>
+    <relationship_description>見道者初斷三結。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

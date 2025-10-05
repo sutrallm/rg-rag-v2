@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>菩提</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>菩提的修习需伴随慈悲，以无我心利益众生，而非仅求自了。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

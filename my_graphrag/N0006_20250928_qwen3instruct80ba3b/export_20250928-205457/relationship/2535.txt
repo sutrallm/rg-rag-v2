@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI YU ZHIZHI</source_entity>
+    <target_entity>SHENGE</target_entity>
+    <relationship_description>Compassion and wisdom in balance (cibei yu zhizhi) define the enlightened character (shenge); full liberation requires both profound insight and active mercy toward others.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

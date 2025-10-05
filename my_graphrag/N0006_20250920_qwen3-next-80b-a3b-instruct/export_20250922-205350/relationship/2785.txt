@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL_DAY-TO-DAY_PRACTICE</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Mindful day-to-day practice is the application of mindfulness in ordinary life, extending meditation beyond formal sitting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

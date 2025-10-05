@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Stillness is the experiential quality of liberation—the mind no longer reacts to craving or aversion, and abides in peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

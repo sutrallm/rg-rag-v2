@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>正念使人如實覺察無常的本質，從而不被其恐懼或迷惑所控制，是對治無常的關鍵工具。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

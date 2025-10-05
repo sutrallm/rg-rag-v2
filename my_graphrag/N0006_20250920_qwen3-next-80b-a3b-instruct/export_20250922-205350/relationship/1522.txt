@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>般若</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>般若是智慧的最高形態，是與空性相應的究竟洞察，代表智慧的圓滿體現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

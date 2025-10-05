@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>念佛法門</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>念佛法門以智慧觀照為實質，非僅口誦，而是心與法相應，生起無我觀。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行的次第</source_entity>
+    <target_entity>观慧</target_entity>
+    <relationship_description>观慧是修行次第的第三阶段，以戒与定为基础，最终成就智慧解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

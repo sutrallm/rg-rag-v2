@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>diligence</source_entity>
+    <target_entity>afflictions</target_entity>
+    <relationship_description>Through consistent diligence, practitioners gradually overcome inner afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

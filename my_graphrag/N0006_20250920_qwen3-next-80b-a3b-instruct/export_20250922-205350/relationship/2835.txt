@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>无我观通过对五蕴的如实观察，了知其无常、无我、苦的特性，从而破除“我”的错觉。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

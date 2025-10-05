@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Chanding requires Zhengnian as its foundation; mindfulness allows the mind to remain focused and undistracted, enabling meditative concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

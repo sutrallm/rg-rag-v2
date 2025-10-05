@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉照</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>觉照有助于在日常生活中落实戒定慧三学，使其相辅相成，净化身心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

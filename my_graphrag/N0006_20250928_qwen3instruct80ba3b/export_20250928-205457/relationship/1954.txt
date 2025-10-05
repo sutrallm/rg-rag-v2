@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>JIETAI</target_entity>
+    <relationship_description>Continuous mindfulness is the daily practice that gradually leads to the dismantling of delusion and eventual attainment of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIZHINO</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>Wuzhi (transcending attachment) is a core mechanism leading to Jiefang (liberation), as liberation arises from non-clinging to all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

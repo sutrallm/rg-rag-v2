@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DULLNESS</target_entity>
+    <relationship_description>DULLNESS is an obstacle that must be removed to practice effective MEDITATION.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

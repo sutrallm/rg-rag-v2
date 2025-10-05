@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>禅修次第</target_entity>
+    <relationship_description>精进修行是推动禅修次第进展的动力，唯有不懈努力才能循序渐进完成从粗重烦恼到心一境性的转化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>JIEBAO</target_entity>
+    <relationship_description>Nirvana (niepan) is presented as the very essence of liberation (jiebao): both refer to the unconditioned peace of the mind when it is free from clinging and fabrication.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

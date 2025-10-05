@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUFEN</target_entity>
+    <relationship_description>The concept of non-self arises from the understanding that the self is merely the transient aggregation of the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

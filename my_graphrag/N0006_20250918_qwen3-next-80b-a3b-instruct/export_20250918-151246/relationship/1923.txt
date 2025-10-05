@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly qualities include chanding as one of the foundational practices for maintaining mental stillness and purity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>指令說明</source_entity>
+    <target_entity>翻譯</target_entity>
+    <relationship_description>The instructions require translation of the provided original content.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

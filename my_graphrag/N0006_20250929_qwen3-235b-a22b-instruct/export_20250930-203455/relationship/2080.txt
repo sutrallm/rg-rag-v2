@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>智慧能洞察嗔恚的本质，通过正见与正思维对治，逐步净化内心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

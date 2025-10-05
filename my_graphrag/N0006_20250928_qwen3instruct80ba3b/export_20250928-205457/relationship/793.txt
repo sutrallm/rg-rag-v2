@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我觀</target_entity>
+    <relationship_description>智慧的核心體現為無我觀，唯有透過無我觀才能如實了知五蘊非我，徹底破除執著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QIXING</source_entity>
+    <target_entity>JIUDE</target_entity>
+    <relationship_description>Qixing (the seven steps) includes jiude as the first stage, establishing the moral base for meditation and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_CONDUCT</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Ethical conduct supports the arising of wisdom, as a disturbed or unregulated mind cannot clearly perceive ultimate truth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

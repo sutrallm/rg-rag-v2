@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_NOBLE_TRUTHS</source_entity>
+    <target_entity>STEFFIN</target_entity>
+    <relationship_description>Steffin is the sustained diligence required to investigate and embody the Four Noble Truths in daily life, especially to see the causes of suffering and the way out.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

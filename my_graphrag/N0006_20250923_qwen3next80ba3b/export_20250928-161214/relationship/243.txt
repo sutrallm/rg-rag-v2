@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>SENSORY OBJECTS</target_entity>
+    <relationship_description>DELUSION involves misperceiving distinctions between good and bad qualities in SENSORY OBJECTS.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

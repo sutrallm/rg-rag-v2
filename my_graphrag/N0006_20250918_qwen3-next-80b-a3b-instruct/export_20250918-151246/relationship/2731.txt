@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness is the foundation upon which meditative concentration is built; sustained awareness enables deep stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

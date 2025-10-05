@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无取无著</target_entity>
+    <relationship_description>圣者安住于无取无著的寂静状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

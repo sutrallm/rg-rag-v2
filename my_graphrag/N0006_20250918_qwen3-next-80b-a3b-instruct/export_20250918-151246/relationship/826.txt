@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>SI SAN DU</target_entity>
+    <relationship_description>The holy being is defined by the complete eradication of the three poisons, which are the causes of bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

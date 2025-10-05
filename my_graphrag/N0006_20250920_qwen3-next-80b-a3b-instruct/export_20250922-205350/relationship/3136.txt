@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>NON-SELF VIEW</target_entity>
+    <relationship_description>Saintly qualities such as equanimity and cessation of new karma stem directly from the deep realization of non-self, which eliminates the root of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

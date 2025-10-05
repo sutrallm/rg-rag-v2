@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHISM</source_entity>
+    <target_entity>BUDDHIST TEACHING</target_entity>
+    <relationship_description>Buddhism encompasses its core teachings, which guide practitioners toward enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

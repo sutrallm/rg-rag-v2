@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>修行次第具体体现了戒定慧三学的实践顺序：持戒为先，继而修定，最终生慧，三者按次第展开，构成完整的解脱路径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

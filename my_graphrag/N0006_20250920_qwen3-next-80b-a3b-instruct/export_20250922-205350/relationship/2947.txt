@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SHELIE</target_entity>
+    <relationship_description>Niepan (nirvana) is not attained by seeking, but is the natural result of Shelie (complete letting-go); it is the state of cessation when all clinging ends.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

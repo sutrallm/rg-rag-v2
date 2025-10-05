@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ARSECA</target_entity>
+    <relationship_description>Continuous effort (arseca) is required to enter and stabilize chanding, as without diligence one falls back into distraction and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

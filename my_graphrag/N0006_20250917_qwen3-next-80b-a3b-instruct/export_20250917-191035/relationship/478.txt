@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>WISE_INSIGHT</target_entity>
+    <relationship_description>True sainthood is marked by the full manifestation of wise insight — seeing reality clearly and being free from delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

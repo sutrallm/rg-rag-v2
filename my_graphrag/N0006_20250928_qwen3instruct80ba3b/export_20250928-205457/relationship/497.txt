@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者已实现究竟解脱，心如虚空，无我无得，超越苦乐。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

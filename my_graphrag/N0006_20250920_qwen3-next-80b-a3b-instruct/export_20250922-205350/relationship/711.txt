@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The complete eradication of greed, hatred, and delusion — the three poisons — defines the state of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

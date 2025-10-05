@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>无执</target_entity>
+    <relationship_description>真正的精进是持续觉照而不执修行成果，若执着于精进本身，反而违背无执之真义，二者辩证统一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

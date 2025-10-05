@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The realization of non-self (wuwo) directly leads to the cessation of craving and aversion, which is the essence of nirvana (niepan).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPPLEMENT</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>Supplementation enables the translation process to proceed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

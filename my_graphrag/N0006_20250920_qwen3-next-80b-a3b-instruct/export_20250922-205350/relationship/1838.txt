@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴 (FIVE AGGREGATES)</source_entity>
+    <target_entity>无我 (NON-SELF)</target_entity>
+    <relationship_description>Insight into the five aggregates as impermanent, suffering, and not-self is the direct path to realizing non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>贪</target_entity>
+    <relationship_description>贪是烦恼的一种，属于根本烦恼，需通过禅定、智慧与觉察加以调伏与断除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

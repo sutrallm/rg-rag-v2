@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>譬喻</source_entity>
+    <target_entity>比喻词</target_entity>
+    <relationship_description>譬喻中包含比喻词如“如”、“譬如”</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

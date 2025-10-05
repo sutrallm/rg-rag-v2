@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Wuzhu is the culminating state of Jiede — the mind unattached even to liberation itself, reflecting true freedom beyond all concepts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

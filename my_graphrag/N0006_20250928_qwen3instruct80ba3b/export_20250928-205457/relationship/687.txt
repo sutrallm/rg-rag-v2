@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>The four foundations are the structured method for developing and deepening mindfulness in daily and meditative practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

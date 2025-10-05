@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Wisdom — seeing impermanence and non-self — directly leads to the ability to release all forms of attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

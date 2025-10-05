@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>疑障</source_entity>
+    <target_entity>佛法僧</target_entity>
+    <relationship_description>疑障表现为对佛法僧的疑惑，障碍修行；通过如实观照可消除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

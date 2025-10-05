@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Non-attachment is the direct antidote to greed — letting go of desire for experiences, results, or states frees the mind from bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

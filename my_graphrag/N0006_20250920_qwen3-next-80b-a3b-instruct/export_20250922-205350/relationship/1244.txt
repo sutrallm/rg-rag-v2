@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無住之心</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無住之心是解脫的終極狀態，不迎不拒、不增不減，已超越追求與恐懼，是解脫的完全顯現。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

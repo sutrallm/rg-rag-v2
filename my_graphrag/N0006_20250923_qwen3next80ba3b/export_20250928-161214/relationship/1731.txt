@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY_PHENOMENA</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>WORLDLY_PHENOMENA are inherently characterized by IMPERMANENCE.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

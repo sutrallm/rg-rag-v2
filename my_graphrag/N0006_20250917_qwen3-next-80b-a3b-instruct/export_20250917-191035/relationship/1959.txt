@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>The noble being sees the five aggregates clearly for what they are — without falsely identifying them as self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

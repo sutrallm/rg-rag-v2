@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>The shengzhe continues to embody jingjin perpetually, not as effort to become, but as naturally flowing awareness unimpeded by laziness or distraction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

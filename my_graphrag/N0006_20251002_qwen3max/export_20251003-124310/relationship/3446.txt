@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>定</target_entity>
+    <relationship_description>定是戒定慧三学的组成部分之一，为智慧生起提供基础。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

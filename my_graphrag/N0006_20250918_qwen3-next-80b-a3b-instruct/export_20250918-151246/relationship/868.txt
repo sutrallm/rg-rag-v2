@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING RICHANG SHIJIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Daily practice requires persistent diligence; the idea that "every moment is practice" presupposes the continuous, unwavering effort of jingjin.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

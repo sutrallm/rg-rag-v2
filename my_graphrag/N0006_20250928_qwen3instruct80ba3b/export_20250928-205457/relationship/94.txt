@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXINGZHE</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Xiuxingzhe apply Zhengnian in every daily activity, making mindfulness the continuous thread of their practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

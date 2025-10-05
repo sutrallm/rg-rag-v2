@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Meditation is a primary practice within spiritual cultivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

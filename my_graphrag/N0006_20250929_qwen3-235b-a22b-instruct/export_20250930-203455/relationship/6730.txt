@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>无我观通过破除自我执着，减轻嗔恚，使心不因逆境或他人而生愤怒与排斥。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

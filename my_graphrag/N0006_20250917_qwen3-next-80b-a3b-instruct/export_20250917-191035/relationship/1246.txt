@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>Recognized as enlightened practitioners, 聖者 embody the wisdom of non-attachment, having uprooted all clinging to mental states, pleasures, or supernatural powers.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

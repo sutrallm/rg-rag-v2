@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG JIEDE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zhineng Jiede (wisdom-based liberation) is the direct cause of achieving Niepan (Nirvana), as insight into non-self and emptiness eliminates ignorance and ends suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

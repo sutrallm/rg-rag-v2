@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGDAO</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>The correct path (Zhengdao) requires diligent effort (Jingjin) to follow; without consistent practice, progress on the path stalls.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

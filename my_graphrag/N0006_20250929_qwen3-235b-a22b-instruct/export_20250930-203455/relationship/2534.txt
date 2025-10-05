@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>七觉支</source_entity>
+    <target_entity>喜</target_entity>
+    <relationship_description>喜是七觉支之一，指因修行进步或禅悦而生的愉悦。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

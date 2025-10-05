@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛</source_entity>
+    <target_entity>舍利弗</target_entity>
+    <relationship_description>佛向舍利弗传授戒定慧的法义，是教义传递的核心关系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

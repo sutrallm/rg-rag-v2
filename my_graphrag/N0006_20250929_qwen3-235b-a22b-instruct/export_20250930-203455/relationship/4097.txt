@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>觉知帮助修行者持续观察贪嗔痴的生起与灭去，是断除烦恼的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

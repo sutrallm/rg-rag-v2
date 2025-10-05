@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EGO-CLINGING</source_entity>
+    <target_entity>ULTIMATE LIBERATION</target_entity>
+    <relationship_description>Ultimate liberation requires the complete dissolution of ego-clinging, even the clinging to the idea of liberation itself.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

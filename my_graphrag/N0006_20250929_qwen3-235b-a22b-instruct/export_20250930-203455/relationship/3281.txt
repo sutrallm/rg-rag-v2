@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是解脱的究竟境界，解脱者虽不追求其名，但已安住于该状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

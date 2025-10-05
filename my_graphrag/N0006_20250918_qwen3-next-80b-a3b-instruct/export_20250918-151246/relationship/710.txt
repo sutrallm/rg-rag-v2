@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Exertion supports the cultivation of non-attachment by maintaining continuous practice that gradually releases clinging to experiences and outcomes.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者能持续安住于寂静，是禅定成就的表现，禅定是圣者调伏心念的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

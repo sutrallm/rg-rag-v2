@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在转化的路径</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>内在转化的路径通过观照实现对诸法的如实认知，正是超越执着智慧的实践过程。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

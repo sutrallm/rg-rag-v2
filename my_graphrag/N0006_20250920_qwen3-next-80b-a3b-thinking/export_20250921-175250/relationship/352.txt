@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>ARISE AND CEASE</target_entity>
+    <relationship_description>The FIVE AGGREGATES undergo constant ARISE AND CEASE, reflecting their transient nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

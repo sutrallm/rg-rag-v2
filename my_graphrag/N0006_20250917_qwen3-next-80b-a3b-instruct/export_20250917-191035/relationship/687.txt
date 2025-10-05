@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>REALITY_OF_NO-BIRTH_NO-DEATH</target_entity>
+    <relationship_description>Direct wisdom allows one to perceive and realize the ultimate truth of non-arising and non-ceasing phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom uproots greed by revealing the impermanent and unsatisfactory nature of all objects of craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

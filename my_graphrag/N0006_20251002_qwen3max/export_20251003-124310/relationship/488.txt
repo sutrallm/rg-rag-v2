@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>依戒定慧次第修学是通往涅槃的唯一正道，三者共同构成证得苦之止息的完整路径。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUE XING</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>Awareness (Jue Xing) dissolves mental afflictions (Fan Nao) by not clinging to deluded thoughts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

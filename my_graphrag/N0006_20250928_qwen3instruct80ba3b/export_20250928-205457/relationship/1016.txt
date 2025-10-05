@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION-MINDFULNESS BALANCE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Concentration-mindfulness balance is the mechanism by which chanding is stabilized and purified, avoiding either dullness or agitation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

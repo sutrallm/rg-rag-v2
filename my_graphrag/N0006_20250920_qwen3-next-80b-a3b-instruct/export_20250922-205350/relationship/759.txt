@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>輪迴</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>貪欲是推動輪迴的力量之一，眾生因貪求樂受與存在而沈溺於生死循環。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

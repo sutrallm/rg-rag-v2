@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>DUYU</target_entity>
+    <relationship_description>Continuous mindfulness (zhengnian) allows one to observe craving as it arises, enabling the realization that leads to du yu — the cessation of desire.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

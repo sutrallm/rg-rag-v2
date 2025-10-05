@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>平等</target_entity>
+    <relationship_description>无我是平等境界的基础，圣者因彻见无我而安住于究竟平等。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

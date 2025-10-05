@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无我观通过深入观察身心五蕴，发现其中无恒常独立之“我”，从而自然放下执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

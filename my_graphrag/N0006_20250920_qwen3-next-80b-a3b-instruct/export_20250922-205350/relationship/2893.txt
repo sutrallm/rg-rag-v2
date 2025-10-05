@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>依法不依人</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>依法不依人强调以智慧抉择，而无我观是契合法义的核心智慧，是“依法”实践的关键内容。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

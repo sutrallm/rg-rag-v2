@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHEN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>A Shengzhe has completely uprooted Chen (hatred) along with Tan and Chi, making these afflictions no longer present.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>A Saintly Being has transcended Anger, having uprooted aversion through deep insight and equanimity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

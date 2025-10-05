@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE OBJECTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom involves observing the six sense objects as transient and not to be clung to, breaking the chain of craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

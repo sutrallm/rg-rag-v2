@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>离欲使人减少外境干扰，从而更容易进入并保持禅定状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

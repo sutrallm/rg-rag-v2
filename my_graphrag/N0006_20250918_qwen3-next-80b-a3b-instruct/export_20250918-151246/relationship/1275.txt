@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>SHENG SI ZHI LUN</target_entity>
+    <relationship_description>Jietuo is the escape from the cycle of birth and death; they are direct opposites: one leads to freedom, the other to bondage.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

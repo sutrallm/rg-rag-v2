@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>解脱的标志是彻底断除执著，执著的止息即解脱的实现，二者为因果与互斥关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

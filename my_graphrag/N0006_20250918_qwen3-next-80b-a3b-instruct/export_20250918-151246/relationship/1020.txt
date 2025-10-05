@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_BEING</source_entity>
+    <target_entity>EQUAL_MIND</target_entity>
+    <relationship_description>A noble being naturally manifests equal mind, unswayed by pleasure or pain, because they see all phenomena as empty and impermanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUO ZHUZHE</source_entity>
+    <target_entity>XIN JIE TUO</target_entity>
+    <relationship_description>Transcending attachment (chaoguo zhuzhe) is a necessary condition for achieving heart liberation (xin jietuo), where one no longer clings to any states or results.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

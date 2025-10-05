@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING DE HE XIN ZAI YU RI YONG CHANG XING</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Daily practice brings Chan Ding into ordinary life, equating walking, sitting, and thinking with meditative absorption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

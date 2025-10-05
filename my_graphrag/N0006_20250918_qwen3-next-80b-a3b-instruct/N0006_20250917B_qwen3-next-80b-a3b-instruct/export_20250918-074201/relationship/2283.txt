@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Right practice, through discipline and insight, leads directly to liberation from the rebirth cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

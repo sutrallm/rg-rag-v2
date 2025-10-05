@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>A Shengzhe is defined by possessing true Zhihui; wisdom is one of their core, distinguishing traits alongside moral purity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

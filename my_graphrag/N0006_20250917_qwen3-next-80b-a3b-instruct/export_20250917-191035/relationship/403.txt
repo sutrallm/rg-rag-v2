@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY CHARACTER</source_entity>
+    <target_entity>MINDFUL AWARENESS</target_entity>
+    <relationship_description>Saintly Character is manifested through constant Mindful Awareness, which keeps thoughts pure and free from attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

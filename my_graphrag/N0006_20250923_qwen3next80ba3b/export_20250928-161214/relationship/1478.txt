@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>标题</source_entity>
+    <target_entity>数字编号</target_entity>
+    <relationship_description>标题使用数字编号进行格式化</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

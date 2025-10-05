@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JEAN JIN XIU</target_entity>
+    <relationship_description>Sheng Zhe (sages) are those who embody continuous, unwavering diligent practice — their enlightened state is the fruit of sustained effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_PURITY</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Mind purity—the absence of greed, hatred, and delusion—is synonymous with the state of nirvana, as both represent the final cessation of mental defilements.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

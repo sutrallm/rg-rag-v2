@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_PRACTICE</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>True practice requires direct insight into non-self through mindfulness of arising and passing phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

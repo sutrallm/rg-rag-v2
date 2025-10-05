@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF</source_entity>
+    <target_entity>MYSELF_AND_MINE</target_entity>
+    <relationship_description>“Myself and mine” arises from the false belief in a permanent “Self”; they are psychologically interconnected concepts of egoic identification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

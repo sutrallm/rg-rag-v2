@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGGUO</source_entity>
+    <target_entity>CHAOGUO ZHUOZHE</target_entity>
+    <relationship_description>Even while striving for sacred attainments, one must embody transcending attachment to avoid ego-inflation and attachment to spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

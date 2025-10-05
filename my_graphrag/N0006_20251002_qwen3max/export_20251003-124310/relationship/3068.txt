@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念与觉知</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>持续的正念与觉知能令烦恼无法生起，是防止烦恼现行的有效方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

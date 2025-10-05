@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE_DING_HUI</source_entity>
+    <target_entity>TAOJI</target_entity>
+    <relationship_description>The threefold training of ethics, meditation, and wisdom (Jie-Ding-Hui) constitutes the complete path that leads to ultimate liberation (Taoji).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

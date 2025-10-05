@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Suffering originates from ignorance — specifically, the misperception of self and permanence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

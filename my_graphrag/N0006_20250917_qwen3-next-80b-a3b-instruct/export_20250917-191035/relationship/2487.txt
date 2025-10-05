@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGREZHE DE ZHENSHI CHENGZHI</source_entity>
+    <target_entity>CHIJIE YU ZHISHI</target_entity>
+    <relationship_description>True attainment manifests as the embodiment of perfect virtue and wisdom: ethical behavior and mental clarity expressed naturally in daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

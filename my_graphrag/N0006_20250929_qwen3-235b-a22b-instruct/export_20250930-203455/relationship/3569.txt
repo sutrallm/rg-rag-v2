@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>心识</target_entity>
+    <relationship_description>四念处通过观身、受、心、法净化心识，使心不随境转。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

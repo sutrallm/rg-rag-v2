@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE_DISCERNMENT</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Wise discernment leads to non-attachment by revealing that rituals and external practices are illusory if not rooted in inner realization—true liberation comes from seeing through illusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

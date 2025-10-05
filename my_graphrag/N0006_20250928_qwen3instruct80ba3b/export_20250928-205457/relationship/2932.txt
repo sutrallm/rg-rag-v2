@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Continuous observation of impermanence breaks the illusion of permanence, which is the foundation of self-grasping; this insight leads directly to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

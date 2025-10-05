@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE MIND NATURE</source_entity>
+    <target_entity>AWAKENED STATE</target_entity>
+    <relationship_description>A pure mind nature naturally manifests as the awakened state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>精进是稳固禅定基础的必要条件；唯有不懈怠、不放逸，才能真正修习禅定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

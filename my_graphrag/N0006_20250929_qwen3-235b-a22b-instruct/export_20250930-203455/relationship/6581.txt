@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>虚空</source_entity>
+    <target_entity>心的自由</target_entity>
+    <relationship_description>虚空比喻心的自由状态——无执、无碍、如空，是修行者超越束缚的境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

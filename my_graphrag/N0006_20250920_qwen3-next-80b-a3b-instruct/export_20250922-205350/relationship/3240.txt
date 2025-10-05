@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>内观</target_entity>
+    <relationship_description>内观是通过正念觉照身心生灭过程的具体实践方式，正念是内观的核心工具。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

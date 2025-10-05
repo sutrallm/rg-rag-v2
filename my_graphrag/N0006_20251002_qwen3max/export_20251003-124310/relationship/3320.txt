@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>戒、定、慧三者相辅相成，戒为慧的间接基础，通过定力生起智慧。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

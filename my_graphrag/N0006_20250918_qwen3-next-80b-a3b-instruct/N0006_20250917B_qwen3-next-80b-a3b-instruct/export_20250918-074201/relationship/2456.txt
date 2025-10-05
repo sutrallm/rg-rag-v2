@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-EMANCIPATION</source_entity>
+    <target_entity>EFFORT</target_entity>
+    <relationship_description>Self-emancipation depends entirely on continual personal effort applied with right understanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

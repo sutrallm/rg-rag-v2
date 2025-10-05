@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱的本质即是痛苦的彻底止息，是修行者从苦中获得自由的结果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

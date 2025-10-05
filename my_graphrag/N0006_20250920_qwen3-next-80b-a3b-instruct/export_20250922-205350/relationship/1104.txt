@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WENSISIXIU</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Wensisixiu requires Ding — the practice phase — to embody insights gained through hearing and reflection.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

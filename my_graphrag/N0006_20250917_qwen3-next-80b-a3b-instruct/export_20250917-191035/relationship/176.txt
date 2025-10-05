@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Realization of non-self is a critical insight that leads directly to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

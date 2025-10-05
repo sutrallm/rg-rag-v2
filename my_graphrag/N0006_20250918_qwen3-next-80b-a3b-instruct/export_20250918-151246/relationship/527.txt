@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>觉悟者安住当下，因如实观照无常，故不执着过去与未来。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

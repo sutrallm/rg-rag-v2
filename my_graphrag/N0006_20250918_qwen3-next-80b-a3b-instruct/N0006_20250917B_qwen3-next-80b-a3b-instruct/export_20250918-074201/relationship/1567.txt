@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHENGLUN</target_entity>
+    <relationship_description>The Shengzhe has transcended Shenglun entirely, having eradicated all causes of rebirth through wisdom and discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

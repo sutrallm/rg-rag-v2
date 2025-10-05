@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWOGUAN</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Wuwoguan directly analyzes the five aggregates to deconstruct the false notion of self as independent or permanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

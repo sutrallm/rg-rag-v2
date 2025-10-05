@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUZI</target_entity>
+    <relationship_description>Fannao arises from ignorance of Wuzi (emptiness); realizing emptiness dissolves the basis of all clinging and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

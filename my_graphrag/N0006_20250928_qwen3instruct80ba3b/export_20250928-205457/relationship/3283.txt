@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>聖者的特質建立在深邃智慧之上，能如實觀照實相，不為外境所動。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

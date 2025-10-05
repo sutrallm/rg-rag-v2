@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力与因果</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>正见业力与因果促使修行者谨慎行为、积累善因，是远离苦果、迈向解脱的基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

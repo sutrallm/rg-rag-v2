@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUYU WUQIU</target_entity>
+    <relationship_description>Niepan is manifested as wuyu wuqiu — a mind that seeks nothing and fears nothing, embodying true freedom from all conditioning.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>RESULT</target_entity>
+    <relationship_description>Non-attachment prevents being bound by results, as stated in '不被结果所束缚'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

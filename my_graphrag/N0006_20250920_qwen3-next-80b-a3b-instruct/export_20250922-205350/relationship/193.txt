@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我與無住</target_entity>
+    <relationship_description>了知「五蘊皆空」是破除我執、達至無我無住的關鍵基礎。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

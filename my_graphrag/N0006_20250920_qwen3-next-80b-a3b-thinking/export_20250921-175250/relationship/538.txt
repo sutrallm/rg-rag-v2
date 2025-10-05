@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Mind is impermanent and constantly changing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

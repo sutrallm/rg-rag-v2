@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>尋與伺</source_entity>
+    <target_entity>二禪</target_entity>
+    <relationship_description>二禪以止息尋與伺為特徵，顯示其已超越初禪。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

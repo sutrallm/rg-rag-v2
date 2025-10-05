@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NON-SELF VIEW</target_entity>
+    <relationship_description>Non-attachment arises directly from the realization of non-self; one cannot truly detach without seeing the illusion of the self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

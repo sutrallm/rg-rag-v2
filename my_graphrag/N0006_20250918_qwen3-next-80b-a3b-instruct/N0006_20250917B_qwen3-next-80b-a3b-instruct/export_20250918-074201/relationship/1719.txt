@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸法空性</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>了知诸法空性是究竟智慧的核心内容，是超越执着的根本洞见。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

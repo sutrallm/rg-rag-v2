@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Neiguan leads to the realization of wuwo (non-self) by observing the transient, impersonal nature of thoughts and sensations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

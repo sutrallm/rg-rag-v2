@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SCRIPTURES</target_entity>
+    <relationship_description>The Buddha is the teacher of the scriptures, which serve as recorded teachings derived from his insights and guidance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

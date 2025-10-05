@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Continuous exertion in practice is the necessary condition to break free from ignorance and attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

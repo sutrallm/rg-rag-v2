@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者培育慈悲心，以平等无分别的智慧关怀众生，消融对立与嗔恨。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>WISE OBSERVATION</target_entity>
+    <relationship_description>Chan Ding provides the stable mental foundation from which wise observation arises, enabling insight into impermanence, suffering, and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

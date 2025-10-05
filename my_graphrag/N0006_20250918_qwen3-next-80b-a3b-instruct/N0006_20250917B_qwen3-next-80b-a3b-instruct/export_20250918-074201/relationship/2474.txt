@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Chanding, when guided by wisdom, serves as a foundation for realizing Nirvana by calming the mind so insight can arise.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

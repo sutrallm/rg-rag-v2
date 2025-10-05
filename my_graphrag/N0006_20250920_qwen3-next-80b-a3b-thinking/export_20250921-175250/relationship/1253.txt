@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHU ZHI</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Overcoming firm attachment (Zhu Zhi) to the self leads to the realization of non-self (Wu Wo), dissolving the illusion of an independent identity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

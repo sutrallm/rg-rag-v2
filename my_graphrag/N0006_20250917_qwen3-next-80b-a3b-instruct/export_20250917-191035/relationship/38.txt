@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EGO</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is only fully realized when the ego — the sense of “I” and “mine” — is completely dissolved.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

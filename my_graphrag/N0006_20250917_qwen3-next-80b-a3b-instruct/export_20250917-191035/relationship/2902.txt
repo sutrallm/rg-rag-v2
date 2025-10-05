@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding protects the mind from greed by detaching it from worldly desires and sensory pleasures.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

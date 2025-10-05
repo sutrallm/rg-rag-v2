@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS (SANXUE)</source_entity>
+    <target_entity>WISDOM (HUI)</target_entity>
+    <relationship_description>Wisdom is the culmination of the three trainings, transforming discipline and concentration into liberating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

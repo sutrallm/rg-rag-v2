@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>自在無礙</target_entity>
+    <relationship_description>體證「無我」使人不再執著於「我」與「我所」，因而自然達成自在無礙的狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

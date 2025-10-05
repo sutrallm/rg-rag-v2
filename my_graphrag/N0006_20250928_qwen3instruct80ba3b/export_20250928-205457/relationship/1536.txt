@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>对无常的如实观照是解脱的核心路径，使心不因得失而动，自然解脱于一切波动。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

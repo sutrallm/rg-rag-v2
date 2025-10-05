@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PEACE</target_entity>
+    <relationship_description>Meditation cultivates inner tranquility and serenity by calming mental turmoil.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

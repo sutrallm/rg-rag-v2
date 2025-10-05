@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>FREEDOM</target_entity>
+    <relationship_description>Holding precepts naturally leads to unimpeded freedom and ease.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

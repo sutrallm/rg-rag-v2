@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-Self</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Understanding non-self is the defining insight of true wisdom, leading to the dissolution of ego-based clinging and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

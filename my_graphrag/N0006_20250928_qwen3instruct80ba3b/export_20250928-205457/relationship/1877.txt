@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGLI HUANLUN</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Shengli huanlun (cycle of birth and death) arises directly from Wuming (ignorance) about the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

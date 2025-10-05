@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI YU CIBEI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhihui yu cibei requires Chanding as the foundation for wisdom to arise — meditation grounds clear insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

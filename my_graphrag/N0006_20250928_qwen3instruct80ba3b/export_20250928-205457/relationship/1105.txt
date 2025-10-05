@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYI GUANZHAO</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Wuyi guanzhao is the specific practice through which wuzhi is developed, by observing the five aggregates as non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

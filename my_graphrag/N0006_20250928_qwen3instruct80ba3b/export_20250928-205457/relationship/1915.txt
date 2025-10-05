@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>三學</target_entity>
+    <relationship_description>修行者依循三學次第修習，是其通往解脫的實踐路徑。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

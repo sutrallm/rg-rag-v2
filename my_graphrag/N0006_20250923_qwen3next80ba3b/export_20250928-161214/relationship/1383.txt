@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>BOILING WATER</target_entity>
+    <relationship_description>BOILING WATER symbolizes the scattered mind that MEDITATION aims to overcome.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

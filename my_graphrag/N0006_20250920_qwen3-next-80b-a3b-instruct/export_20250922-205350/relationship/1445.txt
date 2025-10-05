@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHARACTER</source_entity>
+    <target_entity>CHANDA (MEDITATIVE CONCENTRATION)</target_entity>
+    <relationship_description>The practitioner cultivates meditative concentration to achieve mental stillness, as described in the first section.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

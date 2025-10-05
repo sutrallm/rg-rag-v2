@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无常观照</target_entity>
+    <relationship_description>无常观照是智慧的具体体现，通过观照一切现象的无常、苦、无我，生起不执着的智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

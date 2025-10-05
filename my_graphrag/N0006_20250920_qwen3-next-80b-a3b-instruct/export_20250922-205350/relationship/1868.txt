@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM (HUI)</source_entity>
+    <target_entity>COMPASSION (CISHI)</target_entity>
+    <relationship_description>True compassion arises not from emotion, but from wisdom's clear perception of all beings' shared suffering under ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

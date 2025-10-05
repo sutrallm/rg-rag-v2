@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪欲</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>貪欲是煩惱的主要表現形式之一，與嗔恚、愚痴並列為三毒。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

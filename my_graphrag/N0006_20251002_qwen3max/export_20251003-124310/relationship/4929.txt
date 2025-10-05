@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦行</source_entity>
+    <target_entity>邪见</target_entity>
+    <relationship_description>若缺乏正见，即使表面上勤修苦行，仍可能落入邪见或执着，导致修行误入歧途。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

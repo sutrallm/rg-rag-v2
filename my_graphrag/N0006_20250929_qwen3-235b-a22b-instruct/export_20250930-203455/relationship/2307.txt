@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧生起条件</source_entity>
+    <target_entity>戒律清净</target_entity>
+    <relationship_description>智慧的生起依赖于戒律清净，清净戒行是禅定与智慧发展的前提。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

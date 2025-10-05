@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Delusion—the root ignorance of true reality—is the fundamental cause of the entire rebirth cycle.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

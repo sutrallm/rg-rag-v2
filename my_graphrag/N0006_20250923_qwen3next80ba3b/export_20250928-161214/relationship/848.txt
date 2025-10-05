@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMLESS DHARMA GATE</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>FORMLESS DHARMA GATE is a practice method for treating AFFLICTIONS.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESULTS</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Results are clung to, causing further suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

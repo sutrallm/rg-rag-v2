@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greed and delusion are among the three root causes of suffering, each reinforcing the other and perpetuating cyclic existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

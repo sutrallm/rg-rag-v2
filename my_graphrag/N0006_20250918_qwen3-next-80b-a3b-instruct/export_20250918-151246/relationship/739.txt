@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING-JIN</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Jing-jin is the driving force that propels the practitioner beyond ignorance and attachment, directly leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正念能防止外境牵引，及时对治贪嗔痴等烦恼，避免其滋长蔓延。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

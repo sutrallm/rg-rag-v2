@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEME</source_entity>
+    <target_entity>WUZHUO</target_entity>
+    <relationship_description>Without moral discipline (jieme), the mind remains agitated and cannot cultivate the clarity needed for non-attachment wisdom (wuzhuo).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLAIN LANGUAGE EXPLANATION</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The plain language explanation requires translation as a part of its generation process.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

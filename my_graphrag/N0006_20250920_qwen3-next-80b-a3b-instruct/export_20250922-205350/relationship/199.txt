@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>执着源于无明，因不知诸法无常无我而执取境界与自我，是轮回的延续。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

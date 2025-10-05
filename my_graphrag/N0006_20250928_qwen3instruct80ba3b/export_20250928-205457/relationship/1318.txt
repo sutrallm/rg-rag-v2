@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Saints embody non-attachment perfectly, not clinging to any meditative experiences, insights, or attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

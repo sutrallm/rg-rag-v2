@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂靜</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>真正的解脫表現為內心的絕對寂靜，不受外境與內念的擾動。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

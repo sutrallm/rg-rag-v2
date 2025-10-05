@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>The sage maintains continuous diligent effort (Jing Jin) as part of habitually guarding the mind and maintaining purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

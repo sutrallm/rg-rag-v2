@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDUSTRY</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Through persistent effort, one gradually dismantles ignorance by cultivating insight and awareness, preventing the mind from remaining trapped in delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

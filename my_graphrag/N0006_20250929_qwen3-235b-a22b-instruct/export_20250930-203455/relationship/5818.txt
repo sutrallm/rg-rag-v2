@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>缘起是诸法实相的本质，通过观察缘起可如实知见诸法实相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

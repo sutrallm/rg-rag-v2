@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIANJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Liánjīn uses Chanding as the “hammer” to shape and refine the mind through sustained concentration and stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

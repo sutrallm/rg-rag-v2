@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chan Ding stabilizes the mind, creating the inner clarity necessary for wisdom to arise; they are mutually reinforcing pillars of practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

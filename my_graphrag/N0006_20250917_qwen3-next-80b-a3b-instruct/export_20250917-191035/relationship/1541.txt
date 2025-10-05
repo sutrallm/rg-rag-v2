@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_PEACE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the meditative practice that stabilizes the mind to realize inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

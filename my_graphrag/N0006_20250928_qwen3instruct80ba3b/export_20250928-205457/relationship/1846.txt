@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HOLY_BEING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>A holy being has utterly severed greed, as it is one of the three root afflictions to be transcended.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

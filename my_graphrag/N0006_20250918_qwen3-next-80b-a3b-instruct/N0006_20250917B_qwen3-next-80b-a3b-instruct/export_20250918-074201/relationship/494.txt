@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>觉悟是超越执着智慧的最终成果，真正的觉悟包含不执著于觉悟之相的深刻体证。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

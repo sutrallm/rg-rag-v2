@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-EFFORT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation cannot be granted by others; it must be earned through one's own consistent self-effort in practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

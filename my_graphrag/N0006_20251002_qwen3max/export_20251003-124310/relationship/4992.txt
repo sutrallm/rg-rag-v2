@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修持</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者將修行貫徹於日常生活的行住坐臥中，實踐正念與平等心，體現真正的日常修持。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

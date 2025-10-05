@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔恚</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>嗔恚与愚痴同为三毒之一，互为因果，共同导致轮回与痛苦，需以正见对治。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

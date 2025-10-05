@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DA</source_entity>
+    <target_entity>QINGMING</target_entity>
+    <relationship_description>Da is not distant but is experienced directly through Qingming — clarity in the present moment is the living expression of the Way.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

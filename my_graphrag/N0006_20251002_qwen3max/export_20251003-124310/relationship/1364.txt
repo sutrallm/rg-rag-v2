@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定能使人远离烦恼，内心稳定不再被外境所扰；同时，烦恼是禅定需要克服的主要障碍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

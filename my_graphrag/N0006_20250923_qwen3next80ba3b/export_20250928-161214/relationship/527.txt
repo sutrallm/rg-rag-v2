@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>THREE-FOLD EMPTINESS</target_entity>
+    <relationship_description>Practitioners apply the wisdom of threefold emptiness to transcend attachment to actions and their results.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

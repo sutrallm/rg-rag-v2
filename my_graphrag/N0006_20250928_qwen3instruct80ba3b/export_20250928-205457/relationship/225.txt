@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Through continuous zhengnian, one observes the five aggregates without identifying with them, directly realizing wuwo in daily experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

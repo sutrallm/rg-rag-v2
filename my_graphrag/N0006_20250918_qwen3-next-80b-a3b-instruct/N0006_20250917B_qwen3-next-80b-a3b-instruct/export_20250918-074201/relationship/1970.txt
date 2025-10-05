@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON</source_entity>
+    <target_entity>REINCARNATION CYCLE</target_entity>
+    <relationship_description>The Death Demon symbolizes the force that traps beings within the reincarnation cycle through negligence and lack of diligence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

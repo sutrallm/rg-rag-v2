@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>观照无常</target_entity>
+    <relationship_description>正见包含“诸行无常”的如实认知，观照无常是正见在禅修中的具体实践方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

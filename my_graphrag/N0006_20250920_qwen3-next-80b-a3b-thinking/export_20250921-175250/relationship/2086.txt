@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MOTH</source_entity>
+    <target_entity>FIRE</target_entity>
+    <relationship_description>Moths are drawn to fire and fly into it, symbolizing self-destruction through attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

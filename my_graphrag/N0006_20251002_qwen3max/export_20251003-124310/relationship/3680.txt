@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者因具足戒定慧而断尽烦恼、自利利他，戒定慧是成就圣者果位的修行体系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

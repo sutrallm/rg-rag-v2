@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>SILENT PRACTICE</target_entity>
+    <relationship_description>Sages engage in silent practice to deepen their meditation and achieve inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

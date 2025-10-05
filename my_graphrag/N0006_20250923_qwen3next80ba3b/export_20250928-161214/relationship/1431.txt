@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>MONK</target_entity>
+    <relationship_description>The Buddha directly addressed the monks in the original text to convey teachings on impermanence and discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

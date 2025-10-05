@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>POFAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding helps extinguish pofan (greed, hatred, delusion) by calming the mind and reducing reactivity to arising mental states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

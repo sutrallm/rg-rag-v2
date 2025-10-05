@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRABING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Craving manifests as greed—the desire for pleasurable experiences, one of the three poisons that bind beings to suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

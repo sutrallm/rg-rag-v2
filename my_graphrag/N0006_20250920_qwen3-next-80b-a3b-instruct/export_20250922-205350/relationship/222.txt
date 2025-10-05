@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>YUANQI XINGKONG</target_entity>
+    <relationship_description>Contemplation of no-self is grounded in the understanding of dependent origination and emptiness; seeing phenomena as conditionally arisen reveals their lack of inherent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

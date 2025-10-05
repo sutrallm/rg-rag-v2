@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHMENT</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>When one is detached from outcomes and states, the mind naturally settles into stillness, unagitated by craving or fear.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我与我所</source_entity>
+    <target_entity>妄念</target_entity>
+    <relationship_description>我与我所的执着属于虚妄之念</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

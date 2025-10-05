@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>JIAOCHA</target_entity>
+    <relationship_description>Jiaocha (mindful awareness) is the direct method to observe fannao (distress) without reacting, thereby allowing it to dissolve naturally through non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

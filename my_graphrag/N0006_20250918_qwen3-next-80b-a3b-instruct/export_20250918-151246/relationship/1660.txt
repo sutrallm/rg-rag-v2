@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHÈNGZHE</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>The sage sees the five aggregates as non-self and non-owning, which is central to their liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>By seeing the nature of suffering in all conditioned states, Chan Ding leads to dispassion and release from suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

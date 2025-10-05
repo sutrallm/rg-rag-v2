@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING YU ZHIHUI</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>The integrated practice of meditation and wisdom is the direct antidote to wu ming (ignorance), enabling one to see the true nature of reality and dissolve delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

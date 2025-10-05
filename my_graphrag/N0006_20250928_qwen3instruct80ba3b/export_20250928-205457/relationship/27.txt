@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE DHARMA</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>True Dharma requires mindfulness as the vehicle for direct insight into the nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

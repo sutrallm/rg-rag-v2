@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>LI JIE</target_entity>
+    <relationship_description>Mindfulness is described as the “permanent refuge” and is the practical means through which liberation is continuously realized in the present moment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

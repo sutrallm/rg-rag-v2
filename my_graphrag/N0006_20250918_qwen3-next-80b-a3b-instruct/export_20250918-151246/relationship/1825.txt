@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>JIN JIN</target_entity>
+    <relationship_description>Ignorance (Wu Ming) is the obstacle that diligent effort (Jin Jin) is meant to overcome, enabling progress on the path to awakening.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

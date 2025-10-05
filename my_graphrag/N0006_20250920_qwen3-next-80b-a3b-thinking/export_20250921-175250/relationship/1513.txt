@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Diligence rids the mind of defilements through persistent spiritual effort.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

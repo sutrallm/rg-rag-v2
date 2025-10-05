@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The Shengzhe (noble one) embodies perfected Chanding, as their mind is continuously steady and unmoved, reflecting deep meditative mastery.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO DE ZHIHUI</source_entity>
+    <target_entity>WULIZHENG</target_entity>
+    <relationship_description>The understanding that all things are unreal or illusory is the foundation of transcending attachment to experiences, sensations, and states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

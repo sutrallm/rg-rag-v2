@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the second component of the Threefold Training — developing mental focus after ethical grounding.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

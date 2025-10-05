@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMON</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Jiemei supports Zhihui indirectly by creating the mental clarity and moral stability required for profound insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

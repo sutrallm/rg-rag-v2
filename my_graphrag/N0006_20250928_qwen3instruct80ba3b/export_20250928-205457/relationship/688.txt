@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Ignorance is the foundational delusion that gives rise to the three poisons; one cannot overcome greed or aversion without uprooting ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

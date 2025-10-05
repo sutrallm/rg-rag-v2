@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHIZHUO</target_entity>
+    <relationship_description>Meditative concentration creates the stable mind necessary to cultivate the wisdom of non-attachment, allowing one to observe phenomena without clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

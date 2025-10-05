@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINJIEPUTUO</source_entity>
+    <target_entity>LUNHUI</target_entity>
+    <relationship_description>Xinjieputo is the sudden or gradual release from Lunhui (samsara), achieved by breaking the chain of craving and ignorance that fuels rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

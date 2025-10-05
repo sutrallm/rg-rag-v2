@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>禅定（正定）是八正道的第八支，是通向涅槃的重要修行环节，与其他七支相辅相成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

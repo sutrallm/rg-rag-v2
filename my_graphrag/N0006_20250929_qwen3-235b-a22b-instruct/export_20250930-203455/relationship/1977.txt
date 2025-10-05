@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>同体大悲</target_entity>
+    <relationship_description>慈悲包含同体大悲，是修行者培养的视众生如己、感同身受的品质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Shengzhe embody the result of sustained Jingjin—only through continuous effort do they attain the extinguished defilements and unmoved mind characteristic of sainthood.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

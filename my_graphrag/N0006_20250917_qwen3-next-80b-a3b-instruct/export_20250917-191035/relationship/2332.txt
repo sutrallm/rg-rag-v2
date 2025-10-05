@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHI</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Shengzhi (transcendent wisdom) leads directly to Jietuo (liberation), as seeing the true nature of reality dissolves attachment and ends suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

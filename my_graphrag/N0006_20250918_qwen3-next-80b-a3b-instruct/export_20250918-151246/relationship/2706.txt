@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT AWARENESS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Present moment awareness is the practical expression of mindfulness in everyday life, extending formal meditation into daily activities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

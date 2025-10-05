@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHENGSI LUNHUAI</target_entity>
+    <relationship_description>The Shengzhe (noble one) has transcended the cycle of Shengsi Lunhuai (birth and death), having uprooted the causes of samsaric suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE SIX SENSE BASES</source_entity>
+    <target_entity>ETHICAL CONDUCT</target_entity>
+    <relationship_description>Guarding the six sense bases is an expression of ethical discipline, preventing sensory-driven cravings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

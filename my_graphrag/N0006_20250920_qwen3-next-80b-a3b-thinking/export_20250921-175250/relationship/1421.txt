@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSORY NATURE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Understanding the illusory nature of phenomena fosters non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

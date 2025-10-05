@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>感官是五蕴中的色蕴，通过观察其虚妄性，可破除我执。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

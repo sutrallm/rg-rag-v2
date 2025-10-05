@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>教义细节</source_entity>
+    <target_entity>佛教义理</target_entity>
+    <relationship_description>教义细节必须完整保留以确保佛教义理的准确性，二者为具体与核心的关系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

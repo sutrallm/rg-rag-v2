@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>DISTRACTIONS</target_entity>
+    <relationship_description>Strong CONCENTRATION helps overcome DISTRACTIONS by stabilizing attention, as exemplified by "心念专注...远离纷扰".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

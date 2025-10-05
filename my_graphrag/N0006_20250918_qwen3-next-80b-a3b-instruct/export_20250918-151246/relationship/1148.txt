@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅悦</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Even pleasant meditative experiences (禅悦) must be seen through with wisdom to avoid attachment, which negates spiritual progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

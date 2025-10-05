@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>烦恼是四圣谛中“苦”与“集”的体现，通过正见与正思维对治，可导向“灭”与“道”。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

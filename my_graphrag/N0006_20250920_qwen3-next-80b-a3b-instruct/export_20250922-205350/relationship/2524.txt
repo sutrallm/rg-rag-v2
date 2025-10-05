@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIÉLÜ</target_entity>
+    <relationship_description>Precepts (jiélü) are the foundation that allows chanding to arise; without ethical discipline, the mind remains agitated and cannot concentrate.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe are characterized by flawless zhengnian — their constant mindfulness is the observable sign of their advanced realization.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom allows the practitioner to directly observe and understand impermanence, which is one of the three marks of existence and essential for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

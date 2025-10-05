@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>True liberation (Jietuo) stems from Chaoshi (wisdom beyond attachment); without non-clinging insight into impermanence and non-self, liberation cannot be realized.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

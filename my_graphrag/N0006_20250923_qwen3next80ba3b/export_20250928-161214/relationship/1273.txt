@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>EGO ATTACHMENT</target_entity>
+    <relationship_description>Observed precepts help break ego attachment through disciplined practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

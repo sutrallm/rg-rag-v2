@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者因具足深刻智慧，能看透萬法假象，斷盡煩惱，因而成就聖果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

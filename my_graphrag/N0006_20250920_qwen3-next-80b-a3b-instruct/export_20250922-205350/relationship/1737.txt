@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死輪迴</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者已超越生死輪迴，不再受業力牵引，是修行者所追求的最終解脫目標。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

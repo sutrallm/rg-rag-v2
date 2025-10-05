@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Effort is the persistent energy required to develop and maintain chanding without lapsing into laziness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

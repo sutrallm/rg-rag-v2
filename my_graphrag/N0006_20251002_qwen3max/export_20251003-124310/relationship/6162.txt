@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>輕安</source_entity>
+    <target_entity>離欲</target_entity>
+    <relationship_description>修行者若貪著禪定中的輕安，便會落入微細執著；離欲要求徹底放下對輕安等境界的渴望。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

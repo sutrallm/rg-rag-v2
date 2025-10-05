@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>中道是通往涅槃的實踐路徑，避免兩種極端而導向寂靜解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

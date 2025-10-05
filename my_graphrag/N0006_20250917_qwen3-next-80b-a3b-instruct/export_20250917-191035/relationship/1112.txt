@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Followed together, precepts, concentration, and wisdom form the threefold training—the complete path to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

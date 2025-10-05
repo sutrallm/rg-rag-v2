@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>无常观是培养智慧的重要方法，通过观察无常可如实知见诸法实相，从而破除执着、断除贪爱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

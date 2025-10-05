@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGREGATES</source_entity>
+    <target_entity>SELF-CLINGING</target_entity>
+    <relationship_description>Mistaking the five aggregates as a permanent self is the core mechanism of self-clinging and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

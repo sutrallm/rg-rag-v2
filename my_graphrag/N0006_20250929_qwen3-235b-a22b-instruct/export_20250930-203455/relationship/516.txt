@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>止</target_entity>
+    <relationship_description>禅定包含止的修习，止使心安定，是禅定实践的核心组成部分。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

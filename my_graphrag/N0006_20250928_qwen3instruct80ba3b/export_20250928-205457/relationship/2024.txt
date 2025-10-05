@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Chanding weakens desire by creating distance from craving and allowing the mind to rest in equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

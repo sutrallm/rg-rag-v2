@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHENGJIAN SHILIAN</source_entity>
+    <target_entity>JUEZHIZHI GUICHU</target_entity>
+    <relationship_description>Wuwo Zhengjian Shilian is expressed through Juezhizhi Guichu — observing body and mind as flowing phenomena without clinging to an "I" who observes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

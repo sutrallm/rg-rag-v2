@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净戒行</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>清净戒行是修行次第的起始阶段，为后续修习禅定和生起智慧奠定基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

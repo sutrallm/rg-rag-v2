@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>成果验证</source_entity>
+    <target_entity>顺逆境不为所动</target_entity>
+    <relationship_description>成果验证的标准之一是能否于顺逆境中皆不为所动，不生贪嗔，体现心解脱的稳定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

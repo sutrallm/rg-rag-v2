@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHENGJIAN SHILIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Practicing Wuwo Zhengjian Shilian requires continuous Jingjin (effort) to consistently let go of “I” and “mine” in every moment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

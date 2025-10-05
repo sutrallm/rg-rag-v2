@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ALL BEINGS</source_entity>
+    <target_entity>SAINTLY ONES</target_entity>
+    <relationship_description>ALL BEINGS show respect and trust towards SAINTLY ONES due to their enlightened qualities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

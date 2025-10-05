@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUTION</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Caution is necessary to maintain mindfulness during favorable circumstances to prevent complacency.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>如镜照物</target_entity>
+    <relationship_description>修行者应如镜照物般不贪不拒，外境来则显，去则不留，体现无执与自在。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

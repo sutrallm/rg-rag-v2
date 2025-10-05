@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>True wisdom (Zhihui) is the direct means to attain Jiefu; it dismantles ignorance and reveals liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

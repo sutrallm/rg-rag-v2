@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE FIVE SKANDHAS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom arises through the direct observation that the five skandhas are impermanent, suffering, and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

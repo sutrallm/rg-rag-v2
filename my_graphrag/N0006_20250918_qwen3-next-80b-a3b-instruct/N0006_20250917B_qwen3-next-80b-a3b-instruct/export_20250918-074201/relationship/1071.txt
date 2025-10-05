@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>憎恨</target_entity>
+    <relationship_description>禅定能令心清净安稳，脱离憎恨的情绪扰动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Holy beings have attained full liberation, completely free from the cycle of birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

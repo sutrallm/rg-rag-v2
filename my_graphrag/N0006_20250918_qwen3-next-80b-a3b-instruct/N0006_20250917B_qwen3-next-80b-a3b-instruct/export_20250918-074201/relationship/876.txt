@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADVERSE CONDITIONS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Adverse conditions, when skillfully observed, serve as catalysts for awakening and thus contribute directly to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

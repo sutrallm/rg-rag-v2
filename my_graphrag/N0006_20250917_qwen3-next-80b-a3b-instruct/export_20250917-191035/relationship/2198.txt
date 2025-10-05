@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>禅定通过安定心念、断除散乱与贪欲，是通往解脱的重要修行方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

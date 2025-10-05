@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>FORM</target_entity>
+    <relationship_description>The eye, as part of the six sense bases, perceives visual form ("眼见色"), establishing a direct sensory relationship.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修成果</source_entity>
+    <target_entity>心一境性</target_entity>
+    <relationship_description>禅修成果（如轻安、喜乐）可能在心一境性的禅定状态中生起，但文本强调不应对此类成果执着，即使它们源于心一境性。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>RESPECT</target_entity>
+    <relationship_description>Saints earn the respect of all sentient beings due to their spiritual attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

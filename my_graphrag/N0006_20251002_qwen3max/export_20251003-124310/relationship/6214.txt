@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>专注</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>专注是禅定的核心要素，使内心稳定不散乱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

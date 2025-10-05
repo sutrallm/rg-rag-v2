@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YIZI XIU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe (sage) is the result of Yizi xiu (self-reliant practice); liberation comes only from one’s own effort, not external powers.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

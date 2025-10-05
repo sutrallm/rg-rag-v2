@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saints are beings who have achieved complete liberation, embodying the ultimate goal of Buddhist practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

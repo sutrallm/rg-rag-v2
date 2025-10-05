@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_BEYOND_ATTACHMENT</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>WISDOM_BEYOND_ATTACHMENT transcends ATTACHMENT through non-clinging insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

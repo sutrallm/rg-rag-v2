@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三解脱门</source_entity>
+    <target_entity>无愿</target_entity>
+    <relationship_description>无愿是三解脱门之一，指超越一切造作与希求，是解脱的究竟状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

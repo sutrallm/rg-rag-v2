@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>草根</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>草根比喻烦恼的潜伏性，若不彻底拔除，遇缘仍会再生，需持续精进。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

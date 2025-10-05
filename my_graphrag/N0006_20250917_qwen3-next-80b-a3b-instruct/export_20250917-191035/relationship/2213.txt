@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is attained only when the false notion of "self" and "mine" is seen through and abandoned.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

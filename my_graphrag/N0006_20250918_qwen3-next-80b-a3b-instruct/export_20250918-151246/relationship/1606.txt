@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行之道</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行之道强调当下觉知，而禅定正是这种觉知的实践方式，二者在本质上一致。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

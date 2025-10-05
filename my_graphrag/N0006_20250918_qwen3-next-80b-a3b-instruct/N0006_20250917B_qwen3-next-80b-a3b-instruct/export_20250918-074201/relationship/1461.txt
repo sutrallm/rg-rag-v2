@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪愛</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>貪愛與無明一同驅動眾生在生死輪迴中不斷執取與再生。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

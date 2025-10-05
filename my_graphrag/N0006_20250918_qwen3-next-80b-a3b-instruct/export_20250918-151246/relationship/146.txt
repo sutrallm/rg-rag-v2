@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom directly leads to liberation by dismantling ignorance, attachment, and false views about self and reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

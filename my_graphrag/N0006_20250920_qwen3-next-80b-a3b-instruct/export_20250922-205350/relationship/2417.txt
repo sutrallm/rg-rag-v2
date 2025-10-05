@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>觉悟者在日常行住坐卧中皆是正念，实质是持续禅定状态的外在表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_VERBAL_REALIZATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Non-verbal realization depends on chanding to stabilize the mind, enabling direct insight beyond conceptual thought.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

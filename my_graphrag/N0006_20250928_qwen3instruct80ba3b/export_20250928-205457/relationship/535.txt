@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODHISATTVA</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>A Bodhisattva must cultivate wisdom to see the emptiness of all phenomena, enabling non-attached compassionate action.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT_WISDOM</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Transcendent wisdom leads to inner peace by enabling the practitioner to see through illusions and thus cease clinging and aversion to phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

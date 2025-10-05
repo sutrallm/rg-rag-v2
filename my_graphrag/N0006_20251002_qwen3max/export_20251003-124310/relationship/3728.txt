@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>慈悲与智慧</target_entity>
+    <relationship_description>解脱者以慈悲与智慧利益众生，此二德是其证悟后自然流露的无我大用。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

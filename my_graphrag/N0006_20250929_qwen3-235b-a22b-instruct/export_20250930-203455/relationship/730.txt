@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>正念一旦生起，贪、嗔、痴等三毒即退散，使心清净、智慧显现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

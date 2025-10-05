@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>無常與無我是佛教互為支撐的兩大理性觀照，從現象的變化性推論主體的非實有性。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Diligent effort (jingjin) is the essential practice that sustains the entire path toward liberation (niepan), preventing regression into ignorance and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>解脫者即是具足戒、定、慧的聖者，二者描述同一類實踐成就者。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

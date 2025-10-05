@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅观</source_entity>
+    <target_entity>止观双运</target_entity>
+    <relationship_description>禅观实践依赖止观双运，止令心安定，观令慧生起，二者缺一不可，共同推动禅观深入。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

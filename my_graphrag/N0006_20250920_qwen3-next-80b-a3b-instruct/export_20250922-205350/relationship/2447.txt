@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Impermanence and non-self are interrelated insights; observing the constant change in phenomena leads to the realization that no fixed self exists.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

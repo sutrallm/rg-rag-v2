@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>观</target_entity>
+    <relationship_description>心识通过观的修习洞察实相，观察无常、无我、苦，净化杂染。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

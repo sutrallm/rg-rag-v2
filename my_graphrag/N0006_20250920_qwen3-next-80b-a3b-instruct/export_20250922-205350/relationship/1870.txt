@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-REALIZATION</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>The Buddha provides guidance, but self-realization requires personal, direct insight — the teacher cannot awaken the student directly.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

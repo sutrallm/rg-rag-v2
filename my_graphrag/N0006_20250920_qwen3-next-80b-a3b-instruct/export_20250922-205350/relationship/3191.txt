@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH OF CULTIVATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is the final and liberating stage of the cultivation path, completing the progression from discipline to concentration to insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>中道态度——不执取过去、未来或当下——是通向涅槃的关键修行方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

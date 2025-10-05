@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETINGHUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jietinghui constitutes the complete path leading to Niepan: moral conduct prepares the mind, concentration steadies it, and wisdom liberates it.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

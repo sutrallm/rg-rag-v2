@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律通过约束行为使心安定，为智慧的生起创造条件，是修行次第的起点。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

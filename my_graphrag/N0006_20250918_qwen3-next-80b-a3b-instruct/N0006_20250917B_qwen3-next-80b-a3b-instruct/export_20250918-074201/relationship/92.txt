@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Insight into the true nature of reality enables non-attachment by revealing that all phenomena are impermanent and selfless.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

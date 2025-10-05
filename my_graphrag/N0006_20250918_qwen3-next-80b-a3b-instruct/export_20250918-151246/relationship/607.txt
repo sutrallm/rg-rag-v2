@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHUO</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Wu Zhuo (non-attachment) arises from overcoming Wu Ming (ignorance) by seeing the illusory nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

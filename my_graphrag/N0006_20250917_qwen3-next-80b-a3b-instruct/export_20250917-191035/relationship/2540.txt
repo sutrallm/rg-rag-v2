@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENOUGH EXHAUSTION</source_entity>
+    <target_entity>BOUNDARYLESS CONSCIOUSNESS</target_entity>
+    <relationship_description>When defilements are fully eradicated, the mind becomes like a pure mirror — reflecting without clinging, which is boundaryless consciousness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

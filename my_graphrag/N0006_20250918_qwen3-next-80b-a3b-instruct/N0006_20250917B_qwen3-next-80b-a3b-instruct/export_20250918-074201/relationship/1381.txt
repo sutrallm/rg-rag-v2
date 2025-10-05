@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者 (THE SAINTLY ONE)</source_entity>
+    <target_entity>貪瞋痴 (GREED, HATRED, DELUSION)</target_entity>
+    <relationship_description>The saintly one has completely transcended greed, hatred, and delusion, which are utterly absent in their mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

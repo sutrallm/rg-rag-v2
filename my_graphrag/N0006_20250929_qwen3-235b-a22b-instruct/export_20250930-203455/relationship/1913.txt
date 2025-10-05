@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>涅槃是彻底断除贪嗔痴三毒后证得的寂静境界，贪嗔痴是涅槃需消除的对象。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHUO DE ZHIGUI</source_entity>
+    <target_entity>WUZHU ZHUO</target_entity>
+    <relationship_description>Transcending attachment naturally leads to non-abiding, where one remains unattached even to the experience of liberation itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

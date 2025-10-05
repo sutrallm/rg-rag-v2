@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_PRACTICE</source_entity>
+    <target_entity>EGO</target_entity>
+    <relationship_description>True practice dismantles the ego by cultivating awareness without self-referential attachment or striving for personal gain.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

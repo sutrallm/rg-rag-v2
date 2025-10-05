@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wisdom deepens chanding by revealing the impermanent and selfless nature of all experiences, preventing attachment to meditative joys.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

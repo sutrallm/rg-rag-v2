@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANG NIAN</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Mindfulness in daily life is the method through which one directly observes and confirms impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

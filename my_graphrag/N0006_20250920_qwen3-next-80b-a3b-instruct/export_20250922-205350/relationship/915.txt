@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI FA</source_entity>
+    <target_entity>KAN AI</target_entity>
+    <relationship_description>Dependent origination (yuanqi fa) teaches that craving (kan ai) arises from ignorance and perpetuates suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION (CISHI)</source_entity>
+    <target_entity>EQUAL MIND</target_entity>
+    <relationship_description>Equal mind is the expression of compassion freed from personal bias, demonstrating non-discrimination rooted in wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

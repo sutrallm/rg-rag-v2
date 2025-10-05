@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>WISDOM_AND_COMPASSION</target_entity>
+    <relationship_description>Non-attachment is the expression of balanced wisdom and compassion, avoiding both detachment and emotional entanglement.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

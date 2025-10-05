@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREAKING ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Breaking attachments to all desires and states leads directly to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

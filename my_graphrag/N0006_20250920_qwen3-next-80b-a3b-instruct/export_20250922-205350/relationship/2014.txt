@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>正念是通向解脫的唯一Path，因其積累清明、削弱煩惱，為解脫奠定根基。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

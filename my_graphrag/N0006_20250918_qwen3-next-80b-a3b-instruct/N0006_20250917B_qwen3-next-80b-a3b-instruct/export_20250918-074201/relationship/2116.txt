@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL DISCIPLINE</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>Saintly beings are defined by their perfect moral discipline, which supports their meditative and wisdom attainments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

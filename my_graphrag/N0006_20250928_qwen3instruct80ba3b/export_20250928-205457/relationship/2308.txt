@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观双运</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慧观是止观双运中“观”的部分，是智慧生起的直接修习方式。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

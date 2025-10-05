@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>清淨戒行為禪定的基礎，行為清淨則心易安定，有助於進入禪定狀態。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

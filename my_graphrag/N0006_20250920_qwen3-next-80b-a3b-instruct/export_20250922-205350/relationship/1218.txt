@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佈施</source_entity>
+    <target_entity>持戒</target_entity>
+    <relationship_description>佈施與持戒並列為心地清淨的雙重根基，缺一不可。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

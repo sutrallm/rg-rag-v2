@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>放逸会导致修行者堕入死亡魔王的掌控，唯有不放逸才能避免此危险。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

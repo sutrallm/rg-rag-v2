@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realization of no-self is the direct path to liberation, as the illusion of self is the root cause of suffering; its dissolution brings freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

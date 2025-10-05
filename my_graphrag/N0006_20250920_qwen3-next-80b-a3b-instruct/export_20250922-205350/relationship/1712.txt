@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Only through diligent practice (jingjin) can one become a saintly being (shengzhe), who has eradicated all defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>EVERYDAY-AWARENESS</target_entity>
+    <relationship_description>Mindfulness is extended into everyday awareness to maintain continuous insight beyond formal sitting meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

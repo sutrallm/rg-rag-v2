@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF_RELIED_AWAKENING</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Self-relied awakening depends entirely on mindfulness as the primary practice to generate insight and uproot ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

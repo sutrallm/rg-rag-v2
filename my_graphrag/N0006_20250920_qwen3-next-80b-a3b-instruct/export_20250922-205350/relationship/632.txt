@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>真实智慧能看透一切法的空性，从而消解执着，是破除执着的钥匙。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUJING</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Wujing is the defined purpose of Jiede; liberation is not for worldly or celestial gain but for the complete cessation of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

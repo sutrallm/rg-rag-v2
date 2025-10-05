@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>禪定幫助修行者遠離貪欲，使內心清淨安穩。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUIREMENTS</source_entity>
+    <target_entity>DOCTRINAL_DETAILS</target_entity>
+    <relationship_description>Specific doctrinal details must be retained without simplification as per requirements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

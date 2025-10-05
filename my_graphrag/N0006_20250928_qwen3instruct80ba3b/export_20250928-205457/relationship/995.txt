@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU JINGJIE</source_entity>
+    <target_entity>BAOYU ZHINENG</target_entity>
+    <relationship_description>Transcendent wisdom (baoyu zhineng) teaches correct attitude toward meditative experiences (chanxiu jingjie) — neither grasping nor rejecting them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

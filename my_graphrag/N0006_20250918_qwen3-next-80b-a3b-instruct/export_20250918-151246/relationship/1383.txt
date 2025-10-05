@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the method through which true wisdom (Zhishi) arises, as it enables direct observation of bodily and mental phenomena as they change.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING DE HE XIN ZAI DANG XIA</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>True practice is realized moment by moment through present-moment mindfulness, which is the foundation and expression of meditative absorption.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

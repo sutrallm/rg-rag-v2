@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUO ZHIZHUO DE ZHIHUI</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Chao Guo Zhi Zhuo De Zhi Hui is a specific manifestation of Zhihui (wisdom), emphasizing the non-attachment aspect of wisdom beyond spiritual experiences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

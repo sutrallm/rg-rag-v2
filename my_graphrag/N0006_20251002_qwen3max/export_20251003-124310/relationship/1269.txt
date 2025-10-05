@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的净化</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧观照是心净化的关键手段，能根除烦恼，恢复心的本然清净。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

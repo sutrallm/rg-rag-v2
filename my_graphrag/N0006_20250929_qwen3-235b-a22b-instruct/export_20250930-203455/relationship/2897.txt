@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住而行</source_entity>
+    <target_entity>不迎不拒</target_entity>
+    <relationship_description>无住而行体现为不迎不拒的态度，对一切境界既不主动迎接也不拒绝。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

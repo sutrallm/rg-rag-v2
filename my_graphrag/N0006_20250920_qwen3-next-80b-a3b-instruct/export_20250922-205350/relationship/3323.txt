@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGIN</source_entity>
+    <target_entity>CIBEI</target_entity>
+    <relationship_description>Shengin naturally manifests cibei (compassion) because, having realized non-self, they act selflessly and without egoic motivation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初禪</source_entity>
+    <target_entity>禪支</target_entity>
+    <relationship_description>初禪由五種禪支構成，禪支是禪那階段的心理組成要素。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

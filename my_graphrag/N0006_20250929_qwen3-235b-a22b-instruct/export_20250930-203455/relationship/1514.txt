@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>取舍</target_entity>
+    <relationship_description>四念处修习要求不生取舍，如实观察是解脱之道。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

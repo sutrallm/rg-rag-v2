@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>无常观是智慧的重要组成部分，深刻体认无常能破除贪恋，是智慧引导下的洞察。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

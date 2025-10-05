@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>我见</target_entity>
+    <relationship_description>无我的观照能直接破除我见，即对“我”的错误执取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

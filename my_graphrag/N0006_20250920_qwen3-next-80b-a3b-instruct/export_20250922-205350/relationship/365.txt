@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CI_BEI</target_entity>
+    <relationship_description>Shengzhe manifest ci bei — their compassion flows naturally from their wisdom and non-attachment, not from emotional reaction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

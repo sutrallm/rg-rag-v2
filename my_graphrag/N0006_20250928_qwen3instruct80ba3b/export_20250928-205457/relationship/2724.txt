@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Sheng Zhe is the person who has realized Nie Pan—having eradicated all defilements and transcended cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

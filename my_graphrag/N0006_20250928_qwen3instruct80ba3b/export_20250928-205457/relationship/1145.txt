@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚痴</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>愚痴是三毒之根，表现为对实相的无知，是贪与嗔得以延续的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

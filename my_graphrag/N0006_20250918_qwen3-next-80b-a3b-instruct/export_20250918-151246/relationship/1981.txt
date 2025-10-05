@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST TEACHINGS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is presented as a core practice within the broader framework of the Buddha’s teachings for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

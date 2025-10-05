@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL DISCIPLINE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Ethical discipline supports the mental purity needed to develop stable chanding without distraction or guilt.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

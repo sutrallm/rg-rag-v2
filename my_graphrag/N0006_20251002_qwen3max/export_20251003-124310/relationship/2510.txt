@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒能防护身口，使心安定，为禅定的修习奠定基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

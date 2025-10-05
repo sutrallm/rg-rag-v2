@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Non-self (Wu Wo) is the ultimate condition leading to nirvana (Nie Pan), where even the idea of “self” as practitioner is released.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

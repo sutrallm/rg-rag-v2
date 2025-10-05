@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>智慧能照破執著，使人不貪著禪境與成就，從而脫離束縛。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

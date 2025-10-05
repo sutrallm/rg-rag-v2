@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天界众生</target_entity>
+    <relationship_description>圣者的清净与解脱远超天界众生，即使天界众生福报殊胜，亦无法比拟圣者的自在无碍。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

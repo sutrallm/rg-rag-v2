@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU CHANG</source_entity>
+    <target_entity>三国印</target_entity>
+    <relationship_description>Wu Chang is one of the Three Marks, forming the first pillar of San Fa Yin as the foundational insight into reality’s nature.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

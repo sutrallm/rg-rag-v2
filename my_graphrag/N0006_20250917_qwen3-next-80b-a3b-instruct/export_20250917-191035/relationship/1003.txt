@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ST. HOLY_QUALITIES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saintly beings completely eradicate hatred, among the three defilements, through wisdom and compassion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

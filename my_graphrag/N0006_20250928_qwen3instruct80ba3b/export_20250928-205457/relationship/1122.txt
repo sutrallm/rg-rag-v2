@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Yuanqi operates through the mechanism of wuchang — all conditioned things arise and cease due to causes, and nothing is permanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

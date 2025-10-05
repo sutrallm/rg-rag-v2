@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT_MOMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is not a future goal but is fully accessible in the present moment through the放下 (letting go) of attachment and mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

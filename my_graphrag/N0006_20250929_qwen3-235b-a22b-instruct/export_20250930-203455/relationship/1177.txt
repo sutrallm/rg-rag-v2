@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>日常实践</target_entity>
+    <relationship_description>精进修行通过日常实践体现，持续觉知与不放逸是精进的具体表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

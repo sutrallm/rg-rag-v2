@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实修行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>真实修行的唯一标准是心是否离贪嗔痴，此为智慧带来的内在转变，二者本质一致。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

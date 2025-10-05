@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>SUFFERING OCEAN</target_entity>
+    <relationship_description>Samsara is metaphorically described as an ocean of suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

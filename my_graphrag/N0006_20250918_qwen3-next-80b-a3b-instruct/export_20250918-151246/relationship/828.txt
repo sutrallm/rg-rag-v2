@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Wuwo guanzhao is the practice of observing the five aggregates to realize the absence of a self, making them the direct object of this insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

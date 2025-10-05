@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>圣者具足超越执着的智慧，这是其能断除烦恼、不依外境的关键能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

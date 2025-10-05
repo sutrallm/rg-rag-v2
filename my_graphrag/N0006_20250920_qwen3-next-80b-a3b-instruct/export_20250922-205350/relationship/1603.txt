@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>圣者已彻底断尽无明，这是其区别于凡夫、成就清净境界的根本原因。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

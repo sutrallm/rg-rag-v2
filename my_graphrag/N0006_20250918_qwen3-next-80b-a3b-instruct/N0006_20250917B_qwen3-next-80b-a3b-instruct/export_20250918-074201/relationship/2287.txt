@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-Self</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The realization of no-self is the pivotal insight that leads to complete liberation and the cessation of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

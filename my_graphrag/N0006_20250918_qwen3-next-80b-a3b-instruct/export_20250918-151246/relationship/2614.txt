@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>The Shengzhe (noble one) has completely severed Fannao (afflictions)—greed, hatred, delusion—and thus abides in enduring peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

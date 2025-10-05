@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>Greedy craving (贪欲) is one of the three root poisons (三毒) that bind beings to samsara and obstruct spiritual progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

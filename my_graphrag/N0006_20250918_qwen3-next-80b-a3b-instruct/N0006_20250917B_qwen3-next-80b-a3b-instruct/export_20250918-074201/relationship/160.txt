@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU LOU ZHI HUI</target_entity>
+    <relationship_description>The Sheng Zhe is defined by the presence of unblemished wisdom, which is the hallmark of their enlightened understanding.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Impermanence leads to the understanding of non-self; since nothing lasts, there can be no permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

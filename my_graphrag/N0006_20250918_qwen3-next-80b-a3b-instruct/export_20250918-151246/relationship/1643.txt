@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STRAINING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Striving, or diligent practice, is the essential foundation necessary to overcome ignorance and laziness and attain liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

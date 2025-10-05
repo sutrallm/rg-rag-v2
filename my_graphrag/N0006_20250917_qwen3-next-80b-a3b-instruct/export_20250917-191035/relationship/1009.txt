@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>Compassion is expressed through equanimity—neither clinging to friends nor rejecting enemies—reflecting the mind free from reactivity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

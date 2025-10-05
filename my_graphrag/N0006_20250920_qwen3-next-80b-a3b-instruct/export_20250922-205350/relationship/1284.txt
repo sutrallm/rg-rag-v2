@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Saintly qualities are the observable manifestations of one who has attained nirvana: no greed, hatred, or delusion remains.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

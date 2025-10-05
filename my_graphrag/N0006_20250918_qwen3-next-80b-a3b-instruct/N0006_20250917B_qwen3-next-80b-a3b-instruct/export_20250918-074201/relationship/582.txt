@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Holy beings (shengzhe) are those who have fully achieved liberation (jietuo) by eradicating the three poisons and living in serene awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

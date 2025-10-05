@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RICANG XINGXIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Richang xingxiu is the daily, practical application of chanding in ordinary activities, making meditation continuous and accessible.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

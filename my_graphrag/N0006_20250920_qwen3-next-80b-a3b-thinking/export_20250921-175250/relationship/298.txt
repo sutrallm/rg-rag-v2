@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>GRASPING</target_entity>
+    <relationship_description>Ignorance of impermanence leads to increased grasping and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

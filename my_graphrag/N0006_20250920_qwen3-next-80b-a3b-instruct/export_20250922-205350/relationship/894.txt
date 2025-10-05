@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>佛陀教法的终极核心是空性与中道实相，故空性源于佛陀的觉悟。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

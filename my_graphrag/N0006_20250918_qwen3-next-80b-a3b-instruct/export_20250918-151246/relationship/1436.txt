@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>The five aggregates are analyzed in insight practice to demonstrate the absence of a fixed self—they are merely conditionally arising processes without an owner.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

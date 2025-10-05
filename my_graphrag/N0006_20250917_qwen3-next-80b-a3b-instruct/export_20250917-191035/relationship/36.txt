@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMAL_PRACTICES</source_entity>
+    <target_entity>TRUE_PRACTICE</target_entity>
+    <relationship_description>Formal practices are external forms that may support true practice, but true practice is defined by inner awareness, not external ritual — the latter is more essential.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

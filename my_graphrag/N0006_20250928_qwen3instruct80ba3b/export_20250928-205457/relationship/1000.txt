@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHENGJIAN</source_entity>
+    <target_entity>RIYANG JIAOZHAO</target_entity>
+    <relationship_description>Practicing non-self awareness (wuwo zhengjian) is integrated into daily mindfulness (riyang jiaozhao), as one observes thoughts and feelings without identifying with them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住而行</source_entity>
+    <target_entity>我</target_entity>
+    <relationship_description>无住而行的修行者不执着于“我”在修行或“我”已成就，破除我执。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

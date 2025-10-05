@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIE</source_entity>
+    <target_entity>SHENGJING</target_entity>
+    <relationship_description>Both are types of spiritual experiences that practitioners may mistakenly cling to, despite being impermanent and not ultimate.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

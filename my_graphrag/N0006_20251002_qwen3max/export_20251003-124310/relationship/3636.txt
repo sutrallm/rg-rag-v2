@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>常乐我净</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧能破除“常乐我净”的错误执见，如实了知现象本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

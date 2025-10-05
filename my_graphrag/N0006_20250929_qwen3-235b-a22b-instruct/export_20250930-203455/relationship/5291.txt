@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慈悲与智慧统一，智慧照见众生苦，慈悲以利他行动回应，二者相辅相成，不可分割。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

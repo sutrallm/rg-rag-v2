@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIANGXIAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiangxiao (present-moment awareness) is the lived expression and daily practice of Chanding, making meditative focus accessible in ordinary life.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

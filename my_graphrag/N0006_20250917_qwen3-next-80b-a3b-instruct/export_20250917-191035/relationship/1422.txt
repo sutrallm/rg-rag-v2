@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Understanding Wuwo is the foundation of lasting liberation (Jiede), as it removes the root of ego-based suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

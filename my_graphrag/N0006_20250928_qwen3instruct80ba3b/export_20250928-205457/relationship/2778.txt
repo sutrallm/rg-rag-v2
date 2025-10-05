@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自证解脱</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>自证解脱依赖于八正道作为实践框架，尤其是其中的正念、正定与正见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

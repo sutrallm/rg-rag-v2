@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>Nirvana is the direct result of the total eradication of ignorance; without ignorance, there is no suffering, no rebirth, no nirvana as a separate state—only freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

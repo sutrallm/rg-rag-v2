@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不执着修行成果</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者不执着于禅悦、神通或修行成就，体现了“不执着修行成果”的境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

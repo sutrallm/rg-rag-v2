@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>An enlightened being abides in unshakable stillness of mind, undisturbed by internal or external conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

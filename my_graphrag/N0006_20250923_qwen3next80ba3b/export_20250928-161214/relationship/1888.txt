@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVOID EVIL</source_entity>
+    <target_entity>PRACTICE GOOD</target_entity>
+    <relationship_description>Avoiding evil and practicing good are complementary ethical principles in Buddhism.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

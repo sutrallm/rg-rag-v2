@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wisdom (zhihui) is the direct means to realize non-self (wuwo), as it involves seeing through the illusion of a permanent “I” and all phenomena as empty of inherent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

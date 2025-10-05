@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Progress in meditation (chanding) requires constant diligence (jingjin); without effort, one cannot sustain mindfulness or overcome distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

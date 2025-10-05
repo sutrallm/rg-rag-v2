@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Chaoshi—the insight into impermanence and non-self—is the direct path to Niepan, as it enables the practitioner to relinquish all forms of attachment, which is the essence of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

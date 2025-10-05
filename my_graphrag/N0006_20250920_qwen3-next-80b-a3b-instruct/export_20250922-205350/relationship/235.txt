@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Through deep meditative concentration (chanding), the mind becomes still and clear enough to develop profound wisdom (zhinen) into the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

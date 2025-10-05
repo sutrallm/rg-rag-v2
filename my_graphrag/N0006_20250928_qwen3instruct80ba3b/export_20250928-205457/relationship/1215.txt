@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>EIGHTFOLD PATH</target_entity>
+    <relationship_description>The Eightfold Path is the fourth of the Four Noble Truths, representing the practical path to end suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

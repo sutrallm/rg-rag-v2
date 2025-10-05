@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT_PRACTICE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Continuous right practice is the antidote to ignorance, preventing the mind from falling into delusion and cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

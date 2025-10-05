@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPECIALIZED TERMS</source_entity>
+    <target_entity>PROCESSING</target_entity>
+    <relationship_description>SPECIALIZED TERMS are preserved during text processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

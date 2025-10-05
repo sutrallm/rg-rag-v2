@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>聖者以深智慧洞見實相，斷盡煩惱，是其超越輪迴、心得自在的根本。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

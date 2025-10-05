@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSON</source_entity>
+    <target_entity>MOUNTAIN</target_entity>
+    <relationship_description>A person enters the mountain as mentioned in the simile.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

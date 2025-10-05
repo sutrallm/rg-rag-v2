@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>解脱的本质即是体证诸法实相——无主、无常、空寂，二者在终极意义上合一。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

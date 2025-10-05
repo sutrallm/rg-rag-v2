@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL DISCIPLINE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Moral discipline creates the external and internal conditions necessary for mindfulness to flourish.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

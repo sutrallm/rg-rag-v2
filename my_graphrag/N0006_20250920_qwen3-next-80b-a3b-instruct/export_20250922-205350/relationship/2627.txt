@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHIZHUA</target_entity>
+    <relationship_description>Chanding is the foundation for transcending attachment; meditative calm allows one to observe phenomena without grasping or aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

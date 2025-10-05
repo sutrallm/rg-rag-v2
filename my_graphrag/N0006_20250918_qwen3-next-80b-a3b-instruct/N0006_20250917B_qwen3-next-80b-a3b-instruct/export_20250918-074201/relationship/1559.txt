@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Through Chanding, one observes the arising and passing of phenomena, leading directly to the realization of Wuwo (no-self), the essence of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

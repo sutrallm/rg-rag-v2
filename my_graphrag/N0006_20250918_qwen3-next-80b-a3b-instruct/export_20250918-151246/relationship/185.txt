@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>生死</target_entity>
+    <relationship_description>贪欲是维持生死轮回的关键力量，使人执取现象，无法出离。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

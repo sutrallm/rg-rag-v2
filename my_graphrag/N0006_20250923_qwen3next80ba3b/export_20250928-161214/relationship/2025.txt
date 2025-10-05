@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Persistent diligence supports the removal of the three poisons.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

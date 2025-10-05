@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>十結</source_entity>
+    <target_entity>斯陀含果</target_entity>
+    <relationship_description>斯陀含果需在須陀洹基礎上進一步斷除欲貪與瞋恚。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

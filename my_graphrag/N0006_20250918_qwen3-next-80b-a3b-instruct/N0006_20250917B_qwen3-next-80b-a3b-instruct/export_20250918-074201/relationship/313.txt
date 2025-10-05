@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSION_OF_SELF</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The belief in a permanent self is identified as the fundamental cause of all suffering in the text.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>The holy one perfectly upholds mindfulness at all times, demonstrating it as a defining trait of enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

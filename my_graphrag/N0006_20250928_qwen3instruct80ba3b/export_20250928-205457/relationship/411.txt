@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无余涅槃</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无余涅槃的实现必须建立在彻底证得无我的智慧之上，因无我故无所执，方能无余。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

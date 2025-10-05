@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行次第包含从持戒到修定的阶段，禅定是修行中承上启下的关键环节。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

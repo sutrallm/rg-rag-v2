@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOPRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>No-practice transcends even the pursuit of chanding, recognizing that true stillness is already present when no goal is sought.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

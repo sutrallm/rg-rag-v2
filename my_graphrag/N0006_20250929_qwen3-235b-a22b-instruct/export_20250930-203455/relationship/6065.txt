@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无漏智慧</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>无漏智慧通过止观双运成就，是禅修的最高智慧成果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

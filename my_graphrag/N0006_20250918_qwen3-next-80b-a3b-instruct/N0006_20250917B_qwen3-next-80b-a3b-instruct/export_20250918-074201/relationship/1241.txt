@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真實修行者</source_entity>
+    <target_entity>自性本淨</target_entity>
+    <relationship_description>真實修行者透過修行清除執著，使本具的自性本淨自然顯露，是其生命狀態的根源。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

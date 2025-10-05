@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照无常</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>观照无常是断除执著的方法，通过了知一切现象无常非实，从而不再攀缘贪取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

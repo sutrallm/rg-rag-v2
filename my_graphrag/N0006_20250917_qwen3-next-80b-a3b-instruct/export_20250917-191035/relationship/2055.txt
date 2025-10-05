@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>TONGSHEN</target_entity>
+    <relationship_description>Chaoshi teaches not to cling to supernatural powers, recognizing them as transient and potentially obstructive to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

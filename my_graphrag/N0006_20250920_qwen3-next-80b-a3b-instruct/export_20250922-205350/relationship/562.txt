@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>WUZHISO</target_entity>
+    <relationship_description>Jiefu — true liberation — is achieved only through Wuzhiso, since liberation is the result of cutting clinging to self and phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

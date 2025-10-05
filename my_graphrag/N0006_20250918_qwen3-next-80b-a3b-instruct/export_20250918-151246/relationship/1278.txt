@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIZHI</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Zhizhi dismantles Wu ming by revealing the impermanent, selfless nature of reality, thus uprooting ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

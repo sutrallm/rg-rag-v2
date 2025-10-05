@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>GREED_HATRED_DELUSION</target_entity>
+    <relationship_description>Ignorance is the root cause of the three poisons; they manifest as consequences of misunderstanding the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

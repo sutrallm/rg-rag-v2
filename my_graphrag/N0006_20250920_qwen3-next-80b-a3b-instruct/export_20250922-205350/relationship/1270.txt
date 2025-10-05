@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEDICATED_PRACTICE</source_entity>
+    <target_entity>TRUE_SILENCE</target_entity>
+    <relationship_description>Only through consistent practice can one cultivate True Silence—the unshakable inner state unaffected by external conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

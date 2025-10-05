@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zhihui directly leads to the realization of nirvana by dissolving ignorance and clinging; it is the path to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

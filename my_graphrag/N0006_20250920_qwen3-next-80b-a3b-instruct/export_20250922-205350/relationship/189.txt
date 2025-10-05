@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不執著於修行成果</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>不執著於成果是超越執著智慧的具體實踐表現，二者表裡一致。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>修行者需将智慧与慈悲双运，以无我心利益众生，方为圆满修行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

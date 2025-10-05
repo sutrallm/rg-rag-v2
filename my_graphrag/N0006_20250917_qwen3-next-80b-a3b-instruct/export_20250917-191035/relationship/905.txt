@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>执着是众生持续陷于生死轮回的主要原因，唯有放下执着，才能超越轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

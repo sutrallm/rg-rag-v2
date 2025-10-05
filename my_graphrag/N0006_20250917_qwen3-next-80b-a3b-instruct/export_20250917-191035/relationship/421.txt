@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>GREED_HATRED_DELUSION</target_entity>
+    <relationship_description>Ignorance is the root cause of greed, hatred, and delusion, as misunderstanding reality fuels these afflictive mental states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

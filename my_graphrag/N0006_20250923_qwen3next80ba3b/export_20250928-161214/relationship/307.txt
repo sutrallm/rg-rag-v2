@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Ending afflictions is essential to attain Nirvana, as explicitly stated in '断尽烦恼，证得究竟涅槃'.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

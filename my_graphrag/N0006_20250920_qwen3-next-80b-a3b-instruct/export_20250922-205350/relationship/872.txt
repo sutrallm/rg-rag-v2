@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>中道修行包含禅定作为其核心实践之一，主张在日常一切行为中保持觉知，不偏于禅乐或排斥世间。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

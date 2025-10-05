@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>正念通过四念处的实践（观身、受、心、法）得以具体开展和深化，四念处是正念的修行框架。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定稳固后能生起智慧，智慧是禅定的自然成果与深化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

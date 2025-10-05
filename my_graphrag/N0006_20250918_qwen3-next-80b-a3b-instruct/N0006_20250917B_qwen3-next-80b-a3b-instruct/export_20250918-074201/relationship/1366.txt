@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saints have completely eradicated delusion, one of the three root defilements, through unwavering insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

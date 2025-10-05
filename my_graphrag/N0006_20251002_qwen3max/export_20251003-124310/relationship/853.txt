@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>心解脫是解脫的一種表現形式或階段，最終導向徹底解脫生死之苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

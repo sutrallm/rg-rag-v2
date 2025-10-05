@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四聖諦</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>苦是四聖諦的第一項，為如實知見的內容之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

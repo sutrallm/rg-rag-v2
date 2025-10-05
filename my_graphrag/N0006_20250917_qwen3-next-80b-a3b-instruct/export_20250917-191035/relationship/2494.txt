@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGGREGATES</source_entity>
+    <target_entity>ANATTA_OBSERVATION</target_entity>
+    <relationship_description>The five aggregates are the objects of observation in anatta practice, used to dismantle the illusion of a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEEP FOREST</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>DEEP FOREST symbolizes a serene and undisturbed environment conducive to meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Wisdom directly uproots delusion by realizing the true nature of reality — impermanence and non-self — which is the opposite of ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

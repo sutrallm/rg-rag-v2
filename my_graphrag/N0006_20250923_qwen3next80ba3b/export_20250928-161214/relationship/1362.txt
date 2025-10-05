@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MOSQUITOES</source_entity>
+    <target_entity>DISTRACTIONS</target_entity>
+    <relationship_description>Mosquitoes symbolize external distractions in the forest analogy as mentioned in the source text.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

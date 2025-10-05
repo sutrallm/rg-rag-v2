@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>烦恼可通过智慧观照五蕴非我、诸法无常加以对治，智慧是瓦解执取的根本工具。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

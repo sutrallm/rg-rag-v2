@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>Continuous practice helps one break free from craving and attachment, which are major obstacles to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

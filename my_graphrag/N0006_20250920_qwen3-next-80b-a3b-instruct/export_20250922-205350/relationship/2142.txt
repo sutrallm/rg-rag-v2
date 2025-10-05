@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENTONG</target_entity>
+    <relationship_description>Chanding may lead to Shentong (psychic powers), but attachment to them is seen as a deviation from true liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

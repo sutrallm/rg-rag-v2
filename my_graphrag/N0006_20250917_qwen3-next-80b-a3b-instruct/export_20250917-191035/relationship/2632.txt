@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVERSION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Aversion also stems from delusion — misunderstanding reality as something to be avoided rather than seen clearly.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

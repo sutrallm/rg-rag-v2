@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLEASURE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>PLEASURE is impermanent and thus part of SUFFERING's pervasive nature.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

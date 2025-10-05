@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔恚</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已断尽嗔恚，因此能安住于寂静，不被情绪所扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INTERNAL_OBSERVATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Internal observation is the direct means by which wisdom arises, according to the text's teachings; they are cause and effect.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

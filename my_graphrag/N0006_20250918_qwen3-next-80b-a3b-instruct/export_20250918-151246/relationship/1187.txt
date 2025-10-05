@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Suffering is inherent in the cycle of rebirth; liberation from suffering means liberation from rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

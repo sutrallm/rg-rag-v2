@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Effortful practice is described as the only path to liberation, implying a direct causal relationship between diligent cultivation and spiritual freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

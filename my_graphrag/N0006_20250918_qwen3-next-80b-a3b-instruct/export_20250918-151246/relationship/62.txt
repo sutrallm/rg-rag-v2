@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>持戒與智慧相輔相成，清淨行為為智慧生起奠定基礎，智慧則深化持戒的內在意義。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

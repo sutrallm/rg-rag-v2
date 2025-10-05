@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Awareness is the direct method through which wisdom arises — clear observation of impermanent phenomena leads inevitably to insight into their true nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

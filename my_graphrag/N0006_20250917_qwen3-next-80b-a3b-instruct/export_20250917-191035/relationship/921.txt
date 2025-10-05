@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIANXIA</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>In xianxia, wuwo is naturally realized — there is no separation between practice and life, so the notion of “I am practicing” dissolves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

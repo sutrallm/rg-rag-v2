@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCRUPULOUS MORALITY</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Moral conduct supports the clarity of mind necessary for wisdom to develop; without ethics, insight is unstable or distorted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

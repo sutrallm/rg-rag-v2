@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>INHERENT EXISTENCE</target_entity>
+    <relationship_description>NON-SELF negates the existence of INHERENT EXISTENCE.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

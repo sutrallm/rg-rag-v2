@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Fannao (defilements) are manifestations of wuming (ignorance); ignorance is the source, and defilements are the expressions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

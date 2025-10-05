@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>WU WO GUAN ZHAO</target_entity>
+    <relationship_description>Zhi Neng (wisdom) manifests through Wu Wo Guan Zhao (non-self observation), the practice of seeing all phenomena as devoid of self, which is the essence of transcendent insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

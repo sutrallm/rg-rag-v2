@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无住无执</source_entity>
+    <target_entity>自知自证</target_entity>
+    <relationship_description>无住无执的状态需通过自知自证确认，是真实成就的体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

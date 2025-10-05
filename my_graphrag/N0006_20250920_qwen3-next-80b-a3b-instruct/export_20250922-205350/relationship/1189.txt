@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Wisdom recognizes the absence of an enduring self in all experience; it discerns that what we call “self” is merely a collection of transient, conditioned processes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

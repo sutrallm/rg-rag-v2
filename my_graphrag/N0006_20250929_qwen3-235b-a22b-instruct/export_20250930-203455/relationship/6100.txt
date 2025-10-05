@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>朝露</target_entity>
+    <relationship_description>无常观通过比喻“朝露”瞬息即逝，帮助修行者破除对恒常的错觉，减少执著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

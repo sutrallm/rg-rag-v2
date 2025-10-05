@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT_PRACTICE</source_entity>
+    <target_entity>NON-ABIDING_MIND</target_entity>
+    <relationship_description>Diligent right practice leads to non-abiding mind, where even the fruits of meditation are not clung to.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

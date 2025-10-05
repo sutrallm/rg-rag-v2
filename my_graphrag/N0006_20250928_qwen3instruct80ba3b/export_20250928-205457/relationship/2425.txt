@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Chanding cannot arise without ethical discipline; moral purity is the necessary foundation for mental stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

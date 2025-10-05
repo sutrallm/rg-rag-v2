@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>漏盡者</source_entity>
+    <target_entity>貪嗔痴</target_entity>
+    <relationship_description>漏盡者已徹底消盡一切煩惱，包括貪嗔痴，達到無餘涅槃。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

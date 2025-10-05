@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT WISDOM</source_entity>
+    <target_entity>TRUE LIBERATION</target_entity>
+    <relationship_description>Transcendent wisdom — seeing reality as it is — is the direct cause of true liberation, as it dissolves attachment and ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

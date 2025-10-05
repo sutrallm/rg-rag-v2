@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实智慧</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>真实智慧是圣者的核心特质，是其断尽三毒、超越忧悲苦恼的根本能力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

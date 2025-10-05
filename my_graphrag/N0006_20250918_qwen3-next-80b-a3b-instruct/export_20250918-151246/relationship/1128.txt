@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELEASINGATTACHMENT</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Releasing attachment is grounded in the insight into the impermanent nature of all experiences, preventing clinging to transient states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

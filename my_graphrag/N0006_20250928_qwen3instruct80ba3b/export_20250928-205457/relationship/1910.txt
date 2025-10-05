@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒與定共同作為智慧生起的條件，三學相依，缺一不可。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

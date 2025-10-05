@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU ZHUO</source_entity>
+    <target_entity>XIN DE ZIYOU</target_entity>
+    <relationship_description>Non-abiding is the experiential quality of true mental freedom — the mind does not cling to any state, experience, or concept.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

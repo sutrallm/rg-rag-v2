@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无漏解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>无漏解脱即涅槃，是贪嗔痴彻底断除、心不被境界所染的终极解脱状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

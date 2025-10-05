@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHED_PRACTICE</source_entity>
+    <target_entity>ENSURED_FAITH</target_entity>
+    <relationship_description>Non-attached practice aligns with ensured faith, as both reject external gimmicks and emphasize personal realization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

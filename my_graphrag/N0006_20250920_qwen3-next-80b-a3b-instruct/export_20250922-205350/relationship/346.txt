@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMONTI</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chashi is the ultimate fruit (guo) of jiemonti, arising from the culmination of virtue and concentration.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

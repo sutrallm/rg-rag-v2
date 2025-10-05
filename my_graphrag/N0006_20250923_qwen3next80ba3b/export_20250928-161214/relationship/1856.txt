@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HARMONIZATION</source_entity>
+    <target_entity>THREE STUDIES</target_entity>
+    <relationship_description>HARMONIZATION balances the THREE STUDIES to achieve spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

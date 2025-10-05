@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Zhengnian is the practice through which chanding is developed; chanding cannot exist without mindful awareness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

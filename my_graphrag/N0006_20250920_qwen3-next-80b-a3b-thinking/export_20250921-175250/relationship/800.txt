@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>LAMP FLAME</target_entity>
+    <relationship_description>The five aggregates are likened to a lamp flame that changes moment by moment, illustrating impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

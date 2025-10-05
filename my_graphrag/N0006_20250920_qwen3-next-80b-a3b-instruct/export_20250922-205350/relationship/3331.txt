@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>精进修行是稳固禅定之力的基础，唯有持续精进，才能避免散乱，使禅定得以深化与维持。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

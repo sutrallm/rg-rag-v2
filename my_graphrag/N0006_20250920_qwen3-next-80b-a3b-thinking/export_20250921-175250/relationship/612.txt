@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Meditation directly trains and purifies the mind, leading to heightened awareness and tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

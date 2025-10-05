@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGBZE</source_entity>
+    <target_entity>CHIXU XIULIAN</target_entity>
+    <relationship_description>Shengbze maintain continuous practice without complacency or discouragement, embodying the necessity of daily diligence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

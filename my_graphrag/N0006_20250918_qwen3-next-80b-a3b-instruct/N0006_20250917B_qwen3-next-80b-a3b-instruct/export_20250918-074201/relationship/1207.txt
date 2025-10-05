@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FEI ZHU</source_entity>
+    <target_entity>JUE XING</target_entity>
+    <relationship_description>Awake Daily Practice embodies non-attachment by observing thoughts and actions without clinging or aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LETTING GO</target_entity>
+    <relationship_description>Wisdom directly enables letting go by revealing that all phenomena are empty and impermanent; attachment ceases not through force but through understanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

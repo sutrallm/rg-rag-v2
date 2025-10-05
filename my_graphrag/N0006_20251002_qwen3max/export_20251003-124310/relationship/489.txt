@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>六根接触外境时若无正念防护，贪瞋痴等烦恼便会生起，因此六根是烦恼生起的重要缘起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>通过圆满实践戒定慧三学，修行者能如实知见苦的根源并彻底断除苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

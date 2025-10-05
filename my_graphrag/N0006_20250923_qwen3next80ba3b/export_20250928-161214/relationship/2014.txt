@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>NON-GREED</target_entity>
+    <relationship_description>NON-GREED is a key quality realized in the state of NIRVANA.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

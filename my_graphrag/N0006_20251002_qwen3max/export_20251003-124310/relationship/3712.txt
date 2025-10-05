@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定是戒定慧三學中的「定」，為三學的中樞環節。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

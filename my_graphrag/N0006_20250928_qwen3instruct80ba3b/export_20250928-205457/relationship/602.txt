@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>布施</source_entity>
+    <target_entity>三轮体空</target_entity>
+    <relationship_description>三轮体空是真实布施的深层智慧基础，唯有理解施者、受者、施物皆空，布施才与解脱相应。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

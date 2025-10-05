@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Chanding is an essential step toward liberation, providing the mental stability needed to develop wisdom and uproot suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

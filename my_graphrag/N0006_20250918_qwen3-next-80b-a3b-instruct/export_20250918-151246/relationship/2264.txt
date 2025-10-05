@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chanding leads to Chaoshi by creating the mental clarity necessary to perceive impermanence, non-self, and conditioned nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

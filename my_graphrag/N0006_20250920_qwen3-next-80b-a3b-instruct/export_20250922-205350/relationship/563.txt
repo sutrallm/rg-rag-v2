@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>WUZAOZUO</target_entity>
+    <relationship_description>Jiefu is fully realized only through Wuzaozuo — when the practitioner stops striving for liberation, true freedom arises spontaneously.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

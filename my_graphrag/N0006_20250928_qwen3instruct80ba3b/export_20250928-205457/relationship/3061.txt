@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuzhe arises from realizing Wuwo; the understanding of not-self leads naturally to letting go of all attachments, even to spiritual experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

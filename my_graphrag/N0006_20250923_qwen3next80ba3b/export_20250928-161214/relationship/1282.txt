@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY IMPURITY</source_entity>
+    <target_entity>EGO ATTACHMENT</target_entity>
+    <relationship_description>Contemplating body impurity breaks ego attachment through insight into physical impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

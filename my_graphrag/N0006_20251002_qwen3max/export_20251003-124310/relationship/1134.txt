@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>內在解脫</target_entity>
+    <relationship_description>禪定被直接說明能帶來內在解脫，使修行者照見無常、苦、無我，不再執取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

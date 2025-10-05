@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>觉知的对象包括五蕴的生灭变化，通过觉知五蕴可瓦解执着与烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

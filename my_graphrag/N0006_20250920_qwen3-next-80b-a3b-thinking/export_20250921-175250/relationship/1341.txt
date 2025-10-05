@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS_AND_WISDOM</source_entity>
+    <target_entity>FINAL_LIBERATION</target_entity>
+    <relationship_description>The combination of precepts and wisdom leads directly to final liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

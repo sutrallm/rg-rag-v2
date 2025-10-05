@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhihui requires direct realization of wuchang—seeing all things as impermanent—as a foundational insight for wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

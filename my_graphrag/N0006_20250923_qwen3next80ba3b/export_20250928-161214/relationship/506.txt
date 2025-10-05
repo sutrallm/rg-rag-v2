@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE-FOLD EMPTINESS</source_entity>
+    <target_entity>CHARITY</target_entity>
+    <relationship_description>Threefold Emptiness provides the philosophical foundation for Charity practice, emphasizing non-attachment to the act of giving itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

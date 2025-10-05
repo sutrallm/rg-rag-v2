@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>亲证</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>亲证是理解解脱本质的唯一途径，非言语所能尽述，是修行的终极体验。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

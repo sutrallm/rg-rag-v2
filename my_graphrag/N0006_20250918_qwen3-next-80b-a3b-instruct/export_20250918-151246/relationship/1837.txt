@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Fangyi (idleness) is the direct opposite of jingjin (diligence), leading to spiritual blindness and missed opportunities for awakening.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

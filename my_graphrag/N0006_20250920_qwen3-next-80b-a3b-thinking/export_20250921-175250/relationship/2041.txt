@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XING HAI</source_entity>
+    <target_entity>WAN SHI</target_entity>
+    <relationship_description>顽石是形骸的外在形态之一，体现物理身体的粗陋表现，心净者可超脱此束缚。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

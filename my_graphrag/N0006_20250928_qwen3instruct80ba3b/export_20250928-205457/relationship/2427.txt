@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Wisdom directly opposes and dissolves delusion by revealing the impermanent, unsatisfactory, and selfless nature of phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

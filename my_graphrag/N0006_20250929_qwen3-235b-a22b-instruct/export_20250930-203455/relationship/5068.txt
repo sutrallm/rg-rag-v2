@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>蚊虫</source_entity>
+    <target_entity>野兽</target_entity>
+    <relationship_description>蚊虫比喻纷扰与烦恼，野兽在无蚊虫的丛林中安然行走，象征修行者通过禅定远离纷扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

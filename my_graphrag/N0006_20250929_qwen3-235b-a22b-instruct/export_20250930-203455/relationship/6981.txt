@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>正命</target_entity>
+    <relationship_description>正命属于戒定慧三学中的“戒”，是戒律在生计上的体现，确保职业正当。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

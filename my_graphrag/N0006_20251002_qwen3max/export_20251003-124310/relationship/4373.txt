@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>如实知见</target_entity>
+    <relationship_description>智慧体现为如实知见，即对诸法无常、苦、无我的正确洞察；如实知见是智慧的具体表现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

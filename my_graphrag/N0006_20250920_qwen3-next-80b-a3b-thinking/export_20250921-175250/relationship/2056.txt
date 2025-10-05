@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING</source_entity>
+    <target_entity>ZHEN CHUAN XIAN</target_entity>
+    <relationship_description>修行如同针穿线般次第分明不杂，是真实修行准则的核心体现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

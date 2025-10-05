@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我觀照</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>無我觀照是智慧的具體修習方法，透過觀察五蘊如幻，破除我執，是智慧生起的途徑。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

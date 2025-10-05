@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出离心</source_entity>
+    <target_entity>五欲六尘</target_entity>
+    <relationship_description>出离心要求心不染著五欲六尘，是对感官外境的彻底放下，是内在出离的核心体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

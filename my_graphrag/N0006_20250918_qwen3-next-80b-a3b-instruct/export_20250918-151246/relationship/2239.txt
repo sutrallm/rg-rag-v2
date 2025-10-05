@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>The Buddha’s teachings emphasize exertion as essential to avoid spiritual decline and progress on the path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHI</target_entity>
+    <relationship_description>A Shengzhe has completely eradicated Chi (delusion) — the root of all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

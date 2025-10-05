@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>Meditative concentration (禅定) allows practitioners to transcend mental afflictions (烦恼) by calming the mind and cultivating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

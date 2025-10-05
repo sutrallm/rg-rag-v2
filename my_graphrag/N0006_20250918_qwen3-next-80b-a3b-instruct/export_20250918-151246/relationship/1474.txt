@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAOXIANG</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daoxiang (mindfulness in the present moment) is the practical expression of chanding—mental stability is cultivated moment by moment through awareness of breath and action.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

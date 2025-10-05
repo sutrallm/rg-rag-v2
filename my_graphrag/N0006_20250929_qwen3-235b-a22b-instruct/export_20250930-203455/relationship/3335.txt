@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>修行者以戒律为基础，规范行为，为修定与生慧提供前提。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

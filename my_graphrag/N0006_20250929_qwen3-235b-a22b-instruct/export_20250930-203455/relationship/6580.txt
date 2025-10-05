@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>清净心是智慧自然显现的基础，智慧在清净中生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

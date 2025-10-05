@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JI</source_entity>
+    <target_entity>SHEN XIN</target_entity>
+    <relationship_description>Stillness (Jing Ji) results in the安定 (stability and peace) of body and mind (Shen Xin).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

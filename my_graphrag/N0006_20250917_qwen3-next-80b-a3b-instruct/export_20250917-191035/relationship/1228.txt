@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>覺悟</target_entity>
+    <relationship_description>解脫是覺悟的結果與體現，覺悟是認知層面的啟明，解脫是實踐層面的自由。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

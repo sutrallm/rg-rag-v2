@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>觉知是禅定修习的核心实践，通过如理观察身心变化，保持专注不随妄念流转。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

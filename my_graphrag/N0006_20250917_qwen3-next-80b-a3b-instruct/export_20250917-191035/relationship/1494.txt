@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Ignorance is the root cause of attachment, which in turn perpetuates suffering and binds beings to samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

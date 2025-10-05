@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHANDING YU ZHIHUI</target_entity>
+    <relationship_description>Chanding serves as the foundational base for chanding yu zhihui, the integrated practice where concentration supports insight, and insight prevents attachment to concentration itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

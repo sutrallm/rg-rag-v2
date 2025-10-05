@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Afflictions are the primary causes of suffering, inferred from '徒增烦恼' where increasing afflictions lead to mental distress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

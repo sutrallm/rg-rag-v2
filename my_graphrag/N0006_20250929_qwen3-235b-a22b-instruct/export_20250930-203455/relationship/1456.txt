@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧能照见烦恼根源（无明与执取），通过观照破除执著，使烦恼逐步瓦解并自然灭尽。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

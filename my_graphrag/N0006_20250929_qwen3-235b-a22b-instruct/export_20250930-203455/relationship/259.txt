@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>慈悲是修行者日常实践中的重要品质，与觉知、智慧共同净化内心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

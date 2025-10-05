@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>修行的根本在于远离放逸；放逸是修行的主要障碍，会引发烦恼，破坏内心清净。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

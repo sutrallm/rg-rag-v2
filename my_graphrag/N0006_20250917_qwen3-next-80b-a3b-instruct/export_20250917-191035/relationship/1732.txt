@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺知之光</source_entity>
+    <target_entity>幻化</target_entity>
+    <relationship_description>覺知之光能照見一切現象如幻化的本質，使執著自然融化，是智慧觀照的工具。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

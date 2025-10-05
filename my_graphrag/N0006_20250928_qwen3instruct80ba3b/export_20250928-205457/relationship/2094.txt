@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PINGCHANGXIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Pingchangxin is the embodied expression of true chanding — not seeking special states, but maintaining stable, ordinary awareness in daily life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

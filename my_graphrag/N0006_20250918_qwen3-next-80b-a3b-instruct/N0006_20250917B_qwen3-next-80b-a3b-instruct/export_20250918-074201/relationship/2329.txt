@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定有助於平息瞋念，使心遠離躁動，是對治瞋的實踐方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

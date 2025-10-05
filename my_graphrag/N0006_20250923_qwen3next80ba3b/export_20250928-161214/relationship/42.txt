@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PHENOMENA</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Emptiness is an inherent characteristic of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

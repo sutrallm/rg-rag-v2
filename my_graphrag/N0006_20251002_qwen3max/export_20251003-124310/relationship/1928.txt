@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五盖</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>五盖是禅修中的障碍，会遮蔽心性、阻碍定力生起；降伏五盖是进入初禅的前提。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

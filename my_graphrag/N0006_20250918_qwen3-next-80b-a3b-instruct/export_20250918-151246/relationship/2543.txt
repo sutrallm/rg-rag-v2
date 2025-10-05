@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIYU</source_entity>
+    <target_entity>CHAOYUE ZHUZHUO</target_entity>
+    <relationship_description>True renunciation (liyu) is the practical expression of transcending attachment; it is rooted in the insight that desires are inherently unsatisfactory.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

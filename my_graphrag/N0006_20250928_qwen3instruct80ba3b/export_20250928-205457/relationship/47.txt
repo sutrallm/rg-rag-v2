@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执著</source_entity>
+    <target_entity>魔境</target_entity>
+    <relationship_description>执著禅相即堕魔境，两者构成因果关系，执着是因，魔境是果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

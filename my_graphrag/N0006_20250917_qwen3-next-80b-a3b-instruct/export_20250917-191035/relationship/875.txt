@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROLONGED_LAZINESS</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Prolonged laziness reinforces ignorance by preventing the practitioner from confronting reality through disciplined practice and insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

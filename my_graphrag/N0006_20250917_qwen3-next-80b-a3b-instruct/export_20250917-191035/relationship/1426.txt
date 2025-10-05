@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NIANTOU</target_entity>
+    <relationship_description>Chanding involves the mindful observation of Niantou to prevent them from generating karmic momentum.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

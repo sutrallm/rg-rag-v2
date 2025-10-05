@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如如不动之觉性</source_entity>
+    <target_entity>诸法实相</target_entity>
+    <relationship_description>如如不动之觉性是体证诸法实相后所呈现的究竟觉知状态，超越言语概念。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

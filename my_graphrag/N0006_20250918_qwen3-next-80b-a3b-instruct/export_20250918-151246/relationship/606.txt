@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>SHENG SI</target_entity>
+    <relationship_description>Jing Jin is the active practice required to transcend Sheng Si (the cycle of birth and death) by overcoming attachment and laziness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

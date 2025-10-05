@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STL (SAINTLY BEING)</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly beings are defined by their constant state of chanding and mental tranquility.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

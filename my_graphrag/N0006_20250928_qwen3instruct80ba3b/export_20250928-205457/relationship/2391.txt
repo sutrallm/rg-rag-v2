@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT_ORIGINATION</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Dependent origination reveals that the self is not a standalone entity but a constantly changing process, thus supporting no-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

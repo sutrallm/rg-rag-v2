@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR MINDFULNESSES</source_entity>
+    <target_entity>FEELING</target_entity>
+    <relationship_description>Feelings are observed as one of the four foundations of mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

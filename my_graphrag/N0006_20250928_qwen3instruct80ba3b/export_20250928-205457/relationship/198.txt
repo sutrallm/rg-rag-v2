@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>貪、嗔、痴三毒是輪迴得以持續的根本原因，斷三毒則輪迴止息。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

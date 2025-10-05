@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Jingjin sustains Zhengnian by ensuring continuous, alert mindfulness, preventing the descent into ignorance and negligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

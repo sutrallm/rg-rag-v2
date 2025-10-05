@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定是發展智慧的基礎，透過禪定才能如實觀照萬法本質，生起不執的智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

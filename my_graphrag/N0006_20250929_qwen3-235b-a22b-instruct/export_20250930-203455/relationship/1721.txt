@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无相无住</source_entity>
+    <target_entity>慧解脱</target_entity>
+    <relationship_description>无相无住是通向慧解脱的重要阶段，心离相住，方能如实观照诸法实相，证得智慧解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

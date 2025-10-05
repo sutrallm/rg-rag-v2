@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒律是禅定的根基，持戒清净方能成就禅定，是三学中“戒”为根基的具体体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

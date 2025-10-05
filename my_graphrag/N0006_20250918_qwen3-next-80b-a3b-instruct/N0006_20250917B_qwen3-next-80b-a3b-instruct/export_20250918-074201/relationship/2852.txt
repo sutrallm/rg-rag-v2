@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>The saintly being continuously applies diligent effort (Jingjin) to maintain mindfulness and prevent regression into ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

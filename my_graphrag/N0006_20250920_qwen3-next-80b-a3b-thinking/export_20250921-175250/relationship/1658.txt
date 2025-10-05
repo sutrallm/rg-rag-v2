@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Meditation is explicitly used to eliminate afflictions as stated in the text: "通过禅定断除放逸与烦恼".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

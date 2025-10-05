@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greed, hatred, and delusion are the three root defilements; delusion underlies greed as ignorance of impermanence and non-self leads to attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>凡夫</source_entity>
+    <target_entity>福报</target_entity>
+    <relationship_description>凡夫具足福报，可能具备与觉者相似的外相特征。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉与反省</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>警觉与反省是修行者每日实践的方法，帮助其修正偏差，持续迈向清净之道。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

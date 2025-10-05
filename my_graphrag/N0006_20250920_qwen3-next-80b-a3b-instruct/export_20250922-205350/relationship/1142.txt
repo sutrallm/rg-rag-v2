@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常实践</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>日常中的正念觉照是智慧的实际应用，使智慧不离生活，非仅理论。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

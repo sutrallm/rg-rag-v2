@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>八正道包含正语、正业、正命（对应戒），正精进、正念、正定（对应定），正见、正思维（对应慧），是戒定慧三学的具体展开。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

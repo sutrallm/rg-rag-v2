@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>修行成果</target_entity>
+    <relationship_description>修行者的成果体现为烦恼减少、心性调柔、智慧增长，而非神通或感应。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

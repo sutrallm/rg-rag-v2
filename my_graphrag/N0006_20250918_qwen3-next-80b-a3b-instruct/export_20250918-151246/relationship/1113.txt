@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修心</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修心是以觉知为核心的实践方式，而禅定是修心中专注与正念的具体表现形式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

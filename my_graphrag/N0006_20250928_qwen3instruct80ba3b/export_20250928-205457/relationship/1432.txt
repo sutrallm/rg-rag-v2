@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>正念有助于守持戒律，令身口意清净，二者互为促进，共同构建修行的稳定基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

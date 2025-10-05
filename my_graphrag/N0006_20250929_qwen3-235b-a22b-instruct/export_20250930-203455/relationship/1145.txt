@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪爱</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>贪爱是执着的一种表现，尤其在追求修行成果时易生贪爱，导致被成果所系缚，障碍解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

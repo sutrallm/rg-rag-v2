@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>The sage (Sheng Zhe) embodies the results of deep Chan Ding, as their inner purity and stability arise from sustained meditative practice and mental discipline.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

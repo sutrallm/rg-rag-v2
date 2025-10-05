@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>POSITIVE MINDFULNESS</target_entity>
+    <relationship_description>Chanding is cultivated through sustained positive mindfulness, which allows the mind to remain stable and undisturbed by external or internal distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

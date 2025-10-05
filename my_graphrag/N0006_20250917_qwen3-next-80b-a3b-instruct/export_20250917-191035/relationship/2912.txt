@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIEPO</target_entity>
+    <relationship_description>Zhihui is the direct means to attain jiepo; true liberation arises from the insight into impermanence, non-self, and emptiness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

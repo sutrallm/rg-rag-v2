@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>二禪</source_entity>
+    <target_entity>初禪</target_entity>
+    <relationship_description>二禪是在初禪穩固後進一步昇進的階段，捨離尋與伺而進入更深的定境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

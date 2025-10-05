@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUQIU ZHIXIN</source_entity>
+    <target_entity>JIETUO DANGXIA</target_entity>
+    <relationship_description>True liberation arises from a mind of no-seeking—the absence of desire for results aligns with the state of non-clinging that defines present-moment liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

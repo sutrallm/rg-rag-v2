@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanxiu (meditative practice) is the methodical process through which Chanding (meditative concentration) is cultivated and deepened.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

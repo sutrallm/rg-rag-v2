@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>正念帮助修行者远离散乱，使心念专注并安住于当下。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

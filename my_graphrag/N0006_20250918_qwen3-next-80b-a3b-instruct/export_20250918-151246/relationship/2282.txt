@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>Chanding facilitates the development of wisdom that sees through attachment; it is a meditative foundation for non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

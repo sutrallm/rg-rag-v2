@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT_POWER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Transcendent powers are not equivalent to liberation; a true liberating insight transcends them.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

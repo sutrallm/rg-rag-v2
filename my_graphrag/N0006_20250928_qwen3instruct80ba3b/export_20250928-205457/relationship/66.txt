@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Saintly qualities are maintained through continual mindfulness, observing the arising and passing of thoughts without attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

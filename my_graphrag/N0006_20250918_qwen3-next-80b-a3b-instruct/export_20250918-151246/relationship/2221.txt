@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcendent wisdom (zhihui) is the direct realization of no-self (wuwo), revealing the impermanent and non-substantial nature of all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

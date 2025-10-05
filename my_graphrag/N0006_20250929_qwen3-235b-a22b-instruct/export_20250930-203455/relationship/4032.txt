@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无记</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定若无智慧引导，易落入无记状态，即无觉知、无意义的沉寂，非真实修行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

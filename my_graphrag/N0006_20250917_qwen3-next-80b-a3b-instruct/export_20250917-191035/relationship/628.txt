@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪嗔癡</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>解脫的本質即為徹底斷盡貪嗔癡，三者是束縛眾生的根本煩惱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

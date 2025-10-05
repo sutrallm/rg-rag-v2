@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RAJAGRIHA</source_entity>
+    <target_entity>VULTURE PEAK</target_entity>
+    <relationship_description>Vulture Peak is geographically located within Rajagriha.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

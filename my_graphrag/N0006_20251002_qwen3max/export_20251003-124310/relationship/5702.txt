@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲望</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>唯有超越欲望，特别是对五欲的贪爱，才能证得真正的解脱与自在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

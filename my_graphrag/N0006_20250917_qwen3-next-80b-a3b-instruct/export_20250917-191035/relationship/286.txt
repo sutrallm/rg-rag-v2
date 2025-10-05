@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>戒行是聖者的具體特質之一，反映其道德純淨與內在穩定，是成為聖者的必要條件。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Chan Ding leads directly to inner stillness, free from the turbulence of mental afflictions and external distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

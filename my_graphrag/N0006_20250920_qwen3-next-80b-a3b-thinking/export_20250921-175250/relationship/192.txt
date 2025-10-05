@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如是观</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>如是观是避免放逸的修行方法</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

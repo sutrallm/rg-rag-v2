@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PRECISE MINDFULNESS</target_entity>
+    <relationship_description>Chanding depends on precise mindfulness to sustain focus and prevent distraction; the two are mutually reinforcing facets of meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

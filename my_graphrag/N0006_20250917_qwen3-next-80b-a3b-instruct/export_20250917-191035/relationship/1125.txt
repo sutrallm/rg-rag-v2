@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM TO DISPEL IGNORANCE</source_entity>
+    <target_entity>SIX SENSE OBJECTS</target_entity>
+    <relationship_description>Wisdom perceives the six sense objects as illusory, preventing attachment and thus becoming the key to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

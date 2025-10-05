@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>SAMSRARA</target_entity>
+    <relationship_description>The three poisons — greed, hatred, and delusion — are the root causes of samsaric existence, perpetuating suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

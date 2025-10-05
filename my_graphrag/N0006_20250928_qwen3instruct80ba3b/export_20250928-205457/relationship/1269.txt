@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saintly practitioners overcome hatred through mindfulness, realizing its destructive nature and dissolving its grip.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

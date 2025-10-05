@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>CALM MIND</target_entity>
+    <relationship_description>Meditation transforms a restless mind into a tranquil state, similar to water becoming still.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

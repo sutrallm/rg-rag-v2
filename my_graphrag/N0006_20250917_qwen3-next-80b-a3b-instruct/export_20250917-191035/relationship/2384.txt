@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WO</source_entity>
+    <target_entity>CHU YUE ZHU ZHAI</target_entity>
+    <relationship_description>The insight of Chu yue zhu zhai leads to the realization that “Wo” — the sense of self — is illusory and the root of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

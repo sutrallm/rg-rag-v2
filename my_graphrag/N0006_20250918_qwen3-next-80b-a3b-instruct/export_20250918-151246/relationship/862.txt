@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGFU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sages abide in stillness and peace through mastery of chanding, allowing them to remain free from worldly disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

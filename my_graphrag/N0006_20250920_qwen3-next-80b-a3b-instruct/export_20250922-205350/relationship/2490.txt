@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Awakening stems from penetrating the truth of suffering and its causes, leading to its cessation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

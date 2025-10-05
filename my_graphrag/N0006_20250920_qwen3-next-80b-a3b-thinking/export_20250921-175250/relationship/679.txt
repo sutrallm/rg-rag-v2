@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RESULT</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Attachment to results, even of liberation, hinders true freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

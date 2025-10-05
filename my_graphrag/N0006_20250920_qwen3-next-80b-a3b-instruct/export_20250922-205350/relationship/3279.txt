@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUSUODEJIUJIE</source_entity>
+    <target_entity>CHAODUE</target_entity>
+    <relationship_description>Wusuodejiujiem (non-attainment liberation) represents the final stage of chaodue, where even the concept of wisdom is relinquished to achieve true freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>圣者以戒定慧圆满人格，体现为持戒清净、心念专注、智慧明达。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

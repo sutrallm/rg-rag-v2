@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPPLEMENT COMPLETE CONTENT</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The instruction to supplement complete content refers to providing the missing original content.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPLACENCY</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Complacency is a manifestation of ignorance, where one remains deluded about the urgency of spiritual practice and the nature of suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

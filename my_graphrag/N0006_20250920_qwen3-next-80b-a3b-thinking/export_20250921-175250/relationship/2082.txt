@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>When the mind indulges, it drifts aimlessly like a ship without a rudder.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

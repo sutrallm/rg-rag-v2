@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>Precepts and wisdom interrelate as part of the threefold training path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

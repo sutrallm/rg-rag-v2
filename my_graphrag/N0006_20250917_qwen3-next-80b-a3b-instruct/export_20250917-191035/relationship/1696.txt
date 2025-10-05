@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>SAMSAra</target_entity>
+    <relationship_description>The Three Poisons are the driving forces behind Samsara; as long as they persist, beings remain trapped in cyclic existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>精进体现为持续不懈地修习正念，防止懈怠，是正念得以维持的动力保障。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

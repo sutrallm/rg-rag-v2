@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>外在苦行</source_entity>
+    <target_entity>心的净化</target_entity>
+    <relationship_description>外在苦行若无心的净化，则徒劳无功，心的净化才是修行的核心与本质。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHILESAN DU</target_entity>
+    <relationship_description>Shengzhe have completely eradicated the three poisons, which is what defines their enlightened state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

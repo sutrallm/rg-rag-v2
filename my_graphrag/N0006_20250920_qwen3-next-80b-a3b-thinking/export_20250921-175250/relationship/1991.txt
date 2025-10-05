@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The system processes the original text document during translation operations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

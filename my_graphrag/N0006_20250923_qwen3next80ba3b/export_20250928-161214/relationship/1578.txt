@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>EXAMPLES</target_entity>
+    <relationship_description>The user included examples of desired output structure in the query.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

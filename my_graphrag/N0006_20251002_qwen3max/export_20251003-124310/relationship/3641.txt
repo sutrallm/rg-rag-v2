@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>智慧能使人徹底放下對五欲、名聞利養乃至禪悅的執著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

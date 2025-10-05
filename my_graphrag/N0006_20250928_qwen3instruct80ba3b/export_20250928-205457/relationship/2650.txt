@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>REINCARNATION CYCLE</target_entity>
+    <relationship_description>Only through persistent, non-lazy practice can one break free from the cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

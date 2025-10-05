@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>Liberation defines the state in which a Saintly Being resides — they are liberated beings who have ended all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

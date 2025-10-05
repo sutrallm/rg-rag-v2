@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>诸天</target_entity>
+    <relationship_description>圣者因其已证得无上安稳与自在，即使诸天也恭敬赞叹，显示其超越天界众生的修行成就。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

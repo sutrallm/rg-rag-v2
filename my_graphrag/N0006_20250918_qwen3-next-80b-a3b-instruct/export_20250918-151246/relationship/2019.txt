@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>超越执着的智慧使禅定不堕入境界贪着，让禅定成为通向解脱的工具而非目标。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

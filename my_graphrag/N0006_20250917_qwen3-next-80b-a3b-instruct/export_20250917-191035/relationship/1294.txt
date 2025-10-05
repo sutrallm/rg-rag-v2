@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous diligent effort is required to develop and sustain meditative absorption, as without effort, the mind remains distracted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saintly qualities arise from the eradication of delusion through clear insight into reality, not through blind faith or ritual.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

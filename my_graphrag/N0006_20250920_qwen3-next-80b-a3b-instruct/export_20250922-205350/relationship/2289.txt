@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>禅定的维持需要精进修行的持续支持，两者相辅相成，缺一不可。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWU GUISHU</source_entity>
+    <target_entity>SIHAI</target_entity>
+    <relationship_description>Xiuwu guishu marks the end of Sihai, as it is the state beyond birth and death, where the causes of cyclic existence are extinguished.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>WU ZHI HUI</target_entity>
+    <relationship_description>Deep concentration creates the stillness required for wisdom to arise and penetrate reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

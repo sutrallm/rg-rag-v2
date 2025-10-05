@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGBZE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shengbze (the enlightened) are defined by their mastery of chanding as part of their daily practice of mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

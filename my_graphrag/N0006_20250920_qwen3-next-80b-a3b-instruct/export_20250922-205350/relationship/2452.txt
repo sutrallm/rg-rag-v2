@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Hatred generates suffering and binds one to cyclic existence; its cessation is required for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

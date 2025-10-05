@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>GAN CHENG</target_entity>
+    <relationship_description>The Saintly One has completely severed the roots of greed, hatred, and delusion, making them central to the transformation described.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

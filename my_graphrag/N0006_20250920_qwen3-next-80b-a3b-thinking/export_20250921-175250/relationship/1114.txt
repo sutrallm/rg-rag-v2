@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FUEL</source_entity>
+    <target_entity>FIRE</target_entity>
+    <relationship_description>FUEL sustains FIRE; absence of FUEL causes FIRE to extinguish naturally.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

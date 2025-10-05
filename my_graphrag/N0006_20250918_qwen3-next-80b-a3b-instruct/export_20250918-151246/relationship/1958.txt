@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SAN DU</target_entity>
+    <relationship_description>A sage (shengzhe) is defined by the complete uprooting of the three poisons: greed, hatred, and delusion (san du).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

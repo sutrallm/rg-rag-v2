@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding serves as the foundation for developing wisdom, allowing one to clearly perceive impermanence and no-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSE BASES</source_entity>
+    <target_entity>LING</target_entity>
+    <relationship_description>The six sense bases are the interfaces through which external stimuli affect the mind; guarding them is essential to prevent mental disturbance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

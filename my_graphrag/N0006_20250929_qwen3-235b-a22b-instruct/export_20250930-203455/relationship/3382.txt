@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>亲证</target_entity>
+    <relationship_description>修行者通过亲证直接体验解脱本质，非言语所能尽述，是理解实相的唯一途径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIELV</target_entity>
+    <relationship_description>Shengzhe (the saintly one) is defined by having moral discipline (jielv) as a foundation, which supports their purified mind and spiritual attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

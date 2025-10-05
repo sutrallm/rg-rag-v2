@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin (diligent effort) is necessary to maintain and protect Chanding (meditative concentration) from sinking into sloth or being disturbed by defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>智慧通过如实观照五蕴的生灭，了知其空性，从而断除烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

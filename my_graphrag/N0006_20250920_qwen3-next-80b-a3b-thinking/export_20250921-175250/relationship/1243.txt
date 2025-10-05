@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BAN RUO ZHI HUI</source_entity>
+    <target_entity>XU KONG</target_entity>
+    <relationship_description>Prajna wisdom (Ban Ruo Zhi Hui) embodies the qualities of empty space (Xu Kong), containing all phenomena without attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>SHEN WU</target_entity>
+    <relationship_description>Non-self contemplation specifically applies to observing the five aggregates (shen wu) as empty of inherent selfhood.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

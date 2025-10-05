@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Recognizing impermanence weakens attachment by revealing the ephemeral nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

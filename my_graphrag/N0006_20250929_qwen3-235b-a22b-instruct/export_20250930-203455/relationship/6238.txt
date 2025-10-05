@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轮回</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱的目标是超越轮回，断除业力牵引，不再受生死流转之苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

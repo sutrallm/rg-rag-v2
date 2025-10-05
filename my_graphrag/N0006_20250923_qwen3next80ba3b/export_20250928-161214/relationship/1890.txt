@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADVERSITY</source_entity>
+    <target_entity>EXTERNAL_BLAME</target_entity>
+    <relationship_description>External blame is an inappropriate response to adversity; self-reflection is required instead.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

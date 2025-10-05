@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WILD_ANIMAL</source_entity>
+    <target_entity>MOSQUITO</target_entity>
+    <relationship_description>Wild animals in the metaphor remain undisturbed by mosquitoes, symbolizing inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

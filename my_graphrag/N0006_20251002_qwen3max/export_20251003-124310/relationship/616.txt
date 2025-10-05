@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>錯誤執見</source_entity>
+    <target_entity>貪</target_entity>
+    <relationship_description>錯誤執見是貪生起的根源之一，斷除錯誤執見可使貪無從生起。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Continuous effort is described as the essential foundation for achieving liberation, without which one remains trapped in ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

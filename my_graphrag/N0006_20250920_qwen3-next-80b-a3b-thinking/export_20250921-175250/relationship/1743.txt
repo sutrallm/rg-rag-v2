@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离执着</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>Relinquishing attachment directly addresses clinging to mental states or perceived realms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

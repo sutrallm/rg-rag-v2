@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL_PRACTICE</source_entity>
+    <target_entity>MRAMA</target_entity>
+    <relationship_description>Continuous effortful practice prevents one from being controlled by Mrama, the force of distraction and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

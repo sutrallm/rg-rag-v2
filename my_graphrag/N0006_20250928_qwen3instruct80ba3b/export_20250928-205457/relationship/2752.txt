@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>般若智慧</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>般若智慧能彻底照破我执，使修行者从“我”与“我所”的幻觉中解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

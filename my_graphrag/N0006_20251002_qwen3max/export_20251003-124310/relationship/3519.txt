@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>執見</target_entity>
+    <relationship_description>圣者断除一切執見，超越错误的自我与法执。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

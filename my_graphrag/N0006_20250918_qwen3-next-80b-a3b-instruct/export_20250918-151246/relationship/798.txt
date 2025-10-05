@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIAOCHA</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Jiaocha (awareness) is the active practice of zhengnian (mindfulness); they are essentially synonymous in function—the noticing of present-moment phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

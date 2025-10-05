@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHILI</source_entity>
+    <target_entity>SHENTONG</target_entity>
+    <relationship_description>Zhili is considered superior to supernatural powers; wisdom leads to true freedom, while神通 is a distraction or byproduct that does not equate to enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

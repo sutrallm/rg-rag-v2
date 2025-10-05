@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHU ZH</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Transcending attachment directly counteracts ignorance by revealing the true nature of phenomena, thus dissolving delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

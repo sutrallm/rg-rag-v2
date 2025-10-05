@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHIZHUO</target_entity>
+    <relationship_description>Chanding creates the mental stability that allows Wuzhizhuo (non-attachment) to arise through clear observation of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

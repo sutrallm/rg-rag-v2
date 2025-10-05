@@ -1,0 +1,24 @@
+**Translation and Processing Unexecutable Due to Missing Source Content**  
+
+The system cannot execute translation or procedural modifications without the required source content. All processing steps, including the elimination of personal and geographical references, metaphor conversion, doctrinal preservation, title restructuring, and verse removal, depend entirely on the presence of complete input. Current requests contain only placeholders, preventing task initiation and requiring corrected submissions.  
+
+**Source Material Absence Halts Operations**  
+Translation and procedural tasks require source content to activate. The query includes a placeholder (e.g., "原文如下：--------------") without actual material, triggering system alerts for missing input. Without this foundation, no modifications or transformations can proceed.  
+
+**Person and Location Data Elimination**  
+All references to human individuals and geographical sites must be removed during processing. This includes specific names, city or country mentions, and any biographical or spatial identifiers, as mandated by step 1 of instruction requirements.  
+
+**Figurative Language Conversion**  
+Metaphors and conversational exchanges must be restructured into explicit doctrinal statements. Dialogue formatting is eliminated entirely, replaced with direct exposition of teachings to ensure clarity without allegory or figurative comparison.  
+
+**Doctrinal Content Preservation**  
+Core religious principles and specific teachings must remain unchanged throughout processing. Details of Buddhist doctrine, factual nuances, and core principles are preserved without simplification or omission, as defined by processing rules.  
+
+**Title Structuring Protocol**  
+Section headings must use numeric labeling to organize content logically. Numbered sequences (e.g., "1. 禅定的本质") ensure thematic focus and structural clarity per procedural instructions for output organization.  
+
+**Concluding Verse Removal**  
+Poetic stanzas at the text's end must be excluded entirely. All rhyming verses, ritualistic conclusions, or hymnic sections are deleted during processing to maintain plain language compliance.  
+
+**Input Validation Process**  
+The system automatically detects missing source content and issues explicit warnings. Processing cannot commence until complete input is provided, with notifications emphasizing resubmission requirements for task execution.

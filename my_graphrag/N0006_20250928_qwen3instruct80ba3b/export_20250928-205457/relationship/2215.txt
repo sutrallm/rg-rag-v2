@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE NATURE</source_entity>
+    <target_entity>DETACHMENT</target_entity>
+    <relationship_description>Understanding true nature leads directly to detachment as one recognizes all phenomena as hollow and unstable.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

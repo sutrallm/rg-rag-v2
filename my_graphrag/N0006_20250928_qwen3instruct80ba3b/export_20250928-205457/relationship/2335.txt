@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO GUAN ZHAO</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Non-self observation (Wu Wo Guan Zhao) is the direct method for uprooting ignorance (Wu Ming).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

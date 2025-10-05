@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>True transcendence of attachment includes not clinging to nirvana, making it the ultimate fruit of this wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

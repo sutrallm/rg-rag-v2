@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>CANDLE_IN_WIND</target_entity>
+    <relationship_description>A scattered MIND fluctuates like a CANDLE_IN_WIND in the wind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

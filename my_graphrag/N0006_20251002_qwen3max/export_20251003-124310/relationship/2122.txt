@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>癡</target_entity>
+    <relationship_description>正念透過清明覺知，有助於對治癡所代表的無明狀態，促進智慧生起。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

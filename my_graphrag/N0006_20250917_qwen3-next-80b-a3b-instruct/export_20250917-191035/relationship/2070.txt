@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>智慧深化禪定，使修行者不執著禪悅與境界，避免禪定變成新的執著，達到超越。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

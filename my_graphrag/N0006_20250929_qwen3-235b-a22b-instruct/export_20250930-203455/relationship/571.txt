@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力法则</source_entity>
+    <target_entity>觉性</target_entity>
+    <relationship_description>业力法则通过觉性洞察，因觉性显现后更易以正念引导行为，创造清净业因。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

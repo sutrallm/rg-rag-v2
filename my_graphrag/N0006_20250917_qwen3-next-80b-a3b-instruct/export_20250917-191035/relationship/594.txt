@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>STANDARD</target_entity>
+    <relationship_description>Stillness is a defining mark of the enlightened standard—the awakened one’s mind remains unshaken by external conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

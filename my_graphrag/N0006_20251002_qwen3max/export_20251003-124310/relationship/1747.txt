@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我见</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>我见是贪欲等烦恼的根本，一旦我见断尽，贪欲等烦恼亦随之止息。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

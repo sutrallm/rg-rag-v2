@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>内在情绪</target_entity>
+    <relationship_description>烦恼表现为内在情绪，若不能如实观察，心会被其困住。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

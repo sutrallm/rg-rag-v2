@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>业力是推动生死轮回运作的因果力量，与无明共同形成轮回机制。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Desire manifests as clinging—it is the emotional pull toward objects, experiences, or identities perceived as “mine.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

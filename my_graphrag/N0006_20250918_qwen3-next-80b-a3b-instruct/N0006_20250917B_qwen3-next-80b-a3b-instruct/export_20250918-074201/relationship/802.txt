@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Wisdom manifests as the direct realization that the self is an illusion constructed by the five aggregates, leading to the dissolution of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

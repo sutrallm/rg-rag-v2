@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>An enlightened being is defined by possessing deep, unshakeable wisdom — direct insight into reality that frees them from all afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

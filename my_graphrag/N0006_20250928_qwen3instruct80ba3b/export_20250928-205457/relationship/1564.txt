@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUI ZHI FAN NAO</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>These methods directly address ignorance by cultivating insight into the nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

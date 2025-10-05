@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT PRACTICE</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Diligent practice cultivates the mind through consistent meditation and mindfulness efforts.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

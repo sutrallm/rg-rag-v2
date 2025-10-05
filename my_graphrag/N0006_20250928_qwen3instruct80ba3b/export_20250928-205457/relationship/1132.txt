@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhengnian is the practice through which one directly observes and verifies wuchang in daily experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

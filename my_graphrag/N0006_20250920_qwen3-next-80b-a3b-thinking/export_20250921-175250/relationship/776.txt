@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>成果</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>Mental state is not constrained by results when not attached.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

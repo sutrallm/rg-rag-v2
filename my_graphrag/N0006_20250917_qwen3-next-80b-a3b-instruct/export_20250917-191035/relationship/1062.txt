@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Emptiness arises from the understanding of impermanence—since all things change and depend on conditions, they lack independent existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

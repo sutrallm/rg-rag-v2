@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>烦恼由贪、嗔、痴三毒引发，是轮回与苦果的根源，需以正见、正念、正定结合对治。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

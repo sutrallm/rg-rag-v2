@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGJIAN</source_entity>
+    <target_entity>BA ZHENG DAO</target_entity>
+    <relationship_description>Zhengjian is the first element of the Noble Eightfold Path and guides the entire path's direction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>禪定的成就依賴持續精進；無精進則無法維持正念與專注，禪定即難生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXING</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>Xiuxing is not ritualistic — it is daily Zhennian, applied in every posture and action, making mindfulness the essence of practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

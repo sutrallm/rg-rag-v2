@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>心镜</target_entity>
+    <relationship_description>心识被比喻为心镜，尘垢遮蔽则不能映照真实，修行可使心镜自明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

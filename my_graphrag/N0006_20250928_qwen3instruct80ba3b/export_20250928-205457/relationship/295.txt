@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS IN DAILY LIFE</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Mindfulness in daily life cultivates non-attachment by observing thoughts and sensations without reaction or identification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

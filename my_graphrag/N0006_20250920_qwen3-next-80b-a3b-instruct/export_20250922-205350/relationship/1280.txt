@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>NO_SELF_OBSERVATION</target_entity>
+    <relationship_description>Jingjin sustains the persistent practice required to observe the impermanent nature of the five aggregates and dissolve the illusion of self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

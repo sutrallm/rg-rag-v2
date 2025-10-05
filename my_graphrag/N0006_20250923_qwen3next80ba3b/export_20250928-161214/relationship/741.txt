@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>TEN DIRECTIONS</target_entity>
+    <relationship_description>The mind nature's illumination extends to all ten directions of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

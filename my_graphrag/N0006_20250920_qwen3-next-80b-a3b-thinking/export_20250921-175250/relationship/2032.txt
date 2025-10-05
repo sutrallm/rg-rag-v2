@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN XING</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>心性无所执著即是解脱的本质，无取无舍、无得无失的状态直接由心性决定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

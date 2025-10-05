@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>懈怠</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>懈怠與精進是直接對立的修行態度，懈怠導致墮落，精進通向解脫，二者構成修行的關鍵張力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>外境的誘惑</target_entity>
+    <relationship_description>正念使人不被外境的誘惑所動搖。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CI_BEI</source_entity>
+    <target_entity>WUZHUO</target_entity>
+    <relationship_description>Compassion (ci bei) and wisdom (wuzhuo) are dual aspects of enlightenment — wisdom prevents compassion from becoming attachment, compassion prevents wisdom from becoming detachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

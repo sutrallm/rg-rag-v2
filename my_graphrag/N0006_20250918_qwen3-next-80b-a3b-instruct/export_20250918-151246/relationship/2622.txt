@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TANCHENGCHI</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Tanchengchi (greed, hatred, delusion) are the specific manifestations of the broader category of Fannao (afflictions), forming the core three poisons of Buddhist psychology.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>发慧</target_entity>
+    <relationship_description>戒定慧三学中的“慧”指发慧，是修定的成果与解脱的导向。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

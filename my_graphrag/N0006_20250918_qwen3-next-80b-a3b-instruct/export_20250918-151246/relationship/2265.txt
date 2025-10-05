@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>ZIYOU</target_entity>
+    <relationship_description>Chaoshi (wisdom) is the direct cause of Ziyou (true freedom), as insight into transient nature enables non-attachment and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

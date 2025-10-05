@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Non-self is the central insight of transcendent wisdom, which sees the five aggregates as without inherent identity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

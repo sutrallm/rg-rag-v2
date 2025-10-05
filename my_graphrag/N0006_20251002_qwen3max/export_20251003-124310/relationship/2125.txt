@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>癡</target_entity>
+    <relationship_description>禪定深化專注，使觀照清晰，有助於照破癡的無明本質。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

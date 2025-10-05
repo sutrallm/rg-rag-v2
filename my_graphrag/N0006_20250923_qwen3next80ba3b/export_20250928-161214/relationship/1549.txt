@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>油钵</source_entity>
+    <target_entity>市</target_entity>
+    <relationship_description>油钵被携带至市场区域进行活动</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

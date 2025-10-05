@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Impermanence is a key observation that supports the realization of no-self — if all is changing, there can be no fixed entity called “I”.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

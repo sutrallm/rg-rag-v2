@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the state where suffering is fully extinguished, fulfilling the goal of the Buddhist path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

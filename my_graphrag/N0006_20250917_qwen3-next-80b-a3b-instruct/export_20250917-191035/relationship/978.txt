@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Enlightened beings are completely free of all forms of clinging, including to spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

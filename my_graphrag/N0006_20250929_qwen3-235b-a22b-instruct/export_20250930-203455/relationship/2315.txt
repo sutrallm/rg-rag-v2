@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无明表现为误认无我为我，需通过如实观察无我来破除自我感的错觉。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

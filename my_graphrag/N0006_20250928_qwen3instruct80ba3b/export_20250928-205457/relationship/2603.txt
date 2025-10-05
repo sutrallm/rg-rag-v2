@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正法</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>依止正法是通往解脫的唯一正確路徑，非依人言。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

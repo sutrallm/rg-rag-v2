@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪瞋痴</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者的目标是逐步断除贪、瞋、痴三毒，这些是烦恼的根本来源。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

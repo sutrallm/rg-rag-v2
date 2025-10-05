@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>解脱 fully eradicates 烦恼, as the cessation of greed, hatred, and delusion results in the end of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

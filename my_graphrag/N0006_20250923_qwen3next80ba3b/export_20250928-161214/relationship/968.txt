@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>CYCLE OF BIRTH AND DEATH</target_entity>
+    <relationship_description>Desire is identified as the primary cause perpetuating the cycle of birth and death in Buddhist doctrine.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

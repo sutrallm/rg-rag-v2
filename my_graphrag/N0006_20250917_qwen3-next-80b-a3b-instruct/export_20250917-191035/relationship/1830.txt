@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>佛法</target_entity>
+    <relationship_description>佛陀是佛法的創立者與實際教導者，佛法即其智慧與經驗的傳承。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

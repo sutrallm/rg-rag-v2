@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>真正的寂静需彻底脱离贪等烦恼，贪的断除是达成内心寂静的前提。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

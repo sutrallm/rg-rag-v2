@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>專注</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>專注是禪定的基礎之一，使心不被外境牽動，促成內在安寧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

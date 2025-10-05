@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>禪定成就者能洞察無我，此為解脫的重要智慧基礎。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

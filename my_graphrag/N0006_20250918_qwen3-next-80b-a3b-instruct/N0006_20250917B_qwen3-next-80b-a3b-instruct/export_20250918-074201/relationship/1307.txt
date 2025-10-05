@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhengnian is the practical method through which one observes the arising and passing of phenomena, leading to the direct insight of Wuwo.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

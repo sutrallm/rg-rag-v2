@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三禅</source_entity>
+    <target_entity>乐</target_entity>
+    <relationship_description>乐是三禅的禅支之一，三禅舍离喜，唯余乐受。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

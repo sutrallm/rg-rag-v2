@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>起心动念</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>修行在日常起心动念之间实践，是将佛法融入生活的起点。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

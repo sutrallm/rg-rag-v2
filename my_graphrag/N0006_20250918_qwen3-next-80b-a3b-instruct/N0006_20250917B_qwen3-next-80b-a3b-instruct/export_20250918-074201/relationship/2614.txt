@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>烦恼的根源</target_entity>
+    <relationship_description>Ignorance (of self, impermanence, and suffering) is the foundational root that gives rise to misperceptions of "I" and "mine," thus generating all suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

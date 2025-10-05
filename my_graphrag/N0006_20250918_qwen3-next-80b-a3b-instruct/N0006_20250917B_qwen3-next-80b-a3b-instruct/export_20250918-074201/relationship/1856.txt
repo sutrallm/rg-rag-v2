@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Effort is the necessary condition to enter and sustain chanding; without it, one remains distracted and cannot attain meditative absorption.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>內觀</target_entity>
+    <relationship_description>禪定為內觀提供清明穩定的心境基礎，使修行者能有效觀察五蘊，由定生慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

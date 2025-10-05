@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>SAMSA RA</target_entity>
+    <relationship_description>The three poisons are the roots of samsara, keeping beings trapped in cyclic existence through craving and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

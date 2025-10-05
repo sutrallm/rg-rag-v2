@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH</source_entity>
+    <target_entity>EFFORTFUL_PRACTICE</target_entity>
+    <relationship_description>Contemplation of death motivates earnest practice, reminding practitioners that time is fleeting and awakening must be urgent.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

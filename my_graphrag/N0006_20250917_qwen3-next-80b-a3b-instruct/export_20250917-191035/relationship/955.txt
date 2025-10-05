@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执著</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱的目标即是彻底放下执著，不攀缘、不黏着，因此执著是解脱的对立面。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

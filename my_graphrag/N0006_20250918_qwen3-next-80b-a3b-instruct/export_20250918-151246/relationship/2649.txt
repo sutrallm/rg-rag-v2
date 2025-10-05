@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Enlightened beings fully embody the realization of no-self; they have no sense of a separate self achieving or possessing anything.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

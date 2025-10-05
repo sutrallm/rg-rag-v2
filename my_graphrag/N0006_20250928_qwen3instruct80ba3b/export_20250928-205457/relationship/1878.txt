@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGLI HUANLUN</source_entity>
+    <target_entity>TAN'AI</target_entity>
+    <relationship_description>Tan'ai (craving) is the activating force that sustains the cycle of birth and death once ignorance is present.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

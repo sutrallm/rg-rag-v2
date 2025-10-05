@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者具足如实智慧，能如实观照诸法本质，这是其内在澄明与超越的根本原因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

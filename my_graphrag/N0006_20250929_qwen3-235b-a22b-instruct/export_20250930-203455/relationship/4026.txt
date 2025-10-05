@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定为解脱提供心念稳定的基础，与智慧结合方能如实知见、断除烦恼，成就解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISPASSION</source_entity>
+    <target_entity>SENSORY OBJECTS</target_entity>
+    <relationship_description>DISPASSION involves non-attachment to SENSORY OBJECTS.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

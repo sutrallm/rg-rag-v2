@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE TUO JINGJIE</target_entity>
+    <relationship_description>Enlightened beings (Shengzhe) are those who have attained liberation, as described in their freedom from greed, hatred, and delusion, and their transcendence of samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

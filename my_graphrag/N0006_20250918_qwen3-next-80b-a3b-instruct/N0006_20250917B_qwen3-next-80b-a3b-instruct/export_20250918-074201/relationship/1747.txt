@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUAN ZHIZHU</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Chaoguan Zhizhu is based on the realization of Wuchang (impermanence), recognizing all experiences as transient and not to be grasped.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

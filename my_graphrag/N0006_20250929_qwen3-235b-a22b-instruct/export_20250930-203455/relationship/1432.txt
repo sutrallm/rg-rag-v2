@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常生活</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>在日常生活中保持正念，是将修行融入生活的实践方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

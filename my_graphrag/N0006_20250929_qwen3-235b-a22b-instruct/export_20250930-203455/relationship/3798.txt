@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧等持</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>定慧等持强调禅定与智慧必须平衡发展，无定则慧不生，是如实照见实相的前提。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

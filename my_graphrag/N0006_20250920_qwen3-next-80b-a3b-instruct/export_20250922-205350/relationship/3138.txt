@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MOMENT AWARENESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Persistent present-moment awareness is the practical method through which chanding (concentration) is developed and maintained.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定培養定力，為智慧生起的基礎；由定發慧，是修行傳統的核心脈絡。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

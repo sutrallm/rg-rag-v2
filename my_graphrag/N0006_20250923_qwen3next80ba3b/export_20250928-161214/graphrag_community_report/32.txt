@@ -1,0 +1,18 @@
+Buddhist Content Transformation: PERSON, LOCATION, and STANZA Removal Requirements  
+
+Processing Buddhist content necessitates complete removal of PERSON references, geographical location details, and STANZA sections. Doctrinal content must remain intact, with processing steps structured using numbered titles as per instructions.  
+
+Person References Elimination  
+All human individuals, specific simile examples like 'like a person enters the mountain', and explicitly listed persons must be entirely removed during step 1 of processing.  
+
+Geographical Location Omission  
+References to cities, countries, regions, and other geographical places must be excluded from processing as specified in the instructions.  
+
+STANZA Section Deletion  
+Poetic verse sections positioned at the end of Buddhist content must be fully removed according to the fifth processing step.  
+
+Doctrinal Content Integrity  
+Original doctrinal details must be preserved exactly as instructed without alteration.  
+
+Structured Step Numbering  
+Processing steps require numbered titles to ensure clear and organized structure during transformation.

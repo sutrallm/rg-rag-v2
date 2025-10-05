@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>五蕴作为构成个体的要素，其本质是无常的，观照此无常性是破除我见的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

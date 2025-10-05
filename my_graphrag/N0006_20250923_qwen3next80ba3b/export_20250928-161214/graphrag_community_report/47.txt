@@ -1,0 +1,15 @@
+**Buddhist Doctrinal Detail Preservation and Metaphor Conversion Guidelines**  
+
+Core Buddhist teachings must be preserved without simplification during text transformation. Metaphors require conversion into explicit doctrinal explanations, and dialogues must be transformed into direct doctrine exposition. Doctrinal details are maintained within DOCTRINAL_REPRESENTATION to ensure accuracy.  
+
+**Core Teachings Must Remain Unaltered**  
+Core Buddhist teachings and specific aspects must be retained without simplification during text transformation as per processing requirements.  
+
+**Metaphors Require Direct Doctrinal Transformation**  
+All metaphorical expressions must be converted into direct doctrinal explanations, descriptions, or statements to ensure accurate presentation of teachings.  
+
+**Dialogue Content Converted to Direct Exposition**  
+Dialogue passages must be transformed into direct doctrine exposition as part of processing instructions to maintain doctrinal clarity.  
+
+**Doctrinal Details Preserved in Representation**  
+DOCTRINAL_DETAILS are preserved within the DOCTRINAL_REPRESENTATION structure to uphold the integrity of teachings during processing.

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>精进修行是断除三毒的实践途径，唯有持续努力，才能逐步削弱并最终根除贪嗔痴。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心光</source_entity>
+    <target_entity>持续修习</target_entity>
+    <relationship_description>心光的显现是持续修习的成果，唯有层层破执、日日不辍，才能使遮蔽心性的无明彻底消散，心光朗然。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

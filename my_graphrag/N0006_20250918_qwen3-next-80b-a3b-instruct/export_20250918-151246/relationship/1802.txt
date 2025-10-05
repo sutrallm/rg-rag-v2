@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE JING</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Pure moral discipline supports and stabilizes the meditative state by reducing mental distractions and remorse.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

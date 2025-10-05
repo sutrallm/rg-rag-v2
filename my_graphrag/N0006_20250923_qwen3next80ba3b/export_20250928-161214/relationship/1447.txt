@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>PRACTICE RESULTS</target_entity>
+    <relationship_description>Non-attachment ensures practitioners do not become bound by the outcomes or rewards of spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

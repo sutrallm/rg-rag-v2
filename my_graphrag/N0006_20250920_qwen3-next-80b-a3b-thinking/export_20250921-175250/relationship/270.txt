@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX SENSE BASES</source_entity>
+    <target_entity>EXTERNAL OBJECTS</target_entity>
+    <relationship_description>The six sense bases interact with and perceive external objects, forming the basis of sensory experience as described in "面对外境".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

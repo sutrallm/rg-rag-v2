@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>想蕴</target_entity>
+    <relationship_description>想蕴是五蕴体系中的认知构成部分。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

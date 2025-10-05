@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>REINCARNATION</target_entity>
+    <relationship_description>The three poisons are the root causes that perpetuate the cycle of reincarnation; their elimination ends rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

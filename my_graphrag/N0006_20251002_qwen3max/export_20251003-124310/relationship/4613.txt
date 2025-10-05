@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪修成就者</source_entity>
+    <target_entity>禪悅</target_entity>
+    <relationship_description>禪修成就者即使獲得禪悅也不會產生貪愛或執取，因知其仍屬世間法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

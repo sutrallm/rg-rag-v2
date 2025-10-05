@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Ignorance of reality is the root cause of greed, as it leads beings to mistakenly believe that phenomena can bring lasting satisfaction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

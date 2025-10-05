@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>喜</source_entity>
+    <target_entity>初禅</target_entity>
+    <relationship_description>喜是初禅五支之一，因远离欲界烦恼而生起的喜悦感受。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

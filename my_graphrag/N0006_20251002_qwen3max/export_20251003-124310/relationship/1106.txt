@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離執</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>離執是解脫過程中不可或缺的智慧表現，避免因成就而生驕慢或貪戀，維持真正的心解脫。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>修行者需守护六根，不放纵感官欲望，六根是其日常修行中需调伏的感官门户。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

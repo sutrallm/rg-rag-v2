@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>PRACTICE RESULTS</target_entity>
+    <relationship_description>Attachment to practice results causes bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

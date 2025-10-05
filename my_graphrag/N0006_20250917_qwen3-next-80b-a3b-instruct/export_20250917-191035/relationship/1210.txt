@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU XIANG</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wu xiang redefines Chanding by asserting that true meditation is not dependent on physical isolation — inner stillness suffices, regardless of environment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

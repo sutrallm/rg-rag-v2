@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Delusion underlies hatred, as it leads to misperception of threats and aversion to what is unsatisfactory.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>ENMITY</target_entity>
+    <relationship_description>Compassion resolves enmity through loving-kindness and forgiveness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

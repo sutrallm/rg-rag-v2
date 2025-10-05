@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHAN</target_entity>
+    <relationship_description>A Shengzhe abides permanently in Shan (inner stillness), as their mind is no longer agitated by afflictions or external conditions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

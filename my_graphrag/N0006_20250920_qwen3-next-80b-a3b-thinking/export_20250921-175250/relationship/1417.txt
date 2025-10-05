@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>TRANSCENDENT REALM</target_entity>
+    <relationship_description>Saints transcend worldly limitations and are respected in the transcendent realm.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

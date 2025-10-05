@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGJIAN YU ZHENGXING</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Wuwo guanzhao is both a result of right view and a practice under right practice — it integrates both dimensions of the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

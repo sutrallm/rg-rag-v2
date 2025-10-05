@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Chanding depends on zhengnian (mindfulness) to stabilize attention and prevent distraction — the two are deeply interdependent in practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

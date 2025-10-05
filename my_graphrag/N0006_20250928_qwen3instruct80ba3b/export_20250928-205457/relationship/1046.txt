@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我觀照</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>無我觀照能幫助修行者在禪定中不執著於“我”與境界，使禪定更趨向真實與解脫，而非世間定境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

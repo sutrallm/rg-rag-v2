@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>缰绳</target_entity>
+    <relationship_description>禅修中以正念与正知如缰绳般调伏散乱之心，使其趋于平静。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

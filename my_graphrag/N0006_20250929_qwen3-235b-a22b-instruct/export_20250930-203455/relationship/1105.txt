@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>福报</source_entity>
+    <target_entity>修行目标</target_entity>
+    <relationship_description>修行非为求福报，而是断除三毒、证得解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

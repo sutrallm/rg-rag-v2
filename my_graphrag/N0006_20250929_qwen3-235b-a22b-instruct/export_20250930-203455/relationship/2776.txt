@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>非实有</target_entity>
+    <relationship_description>五蕴非实有，是空性与无我的体现，需通过智慧观照。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔怒</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>嗔怒源于误认假我为实，智慧破此妄见，嗔怒即自然枯竭。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom directly dissolves attachment by revealing the futility and suffering inherent in clinging to any phenomenon.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

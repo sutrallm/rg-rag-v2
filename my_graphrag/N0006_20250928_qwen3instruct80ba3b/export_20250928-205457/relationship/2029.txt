@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>SAṂSĀRA</target_entity>
+    <relationship_description>Clinging to experiences and views perpetuates the cycle of samsara and keeps one bound in suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

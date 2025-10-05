@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The saintly person is defined by their wisdom, which is cultivated through direct observation; thus, Zhishi is both the means and the mark of their realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

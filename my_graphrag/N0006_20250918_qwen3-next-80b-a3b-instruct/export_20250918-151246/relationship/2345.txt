@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO DE ZHIHUI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>A sage (Shengzhe) is one who embodies transcendent wisdom, having fully realized the empty, impermanent nature of phenomena and thereby transcended suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

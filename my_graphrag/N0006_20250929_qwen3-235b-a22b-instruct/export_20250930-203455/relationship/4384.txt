@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>戒律是圣者具足的清净基础，与智慧共同支撑其调伏心念、安住寂静的修行状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

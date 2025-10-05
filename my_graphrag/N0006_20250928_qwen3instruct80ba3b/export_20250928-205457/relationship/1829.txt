@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>我见</target_entity>
+    <relationship_description>圣者已彻底破除我见，不再执著于“自我”或“我所”，是其证果的标志。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

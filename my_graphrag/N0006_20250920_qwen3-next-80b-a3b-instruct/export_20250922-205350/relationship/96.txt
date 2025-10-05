@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>定</target_entity>
+    <relationship_description>戒是定的基础，持戒清净才能使心安稳，从而入定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

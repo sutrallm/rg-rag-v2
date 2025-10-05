@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Ignorance leads to laxity, as the unwise fail to recognize the importance of diligent practice, trapping themselves in samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

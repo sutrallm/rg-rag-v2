@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>智慧通過洞見無我才獲得出離，無我是智慧的對象與證悟目標。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行的核心是以正念觀照日常每一刻，正念是實踐修行的具體方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

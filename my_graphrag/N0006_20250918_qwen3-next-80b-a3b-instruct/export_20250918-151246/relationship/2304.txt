@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>聖者的特質在於具足智慧，能如實觀見一切法無常無我，因而斷盡煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

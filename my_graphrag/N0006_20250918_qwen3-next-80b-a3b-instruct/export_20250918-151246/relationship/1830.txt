@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhishi (wisdom) arises from directly seeing wuchang (impermanence) as a fundamental characteristic of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

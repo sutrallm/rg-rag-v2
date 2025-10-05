@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>INNER PEACE AND CLARITY</target_entity>
+    <relationship_description>Samadhi leads to the attainment of inner peace and mental clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

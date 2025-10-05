@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUA</source_entity>
+    <target_entity>NINGE</target_entity>
+    <relationship_description>Ninge (nirvana) is the essential nature and realization of true Jie Tua (liberation), representing complete non-attachment and freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

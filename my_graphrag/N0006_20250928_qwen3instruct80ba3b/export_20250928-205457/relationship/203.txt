@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Chanding stabilizes the mind, which enables the arising of Zhihui (wisdom). Wisdom deepens chanding by revealing the true nature of phenomena, creating a virtuous cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

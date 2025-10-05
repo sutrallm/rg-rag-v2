@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法随法行</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>法随法行是通往解脱的唯一真实道路，是实践路径与终极目标的关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

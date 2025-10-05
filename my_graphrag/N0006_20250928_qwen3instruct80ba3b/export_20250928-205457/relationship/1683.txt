@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三學</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>三學中的「定」即為禪定，是三學的中間支柱，承上啟下，使戒落實、慧生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>道场</source_entity>
+    <target_entity>日常修行</target_entity>
+    <relationship_description>吃饭、走路等日常活动皆可成为修定与观慧的道场。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

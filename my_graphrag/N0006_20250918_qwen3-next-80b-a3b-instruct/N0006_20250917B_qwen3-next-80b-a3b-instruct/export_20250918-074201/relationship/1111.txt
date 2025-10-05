@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YIQI FA JIE SHIGONG</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>All teachings are skillful means; clinging to them contradicts transcending attachment—true practice includes letting go even of the Buddha’s own methods.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>如实观照无常可看透身心现象的虚妄本质，从而断除对六尘的贪爱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

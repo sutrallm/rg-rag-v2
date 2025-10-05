@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>Transcending attachment is the direct expression of wisdom that leads to liberation, as clinging is the root of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUXIUBUZHENG</source_entity>
+    <target_entity>CHIZHE</target_entity>
+    <relationship_description>Buxiubuzheng describes the mature expression of Chizhe: wisdom that no longer seeks attainment or avoids suffering, seeing reality without distortion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

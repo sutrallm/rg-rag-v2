@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>智慧使人證得心解脫，透過如實觀察萬法的無常、苦、無我本質，不再對境界產生執著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

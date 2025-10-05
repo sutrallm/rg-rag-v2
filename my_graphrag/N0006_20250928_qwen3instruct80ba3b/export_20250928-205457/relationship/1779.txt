@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANXUE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sanxue includes chanding as its second component, necessary to calm the mind for wisdom to arise.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

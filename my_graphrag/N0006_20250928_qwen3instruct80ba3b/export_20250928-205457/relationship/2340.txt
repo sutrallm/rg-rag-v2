@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>Right Mindfulness prevents the arising and growth of afflictions (Fan Nao) by observing their arising and letting them pass.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

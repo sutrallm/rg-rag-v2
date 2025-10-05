@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>业力法则</target_entity>
+    <relationship_description>修行者遵循业力法则，以正念引导身口意行为，创造清净业因，避免苦果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

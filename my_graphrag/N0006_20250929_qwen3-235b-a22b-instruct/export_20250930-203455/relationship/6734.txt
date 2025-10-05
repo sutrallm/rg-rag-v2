@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>圆满</target_entity>
+    <relationship_description>解脱是修行的圆满状态，指烦恼断尽、无漏智慧成就、清净本性完全显现的究竟境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SANJIE</target_entity>
+    <relationship_description>Enlightened beings transcend the three realms of samsara through wisdom and detachment, no longer bound by desire, form, or even formless states of existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

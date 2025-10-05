@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>无我与苦彼此关联：因无有恒常自主之“我”，故对五蕴的执取带来苦。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

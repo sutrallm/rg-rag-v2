@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Libertion is realized when the illusion of self (wuwo) is transcended, leading to the final dissolution of clinging and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

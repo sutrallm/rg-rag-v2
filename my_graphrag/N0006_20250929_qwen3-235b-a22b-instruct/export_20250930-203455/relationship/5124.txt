@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者通过禅定调伏心念、安住寂静，禅定是其修行成就的重要组成部分。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>「智慧」在此文本中特指「超越執著的智慧」，二者為同一概念的不同表述。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHÈNGZHE</source_entity>
+    <target_entity>瞋恚</target_entity>
+    <relationship_description>The sage has ended aversion, a key poison binding beings to suffering, through equanimity and insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

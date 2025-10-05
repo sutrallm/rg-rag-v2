@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSONS</source_entity>
+    <target_entity>LOCATIONS</target_entity>
+    <relationship_description>Both persons and locations are subject to identical deletion instructions to remove all biographical and geographical references.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

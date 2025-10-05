@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom—direct insight into impermanence, suffering, and non-self—is the means by which liberation is realized.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

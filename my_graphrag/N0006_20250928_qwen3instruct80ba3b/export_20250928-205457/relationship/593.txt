@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>YIQIEFAWUWO</target_entity>
+    <relationship_description>Yiqiefawuwo uses Wuyun as the primary example — showing how the five aggregates, falsely perceived as "I," are in reality impermanent, conditioned, and empty.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

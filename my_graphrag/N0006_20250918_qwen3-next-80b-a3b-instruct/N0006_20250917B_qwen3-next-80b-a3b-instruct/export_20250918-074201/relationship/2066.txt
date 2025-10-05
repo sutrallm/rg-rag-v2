@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANYING</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Chanying (meditative concentration) creates the mental clarity necessary for insight to arise and deepen.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

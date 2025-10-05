@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者是已达成解脱的修行者，其内心烦恼彻底止息，安住无为寂静。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

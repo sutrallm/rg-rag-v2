@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>智慧通过洞察诸法实相，直接断除无明，是解脱的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

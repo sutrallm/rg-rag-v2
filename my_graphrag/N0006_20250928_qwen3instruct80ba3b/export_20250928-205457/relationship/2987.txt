@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Niepan (nirvana) is the cessation of the dependent origination chain; when ignorance is eliminated, the entire cycle of suffering ends.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

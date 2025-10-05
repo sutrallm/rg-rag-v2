@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正見</source_entity>
+    <target_entity>覺知當下</target_entity>
+    <relationship_description>正見的實踐體現在日常覺知當下起心動念，兩者是理論與實踐的一體兩面。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

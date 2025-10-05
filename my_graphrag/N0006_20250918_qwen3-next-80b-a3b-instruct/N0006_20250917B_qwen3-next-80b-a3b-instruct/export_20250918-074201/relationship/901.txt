@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The direct realization of no-self is the core insight that dissolves ego-based clinging and results in ultimate liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

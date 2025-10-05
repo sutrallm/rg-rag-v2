@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念是正確修習禪定的基礎，使修行者能安住當下、專注一境而不散亂，進而真正進入禪定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

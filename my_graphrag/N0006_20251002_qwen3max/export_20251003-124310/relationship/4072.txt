@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者應當時刻以正念守護六根，不讓心隨外境散亂。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

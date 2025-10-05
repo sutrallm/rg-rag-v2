@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者在一切行为中皆以正念为先导，正念是其日常修持的核心实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

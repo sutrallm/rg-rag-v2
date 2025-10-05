@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOFU ZHIZHUO</target_entity>
+    <relationship_description>Chanding leads to deeper insight that supports transcending attachment, making it a foundation for non-clinging wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

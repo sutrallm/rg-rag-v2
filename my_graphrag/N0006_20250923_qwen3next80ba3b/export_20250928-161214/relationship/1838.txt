@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNPLEASANT FEELING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>UNPLEASANT FEELING directly contributes to SUFFERING through aversion and distress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

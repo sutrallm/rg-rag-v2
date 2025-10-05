@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhisui is the direct experiential realization of wuwo — recognizing that all phenomena lack a self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

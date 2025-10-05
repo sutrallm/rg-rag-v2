@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN DE ZIYOU</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>True mental freedom is defined as non-seeking — the absence of desire to attain or avoid experiences, consistent with the principle of non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

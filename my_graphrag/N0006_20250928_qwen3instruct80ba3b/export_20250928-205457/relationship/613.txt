@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGETIC PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Effortful practice is necessary to develop and sustain chanding, preventing laxity and lapse into ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

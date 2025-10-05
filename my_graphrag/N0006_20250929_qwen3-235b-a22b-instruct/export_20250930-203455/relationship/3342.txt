@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>耐心与坚持</target_entity>
+    <relationship_description>修行者需以耐心与坚持持续修行，即使进展缓慢也不放弃。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

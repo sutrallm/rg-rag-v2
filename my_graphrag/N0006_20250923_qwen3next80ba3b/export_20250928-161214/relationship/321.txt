@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSTRUCTION</source_entity>
+    <target_entity>DOCTRINE_DETAILS</target_entity>
+    <relationship_description>The instruction explicitly mandates the preservation of all doctrinal details without omission or modification.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

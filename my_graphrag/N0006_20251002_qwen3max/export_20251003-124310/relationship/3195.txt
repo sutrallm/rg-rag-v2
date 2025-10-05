@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>道果</target_entity>
+    <relationship_description>稳固的禅定有助于成就道果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

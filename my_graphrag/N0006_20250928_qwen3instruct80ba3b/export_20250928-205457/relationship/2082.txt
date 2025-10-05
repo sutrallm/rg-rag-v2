@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NIHUN</target_entity>
+    <relationship_description>Chanding, when combined with wisdom, leads to Nihun; concentrated mindfulness allows one to abide in the present and thereby extinguish attachments that sustain suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

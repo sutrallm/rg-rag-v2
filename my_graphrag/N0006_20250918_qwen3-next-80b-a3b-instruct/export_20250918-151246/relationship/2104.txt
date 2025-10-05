@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISUI</source_entity>
+    <target_entity>JIEDU</target_entity>
+    <relationship_description>Zhishui, as deep insight into impermanence and non-self, directly leads to jiedu (liberation) by dissolving attachment and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

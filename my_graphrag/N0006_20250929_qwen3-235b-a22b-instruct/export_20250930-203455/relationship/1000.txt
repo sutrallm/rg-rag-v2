@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>五盖</target_entity>
+    <relationship_description>禅定修习的过程能逐步去除五盖，当心完全安住于一境时，五盖已除，身心轻安，智慧生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

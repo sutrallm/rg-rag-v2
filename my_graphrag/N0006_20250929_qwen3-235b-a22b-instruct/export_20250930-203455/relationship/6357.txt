@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自我检验</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>自我检验用于评估禅定与慧的增长，如逆境中保持清明即为定慧进步。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

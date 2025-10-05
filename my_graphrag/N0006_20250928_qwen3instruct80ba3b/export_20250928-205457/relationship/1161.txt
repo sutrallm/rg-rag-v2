@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者因具足禅定而能心不动摇，安住于正念，这是其超凡境界的表现之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

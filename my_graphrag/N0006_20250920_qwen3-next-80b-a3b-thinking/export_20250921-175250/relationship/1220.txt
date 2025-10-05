@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>离欲即舍弃贪欲的修行行为</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

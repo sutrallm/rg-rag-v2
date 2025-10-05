@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Ignorance is the root cause of defilements; without understanding reality, craving and aversion arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

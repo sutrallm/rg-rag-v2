@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五欲六尘</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念的修习正是为了在面对五欲六尘时不起分别与执取，保持觉照。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

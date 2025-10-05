@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT_WISDOM</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Insight wisdom culminates in the realization of non-self, dissolving the illusion of a separate, enduring identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

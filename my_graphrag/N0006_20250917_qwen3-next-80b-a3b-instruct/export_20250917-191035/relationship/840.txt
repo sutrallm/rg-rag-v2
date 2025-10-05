@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saintly qualities include freedom from hatred through insight and calmness; a saint does not respond to adversity with hostility or rejection.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

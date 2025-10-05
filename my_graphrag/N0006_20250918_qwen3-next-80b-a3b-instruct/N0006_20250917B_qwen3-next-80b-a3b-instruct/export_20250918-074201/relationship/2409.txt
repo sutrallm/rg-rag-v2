@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Noble Ones dwell in the state of nirvana — abiding in peace regardless of external conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

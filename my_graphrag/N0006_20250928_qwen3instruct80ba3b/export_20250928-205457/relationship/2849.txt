@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINGSHI</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Mingshi provides guidance toward Jietuo but cannot achieve it for the practitioner—awakening must be self-realized.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>观照无常是通向无我认知的重要途径，二者共同构成智慧观照的核心内容。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

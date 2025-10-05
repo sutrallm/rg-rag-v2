@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>A shengzhe has maintained lifelong jingjin (diligent practice), which enabled the purification of mind and attainment of their enlightened state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

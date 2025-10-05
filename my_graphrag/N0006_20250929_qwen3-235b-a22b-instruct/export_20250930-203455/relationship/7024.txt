@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善法</source_entity>
+    <target_entity>修行的终极目标</target_entity>
+    <relationship_description>一切善法皆为达成修行终极目标——断除烦恼、证得涅槃——而服务。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真實的自由</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定是通往真實自由的途徑之一，但自由本身超越禪定境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

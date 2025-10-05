@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>慈悲是聖者自然具備的德行，與其智慧並行。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

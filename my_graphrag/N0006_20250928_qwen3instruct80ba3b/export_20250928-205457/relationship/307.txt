@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我见</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>我见是痛苦的根本原因，对“我”和“我所”的执着导致贪嗔痴与轮回之苦。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMS ATTACHMENT WISDOM</source_entity>
+    <target_entity>FIRE</target_entity>
+    <relationship_description>Fire represents the destructive consequences of attachment in the Form Attachment Wisdom teaching.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

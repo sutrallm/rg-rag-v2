@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETAILED_AWARENESS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Detailed awareness is an active, moment-to-moment form of mindfulness applied to all bodily and mental phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

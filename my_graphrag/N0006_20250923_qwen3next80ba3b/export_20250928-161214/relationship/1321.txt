@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT VIEW</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>RIGHT VIEW requires insight into the principle of IMPERMANENCE.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

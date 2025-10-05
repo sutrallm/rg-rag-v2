@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO LIBERATION</source_entity>
+    <target_entity>CHATING</target_entity>
+    <relationship_description>Chatting is the necessary intermediary stage between moral discipline and the arising of wisdom on the path to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

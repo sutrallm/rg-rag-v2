@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦行</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>苦行是中道所避免的兩種極端之一，中道主張遠離苦行與欲樂。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

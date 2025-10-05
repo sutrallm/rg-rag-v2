@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Realizing no-self is the core insight leading to liberation, as it dissolves the illusion of a permanent self that suffers.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

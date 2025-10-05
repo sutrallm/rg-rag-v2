@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者是精进修行的典范，通过持续精进断除烦恼、超越轮回。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

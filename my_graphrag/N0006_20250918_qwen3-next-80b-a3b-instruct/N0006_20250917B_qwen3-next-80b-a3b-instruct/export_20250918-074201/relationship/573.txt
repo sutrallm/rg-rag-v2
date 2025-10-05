@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAMASARA</target_entity>
+    <relationship_description>Libation is the escape from samasara, the cycle of birth and death fueled by ignorance and craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实智慧</source_entity>
+    <target_entity>幻相</target_entity>
+    <relationship_description>真实智慧能穿透幻相，使修行者不再被表象所迷惑。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

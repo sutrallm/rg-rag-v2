@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Stable meditation (Chanding) enables the arising of true wisdom (Hui), which discerns the impermanent and non-self nature of experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

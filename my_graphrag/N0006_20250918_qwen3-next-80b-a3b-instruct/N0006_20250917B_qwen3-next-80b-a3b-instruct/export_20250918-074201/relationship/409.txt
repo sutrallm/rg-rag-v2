@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>SENSEOFSELF</target_entity>
+    <relationship_description>Clinging is fueled by the mistaken belief in a solid self; without this delusion, clinging naturally ceases.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>WANGNIAN</target_entity>
+    <relationship_description>正念安住可消除妄念，如明空朗照般驱散如浮云般的杂乱思维。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

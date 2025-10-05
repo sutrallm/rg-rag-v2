@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>SAINTLY BEINGS uphold pure PRECEPTS as a foundational aspect of their virtuous discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

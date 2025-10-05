@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIEXIE</target_entity>
+    <relationship_description>Zhihui (wisdom) is the direct cause of Jiexie (liberation), as it dissolves ignorance and attachment, the roots of suffering and cyclic existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

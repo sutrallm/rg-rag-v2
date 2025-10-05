@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放下</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>放下正是对贪嗔痴三毒的根本对治，舍弃执取即断其根。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

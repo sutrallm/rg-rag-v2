@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>嗔恨</target_entity>
+    <relationship_description>嗔恨是三毒之一，三毒是其上位类别。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

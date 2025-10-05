@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我 (NO-SELF)</source_entity>
+    <target_entity>执取 (CLINGING)</target_entity>
+    <relationship_description>Clinging arises from believing in a permanent self; seeing no-self removes the basis for clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

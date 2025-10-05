@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>三學</target_entity>
+    <relationship_description>聖者是具足三學的完善修行者，其清淨戒律、禪定工夫與如实智慧，是三學圓滿的體現。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

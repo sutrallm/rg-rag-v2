@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL DROWSINESS</source_entity>
+    <target_entity>WHITE BONES</target_entity>
+    <relationship_description>White bones visualization is a technique specifically used to counter mental drowsiness during meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

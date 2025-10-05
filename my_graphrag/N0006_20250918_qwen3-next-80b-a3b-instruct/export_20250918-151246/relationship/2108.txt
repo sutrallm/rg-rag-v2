@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMING</source_entity>
+    <target_entity>JIEDU</target_entity>
+    <relationship_description>Jieming, together with chanding and zhishui, forms the complete path to jiedu; ethical conduct is essential for final liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

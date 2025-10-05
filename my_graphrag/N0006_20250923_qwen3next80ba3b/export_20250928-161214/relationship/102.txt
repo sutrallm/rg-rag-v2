@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>道</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>四圣谛中的道谛具体体现为八正道的实践</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

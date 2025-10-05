@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀慧</source_entity>
+    <target_entity>概念思維</target_entity>
+    <relationship_description>觀慧不同於概念思維，而是直接體證諸法本質。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

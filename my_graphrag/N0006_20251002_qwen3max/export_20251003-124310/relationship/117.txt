@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无我观照能瓦解我执，使人从“我”与“我所”的错觉中解脱，是实现彻底解脱的必要智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

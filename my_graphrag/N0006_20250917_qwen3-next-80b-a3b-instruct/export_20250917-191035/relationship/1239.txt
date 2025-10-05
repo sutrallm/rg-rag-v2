@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINZI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xinzi (mind cultivation) requires jingjin (diligent effort) to sustain attention, overcome inertia, and transform habitual patterns of the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>TAAN, CHEN, CHI</target_entity>
+    <relationship_description>Sages are completely free from the three poisons—craving, aversion, and delusion—through their awakened understanding.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

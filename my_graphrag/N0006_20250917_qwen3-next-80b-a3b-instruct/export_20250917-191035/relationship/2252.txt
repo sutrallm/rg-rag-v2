@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONASTIC_VIRTUES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is one of the three essential monastic virtues (alongside morality and wisdom), forming the complete path to awakening.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

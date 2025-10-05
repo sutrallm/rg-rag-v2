@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NONATTACHMENT</target_entity>
+    <relationship_description>True chanding leads to nonattachment — one must not cling to meditative states or attainments to avoid becoming bound by them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

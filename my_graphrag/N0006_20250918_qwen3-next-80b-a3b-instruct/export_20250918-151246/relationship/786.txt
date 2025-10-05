@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INTERIOR LIBERATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Interior liberation is the direct outcome of wisdom, which reveals the futility of external pursuits and grounds freedom in inner insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saintly qualities are the observable manifestations of one who has attained liberation—free from rebirth, karma, and inner disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

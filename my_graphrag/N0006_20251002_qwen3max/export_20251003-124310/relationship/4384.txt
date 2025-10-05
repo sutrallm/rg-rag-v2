@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>六入</target_entity>
+    <relationship_description>智慧能观照六入的生灭无常，了知其非实有，不生贪爱或排斥。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

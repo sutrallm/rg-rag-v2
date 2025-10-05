@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慈悲与智慧如鸟之双翼，必须并行修习，缺一不可；智慧使慈悲不堕溺，慈悲使智慧不冷硬。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

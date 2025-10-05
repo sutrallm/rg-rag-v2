@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY</source_entity>
+    <target_entity>DEW</target_entity>
+    <relationship_description>BODY is symbolized by DEW as an example of impermanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

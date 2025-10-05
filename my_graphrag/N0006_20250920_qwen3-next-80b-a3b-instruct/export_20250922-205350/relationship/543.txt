@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>The five aggregates are analyzed to demonstrate that none constitute a permanent self, thus revealing non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

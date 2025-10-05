@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHOU</source_entity>
+    <target_entity>WUSU</target_entity>
+    <relationship_description>Chizhou (wisdom) fully comprehends Wusu (unsatisfactoriness) as an inherent condition of emotionally clinging to impermanent things.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

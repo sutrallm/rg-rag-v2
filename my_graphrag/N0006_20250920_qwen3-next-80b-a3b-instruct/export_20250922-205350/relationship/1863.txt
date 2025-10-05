@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF (WUWO)</source_entity>
+    <target_entity>FIVE AGGREGATES (WUYUN)</target_entity>
+    <relationship_description>No-self is the realization that arises when one correctly understands the five aggregates as merely transient, impersonal processes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

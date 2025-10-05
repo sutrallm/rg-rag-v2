@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI HYUNYUN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Saintly beings embody the perfect balance of compassion and wisdom, making them the ideal practitioners of this dual path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

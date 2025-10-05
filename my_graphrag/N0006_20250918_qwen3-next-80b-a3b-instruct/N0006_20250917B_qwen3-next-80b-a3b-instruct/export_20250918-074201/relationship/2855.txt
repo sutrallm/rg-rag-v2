@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHELI</target_entity>
+    <relationship_description>The saintly being practices complete renunciation (Sheli), not clinging to any experience, including spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT BEING</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Transcendent beings dwell in perpetual stillness, unmoved by external conditions or internal defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>SAṂSĀRA</target_entity>
+    <relationship_description>Exertion is the practiced defense against being overwhelmed by the forces of saṃsāra.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

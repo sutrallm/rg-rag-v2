@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAGES</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Sages possess transcendent wisdom, which enables them to see through illusion and remain unattached to phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

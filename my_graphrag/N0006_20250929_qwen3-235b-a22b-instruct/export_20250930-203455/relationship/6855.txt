@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需依循正法、持续精进不懈，方能掌握禅定要领，避开轮回束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

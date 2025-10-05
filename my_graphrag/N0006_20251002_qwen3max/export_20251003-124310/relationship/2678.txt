@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>瞋</target_entity>
+    <relationship_description>瞋是煩惱的一種，屬於內心擾動，阻礙修行者獲得平安與喜悅。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

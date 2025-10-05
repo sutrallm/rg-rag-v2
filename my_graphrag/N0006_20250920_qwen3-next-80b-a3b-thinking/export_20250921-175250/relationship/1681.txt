@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>The mind focuses through concentration, explicitly stated as '心念专注' in the source text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

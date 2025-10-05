@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE VIEW</source_entity>
+    <target_entity>PHENOMENA</target_entity>
+    <relationship_description>Impermanence view focuses on understanding the transient nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

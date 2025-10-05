@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NONSELF</target_entity>
+    <relationship_description>Impermanence and nonself are core insights that together dismantle the illusion of a fixed, independent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

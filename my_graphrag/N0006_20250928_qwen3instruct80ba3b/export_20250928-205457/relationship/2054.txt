@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The Buddha taught meditation (chanding) as the path to liberation, making him the source and exemplar of the practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

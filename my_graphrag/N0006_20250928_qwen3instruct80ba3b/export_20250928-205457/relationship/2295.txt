@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGGREGATES</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>The five aggregates are deconstructed through insight practice to reveal the absence of a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

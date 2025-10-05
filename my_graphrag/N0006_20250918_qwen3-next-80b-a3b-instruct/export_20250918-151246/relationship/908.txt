@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>烦恼是驱动生死轮回的根本动力，执取导致轮回不息。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

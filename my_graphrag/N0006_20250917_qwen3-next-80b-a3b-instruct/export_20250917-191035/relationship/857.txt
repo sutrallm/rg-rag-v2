@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行最終目的在於培養真實智慧，以斷煩惱得解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

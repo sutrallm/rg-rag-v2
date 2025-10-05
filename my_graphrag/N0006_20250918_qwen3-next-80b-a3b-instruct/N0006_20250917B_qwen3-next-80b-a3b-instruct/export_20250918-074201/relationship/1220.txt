@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOZHI</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Wozhi arises from misunderstanding Wuyun as a unified, permanent self; realizing Wuyun’s impermanent, conditioned nature dismantles Wozhi.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

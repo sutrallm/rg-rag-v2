@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CORRECT_INTENTION</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Correct intention supports and directs diligent practice towards liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

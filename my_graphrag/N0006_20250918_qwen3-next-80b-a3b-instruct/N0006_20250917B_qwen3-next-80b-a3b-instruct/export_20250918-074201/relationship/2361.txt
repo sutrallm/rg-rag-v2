@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天人</target_entity>
+    <relationship_description>天人虽然地位崇高，仍敬仰圣者，因圣者已超越生死与烦恼，德行更为圆满。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

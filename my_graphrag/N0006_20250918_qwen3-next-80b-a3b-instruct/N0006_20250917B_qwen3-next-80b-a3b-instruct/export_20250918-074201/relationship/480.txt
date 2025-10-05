@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Shengzhe possesses perfect chaoshi (wisdom), having fully realized the nature of reality and transcended all delusions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

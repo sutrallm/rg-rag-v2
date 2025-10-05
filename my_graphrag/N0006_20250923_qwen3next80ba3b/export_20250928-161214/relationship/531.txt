@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The Four Foundations of Mindfulness practice cultivates wisdom through continuous observation of body, feelings, mind, and phenomena to develop clear understanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定需以智慧为引导，才能超越境界执着，真正导向解脱；智慧帮助禅定不落入执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

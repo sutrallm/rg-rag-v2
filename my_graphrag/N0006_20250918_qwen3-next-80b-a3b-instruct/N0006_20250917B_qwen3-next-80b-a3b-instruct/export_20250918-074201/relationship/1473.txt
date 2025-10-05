@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>名闻利养</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>名闻利养是贪欲的外在表现形式，会使人堕入更深的贪欲循环，是修行的陷阱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

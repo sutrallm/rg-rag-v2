@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>當下</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定的日常實踐以覺察並回歸當下為核心，當下是禪定生起的基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

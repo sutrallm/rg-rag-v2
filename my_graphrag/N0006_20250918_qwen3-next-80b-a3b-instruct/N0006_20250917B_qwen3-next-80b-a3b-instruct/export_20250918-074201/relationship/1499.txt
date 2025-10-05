@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU CHANG</source_entity>
+    <target_entity>YUNGLI</target_entity>
+    <relationship_description>Yungli arises through direct observation of wu chang (impermanence), revealing the unstable, conditioned nature of all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

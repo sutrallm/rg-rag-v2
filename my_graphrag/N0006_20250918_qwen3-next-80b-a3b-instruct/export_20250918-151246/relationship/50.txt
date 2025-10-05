@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>安住当下</target_entity>
+    <relationship_description>圣者安住当下，不起妄念，这是其内心清净与觉知圆满的表现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

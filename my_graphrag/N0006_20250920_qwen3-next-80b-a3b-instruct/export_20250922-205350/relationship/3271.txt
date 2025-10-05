@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE-DING-HUI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin (diligence) underlies the entire Jie-Ding-Hui path — ethical conduct, meditation, and wisdom all require sustained effort to be effective.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

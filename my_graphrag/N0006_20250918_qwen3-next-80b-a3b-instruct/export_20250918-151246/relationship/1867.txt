@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实观照</source_entity>
+    <target_entity>呼吸</target_entity>
+    <relationship_description>呼吸是如实观照的常用入手处，作为觉知的锚点引导心识。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我正見是破除我執的根本，而我執是輪迴的根本；唯有徹底體認無我，才能實現真正的解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

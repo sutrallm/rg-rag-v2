@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>禅定帮助修行者远离贪欲，是克服贪欲的修行方法之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

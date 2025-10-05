@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正道</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>精進是實踐正道的具體行動，沒有精進則正道無法落實。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

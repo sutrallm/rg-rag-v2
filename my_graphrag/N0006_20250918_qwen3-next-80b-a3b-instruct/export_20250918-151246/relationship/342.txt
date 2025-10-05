@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT_WISDOM</source_entity>
+    <target_entity>ATTACHMENT_TO_MEDITATIVE_STATES</target_entity>
+    <relationship_description>Insight wisdom teaches practitioners to observe meditative joys without clinging, ensuring these states do not become obstacles to true liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

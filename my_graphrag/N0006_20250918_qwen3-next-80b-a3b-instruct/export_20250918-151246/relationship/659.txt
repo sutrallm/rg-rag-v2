@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG BU ZAI WAI QIU</source_entity>
+    <target_entity>WUZHU ZHI XIN</target_entity>
+    <relationship_description>Non-reliance on external methods culminates in the ultimate state of non-abiding mind, where liberation is found only in inner transformation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

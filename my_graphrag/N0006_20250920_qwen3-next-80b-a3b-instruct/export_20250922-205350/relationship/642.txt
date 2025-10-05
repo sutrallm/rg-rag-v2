@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EGO-CLINGING</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Ego-clinging is the primary root cause that keeps beings trapped in the cycle of rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

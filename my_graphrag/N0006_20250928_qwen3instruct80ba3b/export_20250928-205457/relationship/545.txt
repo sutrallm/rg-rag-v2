@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>五蘊為身心聚合現象，實無恆常自性，觀照五蘊無我，即是斷除我見的核心修行。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

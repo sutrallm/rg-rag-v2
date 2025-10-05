@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>天界众生</target_entity>
+    <relationship_description>天界众生因见圣者德行而心生敬仰，说明圣者的成就超越三界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

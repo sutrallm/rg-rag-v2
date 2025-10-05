@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPRITUAL_PRACTICE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Spiritual practice is the method designed to break free from the cycle of samsara by uprooting its causes: craving and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

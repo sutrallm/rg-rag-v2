@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The query contains a request for translation but lacks the necessary content to perform the process.</relationship_description>
+    <relationship_strength>3</relationship_strength>
+</relationship>

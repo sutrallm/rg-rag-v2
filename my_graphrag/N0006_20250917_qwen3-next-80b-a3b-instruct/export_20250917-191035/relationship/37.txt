@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EGO</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>The ego is the manifestation of ignorance — the belief in a separate, permanent self is the core delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

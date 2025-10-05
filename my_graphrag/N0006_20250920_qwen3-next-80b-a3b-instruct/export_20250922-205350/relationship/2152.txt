@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FA</source_entity>
+    <target_entity>ZHIZHI</target_entity>
+    <relationship_description>Fa is the source and content of Zhizhi; wisdom arises from understanding and realizing the Dharma.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

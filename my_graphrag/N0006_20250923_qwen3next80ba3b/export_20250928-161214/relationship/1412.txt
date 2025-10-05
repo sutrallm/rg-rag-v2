@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUES</source_entity>
+    <target_entity>DHARMA_DOCTRINE</target_entity>
+    <relationship_description>DIALOGUES should be transformed into clear DHARMA_DOCTRINE explanations.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

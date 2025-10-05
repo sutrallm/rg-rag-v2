@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SECLUSION</target_entity>
+    <relationship_description>Chanding leads to mental seclusion — the withdrawal from sensory and emotional disturbances — as the meditator no longer reacts to external or internal stimuli.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

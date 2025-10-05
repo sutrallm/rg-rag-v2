@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sustained exertion is necessary to achieve liberation, as without persistent effort one falls back into ignorance and craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

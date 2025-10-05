@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEXIE</source_entity>
+    <target_entity>JIJIE</target_entity>
+    <relationship_description>Jiexie can only be achieved when Jijie (non-attachment) is fully realized — even the desire for liberation must be let go.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

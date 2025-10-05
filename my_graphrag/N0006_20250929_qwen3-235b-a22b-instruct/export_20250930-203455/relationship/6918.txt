@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>三学中的“戒”指防非止恶，是修行断除烦恼的第一步。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

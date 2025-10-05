@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NUMBERED_TITLES</source_entity>
+    <target_entity>PARAGRAPH_TOPICS</target_entity>
+    <relationship_description>NUMBERED_TITLES are used to structure and clarify PARAGRAPH_TOPICS.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

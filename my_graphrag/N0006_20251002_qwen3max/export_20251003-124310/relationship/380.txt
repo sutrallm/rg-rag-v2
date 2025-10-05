@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定慧雙運</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>定慧雙運體現於八正道中正定（定）與正見等（慧）的結合，是八正道實踐的核心方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

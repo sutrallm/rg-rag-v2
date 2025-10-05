@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Greed is extinguished through non-attachment, which is cultivated by observing the transient nature of phenomena without craving or aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Realizing impermanence is a core element of insight wisdom that leads to non-attachment and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

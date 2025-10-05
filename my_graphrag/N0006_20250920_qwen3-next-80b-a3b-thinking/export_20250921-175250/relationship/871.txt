@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>ASSISTANT</target_entity>
+    <relationship_description>The user submitted a query to the assistant for translation and restructuring, but no original text was provided.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

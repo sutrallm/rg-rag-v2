@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>YUANCHUANG</target_entity>
+    <relationship_description>Zhinen enables the recognition and cessation of yuanchuang by revealing that all objects of attachment are impermanent and empty.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

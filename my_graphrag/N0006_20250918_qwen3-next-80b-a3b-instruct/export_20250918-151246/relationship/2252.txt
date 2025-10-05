@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Through the sequence of practice, ethical conduct supports meditation, which then leads to wisdom — all three are interdependent stages.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

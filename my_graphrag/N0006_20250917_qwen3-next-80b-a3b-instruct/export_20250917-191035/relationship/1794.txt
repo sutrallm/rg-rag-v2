@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUOZHUO</source_entity>
+    <target_entity>BUZHI XIUZHENG</target_entity>
+    <relationship_description>Transcending attachment directly leads to non-attachment to spiritual progress — they are two expressions of the same insight: letting go of all clinging, even to enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>圣者已断尽烦恼执着，成就心解脱，能如实洞察诸法实相，不被境界所困。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

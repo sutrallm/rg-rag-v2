@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行即日常中的觉照</source_entity>
+    <target_entity>解脱的路径</target_entity>
+    <relationship_description>日常觉照是实践解脱路径的具体方式，使修行融入生活，非仅限于座上。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

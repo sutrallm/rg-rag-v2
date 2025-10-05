@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHU ZHIG</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Transcending attachment is the essential process that leads to nirvana—the cessation of craving and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自主选择</source_entity>
+    <target_entity>心的自主</target_entity>
+    <relationship_description>自主选择善法、远离恶法是心的自主的具体表现，是解脱的初步显现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

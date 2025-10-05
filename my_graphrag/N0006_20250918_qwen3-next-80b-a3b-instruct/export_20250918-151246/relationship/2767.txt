@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jinjin is the sustained effort required to develop and maintain deep meditative concentration, preventing its loss to laziness or distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

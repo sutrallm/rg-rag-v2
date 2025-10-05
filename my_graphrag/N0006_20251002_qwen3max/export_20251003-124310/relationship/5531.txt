@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>四圣谛中的“灭谛”即指涅槃，是苦的止息，为修行的终极目标。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

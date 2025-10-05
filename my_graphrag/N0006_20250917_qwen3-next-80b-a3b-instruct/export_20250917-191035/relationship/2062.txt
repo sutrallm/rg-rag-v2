@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUYAN_RICHANG_SHIJIAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Immediate mindfulness in daily experience reveals the impermanent nature of every moment and sensation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

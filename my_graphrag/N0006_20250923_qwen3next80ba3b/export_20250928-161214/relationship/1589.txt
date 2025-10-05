@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISTURBANCE</target_entity>
+    <relationship_description>MEDITATION enables the practitioner to distance from DISTURBANCE and maintain peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

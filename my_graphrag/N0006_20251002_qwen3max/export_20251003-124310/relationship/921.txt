@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>哲学思辨</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>佛陀教法目的不在哲学思辨，而是为如实修行以断除无明、证得涅槃。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

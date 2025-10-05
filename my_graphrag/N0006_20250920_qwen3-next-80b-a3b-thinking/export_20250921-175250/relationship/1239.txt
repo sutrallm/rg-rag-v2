@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHI JIE</source_entity>
+    <target_entity>SAN YE</target_entity>
+    <relationship_description>Adhering to precepts (Chi Jie) purifies the three karmas (San Ye) of body, speech, and mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

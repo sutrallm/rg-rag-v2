@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>不放逸是禅修的基础，能守护心念，防止烦恼侵入，从而稳固禅定的力量。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

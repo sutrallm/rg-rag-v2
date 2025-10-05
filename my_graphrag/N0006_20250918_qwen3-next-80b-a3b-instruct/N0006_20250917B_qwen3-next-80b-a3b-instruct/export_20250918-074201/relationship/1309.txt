@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI YU CIBEI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>A Shengzhe embodies Zhihui yu cibei, demonstrating both profound wisdom and boundless compassion as inseparable qualities of enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

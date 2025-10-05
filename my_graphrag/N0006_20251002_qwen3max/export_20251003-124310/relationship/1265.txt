@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行次第中，禅定（定）是继戒之后的第二阶段，通过修习止观培育定力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

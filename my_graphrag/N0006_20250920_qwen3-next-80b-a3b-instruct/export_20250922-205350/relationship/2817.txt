@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary to develop the insight that leads to transcending attachment to spiritual experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

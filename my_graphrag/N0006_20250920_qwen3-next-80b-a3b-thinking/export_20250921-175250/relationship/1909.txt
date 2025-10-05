@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>ABSOLUTE BLISS</target_entity>
+    <relationship_description>Nirvana is the embodiment of absolute bliss beyond all suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

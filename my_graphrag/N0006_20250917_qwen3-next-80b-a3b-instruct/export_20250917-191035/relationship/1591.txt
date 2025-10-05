@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Insight into non-self (wuwo) supports the practice of mindful awareness (zhengnian), as observing the transient nature of thoughts and feelings reduces identification with them and fosters equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>對治</source_entity>
+    <target_entity>瞋</target_entity>
+    <relationship_description>瞋恚現前時，應修慈悲，此為對治瞋的具體方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

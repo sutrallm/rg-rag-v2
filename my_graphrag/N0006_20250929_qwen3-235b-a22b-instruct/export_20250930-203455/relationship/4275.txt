@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>刀锋舔蜜</source_entity>
+    <target_entity>欲界</target_entity>
+    <relationship_description>刀锋舔蜜比喻欲界之乐，短暂而危险，易导致痛苦。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

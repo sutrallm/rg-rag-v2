@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>戒行</target_entity>
+    <relationship_description>三学包含戒行作为其第一根本组成部分，戒是三学之基。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>缘起性空</target_entity>
+    <relationship_description>正见包含对缘起性空的正确理解，是洞察诸法实相的关键教义。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

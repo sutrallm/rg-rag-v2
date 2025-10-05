@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAY-TO-DAY PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Consistent day-to-day practice accumulates mindfulness and wisdom over time, creating the conditions for eventual liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

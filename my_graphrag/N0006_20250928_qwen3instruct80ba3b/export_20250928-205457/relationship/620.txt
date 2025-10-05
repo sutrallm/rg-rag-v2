@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-attachment, especially toward even spiritual attainments, is the path to realizing nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

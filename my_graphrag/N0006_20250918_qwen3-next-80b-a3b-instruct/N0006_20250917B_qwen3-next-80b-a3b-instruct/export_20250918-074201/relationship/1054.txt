@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Clear ethical conduct through keeping precepts supports mental purification, which enhances the ability to achieve chanding.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

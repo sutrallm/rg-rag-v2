@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>心解脱建立在对“无我”的彻见基础上，解脱者因了知诸法无我而不执取任何境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

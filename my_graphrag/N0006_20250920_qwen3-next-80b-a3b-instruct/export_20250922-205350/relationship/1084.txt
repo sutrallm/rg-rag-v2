@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Wisdom is the cognitive faculty that enables the realization of transcendence of attachment by seeing reality as impermanent and selfless.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

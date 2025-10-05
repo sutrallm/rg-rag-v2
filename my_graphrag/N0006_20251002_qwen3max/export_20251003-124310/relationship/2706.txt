@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过修行最终达成心解脱，获得不被世间法动摇的内在自由与寂静。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

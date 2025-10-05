@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Sustained exertion is described as the starting point of liberation, making it a necessary condition for breaking free from samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

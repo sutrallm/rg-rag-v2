@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETACHMENT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Detachment arises from wisdom, as insight into emptiness and impermanence naturally dissolves clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

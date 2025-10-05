@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>DELUSION_PURE</target_entity>
+    <relationship_description>Anger arises from delusion — the misperception of threats and fixed identities in a world of impermanence and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without continuous effort, chanding cannot be maintained or deepened; effort is necessary to cultivate and sustain meditative focus.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Chanding provides the mental stability required for zhihui (wisdom) to arise; wisdom depends on a calm and focused mind to observe the true nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

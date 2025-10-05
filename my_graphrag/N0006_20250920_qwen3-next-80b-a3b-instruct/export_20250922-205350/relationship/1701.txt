@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>LIUSAN</target_entity>
+    <relationship_description>A Shengzhe has eradicated the three poisons completely, which is the defining mark of their spiritual attainment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

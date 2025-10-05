@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进不放逸</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>精进不放逸是持守戒律的必要态度，懈怠会导致戒行松弛。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

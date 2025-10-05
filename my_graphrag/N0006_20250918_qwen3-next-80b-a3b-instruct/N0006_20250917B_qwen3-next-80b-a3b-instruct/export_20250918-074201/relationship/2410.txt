@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is cultivated through continuous attention to the present moment, making it the practical foundation of meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>禅定是生起超越执着智慧的基础，唯有在定中才能如实观照诸法无常无我。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

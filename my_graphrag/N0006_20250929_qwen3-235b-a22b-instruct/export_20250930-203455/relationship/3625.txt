@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>离欲</target_entity>
+    <relationship_description>正念帮助修行者不随外境流转，从而自然远离感官欲望与攀缘，导向离欲境界。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

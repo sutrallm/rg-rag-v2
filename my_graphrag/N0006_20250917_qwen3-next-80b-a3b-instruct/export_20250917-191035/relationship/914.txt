@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A sage (shengzhe) is defined by mastery of chanding, abiding in calm and clarity as a core trait.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

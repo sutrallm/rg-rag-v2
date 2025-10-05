@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>不放逸能帮助修行者避免落入生死轮回的陷阱，通过时刻警觉与精进不懈达成此防护作用。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

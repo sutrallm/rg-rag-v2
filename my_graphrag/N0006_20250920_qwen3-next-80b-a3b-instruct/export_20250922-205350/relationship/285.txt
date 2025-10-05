@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>真实修行不以禅定久暂为标准，但禅定是其组成部分，是趋近解脱的工具之一。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

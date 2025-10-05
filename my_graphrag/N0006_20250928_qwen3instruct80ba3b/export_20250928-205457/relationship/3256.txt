@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世間與出世</source_entity>
+    <target_entity>修行態度</target_entity>
+    <relationship_description>世間與出世的統一理念，是修行態度在日常生活中具體展現的方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

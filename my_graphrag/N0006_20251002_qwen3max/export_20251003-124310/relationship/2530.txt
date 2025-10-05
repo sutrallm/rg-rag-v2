@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>解脱者是已实现心解脱的个体，其心不随境转，体现了解脱的最终成果。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

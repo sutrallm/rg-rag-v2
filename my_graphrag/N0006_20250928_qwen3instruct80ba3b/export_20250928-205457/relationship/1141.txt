@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>真正的慈悲源自对实相的洞察，无智慧的慈悲只是情感投射，不具解脱力量。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

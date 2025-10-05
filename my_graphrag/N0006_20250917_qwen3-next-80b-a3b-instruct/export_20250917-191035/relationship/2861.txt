@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>DAILY PRACTICE</target_entity>
+    <relationship_description>Daily practice becomes authentic when it is free from the egoic notion of “I am修行” — practicing without identifying with a self leads to true transformation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

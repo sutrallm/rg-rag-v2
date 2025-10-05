@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>常见</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>正见能引导修行者避免落入常见这一极端见解。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

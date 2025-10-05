@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTAINMENT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Non-attainment is the highest expression of wisdom — the realization that there is no practitioner, method, or goal to grasp.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

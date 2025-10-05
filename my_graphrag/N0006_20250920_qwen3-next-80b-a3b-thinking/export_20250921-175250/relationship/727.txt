@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>Adherence to precepts fosters the mental stillness necessary for deep contemplation and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

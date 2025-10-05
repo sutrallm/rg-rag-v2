@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>飞蛾</source_entity>
+    <target_entity>火焰</target_entity>
+    <relationship_description>Moths flying toward flames represent self-destructive attraction to desires.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MANI JEWEL</source_entity>
+    <target_entity>DARKNESS</target_entity>
+    <relationship_description>The Mani jewel radiates light to dispel darkness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

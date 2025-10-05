@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HARMONIZATION</source_entity>
+    <target_entity>PURE LIBERATION</target_entity>
+    <relationship_description>HARMONIZATION of the three studies is necessary to achieve PURE LIBERATION through balanced practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

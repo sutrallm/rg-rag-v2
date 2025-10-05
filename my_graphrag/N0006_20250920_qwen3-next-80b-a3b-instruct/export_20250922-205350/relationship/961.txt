@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>世间</target_entity>
+    <relationship_description>修行者生活在世间中，通过修行逐渐脱离对世间的执著，走向与圣者相同的超然状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

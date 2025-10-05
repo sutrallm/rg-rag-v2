@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ILLUSORY NATURE</target_entity>
+    <relationship_description>Wisdom reveals the illusory nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

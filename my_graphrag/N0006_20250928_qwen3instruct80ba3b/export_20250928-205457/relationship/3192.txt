@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIECHU</source_entity>
+    <target_entity>FO</target_entity>
+    <relationship_description>FO guides beings toward Jiechu but does not grant it—liberation must be self-realized, not granted by the Buddha.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

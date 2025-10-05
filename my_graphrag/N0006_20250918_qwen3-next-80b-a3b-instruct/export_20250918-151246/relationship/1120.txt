@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>无明导致放逸，因为对实相无知，修行者便容易懈怠、迷失，故二者构成因果关系。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

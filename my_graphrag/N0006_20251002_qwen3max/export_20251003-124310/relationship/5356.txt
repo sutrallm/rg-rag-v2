@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轻安</source_entity>
+    <target_entity>欲界</target_entity>
+    <relationship_description>轻安是修行者安住于超越欲界的寂静境界时所体验的状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

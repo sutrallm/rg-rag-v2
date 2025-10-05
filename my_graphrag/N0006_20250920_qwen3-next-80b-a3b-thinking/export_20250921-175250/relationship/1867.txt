@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>SERENITY</target_entity>
+    <relationship_description>Meditation practice cultivates mental calmness and tranquility, leading to lasting serenity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIGUO</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>Wuzhiguo—the non-clinging mindset—is the direct cause and manifestation of true liberation, as letting go of "I" and "mine" is the essence of freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

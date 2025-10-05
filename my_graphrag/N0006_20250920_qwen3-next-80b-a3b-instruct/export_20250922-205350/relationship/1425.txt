@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无我的洞察是实现解脱的根本前提，当“我”的幻觉瓦解，执著消融，解脱自然呈现。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

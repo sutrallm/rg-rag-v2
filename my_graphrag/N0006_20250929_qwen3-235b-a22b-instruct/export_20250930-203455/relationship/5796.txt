@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>次第</source_entity>
+    <target_entity>微细相</target_entity>
+    <relationship_description>次第包括从觉知粗相过渡到微细相，是禅修深入的重要标志。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

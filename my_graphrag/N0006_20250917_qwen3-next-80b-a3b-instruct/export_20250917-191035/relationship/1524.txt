@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>ZHI HUI</target_entity>
+    <relationship_description>Buddha emphasized that wisdom is the defining quality of liberation, revealed through insight into truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

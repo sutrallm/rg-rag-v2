@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>修行者透過禪定訓練心念，使其不散亂，是修行的基本實踐。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The Five Aggregates (Wu Yun) are the objects of observation in non-self (Wuwo) meditation, whose impermanent and impersonal nature is analyzed to dissolve ego-clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

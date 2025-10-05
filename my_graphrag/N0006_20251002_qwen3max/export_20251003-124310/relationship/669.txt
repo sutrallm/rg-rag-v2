@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>内心寂静</target_entity>
+    <relationship_description>戒定慧三学的圆满修习使修行者持续调伏内心、安住于寂静，内心寂静为其修行成果之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

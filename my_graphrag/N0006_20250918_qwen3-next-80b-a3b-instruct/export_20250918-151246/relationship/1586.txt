@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Non-attachment is rooted in non-self insight—realizing nothing belongs to a permanent self reduces craving and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

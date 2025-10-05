@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平衡之道</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>平衡之道指导修行者在精进与懈怠间保持适度，如调弦般松紧得当，以稳定迈向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

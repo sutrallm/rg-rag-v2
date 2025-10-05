@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEDICATION_TO_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Only through continuous, diligent effort can one attain and deepen chanding, making dedication essential for its development.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

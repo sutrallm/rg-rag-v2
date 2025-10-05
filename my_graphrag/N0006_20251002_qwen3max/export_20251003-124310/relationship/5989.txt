@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>专注</target_entity>
+    <relationship_description>专注是禅定的核心组成部分，禅定以专注与正念为基础，使心远离散乱与干扰。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

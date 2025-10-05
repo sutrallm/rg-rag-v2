@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Buddha’s teachings are the source and authority for the practice of chanding, making his guidance foundational to its method.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

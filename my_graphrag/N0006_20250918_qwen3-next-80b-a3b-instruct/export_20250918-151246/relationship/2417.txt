@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE_RECOGNITION</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Wise recognition is the cognitive process through which one perceives and realizes the emptiness of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

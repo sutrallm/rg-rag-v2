@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Suffering originates from clinging to a false sense of self. When No-Self is realized, the root cause of suffering is uprooted, and suffering ceases.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

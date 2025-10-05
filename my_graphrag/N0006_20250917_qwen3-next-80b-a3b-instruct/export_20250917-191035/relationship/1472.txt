@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进 (DEDICATION)</source_entity>
+    <target_entity>贪欲 (GREED)</target_entity>
+    <relationship_description>Through diligent practice, greed is gradually weakened as the mind becomes less reactive to pleasurable sensations and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

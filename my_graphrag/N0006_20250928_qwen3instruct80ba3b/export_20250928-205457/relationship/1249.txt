@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the state or condition of liberation — the ultimate realization of freedom from all suffering and conditioned existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒行幫助淨化行為與心念，為智慧的生起創造條件，二者缺一不可。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

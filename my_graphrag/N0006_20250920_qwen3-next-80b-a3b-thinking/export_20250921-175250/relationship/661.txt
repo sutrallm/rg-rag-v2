@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>名相</source_entity>
+    <target_entity>执著</target_entity>
+    <relationship_description>世人常对名相产生执着，而名相本身并无实性。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

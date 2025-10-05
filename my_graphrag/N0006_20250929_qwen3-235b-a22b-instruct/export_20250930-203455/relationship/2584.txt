@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念与觉知</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>正念与觉知是修行者在日常行住坐卧中必须保持的实践，用以观照当下、不被妄念牵引。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

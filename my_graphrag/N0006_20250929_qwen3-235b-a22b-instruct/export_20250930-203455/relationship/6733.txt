@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>次第</target_entity>
+    <relationship_description>解脱遵循持戒、修定、修慧的次第，逐步断除烦恼，是有序修行后自然显现的成就。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

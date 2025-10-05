@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG NIAN</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Mindfulness (Zheng Nian) is the continuous practice that sustains and manifests Chan Ding in daily life, making meditation a constant presence, not just seated practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

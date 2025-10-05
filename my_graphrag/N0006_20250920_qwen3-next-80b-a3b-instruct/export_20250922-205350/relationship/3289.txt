@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>YUANQI</target_entity>
+    <relationship_description>Zhengnian is the practical means to observe Yuanqi — mindfulness reveals how all experiences arise and pass due to interdependent causes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

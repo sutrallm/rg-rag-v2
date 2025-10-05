@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HRUHUÀN</source_entity>
+    <target_entity>ZHONGDAO</target_entity>
+    <relationship_description>Understanding that all phenomena are hruhuàn (illusory) leads naturally to the zhongdao (middle way), preventing attachment to or aversion from worldly conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

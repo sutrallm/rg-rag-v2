@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>四聖諦</target_entity>
+    <relationship_description>中道實踐（包含正念、正定、正見）是照見四聖諦、證得涅槃的正確途徑。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

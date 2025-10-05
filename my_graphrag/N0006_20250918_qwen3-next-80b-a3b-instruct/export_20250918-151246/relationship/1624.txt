@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪、嗔、痴</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>Shengzhe are defined by the complete eradication of the three root poisons; their absence marks the difference between ordinary beings and the enlightened.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

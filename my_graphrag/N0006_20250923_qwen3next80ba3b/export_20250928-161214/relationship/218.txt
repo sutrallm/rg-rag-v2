@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED PHENOMENA</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>CONDITIONED PHENOMENA are inherently subject to SUFFERING because of their impermanent nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

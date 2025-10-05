@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>菩提心</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>菩提心以慈悲为基础，愿利益一切众生，是慈悲的升华与扩展。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

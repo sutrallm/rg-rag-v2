@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五欲</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定的作用之一是息灭五欲的牵扯，使人不为感官欲望所动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

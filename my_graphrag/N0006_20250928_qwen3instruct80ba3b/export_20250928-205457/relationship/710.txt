@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SERENITY</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Serenity, defined as inner stillness without disturbance, is described as the immediate presence of nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

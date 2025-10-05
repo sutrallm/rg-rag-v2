@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>EXTERNAL DISTRACTIONS</target_entity>
+    <relationship_description>Meditation helps to overcome external distractions as stated in the text: "心念专注且保持正念时，能远离外境纷扰".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

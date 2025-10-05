@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律 (ETHICAL CONDUCT)</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Every ethical conduct provides the stability and purity necessary for deep meditative concentration to arise and remain unimpeded.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>精进修行是获得禅定的前提，无勤则无定，二者构成修行次第中的因果关系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

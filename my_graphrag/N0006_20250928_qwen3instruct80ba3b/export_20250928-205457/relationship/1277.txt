@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Continuous mindfulness allows the practitioner to directly perceive the impermanent nature of thoughts and sensations in real time.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHI</source_entity>
+    <target_entity>SHENGREN</target_entity>
+    <relationship_description>Shengren (saintly beings) are those who fully embody Shengzhi, having realized the true nature of phenomena and transcended all defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

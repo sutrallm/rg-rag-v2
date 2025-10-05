@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ELIMINATION OF AFFLICTIONS</source_entity>
+    <target_entity>SORROW SOURCES</target_entity>
+    <relationship_description>Eliminating mental afflictions removes the sources of sorrow and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

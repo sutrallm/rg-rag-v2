@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>The sage is one who has realized liberation — their very existence is the manifestation of Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

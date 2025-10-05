@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIE</source_entity>
+    <target_entity>CHAOGUO ZHIZHUO</target_entity>
+    <relationship_description>Meditative states are tempting objects of attachment; thus, transcending attachment is necessary to avoid being trapped by them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

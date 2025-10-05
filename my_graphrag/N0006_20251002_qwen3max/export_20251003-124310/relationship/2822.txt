@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>離繫</target_entity>
+    <relationship_description>離繫是真正修行的關鍵特質，修行的目標在於達到心的完全自由，脫離煩惱與執取的束縛。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

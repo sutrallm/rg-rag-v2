@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A saintly being has mastered chanding, which allows them to dwell in inner peace and be unaffected by worldly disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Chanding requires and is sustained by steadiness of mindfulness; mindfulness is the essential tool that allows the mind to remain focused and undisturbed during meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

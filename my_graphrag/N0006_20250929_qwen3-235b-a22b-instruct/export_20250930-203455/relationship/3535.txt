@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>无明是烦恼的根本原因，与执着共同导致痛苦，需通过观照五蕴生灭加以断除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Saints manifest continuous right mindfulness, as it is central to their unmoved, pure state of being.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

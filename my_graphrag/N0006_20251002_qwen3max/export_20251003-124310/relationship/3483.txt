@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸行无常</source_entity>
+    <target_entity>有为法</target_entity>
+    <relationship_description>一切有为法皆刹那生灭，体现诸行无常的本质。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

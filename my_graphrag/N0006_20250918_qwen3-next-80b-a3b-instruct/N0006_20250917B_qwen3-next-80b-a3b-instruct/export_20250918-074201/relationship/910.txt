@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True liberation is achieved through the direct realization of wisdom — seeing impermanence, non-self, and suffering as they are.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

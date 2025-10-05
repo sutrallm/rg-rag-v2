@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慈悲与智慧必须双运，智慧防止慈悲陷溺情感，慈悲防止智慧流于冷漠，二者圆融是究竟之道。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

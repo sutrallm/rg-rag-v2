@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪爱</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已断尽贪爱，因此成为解脱的典范，贪爱是圣者与凡夫的根本区别之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

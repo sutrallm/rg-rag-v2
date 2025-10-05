@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>FOUR ELEMENTS</target_entity>
+    <relationship_description>The four elements are transient and ultimately dissolve into emptiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

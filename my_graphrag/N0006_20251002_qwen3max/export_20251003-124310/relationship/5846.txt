@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>亲证</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>慧来源于亲证而非言说，唯有通过禅修亲证无我，才能生起真实智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

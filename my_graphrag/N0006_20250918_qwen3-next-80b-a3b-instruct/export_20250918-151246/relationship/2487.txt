@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Chanding provides the calm foundation upon which Zhineneg (wisdom) arises; meditation without insight leads to stagnation, wisdom without concentration is fragmented.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

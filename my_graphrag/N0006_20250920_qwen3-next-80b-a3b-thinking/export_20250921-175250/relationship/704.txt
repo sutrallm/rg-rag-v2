@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUE</source_entity>
+    <target_entity>BUDDHA</target_entity>
+    <relationship_description>Buddha is a participant in the dialogue as the teacher.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

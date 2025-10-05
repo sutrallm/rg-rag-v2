@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EIGHTFOLD PATH</source_entity>
+    <target_entity>RIGHT THOUGHT</target_entity>
+    <relationship_description>Right Thought is an essential component of the Eightfold Path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

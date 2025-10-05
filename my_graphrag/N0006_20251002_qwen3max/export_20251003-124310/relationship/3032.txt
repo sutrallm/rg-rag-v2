@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>心解脱使修行者能如实了知一切现象皆是无常、苦、无我，苦的如实知见有助于深化心解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

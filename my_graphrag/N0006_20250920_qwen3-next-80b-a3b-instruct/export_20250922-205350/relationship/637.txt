@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>STAGE OF ATTAINMENT</target_entity>
+    <relationship_description>Non-attachment specifically includes not clinging to meditative stages or experiences such as calmness or psychic powers.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

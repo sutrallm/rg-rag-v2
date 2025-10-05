@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>SAINTS exemplify profound WISDOM through their enlightened conduct and deep understanding of reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

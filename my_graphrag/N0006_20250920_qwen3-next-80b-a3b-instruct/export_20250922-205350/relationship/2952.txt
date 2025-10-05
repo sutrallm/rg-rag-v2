@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>彻悟无我可从根本上打破我执，而我执是执着的核心形式，二者为破除与被破除的关系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

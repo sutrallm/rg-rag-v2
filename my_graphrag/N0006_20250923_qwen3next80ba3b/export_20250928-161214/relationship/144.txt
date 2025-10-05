@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛</source_entity>
+    <target_entity>比丘</target_entity>
+    <relationship_description>佛直接向比丘传授佛法，形成宗教传承的核心关系</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

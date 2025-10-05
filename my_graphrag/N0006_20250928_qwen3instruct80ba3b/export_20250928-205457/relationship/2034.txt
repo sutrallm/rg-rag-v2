@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_DISCIPLE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The noble disciple practices chanding as a means to cultivate wisdom and uproot defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>平等心</target_entity>
+    <relationship_description>修行者需在顺逆境中保持平等心，不骄不躁、不忧不惧，以保障持续进步。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

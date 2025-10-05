@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL_PRACTICE</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Only through unwavering effort does one cultivate the discernment necessary to develop true non-attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

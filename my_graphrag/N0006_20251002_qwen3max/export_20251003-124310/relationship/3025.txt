@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>觉照</target_entity>
+    <relationship_description>修行者需以觉照为引导，在行住坐卧中如实观照身心变化。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

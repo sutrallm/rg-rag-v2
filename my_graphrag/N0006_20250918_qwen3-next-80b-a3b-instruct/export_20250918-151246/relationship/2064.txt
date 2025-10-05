@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Attachment is the primary obstacle to liberation; letting go of it is the key step toward achieving freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

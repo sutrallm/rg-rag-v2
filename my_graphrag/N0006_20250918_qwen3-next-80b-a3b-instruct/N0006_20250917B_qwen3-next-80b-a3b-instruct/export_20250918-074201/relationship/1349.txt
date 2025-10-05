@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Heavenly beings hold saintly beings in reverence due to their purity and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

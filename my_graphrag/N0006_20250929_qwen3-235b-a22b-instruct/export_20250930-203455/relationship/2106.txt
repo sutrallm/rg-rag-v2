@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>戒</target_entity>
+    <relationship_description>持戒清净能对治烦恼，作为三学之首，帮助修行者远离烦恼、安住寂静。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

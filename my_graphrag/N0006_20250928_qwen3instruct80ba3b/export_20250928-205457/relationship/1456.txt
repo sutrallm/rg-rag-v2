@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定使心穩定，智慧使心清明，二者如鳥之雙翼，互為依賴，缺一不可。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

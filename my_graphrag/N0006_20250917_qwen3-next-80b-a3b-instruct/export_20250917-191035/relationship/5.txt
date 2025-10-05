@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>CHAOSHIZHIXI</target_entity>
+    <relationship_description>Wuwo (non-self) is the core insight cultivated by chaoszhixi; seeing non-self leads directly to the transcendence of all clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

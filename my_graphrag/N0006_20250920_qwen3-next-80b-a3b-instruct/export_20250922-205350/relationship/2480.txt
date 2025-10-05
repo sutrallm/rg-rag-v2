@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧之见</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>智慧之见虽属正确知见，但若执为实有，仍属束缚；涅槃则超越一切见地，不依任何法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

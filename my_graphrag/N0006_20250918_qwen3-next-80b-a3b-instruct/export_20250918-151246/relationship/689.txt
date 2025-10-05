@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_OBSERVATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Inner observation is presented as the sole path to breaking illusions and attaining supreme liberation, making it the central practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

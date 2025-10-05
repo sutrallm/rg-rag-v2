@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHI</source_entity>
+    <target_entity>SIHAI</target_entity>
+    <relationship_description>Delusion — misperceiving reality as permanent and self-existent — is the fundamental ignorance that binds beings to samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Karma is the causal mechanism that determines rebirth; only through spiritual practice can karma be exhausted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SI NIAN CHU</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Practice of the Four Foundations directly develops insight wisdom into the true nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

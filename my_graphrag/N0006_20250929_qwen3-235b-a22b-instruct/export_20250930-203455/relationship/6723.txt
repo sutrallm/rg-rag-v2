@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉察</source_entity>
+    <target_entity>如理作意</target_entity>
+    <relationship_description>觉察与如理作意相辅相成，觉察心念生灭后，以如理作意引导心念，使烦恼得调伏。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

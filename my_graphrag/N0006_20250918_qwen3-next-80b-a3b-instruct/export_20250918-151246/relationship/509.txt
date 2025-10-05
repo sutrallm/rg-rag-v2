@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>痛苦</target_entity>
+    <relationship_description>执着是痛苦的直接源头，经文明确指出“痛苦源于执着”。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIJIN</target_entity>
+    <relationship_description>Chanding requires Jijin for sustained practice; without diligent effort, concentration cannot be maintained or deepened.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

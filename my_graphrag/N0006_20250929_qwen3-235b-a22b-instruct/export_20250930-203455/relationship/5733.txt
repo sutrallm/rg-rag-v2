@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>陷阱</target_entity>
+    <relationship_description>修行者视感官如陷阱，需以智慧观照，不执取、不排斥，方能从中解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUI</source_entity>
+    <target_entity>WEEN</target_entity>
+    <relationship_description>Jietui is attained only through the complete transcendence of Ween (greed, hatred, delusion); these are the obstacles to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

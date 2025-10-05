@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BAN RUO ZHI HUI</source_entity>
+    <target_entity>WU SUO_DE</target_entity>
+    <relationship_description>Perfected wisdom (Ban Ruo Zhi Hui) is characterized by a mind of non-acquisition (Wu Suo De).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

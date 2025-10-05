@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts prepare the mind for wisdom by reducing unwholesome actions that reinforce ignorance; moral clarity allows insight to arise more clearly.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

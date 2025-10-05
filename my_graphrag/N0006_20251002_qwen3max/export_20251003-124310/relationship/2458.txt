@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>戒定慧三學</target_entity>
+    <relationship_description>聖者具足清淨戒行、深定與無漏智慧，即圓滿實踐戒定慧三學。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>觉知通过如实观照身心现象的无常本质，从而自然放下执着，是通向智慧的重要途径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

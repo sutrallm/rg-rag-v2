@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHORS</source_entity>
+    <target_entity>DOCTRINAL TEACHINGS</target_entity>
+    <relationship_description>Metaphors are converted into direct doctrinal teachings during transformation</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

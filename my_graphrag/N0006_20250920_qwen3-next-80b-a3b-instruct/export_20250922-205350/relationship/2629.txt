@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWU GUAN</source_entity>
+    <target_entity>WUYIN</target_entity>
+    <relationship_description>The insight of non-self is realized through observing the five aggregates as empty and conditioned phenomena, not a fixed self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

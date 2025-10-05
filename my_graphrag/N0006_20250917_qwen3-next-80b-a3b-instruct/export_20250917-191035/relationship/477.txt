@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>MORAL_DISCIPLINE</target_entity>
+    <relationship_description>Saintly qualities require purification of conduct through moral discipline as a prerequisite for inner stillness and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

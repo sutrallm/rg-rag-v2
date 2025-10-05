@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定中若对境界产生执着，反而成为修行障碍，因此禅定要求舍离执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

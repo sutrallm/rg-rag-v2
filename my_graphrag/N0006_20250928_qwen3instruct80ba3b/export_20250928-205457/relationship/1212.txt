@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Clinging is the manifestation of defilements — greed, hatred, and delusion — and perpetuates suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

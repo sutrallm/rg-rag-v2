@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>根門</target_entity>
+    <relationship_description>正念體現在守護根門，即在六根接觸外境時保持覺知，防止煩惱生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

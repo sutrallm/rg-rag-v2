@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SLIPPERY_PATH</source_entity>
+    <target_entity>REALITY_OF_NO-BIRTH_NO-DEATH</target_entity>
+    <relationship_description>The path of non-attachment and internal letting go is the only way to realize the ultimate truth of no-birth-no-death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

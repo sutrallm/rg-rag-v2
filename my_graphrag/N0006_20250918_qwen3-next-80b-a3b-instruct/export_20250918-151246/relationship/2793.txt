@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>A Shengzhe sees Wu Chang directly — the noble one’s wisdom includes unshakable realization of impermanence in all things.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

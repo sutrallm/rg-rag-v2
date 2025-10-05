@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MOSQUITOES</source_entity>
+    <target_entity>BEAST</target_entity>
+    <relationship_description>Mosquitoes disturb the beast, symbolizing distractions in solitude.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

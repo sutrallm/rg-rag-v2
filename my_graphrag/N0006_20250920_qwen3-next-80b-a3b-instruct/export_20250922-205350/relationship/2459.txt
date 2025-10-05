@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFAULT_STATE_OF_MIND</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is not about creating a new state, but uncovering the naturally清净 (pure) mind; it is the process of removing obstacles to reveal the default state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

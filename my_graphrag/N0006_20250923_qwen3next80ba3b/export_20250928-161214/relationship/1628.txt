@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZEN MEDITATION</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Regular practice of Zen Meditation leads to the attainment of INNER PEACE by calming the mind and removing distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

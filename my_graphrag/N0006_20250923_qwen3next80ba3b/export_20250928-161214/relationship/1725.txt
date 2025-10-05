@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE_OBSERVATION</source_entity>
+    <target_entity>FREEDOM</target_entity>
+    <relationship_description>Impermanence observation results in true freedom by dispelling attachment and attachment to permanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

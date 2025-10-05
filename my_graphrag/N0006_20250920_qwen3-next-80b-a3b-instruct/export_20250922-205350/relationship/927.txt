@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU XING</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>The five aggregates (wu xing) are the objects of observation in non-self contemplation (wuwo guan), as they constitute all components of personal experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

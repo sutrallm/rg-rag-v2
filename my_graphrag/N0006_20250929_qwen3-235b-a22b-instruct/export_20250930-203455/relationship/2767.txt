@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修持</source_entity>
+    <target_entity>行住坐卧</target_entity>
+    <relationship_description>日常修持贯穿于行住坐卧之中，是修行融入生活的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

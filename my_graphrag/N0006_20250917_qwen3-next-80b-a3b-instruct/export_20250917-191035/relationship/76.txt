@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JOY</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Joy, although positive, can become an object of attachment if misunderstood as the goal rather than a byproduct of practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

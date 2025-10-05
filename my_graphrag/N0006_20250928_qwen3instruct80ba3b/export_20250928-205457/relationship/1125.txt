@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIJIE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chijie (moral discipline) is the essential foundation that prevents mental disturbances, enabling the mind to stabilize into chanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

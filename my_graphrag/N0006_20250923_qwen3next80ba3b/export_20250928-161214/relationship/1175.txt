@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>DEMONS</target_entity>
+    <relationship_description>Realizing no-self prevents demons from disturbing the mind and causing distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONSCIOUSNESS</source_entity>
+    <target_entity>DEEP PONDS</target_entity>
+    <relationship_description>Deep ponds metaphorically symbolize a calm and clear state of consciousness</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

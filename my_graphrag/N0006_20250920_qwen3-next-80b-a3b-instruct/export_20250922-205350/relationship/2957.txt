@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念是智慧生起的因缘，唯有持续正念，方能观察诸法实相，生起真慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

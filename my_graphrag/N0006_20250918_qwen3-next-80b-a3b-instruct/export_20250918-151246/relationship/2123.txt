@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我与无住</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>无我与无住是超越执着智慧的具体体现，二者是同一真理的不同面向：智慧为认知，无住为实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

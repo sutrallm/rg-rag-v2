@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>缘起是正见的重要组成部分，正确的见解必须包含对缘起法则的理解。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

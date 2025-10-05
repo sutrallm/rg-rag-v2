@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHANG</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Wuzhang (insight into non-attachment and impermanence) is the direct path to achieving Jiede (liberation).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

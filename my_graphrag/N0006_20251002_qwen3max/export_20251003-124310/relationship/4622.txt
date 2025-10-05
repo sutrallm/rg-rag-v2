@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>对禅定成果的执着会阻碍真正解脱，因此修行者即便体验殊胜境界也不应贪爱。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

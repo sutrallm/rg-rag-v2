@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>断尽无明是解脱的必经之路，唯有智慧断除无明，才得究竟自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

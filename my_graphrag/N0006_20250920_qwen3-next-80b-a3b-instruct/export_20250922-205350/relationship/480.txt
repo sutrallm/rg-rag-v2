@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGGHE</target_entity>
+    <relationship_description>Shenghe is the result of sustained Jingjin: only through constant, mindful effort does one become a fully purified awakened being.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

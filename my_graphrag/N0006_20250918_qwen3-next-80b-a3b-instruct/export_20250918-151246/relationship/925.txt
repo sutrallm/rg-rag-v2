@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>觉悟是实现解脱的直接路径，两者为因果关系，觉悟即解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

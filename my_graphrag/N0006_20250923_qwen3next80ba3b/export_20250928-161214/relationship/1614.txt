@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ENDING AFFLICTIONS</target_entity>
+    <relationship_description>WISDOM is essential for the process of ENDING AFFLICTIONS by discerning the true nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

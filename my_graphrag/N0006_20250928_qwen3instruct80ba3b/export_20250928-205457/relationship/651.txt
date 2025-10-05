@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>五蕴是观照无我的直接对象，通过观察其生灭与无主宰性，破除“我”的错觉。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

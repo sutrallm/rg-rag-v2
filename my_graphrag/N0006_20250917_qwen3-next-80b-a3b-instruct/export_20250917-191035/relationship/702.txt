@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>修行者觀照苦的本質，正是為了超越苦、達成解脫，二者是修行對象與目標的關係。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF OBSERVATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-self observation is the essential insight that unlocks liberation, as realizing there is no "self" to cling to or defend frees the mind from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

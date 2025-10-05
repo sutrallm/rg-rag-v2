@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>解脱是智慧的终极成果，烦恼断尽、心不执著，是智慧彻底照见实相的结果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

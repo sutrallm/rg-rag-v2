@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>禅定若无智慧，则易落入执着，即对禅定境界或成果产生贪爱与系缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

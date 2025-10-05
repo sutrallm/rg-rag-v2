@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>GOOD DHARMA</target_entity>
+    <relationship_description>Removing ANGER enables GOOD DHARMA to naturally manifest.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EXCELLENT EFFORT</target_entity>
+    <relationship_description>Without continuous effort, one cannot sustain chanding or overcome distractions like greed and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

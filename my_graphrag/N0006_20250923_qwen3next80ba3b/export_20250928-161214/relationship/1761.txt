@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FETTERS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Fetters are the bonds that maintain the cycle of samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

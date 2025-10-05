@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Chanding provides the mental clarity needed for Zhishi (wisdom) to arise. Wisdom deepens chanding by preventing attachment to meditative states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

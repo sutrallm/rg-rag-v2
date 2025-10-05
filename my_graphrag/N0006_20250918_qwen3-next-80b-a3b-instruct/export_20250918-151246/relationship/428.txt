@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>渡河之筏</source_entity>
+    <target_entity>方便</target_entity>
+    <relationship_description>渡河之筏是对“方便”概念的形象比喻，强调方法的暂时性与工具性，应觉悟后放下。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

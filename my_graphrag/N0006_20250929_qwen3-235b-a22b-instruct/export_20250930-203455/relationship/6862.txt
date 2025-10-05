@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无愿</target_entity>
+    <relationship_description>智慧能证得“无愿”状态，彻底超越愿求与系缚，是究竟解脱的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

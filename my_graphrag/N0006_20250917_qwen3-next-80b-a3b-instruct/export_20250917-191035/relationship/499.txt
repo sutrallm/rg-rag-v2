@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>REAL NATURE</target_entity>
+    <relationship_description>Realizing no-self allows the true nature of mind—unconditioned, luminous, and free—to manifest naturally.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

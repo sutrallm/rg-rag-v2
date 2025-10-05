@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN CIDI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the second stage in the threefold training of mind cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

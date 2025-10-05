@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PEOPLE</source_entity>
+    <target_entity>LOCATIONS</target_entity>
+    <relationship_description>Both PEOPLE and LOCATIONS are to be removed as per the editing instructions.</relationship_description>
+    <relationship_strength>3</relationship_strength>
+</relationship>

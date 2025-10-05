@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMING_SANXUE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jieming Sanxue (the Threefold Training) is the systematic path designed to attain Niepan (nirvana), the ultimate goal of Buddhist practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

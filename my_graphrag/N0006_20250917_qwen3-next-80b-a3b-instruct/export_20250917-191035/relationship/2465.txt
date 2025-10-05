@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGXIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xingxiu (spiritual practice) includes cultivating Chanding (meditative concentration) as one of its essential components, realized through inner awareness rather than external rituals.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

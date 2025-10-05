@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>貪瞋癡</target_entity>
+    <relationship_description>精進修行的主要目的在於對治與斷除貪、瞋、癡三毒，這是解脫的必要條件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

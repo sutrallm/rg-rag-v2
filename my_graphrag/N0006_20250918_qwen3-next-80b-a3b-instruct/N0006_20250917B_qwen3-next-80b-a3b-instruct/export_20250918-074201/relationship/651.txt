@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHU ZHAI</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Chao Yue Zhu Zhai is the realization that nothing—including meditative states—has an independent, enduring self, freeing the mind from identification and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

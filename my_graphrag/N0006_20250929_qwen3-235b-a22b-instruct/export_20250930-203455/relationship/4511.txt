@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>持续精进</target_entity>
+    <relationship_description>解脱需持续精进，不因小成自满，唯有恒常不懈方能圆满。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

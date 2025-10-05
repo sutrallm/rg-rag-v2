@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Through Chan Ding, practitioners witness the absence of a fixed self, dissolving egoic clinging and achieving freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>心念的调伏是禅定成就的前提，唯有使心归于一境，方能成就定力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

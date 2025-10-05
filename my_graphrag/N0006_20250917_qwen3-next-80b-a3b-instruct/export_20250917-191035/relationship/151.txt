@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUECHA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Juecha (mindful awareness) is the foundational practice that cultivates and refines Chanding (meditative concentration).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

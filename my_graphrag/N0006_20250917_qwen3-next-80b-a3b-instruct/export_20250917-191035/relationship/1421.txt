@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUZHANG</target_entity>
+    <relationship_description>Wuwo (non-self) is a key insight within Wuzhang — realizing the illusion of a fixed self is central to transcendent wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

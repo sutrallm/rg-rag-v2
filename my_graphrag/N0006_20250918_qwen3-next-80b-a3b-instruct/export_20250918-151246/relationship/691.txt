@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Liberation is the state of non-attachment; true freedom is defined by the absence of clinging to any phenomenon.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

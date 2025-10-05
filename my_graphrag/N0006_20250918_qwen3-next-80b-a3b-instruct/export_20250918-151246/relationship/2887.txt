@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>爱染</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>爱染是心解脱的直接障碍，断除爱染方能获得真正自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

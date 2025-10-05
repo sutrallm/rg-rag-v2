@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>三学（戒定慧）是修行的完整路径，最终导向彻底断除烦恼、证得解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

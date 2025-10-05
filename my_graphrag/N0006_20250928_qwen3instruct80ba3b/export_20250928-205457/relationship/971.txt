@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PHENOMENA</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>No-self is understood through observing phenomena as impermanent, unsatisfactory, and non-self, not as a fixed entity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

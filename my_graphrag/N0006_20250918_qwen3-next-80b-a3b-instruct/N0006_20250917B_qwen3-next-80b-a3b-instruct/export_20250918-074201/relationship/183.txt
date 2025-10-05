@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True liberation arises when one transcends attachment to all mental states — including those experienced in meditation — through non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

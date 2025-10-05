@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WULI</source_entity>
+    <target_entity>XIUXUE CIDI</target_entity>
+    <relationship_description>The five spiritual faculties (Wu Li) are the supporting forces that must be cultivated across all three stages of Xiuxue Cidi to ensure balanced progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

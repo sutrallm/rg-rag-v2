@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初果</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>即使已得初果，修行者仍需继续精进修习，直至断尽一切细微烦恼，方能抵达彻底解脱的彼岸。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

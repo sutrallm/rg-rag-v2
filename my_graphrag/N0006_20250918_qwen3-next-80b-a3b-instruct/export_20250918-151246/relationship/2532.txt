@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINXIN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>True faith (xinxin) serves as the motivating root that inspires and sustains diligent practice (jingjin).</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

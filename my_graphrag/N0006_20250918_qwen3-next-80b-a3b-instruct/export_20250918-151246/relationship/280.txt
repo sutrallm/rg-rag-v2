@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Chanding leads to inner peace by calming mental disturbances and reducing attachment and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Avulsion and aggression fueled by hatred generate negative karma, prolonging the cycle of suffering and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

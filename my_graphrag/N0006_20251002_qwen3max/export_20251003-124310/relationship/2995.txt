@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>懈怠</source_entity>
+    <target_entity>生死之流</target_entity>
+    <relationship_description>懈怠导致沉溺逸乐，使人被生死之流吞没。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

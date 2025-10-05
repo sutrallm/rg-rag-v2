@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>念佛法門</target_entity>
+    <relationship_description>念佛法門是佛陀所教導的修行法門之一，其真義源於佛陀的教法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

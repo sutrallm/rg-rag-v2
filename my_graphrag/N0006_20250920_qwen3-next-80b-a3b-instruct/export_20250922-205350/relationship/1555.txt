@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUSUO</target_entity>
+    <relationship_description>Niepan cannot be achieved with goals or seeks; it demands Wusuo—the complete abandonment of desire for any outcome, even liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

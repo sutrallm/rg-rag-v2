@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>呼吸</target_entity>
+    <relationship_description>正念應用於觀察呼吸，從入息到出息皆清楚覺知，以收攝散亂心念。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

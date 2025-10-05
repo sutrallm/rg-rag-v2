@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMP permanence</source_entity>
+    <target_entity>DETACHMENT</target_entity>
+    <relationship_description>Understanding impermanence leads naturally to detachment, as nothing can be clung to permanently.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

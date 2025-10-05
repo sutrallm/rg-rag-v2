@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUQIU</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Wuqiu (non-seeking) naturally leads to Wuzhu (non-abiding) — when you stop chasing enlightenment, peace arises as your true nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

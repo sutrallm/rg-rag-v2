@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>出离心</source_entity>
+    <target_entity>八正道</target_entity>
+    <relationship_description>出离心是迈向八正道的心理动力，引导修行者步入正道，走向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

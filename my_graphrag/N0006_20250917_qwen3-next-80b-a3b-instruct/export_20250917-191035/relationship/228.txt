@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAINTLY_QUALITIES</target_entity>
+    <relationship_description>Liberation manifests in the development of saintly qualities such as moral purity, calmness, and inner peace beyond external validation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEZHIZHI GUICHU</source_entity>
+    <target_entity>SHENGZHE XINXING TEZHI</target_entity>
+    <relationship_description>The practice of Juezhizhi Guichu leads to the qualities of the sage — presence, non-reactivity, and inner freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

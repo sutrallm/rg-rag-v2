@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Greed manifests as clinging, and both are interrelated defilements that bind the mind to transitory experiences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>貪愛</target_entity>
+    <relationship_description>聖者已根除貪愛，不再為欲望所牽引，這是其解脫的標誌。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

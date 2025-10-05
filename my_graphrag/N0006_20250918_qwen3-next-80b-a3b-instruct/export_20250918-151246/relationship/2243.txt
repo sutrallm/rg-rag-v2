@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Meditation is practiced to transcend desire, which is one of the primary mental afflictions it aims to dissolve.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

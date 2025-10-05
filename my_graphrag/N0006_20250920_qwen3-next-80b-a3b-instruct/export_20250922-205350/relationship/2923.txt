@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LETTING_GO</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Letting go is the active expression or practice of non-attachment in daily experience and mental processes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

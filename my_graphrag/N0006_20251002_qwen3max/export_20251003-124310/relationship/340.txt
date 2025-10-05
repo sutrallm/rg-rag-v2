@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善知识</source_entity>
+    <target_entity>如理思惟</target_entity>
+    <relationship_description>善知识指导初学者进行如理思惟，确保思维符合正法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

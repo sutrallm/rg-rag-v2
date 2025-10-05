@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>Zhengnian is the method used to observe and deconstruct the five aggregates (wu yun), seeing their transient and impersonal nature, which leads to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

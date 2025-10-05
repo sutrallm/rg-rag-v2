@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无常与无我是修行者观照的共同对象，皆为断除执着的核心教义。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

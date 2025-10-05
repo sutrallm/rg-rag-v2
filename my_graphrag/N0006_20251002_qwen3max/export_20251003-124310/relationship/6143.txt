@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>煩惱（貪瞋癡）是生死輪迴的根本原因，斷除煩惱即能止息輪迴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>修行者透過專注心念、保持正念，遠離放逸與煩惱，便能進入禪定狀態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

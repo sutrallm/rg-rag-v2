@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sheli (renunciation of worldly pursuits) is necessary to create the internal conditions for chanding; attachment to fame/wealth distracts from meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

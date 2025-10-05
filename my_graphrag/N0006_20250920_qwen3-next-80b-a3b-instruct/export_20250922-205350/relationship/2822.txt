@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI YU ZHINENG</source_entity>
+    <target_entity>POTI</target_entity>
+    <relationship_description>The union of compassion and wisdom is described as essential for perfect enlightenment (bodhi), making them the core twin path toward it.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

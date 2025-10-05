@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DINGHUI</target_entity>
+    <relationship_description>Chanding is the 'ding' component of Dinghui, essential for mental stability that enables wisdom to arise and function properly.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

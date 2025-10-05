@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>名利</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>世人追求的名利正是执着的对象，若为此动心，即被尘劳所缚，是修行者需超越的典型执取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

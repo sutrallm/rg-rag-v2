@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>无常观是智慧的重要组成部分，通过观照生灭无常，破除恒常错觉，减少执着，导向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

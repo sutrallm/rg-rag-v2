@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我是達成解脫的關鍵內在轉變，徹底放下自我執著才能真正從輪迴中解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

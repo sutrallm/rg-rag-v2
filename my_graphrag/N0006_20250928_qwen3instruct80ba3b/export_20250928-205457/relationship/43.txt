@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>因一切法无常，故执着即生苦，二者构成佛教苦谛的逻辑基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

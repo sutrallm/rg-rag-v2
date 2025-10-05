@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>佛陀教导戒定慧作为修行的次第与核心，是其教法的根本结构。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

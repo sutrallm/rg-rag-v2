@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT MOMENT</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Present-moment awareness supports ethical behavior by making one mindful of body, speech, and mind in real time, preventing unwholesome actions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>An enlightened being has completely uprooted delusion, along with greed and hatred, thus embodying true liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

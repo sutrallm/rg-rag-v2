@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION_PRACTITIONER</source_entity>
+    <target_entity>WILD_ANIMAL</target_entity>
+    <relationship_description>Meditators are compared to wild animals in the forest metaphor, representing mental stability.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

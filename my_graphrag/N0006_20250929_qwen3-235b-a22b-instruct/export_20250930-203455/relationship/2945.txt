@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念能有效防止贪嗔痴趁虚而入，是守护六根、抵御贪嗔痴侵扰的核心实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

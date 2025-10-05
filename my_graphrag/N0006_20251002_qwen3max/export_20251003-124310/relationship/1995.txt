@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>色界定</source_entity>
+    <target_entity>初禪</target_entity>
+    <relationship_description>初禪是色界定的第一層次，屬於色界定範疇。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

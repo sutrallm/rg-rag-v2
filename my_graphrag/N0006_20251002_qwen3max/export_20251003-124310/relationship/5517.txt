@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>三结</target_entity>
+    <relationship_description>智慧是断除三结的直接工具；初果圣者通过智慧如实观察实相，从而断除身见、疑与戒禁取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

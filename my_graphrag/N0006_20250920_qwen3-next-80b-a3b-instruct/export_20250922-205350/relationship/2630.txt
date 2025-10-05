@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>SHILESAN DU</target_entity>
+    <relationship_description>Suffering originates from the three poisons: greed, hatred, and delusion are the root causes of all suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

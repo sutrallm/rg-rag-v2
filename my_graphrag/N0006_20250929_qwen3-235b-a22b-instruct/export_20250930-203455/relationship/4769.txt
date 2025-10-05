@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅修障碍</target_entity>
+    <relationship_description>修行者在禅修中会遇到昏沉、掉举等障碍，需以正念觉察、智慧观照其生灭，而非强行压制。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

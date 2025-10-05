@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is a major path to liberation; mental stillness and stability enable the insight necessary for final release.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

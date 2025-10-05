@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>境界</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>中道是对禅修境界的正确态度，强调不执取、不排斥，是避免落入魔境或懈怠的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>舍离是智慧的外在表现，唯有通达无我、无常，才可能真正放下执取，故舍离源于智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

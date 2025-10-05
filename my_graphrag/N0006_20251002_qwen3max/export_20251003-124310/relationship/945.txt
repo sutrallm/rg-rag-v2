@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱者</source_entity>
+    <target_entity>贪</target_entity>
+    <relationship_description>心解脱者即使在禅定中体验殊胜境界，也不生贪爱，展现出对贪的超越。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

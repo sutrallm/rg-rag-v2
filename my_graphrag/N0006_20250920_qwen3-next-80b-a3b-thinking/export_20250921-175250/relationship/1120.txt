@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHOR</source_entity>
+    <target_entity>DOCTRINE</target_entity>
+    <relationship_description>METAPHOR is converted into direct DOCTRINE explanation as per instructions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Jingjin combats Wuming (ignorance) by sustaining consistent practice, preventing the mind from sinking back into delusion and attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

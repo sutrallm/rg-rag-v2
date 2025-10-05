@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Liberation is the complete exit from samsara — the cycle of suffering caused by ignorance and craving.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

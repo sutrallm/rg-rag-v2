@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净状态</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>清净状态即涅槃的当下体现，是心无挂碍、无执无染的实证境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

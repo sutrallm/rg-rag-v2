@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>精进是脱离轮回的必要条件，若放任懈怠则沉溺轮回，唯有坚持修习才能超越。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

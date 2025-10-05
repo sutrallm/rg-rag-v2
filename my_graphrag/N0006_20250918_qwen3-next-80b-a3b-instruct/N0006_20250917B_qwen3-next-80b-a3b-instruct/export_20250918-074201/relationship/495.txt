@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>死魔</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>死魔象征懈怠带来的轮回之苦，正是精进修行所要克服的障碍，二者形成对立与对抗关系。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

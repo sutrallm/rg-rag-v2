@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding (meditative concentration) calms the mind and weakens the power of afflictions by reducing mental distraction and emotional reactivity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

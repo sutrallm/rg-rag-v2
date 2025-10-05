@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>了知缘起法则可破除无明，因为缘起揭示了诸法无自性、非实有的本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

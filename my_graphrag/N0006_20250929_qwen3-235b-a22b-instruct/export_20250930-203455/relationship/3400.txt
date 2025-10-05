@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>觉察力</target_entity>
+    <relationship_description>正念是觉察力的基础，使修行者在禅修中如实观察身心变化，不随念头或情绪流转。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly qualities include sustained chanding as a core component, alongside ethical discipline and wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

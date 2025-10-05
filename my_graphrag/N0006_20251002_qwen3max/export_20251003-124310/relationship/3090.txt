@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>缘起法</target_entity>
+    <relationship_description>正见必须依止缘起法，缘起法是构成正确知见的重要教理基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

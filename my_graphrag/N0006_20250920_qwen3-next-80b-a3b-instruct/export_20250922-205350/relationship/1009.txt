@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>神通 are supernatural 境界 that may arise in advanced meditation but must not be pursued or attached to.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

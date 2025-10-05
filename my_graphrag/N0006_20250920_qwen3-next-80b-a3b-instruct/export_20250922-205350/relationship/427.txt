@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧通过对五蕴生灭本质的如实观照而生起，五蕴是观照的对象，智慧是洞察其空性的工具。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

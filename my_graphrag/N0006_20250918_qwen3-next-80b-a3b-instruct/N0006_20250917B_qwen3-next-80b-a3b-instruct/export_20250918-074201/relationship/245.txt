@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律、定力與智慧並列為解脫三要，三者互為支撐，缺一不可。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

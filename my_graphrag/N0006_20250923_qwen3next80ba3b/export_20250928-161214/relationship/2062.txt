@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>BUDDHA's teachings emphasize DILIGENCE as essential for spiritual progress and avoiding death demon's influence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

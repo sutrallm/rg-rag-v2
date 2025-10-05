@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU CHANG</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>Understanding impermanence (wu chang) is central to the non-self insight (wuwo guan), as it reveals the transient, unstable nature of all aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

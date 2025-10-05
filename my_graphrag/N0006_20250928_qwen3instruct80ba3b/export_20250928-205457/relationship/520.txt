@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>KU</target_entity>
+    <relationship_description>The five aggregates are the basis of kuu—suffering arises from clinging to these impermanent, conditioned processes as “self.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

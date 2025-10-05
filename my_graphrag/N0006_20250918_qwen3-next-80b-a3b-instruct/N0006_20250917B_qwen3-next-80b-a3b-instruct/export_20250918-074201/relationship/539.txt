@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Insight into impermanence is a critical component of wisdom, enabling the practitioner to see through illusion and reduce attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

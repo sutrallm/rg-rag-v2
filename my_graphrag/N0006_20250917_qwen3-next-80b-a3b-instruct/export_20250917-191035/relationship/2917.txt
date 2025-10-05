@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUYANG</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiuyang is the practical application of chanding in daily life, turning every action into a meditative practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

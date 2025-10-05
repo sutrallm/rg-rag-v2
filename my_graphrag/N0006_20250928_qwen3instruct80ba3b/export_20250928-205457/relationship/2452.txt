@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五欲</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>五欲是引发贪爱与执取的外在诱因，直接导致烦恼生起，障碍修行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

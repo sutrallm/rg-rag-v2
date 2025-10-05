@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEIYOU "WO" ZAI XIULIAN</source_entity>
+    <target_entity>JIETUO SHI BENRAN</target_entity>
+    <relationship_description>When the illusion of a practicing self ("I") dissolves, liberation as an inherent state is naturally uncovered—freedom arises not by effort, but by the cessation of self-identification.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Saintly beings have completely eradicated greed, along with anger and ignorance, as part of their purification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

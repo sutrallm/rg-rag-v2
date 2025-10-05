@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>The sage has fully realized impermanence and thus is untouched by change or loss.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

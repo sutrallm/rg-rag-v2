@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>YUAN HUAN</target_entity>
+    <relationship_description>Wu Ming (ignorance) is the root cause of being trapped in Yuan Huan (samsara); overcoming it is the path to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

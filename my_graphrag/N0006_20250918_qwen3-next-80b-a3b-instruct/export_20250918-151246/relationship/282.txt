@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPRITUAL PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Through consistent spiritual practice, one transcends defilements and achieves liberation from suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

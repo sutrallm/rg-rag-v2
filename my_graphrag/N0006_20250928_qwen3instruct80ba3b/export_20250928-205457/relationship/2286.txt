@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>No-self is the core insight that arises from observing the five aggregates and dismantling the illusion of identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

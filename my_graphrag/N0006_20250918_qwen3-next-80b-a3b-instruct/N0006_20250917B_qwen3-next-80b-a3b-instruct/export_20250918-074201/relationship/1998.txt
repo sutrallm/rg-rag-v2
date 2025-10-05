@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Awakening is the realization that leads directly to liberation from the cycle of suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWU</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Wuwu (non-self insight) specifically applies to the analysis of wuyun (five aggregates), demonstrating that none of them constitute a permanent self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

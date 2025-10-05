@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>The noble one has completely extinguished all afflictions (Fannao), achieving a state beyond emotional disturbance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

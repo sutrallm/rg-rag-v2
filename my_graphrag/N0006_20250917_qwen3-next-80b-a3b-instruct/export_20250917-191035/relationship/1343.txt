@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念提供当下的觉知基础，使智慧能实时观照念头与现象的空性，二者协同运作。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

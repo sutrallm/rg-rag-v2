@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Wisdom leads to transcending attachment through insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

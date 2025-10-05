@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过修习调伏自心，使心从狂野难控转为柔顺堪用，是修行的核心对象与载体。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

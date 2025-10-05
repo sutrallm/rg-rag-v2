@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸天</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>诸天对具足戒律与智慧、断尽烦恼的圣者表示敬重，体现圣者修行成就的崇高地位。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

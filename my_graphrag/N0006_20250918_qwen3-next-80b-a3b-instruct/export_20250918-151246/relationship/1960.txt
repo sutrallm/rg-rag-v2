@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>The realization of non-self (wuwo) leads directly to transcending attachment (chao yue zhu zhe), because if there is no “I,” there is nothing to cling to.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

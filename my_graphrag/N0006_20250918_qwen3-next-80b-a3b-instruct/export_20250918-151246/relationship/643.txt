@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>喜乐</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>喜乐是禅定中常见的心理体验之一，但不可执取，是禅定的副产品。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Chashi enables the mind to dwell in Wuzhu — non-abiding — because one no longer clings to any meditative state or experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

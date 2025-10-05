@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STABILITY</source_entity>
+    <target_entity>ORIGINAL NATURE</target_entity>
+    <relationship_description>Mental stability reveals the innate clarity and purity of one's original nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>习气</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念可以截断习气的惯性，防止心被习气牵引。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

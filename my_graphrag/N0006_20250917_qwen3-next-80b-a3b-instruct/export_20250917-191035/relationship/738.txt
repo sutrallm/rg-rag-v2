@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者的本质特征即具备圆满智慧，能如实观照实相，不为情绪欲望所动。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

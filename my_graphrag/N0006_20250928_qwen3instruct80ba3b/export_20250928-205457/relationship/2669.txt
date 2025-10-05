@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SISIANCHU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Through observing the body, feelings, mind, and mental objects, one develops deep concentration (Chanding) as a natural outcome of sustained mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

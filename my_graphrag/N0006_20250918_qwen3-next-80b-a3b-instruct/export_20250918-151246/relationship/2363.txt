@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>TANCHENCHI</target_entity>
+    <relationship_description>Fangyi (laxity) nourishes Tanchenchi (the three poisons), reinforcing craving and aversion through unchecked habit.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

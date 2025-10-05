@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUYANG</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xiuyang requires continuous jingjin to maintain mindfulness in every moment of daily living, making diligence essential.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

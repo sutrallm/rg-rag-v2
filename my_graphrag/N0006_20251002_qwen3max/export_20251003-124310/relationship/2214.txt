@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>修行者必須善加守護六根，避免執取外境而引發不善法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

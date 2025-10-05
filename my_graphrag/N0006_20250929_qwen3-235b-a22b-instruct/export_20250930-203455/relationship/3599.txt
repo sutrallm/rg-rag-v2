@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行次第最终导向智慧的圆满，通过修定后修观，洞察诸法实相，实现定慧等持。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

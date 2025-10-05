@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides mental stability, while wisdom provides insight; together they lead to liberation, as one without the other is insufficient.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

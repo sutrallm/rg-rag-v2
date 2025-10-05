@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISENESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom (understanding impermanence, non-substantiality, non-attachment) is the direct path to nirvana and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

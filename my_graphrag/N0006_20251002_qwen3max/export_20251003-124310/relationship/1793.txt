@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三禪</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>三禪中修行者以正念安住，維持心的清明與穩定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

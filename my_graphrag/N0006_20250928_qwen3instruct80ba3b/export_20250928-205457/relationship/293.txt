@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF OBSERVATION</source_entity>
+    <target_entity>EIGHTEEN ELEMENTS</target_entity>
+    <relationship_description>Non-self observation is systematically applied to all eighteen elements to deconstruct the illusion of a self in experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

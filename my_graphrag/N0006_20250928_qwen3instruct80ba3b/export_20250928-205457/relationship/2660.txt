@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>REINCARNATION CYCLE</target_entity>
+    <relationship_description>Greedy clinging perpetuates the cycle of rebirth through karmic continuity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

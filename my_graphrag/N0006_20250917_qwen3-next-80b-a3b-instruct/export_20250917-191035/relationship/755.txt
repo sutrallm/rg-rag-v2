@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GAN_XING</source_entity>
+    <target_entity>FANG_YI</target_entity>
+    <relationship_description>Sensory indulgence is a primary form of complacency that leads to spiritual decline.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

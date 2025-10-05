@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHANWUAI</source_entity>
+    <target_entity>SHENGBZE</target_entity>
+    <relationship_description>Wuzhan wuai describes the final state of the shengbze — a mind utterly free and unobstructed.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

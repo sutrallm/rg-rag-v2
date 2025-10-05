@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>WU YU</target_entity>
+    <relationship_description>Liberty from desire (wuyu) is essential to realization of liberation; the extinguishing of craving directly leads to the cessation of suffering and the arising of nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

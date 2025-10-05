@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIAOZHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiaozhi (present-moment awareness) is the active method through which Chanding is cultivated — mindfulness in daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

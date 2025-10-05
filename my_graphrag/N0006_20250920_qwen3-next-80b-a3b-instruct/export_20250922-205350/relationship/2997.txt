@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定提供心的安定，但唯有智慧才能轉化此安定為解脫的洞見，二者相輔相成。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

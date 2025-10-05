@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOIC_SAGE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The stoic sage embodies chanding as a continuous state of inner stillness and mental clarity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

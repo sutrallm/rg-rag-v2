@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUIREMENTS</source_entity>
+    <target_entity>DOCTRINE</target_entity>
+    <relationship_description>Requirements mandate that the core doctrine should be preserved in direct form.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>戒律是戒定慧三学的基础组成部分，由持戒清净而生起禅定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

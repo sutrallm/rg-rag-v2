@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGLER</source_entity>
+    <target_entity>TANYU</target_entity>
+    <relationship_description>A Shengler has completely abandoned Tanyu (greed) through advanced practice, embodying non-attachment as a defining trait.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

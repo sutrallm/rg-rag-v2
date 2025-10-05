@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无常、苦、无我</target_entity>
+    <relationship_description>智慧体现为能如实地观察一切法的无常、苦、无我，这是超越执著、获得心解脱的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

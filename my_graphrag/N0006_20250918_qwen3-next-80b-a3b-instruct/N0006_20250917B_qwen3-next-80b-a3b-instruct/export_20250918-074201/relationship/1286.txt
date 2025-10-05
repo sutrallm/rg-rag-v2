@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLDLY Dharma</source_entity>
+    <target_entity>TRANSWORLDLY Dharma</target_entity>
+    <relationship_description>Worldly and transworldly dharmas are opposites—one bound by self-attachment, the other free from it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

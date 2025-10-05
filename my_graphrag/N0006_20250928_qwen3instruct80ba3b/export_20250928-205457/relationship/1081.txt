@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>覺照</target_entity>
+    <relationship_description>正念是覺照的具體實踐，二者同義，皆指向當下心念的清明明察。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

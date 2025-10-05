@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>ANATTA (NO-SELF)</target_entity>
+    <relationship_description>Teachings guide practitioners to contemplate and realize the truth of no-self as a path to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

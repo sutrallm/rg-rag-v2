@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Chan Ding requires mindfulness as its essential foundation to maintain clear awareness and prevent mental dullness or distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

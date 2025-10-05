@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>精进用于持续降伏烦恼、调伏自心，是克服烦恼的关键动力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

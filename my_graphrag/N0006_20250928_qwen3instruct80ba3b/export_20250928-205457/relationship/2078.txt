@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGREN</source_entity>
+    <target_entity>JSING</target_entity>
+    <relationship_description>Shengren maintain Jingjin (diligent effort) seamlessly; their constant mindfulness and non-indulgence are indicators of perfected wisdom and practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

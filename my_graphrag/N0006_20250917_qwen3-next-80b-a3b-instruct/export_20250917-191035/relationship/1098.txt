@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Wisdom is the direct antidote to ignorance; through insight, ignorance is dismantled and liberation is achieved.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

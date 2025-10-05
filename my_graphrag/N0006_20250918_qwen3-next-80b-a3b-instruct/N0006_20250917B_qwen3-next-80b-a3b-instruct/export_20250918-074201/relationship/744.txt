@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUI</source_entity>
+    <target_entity>YUAN QI</target_entity>
+    <relationship_description>Transcending attachment is grounded in the understanding of dependent origination, recognizing all things as conditionally arisen and not inherently existent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

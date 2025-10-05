@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAI ZHI</source_entity>
+    <target_entity>SHENGSI LUNHUI</target_entity>
+    <relationship_description>The three poisons (dai zhi) are the root causes that perpetuate the cycle of birth and death (shengsi lunhui).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>捨離</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>捨離是解脫的內在實踐方法，心無執著即得自在，是解脫的關鍵步驟。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

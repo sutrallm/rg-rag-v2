@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM超越执着</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom that transcends attachment enables the mind to let go of all grasping, which is the direct cause of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>END OF BIRTH AND DEATH</source_entity>
+    <target_entity>NON-ARISING AND NON-CEASING</target_entity>
+    <relationship_description>The end of birth and death is the realization of non-arising and non-ceasing in nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

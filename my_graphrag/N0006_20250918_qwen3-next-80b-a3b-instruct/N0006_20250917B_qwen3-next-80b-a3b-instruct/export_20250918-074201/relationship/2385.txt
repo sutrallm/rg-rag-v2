@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CYCLICAL_EXISTENCE</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Liberation is defined as transcendence over the cycle of birth and death; practitioners aim to escape its grip entirely.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

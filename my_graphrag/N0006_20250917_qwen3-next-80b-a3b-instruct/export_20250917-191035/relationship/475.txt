@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISE_INSIGHT</target_entity>
+    <relationship_description>Choping cultivates the mental stability necessary for wise insight to arise; concentration is the foundation for seeing impermanence and selflessness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

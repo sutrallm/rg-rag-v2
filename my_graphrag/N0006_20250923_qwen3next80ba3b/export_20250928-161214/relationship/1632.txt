@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CELESTIAL BEINGS</source_entity>
+    <target_entity>SAINTLY BEINGS</target_entity>
+    <relationship_description>CELESTIAL BEINGS honor SAINTLY BEINGS due to their profound virtue, wisdom, and spiritual attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

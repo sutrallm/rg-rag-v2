@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚痴</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是破除愚痴的根本方法，唯有智慧能照破无明，令愚痴消散。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>PATH TO LIBERATION</target_entity>
+    <relationship_description>Exertion is an essential component of the only true path to liberation, as it ensures consistent, non-lax practice required for breakthrough.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

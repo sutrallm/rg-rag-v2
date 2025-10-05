@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE_GOAL_OF_PRACTICE</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>The ultimate goal is to extinguish anger, one of the three root defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GHAN</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Greed and ignorance are co-arising root causes of suffering, with ignorance underpinning the misperception that fuels craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

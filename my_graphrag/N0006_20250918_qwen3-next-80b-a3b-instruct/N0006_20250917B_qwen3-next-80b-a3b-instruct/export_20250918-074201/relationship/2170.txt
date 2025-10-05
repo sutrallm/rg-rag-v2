@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_PRACTICE</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Daily practice is the active application of mindfulness in all activities, making mindfulness a lived reality rather than a temporary state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

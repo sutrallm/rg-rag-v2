@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_AND_COMPASSION</source_entity>
+    <target_entity>INDEPENDENCE_FROM_EXTERNALS</target_entity>
+    <relationship_description>Wisdom and compassion together cultivate independence from externals by seeing things as they are and responding with equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greedy attachment arises from delusion — the mistaken belief that things can provide lasting satisfaction or constitute a permanent self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

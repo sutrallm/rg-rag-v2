@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICES</source_entity>
+    <target_entity>INTERNAL_TRANSFORMATION</target_entity>
+    <relationship_description>All spiritual practices become meaningful only when they lead to internal transformation—changing the mind’s habits of attachment and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding requires Jingjin to be sustained; without diligence, the mind cannot remain focused or stable in mindfulness. Both are foundational elements for progressing on the path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

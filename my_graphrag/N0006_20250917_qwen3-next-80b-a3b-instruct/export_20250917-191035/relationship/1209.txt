@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DANGXIA</source_entity>
+    <target_entity>SHENGLING</target_entity>
+    <relationship_description>Awakening (Shengling) occurs only when one practices fully in Dangxia — the present moment — without seeking external or future states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

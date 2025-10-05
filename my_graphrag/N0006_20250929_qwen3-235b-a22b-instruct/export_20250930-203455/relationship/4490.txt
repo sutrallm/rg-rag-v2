@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正思维</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正思维是净化烦恼的方法之一，通过善法思维远离贪嗔痴。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

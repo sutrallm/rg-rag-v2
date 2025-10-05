@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>妄念</source_entity>
+    <target_entity>觉察力</target_entity>
+    <relationship_description>觉察力使修行者在禅修中如实观察妄念，不随其流转，是核心能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

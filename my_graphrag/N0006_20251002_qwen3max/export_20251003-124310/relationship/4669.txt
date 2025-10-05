@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>无明使众生无法看清实相，从而陷入轮回；断除无明是解脱的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

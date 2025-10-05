@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>感官欲乐</target_entity>
+    <relationship_description>真正的寂静源于不再追逐感官欲乐，舍离对此类欲乐的执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

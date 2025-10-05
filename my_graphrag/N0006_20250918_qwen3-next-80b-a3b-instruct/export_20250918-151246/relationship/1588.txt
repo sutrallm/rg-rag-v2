@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The belief in a permanent self is the root of suffering; seeing non-self directly weakens ego-clinging and the cycle of pain.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

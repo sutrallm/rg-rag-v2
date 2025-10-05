@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>禪定需透過持續的精進修習才能培養與穩定，缺乏精進則禪定難以深入。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

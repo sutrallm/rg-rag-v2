@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Shengzhe achieves wuwo (non-self liberation) as the culmination of their practice, having completely abandoned all notion of “I” and “mine.”</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

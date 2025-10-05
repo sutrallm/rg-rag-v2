@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>五蘊是體證無我的直接對象，觀其剎那生滅，方能明瞭無有「我」的實體。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

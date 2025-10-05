@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU WUXU WAILI</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberty from external dependence is a core principle of liberation—awakening is self-realized, not granted by gods or gurus.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

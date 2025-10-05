@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法执</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱需断除法执，法执是对现象世界的错误执着，与我执并列为解脱障碍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

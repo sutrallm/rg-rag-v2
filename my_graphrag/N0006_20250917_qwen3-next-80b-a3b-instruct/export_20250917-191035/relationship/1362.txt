@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment is the essential mental state leading to liberation; by not clinging to any experience, including the goal of liberation itself, true freedom is attained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

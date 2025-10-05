@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROPAGATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Constant propagation of awareness is the method through which chanding is cultivated and maintained in daily life.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>ETHICAL CONDUCT</target_entity>
+    <relationship_description>A saintly being embodies perfected ethical conduct, which supports their meditative stability and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

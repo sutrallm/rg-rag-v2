@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>RECKLESSNESS</target_entity>
+    <relationship_description>Effort is the proactive practice to counteract recklessness in Buddhist teachings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

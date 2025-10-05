@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIchang GONGKE</source_entity>
+    <target_entity>SINIANCHU</target_entity>
+    <relationship_description>Richang Gongke is the practical embodiment of Sinianchu — applying mindfulness to body, feelings, mind, and mental phenomena throughout the day.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

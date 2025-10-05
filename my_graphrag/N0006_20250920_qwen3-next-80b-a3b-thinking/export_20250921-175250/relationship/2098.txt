@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REBIRTH CYCLE</source_entity>
+    <target_entity>LIBERATION FROM LIFE AND DEATH</target_entity>
+    <relationship_description>Liberation from life and death is the ultimate goal achieved by overcoming the rebirth cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUANCHUFANNAO</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Duan chu fan nao (ending afflictions) targets Wuming (ignorance) as its root cause, using wisdom to uproot delusion rather than suppress symptoms.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

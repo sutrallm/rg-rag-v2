@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>戒定慧三学是断除烦恼的完整修行路径：持戒清净身口意，禅定稳固其心，智慧照见实相并根除烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

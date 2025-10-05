@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>GREED, HATE, DELUSION</target_entity>
+    <relationship_description>Saintly qualities are defined by the complete eradication of greed, hate, and delusion; they are the outcome of the saint’s realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禅定与正念是修行中相辅相成的实践，正念是禅定的基础，禅定是正念的深化。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

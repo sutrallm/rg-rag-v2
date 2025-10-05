@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>生死</target_entity>
+    <relationship_description>修行者若能不放逸懈怠，就能避免落入烦恼与生死的掌控。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

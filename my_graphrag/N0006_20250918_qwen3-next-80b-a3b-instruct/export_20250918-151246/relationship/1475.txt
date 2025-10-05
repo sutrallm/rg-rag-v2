@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYU</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>The five sensual desires (wuyu) are the primary objects of greed, which arise through their pursuit and lead to suffering and entanglement in samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

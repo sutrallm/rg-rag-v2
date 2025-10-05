@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如理作意</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>如理作意是修行者達成心解脫的關鍵修習方法之一，與持續修習共同促成內心遠離貪瞋癡。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

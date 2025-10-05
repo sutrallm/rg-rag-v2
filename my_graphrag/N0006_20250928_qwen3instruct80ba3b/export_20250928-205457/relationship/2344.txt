@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NI PAN</source_entity>
+    <target_entity>WU ZHAN XIN</target_entity>
+    <relationship_description>Nirvana is the experiential state of Wu Zhan Xin — non-clinging, non-rejecting, perfect equanimity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

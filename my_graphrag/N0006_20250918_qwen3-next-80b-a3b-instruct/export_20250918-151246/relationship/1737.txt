@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我觉悟</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>无我觉悟破除了轮回的根源——“我”的错觉，因而使人从轮回中真正解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

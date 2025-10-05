@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>WORLDLY_THINGS</target_entity>
+    <relationship_description>Renunciation involves complete disengagement from worldly possessions and attachments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

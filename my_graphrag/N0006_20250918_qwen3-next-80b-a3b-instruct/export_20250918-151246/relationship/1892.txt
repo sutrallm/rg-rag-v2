@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>LIU GEN</target_entity>
+    <relationship_description>The sage constantly guards the six sense faculties to prevent sensory distractions and maintain inner stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

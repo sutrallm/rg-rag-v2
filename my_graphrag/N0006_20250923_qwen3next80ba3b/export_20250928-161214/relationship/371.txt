@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>PRACTICE RESULTS</target_entity>
+    <relationship_description>NON-ATTACHMENT allows practitioners to refrain from clinging to PRACTICE RESULTS.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>戒定慧三学的完整修习能彻底断除烦恼，烦恼是三学所对治的核心障碍。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

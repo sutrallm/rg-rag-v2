@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURE MIND LIBERATION</source_entity>
+    <target_entity>WORLDLY PHENOMENA</target_entity>
+    <relationship_description>Pure mind liberation remains unstained by worldly phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

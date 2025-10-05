@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>舍离是解脱的心理状态表现——无取无执，不贪不拒，是解脱的外在征象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

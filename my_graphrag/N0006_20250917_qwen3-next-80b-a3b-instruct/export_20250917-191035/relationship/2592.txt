@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FINAL_ACHIEVEMENT</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>True final attainment arises from the deep insight wisdom that perceives impermanence and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

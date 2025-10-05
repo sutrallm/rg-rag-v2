@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>ULTIMATE WISDOM</target_entity>
+    <relationship_description>Ethical precepts provide the foundation for developing the profound wisdom needed for enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

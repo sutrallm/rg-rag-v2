@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>心解脫的實現依賴於對無我的徹底體證，不執「我在修行」，方能真正自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

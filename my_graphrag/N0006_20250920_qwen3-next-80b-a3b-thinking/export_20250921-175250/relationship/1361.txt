@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXAMPLE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The example illustrates the type of original text that should be supplied for processing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

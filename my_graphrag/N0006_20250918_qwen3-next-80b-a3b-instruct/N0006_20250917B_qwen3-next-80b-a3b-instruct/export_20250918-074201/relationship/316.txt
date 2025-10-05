@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>ILLUSION_OF_SELF</target_entity>
+    <relationship_description>Desire arises from the illusion of self, as one seeks to possess or protect "me" and "mine."</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

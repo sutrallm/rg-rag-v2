@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪嗔痴</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>貪嗔痴是精進修行所對治的主要對象，修行的目的是對抗這些根本煩惱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

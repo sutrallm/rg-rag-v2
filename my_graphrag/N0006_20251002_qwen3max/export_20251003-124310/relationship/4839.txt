@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>心解脫的關鍵在於透過禪觀徹見五蘊皆空，不再執取身心為「我」或「我所」。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>OBSTACLES</target_entity>
+    <relationship_description>Wisdom dispels obstacles, particularly those rooted in ignorance, by revealing the true nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

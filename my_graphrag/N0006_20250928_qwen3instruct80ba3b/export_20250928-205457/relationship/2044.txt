@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO DANGXIA</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Nirvana is the ultimate reality of liberation-in-the-present; the two are essentially equivalent in the context described.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

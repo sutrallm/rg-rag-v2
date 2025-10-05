@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Non-attachment is both the result and expression of true insight wisdom, preventing clinging to even meditative experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Saintly qualities include the manifestation of transcendent wisdom, as it is one of the three pillars (along with ethics and mindfulness) defining a saintly being.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

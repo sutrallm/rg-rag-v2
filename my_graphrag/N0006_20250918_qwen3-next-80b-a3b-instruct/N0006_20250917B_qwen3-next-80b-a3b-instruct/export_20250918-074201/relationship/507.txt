@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>PATH_OF_PRACTICE</target_entity>
+    <relationship_description>A Saintly Being is the embodiment of a fully cultivated Path of Practice, having completed all stages with perfection.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进是持续修习禅定的动力，无精进则难以维持专注与正念，禅定难以成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

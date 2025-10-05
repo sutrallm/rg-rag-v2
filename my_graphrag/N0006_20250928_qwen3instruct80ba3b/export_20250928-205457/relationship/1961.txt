@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>正念的日常實踐即在時時觀照身心現象的無常變化，是修習無常智慧的實踐途徑。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

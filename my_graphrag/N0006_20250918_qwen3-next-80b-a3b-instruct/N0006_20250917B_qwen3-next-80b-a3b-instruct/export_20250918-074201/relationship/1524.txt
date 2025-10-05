@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saints have uprooted delusion and see reality as it truly is — free from ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

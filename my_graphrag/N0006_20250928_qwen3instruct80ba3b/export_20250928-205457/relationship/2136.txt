@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>A Shengzhe has fully realized Wuwo, and thus is free from internal and external disturbances, having extinguished the three poisons.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

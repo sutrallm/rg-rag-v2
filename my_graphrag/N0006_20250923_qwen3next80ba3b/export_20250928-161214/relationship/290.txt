@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Wisdom is one of the three fundamental components of the Threefold Training, providing insight to transcend ignorance and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

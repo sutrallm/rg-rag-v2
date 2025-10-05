@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>MONK</target_entity>
+    <relationship_description>The Buddha directly instructs monks on Buddhist principles and practices.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

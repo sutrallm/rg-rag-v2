@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>果證</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>追求果證本身即是一種執著，真正的解脫不在於獲得果證，而在於放下對其的貪求。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

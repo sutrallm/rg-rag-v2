@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>JIE_DING_HUI</target_entity>
+    <relationship_description>Jietuo (liberation) is achievable only through the systematic practice of morality, concentration, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

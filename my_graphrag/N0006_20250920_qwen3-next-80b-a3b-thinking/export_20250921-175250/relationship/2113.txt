@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>mindfulness</source_entity>
+    <target_entity>disturbance</target_entity>
+    <relationship_description>Mindfulness helps practitioners resist and overcome external disturbances during meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

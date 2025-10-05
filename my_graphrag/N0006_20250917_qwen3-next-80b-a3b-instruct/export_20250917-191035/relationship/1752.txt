@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>智慧与戒律是圣者具足的两项基本素质，戒律为智慧提供清净基础，智慧使戒律不落于形式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

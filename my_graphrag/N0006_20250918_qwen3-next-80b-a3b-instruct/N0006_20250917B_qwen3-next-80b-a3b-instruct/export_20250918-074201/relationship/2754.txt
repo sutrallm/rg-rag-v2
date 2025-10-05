@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUOZHE</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Transcending attachment is achieved through the practice of non-self observation, which reveals the true nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

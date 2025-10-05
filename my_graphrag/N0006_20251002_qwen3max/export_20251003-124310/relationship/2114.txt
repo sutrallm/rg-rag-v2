@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>解脫者</target_entity>
+    <relationship_description>解脫者是圓滿實踐戒定慧三學的結果，具足三學者能止息一切苦惱，達至究竟解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

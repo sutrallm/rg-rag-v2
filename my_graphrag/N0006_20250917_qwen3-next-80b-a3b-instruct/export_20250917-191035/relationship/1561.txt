@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>STRAINED_EFFORT</target_entity>
+    <relationship_description>Chanding requires sustained and diligent effort to overcome mental distractions and attachment; without consistent striving, meditation cannot lead to deep states of peace or liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

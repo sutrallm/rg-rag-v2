@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Cibei arises from wuzhu (non-abiding); true compassion is free from attachment to the idea of “giving” or “helping,” flowing effortlessly from non-attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

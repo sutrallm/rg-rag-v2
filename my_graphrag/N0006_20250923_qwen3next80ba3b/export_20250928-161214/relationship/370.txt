@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE VIEW</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Understanding IMPERMANENCE VIEW leads to NON-ATTACHMENT, as all phenomena are transient.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

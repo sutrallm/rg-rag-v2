@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUN</source_entity>
+    <target_entity>DARKNESS</target_entity>
+    <relationship_description>The sun's light directly overcomes darkness, representing diligence's role in overcoming ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

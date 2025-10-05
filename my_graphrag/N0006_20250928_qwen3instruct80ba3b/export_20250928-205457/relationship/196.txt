@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>智慧是通向涅槃的唯一道路，唯有如實觀照諸法真實，方能達至無執的涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>凡俗染着</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已远离凡俗染着，是其断除贪嗔痴烦恼、成就清净境界的体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>GREED ANGER DELUSION</target_entity>
+    <relationship_description>Mindfulness practice helps maintain awareness to prevent delusions and extinguish greed, anger, and delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

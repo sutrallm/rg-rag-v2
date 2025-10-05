@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>JIHUI</target_entity>
+    <relationship_description>Niepan is the direct experiential fruit of Jihui—the full realization that ends ignorance and clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

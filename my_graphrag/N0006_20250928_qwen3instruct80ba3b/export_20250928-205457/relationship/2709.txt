@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUI</source_entity>
+    <target_entity>WU ZHU</target_entity>
+    <relationship_description>True liberation (Jie Tui) manifests as Wu Zhu — not clinging to any meditative state, insight, or attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

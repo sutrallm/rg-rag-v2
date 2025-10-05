@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三解脱门</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无我是三解脱门之一，证得无我即通向解脱的重要门径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

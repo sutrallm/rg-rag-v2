@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUFENBIAN QINGJING XIN</target_entity>
+    <relationship_description>Sages exemplify the non-discriminatory pure mind—neither rejecting nor clinging, remaining like a clear mirror, which is the hallmark of full liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

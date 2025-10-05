@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六尘</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>真正的寂静要求内心不被六尘境界所扰，六尘是干扰寂静的外在因素。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

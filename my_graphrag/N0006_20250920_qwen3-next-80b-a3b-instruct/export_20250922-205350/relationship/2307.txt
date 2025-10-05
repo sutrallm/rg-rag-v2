@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral discipline (戒行) is the essential foundation that anchors and stabilizes meditative concentration (禅定), preventing mental distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

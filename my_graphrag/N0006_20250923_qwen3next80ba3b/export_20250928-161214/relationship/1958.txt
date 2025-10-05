@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOCATION</source_entity>
+    <target_entity>PROCESSING_INSTRUCTION</target_entity>
+    <relationship_description>Geographical places must be deleted according to the first processing instruction.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

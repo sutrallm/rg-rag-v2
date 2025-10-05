@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>精进是通往解脱的动力与保障，若无持续努力，无法突破无明与惰性的束缚，解脱则无从谈起。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

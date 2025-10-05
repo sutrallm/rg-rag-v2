@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_PATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The true path of non-seeking and natural awareness is the direct route to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

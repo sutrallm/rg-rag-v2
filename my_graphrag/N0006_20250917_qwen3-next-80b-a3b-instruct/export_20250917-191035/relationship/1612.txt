@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我無執</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我無執是解脫的本質狀態，真正的解脫即體現在徹底放下對「我」與「我所」的執取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

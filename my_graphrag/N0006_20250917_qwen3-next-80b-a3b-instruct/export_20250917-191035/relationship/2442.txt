@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Chanding is achieved through continuous awareness and mindfulness, which prevent distraction and maintain mental stability.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>TRANSLATED_TEXT</target_entity>
+    <relationship_description>ORIGINAL_TEXT is converted to TRANSLATED_TEXT through the instructed processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

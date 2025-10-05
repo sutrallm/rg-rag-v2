@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Understanding impermanence is a pivotal insight leading directly to liberation by dissolving attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

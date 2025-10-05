@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE SPIRITUAL PRACTICE</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>True spiritual practice demands exertion — it cannot be passive or intermittent; consistent effort makes practice genuine and transformative.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

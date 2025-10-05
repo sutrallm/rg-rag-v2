@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>随缘而行</source_entity>
+    <target_entity>自在境界</target_entity>
+    <relationship_description>随缘而行是解脱者自在无碍的生活方式，体现无执无着的圆满境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

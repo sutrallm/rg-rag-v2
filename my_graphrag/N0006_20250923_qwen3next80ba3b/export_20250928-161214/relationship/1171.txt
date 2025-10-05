@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THREE TRAININGS</target_entity>
+    <relationship_description>A saint embodies and fully practices the three trainings of precepts, concentration, and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

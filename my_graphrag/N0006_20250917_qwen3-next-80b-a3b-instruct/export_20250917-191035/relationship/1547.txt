@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION IN PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without constant exertion and vigilance, chanding cannot be maintained or deepened; exertion safeguards its foundation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

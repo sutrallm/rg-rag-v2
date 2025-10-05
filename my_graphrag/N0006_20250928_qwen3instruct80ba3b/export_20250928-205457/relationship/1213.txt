@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Enlightenment is achieved only through the total eradication of defilements.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

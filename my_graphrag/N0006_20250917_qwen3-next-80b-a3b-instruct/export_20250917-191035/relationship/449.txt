@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO GUAN ZHAO</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Wu Wo Guan Zhao is the practice directly aimed at realizing Wu Wo—the truth of non-self—as the path to eliminating clinging and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

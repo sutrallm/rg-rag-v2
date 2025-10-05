@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Effortful Practice is directed toward eradicating mental defilements that obstruct spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

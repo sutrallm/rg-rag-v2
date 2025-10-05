@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_TRAININGS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the second leg of the threefold training that supports the growth of wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

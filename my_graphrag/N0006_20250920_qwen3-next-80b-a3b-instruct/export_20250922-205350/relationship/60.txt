@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BA ZHENG DAO</source_entity>
+    <target_entity>CONCENTRATION</target_entity>
+    <relationship_description>Right concentration is one of the three pillars of the Eightfold Path, essential for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

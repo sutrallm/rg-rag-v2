@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX PERFECTIONS</source_entity>
+    <target_entity>SENTIENT_BEINGS</target_entity>
+    <relationship_description>The six perfections are practiced to benefit sentient beings without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

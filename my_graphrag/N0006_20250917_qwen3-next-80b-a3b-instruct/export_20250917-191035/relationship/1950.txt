@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Realizing no-self is the direct cause of attaining Nirvana, as it ends the karmic basis for rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

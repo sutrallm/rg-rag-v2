@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR IMMEASURABLE HEARTS</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>Equanimity is the fourth quality practiced within the Four Immeasurable Hearts to maintain mental balance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

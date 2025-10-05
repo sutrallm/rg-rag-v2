@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHIZHI</target_entity>
+    <relationship_description>Only through persistent effort (jingjin) can one develop the insight (zhizhi) necessary to overcome delusion and attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

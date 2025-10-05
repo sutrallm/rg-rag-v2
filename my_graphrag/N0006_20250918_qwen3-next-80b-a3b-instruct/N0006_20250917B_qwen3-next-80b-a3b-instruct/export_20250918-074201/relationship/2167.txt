@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_TO_LIBERATION</source_entity>
+    <target_entity>DETACHMENT</target_entity>
+    <relationship_description>Detachment is the core wisdom that enables one to traverse the path to liberation without clinging to outcomes or states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

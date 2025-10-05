@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>名闻利养</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者不为名闻利养所诱，因其心已解脱，超越世间欲望。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

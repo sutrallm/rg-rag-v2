@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>正念即时刻保持觉知，是修行者不被外境牵引、守护六根的核心能力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHICHI</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary for zhichi to arise — clarity of insight emerges from a calm and concentrated mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>STAGE_OF_DELIVERANCE</target_entity>
+    <relationship_description>Non-attachment is the key practice leading directly to the stage of deliverance, where one is no longer bound by desire or aversion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

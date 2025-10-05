@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>丛林</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者如野兽在无蚊虫的丛林中安然行走，象征在禅定中远离烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

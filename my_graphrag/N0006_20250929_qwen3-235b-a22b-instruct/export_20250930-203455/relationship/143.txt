@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不躐等</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>修行需循序渐进、不躐等，是确保持戒、修定、发慧三者环环相扣、圆满成就的原则。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

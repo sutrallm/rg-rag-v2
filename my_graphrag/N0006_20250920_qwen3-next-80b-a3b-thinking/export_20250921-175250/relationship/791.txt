@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIGHT</target_entity>
+    <relationship_description>Wisdom is symbolized by light, which illuminates truth and dispels delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

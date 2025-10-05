@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE DHARMA</source_entity>
+    <target_entity>THREE MARKS OF EXISTENCE</target_entity>
+    <relationship_description>The Three Marks are the essential meaning (义) of the Dharma, its core teaching that must be understood beyond superficial forms or rituals.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

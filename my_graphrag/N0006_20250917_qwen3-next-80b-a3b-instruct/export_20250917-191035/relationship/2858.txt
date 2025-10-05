@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>RELEASING</target_entity>
+    <relationship_description>Awareness dissolves clinging by revealing how thoughts and sensations arise and pass; non-identification with them naturally leads to releasing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

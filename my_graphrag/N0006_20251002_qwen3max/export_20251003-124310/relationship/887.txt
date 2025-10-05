@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观调和</source_entity>
+    <target_entity>五盖</target_entity>
+    <relationship_description>止观调和用于对治五盖中的“掉举追悔”。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

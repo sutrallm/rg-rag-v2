@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>闻思修</target_entity>
+    <relationship_description>智慧是通过闻思修所生起的如实知见，能断除烦恼与习气。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

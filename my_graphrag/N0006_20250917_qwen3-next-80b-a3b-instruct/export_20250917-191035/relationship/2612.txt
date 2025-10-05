@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness is the supporting faculty that enables stable chanding (meditative concentration) to arise.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

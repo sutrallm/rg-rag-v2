@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>DUALITIES</target_entity>
+    <relationship_description>Renunciation transcends dualistic thinking such as existence versus non-existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

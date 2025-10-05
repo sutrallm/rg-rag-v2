@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-CLINGING</source_entity>
+    <target_entity>TRUE_LIBERATION</target_entity>
+    <relationship_description>Non-clinging is the practical expression of wisdom that directly results in true liberation from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

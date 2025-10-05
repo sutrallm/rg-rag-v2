@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSION_OF_SELF</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Mindfulness is the required tool to directly observe and dissolve the illusion of self by seeing the impermanent, conditioned nature of body, feelings, and thoughts.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

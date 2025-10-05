@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>WISE_DISCERNMENT</target_entity>
+    <relationship_description>Exertion sustains the development of wise discernment by preventing mental laxity and encouraging prolonged insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

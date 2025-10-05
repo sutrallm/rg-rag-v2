@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>明镜心</target_entity>
+    <relationship_description>心若能如明镜般映照而不染，便能远离贪嗔痴三毒。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

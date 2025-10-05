@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SAISANG</target_entity>
+    <relationship_description>Shengzhe have completely eradicated the Saishang (greed, hatred, delusion) through wisdom, ethical conduct, and meditation — they are no longer bound by these defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

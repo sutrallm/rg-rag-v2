@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT_TO_EXPERIENCES</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Attachment to meditative experiences obstructs true liberation; letting go of these attachments is essential to reaching spontaneous freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

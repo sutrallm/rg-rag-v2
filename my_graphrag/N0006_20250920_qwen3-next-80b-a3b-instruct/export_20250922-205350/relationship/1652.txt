@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>TRUE_LIBERATION</target_entity>
+    <relationship_description>True liberation is defined as the complete cessation of the three poisons; their eradication is the hallmark of enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

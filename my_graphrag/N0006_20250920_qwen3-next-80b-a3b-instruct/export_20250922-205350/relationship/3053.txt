@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOLUE ZHUOZHI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcending attachment (Chaolue Zhuozhi) is grounded in the insight of non-self (Wuwo); without realizing selflessness, true non-clinging is impossible.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

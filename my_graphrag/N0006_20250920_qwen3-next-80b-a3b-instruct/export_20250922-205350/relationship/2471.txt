@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>正念是通向解脱的枢纽，能持续斩断无明，令修行者不随妄念流转，逐步实现真实自在。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

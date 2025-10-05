@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>JIHUI</target_entity>
+    <relationship_description>Zhennian cultivates the conditions for Jihui by developing moment-to-moment awareness, allowing insight into impermanence and non-self to emerge naturally.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

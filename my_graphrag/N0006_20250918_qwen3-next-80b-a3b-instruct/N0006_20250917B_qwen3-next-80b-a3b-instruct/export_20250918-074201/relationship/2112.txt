@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRAGA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Praga (diligence) is required to sustain and deepen chanding, preventing regression into distraction or laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

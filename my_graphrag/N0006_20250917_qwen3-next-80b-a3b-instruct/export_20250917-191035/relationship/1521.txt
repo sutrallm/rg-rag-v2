@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>JIE DU</target_entity>
+    <relationship_description>Buddha taught the path that leads to Liberation, serving as the guide but not the agent of liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

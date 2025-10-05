@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒律为禅定提供行为基础，稳定身心，使禅定修习得以顺利进行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

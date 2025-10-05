@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Only through continuous mindfulness can one observe phenomena clearly and develop genuine insight wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

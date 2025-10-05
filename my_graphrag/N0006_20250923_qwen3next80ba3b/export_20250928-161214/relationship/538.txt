@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISTRACTION</target_entity>
+    <relationship_description>Meditation pacifies distraction, as directly stated in '平息散乱'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

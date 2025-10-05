@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>TRUE TEACHING</target_entity>
+    <relationship_description>Insight is the means to personally verify and embody the true teaching, distinguishing it from mere intellectual understanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

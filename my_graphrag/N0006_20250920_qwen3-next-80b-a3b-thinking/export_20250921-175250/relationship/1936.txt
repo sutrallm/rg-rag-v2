@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>The Buddha's teachings provide the path to transcend the cycle of samsara through wisdom and ethical conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

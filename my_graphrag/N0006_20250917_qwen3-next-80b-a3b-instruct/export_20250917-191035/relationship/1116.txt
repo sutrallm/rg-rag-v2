@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>TRANSCENDENT BEING</target_entity>
+    <relationship_description>Nirvana is the state realized by transcendent beings, marking their complete liberation from suffering and conditioning.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

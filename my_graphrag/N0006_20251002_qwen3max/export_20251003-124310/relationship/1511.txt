@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>渴爱</target_entity>
+    <relationship_description>渴爱是烦恼的根本源头之一，与无明共同构成生死轮回之因。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

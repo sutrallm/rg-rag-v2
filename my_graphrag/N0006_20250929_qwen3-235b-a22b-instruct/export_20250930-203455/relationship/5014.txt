@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>烦恼是修行者需断除的心理障碍，通过禅定与智慧可逐步减轻乃至断尽。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

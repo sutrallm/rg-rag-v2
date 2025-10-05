@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding is not attachment to meditative states; non-attachment is necessary to prevent spiritual pride and ensure progress toward liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

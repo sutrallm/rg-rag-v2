@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>Practitioners analyze the five aggregates to understand their impermanent, non-self nature and overcome attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

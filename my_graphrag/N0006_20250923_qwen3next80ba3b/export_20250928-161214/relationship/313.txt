@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>MINDFULNESS is the practice of present-moment awareness within the MIND, indicated by "保持正念".</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

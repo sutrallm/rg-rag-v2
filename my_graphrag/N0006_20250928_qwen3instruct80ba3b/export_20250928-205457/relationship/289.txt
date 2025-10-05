@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chan Ding creates the mental stillness necessary to develop non-attachment, allowing insight into the true nature of phenomena without clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

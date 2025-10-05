@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>正念观照</target_entity>
+    <relationship_description>正念观照的作用之一即是瓦解无明的惯性，使心从愚痴中觉醒。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

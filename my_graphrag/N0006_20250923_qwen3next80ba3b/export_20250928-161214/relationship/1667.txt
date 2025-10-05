@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>断尽烦恼</target_entity>
+    <relationship_description>持戒是断尽烦恼的基础，助修行者清除一切精神痛苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

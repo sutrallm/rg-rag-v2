@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Ethical conduct purifies the mind and creates the conditions necessary for deep insight to arise in meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

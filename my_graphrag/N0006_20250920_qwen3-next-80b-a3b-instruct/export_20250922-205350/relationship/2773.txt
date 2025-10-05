@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment is the essential attitude that enables one to transcend saṃsāra and achieve liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

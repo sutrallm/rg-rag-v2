@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>EMPTY_NATURE</target_entity>
+    <relationship_description>No-self is the application of empty nature to the concept of personal identity — realizing that the "self" is not independently existing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>通过洞察无常，修行者能不对禅定中的轻安或殊胜境界生起执著，从而避免因执著而再生烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

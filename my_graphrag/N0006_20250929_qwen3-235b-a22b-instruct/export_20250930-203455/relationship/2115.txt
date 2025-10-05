@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>缘起法</target_entity>
+    <relationship_description>无常观体现缘起法的诸法因缘生灭，破除恒常错觉，减少执著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

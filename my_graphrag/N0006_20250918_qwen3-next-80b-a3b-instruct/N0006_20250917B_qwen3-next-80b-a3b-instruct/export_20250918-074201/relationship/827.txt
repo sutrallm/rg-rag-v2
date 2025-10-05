@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>當下</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>真正的禪定不在遠方，而在當下每一刻的專注與覺知中。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

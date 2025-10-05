@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>While chanding is not nirvana itself, it is a necessary inner condition for the arising of wisdom that leads to nirvana — it creates the stillness needed for insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

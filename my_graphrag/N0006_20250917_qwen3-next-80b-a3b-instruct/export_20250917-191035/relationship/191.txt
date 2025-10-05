@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAZHUO</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Attachment is the primary cause of entrapment in samsara; letting go of clinging is essential to break the cycle of rebirth and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Practicing the Four Foundations of Mindfulness helps eliminate ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

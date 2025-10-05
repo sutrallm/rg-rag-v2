@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>标题</source_entity>
+    <target_entity>主题</target_entity>
+    <relationship_description>标题需要明确表达其主题内容</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

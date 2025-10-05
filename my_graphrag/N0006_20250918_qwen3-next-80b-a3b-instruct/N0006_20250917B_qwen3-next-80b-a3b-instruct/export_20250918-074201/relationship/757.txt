@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>智慧的终极体认是“无我”，确认一切现象无自性，从而断除我执。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

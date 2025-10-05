@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Sages (shengzhe) embody non-attachment (wu zhu), having abandoned all clinging to self, phenomena, and even spiritual ideals.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

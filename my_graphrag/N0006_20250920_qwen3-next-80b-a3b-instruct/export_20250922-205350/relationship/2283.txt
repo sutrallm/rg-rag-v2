@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>生死循环</target_entity>
+    <relationship_description>三毒（贪、瞋、痴）是导致众生陷入生死循环的根本原因，断尽三毒即能超越轮回。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>WILD ANIMAL</target_entity>
+    <relationship_description>Practitioners emulate the wild animal's behavior to withdraw from worldly distractions and cultivate inner peace.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

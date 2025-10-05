@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FRUITION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Even spiritual achievements (fruition) must not be clung to; true liberation is attained only when all attachment—including to attainments—is released.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

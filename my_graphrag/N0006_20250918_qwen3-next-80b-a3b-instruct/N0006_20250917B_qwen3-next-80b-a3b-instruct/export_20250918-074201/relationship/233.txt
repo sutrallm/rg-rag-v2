@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>The five aggregates are the components that, when misconstrued as a self, produce the illusion of a permanent identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

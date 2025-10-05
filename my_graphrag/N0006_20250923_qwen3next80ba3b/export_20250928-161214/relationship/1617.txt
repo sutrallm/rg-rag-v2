@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>TRANSCENDING SUFFERING</target_entity>
+    <relationship_description>PRECEPTS establish moral conduct foundations that aid in TRASNCENDING SUFFERING through disciplined practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

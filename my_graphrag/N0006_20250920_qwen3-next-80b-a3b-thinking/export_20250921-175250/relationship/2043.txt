@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN XING</source_entity>
+    <target_entity>WAI JING</target_entity>
+    <relationship_description>心性稳固可抵御外境扰动，使外境动摇不得，体现内在安定的对外在影响。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

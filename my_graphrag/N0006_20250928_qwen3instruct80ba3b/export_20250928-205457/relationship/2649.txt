@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Effortful practice is the necessary means to develop and maintain Chan Ding; without continuous effort, Chan Ding cannot be sustained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

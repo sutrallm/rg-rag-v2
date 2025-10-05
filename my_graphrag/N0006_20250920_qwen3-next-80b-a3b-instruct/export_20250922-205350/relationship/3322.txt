@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>SHENGIN</target_entity>
+    <relationship_description>Shengin (the saintly one) is the embodiment of jiede (liberation); one who has attained complete freedom from afflictions is called a saint.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

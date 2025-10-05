@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT ORIGINATION</source_entity>
+    <target_entity>SAMSAARA</target_entity>
+    <relationship_description>Samsara persists due to ignorance of dependent origination; recognizing it is the path to escaping the cycle.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

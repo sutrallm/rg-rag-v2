@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Chanding is the foundation for insight; calm concentration allows the mind to see the true nature of phenomena clearly.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

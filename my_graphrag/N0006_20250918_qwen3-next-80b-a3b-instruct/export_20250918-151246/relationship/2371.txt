@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuyun are the components that are mistakenly grasped as a self; insight into Wuwo dissolves this mistaken identification.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

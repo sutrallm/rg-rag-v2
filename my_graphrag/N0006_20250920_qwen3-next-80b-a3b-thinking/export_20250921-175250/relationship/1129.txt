@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANALOGY</source_entity>
+    <target_entity>DHARMA EXPLANATION</target_entity>
+    <relationship_description>Analogy serves as raw input for generating doctrinal explanations through text refinement.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

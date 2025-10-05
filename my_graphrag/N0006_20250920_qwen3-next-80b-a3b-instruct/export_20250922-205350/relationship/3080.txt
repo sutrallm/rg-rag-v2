@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>正定</target_entity>
+    <relationship_description>正见提供修行的方向与认知基础，正定则深化此认知，使智慧内化为体验。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

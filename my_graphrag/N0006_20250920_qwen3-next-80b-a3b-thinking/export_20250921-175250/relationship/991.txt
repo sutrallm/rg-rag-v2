@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>FRUIT</target_entity>
+    <relationship_description>Attachment to fruit leads to bondage; enlightened beings do not cling to it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

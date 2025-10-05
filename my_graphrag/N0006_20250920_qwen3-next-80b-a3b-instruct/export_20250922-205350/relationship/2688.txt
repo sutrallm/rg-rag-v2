@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>癡</target_entity>
+    <relationship_description>聖者以真實智慧斷除無明與癡，徹見緣起性空。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Stable concentration (chanding) enables the mind to penetrate deeply and generate liberating insight wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

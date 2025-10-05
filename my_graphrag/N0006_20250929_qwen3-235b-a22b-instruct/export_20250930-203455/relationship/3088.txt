@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无住生心</target_entity>
+    <relationship_description>修行者达到无住生心的境界，是该状态的实践者与证得者。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

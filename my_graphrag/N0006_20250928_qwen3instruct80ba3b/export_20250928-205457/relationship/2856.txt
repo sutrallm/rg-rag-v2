@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>智慧的根本作用是破除无明，对缘起法的如实认知能消除对“常”“我”的错觉。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

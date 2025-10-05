@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>慧为解脱之钥，通过智慧了知诸法实相，才能彻底断除烦恼与执取，达到解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>嗔恨</target_entity>
+    <relationship_description>禪定的實踐旨在遠離嗔恨，作為三毒之一，嗔恨是干擾內心安定的關鍵障礙。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

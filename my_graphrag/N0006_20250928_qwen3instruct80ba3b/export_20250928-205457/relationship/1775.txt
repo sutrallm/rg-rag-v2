@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The Shengzhe has perfected chanding, remaining undisturbed even in deep meditative states and not clinging to their bliss.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正知</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正知与正念相辅相成，共同构成禅修基础，在日常生活中防止烦恼生起。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

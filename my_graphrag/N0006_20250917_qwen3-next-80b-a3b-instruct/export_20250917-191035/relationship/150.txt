@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGSI SHUBU</target_entity>
+    <relationship_description>Only through consistent diligent practice can one break free from the endless cycle of suffering and rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

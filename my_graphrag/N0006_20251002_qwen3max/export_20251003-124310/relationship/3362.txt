@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初禅至四禅</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>初禅至四禅是禅定修习的次第进展阶段，体现内心逐步净化与舍离的过程。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

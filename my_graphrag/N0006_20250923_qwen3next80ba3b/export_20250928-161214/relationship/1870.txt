@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADVERSITY</source_entity>
+    <target_entity>SELF-REFLECTION</target_entity>
+    <relationship_description>Self-reflection is the necessary response to adversity to identify internal faults rather than external causes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

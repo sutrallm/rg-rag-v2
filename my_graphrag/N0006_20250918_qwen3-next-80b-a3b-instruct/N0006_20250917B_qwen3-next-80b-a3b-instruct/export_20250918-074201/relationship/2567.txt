@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Jielv and zhihui are interdependent: morality creates conditions for wisdom, and wisdom deepens ethical integrity, reinforcing ethical conduct.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

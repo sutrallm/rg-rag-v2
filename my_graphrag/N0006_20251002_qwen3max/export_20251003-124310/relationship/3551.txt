@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初果</source_entity>
+    <target_entity>四聖諦</target_entity>
+    <relationship_description>四聖諦的親證是證得初果的直接原因，後續修行則導向究竟解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

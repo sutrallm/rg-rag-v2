@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>SAMSAJA</target_entity>
+    <relationship_description>Craving is the driving force that binds beings to the endless cycle of samsara through attachment to pleasures and existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

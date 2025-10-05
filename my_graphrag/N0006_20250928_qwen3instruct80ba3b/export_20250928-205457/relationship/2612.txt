@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SONGSHI</target_entity>
+    <relationship_description>The noble one has completely eradicated the three poisons (songshi)—greed, hatred, and delusion—which are the sources of suffering and bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

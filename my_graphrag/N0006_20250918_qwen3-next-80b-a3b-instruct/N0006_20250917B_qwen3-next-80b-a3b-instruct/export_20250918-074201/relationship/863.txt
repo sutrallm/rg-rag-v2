@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>YUANYU SHENGMIE</target_entity>
+    <relationship_description>Non-self is directly realized through understanding that all phenomena, including the self, are conditioned and in constant flux.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

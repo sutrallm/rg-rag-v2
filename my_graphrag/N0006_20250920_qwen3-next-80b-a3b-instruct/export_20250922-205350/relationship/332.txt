@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHUO</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe embodies WuZhuo, as the enlightened sage has completely relinquished attachment to spiritual attainments and worldly phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

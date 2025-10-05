@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAN NAO</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Knowing the impermanence of all things undermines the basis of attachment and aversion — the fuel of afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

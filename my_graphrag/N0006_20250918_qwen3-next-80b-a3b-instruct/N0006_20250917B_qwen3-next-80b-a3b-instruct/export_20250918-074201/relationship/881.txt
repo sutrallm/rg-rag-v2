@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Greed for meditative experiences can distort chanding, turning it into a form of spiritual materialism if not balanced with wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

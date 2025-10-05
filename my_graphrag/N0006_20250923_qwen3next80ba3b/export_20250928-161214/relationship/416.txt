@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUIREMENTS</source_entity>
+    <target_entity>PERSONS AND PLACES</target_entity>
+    <relationship_description>The requirements specify that persons and locations should be deleted from the processed text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

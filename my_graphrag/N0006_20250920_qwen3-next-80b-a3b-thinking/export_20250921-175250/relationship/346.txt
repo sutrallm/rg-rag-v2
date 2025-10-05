@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE</source_entity>
+    <target_entity>BIRTH AND DEATH</target_entity>
+    <relationship_description>Spiritual PRACTICE aims to transcend the cyclical process of BIRTH AND DEATH.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

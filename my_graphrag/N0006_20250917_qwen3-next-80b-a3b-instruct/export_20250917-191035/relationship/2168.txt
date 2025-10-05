@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>精进是稳固禅定的前提，若无精进，禅定易被放逸破坏；精进支撑并深化禅定的实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

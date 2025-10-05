@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRAVERSING_SAMSARA</source_entity>
+    <target_entity>GREED_HATRED_DELUSION</target_entity>
+    <relationship_description>The cycle of samsara is perpetuated by the three poisons — craving, hatred, and delusion — which bind beings to rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>SEA OF BIRTH AND DEATH</target_entity>
+    <relationship_description>SAINTS have transcended the SEA OF BIRTH AND DEATH cycle through complete liberation from suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

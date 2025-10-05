@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHARITY</source_entity>
+    <target_entity>SENTIENT_BEINGS</target_entity>
+    <relationship_description>The practice of charity specifically benefits sentient beings through generous giving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

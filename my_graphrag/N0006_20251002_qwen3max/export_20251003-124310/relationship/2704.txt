@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过观照缘起法，了知生死流转与还灭的机制，从而断除无明与执著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

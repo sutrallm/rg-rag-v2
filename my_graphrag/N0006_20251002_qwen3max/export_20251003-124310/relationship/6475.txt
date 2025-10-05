@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>貪瞋癡</target_entity>
+    <relationship_description>聖者已徹底斷除貪瞋癡等根本煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

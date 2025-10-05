@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-Self</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Non-self is a core realization within wisdom, essential for dismantling the illusion of a permanent self and achieving liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

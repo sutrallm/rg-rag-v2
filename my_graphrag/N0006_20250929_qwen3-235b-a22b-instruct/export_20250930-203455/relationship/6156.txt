@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>修行者应常思苦，以正见引导修行，理解世间本质，从而精进断除烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION_AND_WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Only through the balanced development of concentration and wisdom can one attain nirvana; neither alone is sufficient.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

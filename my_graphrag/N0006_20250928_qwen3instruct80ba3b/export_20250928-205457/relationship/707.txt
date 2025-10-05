@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD_TRAINING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Wisdom (panna) in the threefold training culminates in non-attachment, which enables liberation; thus, the training leads to this insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is a means to liberation, as it quiets the mind and creates the conditions for deep insight that leads to freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

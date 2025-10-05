@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>神通是修行可能产生的附属现象，但非修行核心，真正的修行以见地为要。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

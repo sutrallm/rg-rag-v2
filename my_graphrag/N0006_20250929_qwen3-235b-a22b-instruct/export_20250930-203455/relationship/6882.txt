@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>止观修习可净化心念，如浊水静置则清，杂染渐除，清净心与智慧自然显现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

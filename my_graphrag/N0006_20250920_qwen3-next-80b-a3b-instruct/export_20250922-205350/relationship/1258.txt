@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>XIULIANG BUJIA WAIQIU</target_entity>
+    <relationship_description>Fo Tu taught that liberation lies within, not in external practices — the core message of Xiuliang bujia waiqiu.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

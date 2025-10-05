@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHUOFA</source_entity>
+    <target_entity>XIU DAO CIXI</target_entity>
+    <relationship_description>Teaching (shuofa) serves to guide beings along the sequential path (xiu dao cixi) from ethical discipline to insight and liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

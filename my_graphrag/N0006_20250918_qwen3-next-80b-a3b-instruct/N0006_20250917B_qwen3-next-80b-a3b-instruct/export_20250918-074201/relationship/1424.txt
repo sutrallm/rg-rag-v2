@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Delusion nurtures anger by creating false distinctions and illusory judgments about self and other.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

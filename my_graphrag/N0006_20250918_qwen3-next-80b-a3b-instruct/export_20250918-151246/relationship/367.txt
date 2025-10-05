@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Impermanence and non-self are two of the three marks of existence; understanding impermanence supports the realization that no enduring self can exist within transient phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

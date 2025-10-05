@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXTERNAL CIRCUMSTANCES</source_entity>
+    <target_entity>SCATTERING</target_entity>
+    <relationship_description>External circumstances disturb mental focus, causing scattering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

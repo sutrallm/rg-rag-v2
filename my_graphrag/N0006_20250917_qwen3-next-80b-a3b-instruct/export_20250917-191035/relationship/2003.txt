@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅悦</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>禅悦虽然是禅定中的正面体验，但若心生贪爱，便转化为执着，成为修行的陷阱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

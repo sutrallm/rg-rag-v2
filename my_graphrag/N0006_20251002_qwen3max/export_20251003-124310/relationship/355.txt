@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>观照无常</target_entity>
+    <relationship_description>五蕴是观照无常的主要对象，修行者通过观察五蕴的生灭体悟无常。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

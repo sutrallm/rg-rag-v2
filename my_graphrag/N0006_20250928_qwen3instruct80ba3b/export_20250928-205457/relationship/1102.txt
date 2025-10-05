@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHIGUAN SHUANGYUN</target_entity>
+    <relationship_description>Chanding (zhi) is one half of zhiguang shuangyun—the stabilizing element required for deep insight to arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

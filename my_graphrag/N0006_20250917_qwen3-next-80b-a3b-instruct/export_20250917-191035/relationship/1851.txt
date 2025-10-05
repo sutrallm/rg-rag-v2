@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINXI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Xinxi, the internal cultivation of the heart-mind, is the very process through which one becomes a shengzhe.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

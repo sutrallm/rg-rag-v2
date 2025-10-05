@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIANXIA</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xianxia provides the continuous opportunity for jingjin — diligence is not limited to secluded retreats but is applied in daily life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

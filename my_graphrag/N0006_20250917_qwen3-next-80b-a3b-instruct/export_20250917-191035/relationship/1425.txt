@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WULIAN</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Wulian (non-seeking) is not just supportive but essential to Jiede — liberation is defined by complete absence of desire for results.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

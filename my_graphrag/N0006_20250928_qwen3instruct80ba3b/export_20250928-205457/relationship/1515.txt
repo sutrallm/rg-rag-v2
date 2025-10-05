@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DEATH_AND_FEAR</target_entity>
+    <relationship_description>By viewing the body and mind as impermanent, one undermines the basis of fear of death, rendering it powerless.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BAMBOO_RAFT</source_entity>
+    <target_entity>DHARMA_ATTACHMENT</target_entity>
+    <relationship_description>The bamboo raft metaphor illustrates the necessity of abandoning attachment to dharmas once their purpose is served.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

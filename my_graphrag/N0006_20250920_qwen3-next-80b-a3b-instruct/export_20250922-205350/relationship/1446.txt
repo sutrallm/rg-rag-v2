@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHARACTER</source_entity>
+    <target_entity>EXERTION (EFFORTFUL PRACTICE)</target_entity>
+    <relationship_description>The practitioner must sustain continuous effort to avoid懈怠 (laziness) and preserve the gains of meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

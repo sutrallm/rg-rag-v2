@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHARITY</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Charity is practiced without attachment to giver, receiver, or gift.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

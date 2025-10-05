@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定提供內在安定的基礎，使智慧得以生起；真正的智慧必須在禪定中如實觀照才能產生。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

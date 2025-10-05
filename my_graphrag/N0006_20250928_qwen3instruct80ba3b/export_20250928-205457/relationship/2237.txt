@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>True nirvana is attained only when there is complete non-attachment—not even to spiritual attainments—marking the final liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

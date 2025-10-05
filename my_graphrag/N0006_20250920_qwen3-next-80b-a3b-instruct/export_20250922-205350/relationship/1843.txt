@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者 (PRACTITIONER)</source_entity>
+    <target_entity>正念 (MINDFULNESS)</target_entity>
+    <relationship_description>Practitioners apply mindfulness continuously in daily life as part of their spiritual training.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

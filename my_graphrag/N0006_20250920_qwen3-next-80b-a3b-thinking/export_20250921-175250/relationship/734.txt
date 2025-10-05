@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>OPERATION</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The operation cannot be performed without the original text as input.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

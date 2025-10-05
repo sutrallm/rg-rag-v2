@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者是已证得解脱之人，二者是主体与状态的一体关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

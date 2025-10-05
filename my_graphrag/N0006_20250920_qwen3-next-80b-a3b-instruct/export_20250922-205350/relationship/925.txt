@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU CHANG</source_entity>
+    <target_entity>YUANQI FA</target_entity>
+    <relationship_description>Impermanence (wu chang) is a natural consequence of dependent origination (yuanqi fa), since all conditioned things arise and cease due to causes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

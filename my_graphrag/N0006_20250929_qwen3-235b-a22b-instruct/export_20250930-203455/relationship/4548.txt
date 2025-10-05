@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>觉知</target_entity>
+    <relationship_description>正念与觉知在修行中常互为表里，正念是持续觉知当下的心理品质，觉知是其具体实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

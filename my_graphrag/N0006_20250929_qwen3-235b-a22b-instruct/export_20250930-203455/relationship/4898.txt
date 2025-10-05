@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行者需以智慧观照感官对象，不执取、不排斥，方能从中解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

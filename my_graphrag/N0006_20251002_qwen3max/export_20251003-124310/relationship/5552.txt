@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>智慧能洞察实相、断除无明，从而直接止息贪爱与我见等烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

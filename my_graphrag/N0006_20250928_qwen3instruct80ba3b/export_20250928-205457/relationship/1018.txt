@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFILEMENTS</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Defilements arise and can be extinguished only in the present moment through mindfulness and insight, not at some future time or elsewhere.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO WUSUO</target_entity>
+    <relationship_description>Shengzhe embody wuwu wsuo — their entire being reflects the state of non-attachment and non-clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>REINCARNATION</target_entity>
+    <relationship_description>Through persistent effort, one overcomes the forces that bind one to reincarnation, making this relationship central to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

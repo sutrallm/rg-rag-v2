@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自省</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>自省包括检视是否仍执著于“我”与“我所”，是破除我执、净化心灵的关键实践。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

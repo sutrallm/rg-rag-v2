@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG</source_entity>
+    <target_entity>NIETAN</target_entity>
+    <relationship_description>Jiefang and Netan are synonymous in this context: liberation is the state of nirvana, marked by freedom from all afflictions and attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

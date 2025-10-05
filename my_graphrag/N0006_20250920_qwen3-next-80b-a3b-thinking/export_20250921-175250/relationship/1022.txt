@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>QUERY</target_entity>
+    <relationship_description>System processes the query and identifies missing source text content.</relationship_description>
+    <relationship_strength>3</relationship_strength>
+</relationship>

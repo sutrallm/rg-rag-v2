@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>CAUSALITY</target_entity>
+    <relationship_description>Mindfulness involves observing the causal flow of thoughts and sensations; awareness of causality deepens insight and breaks automatic reactions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

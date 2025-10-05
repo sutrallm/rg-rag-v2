@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DETACHMENT</target_entity>
+    <relationship_description>Deep understanding of impermanence leads naturally to detachment, as one realizes nothing is worthy of clinging to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

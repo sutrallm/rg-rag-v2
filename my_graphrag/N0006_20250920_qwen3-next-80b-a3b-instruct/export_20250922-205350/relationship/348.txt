@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>WUGUANZHAO</target_entity>
+    <relationship_description>Wuchang is the primary object of wuguanzhao — its contemplation leads to the insight of non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

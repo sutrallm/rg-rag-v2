@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILYMINDFULNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness supports and reinforces chanding by preventing mental wandering throughout the day.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知力</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>觉知力是禅定中不可或缺的要素，确保心既专注又清明，避免堕入无记或散乱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

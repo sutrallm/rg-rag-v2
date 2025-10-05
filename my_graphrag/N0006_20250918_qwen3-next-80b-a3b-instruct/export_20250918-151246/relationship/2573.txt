@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>贪嗔</target_entity>
+    <relationship_description>禅定的目的之一是远离贪嗔等扰动心性的根本烦恼，二者是禅定修行所对治的对象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

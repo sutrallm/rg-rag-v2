@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREATH OBSERVATION PRACTICE</source_entity>
+    <target_entity>POTTER</target_entity>
+    <relationship_description>The Breath Observation Practice uses the potter as a metaphor for sustained concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

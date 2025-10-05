@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>精进修行要求恒常守护正念，正念的持续需依靠不懈的精进。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

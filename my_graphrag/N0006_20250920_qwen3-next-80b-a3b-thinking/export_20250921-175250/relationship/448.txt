@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>COUNTRY</target_entity>
+    <relationship_description>Countries and territories are impermanent and subject to change over time.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

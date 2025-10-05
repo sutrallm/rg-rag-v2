@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Insight is the direct means to achieve liberation by dismantling the illusion of self and attachment to phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

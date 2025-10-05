@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念放逸</source_entity>
+    <target_entity>他人</target_entity>
+    <relationship_description>Causes harm to others when uncontrolled.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

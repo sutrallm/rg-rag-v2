@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAYING FREE FROM ATTACHMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Non-attachment directly reduces and ultimately eliminates suffering by removing the causes of clinging and craving.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

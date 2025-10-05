@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GOOD DHARMA</source_entity>
+    <target_entity>BODY AND MIND</target_entity>
+    <relationship_description>Buddhist teachings and practices (good dharma) contribute to the purification of body and mind through consistent cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

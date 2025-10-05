@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEDINGHUI</target_entity>
+    <relationship_description>Chanding is the central component (Ding) of the Threefold Training, dependent on precepts (Jie) and leading to wisdom (Hui).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

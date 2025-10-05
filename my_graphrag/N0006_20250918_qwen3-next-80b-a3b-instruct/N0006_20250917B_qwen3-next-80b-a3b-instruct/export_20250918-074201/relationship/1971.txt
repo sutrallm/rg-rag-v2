@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Saintly qualities include the complete elimination of greed, which is one of the root afflictions to be overcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

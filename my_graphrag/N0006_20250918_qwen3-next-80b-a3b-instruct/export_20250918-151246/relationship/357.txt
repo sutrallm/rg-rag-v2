@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者因具足深彻智慧而能断尽烦恼，这是其被称为“圣者”的根本特质。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

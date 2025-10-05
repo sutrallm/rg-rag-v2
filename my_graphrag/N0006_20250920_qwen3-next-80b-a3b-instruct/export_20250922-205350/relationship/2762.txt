@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZIXINGBENJING</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Niepan is not something attained externally — it is the full recognition of Zixingbenjing, the mind's innate purity, when delusions are removed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

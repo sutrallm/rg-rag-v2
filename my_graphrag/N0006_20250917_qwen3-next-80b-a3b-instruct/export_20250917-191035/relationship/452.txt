@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JIE Tuo</target_entity>
+    <relationship_description>Sheng Zhe embodies the state of Jie Tuo—they are liberated beings, no longer bound by suffering, rebirth, or mental afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>德行</source_entity>
+    <target_entity>名闻</target_entity>
+    <relationship_description>真正修行者即使不求名闻，其德行自然流露也会感得敬重。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

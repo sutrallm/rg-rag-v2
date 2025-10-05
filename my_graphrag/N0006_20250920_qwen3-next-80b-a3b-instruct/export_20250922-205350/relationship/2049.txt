@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT_VIEW</source_entity>
+    <target_entity>RIGHT_ACTION</target_entity>
+    <relationship_description>Right view and right action must be unified; one without the other is ineffective, as correct understanding must manifest in correct behavior for real progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

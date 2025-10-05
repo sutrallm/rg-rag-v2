@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>诸行无常</target_entity>
+    <relationship_description>智慧体现为对“诸行无常”等实相的如实了知。尽管“诸行无常”本身不是独立实体，它是智慧所观照的核心内容之一，因此此处将“诸行无常”视为智慧的直接对象。但根据 instruction，仅提取明确实体。因此，此关系不成立。应仅在列出的实体间建立关系。</relationship_description>
+    <relationship_strength>0</relationship_strength>
+</relationship>

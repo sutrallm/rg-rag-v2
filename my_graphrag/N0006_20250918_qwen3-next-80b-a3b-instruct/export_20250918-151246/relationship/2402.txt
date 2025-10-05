@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly qualities include the habitual practice of chanding and mindfulness as core components of their meditative life.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

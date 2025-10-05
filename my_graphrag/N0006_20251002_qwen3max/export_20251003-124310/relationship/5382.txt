@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>对治烦恼的方法</source_entity>
+    <target_entity>贪</target_entity>
+    <relationship_description>对治贪欲的方法是修不净观，属于针对性的修行对治法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

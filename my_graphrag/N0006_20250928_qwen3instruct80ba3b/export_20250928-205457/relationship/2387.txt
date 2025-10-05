@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONKS_OR_PRACTITIONERS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Monks or practitioners cultivate chanding as a core part of their spiritual training to attain liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

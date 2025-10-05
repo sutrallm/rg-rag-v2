@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Saintly beings have completely eradicated the Three Poisons through disciplined practice and insight, making these qualities the defining outcome of spiritual perfection.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

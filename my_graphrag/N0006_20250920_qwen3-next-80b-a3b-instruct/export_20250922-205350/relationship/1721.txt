@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>SAMSA</target_entity>
+    <relationship_description>Defilements (fannao) fuel the cycle of samsara; their cessation leads to liberation from rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

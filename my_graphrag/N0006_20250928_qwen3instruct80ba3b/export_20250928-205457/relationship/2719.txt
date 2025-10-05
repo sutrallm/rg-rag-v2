@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Wu Wo Guan is the practice of observing Wu Yun—the five aggregates—as impermanent and not-self, leading to the dissolution of ego.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

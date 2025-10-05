@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A shengzhe (holy one) embodies perfect chanding, as they abide stably in stillness and are free from mental distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

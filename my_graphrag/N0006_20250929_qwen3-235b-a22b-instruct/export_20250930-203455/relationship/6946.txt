@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>对治法门</target_entity>
+    <relationship_description>对治法门是专门针对贪、嗔、痴等烦恼设计的修习方法，能渐次降伏烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

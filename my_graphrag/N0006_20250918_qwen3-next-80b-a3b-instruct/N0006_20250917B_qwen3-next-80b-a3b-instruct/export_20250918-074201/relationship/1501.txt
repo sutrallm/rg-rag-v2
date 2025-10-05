@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU CHANG</source_entity>
+    <target_entity>CHEN</target_entity>
+    <relationship_description>Wu chang reduces chen by showing that unpleasant states are equally temporary, removing the need to resist them violently.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

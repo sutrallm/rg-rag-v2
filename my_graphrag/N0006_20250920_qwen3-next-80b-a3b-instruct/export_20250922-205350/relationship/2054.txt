@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_CONDUCT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Ethical conduct provides the stable mental environment required for chanding to develop; without moral discipline, concentration easily collapses.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

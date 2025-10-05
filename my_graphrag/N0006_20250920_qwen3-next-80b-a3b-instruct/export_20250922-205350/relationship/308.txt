@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我空性</source_entity>
+    <target_entity>法執</target_entity>
+    <relationship_description>無我空性能破除對「法」與「果」的執著，即法執。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>AWARENESS</target_entity>
+    <relationship_description>Daily practice is the context and vehicle for maintaining continuous awareness; they are inseparable in actual cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

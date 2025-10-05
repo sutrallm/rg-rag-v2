@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT_ORIGIN</source_entity>
+    <target_entity>SAṂSĀRA</target_entity>
+    <relationship_description>Dependent origination explains the mechanism of samsara—how ignorance leads to suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

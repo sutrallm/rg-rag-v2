@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOOB</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A stoob is one who has fully realized liberation — free from all suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

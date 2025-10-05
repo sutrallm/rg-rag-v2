@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力与因果</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>业力与因果法则要求修行者谨言慎行、守护身口意，以远离恶果、导向善果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

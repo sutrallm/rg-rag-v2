@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUZHU XIN</target_entity>
+    <relationship_description>The noble one abides in wuzhu xin—the mind without attachment—which is the natural expression of complete awakening and freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

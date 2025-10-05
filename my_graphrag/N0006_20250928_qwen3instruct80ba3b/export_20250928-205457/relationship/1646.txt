@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVERYDAY-AWARENESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Continual mindfulness in daily life creates conditions for uninterrupted insight, leading to liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

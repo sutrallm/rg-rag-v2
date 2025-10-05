@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVAS</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>Devas hold sages in high regard due to their spiritual attainment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

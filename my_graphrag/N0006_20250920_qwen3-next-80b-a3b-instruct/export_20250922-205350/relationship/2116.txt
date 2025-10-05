@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A saintly being continuously abides in chanding, having perfected meditative stability and inner stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

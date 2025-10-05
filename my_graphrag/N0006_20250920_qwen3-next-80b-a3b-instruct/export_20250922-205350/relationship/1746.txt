@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>禅病</target_entity>
+    <relationship_description>禅定若被错误理解或执著，便会堕入禅病；禅病是禅定实践中的误区。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

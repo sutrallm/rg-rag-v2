@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>A saintly being embodies Nirvana—living in complete freedom, without attachment, aversion, or delusion, and thus residing in the unconditioned state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

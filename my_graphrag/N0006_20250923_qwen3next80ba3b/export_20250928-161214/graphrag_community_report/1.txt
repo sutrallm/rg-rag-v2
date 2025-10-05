@@ -1,0 +1,30 @@
+Processing Requirements and Missing Input  
+
+The current request lacks necessary input material, preventing processing. Essential actions include removing geographic details, person references, concluding verses, dialogues, and poetic elements while preserving doctrinal content and ensuring clear section headings.  
+
+Input Content Absence  
+Processing cannot proceed without required input material.  
+
+Supplementation Requirement  
+Additional content must be provided to initiate processing tasks.  
+
+Geographic Data Exclusion  
+All location references must be omitted.  
+
+Person References Removal  
+Any mentions of individuals must be deleted.  
+
+Final Verse Elimination  
+Concluding poetic sections must be removed.  
+
+Dialogue Exchanges Removal  
+Conversational parts should be deleted.  
+
+Metaphor to Dharma Conversion  
+Symbolic language requires transformation into explicit teachings.  
+
+Doctrinal Retention  
+Religious or philosophical teachings must be preserved.  
+
+Section Title Clarity  
+Headings require proper organization for readability.

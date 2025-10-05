@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>劫夺</target_entity>
+    <relationship_description>放逸直接导致劫夺等损失性事件的后果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

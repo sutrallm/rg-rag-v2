@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUIREMENTS</source_entity>
+    <target_entity>PEOPLE</target_entity>
+    <relationship_description>The requirements specify removing all people from the text processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

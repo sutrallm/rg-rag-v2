@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI</source_entity>
+    <target_entity>WUYI</target_entity>
+    <relationship_description>Yuanqi explains the process of samsara, and Wuyi is the realization that breaks this process—discerning no-self within the chain of dependent arising.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

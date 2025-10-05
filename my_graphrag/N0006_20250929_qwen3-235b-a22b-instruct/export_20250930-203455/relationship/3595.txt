@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>觉知是禅定实践中的关键方法，通过四念处的持续观察，使心自然安定，不追逐外境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

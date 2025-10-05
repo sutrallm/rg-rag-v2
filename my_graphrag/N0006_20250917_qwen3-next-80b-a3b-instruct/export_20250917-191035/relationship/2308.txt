@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE TEACHING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The true teaching is followed through wisdom — not through blind faith — emphasizing insight over dogma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

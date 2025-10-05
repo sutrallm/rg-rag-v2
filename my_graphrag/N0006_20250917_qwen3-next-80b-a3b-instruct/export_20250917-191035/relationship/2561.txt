@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANYING</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion is required to stabilize and sustain chanying (meditative concentration), as without persistent effort, the mind falls into sloth or distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

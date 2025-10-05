@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHIZHI</target_entity>
+    <relationship_description>Jingjin enables the sustained practice that allows Zhizhi to arise; without effort, wisdom cannot mature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

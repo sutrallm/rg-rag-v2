@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SILING</source_entity>
+    <target_entity>JIEXIANG</target_entity>
+    <relationship_description>Siling is framed not as an end but as a transition point. Those who understand death as part of dependent origination are already progressing toward jiexiang.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

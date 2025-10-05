@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ABIDING_MIND</source_entity>
+    <target_entity>AVOIDANCE_OF_DARKNESS</target_entity>
+    <relationship_description>Non-abiding mind neither rejects nor clings to negative states like darkness, embodying equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

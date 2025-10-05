@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCATTERED MIND</source_entity>
+    <target_entity>BOILING WATER</target_entity>
+    <relationship_description>SCATTERED MIND is symbolized by BOILING WATER in the text as unable to reflect clearly.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

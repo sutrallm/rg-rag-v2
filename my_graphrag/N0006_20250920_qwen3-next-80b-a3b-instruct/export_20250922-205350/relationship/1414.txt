@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Liberation is the complete cessation of the rebirth cycle by eliminating its root causes: ignorance and craving.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

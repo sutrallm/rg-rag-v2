@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官攀缘</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>感官攀缘障碍禅定成就；唯有远离对六尘的贪着，收摄六根，才能步入禅定与解脱之道。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

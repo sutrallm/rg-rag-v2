@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸法实相</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>诸法实相是智慧所要如实了知的对象，包括无常、无我、缘起性空等真理。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

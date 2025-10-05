@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF_OBSERVATION</source_entity>
+    <target_entity>FIVE_SKANDHAS</target_entity>
+    <relationship_description>Non-self observation is practiced by examining the five skandhas as impersonal, transient aggregates, revealing the illusion of a permanent self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

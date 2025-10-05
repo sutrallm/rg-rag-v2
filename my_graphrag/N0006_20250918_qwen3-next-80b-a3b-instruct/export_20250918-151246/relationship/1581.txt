@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>慈悲是修行的重要维度，使修行不落于自利，而具足利他的圆满性。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

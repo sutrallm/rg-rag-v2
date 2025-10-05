@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定與智慧必須雙運：單有禪定僅能暫伏煩惱，單有智慧則如風中之燭；唯有二者均衡發展，才能徹見實相、斷盡煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

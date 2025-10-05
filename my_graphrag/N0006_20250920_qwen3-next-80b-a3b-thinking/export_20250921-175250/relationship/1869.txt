@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SENSE_BASES</target_entity>
+    <relationship_description>Practitioners release attachment to the six sensory bases to avoid distractions and cultivate mindfulness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

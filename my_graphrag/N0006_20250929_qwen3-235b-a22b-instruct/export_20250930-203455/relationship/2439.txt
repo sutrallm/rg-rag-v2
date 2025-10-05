@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>嗔恚是遮蔽心识的尘垢之一，需通过修习戒定慧逐步净化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

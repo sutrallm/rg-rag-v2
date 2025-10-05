@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>溫和的力量</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>溫和的力量是對治煩惱的正確態度，不對抗、不壓抑，讓煩惱自然消散。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

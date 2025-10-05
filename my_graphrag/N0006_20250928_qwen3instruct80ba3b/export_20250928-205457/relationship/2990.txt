@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDAO</source_entity>
+    <target_entity>MEDITATIVE_CONCENTRATION</target_entity>
+    <relationship_description>Jiedao (the path of practice) includes Meditative Concentration as the central tool to calm and focus the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

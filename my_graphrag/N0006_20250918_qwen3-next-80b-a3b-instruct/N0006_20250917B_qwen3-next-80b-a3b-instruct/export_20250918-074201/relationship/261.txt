@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>體悟「無我」能超越對自我的執著，從而解脫「苦」。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

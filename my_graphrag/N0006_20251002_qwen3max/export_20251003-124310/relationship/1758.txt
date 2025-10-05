@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>禅定通过心念专注对治散乱，使心安住一境，远离攀缘与扰动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

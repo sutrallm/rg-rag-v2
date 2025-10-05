@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INDUSTRY</target_entity>
+    <relationship_description>Chanding cannot be sustained without consistent industry; diligence is necessary to maintain practice and prevent slackness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

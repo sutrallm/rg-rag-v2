@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wisdom (zhihui) is the means through which the realization of no-self (wuwo) is fully understood and embodied.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

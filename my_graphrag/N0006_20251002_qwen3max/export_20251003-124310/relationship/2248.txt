@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>苦谛</target_entity>
+    <relationship_description>苦谛是四圣谛的第一谛，指苦的存在，是四圣谛的基础认知。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

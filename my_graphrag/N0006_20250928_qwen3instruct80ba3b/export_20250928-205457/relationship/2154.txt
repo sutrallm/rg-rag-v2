@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZAIZHIGRASPING</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>To attain Nirvana, one must transcend all clinging, including attachment to meditative experiences — which is the essence of Zaizhigrasping.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

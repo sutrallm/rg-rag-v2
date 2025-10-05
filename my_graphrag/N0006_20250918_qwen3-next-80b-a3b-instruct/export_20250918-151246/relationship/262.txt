@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom — the clear insight into impermanence, non-self, and suffering — is the direct cause of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

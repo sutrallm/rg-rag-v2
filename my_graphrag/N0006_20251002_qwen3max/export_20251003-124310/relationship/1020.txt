@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六尘</source_entity>
+    <target_entity>执取</target_entity>
+    <relationship_description>若对六尘（色声香味触法）不如实观照其无常性，易生贪著与执取。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

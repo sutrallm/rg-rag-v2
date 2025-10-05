@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>覺照</target_entity>
+    <relationship_description>正念的實踐即是一種覺照——純粹、不評斷地觀察當下念頭與感受，二者是同一修行過程的體與用。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

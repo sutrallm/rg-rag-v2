@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>法的最終目的即是引導眾生達成解脫，為修行之歸宿。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

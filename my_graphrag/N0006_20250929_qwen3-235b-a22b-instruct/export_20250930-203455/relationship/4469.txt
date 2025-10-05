@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>智慧能洞察无常与缘起性空，从而破除对任何境界的执着，即使追求成果也不被其束缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

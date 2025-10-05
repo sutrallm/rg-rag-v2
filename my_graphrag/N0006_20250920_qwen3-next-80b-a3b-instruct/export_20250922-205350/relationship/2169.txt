@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>真正的禪定不僅是心安住，更需以無執著的智慧觀照，不貪戀禪中境界，否則易陷於法執。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

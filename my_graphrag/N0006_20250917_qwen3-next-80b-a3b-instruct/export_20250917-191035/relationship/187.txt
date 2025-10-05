@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WANDERING_THOUGHTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wandering thoughts are the primary obstacle to chanding; continuous mindfulness is needed to overcome them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>修习四念处能逐步断除烦恼，最终证得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

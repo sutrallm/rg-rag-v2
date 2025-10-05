@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>XIULIAN</target_entity>
+    <relationship_description>Xiulian, through mindfulness and insight, purifies HATRED by revealing its basis in misperception and impermanence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

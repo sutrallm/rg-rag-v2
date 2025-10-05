@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>苦是五蘊的基本特性之一，修行者如實觀照五蘊是苦，從而斷除對身心的執取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

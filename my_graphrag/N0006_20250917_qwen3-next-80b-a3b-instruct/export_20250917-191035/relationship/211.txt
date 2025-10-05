@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>智慧的核心洞察是無我，認識到「我」的虛幻，從而解脫自我執著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

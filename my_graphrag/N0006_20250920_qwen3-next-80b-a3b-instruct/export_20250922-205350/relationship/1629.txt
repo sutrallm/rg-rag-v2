@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>WUZHIZHE</target_entity>
+    <relationship_description>Jiedinghui’s wisdom component (hui) is the cultivation of Wuzhizhe — the insight that destroys clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

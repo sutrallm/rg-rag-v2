@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NUMBERED TITLES</source_entity>
+    <target_entity>CLEAR TOPICS IN PARAGRAPHS</target_entity>
+    <relationship_description>Numbered titles provide structure to ensure each paragraph's theme is distinct and clearly defined for doctrinal clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

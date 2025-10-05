@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>自在無礙</target_entity>
+    <relationship_description>解脫者因不為世間八法所動，故能自在無礙，不貪不厭。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN XING</source_entity>
+    <target_entity>DA DI</target_entity>
+    <relationship_description>心性如大地般稳固无倾覆，提供修行中安定的基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

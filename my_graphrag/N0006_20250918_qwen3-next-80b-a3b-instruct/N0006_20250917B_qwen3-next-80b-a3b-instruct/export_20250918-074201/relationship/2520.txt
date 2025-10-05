@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>具足戒行是聖者的基本特質，為修行者邁向解脫的行為根基。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

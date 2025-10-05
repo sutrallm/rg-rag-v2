@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>一心</source_entity>
+    <target_entity>初禅</target_entity>
+    <relationship_description>一心是初禅五支之一，指心持续安住于所缘境的专注状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

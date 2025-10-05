@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Chanding, as a stabilizing practice, supports the development of wisdom, which ultimately leads to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

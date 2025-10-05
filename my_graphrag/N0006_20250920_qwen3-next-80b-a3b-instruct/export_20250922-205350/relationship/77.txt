@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SPIRITUAL Liberation</target_entity>
+    <relationship_description>Chanding is the mental discipline that, when supported by wisdom and exertion, leads to spiritual liberation by calming the mind and enabling insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

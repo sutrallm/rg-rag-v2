@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>涅槃寂灭</target_entity>
+    <relationship_description>智慧如实了知涅槃寂灭这一实相，使修行者不贪求果位，内心不被修行成果所牵绊。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

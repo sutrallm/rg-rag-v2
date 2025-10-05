@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>智慧使人超越執著，不被感受與境界所牽引。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

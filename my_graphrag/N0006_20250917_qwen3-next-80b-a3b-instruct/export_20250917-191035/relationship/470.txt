@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhihui encompasses the direct perception of Wuwo — realizing there is no fixed self in any experience — which breaks the root of clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

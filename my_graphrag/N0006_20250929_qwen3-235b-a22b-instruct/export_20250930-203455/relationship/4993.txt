@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>戒定慧是实现解脱的三大支柱：戒为定之基，定为慧之本，慧为解脱之钥。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

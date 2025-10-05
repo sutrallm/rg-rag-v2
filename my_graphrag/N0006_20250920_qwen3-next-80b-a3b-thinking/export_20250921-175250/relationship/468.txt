@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>DOUBT</target_entity>
+    <relationship_description>Compassion dispels doubt by fostering wisdom and confidence in the path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

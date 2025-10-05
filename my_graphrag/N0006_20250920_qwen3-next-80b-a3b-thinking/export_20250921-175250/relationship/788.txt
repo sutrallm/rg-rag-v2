@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMS</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>One must detach from material forms to achieve freedom from suffering, as emphasized in the text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

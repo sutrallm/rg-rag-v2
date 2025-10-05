@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>Chanding helps practitioners overcome the three poisons—greed, hatred, and delusion—by cultivating mental stillness and clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

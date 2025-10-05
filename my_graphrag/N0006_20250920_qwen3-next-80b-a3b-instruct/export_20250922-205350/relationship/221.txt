@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUO ZHUZHUO</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Transcending attachment depends on the insight of no-self; recognizing that all experiences are impermanent and selfless allows one to relinquish clinging to any state or outcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

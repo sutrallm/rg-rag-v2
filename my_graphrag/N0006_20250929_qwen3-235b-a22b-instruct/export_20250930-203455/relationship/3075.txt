@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修成果</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>真正的禅修成果不在于神通的显现，神通不是成就的验证标准。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

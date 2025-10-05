@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>圣者因德行与智慧圆满，恒住于无我之中，不为赞誉所动。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者以洞察智慧断尽烦恼，了知诸法无常无我，是其超越凡俗的关键特质。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

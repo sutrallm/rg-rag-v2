@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>KU</target_entity>
+    <relationship_description>Zhengnian (mindfulness) enables the practitioner to observe the arising of suffering (Ku) without reaction, thereby allowing it to dissolve naturally.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

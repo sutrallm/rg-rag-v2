@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离执着</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>Letting go of attachment includes overcoming craving and clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

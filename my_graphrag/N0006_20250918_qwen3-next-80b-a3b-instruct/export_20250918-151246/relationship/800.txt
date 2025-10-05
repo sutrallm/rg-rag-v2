@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Zhishi (wisdom) arises from observing reality and leads directly to transcending attachment by seeing the impermanent, non-self nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

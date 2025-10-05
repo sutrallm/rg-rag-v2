@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Samsara is perpetuated by ignorance—the misunderstanding of reality—which keeps beings trapped in cycles of craving and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

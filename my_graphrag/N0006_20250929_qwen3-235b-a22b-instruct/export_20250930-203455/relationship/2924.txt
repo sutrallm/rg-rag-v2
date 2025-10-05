@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需实践中道，避免过紧或过松，如调琴弦，保持平衡以成就修行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>解脱需如实了知无常，通过观照无常破除执着，是解脱的核心认知之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

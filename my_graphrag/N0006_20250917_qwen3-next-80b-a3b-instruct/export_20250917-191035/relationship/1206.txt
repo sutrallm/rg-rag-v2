@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>SHENGJIE</target_entity>
+    <relationship_description>Shenge is the person who has fully achieved Shengjie — they embody liberation through the complete extinguishing of the three poisons.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>LIBERATION removes SUFFERING by ending the cycle of rebirth and afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

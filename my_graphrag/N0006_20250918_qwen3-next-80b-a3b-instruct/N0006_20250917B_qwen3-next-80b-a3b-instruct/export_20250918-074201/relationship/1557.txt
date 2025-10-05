@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOGUO ZHIZHUO DE ZHIHUI</target_entity>
+    <relationship_description>Chanding provides the mental stability needed to develop wisdom that transcends attachment to meditative states themselves, making sure concentration does not become clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

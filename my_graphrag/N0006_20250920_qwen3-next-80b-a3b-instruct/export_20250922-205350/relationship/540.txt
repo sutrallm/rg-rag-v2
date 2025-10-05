@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRES</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Desires bind beings to suffering through attachment and aversion to impermanent conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

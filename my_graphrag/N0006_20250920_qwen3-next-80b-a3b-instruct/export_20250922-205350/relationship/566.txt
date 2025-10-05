@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>The Shengzhe embodies Jiefu — they are already liberated, having transcended all clinging, desire, and fear.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脫是達到涅槃的過程，涅槃是解脫的最終體現，二者本質相通，為修行之終極目標。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

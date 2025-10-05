@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF VIEW</source_entity>
+    <target_entity>WISDOM TO DISPEL IGNORANCE</target_entity>
+    <relationship_description>Non-self view is the core insight that constitutes wisdom dispelling ignorance; they are cause and effect in the path of awakening.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

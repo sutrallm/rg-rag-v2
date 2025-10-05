@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI YU CIBEI</source_entity>
+    <target_entity>WUZHIZHUO</target_entity>
+    <relationship_description>Zhihui (wisdom) enables Wuzhizhuo, while Cibei (compassion) ensures wisdom is not cold or detached but directed toward benefiting all beings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

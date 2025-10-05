@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chanding leads to insight into the nature of phenomena, which naturally dissolves clinging; non-attachment is both a result of and requirement for deep chanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

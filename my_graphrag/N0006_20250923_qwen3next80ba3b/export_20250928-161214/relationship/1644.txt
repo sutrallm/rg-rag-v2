@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>STATE</target_entity>
+    <relationship_description>SAINTLY BEINGS transcend attachment to STATE by recognizing its impermanent and illusory nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

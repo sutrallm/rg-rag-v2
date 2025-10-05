@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>修行態度</target_entity>
+    <relationship_description>真正的修行態度強調不求果、不造作，與涅槃「心息而不存跡」的本質完全相應。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

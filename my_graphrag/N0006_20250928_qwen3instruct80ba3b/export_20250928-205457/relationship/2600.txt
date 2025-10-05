@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>嗔</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>嗔是結縛之一，聖者已斷盡，為解脫的必要條件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

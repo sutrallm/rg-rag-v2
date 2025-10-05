@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUSPENSION_OF_CLINGING</source_entity>
+    <target_entity>LIBERATION_OF_MIND</target_entity>
+    <relationship_description>True liberation of mind is fully realized only when all forms of clinging are released, including attachment to spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

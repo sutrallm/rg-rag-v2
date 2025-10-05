@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIAO TIAN WU CHANG</source_entity>
+    <target_entity>WU WO ZHI ZHI</target_entity>
+    <relationship_description>Understanding the impermanence of thoughts leads to the deeper realization of no-self, as neither thoughts nor the “I” that owns them are stable.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

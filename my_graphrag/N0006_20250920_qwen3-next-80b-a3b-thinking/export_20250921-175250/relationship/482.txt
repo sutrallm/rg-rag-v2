@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR ELEMENTS</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>The four elements ultimately return to emptiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

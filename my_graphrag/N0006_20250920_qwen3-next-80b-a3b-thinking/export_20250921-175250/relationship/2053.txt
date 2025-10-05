@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DENG ZHAN</source_entity>
+    <target_entity>GUANG MING</target_entity>
+    <relationship_description>灯盏提供光明，稳持则光明不灭，手颤则灯光熄灭。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

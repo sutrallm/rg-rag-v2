@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT_TO_STATES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Attachment to meditative states, even pleasant ones, obstructs full liberation because it reinforces the sense of a self that is achieving or possessing enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOWUZHUO</target_entity>
+    <relationship_description>Chanding, when combined with transcending attachment, becomes a vehicle for true insight — not clinging to meditative states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

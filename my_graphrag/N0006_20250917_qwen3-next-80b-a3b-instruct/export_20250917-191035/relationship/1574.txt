@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGGERS</source_entity>
+    <target_entity>CHEN</target_entity>
+    <relationship_description>Shenggers are defined by the complete eradication of chen (hatred), signifying a liberated state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>戒律是解脫的根基，無戒則心散亂，無從修定與發慧，解脫無從談起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

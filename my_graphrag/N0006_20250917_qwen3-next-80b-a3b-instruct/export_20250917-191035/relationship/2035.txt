@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>精进修行是获得与巩固禅定力量的前提与途径，二者是修行过程中因果与支撑关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

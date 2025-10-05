@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>禅修的终极目标是解脱，即断除烦恼、证得涅槃，实现究竟离苦得乐。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

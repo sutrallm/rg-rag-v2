@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>PURIFIED MIND</target_entity>
+    <relationship_description>Stable meditation leads to a purified and undefiled mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

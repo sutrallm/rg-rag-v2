@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEAVENLY BLISS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Though heavenly bliss is superior to ordinary pleasure, it is still transient and inferior to the unshakable inner radiance of true liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

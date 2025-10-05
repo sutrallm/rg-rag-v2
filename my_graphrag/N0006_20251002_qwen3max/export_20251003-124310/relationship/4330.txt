@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀照無常</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>觀照無常能斷除對一切現象（包括善法）的執著，使人不再執取任何境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

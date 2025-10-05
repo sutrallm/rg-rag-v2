@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>佛陀教导四圣谛，作为正见的核心内容，指导修行者认识苦、集、灭、道。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

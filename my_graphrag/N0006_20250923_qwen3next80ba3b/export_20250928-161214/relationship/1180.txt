@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Concentration helps overcome the three poisons.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

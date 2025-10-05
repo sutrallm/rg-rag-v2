@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>智慧能看破生死轮回的本质，从而使人超越轮回，是解脱轮回的根本力量。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

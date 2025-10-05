@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>禅定能令修行者远离烦恼的干扰，为断除烦恼奠定基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

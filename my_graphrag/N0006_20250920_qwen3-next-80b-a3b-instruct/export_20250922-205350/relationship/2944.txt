@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENTONG GANYING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shentong ganying (supernatural powers) are distractions that may arise during Chanding; true practitioners are instructed to ignore them to avoid deviation from the path.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

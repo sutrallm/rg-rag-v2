@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO SELF</source_entity>
+    <target_entity>EGO ATTACHMENT</target_entity>
+    <relationship_description>Understanding no-self displaces clinging to ego attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

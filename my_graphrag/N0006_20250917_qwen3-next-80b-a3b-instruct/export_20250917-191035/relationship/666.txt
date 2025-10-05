@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念是禪定的要件之一，透過覺知當下身心變化，使心穩定清明，具體實踐禪定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

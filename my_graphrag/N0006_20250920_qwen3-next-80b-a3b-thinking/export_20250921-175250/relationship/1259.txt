@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIANG ZHUANG</source_entity>
+    <target_entity>KONG XING</target_entity>
+    <relationship_description>Apparent forms (Xiang Zhuang) are empty of inherent existence (Kong Xing), requiring non-clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

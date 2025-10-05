@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>生死</target_entity>
+    <relationship_description>無明是驅動生死輪迴的根本原因，唯有破除無明，方可超越生死。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

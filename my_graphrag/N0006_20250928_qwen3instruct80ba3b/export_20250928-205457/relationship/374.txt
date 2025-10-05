@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Wuwo guan (contemplation of non-self) is the method through which one achieves Chao-yue Zhi-zhuo (transcending attachment), as it dismantles the illusion of self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

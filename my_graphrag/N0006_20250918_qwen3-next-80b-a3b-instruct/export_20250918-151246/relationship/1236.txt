@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Enlightened beings maintain the disciplined effort (jingjin) necessary to sustain their liberation and purity of mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

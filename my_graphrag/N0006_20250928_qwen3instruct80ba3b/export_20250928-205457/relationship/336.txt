@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>日常实践</target_entity>
+    <relationship_description>解脱可在日常实践中当下体验，不需脱离尘世，强调修行的即刻性与生活性。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

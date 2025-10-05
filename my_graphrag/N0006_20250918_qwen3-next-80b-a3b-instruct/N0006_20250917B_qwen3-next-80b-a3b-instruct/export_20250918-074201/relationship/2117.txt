@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SAINTLY BEING</target_entity>
+    <relationship_description>Saintly beings possess profound wisdom that allows them to transcend emotions and external influences, realizing inner stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

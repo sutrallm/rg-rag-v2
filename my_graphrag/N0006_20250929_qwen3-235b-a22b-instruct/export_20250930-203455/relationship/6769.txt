@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>业力</target_entity>
+    <relationship_description>修行者需理解业力法则，谨慎造作善业，以善业为资粮，远离恶行。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律 (ETHICAL CONDUCT)</source_entity>
+    <target_entity>智慧 (WISDOM)</target_entity>
+    <relationship_description>Without ethical conduct, wisdom lacks a stable foundation and may become distorted or ineffective.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

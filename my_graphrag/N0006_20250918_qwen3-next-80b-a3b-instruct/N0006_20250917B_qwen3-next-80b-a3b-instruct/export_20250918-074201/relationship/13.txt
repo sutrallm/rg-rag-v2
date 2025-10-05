@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>QING JING JIE XING</target_entity>
+    <relationship_description>Sages are defined by their embodiment of pure moral conduct (Qing Jing Jie Xing), which is foundational to their liberated state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

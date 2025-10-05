@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>諸天</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>諸天雖具福報，但未證解脫，其境界不及已解脫的聖者，故敬仰之。</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪愛</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需透過智慧看清並斷除貪愛，因其是導致痛苦與輪迴的根本障礙。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

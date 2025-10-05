@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EQUAL_MIND</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Equal mind is a cultivated expression of advanced mindfulness, where awareness is applied equally to all experiences without reactivity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

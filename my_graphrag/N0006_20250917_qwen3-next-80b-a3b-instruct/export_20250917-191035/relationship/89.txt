@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>正念是精进实践中的觉知机制，持续的正念推动修行者不懈地坚持正法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

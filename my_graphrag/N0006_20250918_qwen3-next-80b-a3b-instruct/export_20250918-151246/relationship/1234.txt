@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO DE ZHISHI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcending attachment arises from realizing non-self — that no permanent "I" owns or controls experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

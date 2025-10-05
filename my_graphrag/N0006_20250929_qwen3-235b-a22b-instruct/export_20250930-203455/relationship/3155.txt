@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>无我是空性的具体体现之一，体证“我”为五蕴假合，即是体证空性，二者本质相通。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

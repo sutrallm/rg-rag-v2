@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jien is the operational method of Chanding; continuous mindfulness is how meditative concentration is maintained moment by moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

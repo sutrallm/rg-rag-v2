@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無住的修行態度</source_entity>
+    <target_entity>牢獄</target_entity>
+    <relationship_description>若非無住，執著外相便使心成為牢獄，因此無住是破除牢獄的關鍵。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

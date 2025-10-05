@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行者若能安住于正念，便能摆脱放逸与烦恼的纠缠，内心自然趋于平静安稳。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

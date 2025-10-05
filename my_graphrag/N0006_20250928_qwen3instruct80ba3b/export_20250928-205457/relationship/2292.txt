@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Awareness is the active, moment-to-moment expression of mindfulness, forming the basis of spiritual vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

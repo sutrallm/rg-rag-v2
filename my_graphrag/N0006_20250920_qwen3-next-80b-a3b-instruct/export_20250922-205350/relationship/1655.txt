@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion is required to maintain mindfulness continuously; one must actively guard against lapses in awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

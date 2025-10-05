@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>持戒</target_entity>
+    <relationship_description>修行次第始于持戒，是修定与发慧的基础，不可颠倒或躐等。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

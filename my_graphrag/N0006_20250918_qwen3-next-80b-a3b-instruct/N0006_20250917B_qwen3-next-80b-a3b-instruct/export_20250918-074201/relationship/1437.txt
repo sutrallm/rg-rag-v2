@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>精进修行的核心之一是防止贪欲生起，通过警觉与自律克制身心放纵。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

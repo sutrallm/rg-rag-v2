@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>渴爱</target_entity>
+    <relationship_description>渴爱是苦的直接根源，苦的存在依赖于渴爱的持续运作，二者具有因果与本质关联。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

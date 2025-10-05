@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>舍离是通向涅槃的路径与表现，彻见诸法本空、不取不舍即为涅槃之境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

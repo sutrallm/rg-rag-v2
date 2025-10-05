@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENMENT</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>True enlightenment requires the complete abandonment of even the attachment to enlightenment itself — a profound form of non-attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

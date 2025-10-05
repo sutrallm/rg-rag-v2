@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE NATURE OF PHENOMENA</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>SUFFERING manifests in the TRUE NATURE OF PHENOMENA as part of conditioned existence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

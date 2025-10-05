@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>牧牛者</source_entity>
+    <target_entity>调伏</target_entity>
+    <relationship_description>牧牛者比喻修行者需时刻警觉并调伏心念，防止放逸。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

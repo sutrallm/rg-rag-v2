@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>持续正念觉察是生起智慧的基础，通过对念头与情绪的如实观照，逐步洞见无常与无我。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧的作用正是为了洞察并断除各种形式的执着，二者构成破与立的修行核心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

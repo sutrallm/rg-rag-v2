@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHI HUI</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Wisdom reveals the illusion of self (no-self), leading to liberation from ego-based attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

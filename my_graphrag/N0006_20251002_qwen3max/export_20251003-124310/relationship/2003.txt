@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>禪定是達成心解脫的必要條件之一，但需與智慧結合。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

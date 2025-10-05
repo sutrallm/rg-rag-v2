@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>WUWO DUCHA</target_entity>
+    <relationship_description>Wisdom manifests as the insight into non-self — they are essentially the same concept in practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

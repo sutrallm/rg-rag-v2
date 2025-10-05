@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EFFORT</target_entity>
+    <relationship_description>Effort is necessary to establish and sustain chanding; without continuous diligence, chanding cannot be stabilized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

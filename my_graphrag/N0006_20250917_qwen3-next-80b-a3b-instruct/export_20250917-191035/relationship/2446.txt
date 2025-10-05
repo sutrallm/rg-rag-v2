@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT WISDOM</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Transcendent wisdom dissolves hatred by removing the illusion of inherent hostility and the false reification of enemies or aversive objects.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>月光</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>月光所象征的稳定觉性，正是禅定所要培养的心境——不为外境所动，如月照水，澄澈不动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

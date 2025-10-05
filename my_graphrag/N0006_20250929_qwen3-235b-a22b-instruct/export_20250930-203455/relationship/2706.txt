@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脱的最终状态即是涅槃，常住寂静、无挂碍、无恐惧，是修行圆满的体现。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

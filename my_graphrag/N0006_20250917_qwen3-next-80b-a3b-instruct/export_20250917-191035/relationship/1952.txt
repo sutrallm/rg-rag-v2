@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YUN</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>The five aggregates are the components that are mistakenly identified as “self”; realizing their conditional nature leads to the insight of no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

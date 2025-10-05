@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONK/SAGE</source_entity>
+    <target_entity>STOIC TRANQUILITY</target_entity>
+    <relationship_description>Monks or sages embody stoic tranquility as a result of their realized wisdom and moral purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

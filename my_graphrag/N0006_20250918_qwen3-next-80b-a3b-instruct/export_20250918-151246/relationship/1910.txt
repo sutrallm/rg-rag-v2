@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>The saintly mind is defined by its absence of self-attachment—no-self is the realization that makes saintliness possible.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

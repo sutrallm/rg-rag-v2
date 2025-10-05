@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>HRUHUÀN</target_entity>
+    <relationship_description>Wuwo (non-self) and hruhuàn (all is illusory) are two facets of the same insight: phenomena lack inherent existence both in terms of self and as enduring entities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

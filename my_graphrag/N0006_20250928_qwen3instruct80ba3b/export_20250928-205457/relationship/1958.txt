@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我執</source_entity>
+    <target_entity>貪、嗔、癡</target_entity>
+    <relationship_description>我執是貪、嗔、癡三毒的根本來源，斷除我執即能斷除三毒。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

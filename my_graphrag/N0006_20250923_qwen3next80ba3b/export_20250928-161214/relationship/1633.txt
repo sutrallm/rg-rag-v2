@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>DEATH DEMON KING</target_entity>
+    <relationship_description>PRACTITIONERS risk being controlled by DEATH DEMON KING if they lack diligence in their practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

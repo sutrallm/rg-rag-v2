@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>ZHENGXING</target_entity>
+    <relationship_description>Jie represents the essential moral component of zhengxing. They are essentially synonymous in this context — ethical behavior is the practice of jie.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

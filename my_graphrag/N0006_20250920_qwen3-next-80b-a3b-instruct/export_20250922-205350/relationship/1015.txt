@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>业力</target_entity>
+    <relationship_description>Through 正念, one becomes aware of thoughts and actions as they arise, preventing unwholesome karma and purifying past 业力 in daily life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

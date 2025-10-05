@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>ANGER is one of the three poisons that cause suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

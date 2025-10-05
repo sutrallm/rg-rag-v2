@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>天界眾生</target_entity>
+    <relationship_description>天界眾生對聖者的德行與解脫境界生起敬仰，顯示二者存在精神層面的仰望關係。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

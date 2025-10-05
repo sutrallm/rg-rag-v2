@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRODUCING_INSIGHT</source_entity>
+    <target_entity>TRANSCENDENCE_OF_SAMSARA</target_entity>
+    <relationship_description>Direct insight into the Three Marks leads to liberation, making it the key pathway out of samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

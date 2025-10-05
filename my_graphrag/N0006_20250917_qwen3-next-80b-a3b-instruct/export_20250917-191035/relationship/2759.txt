@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SWISHENG</source_entity>
+    <target_entity>JIE TUA</target_entity>
+    <relationship_description>Swisheng (persistent effort) is the necessary vigilance and energy required to progress on the path leading to Jie Tua (liberation).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

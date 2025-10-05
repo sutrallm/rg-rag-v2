@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WAREHOUSING OF MIND</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Continuous mindfulness and observation of mental states (warehousing of mind) cultivates insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

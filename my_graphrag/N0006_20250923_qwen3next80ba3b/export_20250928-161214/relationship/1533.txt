@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MIND LIBERATION</target_entity>
+    <relationship_description>PRACTITIONERS attain MIND LIBERATION through meditation practice, as stated in "通过禅修体证心解脱的修行者".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

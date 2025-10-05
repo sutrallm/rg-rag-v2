@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sages embody perfected Chanding: their minds are undisturbed, calm, and free from reactivity, demonstrating mastery of meditative concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

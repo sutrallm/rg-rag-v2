@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION (JINGJIN)</source_entity>
+    <target_entity>IGNORANCE (WUMING)</target_entity>
+    <relationship_description>Exertion directly counters ignorance by cultivating awareness and vigilance, preventing the mind from falling into delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWANG</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>Complete eradication of Wuwang through Chengzhi is the very definition of achieving Nierhua.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

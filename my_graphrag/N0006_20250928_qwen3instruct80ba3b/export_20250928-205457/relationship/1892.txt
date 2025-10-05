@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jielv serves as the essential foundation for developing Chanding; moral restraint creates the inner peace necessary for concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOTUS</source_entity>
+    <target_entity>MUD</target_entity>
+    <relationship_description>The LOTUS arises from MUD yet remains unstained, symbolizing purity amidst impurities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

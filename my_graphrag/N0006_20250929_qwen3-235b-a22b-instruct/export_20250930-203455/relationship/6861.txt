@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无相</target_entity>
+    <relationship_description>智慧能证得“无相”境界，超越一切形相与执取，是通向涅槃的重要认知。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

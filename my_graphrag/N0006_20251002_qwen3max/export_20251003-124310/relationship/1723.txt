@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>守护根门</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>守护根门与安住戒律并列，是心能安稳凝聚、远离散乱与贪欲的前提，从而有助于禅定的生起。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

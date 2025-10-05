@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺照</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>覺照是走向心解脫的正道，持續的覺察能終止妄想流轉與攀緣，達成解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

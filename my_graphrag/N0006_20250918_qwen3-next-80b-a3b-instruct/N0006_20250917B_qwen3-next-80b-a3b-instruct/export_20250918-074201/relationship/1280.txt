@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSWORLDLY Dharma</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Transworldly practice is based on the insight of no-self and liberation from self-centered clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

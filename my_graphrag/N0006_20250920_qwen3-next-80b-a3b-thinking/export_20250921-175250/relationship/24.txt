@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>OBSERVING IMPERMANENCE helps eliminate INDULGENCE by revealing the transient nature of all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

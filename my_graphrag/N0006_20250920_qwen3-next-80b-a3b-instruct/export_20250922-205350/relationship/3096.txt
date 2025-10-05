@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>观照无常是证悟无我的前提，因一切法皆生灭，故不可能有恒常主宰的“我”。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

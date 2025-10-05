@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUSPENSION_OF_CLINGING</source_entity>
+    <target_entity>SELF_SUFFICIENCY_IN_SPIRIT</target_entity>
+    <relationship_description>Letting go of clinging is the direct path to achieving inner self-sufficiency and freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

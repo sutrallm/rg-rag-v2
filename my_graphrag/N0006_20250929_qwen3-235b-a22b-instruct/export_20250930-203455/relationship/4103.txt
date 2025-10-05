@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>持续精进修行能避开生死轮回的束缚，是修行者超越轮回的重要途径。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

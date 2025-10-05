@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>The noble one (Shengzhe) embodies perfect moral discipline (Jie), which is essential for their purity and spiritual attainments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

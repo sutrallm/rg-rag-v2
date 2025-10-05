@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHIZHOU</target_entity>
+    <relationship_description>Chanding (concentration) serves as the foundation for Chizhou (wisdom); stable concentration allows for clear, non-reactive observation of reality that leads to insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

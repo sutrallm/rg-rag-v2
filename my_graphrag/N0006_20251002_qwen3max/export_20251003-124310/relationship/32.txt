@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>修行者必須以不放逸的態度持續精進，否則將落入懈怠。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>色界定</source_entity>
+    <target_entity>四禪</target_entity>
+    <relationship_description>四禪是色界定的最高層次與圓滿狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

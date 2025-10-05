@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>离欲</target_entity>
+    <relationship_description>修行者通过彻底远离感官欲望，达到内心不被外境牵引的离欲状态，进而安住寂静。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

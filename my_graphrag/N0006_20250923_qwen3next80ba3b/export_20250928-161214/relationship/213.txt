@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL FORMATIONS</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>MENTAL FORMATIONS constitute one of the five aggregates that shape volitional activities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

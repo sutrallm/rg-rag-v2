@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BLIND PERSON</source_entity>
+    <target_entity>ELEPHANT</target_entity>
+    <relationship_description>Blind persons physically interacted with the elephant in the parable to demonstrate limited perception of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

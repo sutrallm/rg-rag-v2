@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Nirvana is defined by the complete absence of clinging—non-attachment to all phenomena, even spiritual attainments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

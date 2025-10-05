@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我实践</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无我实践是放下“我”与“我所”执著的直接方法，是通向彻底自由与解脱的根本实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINJIN</source_entity>
+    <target_entity>HUNCHEN</target_entity>
+    <relationship_description>Jinjin counteracts dullness and sloth by cultivating alertness and persistent mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

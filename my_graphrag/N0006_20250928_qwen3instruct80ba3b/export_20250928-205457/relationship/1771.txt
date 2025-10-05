@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Jingjin (effort) fuels the development of Zhishi, as sustained mindfulness enables the insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

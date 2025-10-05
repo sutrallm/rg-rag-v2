@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>禅定中可能体验到轻安这一殊胜境界，但修行者应知其无常本质而不执著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

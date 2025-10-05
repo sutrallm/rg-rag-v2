@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>菩提</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>菩提即觉悟，是解脱的体现，通过三学修习最终圆满。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

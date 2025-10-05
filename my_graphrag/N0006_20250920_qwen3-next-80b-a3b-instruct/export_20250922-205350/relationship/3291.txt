@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Niepan is attained when the five aggregates (Wuyun) are no longer burned by craving — their炽盛 (blazing heat) is extinguished entirely.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

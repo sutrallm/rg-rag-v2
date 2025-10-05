@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Only through continuous, diligent practice (jingjin) can one become a sacred person who has uprooted greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

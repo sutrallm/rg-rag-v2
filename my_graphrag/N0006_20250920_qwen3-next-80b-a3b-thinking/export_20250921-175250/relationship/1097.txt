@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURITY</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>PURITY supports the cultivation of WISDOM by removing mental impurities and promoting clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

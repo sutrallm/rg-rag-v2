@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>调伏自心</target_entity>
+    <relationship_description>调伏自心的核心目标即是降伏烦恼（贪嗔痴），通过觉知与智慧实现对烦恼的逐步克服。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

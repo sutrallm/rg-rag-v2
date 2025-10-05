@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>修行者收攝內心、守護六根，使其不追逐外境，作為具備禪定基礎的條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

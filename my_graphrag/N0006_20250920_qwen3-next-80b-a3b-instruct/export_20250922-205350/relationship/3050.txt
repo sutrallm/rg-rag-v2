@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOLUE ZHUOZHI</target_entity>
+    <relationship_description>True chanding is not attachment to meditative states; it requires transcending attachment to experiences and fruits to avoid becoming trapped in delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

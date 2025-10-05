@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>Practitioners dwell in tranquility through mindful cultivation, per "安住寂静".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

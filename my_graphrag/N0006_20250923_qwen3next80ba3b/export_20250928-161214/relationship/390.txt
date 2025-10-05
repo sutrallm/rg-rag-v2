@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY ONES</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>SAINTLY ONES diligently cultivate and practice MINDFULNESS as part of their spiritual discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

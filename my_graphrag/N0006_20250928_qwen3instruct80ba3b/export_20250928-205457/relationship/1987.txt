@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>四禪八定</target_entity>
+    <relationship_description>四禪八定是禪定修習所達到的具體成就層次，代表深層的定境狀態。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

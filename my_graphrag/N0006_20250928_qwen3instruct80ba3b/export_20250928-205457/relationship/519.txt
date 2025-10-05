@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Zhengnian provides the sustained attention required for wuzhi to arise and penetrate the nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

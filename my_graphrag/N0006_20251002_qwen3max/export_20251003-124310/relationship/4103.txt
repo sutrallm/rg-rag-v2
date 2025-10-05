@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>智慧能令修行者不执着于禅定境界或修行成果，因其了知一切皆非究竟。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

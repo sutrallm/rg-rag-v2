@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Through Chan Ding, one directly perceives the impermanent nature of thoughts and sensations, leading to insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

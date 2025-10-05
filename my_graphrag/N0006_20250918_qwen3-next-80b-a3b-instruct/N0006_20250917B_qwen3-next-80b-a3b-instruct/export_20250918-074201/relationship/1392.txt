@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REINCARNATION CYCLE</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Desire fuels the cycle of rebirth; liberation is attained by cutting this craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

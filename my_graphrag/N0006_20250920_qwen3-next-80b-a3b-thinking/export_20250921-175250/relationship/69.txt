@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Liberation completely ends all forms of suffering through the transcendence of attachment and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

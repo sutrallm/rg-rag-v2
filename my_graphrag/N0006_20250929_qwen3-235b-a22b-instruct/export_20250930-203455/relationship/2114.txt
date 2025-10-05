@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>无常观帮助理解四圣谛中的“苦”与“集”，破除恒常错觉，导向“灭”与“道”。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

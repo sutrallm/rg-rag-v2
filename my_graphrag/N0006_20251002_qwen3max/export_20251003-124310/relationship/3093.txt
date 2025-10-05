@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者通过修行证得涅槃，安住于其寂静之乐，涅槃是圣者所成就的终极状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

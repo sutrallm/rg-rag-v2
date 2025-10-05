@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWEI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiuwei encompasses chanding as one of its expressions, but chanding alone is not sufficient for true practice—it must be grounded in continuous mindfulness and non-attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>SELF-REFLECTION</target_entity>
+    <relationship_description>Self-reflection is the practical method through which exertion is maintained, ensuring continuous awareness and correction of mental states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

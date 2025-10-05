@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEYUAN</target_entity>
+    <relationship_description>Shengzhe has already attained jieyuan (liberation); their state is one of complete freedom from samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

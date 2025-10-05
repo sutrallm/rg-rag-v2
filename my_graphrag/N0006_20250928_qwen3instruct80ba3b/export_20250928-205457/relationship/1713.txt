@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死輪迴</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是超越生死輪迴的最終解脫狀態，二者為對立與轉化關係。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

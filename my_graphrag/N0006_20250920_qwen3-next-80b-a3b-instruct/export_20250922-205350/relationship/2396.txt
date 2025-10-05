@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三国印</source_entity>
+    <target_entity>WU WO GUANZHAO</target_entity>
+    <relationship_description>Wu Wo Guanzhao is the experiential realization of the “诸法无我” aspect of San Fa Yin, making this concept the practical application of the doctrinal standard.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

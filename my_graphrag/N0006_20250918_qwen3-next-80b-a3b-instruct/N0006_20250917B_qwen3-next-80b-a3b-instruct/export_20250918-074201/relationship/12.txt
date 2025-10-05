@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUO DE ZHI HUI</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>The wisdom of transcending attachment depends on realizing the absence of inherent self (Wu Wo) in all experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

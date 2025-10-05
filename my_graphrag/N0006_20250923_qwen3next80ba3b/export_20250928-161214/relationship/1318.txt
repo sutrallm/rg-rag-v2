@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>ATTACHMENT is the root cause of SUFFERING, according to Buddhist teachings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

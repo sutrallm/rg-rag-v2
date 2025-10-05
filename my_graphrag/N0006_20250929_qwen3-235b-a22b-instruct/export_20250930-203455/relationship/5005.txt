@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>谦卑</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>谦卑是修行者应有的态度，表现为不比较、不炫耀、专注于当下觉察与净化。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自斷煩惱</source_entity>
+    <target_entity>嗔恨</target_entity>
+    <relationship_description>自斷煩惱包含斷除嗔恨，與貪欲、痴同為須由自身智慧對治的三毒。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

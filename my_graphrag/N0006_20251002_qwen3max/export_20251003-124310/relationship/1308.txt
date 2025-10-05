@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>具備清淨戒律有助於調伏心念，斷除煩惱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

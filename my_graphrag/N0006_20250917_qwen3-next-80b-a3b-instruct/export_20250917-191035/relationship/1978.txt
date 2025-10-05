@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RENUNCIATION</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>True renunciation arises from transcendent wisdom, which sees all phenomena as impermanent and non-self, thus removing the basis for attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

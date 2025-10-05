@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiuxin (cultivating the mind) is the overarching framework for developing Chanding; meditation is not separate from daily life, but integrated into it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

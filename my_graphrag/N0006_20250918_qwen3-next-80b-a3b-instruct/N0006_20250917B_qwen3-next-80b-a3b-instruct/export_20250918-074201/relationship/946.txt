@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greed and delusion are two of the three root defilements that sustain suffering; delusion fuels greed by obscuring the true nature of objects of desire.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

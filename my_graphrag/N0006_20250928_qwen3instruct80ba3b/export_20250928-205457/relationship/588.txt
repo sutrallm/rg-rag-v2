@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQIXINGKONG</source_entity>
+    <target_entity>NIERHAN</target_entity>
+    <relationship_description>Nierhan (nirvana) is not a separate state from samsara but is understood as the realization of yuanqixingkong — seeing conditioned nature as liberation itself.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

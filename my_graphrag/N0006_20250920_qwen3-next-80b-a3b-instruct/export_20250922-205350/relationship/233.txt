@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YI</source_entity>
+    <target_entity>FENBIE</target_entity>
+    <relationship_description>The mind (wu yi) is the source of discrimination; when untrained, it interprets experiences through dualistic concepts, reinforcing suffering; when trained, it sees without attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

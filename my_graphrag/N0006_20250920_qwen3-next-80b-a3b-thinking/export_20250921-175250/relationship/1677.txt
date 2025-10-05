@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>Attachment to states should be avoided as per '不执着于任何境界' in the source text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

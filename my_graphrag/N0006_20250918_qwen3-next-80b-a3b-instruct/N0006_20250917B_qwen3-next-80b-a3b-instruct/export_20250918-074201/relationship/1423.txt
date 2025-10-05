@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>DEATH_AND_REBIRTH</target_entity>
+    <relationship_description>Liberation dissolves the fear and grasping related to death and rebirth by realizing their essential equality and emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

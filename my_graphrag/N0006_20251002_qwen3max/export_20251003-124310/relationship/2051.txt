@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>世间法</target_entity>
+    <relationship_description>圣者虽行于世间，却不染着世间法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

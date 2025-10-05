@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAODUE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chaodue is the wisdom that directly realizes wuwo (non-self), seeing through the illusion of identity by observing the five aggregates as empty of self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

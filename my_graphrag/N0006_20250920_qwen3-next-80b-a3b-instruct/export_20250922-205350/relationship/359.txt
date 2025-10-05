@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DANGXIA_JIAOZHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Dangxia jiaozhi (present-moment awareness) is the practical expression and daily form of chanding — meditation is not separate from ordinary life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

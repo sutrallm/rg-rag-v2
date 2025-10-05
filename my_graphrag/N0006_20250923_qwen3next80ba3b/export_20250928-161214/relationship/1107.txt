@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>勤修</target_entity>
+    <relationship_description>勤修心念能达成寂静安稳的状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

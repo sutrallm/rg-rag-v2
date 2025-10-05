@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>智慧通过如实观察身心现象，看清执着的无常、苦、无我之性，从而放下执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

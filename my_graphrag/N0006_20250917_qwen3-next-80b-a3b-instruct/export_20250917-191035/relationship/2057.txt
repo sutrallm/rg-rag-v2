@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE_DEXING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The enlightened one embodies Chanding as a daily, sustained practice of mental stillness and awareness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

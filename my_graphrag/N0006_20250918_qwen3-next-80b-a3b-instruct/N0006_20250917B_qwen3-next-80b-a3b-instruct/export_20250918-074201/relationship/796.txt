@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>ALL_BEINGS</target_entity>
+    <relationship_description>Saints inspire reverence not through power or teaching alone, but through embodying awakening—making them objects of natural veneration by all sentient beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

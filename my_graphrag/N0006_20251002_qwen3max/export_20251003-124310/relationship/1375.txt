@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>精进能防止修行落入放逸，缺乏持续努力则易生放逸，使人无法掌握禅定与迈向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

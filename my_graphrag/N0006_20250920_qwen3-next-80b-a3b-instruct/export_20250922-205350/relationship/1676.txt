@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Saintly beings have attained nirvana—having extinguished greed, hatred, and delusion, and are no longer bound to samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ABIDING_MIND</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The non-abiding mind is described as the very nature of Nirvana—unconditioned, unattached, and ever-present reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

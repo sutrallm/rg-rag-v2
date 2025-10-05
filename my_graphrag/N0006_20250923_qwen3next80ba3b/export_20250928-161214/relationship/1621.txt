@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUES</source_entity>
+    <target_entity>DHARMA_EXPLANATION</target_entity>
+    <relationship_description>DIALOGUES are transformed into direct DHARMA_EXPLANATION during text processing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saintly qualities are defined by the presence of both pure conduct and true wisdom, which together lead to the end of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

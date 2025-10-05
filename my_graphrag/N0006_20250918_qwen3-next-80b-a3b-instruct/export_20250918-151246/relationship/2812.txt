@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>RELEASING_EVASION_AND_CRAVING</target_entity>
+    <relationship_description>Through chanding, one loosens the grip of indulgence and craving, leading to inner liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

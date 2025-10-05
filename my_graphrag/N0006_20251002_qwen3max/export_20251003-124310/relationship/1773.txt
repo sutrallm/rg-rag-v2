@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>五欲</target_entity>
+    <relationship_description>禪定的基礎條件要求修行者遠離五欲，因其貪著會障礙心的安住。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

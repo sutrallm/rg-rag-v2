@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>LETTING GO</target_entity>
+    <relationship_description>Liberation is only possible through complete letting go of all attachments and identifications.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

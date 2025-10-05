@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE BLISS</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Even meditative bliss must be let go of; attachment to it hinders deeper realization, so Non-Attachment is required.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

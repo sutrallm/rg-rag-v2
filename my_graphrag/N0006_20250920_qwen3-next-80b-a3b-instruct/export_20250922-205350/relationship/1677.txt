@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Nirvana is described as a state accessible in the present moment—not a future or afterlife condition.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

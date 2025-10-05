@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The holy one (shengzhe) exemplifies the state of nirvana (niepan) by having completely extinguished afflictions and transcended all clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

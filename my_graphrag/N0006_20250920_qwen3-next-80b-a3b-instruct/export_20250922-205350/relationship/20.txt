@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是進入與維持禪定的核心方法，貫穿修習過程，使心不散亂。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PRECISEMINDFULNESS</target_entity>
+    <relationship_description>Chanding arises and is sustained only when precise mindfulness is present, allowing the mind to remain calm and undisturbed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

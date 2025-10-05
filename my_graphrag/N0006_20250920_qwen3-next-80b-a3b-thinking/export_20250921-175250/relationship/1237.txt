@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WANG NIAN</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>Deluded thoughts (Wang Nian) manifest as mental afflictions (Fan Nao) when not properly observed.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

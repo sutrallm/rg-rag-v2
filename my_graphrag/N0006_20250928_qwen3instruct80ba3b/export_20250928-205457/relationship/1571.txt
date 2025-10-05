@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU SUO DE</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>True nirvana is only realized when one stops seeking enlightenment—the ultimate expression of non-attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

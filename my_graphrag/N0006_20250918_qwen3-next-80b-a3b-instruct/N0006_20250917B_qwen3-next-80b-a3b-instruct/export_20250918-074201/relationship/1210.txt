@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO ZHI ZHI</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>The manifestation of wisdom of no-self is the highest realization attained by the Saintly One, leading to total liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

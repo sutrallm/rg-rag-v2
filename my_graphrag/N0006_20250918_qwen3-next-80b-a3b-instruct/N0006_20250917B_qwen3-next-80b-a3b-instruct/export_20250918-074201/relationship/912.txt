@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Hatred stems from delusion, as aversion arises when one clings to false perceptions of self and other as inherently fixed.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

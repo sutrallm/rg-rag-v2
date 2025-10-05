@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>SAINTLY BEINGS have transcended all SUFFERING through complete spiritual liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念是禪定在日常生活中的延續與應用，兩者皆指向當下覺知與心的穩定。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

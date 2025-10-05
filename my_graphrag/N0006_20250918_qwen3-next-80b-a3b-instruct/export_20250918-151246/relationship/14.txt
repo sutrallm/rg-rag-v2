@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行者的发展目标是增长智慧，以如实观照和断除无明。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

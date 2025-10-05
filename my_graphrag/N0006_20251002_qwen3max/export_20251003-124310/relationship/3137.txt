@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅悦</source_entity>
+    <target_entity>喜乐</target_entity>
+    <relationship_description>喜乐是禅悦的一种表现形式，属于禅定中可能体验到的觉受。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

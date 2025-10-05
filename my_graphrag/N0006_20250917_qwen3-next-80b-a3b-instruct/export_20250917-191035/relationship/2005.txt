@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪、嗔、痴</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>贪、嗔、痴是驱动轮回的核心动力，断除三毒者方可超越轮回。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

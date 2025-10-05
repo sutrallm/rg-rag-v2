@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺知</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>覺知是禪定在日常活動中的延伸與實踐，禪定不僅限於靜坐，更在覺知中體現。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

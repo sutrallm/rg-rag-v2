@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Clean precepts support mental purity, which is the necessary foundation for developing true wisdom and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

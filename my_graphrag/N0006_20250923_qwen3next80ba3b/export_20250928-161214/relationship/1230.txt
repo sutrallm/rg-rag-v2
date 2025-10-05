@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATION BASE</source_entity>
+    <target_entity>MIND CULTIVATION</target_entity>
+    <relationship_description>The foundation of practice established by precepts supports diligent cultivation of the mind.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

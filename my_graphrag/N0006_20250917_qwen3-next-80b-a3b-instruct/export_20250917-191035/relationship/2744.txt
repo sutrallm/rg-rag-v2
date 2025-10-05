@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELV</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Clear moral conduct supports the purity of mind needed for wisdom (Zhihui) to unfold without the clouding influence of regret or misconduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

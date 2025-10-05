@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>超越执着的智慧是智慧的具体体现，是智慧在修行中对境界执著的彻底超越。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

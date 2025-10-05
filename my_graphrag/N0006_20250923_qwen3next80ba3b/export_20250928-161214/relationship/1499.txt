@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT PATH</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>FOLLOWING THE RIGHT PATH requires DILIGENCE to maintain ethical and mindful conduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

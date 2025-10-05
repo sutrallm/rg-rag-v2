@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FU YUN</source_entity>
+    <target_entity>RI GUANG</target_entity>
+    <relationship_description>浮云遮蔽日光，表示妄念覆盖本心光明，导致心性不明。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUYU</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Completed cessation of desire (duyu) is the essential condition for achieving true liberation (jiede), as desire is the root of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

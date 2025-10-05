@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU CHANG</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Wu Chang (impermanence) and Wu Wo (non-self) are interrelated insights; understanding one reinforces realization of the other as core truths of existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHENGZHI</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>Chengzhi, through seeing the true nature of phenomena, leads directly to the cessation of ignorance and craving, which is the realization of Nierhua.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

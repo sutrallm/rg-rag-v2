@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>眾生</source_entity>
+    <target_entity>無明</target_entity>
+    <relationship_description>所有眾生皆因無明而流轉輪迴，無明是眾生未能解脫的根本原因。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

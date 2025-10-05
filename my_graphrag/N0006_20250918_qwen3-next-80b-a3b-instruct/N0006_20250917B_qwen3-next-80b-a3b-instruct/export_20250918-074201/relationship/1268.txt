@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Saints embody deep insight, having fully realized non-self and impermanence, leading to the extinction of defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

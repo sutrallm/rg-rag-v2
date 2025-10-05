@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>A Shengzhe is the living embodiment of Jiede—liberation is not an abstract state but the natural expression of their being.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

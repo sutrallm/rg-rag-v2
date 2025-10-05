@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DOCTRINE DETAILS</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Doctrinal details should be preserved from the original text in processed output.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

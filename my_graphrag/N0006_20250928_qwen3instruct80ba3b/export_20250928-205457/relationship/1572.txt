@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FU FA ZUI ZHONG GUI SU</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Fu fa zui zhong gui su is a restatement of nirvana as realized in present-moment awareness and letting go.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

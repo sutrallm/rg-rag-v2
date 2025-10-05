@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>执着阻碍心解脱，唯有不执著任何境界，即使追求修行成果也不被其系缚，才能达到心解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhihui involves realizing that no self exists in any phenomenon; this insight breaks the illusion of identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

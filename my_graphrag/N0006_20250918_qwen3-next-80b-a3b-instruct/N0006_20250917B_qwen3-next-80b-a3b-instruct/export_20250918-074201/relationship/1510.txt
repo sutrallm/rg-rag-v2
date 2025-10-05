@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONSISTENT_AWARENESS</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Consistent awareness requires continuous exertion; effort is the fuel that sustains unbroken mindfulness, especially when facing discomfort or discouragement.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我</source_entity>
+    <target_entity>您</target_entity>
+    <relationship_description>系统（我）与询问者（您）之间存在交互关系，系统响应用户输入并执行文本处理指令</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

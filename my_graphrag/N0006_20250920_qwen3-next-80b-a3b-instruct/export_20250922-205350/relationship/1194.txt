@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>SAINTLY_BEING</target_entity>
+    <relationship_description>Perfected moral discipline is a defining characteristic of a saintly being, forming the indispensable first stage of their spiritual development.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

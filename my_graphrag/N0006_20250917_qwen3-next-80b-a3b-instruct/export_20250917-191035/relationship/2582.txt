@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>諸法無我</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>諸法無我是智慧觀照的另一根本 Truth，是證得無我與解脫的理論基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>GREED_HATRED_DELUSION</target_entity>
+    <relationship_description>Nirvana is defined by the complete transcendence of greed, hatred, and delusion — their absence is the condition of nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

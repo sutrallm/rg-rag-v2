@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死輪轉</source_entity>
+    <target_entity>無執的解脫</target_entity>
+    <relationship_description>無執的解脫是超越生死輪轉的唯一方法，二者構成對立與超越的關係。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者以如实智慧為核心特徵，能如實觀照諸法實相並斷盡煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

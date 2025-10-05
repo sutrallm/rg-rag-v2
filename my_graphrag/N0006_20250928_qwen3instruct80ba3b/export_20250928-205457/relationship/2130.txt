@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANHE</source_entity>
+    <target_entity>CHIAOYU</target_entity>
+    <relationship_description>Yuanhe (dependent origination) provides the philosophical basis for Chiaoyu — understanding that phenomena arise conditionally undermines the belief in inherent existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

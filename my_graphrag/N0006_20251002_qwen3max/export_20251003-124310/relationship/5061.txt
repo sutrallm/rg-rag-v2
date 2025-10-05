@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>斷盡三毒是證入涅槃的必要條件，涅槃即是三毒止息後的寂靜狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>Non-self is understood by observing the five aggregates as impermanent, impersonal processes—there is no “I” in them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

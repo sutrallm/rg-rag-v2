@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUO</source_entity>
+    <target_entity>SHUO TONG</target_entity>
+    <relationship_description>Even spiritual powers (Shuo Tong) must not be clung to, as part of transcending attachment to all experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

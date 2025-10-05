@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Yuanqi is the mechanism through which Zhihui understands the nature of reality — wisdom sees how phenomena arise dependently.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

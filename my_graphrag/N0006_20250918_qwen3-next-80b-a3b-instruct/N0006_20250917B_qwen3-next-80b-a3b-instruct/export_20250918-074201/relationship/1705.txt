@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU</source_entity>
+    <target_entity>DAOXIAN</target_entity>
+    <relationship_description>Chanxiu is the method by which daoxian is realized — meeting each moment with clear awareness, without reaction, is the essence of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

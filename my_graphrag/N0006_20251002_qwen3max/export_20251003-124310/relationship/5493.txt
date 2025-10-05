@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>禅定是戒定慧三学中的“定”部分，以戒为基础、以慧为导引，三者共同构成完整修行体系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

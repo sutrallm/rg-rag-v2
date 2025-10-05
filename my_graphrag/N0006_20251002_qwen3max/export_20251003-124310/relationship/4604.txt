@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念專注</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>心念專注需以正念守護，方能持續專注於所緣境並遠離散亂與煩惱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

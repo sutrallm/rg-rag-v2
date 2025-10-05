@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>thoughts</source_entity>
+    <target_entity>liberation</target_entity>
+    <relationship_description>Scattered thoughts obstruct the path to liberation by undermining focused practice and insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>PEOPLE</target_entity>
+    <relationship_description>Original text contains people that must be deleted as part of processing instructions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

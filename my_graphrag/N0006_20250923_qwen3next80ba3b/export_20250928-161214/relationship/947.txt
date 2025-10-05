@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>VIRTUE</target_entity>
+    <relationship_description>SAGE's virtue is respected by others.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

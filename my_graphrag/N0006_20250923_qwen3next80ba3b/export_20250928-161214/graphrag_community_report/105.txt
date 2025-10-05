@@ -1,0 +1,21 @@
+Dhammapada Vernacular Conversion Requirements  
+
+This report outlines requirements for transforming Buddhist works, particularly the Dhammapada, into vernacular language. Key actions include eliminating personal and geographical names, removing poetic elements, converting metaphors into direct teachings, structuring content for clarity, and preserving all doctrines intact.  
+
+**Name Removal**  
+All identifiable person and location names must be omitted from the vernacular adaptation. This applies to both core content and structural references present in original materials.  
+
+**Poetic Element Deletion**  
+All poetic verses and slogans, including those at the end, must be entirely removed. These elements are designated for deletion regardless of their position.  
+
+**Metaphor Conversion**  
+Original metaphorical expressions are converted into explicit doctrinal teachings to ensure clarity and direct understanding without symbolic language.  
+
+**Structured Formatting**  
+The vernacular version requires clear structural organization to improve accessibility while maintaining doctrinal accuracy.  
+
+**Doctrinal Preservation**  
+The transformed vernacular version must retain all original doctrines without alteration. This includes explanatory content on Buddhist principles and philosophy.  
+
+**Dhammapada Specific Application**  
+The Dhammapada serves as a specific example of Buddhist works needing this transformation process, demonstrating the consistent application of all requirements.

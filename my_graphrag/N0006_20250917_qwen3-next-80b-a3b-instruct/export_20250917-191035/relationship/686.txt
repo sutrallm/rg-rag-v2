@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED_HATRED_DELUSION</source_entity>
+    <target_entity>SAINTLY_QUALITIES</target_entity>
+    <relationship_description>Saintly qualities are defined by the complete eradication of the three poisons; their absence is the hallmark of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

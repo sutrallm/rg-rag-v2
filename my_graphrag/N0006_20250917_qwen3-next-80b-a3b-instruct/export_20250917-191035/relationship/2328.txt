@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding (meditative absorption) is achieved through Jingjin (diligent effort), which is necessary to maintain focus and prevent mental distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

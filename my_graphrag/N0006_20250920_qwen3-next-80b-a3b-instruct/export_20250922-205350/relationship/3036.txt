@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe are explicitly described as not being tainted by Wuyu, demonstrating their complete transcendence of sensual cravings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

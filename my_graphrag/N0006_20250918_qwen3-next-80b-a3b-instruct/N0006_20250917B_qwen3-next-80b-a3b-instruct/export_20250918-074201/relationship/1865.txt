@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>WISENESS</target_entity>
+    <relationship_description>A saint embodies perfected wisdom — seeing all phenomena as impermanent and non-substantial, free of delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

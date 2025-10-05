@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>舍离</source_entity>
+    <target_entity>六尘</target_entity>
+    <relationship_description>舍离是对六尘的不执取，六尘是舍离所针对的外在执著对象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

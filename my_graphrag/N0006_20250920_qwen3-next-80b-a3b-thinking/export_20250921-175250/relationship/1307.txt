@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX PERFECTIONS</source_entity>
+    <target_entity>PATIENCE</target_entity>
+    <relationship_description>Patient endurance is a key practice among the six perfections.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

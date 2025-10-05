@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATION</source_entity>
+    <target_entity>INTROSPECTION</target_entity>
+    <relationship_description>Introspection is a key component of cultivation, allowing deep insight into mental processes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

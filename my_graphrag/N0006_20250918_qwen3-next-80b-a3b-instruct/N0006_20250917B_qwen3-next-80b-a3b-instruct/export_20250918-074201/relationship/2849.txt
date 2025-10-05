@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realization of non-self (Wuwo) is the core insight that liberates one from suffering and leads directly to Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

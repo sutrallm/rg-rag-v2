@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOLUE ZHUOZHI</target_entity>
+    <relationship_description>Shengzhe perfectly exemplify transcending attachment; they do not cling to meditative states or attainments, reflecting complete non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

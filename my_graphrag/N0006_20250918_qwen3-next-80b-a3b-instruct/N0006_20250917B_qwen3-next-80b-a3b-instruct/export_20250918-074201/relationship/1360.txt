@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Non-attachment arises from insight wisdom, which sees the transient and empty nature of all phenomena, making clinging unnecessary.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

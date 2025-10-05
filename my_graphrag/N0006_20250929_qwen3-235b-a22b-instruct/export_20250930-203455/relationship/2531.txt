@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五盖</source_entity>
+    <target_entity>掉举</target_entity>
+    <relationship_description>掉举是五盖之一，障碍禅定与平静。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

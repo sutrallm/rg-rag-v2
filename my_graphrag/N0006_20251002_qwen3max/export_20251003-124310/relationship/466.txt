@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>持續精進、不離正念是不放逸的實踐方式，二者緊密相關。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The enlightened being (Shengzhe) is one who has fully attained nirvana (Niepan), having uprooted all defilements and transcended samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

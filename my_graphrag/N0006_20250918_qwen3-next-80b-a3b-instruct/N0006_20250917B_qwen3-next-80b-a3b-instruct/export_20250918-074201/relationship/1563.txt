@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhihui (wisdom) directly leads to the realization of Wuwo (no-self), as insight into impermanence and non-self dismantles the illusion of a permanent "I."</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

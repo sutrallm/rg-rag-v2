@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>贪是束缚众生之根本烦恼，唯有断除贪欲，方能获得真正解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

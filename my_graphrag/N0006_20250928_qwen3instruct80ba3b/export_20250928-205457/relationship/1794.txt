@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHIZHUO DE ZHII HUI</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>Transcendent wisdom that sees non-attachment and non-self leads directly to the realization of Nirvana; this wisdom is the essential cause of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

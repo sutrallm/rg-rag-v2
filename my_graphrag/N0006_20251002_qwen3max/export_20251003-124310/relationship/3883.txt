@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>实相</target_entity>
+    <relationship_description>智慧能照见实相，使修行者不再追求、不再排斥，安住于究竟安稳。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

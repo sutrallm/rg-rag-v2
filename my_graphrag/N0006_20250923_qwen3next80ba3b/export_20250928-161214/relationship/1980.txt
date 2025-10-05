@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION PRACTICE</source_entity>
+    <target_entity>PHENOMENA</target_entity>
+    <relationship_description>Meditation practice reveals the impermanent nature of all observable phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

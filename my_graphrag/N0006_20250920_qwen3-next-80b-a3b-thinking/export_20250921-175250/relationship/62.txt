@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>MARA</target_entity>
+    <relationship_description>Mindfulness acts as a protective shield against the temptations and control of Mara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

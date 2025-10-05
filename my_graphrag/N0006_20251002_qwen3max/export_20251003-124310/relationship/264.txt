@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>修行者若稍有懈怠（放逸），煩惱即會趁虛而入。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

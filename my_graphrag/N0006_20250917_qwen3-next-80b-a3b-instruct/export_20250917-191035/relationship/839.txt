@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Saintly qualities involve the elimination of greed through moral discipline and wisdom; a saintly person has ceased generating greed as a source of action.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

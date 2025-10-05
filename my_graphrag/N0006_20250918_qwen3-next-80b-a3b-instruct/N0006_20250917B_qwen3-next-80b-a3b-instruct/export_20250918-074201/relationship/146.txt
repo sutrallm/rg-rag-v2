@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>貪嗔痴</target_entity>
+    <relationship_description>聖者已斷盡貪嗔痴三毒，這正是他們超越痛苦與輪迴的關鍵特質。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

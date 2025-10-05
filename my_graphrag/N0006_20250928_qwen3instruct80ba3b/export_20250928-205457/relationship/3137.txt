@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGREGATES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>By observing the five aggregates as empty and impermanent, one transcends attachment to them, leading to the realization of Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

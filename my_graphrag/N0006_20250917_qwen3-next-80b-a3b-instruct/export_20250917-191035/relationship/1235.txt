@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>JIAOCHA</target_entity>
+    <relationship_description>Wuwo (non-self) is realized through jiaocha (mindful awareness of the present), as observing the present moment without conceptualizing “I” dissolves attachment to self-identity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

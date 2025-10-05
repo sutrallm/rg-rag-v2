@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感官</source_entity>
+    <target_entity>止</target_entity>
+    <relationship_description>感官干扰心识安定，需以止的修习使心专注，减少外境干扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>Zhengnian enables wuqiu by cultivating non-reactive awareness in daily life, allowing one to remain unmoved by preferences or aversions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

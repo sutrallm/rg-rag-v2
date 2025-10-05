@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom is the direct seeing of the impermanent, unstable nature of all phenomena; it is the insight that reveals transience as a universal truth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

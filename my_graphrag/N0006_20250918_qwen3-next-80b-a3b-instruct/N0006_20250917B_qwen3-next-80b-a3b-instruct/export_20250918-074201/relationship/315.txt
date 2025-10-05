@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>Realizing the emptiness of all phenomena is presented as the key insight that leads to liberation and awakening.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>觉知呼吸</target_entity>
+    <relationship_description>觉知呼吸是禅修的一种具体方法，适合初学者建立定力基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

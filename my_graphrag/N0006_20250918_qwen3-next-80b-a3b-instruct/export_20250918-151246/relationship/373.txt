@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRAITS_OF_SAINTS</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Only those who have realized non-self can embody the saintly traits, since attachment to self is the primary obstacle to such purity and inner freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

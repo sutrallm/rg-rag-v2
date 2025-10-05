@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛</source_entity>
+    <target_entity>法句经</target_entity>
+    <relationship_description>法句经 compiles and preserves the teachings originally delivered by the Buddha.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

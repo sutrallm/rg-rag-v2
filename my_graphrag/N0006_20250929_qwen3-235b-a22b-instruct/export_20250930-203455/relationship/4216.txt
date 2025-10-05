@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>智慧成熟者自然流露慈悲，慈悲是智慧的外在表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>諸法</source_entity>
+    <target_entity>如幻化</target_entity>
+    <relationship_description>諸法皆如幻化，解脫者清楚此理故不貪求成果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_AWARENESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Inner awareness is the direct means by which one realizes nirvana in the present moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

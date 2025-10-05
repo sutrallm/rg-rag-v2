@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Clinging leads to the creation of greed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

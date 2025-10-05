@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without Jingjin (diligent practice), sustained Chanding is impossible; consistent effort is required to develop and maintain meditative focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

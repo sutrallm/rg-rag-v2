@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANSARA</source_entity>
+    <target_entity>SUFFERING OF BIRTH AND DEATH</target_entity>
+    <relationship_description>SANSARA inherently involves SUFFERING OF BIRTH AND DEATH as part of its continuous cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

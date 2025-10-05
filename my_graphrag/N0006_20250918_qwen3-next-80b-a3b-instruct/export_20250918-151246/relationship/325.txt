@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Exertion is necessary to develop and maintain chanding, as consistent effort overcomes laziness and allows the mind to stabilize in meditative concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

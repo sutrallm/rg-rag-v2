@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SEEKING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>True wisdom arises only in non-seeking—the absence of craving for results—because any goal-oriented practice binds the mind to samsara rather than liberating it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

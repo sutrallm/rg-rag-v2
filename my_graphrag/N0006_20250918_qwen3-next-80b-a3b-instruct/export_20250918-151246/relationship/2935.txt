@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Chan Ding can only be fully developed and maintained through continuous,jing jin (diligent effort); without effort, one falls into distraction and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

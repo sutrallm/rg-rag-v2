@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSION_OF_SELF</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The complete dissolution of the illusion of self is what leads directly to nirvana — the cessation of all suffering rooted in ego-grasping.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

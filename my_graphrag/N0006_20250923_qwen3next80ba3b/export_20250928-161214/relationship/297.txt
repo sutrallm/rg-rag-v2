@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EVIL ACTIONS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>EVIL ACTIONS must be abandoned to attain Nirvana, as part of the path to cessation of suffering described in the final section.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

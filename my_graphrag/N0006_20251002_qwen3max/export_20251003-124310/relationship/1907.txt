@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無所執取</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無所執取是心解脫的直接特徵，體現了解脫者不受任何現象束縛的自在狀態。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

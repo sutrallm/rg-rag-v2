@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>POOL WATER</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>POOL WATER reflects imagery that reveals the NON-SELF nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

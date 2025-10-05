@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>修行者借由禅定脱离放逸，说明禅定是对治放逸的有效方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>EXTERNAL CIRCUMSTANCES</target_entity>
+    <relationship_description>Samadhi practice maintains focus and remains unaffected by external circumstances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

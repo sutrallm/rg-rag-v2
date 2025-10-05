@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>中道是戒定慧三学所依循的实践原则，避免极端，确保修行在平衡中推进。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

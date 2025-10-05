@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者因具足禅定功夫，方能安住寂静无染之境，是禅定修习成就的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

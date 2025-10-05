@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>神通异相</target_entity>
+    <relationship_description>修行者在禅修中可能遇到神通异相，但不可执着，以免陷入误区，阻碍真正进步。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

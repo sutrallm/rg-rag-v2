@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>DARKNESS</target_entity>
+    <relationship_description>Mindfulness acts as a symbolic light that dispels the darkness of ignorance and confusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

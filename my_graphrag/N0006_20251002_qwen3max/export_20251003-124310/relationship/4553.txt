@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脫的最終實現即是涅槃，涅槃是煩惱已盡、生死已斷的究竟寂靜狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

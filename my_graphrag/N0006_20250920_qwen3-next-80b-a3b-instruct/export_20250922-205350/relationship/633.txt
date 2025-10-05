@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MENTAL DISTRACTION</target_entity>
+    <relationship_description>Chanding is defined by its ability to transcend mental distraction and create inner calm.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

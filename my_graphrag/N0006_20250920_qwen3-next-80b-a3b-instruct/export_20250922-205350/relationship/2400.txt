@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>三国印</target_entity>
+    <relationship_description>Wu Wo is the core doctrine expressed by the second Mark of Existence, essential for validating insight and preventing spiritual clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

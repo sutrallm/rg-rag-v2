@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>正念是精进修行的具体实践形式，贯穿于一切日常修行活动中，是精进的体现与保障。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiuxin is the practical, everyday method for cultivating Chanding, integrating mindfulness into all activities to maintain meditative awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

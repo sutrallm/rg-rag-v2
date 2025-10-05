@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BU ZHIZHUO DE ZIYOU</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO DE ZHISHI</target_entity>
+    <relationship_description>Freedom through non-attachment is the practical manifestation of transcendent wisdom — not clinging to anything, including meditative states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

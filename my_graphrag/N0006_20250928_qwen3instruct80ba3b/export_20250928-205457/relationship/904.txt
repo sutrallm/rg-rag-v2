@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>正念是通往解脱的直接方法，通过安住当下，自然息灭烦恼，显发智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

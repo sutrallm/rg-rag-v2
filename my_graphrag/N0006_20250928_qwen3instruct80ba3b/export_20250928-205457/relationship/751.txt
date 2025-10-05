@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>禅定的成就依赖于精进修行，若不勤修则易退转，无法安住正念。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

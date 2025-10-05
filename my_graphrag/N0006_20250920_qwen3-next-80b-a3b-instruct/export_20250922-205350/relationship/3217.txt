@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Nirvana is the cessation of suffering brought about by the destruction of ignorance through wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

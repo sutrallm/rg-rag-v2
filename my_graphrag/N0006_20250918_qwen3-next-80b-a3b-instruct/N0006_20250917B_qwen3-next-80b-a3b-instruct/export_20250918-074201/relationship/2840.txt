@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>淨化意念</source_entity>
+    <target_entity>我執</target_entity>
+    <relationship_description>淨化意念是透過觀照來瓦解我執的核心手段。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOJIAO</source_entity>
+    <target_entity>FO TU</target_entity>
+    <relationship_description>Buddha is the founder and primary teacher of Buddhism, whose teachings underlie all concepts listed.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

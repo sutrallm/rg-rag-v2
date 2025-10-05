@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>現前正念</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>現前正念是達成解脫的當下途徑，透過安住於此刻，自然熄滅煩惱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

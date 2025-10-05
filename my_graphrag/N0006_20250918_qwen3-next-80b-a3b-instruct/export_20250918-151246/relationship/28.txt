@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>NEARNESS</target_entity>
+    <relationship_description>A saint is one who has realized nirvana—the state of complete mental liberation and inner stillness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

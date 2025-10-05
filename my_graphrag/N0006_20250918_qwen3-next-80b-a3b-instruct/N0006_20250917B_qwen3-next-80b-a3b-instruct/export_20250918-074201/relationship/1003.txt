@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>一切现象依因缘和合而生，因其依待条件，故无常变易，二者为哲学基础关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

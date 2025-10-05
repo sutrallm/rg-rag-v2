@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JEJIN</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Jiejing combats wuming by sustaining awareness and preventing the mind from lapsing into ignorance and laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

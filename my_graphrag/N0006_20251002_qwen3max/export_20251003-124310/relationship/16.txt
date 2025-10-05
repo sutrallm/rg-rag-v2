@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>深入禅修能引生对苦的如实知见，使修行者了知一切现象皆具苦的性质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

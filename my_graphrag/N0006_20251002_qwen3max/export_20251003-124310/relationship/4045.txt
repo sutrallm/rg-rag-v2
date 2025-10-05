@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>持守清淨戒律是修習禪定的前提，無戒則定不穩。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

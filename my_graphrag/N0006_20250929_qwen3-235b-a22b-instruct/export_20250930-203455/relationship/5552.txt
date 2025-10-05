@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉察</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>觉察能及时调伏初生烦恼，防止其扩大，是烦恼管理的关键方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

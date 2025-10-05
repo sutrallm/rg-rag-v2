@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG</source_entity>
+    <target_entity>SIWANGLUNHUAN</target_entity>
+    <relationship_description>Jiefang is the escape from siwang lunhuan, ending the cycle of rebirth through insight and liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

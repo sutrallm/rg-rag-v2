@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无常是轮回的核心特征，真实体认无常是走向解脱、不再执取的前提。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ANATTA</target_entity>
+    <relationship_description>Wisdom is the direct realization of anatta—the truth that all phenomena lack inherent self—through insight meditation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

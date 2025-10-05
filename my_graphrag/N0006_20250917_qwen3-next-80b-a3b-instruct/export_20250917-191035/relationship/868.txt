@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>無明導致對實相的誤解，進而產生執著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>精进修行必须依止正法，否则易偏离正道，陷入无明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

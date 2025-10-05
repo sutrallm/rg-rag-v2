@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin (effort) is necessary to establish and maintain chanding (meditative concentration) by overcoming sloth and distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

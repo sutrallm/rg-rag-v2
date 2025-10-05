@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>散乱</target_entity>
+    <relationship_description>心如野马般散乱，需以正念为缰绳、正知为马夫加以调伏，是禅修的主要障碍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

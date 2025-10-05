@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners who follow the path attain liberation, as stated in: "这样的修行者，自然通达解脱".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

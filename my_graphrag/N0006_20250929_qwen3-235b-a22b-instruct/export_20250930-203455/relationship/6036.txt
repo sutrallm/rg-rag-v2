@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>无常观通过破除对恒常的妄执，减少对外境的执着，从而减轻烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENCE_OF_SAMSARA</source_entity>
+    <target_entity>NO_SLIPPERY_PATH</target_entity>
+    <relationship_description>Liberation from samsara requires no shortcuts; it is only achieved through the disciplined, internal path of letting go and insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

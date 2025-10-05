@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五欲</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>五欲是修行者需自我省察是否仍被其牵制的对象，若仍被五欲所牵，将阻碍修行方向。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

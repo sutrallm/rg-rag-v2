@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>STATE</target_entity>
+    <relationship_description>ATTACHMENT involves clinging to a specific STATE, leading to suffering and hindering spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

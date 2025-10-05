@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>INNER_DISTURBANCES</target_entity>
+    <relationship_description>Greed is a primary form of inner disturbance that disrupts meditation and spiritual clarity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

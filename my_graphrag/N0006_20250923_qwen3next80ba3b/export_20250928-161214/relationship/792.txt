@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE SKANDHAS</source_entity>
+    <target_entity>FORMATIONS</target_entity>
+    <relationship_description>FORMATIONS is one of the five components that make up the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

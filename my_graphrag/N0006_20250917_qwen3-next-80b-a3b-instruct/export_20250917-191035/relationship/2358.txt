@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執著</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>執著是貪、嗔、癡等煩惱產生的直接根源，若不破執，煩惱不息。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

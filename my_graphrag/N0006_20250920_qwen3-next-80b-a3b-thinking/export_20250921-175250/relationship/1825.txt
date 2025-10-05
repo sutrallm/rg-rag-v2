@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The SYSTEM performs the TRANSLATION process.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

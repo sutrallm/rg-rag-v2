@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>当下</target_entity>
+    <relationship_description>修行的本质即在当下，通过觉察呼吸与观照念头，如实了知每一念的生灭，是修行的具体实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

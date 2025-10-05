@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進修行</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者是通過長期精進修行而成就的果位，精進是成為聖者的必要條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT_POWER</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Supernatural powers may arise in deep meditation and can easily lead to attachment unless wisely understood as impermanent and non-essential.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Greed is a primary mental disturbance that chanding seeks to dissolve by stabilizing the mind and reducing attachment to sensory pleasures.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWAKENED_BEINGS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Awakened beings have completely eradicated defilements (greed, hatred, delusion), which is the defining characteristic of their enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

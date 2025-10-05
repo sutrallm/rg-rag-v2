@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>瞋恨</target_entity>
+    <relationship_description>圣者因智慧与禅定，已净除瞋恨，不为逆境所动。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

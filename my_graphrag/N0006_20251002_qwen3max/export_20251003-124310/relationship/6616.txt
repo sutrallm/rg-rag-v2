@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>工具</target_entity>
+    <relationship_description>禪定應被視為導向解脫的工具，而非修行的最終目的。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

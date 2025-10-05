@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>舍离</target_entity>
+    <relationship_description>通过无常观的实践，修行者看破一切现象的短暂性，自然生起舍离之心，二者为因果与作用关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

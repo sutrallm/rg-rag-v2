@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Jie (discipline) prepares the mind for hui (wisdom); ethical purity reduces mental disturbances, making deep insight possible.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

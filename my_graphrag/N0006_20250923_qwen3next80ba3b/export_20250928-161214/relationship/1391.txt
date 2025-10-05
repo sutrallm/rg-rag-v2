@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SWORD FORGING</source_entity>
+    <target_entity>FIRE</target_entity>
+    <relationship_description>FIRE is an essential element in the SWORD FORGING process.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

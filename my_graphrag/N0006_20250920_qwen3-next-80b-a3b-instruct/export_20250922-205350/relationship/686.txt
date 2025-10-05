@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is achieved by ceasing the generation of new karma and exhausting past karma through wisdom and mindful intention.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

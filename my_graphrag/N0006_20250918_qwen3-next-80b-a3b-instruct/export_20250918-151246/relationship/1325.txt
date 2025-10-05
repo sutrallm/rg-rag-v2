@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED BEING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>An enlightened being embodies non-attachment, having transcended clinging to experiences, identities, and outcomes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

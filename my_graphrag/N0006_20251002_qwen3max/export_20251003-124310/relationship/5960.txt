@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>正念用于如实观照五蕴的无常、苦、无我本质，是削弱烦恼、破除无明的重要实践方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

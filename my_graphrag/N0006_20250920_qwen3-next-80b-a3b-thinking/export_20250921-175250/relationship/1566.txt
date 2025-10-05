@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>CALMNESS</target_entity>
+    <relationship_description>Cultivating the mind leads to calmness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

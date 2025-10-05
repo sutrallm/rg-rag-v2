@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正道</source_entity>
+    <target_entity>神通感应</target_entity>
+    <relationship_description>真正的修行不执着于神通感应，正道强调如实观照无常与苦的本质而非追求神通表象。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

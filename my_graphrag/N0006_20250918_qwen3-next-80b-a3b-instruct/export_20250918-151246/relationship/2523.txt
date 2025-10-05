@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>真正的禪定不以“我”為修習者，無我見地使禪定超越執著，成就究竟安穩。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

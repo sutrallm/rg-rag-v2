@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>贪嗔痴的彻底止息是达成涅槃的前提条件，涅槃即生死之流因贪嗔痴止息而自然止息的状态。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

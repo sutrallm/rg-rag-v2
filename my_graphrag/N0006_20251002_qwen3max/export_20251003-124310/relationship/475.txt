@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>持續精進、不離正念的不放逸態度，是通往解脫的關鍵。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

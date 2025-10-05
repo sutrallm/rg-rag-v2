@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止</source_entity>
+    <target_entity>观</target_entity>
+    <relationship_description>止与观需双运并进：止令心安定，观以智慧照见实相；唯有二者结合，才能穿透无明、证得智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

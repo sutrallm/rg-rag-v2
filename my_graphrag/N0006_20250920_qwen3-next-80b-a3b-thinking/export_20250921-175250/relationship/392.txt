@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>MONKS</target_entity>
+    <relationship_description>The Buddha directly addresses monks with teachings on meditation and detachment from worldly desires.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

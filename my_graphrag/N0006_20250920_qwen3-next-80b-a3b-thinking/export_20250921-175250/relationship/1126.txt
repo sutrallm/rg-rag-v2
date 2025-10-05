@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>DOCTRINE DETAILS</target_entity>
+    <relationship_description>Doctrinal details form essential parts of the original text that must be retained during modification.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

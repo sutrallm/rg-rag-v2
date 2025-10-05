@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>三學</target_entity>
+    <relationship_description>智慧是三學之一，與戒、定共同組成完整修行體系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

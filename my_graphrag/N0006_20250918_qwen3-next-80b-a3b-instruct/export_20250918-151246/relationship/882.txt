@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>明镜</source_entity>
+    <target_entity>无我与无执的实践</target_entity>
+    <relationship_description>明镜是无我无执之心的比喻，体现其澄明无住、不来不去的特质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

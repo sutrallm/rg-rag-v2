@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>因缘和合</target_entity>
+    <relationship_description>涅槃是洞察一切法因缘和合、无自性后的究竟果境，非断灭，非他力所得。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

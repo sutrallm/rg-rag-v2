@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真實修行者</source_entity>
+    <target_entity>覺醒的日常實踐</target_entity>
+    <relationship_description>真實修行者的日常行為即體現了覺醒的實踐，時時保持覺知，不執順逆。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

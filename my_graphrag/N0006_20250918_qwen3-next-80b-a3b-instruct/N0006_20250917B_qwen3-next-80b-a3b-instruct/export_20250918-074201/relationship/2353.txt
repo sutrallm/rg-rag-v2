@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Wisdom develops through the sustained effort (jingjin) of meditation and mindfulness; diligence enables insight to arise and deepen.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

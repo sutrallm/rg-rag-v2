@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the primary method for cultivating chanding (concentration); awareness of each moment naturally leads to mental stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

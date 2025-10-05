@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NON-SELF AND EMPTINESS</target_entity>
+    <relationship_description>Non-attachment arises from the realization of non-self and emptiness; understanding that all phenomena are impermanent and lack intrinsic identity naturally dissolves clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

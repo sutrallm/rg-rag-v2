@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者的日常实践</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>日常实践中的正念修习是禅定的延伸，使禅修无间断融入生活。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

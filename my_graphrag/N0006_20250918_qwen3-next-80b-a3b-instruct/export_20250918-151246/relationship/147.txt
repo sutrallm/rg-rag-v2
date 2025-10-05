@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Ethical conduct supports the development of wisdom by creating the mental clarity and stability needed for insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

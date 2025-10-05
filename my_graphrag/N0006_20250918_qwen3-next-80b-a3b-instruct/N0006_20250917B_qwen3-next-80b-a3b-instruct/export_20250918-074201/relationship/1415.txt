@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Recognizing impermanence leads to the weakening and eventual dissolution of attachment to all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>恒常不放逸的警觉</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>恒常不放逸的警觉是正念的持续维持，是正念在时间维度上的深化与扩展。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIZHI</source_entity>
+    <target_entity>WUZI</target_entity>
+    <relationship_description>Zhizhi is the wisdom that directly perceives and realizes the emptiness (self-naturelessness) of all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

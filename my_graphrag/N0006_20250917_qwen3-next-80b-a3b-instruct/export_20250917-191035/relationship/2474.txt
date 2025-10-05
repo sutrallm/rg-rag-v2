@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHOU</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Chizhou (wisdom) includes the direct perception of Wuchang (impermanence) as a core truth about all conditioned phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

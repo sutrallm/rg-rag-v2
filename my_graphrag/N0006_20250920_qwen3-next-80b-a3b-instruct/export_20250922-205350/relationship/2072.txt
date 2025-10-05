@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Chanding is a specific form or expression of Ding (meditative concentration); the term is used interchangeably in context to describe focused mental stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

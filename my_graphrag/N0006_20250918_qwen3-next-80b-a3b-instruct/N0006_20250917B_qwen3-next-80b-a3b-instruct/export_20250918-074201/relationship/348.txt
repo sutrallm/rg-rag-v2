@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>智慧是断除无明的唯一直接手段，无明的存在阻碍智慧显现。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

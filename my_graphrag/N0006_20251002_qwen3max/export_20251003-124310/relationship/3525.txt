@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四禪</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者透過專注所緣，逐步體驗四禪次第，提升定境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

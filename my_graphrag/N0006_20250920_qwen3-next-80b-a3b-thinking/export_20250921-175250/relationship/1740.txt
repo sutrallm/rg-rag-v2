@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>牵制</target_entity>
+    <relationship_description>Mental afflictions cause restraint or control over the mind, leading to confusion and loss of direction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

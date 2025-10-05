@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>二元对立</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>超越二元对立（如“有/无”、“善/恶”）才能契入中道，获得真正的解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

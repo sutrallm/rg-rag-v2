@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>众生因误解因缘和合之法为“我”，因而执取造业，陷入轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

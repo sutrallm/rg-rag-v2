@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous effort is required to maintain chanding and prevent the mind from falling into sloth or desire, making effort foundational to deep concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

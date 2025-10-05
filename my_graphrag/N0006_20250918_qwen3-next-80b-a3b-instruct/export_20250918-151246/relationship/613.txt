@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO KONG XING</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>Wu Wo Kong Xing (realization of non-self) is the insight that the Wu Yun (five aggregates) have no permanent, independent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

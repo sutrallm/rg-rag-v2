@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>精进是指依循正法持续修行，不懈怠、不放逸，正法是精进修行的依据和方向。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

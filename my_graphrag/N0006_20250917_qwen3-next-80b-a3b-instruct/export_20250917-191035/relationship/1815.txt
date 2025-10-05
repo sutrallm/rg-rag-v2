@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REBIRTH CYCLE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Greed is a primary fuel driving the cycle of rebirth through attachment and craving.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

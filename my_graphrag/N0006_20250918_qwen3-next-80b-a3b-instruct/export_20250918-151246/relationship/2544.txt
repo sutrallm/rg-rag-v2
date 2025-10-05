@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUECHA DANGXIA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Awareness in the present moment is the very method through which chanding is cultivated in daily life, not only during formal meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

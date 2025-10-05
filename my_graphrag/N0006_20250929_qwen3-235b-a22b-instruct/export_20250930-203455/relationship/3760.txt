@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>戒律是修行次第的起点，从持戒到修定再到发慧，三者环环相扣，缺一不可。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

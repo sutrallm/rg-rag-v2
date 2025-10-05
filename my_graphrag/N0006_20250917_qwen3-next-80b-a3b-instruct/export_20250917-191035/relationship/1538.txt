@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF_AWAKENING</source_entity>
+    <target_entity>PATH_TO_LIBERATION</target_entity>
+    <relationship_description>Self-awakening is the realization that the path to liberation must be practiced personally, not inherited from others.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

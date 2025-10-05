@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>压制念头</source_entity>
+    <target_entity>清净心</target_entity>
+    <relationship_description>清净心无需刻意压制念头，当贪嗔痴熄灭时，自然安住于无为。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

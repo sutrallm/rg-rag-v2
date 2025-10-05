@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Afflictions such as greed and hatred are the root causes of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

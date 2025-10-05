@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONAL ORIGINATION</source_entity>
+    <target_entity>EMPTY_NATURE</target_entity>
+    <relationship_description>Conditional Origination logically demonstrates why all phenomena have Empty Nature — because they depend on causes and conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

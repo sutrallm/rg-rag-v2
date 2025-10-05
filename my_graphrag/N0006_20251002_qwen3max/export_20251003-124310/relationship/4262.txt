@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>精进能帮助修行者避免落入生死轮回的掌控，是脱离轮回的关键修行态度。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

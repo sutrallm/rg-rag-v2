@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Right Practice, through calm and insight meditation, is the method by which Chanding is cultivated and refined.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

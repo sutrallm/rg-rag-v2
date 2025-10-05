@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者的本質就是已達成解脫的人，是解脫狀態的具體實現者。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

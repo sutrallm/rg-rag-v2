@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Non-attachment is grounded in the insight of no-self; there is no “I” to possess anything, so clinging naturally stops when no-self is realized.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

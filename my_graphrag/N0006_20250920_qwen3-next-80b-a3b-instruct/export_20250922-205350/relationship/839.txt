@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SRAMANA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sramanas practice chanding as part of their daily mental cultivation to maintain inner stillness and freedom from afflictions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

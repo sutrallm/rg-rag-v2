@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>戒定慧三学是实践四圣谛的修行路径，通过如实修行四圣谛才能断除无明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

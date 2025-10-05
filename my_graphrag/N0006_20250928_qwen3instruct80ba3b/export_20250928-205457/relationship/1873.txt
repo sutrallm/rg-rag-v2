@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WENSI XIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wensi xiu (hearing, reflection, practice) includes Chanding as the essential practical component for real transformation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

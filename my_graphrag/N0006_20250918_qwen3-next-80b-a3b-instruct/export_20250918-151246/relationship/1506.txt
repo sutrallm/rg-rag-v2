@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>无我解脱</target_entity>
+    <relationship_description>圣者即已实现无我解脱之人，内心清净无染，烦恼断尽，是解脱的活生生典范。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

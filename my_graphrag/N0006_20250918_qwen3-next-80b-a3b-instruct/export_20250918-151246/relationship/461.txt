@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轮回</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>精进是为脱离轮回之苦而采取的持续修行努力，精进直接对治轮回的成因。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无求之心</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无求之心是最接近解脱的态度，因解脱非外求所得，而是在无执中自然显现。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

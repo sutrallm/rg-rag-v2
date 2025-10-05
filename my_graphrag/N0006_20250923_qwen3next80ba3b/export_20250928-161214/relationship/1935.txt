@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>PRACTITIONERS</target_entity>
+    <relationship_description>PRECEPTS guide PRACTITIONERS in ethical behavior to avoid harm and fear.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

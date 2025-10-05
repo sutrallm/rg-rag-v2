@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEEP_WISDOM</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Deep wisdom includes the direct realization of non-self as a fundamental truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

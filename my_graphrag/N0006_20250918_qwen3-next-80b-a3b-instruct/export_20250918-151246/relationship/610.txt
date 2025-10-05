@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU ZHUO</target_entity>
+    <relationship_description>Sheng Zhe embodies Wu Zhuo, as their liberation includes freedom from attachment to all experiences and attainments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

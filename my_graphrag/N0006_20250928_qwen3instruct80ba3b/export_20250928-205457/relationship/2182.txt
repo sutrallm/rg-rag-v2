@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Drawing insight from anatta weakens clinging, as one sees there is no "self" to protect or possess — enabling non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAMP</source_entity>
+    <target_entity>DARKNESS</target_entity>
+    <relationship_description>A lamp in darkness allows clear vision of objects, directly from '手持灯烛在暗处能清晰见物'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

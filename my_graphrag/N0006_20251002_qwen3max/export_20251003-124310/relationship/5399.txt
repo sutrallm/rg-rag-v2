@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>对治烦恼的方法</source_entity>
+    <target_entity>慈心观</target_entity>
+    <relationship_description>慈心观是针对瞋恚的对治方法，属于对治烦恼的具体修行实践之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

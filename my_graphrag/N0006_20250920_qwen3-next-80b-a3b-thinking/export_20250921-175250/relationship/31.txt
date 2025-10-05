@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE NATURE OF DHARMA</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Understanding the TRUE NATURE OF DHARMA leads to LIBERATION by dissolving ignorance and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

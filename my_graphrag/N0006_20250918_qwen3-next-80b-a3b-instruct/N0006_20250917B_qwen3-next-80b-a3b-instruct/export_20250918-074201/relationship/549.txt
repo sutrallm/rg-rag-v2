@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REALIZATION THROUGH EXPERIENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation can only be attained through personal realization and direct experience of truth, not by faith or external authority.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Moral discipline is the essential trait of the sage, whose life is wholly aligned with ethical purity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

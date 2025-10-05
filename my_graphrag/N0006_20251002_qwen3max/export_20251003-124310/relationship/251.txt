@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧觀照</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>無常是智慧觀照的重要內容之一，透過觀照無常而破除執著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

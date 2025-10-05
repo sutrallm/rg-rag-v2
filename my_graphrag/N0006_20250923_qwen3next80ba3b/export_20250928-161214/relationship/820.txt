@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Insight into impermanence dispels ignorance of true reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

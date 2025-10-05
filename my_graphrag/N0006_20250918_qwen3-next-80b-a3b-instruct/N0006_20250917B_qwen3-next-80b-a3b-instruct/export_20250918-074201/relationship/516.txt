@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>聖者之成就源自持續精進，無精進則無法斷盡煩惱，故精進為其必經之徑。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

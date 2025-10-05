@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRAINING</source_entity>
+    <target_entity>REINCARNATION_CYCLE</target_entity>
+    <relationship_description>Without diligent training, one remains trapped in the cycle of rebirth; training is the means to escape it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

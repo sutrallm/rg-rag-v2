@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXTERNAL RITUALS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>External rituals cannot lead to nirvana; true liberation arises only from inner insight, not outward practices.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREATH OBSERVATION PRACTICE</source_entity>
+    <target_entity>NEGLECT</target_entity>
+    <relationship_description>The practice aims to counteract neglect by promoting mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

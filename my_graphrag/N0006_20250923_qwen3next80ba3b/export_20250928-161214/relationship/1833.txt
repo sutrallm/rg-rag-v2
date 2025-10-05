@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION STUDY</source_entity>
+    <target_entity>HARMONIZATION</target_entity>
+    <relationship_description>CONCENTRATION STUDY contributes to harmonization by developing mental stability within the threefold training.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

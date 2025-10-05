@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Attachment to spiritual experiences or attainments obstructs liberation; overcoming it is essential for true freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

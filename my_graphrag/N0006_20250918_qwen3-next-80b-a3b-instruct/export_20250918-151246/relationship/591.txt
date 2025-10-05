@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Realization of wuwo is essential to becoming a shengzhe, as transcending the illusion of self is foundational to complete liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

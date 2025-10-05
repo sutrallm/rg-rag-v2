@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GRASPING</source_entity>
+    <target_entity>FORMS</target_entity>
+    <relationship_description>Grasping involves attachment to external forms.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

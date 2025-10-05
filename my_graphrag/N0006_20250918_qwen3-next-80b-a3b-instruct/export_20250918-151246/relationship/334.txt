@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>STAGE OF SAINTHOOD</target_entity>
+    <relationship_description>Wisdom — particularly the direct realization of the Three Characteristics — is the defining quality of those who have reached the stage of sainthood.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

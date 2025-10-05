@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion fuels hatred by distorting perception of others and circumstances, leading to aversion and suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我观照</target_entity>
+    <relationship_description>无我观照的对象正是五蕴，修行者观五蕴无我，方能瓦解“我执”，止息烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

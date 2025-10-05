@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修道位</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>修道位是修行次第的第四个阶段，持续修习巩固见道成果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

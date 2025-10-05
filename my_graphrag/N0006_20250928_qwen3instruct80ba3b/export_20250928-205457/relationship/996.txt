@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHENGJIAN</source_entity>
+    <target_entity>BAOYU ZHINENG</target_entity>
+    <relationship_description>Wuwo zhengjian (view of non-self) is a core expression and practicing component of transcendent wisdom (baoyu zhineng).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

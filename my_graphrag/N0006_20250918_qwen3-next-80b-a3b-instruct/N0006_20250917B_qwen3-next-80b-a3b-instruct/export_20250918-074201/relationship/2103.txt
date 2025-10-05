@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAZINESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Laziness undermines chanding by weakening focus and allowing the mind to become scattered and distracted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

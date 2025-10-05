@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴三毒</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者之所以为圣，是因为断尽贪嗔痴三毒，成为清净解脱的典范。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

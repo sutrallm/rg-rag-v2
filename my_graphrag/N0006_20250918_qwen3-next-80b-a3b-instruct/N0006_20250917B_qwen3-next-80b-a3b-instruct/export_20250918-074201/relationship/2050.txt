@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the method or practice through which chanding (concentration) is cultivated and maintained. It is the foundational awareness activity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

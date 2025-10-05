@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF_OBSERVATION</source_entity>
+    <target_entity>THE_FIVE_AGGREGATES</target_entity>
+    <relationship_description>No-self observation directly examines the five aggregates to realize they are impermanent, conditioned, and not a self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

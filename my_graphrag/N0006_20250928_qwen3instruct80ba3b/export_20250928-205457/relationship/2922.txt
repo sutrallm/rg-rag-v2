@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM_OF_NON-ATTACHMENT</target_entity>
+    <relationship_description>Chanding provides the mental stability needed to develop wisdom; wisdom, in turn, prevents attachment to meditative states, ensuring chanding leads to true liberation rather than mere bliss.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

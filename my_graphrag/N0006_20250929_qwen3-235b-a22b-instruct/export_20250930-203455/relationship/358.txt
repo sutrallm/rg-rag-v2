@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅悦</target_entity>
+    <relationship_description>智慧使修行者虽体验禅悦但不贪着，不耽溺定境，保持清明觉照，避免被成果或感受所系缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自我检验</source_entity>
+    <target_entity>烦恼减少</target_entity>
+    <relationship_description>自我检验的核心标准是内心烦恼是否减少，如嗔怒减少、安住增强、执着减弱，是衡量修行进步的内在指标。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

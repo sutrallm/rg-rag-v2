@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>內在紛擾</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定能使心遠離內在紛擾，內在紛擾是禪定所要克服的障礙之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

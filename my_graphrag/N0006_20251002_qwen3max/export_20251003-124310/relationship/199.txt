@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>天界眾生</target_entity>
+    <relationship_description>聖者的德行與解脫境界受到天界眾生的深深敬仰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

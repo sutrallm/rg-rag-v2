@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHING_WISDOM</source_entity>
+    <target_entity>NO_EXTRACTION</target_entity>
+    <relationship_description>True non-attachment leads to the state of no extraction—where even the desire for purity is relinquished, achieving complete mental freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

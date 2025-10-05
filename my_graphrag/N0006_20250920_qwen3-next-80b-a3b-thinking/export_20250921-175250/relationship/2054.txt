@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DENG ZHAN</source_entity>
+    <target_entity>KUANG FENG</target_entity>
+    <relationship_description>遇狂风时，灯盏容易熄灭，需稳持以抵御外境扰动。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

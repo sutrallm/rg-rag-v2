@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如法修行者</source_entity>
+    <target_entity>诸天</target_entity>
+    <relationship_description>如法修行者因其德行与实证成就，自然赢得诸天的由衷礼敬与赞叹。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

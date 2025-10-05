@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧的本质是对缘起法的如实了知，因此缘起法是智慧观照的核心内容。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIANTOU</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>By observing and not reacting to Niantou, one cuts the chain of karma that sustains samsara, thereby achieving Jiede.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>當下</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定的實踐就在當下，覺察呼吸與念頭是當下禪修的核心方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

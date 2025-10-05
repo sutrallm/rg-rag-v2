@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲喜舍</source_entity>
+    <target_entity>净化自心</target_entity>
+    <relationship_description>慈悲喜舍是净化自心的重要实践，通过培养四种无量心，去除贪嗔痴，使心趋向清净。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修成就者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>禅修成就者通过深入禅修获得心解脱，已如实了知无常、苦、无我。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Chanding serves as the foundation for developing insight into the true nature of phenomena, enabling liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

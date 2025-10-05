@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>涅槃是对生死轮回的彻底超越，是解脱轮回束缚的终极状态。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

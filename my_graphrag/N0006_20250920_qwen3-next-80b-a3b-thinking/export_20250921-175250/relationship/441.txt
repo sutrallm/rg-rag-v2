@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DEEP WELL</target_entity>
+    <relationship_description>Meditation is compared to a deep well that provides stable and unshakable mental steadiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

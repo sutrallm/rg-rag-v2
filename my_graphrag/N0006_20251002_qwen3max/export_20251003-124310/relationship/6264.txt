@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>若修行者放纵心念、不持不放逸，便会落入生死轮回；反之，不放逸可防止烦恼束缚，趋向解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jie provides the moral foundation for mental stability. Without ethical conduct, the mind remains agitated and chanding cannot develop.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

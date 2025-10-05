@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral precepts provide the ethical foundation necessary for the mind to settle into chanding without guilt or remorse.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

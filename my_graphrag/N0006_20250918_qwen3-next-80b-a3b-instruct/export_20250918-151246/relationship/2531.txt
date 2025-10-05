@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RI chang SHIXI</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>Continual mindfulness in daily life is presented as the very foundation for achieving liberation, not just formal sitting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

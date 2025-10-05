@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>三毒是苦的根源，斷三毒則苦止，此為緣起法的關鍵鏈環。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

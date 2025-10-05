@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Compassion and wisdom are interdependent: wisdom prevents compassion from becoming attachment, and compassion prevents wisdom from becoming cold detachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

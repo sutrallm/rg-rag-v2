@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>懈怠</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>懈怠者无法成就禅修，与不放逸形成对比。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

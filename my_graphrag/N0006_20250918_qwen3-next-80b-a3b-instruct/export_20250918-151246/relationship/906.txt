@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念是禅定的核心要素之一，持续觉知是实现心念专注不散乱的前提。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

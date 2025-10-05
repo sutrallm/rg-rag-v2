@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>心念专注</target_entity>
+    <relationship_description>心念专注是禅定的核心组成部分，禅定依赖于心对当下的专注以达成内心平静。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

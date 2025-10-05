@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在光明</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>内在光明在烦恼熄灭后自然显现，烦恼是遮蔽光明的障碍。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

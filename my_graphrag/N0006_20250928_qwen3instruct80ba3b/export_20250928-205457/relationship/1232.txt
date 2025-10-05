@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion is a manifestation of ignorance—specifically, the mistaken belief in a permanent, independent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

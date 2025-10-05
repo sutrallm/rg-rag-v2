@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是實現解脫的本質力量，透過洞見實相斷除執著，方得真正解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

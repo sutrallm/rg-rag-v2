@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者具足清净戒行，是调伏心念、安住寂静的基础，与智慧共同导向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

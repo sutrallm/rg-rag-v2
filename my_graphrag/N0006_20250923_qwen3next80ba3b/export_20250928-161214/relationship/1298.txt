@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>DELETE PEOPLE AND LOCATIONS</target_entity>
+    <relationship_description>DELETE PEOPLE AND LOCATIONS is a core component of the overall TASK procedure.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

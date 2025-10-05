@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIGUI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Zhigui (wisdom) is the direct path to jiede (liberation), as it dismantles delusion and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

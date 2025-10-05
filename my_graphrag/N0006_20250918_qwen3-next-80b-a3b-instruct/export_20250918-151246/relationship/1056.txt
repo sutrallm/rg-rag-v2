@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Clean ethical conduct supports the stability of chanding by reducing mental hindrances and creating conducive inner conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

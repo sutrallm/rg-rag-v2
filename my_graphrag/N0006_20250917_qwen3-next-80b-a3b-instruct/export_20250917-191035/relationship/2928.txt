@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>SAINTLY QUALITIES</target_entity>
+    <relationship_description>Non-attachment is a core component of saintly qualities, as those who embody wisdom and mindfulness do not cling to experiences—even spiritual ones—making non-attachment essential to their liberated state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Non-self insight is developed through examining the five aggregates and realizing their impermanent, suffering, and selfless nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

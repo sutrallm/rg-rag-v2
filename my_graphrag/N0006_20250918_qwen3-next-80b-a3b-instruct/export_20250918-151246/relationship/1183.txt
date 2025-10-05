@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>REBIRTH</target_entity>
+    <relationship_description>Those who fully embody saintly qualities transcend the cycle of rebirth by eliminating the causes that fuel it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

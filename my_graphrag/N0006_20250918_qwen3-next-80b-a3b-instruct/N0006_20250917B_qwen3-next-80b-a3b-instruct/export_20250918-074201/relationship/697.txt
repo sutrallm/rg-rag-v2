@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-self is the ultimate insight that realizes liberation—not as attainment but as the dropping of the illusion of a self who is liberated.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>The realization of no-self arises from seeing the five aggregates as transient, conditioned, and devoid of intrinsic identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

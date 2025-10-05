@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>修行者不应执着追求神通，神通非修行终极目标，而是可能伴随的副产品。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

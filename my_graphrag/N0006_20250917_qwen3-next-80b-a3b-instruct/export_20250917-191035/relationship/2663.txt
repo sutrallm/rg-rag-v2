@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>净戒</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>净戒为禅定提供清净的身心基础，防止因恶行而生扰乱，是修定的前提条件。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

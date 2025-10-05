@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHI HUI</source_entity>
+    <target_entity>WU WO GUAN</target_entity>
+    <relationship_description>Wisdom manifests through the practice of Contemplation of Non-Self, which is its core expression in Buddhist insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

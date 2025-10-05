@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>外在形式</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>仅依赖外在形式（如持戒、诵经）而无内观智慧，无法真正断除烦恼，突显智慧在修行中的核心地位。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

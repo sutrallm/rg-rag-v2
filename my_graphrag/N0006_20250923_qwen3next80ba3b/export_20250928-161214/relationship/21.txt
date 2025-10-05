@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is a defining characteristic of enlightened sages.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

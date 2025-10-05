@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>The holy one continuously practices jingjin, maintaining discipline and effort without slackness, as an essential characteristic of the enlightened being.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

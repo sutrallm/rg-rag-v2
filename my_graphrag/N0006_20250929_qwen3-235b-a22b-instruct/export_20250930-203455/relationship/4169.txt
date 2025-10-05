@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净光明</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>清净光明是内心远离贪嗔痴后显现的本然状态，安住于此即是真实解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

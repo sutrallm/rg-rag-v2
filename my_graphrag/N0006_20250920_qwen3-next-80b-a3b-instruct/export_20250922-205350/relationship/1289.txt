@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>REBIRTH_CYCLE</target_entity>
+    <relationship_description>Craving binds beings to the cycle of rebirth, as attachment generates karmic continuity beyond death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

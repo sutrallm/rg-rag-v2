@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOWUZHUO</source_entity>
+    <target_entity>GUANG</target_entity>
+    <relationship_description>Chaowuzhuo teaches that even supernatural powers (Guang) must not be grasped, as they are transient and not the goal — wisdom prevents spiritual materialism.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

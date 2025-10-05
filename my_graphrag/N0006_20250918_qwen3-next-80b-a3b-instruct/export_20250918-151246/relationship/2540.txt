@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHUO</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>True transcendence of attachment arises from the direct insight into non-self, which dissolves the basis for clinging to experiences or states of being.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

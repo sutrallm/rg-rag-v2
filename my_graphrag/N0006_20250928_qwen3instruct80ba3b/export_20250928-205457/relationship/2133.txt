@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHIZHU</target_entity>
+    <relationship_description>Chanding leads to insight that enables Chizhu—non-attachment to meditative states—ensuring it doesn't become another form of clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

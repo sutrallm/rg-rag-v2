@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>True chanding must include transcending attachment to its own experiences (bliss, light, powers) to avoid spiritual clinging and remain aligned with wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

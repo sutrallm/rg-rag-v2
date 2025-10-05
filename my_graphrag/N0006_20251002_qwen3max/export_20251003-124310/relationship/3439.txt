@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>圣者以自身证得的智慧为眼，不依赖他信，亲见缘起法则并洞悉灭苦之道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>虚空</target_entity>
+    <relationship_description>解脱者的心如虚空，包容而不执，是其究竟自在、无碍无染的象征。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

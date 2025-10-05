@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>结使</target_entity>
+    <relationship_description>解脱需循序渐进断除结使，当烦恼渐薄、心愈澄明，即知已趋近解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

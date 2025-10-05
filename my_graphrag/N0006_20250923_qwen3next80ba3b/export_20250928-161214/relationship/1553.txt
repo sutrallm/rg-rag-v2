@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>标题</source_entity>
+    <target_entity>主题</target_entity>
+    <relationship_description>标题为划分后的主题提供更具代表性的命名</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

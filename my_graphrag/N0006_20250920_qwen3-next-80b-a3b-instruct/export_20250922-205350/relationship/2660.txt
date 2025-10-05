@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>BUFANGYI</target_entity>
+    <relationship_description>Jingjin (diligent effort) is expressed through Bufangyi (non-negligence), as both involve continuous, vigilant mindfulness in everyday actions to prevent mental degeneration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

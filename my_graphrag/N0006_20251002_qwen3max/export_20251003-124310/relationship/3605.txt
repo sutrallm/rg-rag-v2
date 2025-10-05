@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>四圣谛中的“灭谛”即指涅槃，而“道谛”是证得涅槃的实践方法。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

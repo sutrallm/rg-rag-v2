@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-attachment is the key practice leading to Nirvana, as liberation arises from relinquishing all forms of clinging, including to spiritual experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

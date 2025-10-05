@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FU FA ZUI ZHONG GUI SU</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>The ultimate goal is achieved by extinguishing ignorance and clinging—core aspects of wu ming.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

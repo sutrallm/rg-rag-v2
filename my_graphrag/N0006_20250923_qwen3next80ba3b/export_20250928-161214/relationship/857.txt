@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>UNMOVING MIND NATURE</source_entity>
+    <target_entity>STATE</target_entity>
+    <relationship_description>UNMOVING MIND NATURE causes STATE to become naturally serene, as per "心若不动，境界自然寂静" in the source text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

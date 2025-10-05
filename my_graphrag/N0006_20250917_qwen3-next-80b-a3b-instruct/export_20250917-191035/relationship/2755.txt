@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YU</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Sheng Zhe (saintly person) is free from Wu Yu (the five desires), demonstrating the mastery of senses and emotional equanimity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

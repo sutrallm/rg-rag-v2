@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>TRANSCENDENTWisdom</target_entity>
+    <relationship_description>Non-self is the central insight cultivated by transcendent wisdom; they are inseparable in practice and realization.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

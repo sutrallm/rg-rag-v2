@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>JIE TUO</target_entity>
+    <relationship_description>Buddha (fo tu) teaches the path to liberation (jietuo), but does not grant it—he only points the way; realization must come from self-practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

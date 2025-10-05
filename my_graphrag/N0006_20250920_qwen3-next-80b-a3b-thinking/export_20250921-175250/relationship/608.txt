@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Meditation cultivates insight into the impermanence of all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

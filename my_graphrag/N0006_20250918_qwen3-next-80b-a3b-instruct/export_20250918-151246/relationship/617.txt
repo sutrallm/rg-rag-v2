@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAN YU</source_entity>
+    <target_entity>SHENG SI</target_entity>
+    <relationship_description>Tan Yu (desire) is a primary fuel for Sheng Si (the cycle of rebirth), binding beings to samsara through clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

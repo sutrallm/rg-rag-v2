@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>佛陀教导正念为日常修行的核心，是通向解脱的不二法门。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>佛陀是解脫之道的開示者與引導者，其傳授的教法目標即是引導眾生達到究竟解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

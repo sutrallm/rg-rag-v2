@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>PRACTITIONERS cultivate DILIGENCE to persist in their spiritual path and avoid heedlessness.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

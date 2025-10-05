@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QINGJING</source_entity>
+    <target_entity>SHENGGHE</target_entity>
+    <relationship_description>Qingjing is the defining quality of Shenghe—the mind of the awakened being is unshakably still, purified, and unattached.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>五蕴中无独立实有的“我”，观照五蕴可体悟无我。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>痴</source_entity>
+    <target_entity>无我观照</target_entity>
+    <relationship_description>无我观照是破除痴（无明）的核心方法，帮助修行者认清“我”的虚妄。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

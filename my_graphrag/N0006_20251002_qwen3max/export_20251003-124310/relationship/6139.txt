@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離欲</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>離欲是真正解脫的必要條件；若貪著禪悅或境界，便落入微細執著，唯有徹底放下渴望與取著，才能斷盡煩惱、證得自由。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

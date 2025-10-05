@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEDINGHUI</target_entity>
+    <relationship_description>Chanding is one of the three essential components (the 'Ding' in Jiedinghui) of the Buddhist path to liberation, forming a foundational practice alongside morality and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

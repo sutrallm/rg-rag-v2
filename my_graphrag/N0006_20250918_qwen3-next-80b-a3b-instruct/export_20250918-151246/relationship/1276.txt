@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG SI ZHI LUN</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Shengsi zhi lun is fueled by Wu ming — ignorance is the root cause that perpetuates cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

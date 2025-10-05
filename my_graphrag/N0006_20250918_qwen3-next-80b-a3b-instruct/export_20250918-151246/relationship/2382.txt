@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅悦</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧使修行者不执取禅悦，视其为虚幻体验，避免陷入新的执着，二者构成修行中的警惕与超越关系。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

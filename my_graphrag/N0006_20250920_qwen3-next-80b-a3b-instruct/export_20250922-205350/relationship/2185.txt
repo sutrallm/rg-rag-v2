@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHIGUO</target_entity>
+    <relationship_description>Chanding is the foundation through which one develops the insight necessary to transcend attachment and realize the insubstantiality of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

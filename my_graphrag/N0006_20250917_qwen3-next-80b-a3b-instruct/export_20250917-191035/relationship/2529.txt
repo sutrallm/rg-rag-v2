@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Daily Practice cultivates Chan Ding not only in formal sitting but in all activities, extending meditative stability into life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

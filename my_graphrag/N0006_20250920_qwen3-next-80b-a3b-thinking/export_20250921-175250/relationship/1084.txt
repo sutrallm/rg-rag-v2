@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>HAPPINESS</target_entity>
+    <relationship_description>HAPPINESS is an emotion associated with CRAVING in the Origin of Suffering Truth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

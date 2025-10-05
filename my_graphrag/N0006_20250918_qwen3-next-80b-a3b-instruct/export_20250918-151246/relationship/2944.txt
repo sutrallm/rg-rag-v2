@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>FAN NAO</target_entity>
+    <relationship_description>Wu Ming (ignorance) is the root cause of Fan Nao (afflictions) — when unenlightened, one reacts to experiences with greed, anger, and doubt.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

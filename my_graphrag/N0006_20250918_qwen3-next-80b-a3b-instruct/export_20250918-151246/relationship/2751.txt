@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Continuous awareness leads to wisdom by allowing the meditator to observe the true nature of phenomena — arising and passing — without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

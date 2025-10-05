@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>痴的本質即是誤認「我」為真實恒常的主體，因此我執是痴的核心表現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

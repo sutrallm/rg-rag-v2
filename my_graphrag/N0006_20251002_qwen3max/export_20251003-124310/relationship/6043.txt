@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>外境</target_entity>
+    <relationship_description>修行者守護六根，使其不追逐外境，並在面對外境時不生貪愛、不隨境界轉動，以維持內心安定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

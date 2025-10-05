@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment is the defining characteristic of liberation — true freedom is realized when clinging to any state, even enlightenment, is abandoned.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

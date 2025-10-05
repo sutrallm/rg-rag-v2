@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>MIDDLE PATH</target_entity>
+    <relationship_description>Chanding is practiced on the middle path—neither clinging to calm states nor rejecting distractions, maintaining equanimity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

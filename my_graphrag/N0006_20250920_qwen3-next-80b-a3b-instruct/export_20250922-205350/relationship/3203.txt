@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF_OBSERVATION</source_entity>
+    <target_entity>CONDITIONAL_ORIGINATION</target_entity>
+    <relationship_description>Insight into non-self is grounded in understanding that all phenomena, including the self, arise dependently and have no independent essence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

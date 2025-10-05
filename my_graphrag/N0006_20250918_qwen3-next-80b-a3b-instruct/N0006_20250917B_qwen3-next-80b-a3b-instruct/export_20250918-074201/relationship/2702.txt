@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天界福报</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>天界福报仍属轮回中的有为法，而心解脱是超越一切轮回境界的无为法，二者目标不同。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

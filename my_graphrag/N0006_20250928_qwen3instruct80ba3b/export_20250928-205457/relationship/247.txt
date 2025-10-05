@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_FOLDED_PATH</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is one of the three essential components of the threefold path, forming the meditative pillar alongside ethics and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

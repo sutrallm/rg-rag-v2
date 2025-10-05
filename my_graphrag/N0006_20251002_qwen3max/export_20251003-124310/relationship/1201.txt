@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>心解脫的特徵即是煩惱（貪、瞋、癡）被徹底摧伏，二者呈直接對反關係。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

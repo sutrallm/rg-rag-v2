@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>A Shengzhe embodies Wuzhi, having utterly relinquished all clinging—even to liberation or enlightened states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

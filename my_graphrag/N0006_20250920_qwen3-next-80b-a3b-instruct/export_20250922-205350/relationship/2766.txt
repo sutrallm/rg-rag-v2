@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhengnian enables the continuous observation needed to realize Wuwo — moment-to-moment awareness allows seeing the impermanent, non-self nature of aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>精進是實現和維持禪定的必要條件，無法精進則無法遠離放逸，禪定無從得力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Saints have transcended anger and aversion, remaining equanimous in all circumstances, as described in the text.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

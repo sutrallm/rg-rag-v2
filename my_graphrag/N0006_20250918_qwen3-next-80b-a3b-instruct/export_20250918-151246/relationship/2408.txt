@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Transcendent wisdom is the direct insight into the impermanent nature of all conditioned phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

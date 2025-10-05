@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>贪瞋痴</target_entity>
+    <relationship_description>具足戒定慧的修行者能彻底断除贪、瞋、痴等根本烦恼，从而超越痛苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIAN</target_entity>
+    <relationship_description>A noble being (shengzhe) maintains constant mindfulness (nian) to observe the mind and remain in inner stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

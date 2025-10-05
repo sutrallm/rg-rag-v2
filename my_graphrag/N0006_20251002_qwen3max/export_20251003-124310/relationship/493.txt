@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>内心转化</target_entity>
+    <relationship_description>持续精进与警觉的不放逸态度，是推动内心转化、防止懈怠退转的关键修行品质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

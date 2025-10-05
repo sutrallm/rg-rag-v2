@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>DISCIPLINED PRACTICE</target_entity>
+    <relationship_description>Chan Ding is cultivated and deepened only through sustained, alert, and disciplined practice; without effort, it cannot be maintained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

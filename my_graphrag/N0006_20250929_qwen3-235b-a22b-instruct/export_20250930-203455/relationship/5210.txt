@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>无明是生死轮回与烦恼的根源，彻底断除无明是证得涅槃、实现究竟解脱的必要条件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

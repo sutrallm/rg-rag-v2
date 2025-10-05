@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸法实相</source_entity>
+    <target_entity>菩提</target_entity>
+    <relationship_description>体证实相之人即觉悟（菩提），烦恼与菩提本无二，转无明即成菩提。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

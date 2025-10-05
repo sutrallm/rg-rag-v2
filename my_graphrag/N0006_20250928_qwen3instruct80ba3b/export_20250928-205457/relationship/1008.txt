@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Noble Ones have perfected chanding as a foundation for insight, enabling them to abide in tranquility and freedom from disturbance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

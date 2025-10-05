@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INTERNAL DEMONS</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Internal demons are a metaphorical expression of defilements—the mental states of desire, anger, and ignorance that hinder spiritual progress.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHAO YUE ZHU ZHOU</target_entity>
+    <relationship_description>A Sage perfectly exemplifies non-attachment and wisdom by not clinging to any spiritual attainments or experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

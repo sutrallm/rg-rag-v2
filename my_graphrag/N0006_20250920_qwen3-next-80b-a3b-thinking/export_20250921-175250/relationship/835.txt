@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR NOBLE TRUTHS</source_entity>
+    <target_entity>PATH</target_entity>
+    <relationship_description>PATH is the fourth of the Four Noble Truths, outlining the way to end suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

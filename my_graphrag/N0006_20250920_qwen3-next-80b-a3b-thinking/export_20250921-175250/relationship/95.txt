@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>诸法无我</target_entity>
+    <relationship_description>一切因缘和合导致无独立实体，即诸法无我</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom is described as the sole key that cuts the root of ignorance—thus directly enabling nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

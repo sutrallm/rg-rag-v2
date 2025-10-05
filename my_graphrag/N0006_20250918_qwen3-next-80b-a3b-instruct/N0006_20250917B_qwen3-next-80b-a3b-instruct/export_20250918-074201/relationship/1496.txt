@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWEI</source_entity>
+    <target_entity>YUNGLI</target_entity>
+    <relationship_description>Xiuwei cultivates yungli by nurturing continuous, non-judgmental observation of the arising and passing of phenomena in everyday experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Jie (ethical discipline) creates the mental stability and purity necessary for ding (concentration) to arise and remain unshaken.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

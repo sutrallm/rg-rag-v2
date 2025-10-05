@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>缘起生灭</target_entity>
+    <relationship_description>Wisdom comprehends that all things arise and cease through interdependent conditions (缘起生灭), not independently.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

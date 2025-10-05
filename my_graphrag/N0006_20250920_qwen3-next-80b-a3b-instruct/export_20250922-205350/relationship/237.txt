@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>JIETUO</target_entity>
+    <relationship_description>Wisdom (zhinen) — particularly insight into non-self and impermanence — is the direct cause of liberation (jietuo), as it uproots clinging and ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

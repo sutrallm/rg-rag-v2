@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE CONTEMPLATION</source_entity>
+    <target_entity>ETERNALIST ATTACHMENT</target_entity>
+    <relationship_description>Impermanence contemplation dispels the attachment to permanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

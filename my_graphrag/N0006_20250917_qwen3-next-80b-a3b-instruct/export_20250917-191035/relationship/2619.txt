@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGJIAN YU ZHENGXING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Zhengxing (right practice) requires Jingjin, and zhengjian provides the motivation and direction for that effort — they are inseparable.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

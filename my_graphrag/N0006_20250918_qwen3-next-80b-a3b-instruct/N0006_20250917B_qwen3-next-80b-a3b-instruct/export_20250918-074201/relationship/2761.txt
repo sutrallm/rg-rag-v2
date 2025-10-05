@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>TAN CHEN CHI</target_entity>
+    <relationship_description>Nirvana is defined by the total extinguishing of greed, hatred, and delusion — these afflictions are the very obstacles it removes.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

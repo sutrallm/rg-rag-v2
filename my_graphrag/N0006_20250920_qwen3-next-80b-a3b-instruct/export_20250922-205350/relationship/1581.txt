@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒定慧三学中，禅定是中间环节，依赖于戒的净化与慧的引导，三者互为支撑。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

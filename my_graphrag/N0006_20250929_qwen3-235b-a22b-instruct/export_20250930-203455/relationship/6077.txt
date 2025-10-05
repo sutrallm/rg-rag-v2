@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>朝露</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>朝露用于比喻荣辱得失的无常，辅助无常观修习。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

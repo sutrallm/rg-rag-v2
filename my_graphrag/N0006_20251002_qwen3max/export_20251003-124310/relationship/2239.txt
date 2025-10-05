@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>定慧双修</target_entity>
+    <relationship_description>解脱者必经定慧双修之路，因唯有定慧双运才能彻底断除烦恼、证得涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST CLASSIC PASSAGE</source_entity>
+    <target_entity>DOCTRINAL TEACHINGS</target_entity>
+    <relationship_description>Original Buddhist classic passage is transformed into doctrinal teachings while preserving all doctrines</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

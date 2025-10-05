@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QIXING</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Qixing outlines that ding arises from jiude, forming the second stage of the path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

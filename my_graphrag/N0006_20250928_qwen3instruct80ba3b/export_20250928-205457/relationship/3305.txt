@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>ZHENGJIAN</target_entity>
+    <relationship_description>Zhihui deepens and actualizes zhengjian. Insight into reality transforms theoretical right view into experiential realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

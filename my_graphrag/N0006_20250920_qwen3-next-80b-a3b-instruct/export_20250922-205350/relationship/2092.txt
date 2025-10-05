@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Insight into non-self (Wuwo) is the core realization of wisdom (Hui), the understanding that breaks the illusion of an enduring self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

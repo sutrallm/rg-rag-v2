@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已超越贪嗔痴的束缚，内心寂静安稳，言行自然合于正道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

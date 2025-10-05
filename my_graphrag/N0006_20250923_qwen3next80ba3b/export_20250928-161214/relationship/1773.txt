@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>QUERY</target_entity>
+    <relationship_description>The USER submitted the QUERY for processing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

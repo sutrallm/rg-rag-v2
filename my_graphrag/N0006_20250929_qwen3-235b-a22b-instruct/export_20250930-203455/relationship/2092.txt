@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>圣者通过观察五蕴无常、苦、无我，瓦解我执，成就无我智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

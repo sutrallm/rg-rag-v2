@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>昏沉</source_entity>
+    <target_entity>经行</target_entity>
+    <relationship_description>经行是治疗昏沉的方法之一，通过行走提振精神，维持禅修状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

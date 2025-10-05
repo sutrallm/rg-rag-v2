@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI</source_entity>
+    <target_entity>SHENGR</target_entity>
+    <relationship_description>Shengre is the embodiment of cibei — a perfected being who simultaneously manifests boundless compassion and penetrating wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

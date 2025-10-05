@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>独处</source_entity>
+    <target_entity>内心寂静</target_entity>
+    <relationship_description>独处是达成内心寂静的重要情境，通过远离喧嚣、调伏五根、收摄六识使心趋向安定。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

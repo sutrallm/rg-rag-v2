@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-CLINGING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Non-clinging undermines delusion by preventing attachment to false perceptions of permanence and self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

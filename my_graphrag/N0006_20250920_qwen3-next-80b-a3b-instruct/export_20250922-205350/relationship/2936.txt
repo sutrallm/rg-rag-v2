@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHUI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Only those who have achieved WuZhui (non-attachment) can become a Shengzhe (holy one); non-clinging is the hallmark of enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

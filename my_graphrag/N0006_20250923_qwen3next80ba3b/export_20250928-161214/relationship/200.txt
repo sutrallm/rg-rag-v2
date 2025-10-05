@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>终极安稳</target_entity>
+    <relationship_description>Practitioners realize ultimate peace (终极安稳) through enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

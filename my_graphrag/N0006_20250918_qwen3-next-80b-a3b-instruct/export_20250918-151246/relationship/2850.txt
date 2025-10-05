@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>精进修行是开发智慧的必要途径，唯有持续实践，才能逐步破除无明与贪爱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>Saints (圣者) are those who have fully attained liberation (解脱) and thus live in a state of perfect equanimity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>昏沉</target_entity>
+    <relationship_description>不放逸能防止心落入昏沉，通过时刻警醒保持禅定所需的清明状态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

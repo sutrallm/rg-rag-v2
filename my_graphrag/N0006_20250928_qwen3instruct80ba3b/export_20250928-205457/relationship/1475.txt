@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慈悲與智慧需雙運，智慧觀空而不墮虛無，慈悲利他而不執相，二者缺一不可。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

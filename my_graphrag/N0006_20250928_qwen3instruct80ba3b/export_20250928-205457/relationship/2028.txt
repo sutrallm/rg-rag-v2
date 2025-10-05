@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-self</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Seeing non-self dissolves clinging, as there is no substantive "self" to cling to or protect.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

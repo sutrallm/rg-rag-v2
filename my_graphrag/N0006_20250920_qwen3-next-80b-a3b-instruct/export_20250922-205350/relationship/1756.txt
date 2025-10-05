@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Wuwo guan, or the insight of non-self, is the cognitive foundation for transcending attachment to phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

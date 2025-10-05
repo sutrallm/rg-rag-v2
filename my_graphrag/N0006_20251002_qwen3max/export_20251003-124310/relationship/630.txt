@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>身體的不淨</target_entity>
+    <relationship_description>修行者在靜坐時首先觀察身體的不淨，以對治貪愛、生起出離之心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

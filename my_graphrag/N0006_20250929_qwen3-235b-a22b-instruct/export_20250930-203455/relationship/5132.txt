@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在光明</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>内在光明是清净智慧的自然显现，是智慧修习成熟后的内在状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

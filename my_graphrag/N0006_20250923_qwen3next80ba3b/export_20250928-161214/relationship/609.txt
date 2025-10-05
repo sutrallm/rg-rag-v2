@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROCESSING</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>Processing activities cannot be carried out without source content.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

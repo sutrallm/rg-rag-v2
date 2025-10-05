@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>THE THREE POISONS</target_entity>
+    <relationship_description>Stillness is cultivated to observe and ultimately dissolve the three poisons — greed, hatred, and delusion — through mindful awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

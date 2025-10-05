@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chanding leads to non-attachment by stabilizing the mind so it no longer clings to experiences, even positive ones.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIZAI JUEXING</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Neizai juexing destroys Wu Ming by replacing ignorance with direct understanding of reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

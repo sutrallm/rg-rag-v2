@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>天人</target_entity>
+    <relationship_description>天人因聖者已達究竟清淨與解脫，而對其心生尊敬，象徵其修行之崇高地位。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

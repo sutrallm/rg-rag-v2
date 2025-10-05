@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲與平等心</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者心念自然流露慈悲與平等，不因親疏善惡而有分別，這是其內在清淨與無我實相的外顯。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

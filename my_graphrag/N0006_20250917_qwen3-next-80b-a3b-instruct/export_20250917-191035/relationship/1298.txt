@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>WUWO YU WUCHANG</target_entity>
+    <relationship_description>Right mindfulness enables direct observation of the impermanent and selfless nature of phenomena, leading to the insight that frees one from illusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

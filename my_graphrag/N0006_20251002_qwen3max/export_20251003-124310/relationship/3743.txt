@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>心的调伏</target_entity>
+    <relationship_description>心的调伏通过如实观察心念生灭、不随境转，从而逐渐止息烦恼，迈向涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

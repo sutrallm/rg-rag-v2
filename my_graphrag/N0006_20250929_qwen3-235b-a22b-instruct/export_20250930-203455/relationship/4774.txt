@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>修行者若不精进、放逸懈怠，易被死亡魔王（象征无明与轮回）掌控，故需持续精进。</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

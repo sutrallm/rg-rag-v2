@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chaoshi depends on the understanding of Wuwo (non-self); realizing that phenomena lack a self is central to non-attachment and thus to wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

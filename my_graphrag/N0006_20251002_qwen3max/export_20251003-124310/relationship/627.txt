@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>身體的不適</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>身體的不適會妨礙禪定的成就，遠離身體不適是成就禪定的必要條件。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

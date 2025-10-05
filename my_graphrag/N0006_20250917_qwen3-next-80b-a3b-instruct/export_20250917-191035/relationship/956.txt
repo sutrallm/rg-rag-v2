@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行是达成禅定的实践路径，禅定是修行的成果与状态之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

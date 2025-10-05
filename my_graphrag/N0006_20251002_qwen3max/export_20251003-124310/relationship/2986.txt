@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>我见</target_entity>
+    <relationship_description>我见源于对五蕴暂时聚合现象误认为有实存自我；通过观照五蕴无我，可彻底破除我见。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

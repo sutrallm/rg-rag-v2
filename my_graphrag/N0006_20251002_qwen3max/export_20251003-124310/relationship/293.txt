@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>慧是通向解脱的三学之一，直接断除无明与执着，实现究竟离苦。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

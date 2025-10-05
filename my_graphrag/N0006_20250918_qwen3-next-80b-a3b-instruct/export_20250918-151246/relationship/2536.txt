@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>FSAN</target_entity>
+    <relationship_description>Ignorance (wu ming) is the root cause of afflictions (fesan), which in turn perpetuate suffering and prevent liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

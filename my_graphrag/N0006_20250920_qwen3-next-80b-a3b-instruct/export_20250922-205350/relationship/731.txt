@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>ANATTA_PATH</target_entity>
+    <relationship_description>Chaoshi is the insight cultivated through the Anatta Path, realizing the illusory nature of self and phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

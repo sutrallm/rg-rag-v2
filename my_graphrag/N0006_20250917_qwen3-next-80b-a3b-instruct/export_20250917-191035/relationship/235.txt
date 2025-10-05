@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Chanding helps dispel defilements such as restlessness, laziness, and mental turmoil by stabilizing the mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

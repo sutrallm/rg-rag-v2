@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STABLE_MIND</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A stable mind is both the result and the condition of deep chanding, cultivated through morality, wisdom, and mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

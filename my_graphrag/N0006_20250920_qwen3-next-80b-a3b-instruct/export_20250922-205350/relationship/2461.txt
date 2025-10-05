@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>ETHICAL_CONDUCT</target_entity>
+    <relationship_description>The Buddha taught ethical conduct as a necessary foundation for spiritual progress, forming the first part of the Threefold Training.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

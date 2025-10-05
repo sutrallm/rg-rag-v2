@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xiuxing depends on Jingjin—constant, unwavering effort is required to maintain mindfulness and avoid slipping into distraction or laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

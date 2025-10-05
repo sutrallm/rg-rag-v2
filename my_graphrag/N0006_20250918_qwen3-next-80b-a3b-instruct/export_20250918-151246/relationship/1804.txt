@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Chanding provides the stable mental foundation from which Zhinen (insight wisdom) arises; deep concentration enables clear seeing of reality's true nature.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

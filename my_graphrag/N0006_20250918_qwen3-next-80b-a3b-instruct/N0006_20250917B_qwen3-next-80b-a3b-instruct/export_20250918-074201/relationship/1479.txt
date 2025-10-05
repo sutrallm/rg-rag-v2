@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>戒</target_entity>
+    <relationship_description>止观的修习依赖于戒行的保障，三者（戒、定、慧）构成一体，缺一不可。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

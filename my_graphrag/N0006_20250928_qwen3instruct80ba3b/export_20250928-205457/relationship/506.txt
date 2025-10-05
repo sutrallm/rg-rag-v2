@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Chanding provides the stable mental basis for wuzhi (wisdom) to arise, but wuzhi prevents attachment to chanding itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

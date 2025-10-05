@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>STABILITY</target_entity>
+    <relationship_description>Meditation directly cultivates inner stability and focus for spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

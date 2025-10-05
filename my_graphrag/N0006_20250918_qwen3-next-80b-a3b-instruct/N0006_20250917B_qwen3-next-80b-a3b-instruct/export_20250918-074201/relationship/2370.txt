@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly qualities include the stabilized, calm mind cultivated through chanding, indicating chanding as a manifest trait of the saintly person.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

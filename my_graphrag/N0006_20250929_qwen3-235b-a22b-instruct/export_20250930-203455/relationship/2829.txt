@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定是生起智慧的工具，通过禅定专注观察，可洞察无常与无我，从而开发智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

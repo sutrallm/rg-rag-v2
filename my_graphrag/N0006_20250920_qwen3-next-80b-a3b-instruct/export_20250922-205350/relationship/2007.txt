@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>禪定的修習需依賴精進，唯有持續不懈才不落入放逸，因此精進是禪定得以維持的必要條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

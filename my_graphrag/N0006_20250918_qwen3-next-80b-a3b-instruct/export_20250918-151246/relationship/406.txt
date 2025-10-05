@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The sage abides in stillness and calm, indicating mastery of chanding, which is foundational to their stable and purified mental state.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

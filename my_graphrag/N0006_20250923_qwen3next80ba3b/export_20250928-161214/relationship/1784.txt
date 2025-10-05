@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPECIALIZED TERMS</source_entity>
+    <target_entity>FIVE SKANDHAS</target_entity>
+    <relationship_description>FIVE SKANDHAS is a specialized term explicitly mentioned for accuracy preservation in instruction 5.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

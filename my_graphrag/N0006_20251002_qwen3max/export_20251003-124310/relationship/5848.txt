@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>不放逸通过时刻警觉、守护六根，防止烦恼有机可乘，是断除烦恼的重要保障。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

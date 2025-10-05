@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Noble Ones have completely eradicated greed through insight and ethical discipline, leaving no attachment to worldly or spiritual gains.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

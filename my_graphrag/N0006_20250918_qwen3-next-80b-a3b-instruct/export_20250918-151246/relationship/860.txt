@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Transcending attachment arises directly from the insight of non-self; recognizing that nothing is truly "mine" dissolves the desire to cling to experiences or outcomes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

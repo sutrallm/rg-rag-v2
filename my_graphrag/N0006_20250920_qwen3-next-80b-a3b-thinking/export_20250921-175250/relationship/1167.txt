@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>WISDOM is the pathway to achieving LIBERATION.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

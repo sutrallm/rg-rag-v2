@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QINGXU</source_entity>
+    <target_entity>TAOJI</target_entity>
+    <relationship_description>Continuous mindful observation (Qingxu) in daily life is the means through which liberation (Taoji) is gradually cultivated, not suddenly attained.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念观照</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正念观照可使贪爱与执取消融，从而消除烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

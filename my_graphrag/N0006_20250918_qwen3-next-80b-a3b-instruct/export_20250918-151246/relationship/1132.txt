@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SACREDQUALITIES</source_entity>
+    <target_entity>EQUANIMITY</target_entity>
+    <relationship_description>Sacred qualities naturally embody equanimity as freedom from reactivity to pleasant or unpleasant experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

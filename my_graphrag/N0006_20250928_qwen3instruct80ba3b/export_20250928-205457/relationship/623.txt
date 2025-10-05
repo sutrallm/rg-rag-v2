@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Delusion about the nature of self and reality is the root ignorance sustaining the cycle of rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

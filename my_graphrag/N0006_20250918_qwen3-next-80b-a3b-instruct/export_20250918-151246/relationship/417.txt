@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>戒行为正见的生起提供清净的基础，正见则指导戒行不流于形式，二者共同构成圣者内在品质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>杂念</source_entity>
+    <target_entity>心识</target_entity>
+    <relationship_description>杂念是心识中的扰乱因素，需通过止观沉淀使其渐息。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

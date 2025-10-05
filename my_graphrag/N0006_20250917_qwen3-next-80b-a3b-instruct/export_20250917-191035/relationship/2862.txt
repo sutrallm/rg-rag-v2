@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELEASING</source_entity>
+    <target_entity>DAILY PRACTICE</target_entity>
+    <relationship_description>Releasing is cultivated moment by moment in daily practice by observing and letting go of attachments as they arise in ordinary activities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

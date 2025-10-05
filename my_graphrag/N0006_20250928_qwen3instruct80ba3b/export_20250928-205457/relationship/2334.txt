@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>SAN LIAN</target_entity>
+    <relationship_description>The Saintly One has transcended the Three Realms of samsaric existence and is no longer subject to its laws.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

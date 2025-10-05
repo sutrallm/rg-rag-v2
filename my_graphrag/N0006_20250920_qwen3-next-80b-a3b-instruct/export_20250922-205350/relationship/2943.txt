@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIAOCHA CIXI</source_entity>
+    <target_entity>WUZHUI</target_entity>
+    <relationship_description>The gradual practice of Jiaocha cixi develops the insight leading to WuZhui (non-attachment), as each stage reveals the transient nature of all experiences, discouraging clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

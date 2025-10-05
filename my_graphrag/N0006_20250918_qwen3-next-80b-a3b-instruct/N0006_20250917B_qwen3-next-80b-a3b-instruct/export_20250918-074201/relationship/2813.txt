@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGYE</source_entity>
+    <target_entity>XIUXINGDAO</target_entity>
+    <relationship_description>The qualities of the sage are the result of following the one true path of mindfulness and non-attachment to phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

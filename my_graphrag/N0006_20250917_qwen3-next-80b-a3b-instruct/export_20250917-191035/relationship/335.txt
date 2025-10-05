@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI YU CIBEI</source_entity>
+    <target_entity>SHENGYE</target_entity>
+    <relationship_description>Shengye is the manifestation of balanced Zhihui yu cibei — those who are saintly embody both profound wisdom and boundless compassion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

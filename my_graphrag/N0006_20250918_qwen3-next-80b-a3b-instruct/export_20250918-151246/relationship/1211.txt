@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HENGCHANG JIAOZHAO</source_entity>
+    <target_entity>JIETUO BU KAO SHENLI</target_entity>
+    <relationship_description>Constant awareness is the practical mechanism for self-liberation—it enables direct insight into the nature of emotions and suffering without reliance on external powers or deities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

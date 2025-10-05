@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>CYCLIC EXISTENCE</target_entity>
+    <relationship_description>Hatred perpetuates suffering and rebirth by generating aversion and conflict.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

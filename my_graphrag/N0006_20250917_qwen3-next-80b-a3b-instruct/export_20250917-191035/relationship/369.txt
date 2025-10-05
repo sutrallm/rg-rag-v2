@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Chanding provides the stable mental foundation needed to observe phenomena without attachment, leading to deep insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

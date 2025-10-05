@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TAOZHEN</source_entity>
+    <target_entity>JIEMING</target_entity>
+    <relationship_description>A taozhen embodies perfect jieming as part of their fully cultivated character; moral purity is a hallmark of a true sage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

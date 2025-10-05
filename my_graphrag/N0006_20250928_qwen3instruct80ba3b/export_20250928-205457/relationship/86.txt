@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>HUIGUAN</target_entity>
+    <relationship_description>Chanding prepares the mind for Huiguan; deep stillness enables clear insight into the true nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>A Saint is defined by the complete eradication of the Three Poisons — greed, hatred, and delusion — which they have transcended through practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

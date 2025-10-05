@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>DING</target_entity>
+    <relationship_description>Moral discipline (Jie) purifies actions and speech, reducing inner turmoil and thus creating the conditions for stable meditation (Ding).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

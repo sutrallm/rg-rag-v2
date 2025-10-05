@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHIGEN</source_entity>
+    <target_entity>SHUZHENG GUOZHANG</target_entity>
+    <relationship_description>Wuzhigen (transcending attachment) and Shuzheng guozhang (non-attachment to attainments) are closely aligned concepts — both emphasize letting go of clinging to spiritual achievements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOIC SAGE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Saintly Figure has fully realized liberation through the culmination of virtue, meditation, and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

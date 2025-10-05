@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEDINGHUI</target_entity>
+    <relationship_description>Chanding is the second component of the threefold training (Jiedinghui), serving as the bridge between moral discipline and liberating wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

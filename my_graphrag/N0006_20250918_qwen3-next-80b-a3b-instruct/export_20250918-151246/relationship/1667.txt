@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋恚</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>Aversion creates negative karma and mental agitation, reinforcing the cycle of suffering and rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

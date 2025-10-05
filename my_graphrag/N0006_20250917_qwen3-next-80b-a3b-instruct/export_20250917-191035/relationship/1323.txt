@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者是已經實現解脫境界的修行者，其一切行為與心境皆體現解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

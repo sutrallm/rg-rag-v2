@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>散乱</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>散乱是缺乏禅定基础时智慧易流于空谈或心神不宁的状态，无法如实照见诸法实相。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

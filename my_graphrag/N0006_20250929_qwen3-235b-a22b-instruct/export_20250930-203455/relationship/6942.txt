@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是戒定慧三学中的“慧”，是解脱的关键，依赖戒与定的支持。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

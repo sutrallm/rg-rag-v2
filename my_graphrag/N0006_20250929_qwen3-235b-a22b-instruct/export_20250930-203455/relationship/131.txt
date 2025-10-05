@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>无我是智慧所照见的核心真理之一，如实了知无我才能破除执着，获得心解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jie and Jingjin are mutually reinforcing: discipline supports effort, and consistent effort upholds moral conduct.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

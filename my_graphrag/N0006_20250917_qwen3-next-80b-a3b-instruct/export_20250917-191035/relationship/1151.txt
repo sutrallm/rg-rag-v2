@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Inner observation reveals the impermanent nature of all sensory and mental phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

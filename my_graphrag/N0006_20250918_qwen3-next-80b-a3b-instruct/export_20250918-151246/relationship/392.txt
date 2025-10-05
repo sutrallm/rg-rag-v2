@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RU SHI GUANZHAO</source_entity>
+    <target_entity>ZI LI</target_entity>
+    <relationship_description>True accurate observation requires self-reliance — one must personally examine the mind, not rely on external teachings or beliefs.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

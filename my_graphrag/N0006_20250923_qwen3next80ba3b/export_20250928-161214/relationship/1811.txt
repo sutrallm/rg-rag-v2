@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED PHENOMENA</source_entity>
+    <target_entity>DREAM ILLUSION</target_entity>
+    <relationship_description>Conditioned phenomena are illusory and transient, like dreams or bubbles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

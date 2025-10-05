@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU SUO DE</source_entity>
+    <target_entity>WU ZHU</target_entity>
+    <relationship_description>Non-attachment to attainment is the practical expression of non-abiding mind—refusing to fixate on any mental state as ultimate.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT_WISDOM</source_entity>
+    <target_entity>SPIRITUAL_ATTAINMENTS</target_entity>
+    <relationship_description>Non-attachment wisdom does not cling to spiritual achievements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>EVERYDAY ACTIVITIES</target_entity>
+    <relationship_description>Mindfulness is not confined to formal meditation but must be maintained during all daily activities to achieve continuous liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

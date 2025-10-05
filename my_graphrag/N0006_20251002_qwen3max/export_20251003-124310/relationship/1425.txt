@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轻安</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定使修行者自然获得轻安，轻安是禅定成就的体验之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>戒定慧三學</target_entity>
+    <relationship_description>戒律是戒定慧三學的基礎部分，用以防護身口意，為禪定與智慧的修習奠定根基。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

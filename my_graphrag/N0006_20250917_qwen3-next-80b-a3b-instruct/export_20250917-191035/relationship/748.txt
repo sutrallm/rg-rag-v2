@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG_HUI</source_entity>
+    <target_entity>WU_WO</target_entity>
+    <relationship_description>True wisdom recognizes the non-self nature of all experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

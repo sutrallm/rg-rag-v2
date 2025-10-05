@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE</target_entity>
+    <relationship_description>Title is a structural element of the original document that needs reformatting.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

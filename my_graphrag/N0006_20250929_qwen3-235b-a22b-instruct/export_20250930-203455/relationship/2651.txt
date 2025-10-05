@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉与反省</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>警觉与反省能防止修行者纵容懈怠与放逸，是克服放逸、避免堕入歧途的实践方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MARTIN SMITH</source_entity>
+    <target_entity>CENTRAL INSTITUTION</target_entity>
+    <relationship_description>Martin Smith is the Chair of the Central Institution and will answer questions at a press conference.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

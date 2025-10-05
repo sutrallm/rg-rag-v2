@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实智慧 (TRUE WISDOM)</source_entity>
+    <target_entity>NON-CLINGING_WISDOM</target_entity>
+    <relationship_description>True wisdom encompasses non-clinging wisdom as its core insight into the nature of reality.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>FOUR_FOUNDATIONS_OF_MINDFULNESS</target_entity>
+    <relationship_description>The four foundations are the framework for developing chanding, systematically training awareness to observe body, feelings, mind, and mental objects.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

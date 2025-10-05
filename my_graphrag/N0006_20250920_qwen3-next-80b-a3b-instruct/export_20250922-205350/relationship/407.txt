@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>真智慧必含大悲，真慈悲必依真智，二者不可分离，构成菩萨道的双翼。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

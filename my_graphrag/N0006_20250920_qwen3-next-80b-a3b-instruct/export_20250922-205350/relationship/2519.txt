@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZIXING</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Wuyun (the five aggregates) are the primary examples used to illustrate Wuzixing—their nature is dependently originated and empty of self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

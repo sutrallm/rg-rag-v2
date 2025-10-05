@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Chanding provides the stable mental foundation necessary for the development of deep insight into reality's true nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

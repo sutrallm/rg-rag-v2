@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>死亡魔王</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>死亡魔王象征烦恼与放逸对生命的掌控，是烦恼的拟人化表现。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

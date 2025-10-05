@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>止觀</target_entity>
+    <relationship_description>聖者勤修止觀以斷除內心煩惱結縛，這是其達成解脫的關鍵修行方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

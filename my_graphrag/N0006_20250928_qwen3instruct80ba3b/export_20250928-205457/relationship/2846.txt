@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Jietuo and Nipan are synonymous in this context—the state of ultimate liberation and release from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

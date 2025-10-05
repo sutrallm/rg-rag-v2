@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION-MINDFULNESS BALANCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Concentration-mindfulness balance enables wisdom to arise clearly and non-distorted, allowing direct understanding of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

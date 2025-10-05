@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸天</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>诸天敬重具足戒慧的修行者，体现修行成果的尊重。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

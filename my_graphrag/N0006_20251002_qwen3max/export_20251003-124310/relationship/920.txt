@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>人天福报</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>佛陀宣说戒定慧三学并非为了获得人天福报，而是为解脱轮回。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>禅修中修习无常观，观一切现象刹那生灭，不执常断，有助于减少焦虑，于顺逆境中保持平常心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

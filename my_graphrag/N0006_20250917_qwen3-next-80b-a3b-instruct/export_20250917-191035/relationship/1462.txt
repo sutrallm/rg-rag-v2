@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENG JIAN</source_entity>
+    <target_entity>CHAN XIU ZHI ZUI ZHONG MU BIAO</target_entity>
+    <relationship_description>Zheng Jian (right view) is the essential foundation upon which the ultimate goal of meditation — liberation from attachment to self — is achieved. Without right view, meditation becomes misguided.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

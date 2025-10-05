@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU XIN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wuzhu xin (non-attachment) is the experiential state of niyapan, where the mind is utterly free from clinging and thus completely tranquil and unconditioned.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

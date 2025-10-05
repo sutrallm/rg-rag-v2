@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>次第</target_entity>
+    <relationship_description>智慧是修行次第的最终成果，由定所生，是次第结构的顶点。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

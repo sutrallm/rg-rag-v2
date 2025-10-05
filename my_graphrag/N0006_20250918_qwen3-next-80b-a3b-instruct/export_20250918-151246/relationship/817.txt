@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SANJIE</target_entity>
+    <relationship_description>Niepan represents liberation from the three realms of samsaric existence, which are bound by craving and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

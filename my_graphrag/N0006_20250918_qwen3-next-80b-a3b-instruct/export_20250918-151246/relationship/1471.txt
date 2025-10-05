@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUOZHI</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Transcending attachment is the key mechanism that enables liberation—by dissolving clinging to all phenomena, including spiritual experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

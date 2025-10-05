@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>對無我的深刻體證是破除「我」與「我所」執取的關鍵，是智慧的終極表現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

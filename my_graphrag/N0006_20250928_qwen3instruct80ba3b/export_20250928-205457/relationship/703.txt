@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT_ORIGINATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Dependent origination implies that all things are impermanent, since they arise and cease based on changing conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>贪嗔痴</target_entity>
+    <relationship_description>贪嗔痴等烦恼皆因无明而起，无明是根本原因，执取是表象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

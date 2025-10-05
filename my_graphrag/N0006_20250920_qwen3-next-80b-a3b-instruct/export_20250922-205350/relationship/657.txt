@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>正念的日常修习以五蕴为观照对象，通过觉察它们的生灭无常，证得无我。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

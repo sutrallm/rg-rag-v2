@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Wu Wo (non-self) is understood through the direct observation of Wu Chang (impermanence); all five aggregates are seen as transient and thus not “I.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

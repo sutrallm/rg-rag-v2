@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WIREDOM</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wisdom prevents attachment to meditative experiences (e.g., bliss, emptiness) that can arise during chanding, ensuring liberation rather than spiritual clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

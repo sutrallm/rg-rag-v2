@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>CHEN</target_entity>
+    <relationship_description>Niepan is defined as the complete extinction of Chen (hatred), along with Song and Chi, the three poisons.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

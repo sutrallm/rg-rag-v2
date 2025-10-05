@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行者通过禅修与观照自然生起智慧，从而洞察无常、无我，断除烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

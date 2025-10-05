@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE DING HUI</source_entity>
+    <target_entity>SONG JIE</target_entity>
+    <relationship_description>Only when Jie Ding Hui is fully cultivated can one attain Song Jie (liberation), as the triad uproots the three poisons and frees the mind.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

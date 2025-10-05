@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>ANLE</target_entity>
+    <relationship_description>Zhihui teaches practitioners not to cling to Anle (pleasant meditative states), seeing them as transient phenomena, thus avoiding new forms of attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

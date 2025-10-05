@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>REINCARNATION_CYCLES</target_entity>
+    <relationship_description>Libertion is the cessation of reincarnation cycles; one cannot exist without the negation of the other.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

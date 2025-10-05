@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>中道是禅修中保持心念平衡的方法，避免过紧或过松，以实现持久深入的禅定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

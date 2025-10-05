@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Chanding is cultivated through Zhengnian; mindfulness is the foundational practice that enables the mind to settle and remain anchored in the present.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

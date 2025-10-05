@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定是智慧生起的基礎，安住的心才能如實觀察法義；智慧則能引導禪定不落入執著境界，三學中定慧相資。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

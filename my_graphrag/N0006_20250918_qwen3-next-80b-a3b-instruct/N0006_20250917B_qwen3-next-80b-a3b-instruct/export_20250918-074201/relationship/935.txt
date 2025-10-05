@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINJIEPUTUO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xinjieputo is cultivated through sustained Chanding, which trains the mind to disengage from automatic reactions and rest in authentic awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

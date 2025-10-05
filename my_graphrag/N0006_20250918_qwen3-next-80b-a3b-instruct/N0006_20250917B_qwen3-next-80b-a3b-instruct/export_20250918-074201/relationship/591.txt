@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>FO TU</target_entity>
+    <relationship_description>Liberation (jietuo) is the goal that Buddha (fo tu) revealed, but it is unattainable without one’s own effort.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

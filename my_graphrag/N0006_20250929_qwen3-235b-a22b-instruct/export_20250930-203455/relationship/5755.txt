@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世间法</source_entity>
+    <target_entity>名利</target_entity>
+    <relationship_description>世间法以得失、名利、成就为本，修行者需舍弃对其执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUEIZHEZHII</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Wisdom that transcends attachment directly dissolves afflictions by revealing their illusory origins in clinging to fabricated realities.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

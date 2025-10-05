@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SECONDARY PRACTICE</source_entity>
+    <target_entity>NOBLE ONES</target_entity>
+    <relationship_description>Only through persistent spiritual effort (secondary practice) can one develop the moral discipline and insight necessary to become a Noble One.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

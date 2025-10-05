@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>三毒（貪、瞋、癡）是煩惱的核心組成部分，為導致輪迴與苦的根本原因。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

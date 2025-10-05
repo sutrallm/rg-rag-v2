@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>RI chang xiu xing</target_entity>
+    <relationship_description>Chanding is cultivated through daily practice, where mindfulness in every activity sharpens concentration and reduces mental distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

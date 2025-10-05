@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不骄不躁</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>不骄不躁是修行者在顺逆境中保持平稳心态的态度。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

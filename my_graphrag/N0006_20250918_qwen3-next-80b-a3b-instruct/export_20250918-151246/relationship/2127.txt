@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>The shengzhe has completely eradicated greed, one of the three root defilements that bind beings to suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

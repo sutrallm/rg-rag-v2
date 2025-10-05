@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>STRONG MAN</target_entity>
+    <relationship_description>The Buddha used the strong man as a metaphor to illustrate disciplined practice for his audience.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

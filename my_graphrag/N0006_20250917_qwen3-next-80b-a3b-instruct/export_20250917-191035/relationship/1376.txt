@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DING LI</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Concentration is the mental faculty that develops and sustains meditative absorption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

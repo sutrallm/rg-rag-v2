@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Desire is a form of attachment, particularly toward sensory pleasures, and is described as the trap that binds sentient beings in suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

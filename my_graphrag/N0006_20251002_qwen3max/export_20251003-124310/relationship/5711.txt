@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>欲望</target_entity>
+    <relationship_description>圣者因了知欲望本质而舍离它，内心清净无染。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

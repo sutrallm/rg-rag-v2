@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>輪迴</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>痴是對「我」與實相的錯誤認知，是輪迴最深層的基礎。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

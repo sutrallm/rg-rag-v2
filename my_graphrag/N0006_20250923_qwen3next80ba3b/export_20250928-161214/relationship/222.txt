@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>SENSORY OBJECTS</target_entity>
+    <relationship_description>CRAVING involves attachment to and desire for SENSORY OBJECTS.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

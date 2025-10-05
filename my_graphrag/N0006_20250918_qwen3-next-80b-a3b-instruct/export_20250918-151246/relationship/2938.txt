@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE DING HUI</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Jie Ding Hui is the comprehensive framework in which Chan Ding plays a central role, supported by moral discipline (jie) and wisdom (hui).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

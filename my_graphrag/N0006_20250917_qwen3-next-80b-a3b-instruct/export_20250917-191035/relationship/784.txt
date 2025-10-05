@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪悅</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>禪悅雖為禪定中的正面體驗，但若執著即會成為解脫障礙，故需以智慧超越。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

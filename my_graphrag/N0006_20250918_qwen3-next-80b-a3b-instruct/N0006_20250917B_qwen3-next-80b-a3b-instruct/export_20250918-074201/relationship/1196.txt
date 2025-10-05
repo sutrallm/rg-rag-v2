@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL_DAILY_PRACTICE</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Mindful daily practice is presented as the direct and accessible path leading to liberation through continuous awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

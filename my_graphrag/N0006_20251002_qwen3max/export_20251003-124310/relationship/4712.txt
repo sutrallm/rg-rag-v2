@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧通过观照无常而生起，无常的体证是智慧运作的核心内容之一。（注：虽然“智慧”未单独列为实体，但根据文本，其作为“戒定慧”三学之一，隐含于“聖者”和“心解脫”中；此处将“智慧”视为“正見”与“禪修”的功能体现。为符合指令，调整目标为“正見”或“心解脫”）</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

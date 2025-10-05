@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Practitioners engage in meditation as a core spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EFFORTFUL_PRACTICE</target_entity>
+    <relationship_description>Effortful practice is required to establish and maintain chanding, as without persistent vigilance, the mind lapses into distraction or laziness, undermining meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

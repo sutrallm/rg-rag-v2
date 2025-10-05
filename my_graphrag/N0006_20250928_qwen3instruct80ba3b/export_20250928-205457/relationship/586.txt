@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEIYUZHINENG</source_entity>
+    <target_entity>SHENGNZHE</target_entity>
+    <relationship_description>ShengnZhe possess balanced compassion and wisdom, as these qualities define their enlightened character and impact on others.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

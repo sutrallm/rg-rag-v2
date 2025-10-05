@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六根</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念用于守护六根，防止其被外境牵引而生起烦恼，是修行初期的重要方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUAN ZHIZHU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chaoguan Zhizhu entails realizing Wuwo (non-self), seeing that no inherent self exists in any experience or state of mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

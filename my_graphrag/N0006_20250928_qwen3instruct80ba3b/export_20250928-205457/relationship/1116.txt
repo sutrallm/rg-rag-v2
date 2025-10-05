@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENG NIAN</target_entity>
+    <relationship_description>Chanding is cultivated through Zhengnian; mindfulness is the instrument that enables sustained concentration and inner calm.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行环境</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>清净的修行环境有助于修行者远离喧杂、专注修行，影响其道业增长。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

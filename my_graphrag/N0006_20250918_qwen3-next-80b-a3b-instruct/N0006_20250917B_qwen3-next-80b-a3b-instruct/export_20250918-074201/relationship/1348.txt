@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>UNCONDITIONAL PEACE</target_entity>
+    <relationship_description>Saintly beings embody unimpeded peace because they are not moved by external conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

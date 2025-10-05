@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SLOTH</source_entity>
+    <target_entity>CONTROL_OF_DEATH</target_entity>
+    <relationship_description>Sloth leads to being bound by death's control.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

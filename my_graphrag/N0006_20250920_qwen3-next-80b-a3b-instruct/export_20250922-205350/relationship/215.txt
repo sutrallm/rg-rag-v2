@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MARA</source_entity>
+    <target_entity>SAMSAVA</target_entity>
+    <relationship_description>Mara sustains samsara by binding beings through ignorance and craving; overcoming Mara is the key to escaping samsara’s cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

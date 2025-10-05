@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越執著的智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>超越執著的智慧以洞見無我為核心，無我是其關鍵觀照對象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

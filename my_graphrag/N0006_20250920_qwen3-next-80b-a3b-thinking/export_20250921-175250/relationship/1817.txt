@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>SERENITY</target_entity>
+    <relationship_description>Calm MIND results in SERENITY.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

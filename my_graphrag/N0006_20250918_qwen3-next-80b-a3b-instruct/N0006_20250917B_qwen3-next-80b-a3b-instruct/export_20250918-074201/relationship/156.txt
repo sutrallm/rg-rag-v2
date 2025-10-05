@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Zhineneng arises from deep Chan Ding and allows one to observe phenomena without attachment, refining the meditative state into liberating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

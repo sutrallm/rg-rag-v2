@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Stillness of mind is the experiential condition of inner peace—both refer to the absence of mental disturbance and craving.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

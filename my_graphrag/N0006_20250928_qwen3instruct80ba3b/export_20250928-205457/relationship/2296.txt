@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRILOBE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the means by which one transcends the trilobe and escapes the cycles of suffering inherent in the three realms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

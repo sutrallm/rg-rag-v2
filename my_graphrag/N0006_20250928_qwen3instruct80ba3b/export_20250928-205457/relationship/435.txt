@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>中道的正确知见建立在缘起法则之上，否定常见与断见，主张因果相续。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

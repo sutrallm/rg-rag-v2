@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The enlightened sage embodies perfected chanding — their mind is continuously concentrated and undisturbed due to deep wisdom and ethical purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

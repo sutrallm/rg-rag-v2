@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>圣者圆满修持三学（戒定慧），持戒清净、心定生慧，最终断惑证真。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

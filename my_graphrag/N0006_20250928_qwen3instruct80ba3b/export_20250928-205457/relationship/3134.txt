@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>ROUND_OF_REBIRTH</target_entity>
+    <relationship_description>Desire—attachment to sensory pleasures—is a primary fuel for the cycle of rebirth, as it generates karma and binds consciousness to conditioned existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

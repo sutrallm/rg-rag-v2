@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Meditative concentration aids in escaping the cycle of samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>业力</target_entity>
+    <relationship_description>解脱者已不受业力牵引，因烦恼已断尽，不再造作轮回之业。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

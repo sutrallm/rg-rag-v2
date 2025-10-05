@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETING</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Meditative concentration is built upon a foundation of moral discipline, which purifies the mind and makes concentration possible.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

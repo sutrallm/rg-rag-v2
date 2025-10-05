@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Direct insight into impermanence allows one to stop resisting change and thus enter into nirvana — the peace beyond birth and death.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

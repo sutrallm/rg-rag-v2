@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous exertion is necessary to cultivate and sustain chanding, preventing mental slackness and habitual regressions into desire and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

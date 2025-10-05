@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>QUIESCENT STATE</target_entity>
+    <relationship_description>Nirvana is the ultimate quiescent state beyond all disturbance and movement.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEDINGHUI</target_entity>
+    <relationship_description>A saintly being is defined by the full development of morality, meditation, and wisdom — the threefold training is what constitutes sainthood.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

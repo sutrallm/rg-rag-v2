@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the functional expression — or conventional term — for the state that arises when the view of no-self is fully actualized and all clinging dissolves.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

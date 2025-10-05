@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengnian is the practical method for developing chanding; mindfulness is the vital mechanism by which attention is stabilized and maintained.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

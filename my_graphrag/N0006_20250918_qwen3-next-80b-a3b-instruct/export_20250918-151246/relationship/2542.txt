@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOYUE ZHUZHUO</target_entity>
+    <relationship_description>Holy beings have fully transcended attachment, having realized the nature of impermanence and non-self, which is the defining characteristic of their liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

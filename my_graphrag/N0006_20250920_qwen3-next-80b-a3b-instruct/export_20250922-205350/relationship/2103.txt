@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>LIULIAN</target_entity>
+    <relationship_description>Shengzhe daily guards the liulian (six sense bases) to prevent sensory contact from triggering attachment or aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

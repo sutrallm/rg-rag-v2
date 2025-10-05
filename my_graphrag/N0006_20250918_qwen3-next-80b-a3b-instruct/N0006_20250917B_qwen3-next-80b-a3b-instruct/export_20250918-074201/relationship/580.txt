@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHICHUANG</target_entity>
+    <relationship_description>Meditative concentration (chanding), when combined with transcendent wisdom (zhichuang), allows one to remain unattached even to meditative experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

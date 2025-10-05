@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Ignorance of reality causes clinging to the false notion of permanence and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

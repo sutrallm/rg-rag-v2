@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>正见的核心内容就是如实认知四圣谛的真相，是修行的根本依据。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

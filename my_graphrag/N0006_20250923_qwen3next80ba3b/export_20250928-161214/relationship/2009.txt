@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AWARENESS</source_entity>
+    <target_entity>SIX SENSE BASES</target_entity>
+    <relationship_description>AWARENESS protects the SIX SENSE BASES from being overwhelmed by afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

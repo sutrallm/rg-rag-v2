@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持续觉知</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>持续觉知是日常中培养禅定心力的具体实践，使禅定不局限于静坐而延伸至生活。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

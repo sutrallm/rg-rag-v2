@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CESSATION TRUTH</source_entity>
+    <target_entity>EXTINCTION STATE</target_entity>
+    <relationship_description>EXTINCTION STATE is the tranquil state attained through the Cessation Truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

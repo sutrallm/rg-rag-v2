@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Realization of no-self directly undermines the basis of attachment; if there is no inherent “I,” there is nothing to cling to or fear.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

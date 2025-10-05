@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHUO</source_entity>
+    <target_entity>WU WO KONG XING</target_entity>
+    <relationship_description>Wu Zhuo is the experiential expression of Wu Wo Kong Xing (non-self and emptiness); one who realizes emptiness naturally lets go of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

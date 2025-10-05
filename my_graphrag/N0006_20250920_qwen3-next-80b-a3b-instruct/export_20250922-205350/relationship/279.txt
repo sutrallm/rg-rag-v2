@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持续觉照</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>持续觉照是实践四念处的方法论，使观照贯穿日常生活，成为常态修行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

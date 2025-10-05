@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>禪定與智慧結合，引導修行者徹見實相、斷除煩惱，最終證得涅槃。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

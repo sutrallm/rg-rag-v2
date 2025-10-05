@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Craving and aversion are dual expressions of the same root cause — attachment to sensory experiences — one pulling toward pleasure, another pushing away pain.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

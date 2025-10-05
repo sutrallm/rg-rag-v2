@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Greed arises from ignorance about the nature of reality; they are two of the three root defilements.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

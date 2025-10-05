@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLARITY</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Clarity is the mental condition in which wisdom arises — clear awareness allows direct seeing of truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

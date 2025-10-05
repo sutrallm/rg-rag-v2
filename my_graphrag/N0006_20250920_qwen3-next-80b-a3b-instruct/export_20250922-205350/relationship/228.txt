@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WENSI XIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wensi xiu is the complete path to chanding: hearing the teachings provides direction, thinking refines understanding, and practicing actualizes meditative stability.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

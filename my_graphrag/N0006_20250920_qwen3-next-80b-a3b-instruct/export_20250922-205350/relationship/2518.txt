@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZIXING</source_entity>
+    <target_entity>CHIZHE</target_entity>
+    <relationship_description>Wuzixing (emptiness) is the object of insight in Chizhe; true non-attachment arises from directly seeing all phenomena as devoid of independent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

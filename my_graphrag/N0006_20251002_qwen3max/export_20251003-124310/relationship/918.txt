@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法</source_entity>
+    <target_entity>解脱者</target_entity>
+    <relationship_description>解脱者不执着于法，亦不执取任何禅定境界或神通感应。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

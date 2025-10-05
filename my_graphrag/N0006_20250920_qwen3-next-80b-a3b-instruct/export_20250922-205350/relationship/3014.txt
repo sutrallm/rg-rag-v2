@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOTION_OF_SELF</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Understanding the false nature of self leads directly to non-attachment, since nothing is truly “mine” or “me” to cling to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

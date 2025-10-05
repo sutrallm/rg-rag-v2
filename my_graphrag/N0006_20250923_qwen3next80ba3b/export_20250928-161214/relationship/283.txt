@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUEST</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>The request was expected to contain the original text but it is missing from the submission.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

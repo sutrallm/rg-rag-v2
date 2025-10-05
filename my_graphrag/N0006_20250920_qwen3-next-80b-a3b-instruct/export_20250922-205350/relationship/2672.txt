@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINDE ZUICHONG ZIYOU</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Xinde de zuichong ziyou (the ultimate freedom of mind) is another description of Niepan—a mind that clings to nothing, rejects nothing, and abides in unconditioned peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

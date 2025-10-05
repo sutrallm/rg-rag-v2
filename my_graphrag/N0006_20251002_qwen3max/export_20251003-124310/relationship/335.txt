@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离欲</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>离欲使心趋向寂静，舍离感官贪爱是达成寂静状态的必要条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慈悲與智慧必須雙運，智慧令慈悲無我，慈悲令智慧不落入冷漠，二者交融為圓滿修行。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

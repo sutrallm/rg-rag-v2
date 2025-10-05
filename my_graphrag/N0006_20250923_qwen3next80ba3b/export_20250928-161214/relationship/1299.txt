@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>CONVERT METAPHORS TO DOCTRINAL EXPLANATIONS</target_entity>
+    <relationship_description>CONVERT METAPHORS TO DOCTRINAL EXPLANATIONS is a required step within the TASK.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

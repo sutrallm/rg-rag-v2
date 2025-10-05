@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE_THREE_STUDIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Three Studies — morality, concentration, and wisdom — are presented as the indispensable path to achieving liberation, each supporting the others.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUESTION</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The user's question references the absence of the original text required for translation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHÍHUÌ</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chíhuì is the direct realization of wuwo (non-self); one cannot have true wisdom without seeing through the illusion of a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

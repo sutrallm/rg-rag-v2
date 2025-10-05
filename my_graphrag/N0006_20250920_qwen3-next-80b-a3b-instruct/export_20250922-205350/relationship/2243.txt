@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The realization of non-self is a core component of liberating wisdom in Buddhist teaching.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

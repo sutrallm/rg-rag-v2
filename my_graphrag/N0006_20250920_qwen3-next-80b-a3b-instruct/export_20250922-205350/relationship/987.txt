@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>执取</target_entity>
+    <relationship_description>五蕴是执取的对象，众生因对色受想行识生起爱著而不断轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

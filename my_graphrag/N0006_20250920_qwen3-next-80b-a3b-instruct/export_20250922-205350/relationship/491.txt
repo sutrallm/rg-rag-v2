@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUXIU</target_entity>
+    <relationship_description>Ultimate chanding reveals that true practice is non-doing; when one stops clinging to the notion of practicing, meditation becomes effortless and genuine.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

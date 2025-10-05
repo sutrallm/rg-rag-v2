@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>WISDOM realizes EMPTINESS through direct observation of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

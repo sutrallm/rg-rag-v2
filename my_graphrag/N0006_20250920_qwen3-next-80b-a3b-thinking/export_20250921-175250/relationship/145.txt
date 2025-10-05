@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NUMBERED_LIST</source_entity>
+    <target_entity>DOCTRINAL_EXPLANATIONS</target_entity>
+    <relationship_description>Processed doctrinal explanations are presented in numbered list format.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

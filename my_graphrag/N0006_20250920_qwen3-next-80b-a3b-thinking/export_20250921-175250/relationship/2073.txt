@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>DEW</target_entity>
+    <relationship_description>Dew serves as a metaphor for the transient and short-lived nature of life experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>不放逸是修行者在顺境中应保持的态度，防止懈怠与退转，是稳固修行的重要心理品质。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

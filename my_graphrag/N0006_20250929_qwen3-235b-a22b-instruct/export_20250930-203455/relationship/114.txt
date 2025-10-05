@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>林中</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>林中象征无烦恼干扰的清净境界，是禅定成就后内心安稳清明的比喻。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

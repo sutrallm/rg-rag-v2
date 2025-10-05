@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Saintly individuals transcend delusion by realizing the true nature of reality, removing ignorance as the foundation of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>While chanding brings calm and bliss, true liberation requires non-attachment to these states. Without non-attachment, one may cling to meditative experiences, blocking deeper insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

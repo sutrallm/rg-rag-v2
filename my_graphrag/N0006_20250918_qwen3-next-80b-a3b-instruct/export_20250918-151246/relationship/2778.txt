@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>TANCHEN</target_entity>
+    <relationship_description>Jiefu involves the complete cutting off of craving and aversion, their root causes of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

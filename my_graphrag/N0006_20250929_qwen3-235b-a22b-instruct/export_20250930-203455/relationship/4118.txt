@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行者以解脱为终极目标，断除三毒，超越轮回，步步踏实终至圆满。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

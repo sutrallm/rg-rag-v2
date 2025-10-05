@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCATTERED MIND</source_entity>
+    <target_entity>WIND</target_entity>
+    <relationship_description>Scattered mind is likened to wind blowing out candlelight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

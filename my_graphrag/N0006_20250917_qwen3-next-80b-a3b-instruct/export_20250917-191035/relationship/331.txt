@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JEONGJIN</source_entity>
+    <target_entity>CHIXU XIULIAN</target_entity>
+    <relationship_description>Jeongjin is the active expression of Chixu xiulian — continuous, persistent effort in practice to prevent regression into ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

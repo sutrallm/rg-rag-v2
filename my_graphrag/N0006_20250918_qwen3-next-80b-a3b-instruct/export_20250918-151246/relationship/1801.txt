@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHU ZHOU</source_entity>
+    <target_entity>LI JIE</target_entity>
+    <relationship_description>True liberation is only possible when one transcends all forms of attachment, including attachment to spiritual states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

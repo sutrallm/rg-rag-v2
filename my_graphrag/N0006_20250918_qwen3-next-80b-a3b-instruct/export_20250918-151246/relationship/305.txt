@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Chanding is a necessary foundation for developing the wisdom that leads to liberation; without mental stability, true insight cannot arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

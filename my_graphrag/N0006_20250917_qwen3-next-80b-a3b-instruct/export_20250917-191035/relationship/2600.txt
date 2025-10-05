@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>A Saintly Being has completely eradicated the Three Poisons, which is the defining characteristic of their realized state.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

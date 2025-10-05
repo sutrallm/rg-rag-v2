@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL_CONDUCT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral conduct creates the psychological and ethical foundation necessary for deep meditation and chanding to flourish.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

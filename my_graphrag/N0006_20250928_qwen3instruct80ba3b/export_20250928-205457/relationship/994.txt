@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SI XUE</source_entity>
+    <target_entity>BAOYU ZHINENG</target_entity>
+    <relationship_description>Wisdom (hui), the third element of si xue, is synonymous with transcendent wisdom (baoyu zhineng), which brings about the end of afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

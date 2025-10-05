@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>MEDITATION helps practitioners overcome HEEDLESSNESS, thereby reducing afflictions and fostering inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

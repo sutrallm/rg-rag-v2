@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chanding requires sustained Jingjin to maintain focus and overcome sloth and distraction; diligence is necessary for deepening meditative absorption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

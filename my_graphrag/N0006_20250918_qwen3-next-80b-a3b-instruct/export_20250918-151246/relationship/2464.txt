@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五欲</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者不为五欲所染，五欲是修行者必须超越的外在诱惑对象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

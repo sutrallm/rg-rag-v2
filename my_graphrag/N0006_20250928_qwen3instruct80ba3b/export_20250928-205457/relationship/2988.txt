@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhennian (mindful presence) is the practical, daily application that cultivates and strengthens Chanding (meditative concentration).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

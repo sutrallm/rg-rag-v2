@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXAMPLE_FORMAT</source_entity>
+    <target_entity>ENDING_VERSE</target_entity>
+    <relationship_description>The example output excludes any ending verse, requiring its removal during processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

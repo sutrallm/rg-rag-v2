@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHUO</source_entity>
+    <target_entity>WU WO GUANZHAO</target_entity>
+    <relationship_description>Wu Zhuo is the direct result of Wu Wo Guanzhao—by observing the five aggregates as not-self, attachment naturally dissolves, leading to true non-clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

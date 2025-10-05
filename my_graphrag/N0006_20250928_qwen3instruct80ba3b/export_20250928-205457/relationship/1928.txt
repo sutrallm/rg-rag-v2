@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUFANGYI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Bufangyi (non-indulgence) is the essence and expression of Jingjin (diligent effort) — both emphasize constant vigilance and refusal to slacken in spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

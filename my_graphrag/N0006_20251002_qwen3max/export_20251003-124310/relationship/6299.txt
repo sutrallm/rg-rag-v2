@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>智慧的生起依赖于对无常、苦、无我等法性的如实知见，无我是其中关键特性之一。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

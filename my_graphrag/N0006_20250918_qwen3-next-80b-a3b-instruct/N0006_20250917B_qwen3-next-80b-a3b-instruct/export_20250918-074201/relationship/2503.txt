@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实智慧</source_entity>
+    <target_entity>灭苦之道</target_entity>
+    <relationship_description>如实智慧是灭苦之道中的“正见”，为整个修行路径提供指导与目标。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

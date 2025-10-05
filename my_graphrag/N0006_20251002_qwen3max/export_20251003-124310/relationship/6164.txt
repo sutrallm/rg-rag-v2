@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>執取</target_entity>
+    <relationship_description>即使修行者經歷神通，只要仍有一絲「我得」「我證」之想，便未究竟解脫；執取神通會障礙真正解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

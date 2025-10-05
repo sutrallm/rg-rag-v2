@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANSU</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chansu provides the mental calm that allows wisdom to arise, and wisdom prevents attachment even to chansu itself, ensuring it does not become another form of clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

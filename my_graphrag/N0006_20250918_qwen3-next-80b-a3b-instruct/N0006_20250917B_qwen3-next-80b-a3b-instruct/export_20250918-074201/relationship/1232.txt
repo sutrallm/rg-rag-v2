@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU</source_entity>
+    <target_entity>GUAI</target_entity>
+    <relationship_description>Chanxiu cultivates non-attachment by revealing the futility and instability of Guai (clinging), thus freeing the mind from bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

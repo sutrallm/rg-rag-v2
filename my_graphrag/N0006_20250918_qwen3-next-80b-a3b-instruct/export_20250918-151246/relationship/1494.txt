@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER Liberation</source_entity>
+    <target_entity>EMPTY MIND</target_entity>
+    <relationship_description>Inner liberation is experienced as the mind becoming space-like—empty of clinging or aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

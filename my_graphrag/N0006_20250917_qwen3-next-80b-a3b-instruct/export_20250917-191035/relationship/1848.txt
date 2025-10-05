@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HENCHANG SHOUHU</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>Constant protection manifests as perpetually sustained mindfulness, making zhennian its core practice over time.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

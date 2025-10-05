@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>持戒清净使心易定，戒律是禅定的根基，为心念专注提供稳定基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

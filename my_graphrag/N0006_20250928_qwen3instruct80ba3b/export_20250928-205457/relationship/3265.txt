@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHI JI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin is the driving force that enables progression through all three stages of shi ji; without diligence, the path cannot be completed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

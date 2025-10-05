@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>A shengzhe is characterized by complete wuzhu (non-attachment), not clinging even to blissful or luminous meditative experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

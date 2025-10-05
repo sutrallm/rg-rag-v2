@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESTRUCTION_OF_DEFILEMENTS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Only through the complete destruction of greed, anger, and delusion can one reach nirvana, the state beyond suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

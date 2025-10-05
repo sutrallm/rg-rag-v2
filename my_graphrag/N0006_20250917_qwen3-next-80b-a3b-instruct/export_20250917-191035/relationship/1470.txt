@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进 (DEDICATION)</source_entity>
+    <target_entity>轮回 (SAMSARA)</target_entity>
+    <relationship_description>Dedication to practice breaks the cycle of samsara, while laziness ensures continued entrapment within it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

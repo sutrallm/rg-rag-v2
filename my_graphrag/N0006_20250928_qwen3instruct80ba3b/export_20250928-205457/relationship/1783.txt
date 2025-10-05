@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wuzhu (non-abiding mind) is the lived expression of niepan — a mind that does not cling, resist, or avoid, mirroring the state of ultimate peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

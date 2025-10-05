@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEACHINGS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Teachings are skillful means designed to lead practitioners toward liberation, but should not be clung to as ends in themselves.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

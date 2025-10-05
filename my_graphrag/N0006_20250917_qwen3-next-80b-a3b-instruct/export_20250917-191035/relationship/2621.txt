@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wuwo guanzhao is the direct method to realize Niepan — by seeing the absence of self, one naturally abides in the unconditioned state of Nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

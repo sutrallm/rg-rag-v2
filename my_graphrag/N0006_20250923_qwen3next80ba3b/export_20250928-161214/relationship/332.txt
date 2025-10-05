@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUIREMENTS</source_entity>
+    <target_entity>NUMBERED_TITLES</target_entity>
+    <relationship_description>Numbered titles are required to structure the processed text clearly in sections.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

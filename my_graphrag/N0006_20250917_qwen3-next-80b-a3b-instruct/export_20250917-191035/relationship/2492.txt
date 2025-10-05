@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly qualities—moral discipline and wisdom—form the foundation and outcome of genuine chanding, making the mind stable and free from defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

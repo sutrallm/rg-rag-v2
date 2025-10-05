@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋恨</source_entity>
+    <target_entity>心散乱</target_entity>
+    <relationship_description>瞋恨情绪破坏内心宁静，导致心念动荡与散乱，妨碍禅定。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

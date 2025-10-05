@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離相</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>離相貫穿正念修持，正念不是執著於「我在覺知」，而是如鏡照物，无住無求。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

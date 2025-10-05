@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom dispels delusion by revealing the true nature of phenomena as impermanent, unsatisfactory, and non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

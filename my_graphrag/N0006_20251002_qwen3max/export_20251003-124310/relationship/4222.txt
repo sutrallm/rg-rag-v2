@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>不受后有</target_entity>
+    <relationship_description>“不受后有”是解脱者自证的四种确定之一，表示不再受未来生死果报。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

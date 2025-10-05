@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>SUN</target_entity>
+    <relationship_description>The sun symbolizes the power of diligence in dispelling ignorance and illuminating wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

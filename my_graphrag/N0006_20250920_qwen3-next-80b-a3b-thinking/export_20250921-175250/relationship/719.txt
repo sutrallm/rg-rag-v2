@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Precepts and wisdom are unified in practice to develop ethical conduct and profound insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

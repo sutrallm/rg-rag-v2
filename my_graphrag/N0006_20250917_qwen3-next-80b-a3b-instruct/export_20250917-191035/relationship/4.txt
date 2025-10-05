@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOSHIZHIXI</target_entity>
+    <relationship_description>The shengzhe embodies chaoszhixi, having fully realized the emptiness of all phenomena and thus transcended attachment even to spiritual attainments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

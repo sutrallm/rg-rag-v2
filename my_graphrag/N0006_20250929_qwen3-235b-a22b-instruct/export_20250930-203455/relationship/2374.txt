@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>邪见</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者需远离邪见，依止正法，以免误入歧途。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

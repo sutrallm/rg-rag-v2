@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>Chanding is not merely concentration; true meditation leads to insight (智慧) into the nature of reality, making wisdom its ultimate aim.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

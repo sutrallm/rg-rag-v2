@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTENTIVENESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Through sustained attentiveness, one directly observes phenomena arising and passing, revealing their impermanent, unsatisfactory, and selfless nature—this is the direct path to wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

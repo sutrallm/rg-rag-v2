@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>缘起无我</target_entity>
+    <relationship_description>缘起无我是四圣谛中“集谛”与“灭谛”的深层理论基础，揭示苦生与苦灭的原理。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

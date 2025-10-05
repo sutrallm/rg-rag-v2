@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>INNER TRANQUILITY</target_entity>
+    <relationship_description>Saints reside in a state of inner tranquility as part of their enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

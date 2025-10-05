@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGDAO</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>Zhongdao (middle way) embodies wuqiu (non-seeking), avoiding extremes and the attachment to outcomes in spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

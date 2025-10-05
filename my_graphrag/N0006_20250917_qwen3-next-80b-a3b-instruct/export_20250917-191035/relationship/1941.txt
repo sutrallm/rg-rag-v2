@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN</source_entity>
+    <target_entity>WANGNIAN</target_entity>
+    <relationship_description>Xiulian is the practice of observing and not following wangnian—distractions are the primary obstacle overcome in practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

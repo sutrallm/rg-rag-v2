@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>嗔恨</target_entity>
+    <relationship_description>修行包含化解嗔恨的实践，嗔恨扰乱心性，是修行过程中需对治的烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

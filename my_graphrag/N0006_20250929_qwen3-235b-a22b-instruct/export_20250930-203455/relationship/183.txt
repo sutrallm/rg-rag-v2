@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>众生平等</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>众生平等的观念源于智慧的洞察——一切众生皆具佛性，智慧增长自然生起平等心与慈悲心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

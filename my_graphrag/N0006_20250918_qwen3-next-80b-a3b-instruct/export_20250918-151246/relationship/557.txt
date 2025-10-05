@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE_GOAL_OF_PRACTICE</source_entity>
+    <target_entity>ANATTA</target_entity>
+    <relationship_description>The ultimate goal of practice is the full realization of non-self (anatta) as the key to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

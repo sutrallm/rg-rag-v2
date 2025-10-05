@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我執</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>我執是眾生陷入生死輪迴的根本原因，斷我執則能解脫輪迴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

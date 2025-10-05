@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Shengzhe possesses perfected Zhishi (wisdom), enabling them to see all phenomena as impermanent and non-self, leading to complete freedom from clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

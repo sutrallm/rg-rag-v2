@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>三毒是束缚众生轮回的根本，解脱即意味着彻底断除三毒，二者为因果关系。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

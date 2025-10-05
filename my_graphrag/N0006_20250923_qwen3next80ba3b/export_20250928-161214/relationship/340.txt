@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUE</source_entity>
+    <target_entity>DHARMA TEACHINGS</target_entity>
+    <relationship_description>Dialogues are transformed into direct explanations of Dharma teachings to maintain focus on core religious instruction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

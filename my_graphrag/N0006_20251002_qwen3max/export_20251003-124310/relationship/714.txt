@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>四念处中的“观受是苦”直接关联苦的如实知见，是修习内容之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

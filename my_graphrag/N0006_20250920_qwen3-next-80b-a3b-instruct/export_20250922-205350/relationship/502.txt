@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIELV</target_entity>
+    <relationship_description>Saints possess pure moral conduct as an expression of their inner liberation, not as external rule-following.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

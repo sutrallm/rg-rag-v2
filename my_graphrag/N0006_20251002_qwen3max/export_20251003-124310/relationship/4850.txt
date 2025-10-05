@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>中道實踐以正念為核心要素之一，透過正念避免沉溺欲樂與過度苦行兩種極端。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

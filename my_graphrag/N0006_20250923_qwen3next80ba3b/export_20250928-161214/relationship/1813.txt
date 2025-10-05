@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>GAIN AND LOSS</target_entity>
+    <relationship_description>Attachment to gain and loss fuels greed, causing emotional disturbance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

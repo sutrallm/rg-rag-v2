@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无执的智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>无执的智慧能如实了知一切现象的无我本质，破除对“我”与“我所”的执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

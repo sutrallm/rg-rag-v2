@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOCUSED MIND</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>FOCUSED MIND directly contributes to achieving INNER PEACE through mental concentration and awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

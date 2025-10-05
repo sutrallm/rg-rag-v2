@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_CHARACTERISTICS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>圣者因具足戒行与智慧、断除烦恼根源，现证解脱，是解脱的圆满体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

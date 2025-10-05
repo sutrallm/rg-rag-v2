@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持续觉察</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>即使已证得初步解脱，仍需持续觉察以防习气复起；持续觉察是维持并稳固解脱的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SORROW AWARENESS METHOD</source_entity>
+    <target_entity>SORROW</target_entity>
+    <relationship_description>The Sorrow Awareness Method is practiced to observe and understand sorrow through mindful attention.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

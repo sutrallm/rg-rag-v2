@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧能瓦解无明，如实了知诸法无常、无我本质，带来真正的自由。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Practitioners practice non-attachment to refrain from clinging to phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

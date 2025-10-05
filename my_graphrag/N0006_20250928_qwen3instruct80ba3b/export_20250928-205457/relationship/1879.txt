@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUMING</source_entity>
+    <target_entity>TAN'AI</target_entity>
+    <relationship_description>Wuming (ignorance) gives rise to Tan'ai (craving), as beings misunderstand the nature of self and cling to impermanent phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

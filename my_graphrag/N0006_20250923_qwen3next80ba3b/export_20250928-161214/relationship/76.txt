@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUPPLEMENT</source_entity>
+    <target_entity>FORMATTING</target_entity>
+    <relationship_description>Supplementation enables the formatting process to proceed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

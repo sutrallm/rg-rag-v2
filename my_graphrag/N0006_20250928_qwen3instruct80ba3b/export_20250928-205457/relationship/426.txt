@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Understanding the nature of wuyun (the five aggregates) leads directly to jiefu (liberation) by dismantling the false notion of a self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

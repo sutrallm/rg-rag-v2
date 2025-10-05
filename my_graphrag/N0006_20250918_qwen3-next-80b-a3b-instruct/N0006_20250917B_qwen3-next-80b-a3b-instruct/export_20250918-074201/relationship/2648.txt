@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>精进修行是实现和维持禅定的必要条件，若不勤勉修习，则无法获得禅定所需的专注与觉知。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

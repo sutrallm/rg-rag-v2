@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDFULNESS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Heedfulness prevents practitioners from being bound by the cycle of Samsara, as emphasized in "始终精进不放逸，方能避免被生死的掌控者束缚".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

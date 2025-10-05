@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHEN KOU YI SAN YE</source_entity>
+    <target_entity>WAI JING</target_entity>
+    <relationship_description>身口意三业清净需不被外境扰动，修行者通过稳定三业应对外部环境。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditative concentration provides the stable foundation upon which insight (wisdom) arises; without calm, deep insight is difficult to achieve.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

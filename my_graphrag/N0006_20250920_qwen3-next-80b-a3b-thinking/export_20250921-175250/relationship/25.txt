@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>UNDERSTANDING SUFFERING aids in reducing INDULGENCE by highlighting the unsatisfactory nature of conditioned existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

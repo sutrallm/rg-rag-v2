@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MINDFULNESS</source_entity>
+    <target_entity>CONSISTENT_AWARENESS</target_entity>
+    <relationship_description>Present-mindfulness is the practical expression of consistent awareness; both emphasize continuous, non-judgmental observation of experience in daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

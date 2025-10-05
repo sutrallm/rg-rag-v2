@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱 (LIBERATION)</source_entity>
+    <target_entity>三学 (THREE TRAININGS)</target_entity>
+    <relationship_description>Liberation is achieved only through the integrated and thorough practice of the Three Trainings.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REQUEST</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The request cannot proceed without the original text content.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

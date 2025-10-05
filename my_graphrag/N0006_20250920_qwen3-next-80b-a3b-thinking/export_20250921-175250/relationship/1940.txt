@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>OBSTACLES</target_entity>
+    <relationship_description>Samadhi helps practitioners overcome obstacles like demonic hindrances through mental stability and clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

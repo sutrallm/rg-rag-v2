@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>五蘊是構成「我」的暫時聚合，其無常性是「無我」哲學的理論基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

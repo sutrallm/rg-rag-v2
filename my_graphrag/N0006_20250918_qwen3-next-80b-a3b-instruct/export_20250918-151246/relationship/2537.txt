@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>The five aggregates are the phenomena that one examines to realize the truth of no-self (wuwo).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

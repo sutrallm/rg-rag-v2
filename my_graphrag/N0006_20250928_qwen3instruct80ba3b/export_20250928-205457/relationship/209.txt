@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHENLAO JI DAOCHANG</source_entity>
+    <target_entity>JIEXIE</target_entity>
+    <relationship_description>True liberation (jiexie) is realized not by escaping worldly troubles, but by engaging with them mindfully — this is the core teaching of chenlao ji daochang.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

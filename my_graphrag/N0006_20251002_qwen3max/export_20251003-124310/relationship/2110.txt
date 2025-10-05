@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念是禪定的根基，持續專注當下並以覺知觀察身心，使心穩定而自然進入禪定狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

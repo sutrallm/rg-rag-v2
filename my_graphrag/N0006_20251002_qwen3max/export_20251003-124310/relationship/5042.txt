@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善法</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者修习善法以追求解脱，但不执着于善法所生的境界或成果。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

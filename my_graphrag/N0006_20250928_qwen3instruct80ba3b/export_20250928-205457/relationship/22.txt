@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Saintly beings are free from anger, having transcended aversion through wisdom and equanimity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

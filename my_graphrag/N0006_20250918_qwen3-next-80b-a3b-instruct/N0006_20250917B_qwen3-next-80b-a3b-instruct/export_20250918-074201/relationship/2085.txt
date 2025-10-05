@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>PATH_TO_LIBERATION</target_entity>
+    <relationship_description>Non-Attachment is the core wisdom applied along the Path to Liberation, enabling one to relinquish clinging and thus attain freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

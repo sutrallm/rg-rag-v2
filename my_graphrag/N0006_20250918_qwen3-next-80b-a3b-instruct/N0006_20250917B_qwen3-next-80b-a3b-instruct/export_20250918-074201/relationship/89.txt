@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sustained effort (exertion) is necessary to master chanding, as懈怠 (laziness) leads to loss of focus and entanglement in samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

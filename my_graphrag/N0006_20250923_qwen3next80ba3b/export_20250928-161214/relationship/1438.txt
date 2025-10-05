@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>MEDITATIVE CONCENTRATION</target_entity>
+    <relationship_description>Practitioners engage in meditative concentration as a core practice to cultivate focus and inner stability.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

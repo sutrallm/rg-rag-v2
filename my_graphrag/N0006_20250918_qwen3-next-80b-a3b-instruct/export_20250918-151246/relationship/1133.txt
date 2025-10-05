@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENTMOMENTAWARENESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Present-moment awareness is the doorway to liberation — the only point from which true freedom can be realized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

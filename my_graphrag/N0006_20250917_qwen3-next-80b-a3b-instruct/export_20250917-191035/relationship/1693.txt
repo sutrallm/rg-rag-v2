@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily Practice is the method through which Chanding is continuously nurtured — each moment of mindfulness strengthens meditative concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

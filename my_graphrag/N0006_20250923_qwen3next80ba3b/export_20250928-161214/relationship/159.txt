@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸天</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>成就解脱者将获得诸天的敬仰，形成宗教价值的认证关系</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

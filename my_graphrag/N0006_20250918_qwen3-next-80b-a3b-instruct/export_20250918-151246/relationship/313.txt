@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>透過觀照無常，生起對無我的正見，二者是智慧觀照的兩個相互支撐的面向。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

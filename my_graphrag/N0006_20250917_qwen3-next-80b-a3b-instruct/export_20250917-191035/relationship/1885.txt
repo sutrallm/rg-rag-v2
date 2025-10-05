@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Diligent practice (jingjin) includes cultivating awareness of impermanence as a core element in overcoming complacency and delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

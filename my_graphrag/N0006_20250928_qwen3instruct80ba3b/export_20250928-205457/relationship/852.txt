@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>执取</target_entity>
+    <relationship_description>无明是执取的根本原因，因误解身心为“我”，而产生贪恋、抗拒与执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

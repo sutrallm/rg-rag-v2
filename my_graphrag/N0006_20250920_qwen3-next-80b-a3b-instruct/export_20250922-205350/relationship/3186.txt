@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>阿罗汉</target_entity>
+    <relationship_description>圣者即指证得阿罗汉果位者，二者为同义关系，后者是前者的具体成就名称。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

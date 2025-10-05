@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>PRESENT MOMENT</target_entity>
+    <relationship_description>Nirvana is not a distant place but the state of mind when one is unshaken by the present moment, no matter the environment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

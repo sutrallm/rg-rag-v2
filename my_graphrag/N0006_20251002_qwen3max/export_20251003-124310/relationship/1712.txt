@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>止观是禅定的具体修习方法，通过持续修习止观，修行者内心能远离散乱，获得寂静与清明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

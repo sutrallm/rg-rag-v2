@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>痛苦</target_entity>
+    <relationship_description>Delusion of self causes suffering; seeing the truth of non-self leads to the cessation of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

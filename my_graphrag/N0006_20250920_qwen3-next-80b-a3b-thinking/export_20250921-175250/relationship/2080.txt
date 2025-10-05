@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>ROTTEN TREE</target_entity>
+    <relationship_description>Broken precepts are likened to a rotten tree with no utility.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

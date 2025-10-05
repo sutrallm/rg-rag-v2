@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO</source_entity>
+    <target_entity>WU WO GUAN</target_entity>
+    <relationship_description>Non-Self is the philosophical truth; Contemplation of Non-Self is the meditative practice that realizes that truth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

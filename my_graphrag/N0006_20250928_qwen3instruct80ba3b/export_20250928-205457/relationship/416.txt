@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuyun (five aggregates) are the object of observation that reveals the truth of wuwu (non-self); understanding their nature dissolves the illusion of a fixed self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

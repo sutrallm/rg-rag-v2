@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NINGPAN</target_entity>
+    <relationship_description>The Shengzhe naturally attains Ningpan through the complete cultivation of Chanding, Jingjin, and Zhihui, and the extinction of all attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

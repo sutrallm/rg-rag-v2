@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TEXT PROMPT</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>The TEXT PROMPT serves as a placeholder where the original content should be inserted.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

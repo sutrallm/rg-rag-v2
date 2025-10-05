@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>XIUXIN ZHONGJIE MUBIAO</target_entity>
+    <relationship_description>Continuous diligent effort is the necessary condition to reach the ultimate goal of extinguishing greed, hatred, and delusion and attaining liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

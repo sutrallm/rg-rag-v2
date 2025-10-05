@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SYSTEM</source_entity>
+    <target_entity>QUERY</target_entity>
+    <relationship_description>The SYSTEM processes the current QUERY which lacks the original document content.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

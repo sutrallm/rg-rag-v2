@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轮回</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>精进的目的是为了超越轮回，精进者不被轮回主宰，而放逸者深陷其中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

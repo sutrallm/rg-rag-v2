@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-VIEWS</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Self-views reinforce attachment by creating a false sense of identity that seeks to protect and inflate itself through craving and clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

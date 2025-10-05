@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BLIND PERSON</source_entity>
+    <target_entity>COLOR</target_entity>
+    <relationship_description>A blind person cannot perceive color, illustrating the inability to understand reality without mindfulness practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

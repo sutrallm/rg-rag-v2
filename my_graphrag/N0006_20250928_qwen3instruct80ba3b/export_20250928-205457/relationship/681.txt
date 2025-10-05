@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>众生错误地将五蕴和合之身心执为“我”或“我所”，我执即由此产生。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

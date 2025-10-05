@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EXTERNAL DISTURBANCES</target_entity>
+    <relationship_description>Through chanding, practitioners become immune to external disturbances, achieving inner calm despite environmental influences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

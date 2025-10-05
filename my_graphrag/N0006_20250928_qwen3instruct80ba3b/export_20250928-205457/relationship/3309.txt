@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Shengzhe possess zhihui in its complete form — they see all phenomena as impermanent, non-self, and unsatisfactory without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

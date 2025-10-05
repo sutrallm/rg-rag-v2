@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGIN</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>ORIGIN is the root cause of AFFLICTIONS through craving and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

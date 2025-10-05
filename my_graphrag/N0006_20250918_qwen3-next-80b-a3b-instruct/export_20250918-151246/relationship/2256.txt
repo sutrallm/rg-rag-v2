@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin (diligence) strengthens and stabilizes chanding (concentration), allowing the practitioner to maintain focus and progress toward liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

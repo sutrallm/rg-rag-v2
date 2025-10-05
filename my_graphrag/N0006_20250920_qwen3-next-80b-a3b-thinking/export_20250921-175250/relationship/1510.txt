@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHAMMAPADA</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>The Dhammapada contains teachings on recognizing and eliminating mental defilements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Neiguan is the practical method by which Chashi (transcendent wisdom) is developed and verified through direct experience.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>The noble one possesses transcendent wisdom (zhinen) that sees through all illusions of self and permanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

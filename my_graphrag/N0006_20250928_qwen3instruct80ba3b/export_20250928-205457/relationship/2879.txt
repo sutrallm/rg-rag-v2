@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>四圣谛是佛陀亲自开示的根本教义，是佛教全部修行所依的基础。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

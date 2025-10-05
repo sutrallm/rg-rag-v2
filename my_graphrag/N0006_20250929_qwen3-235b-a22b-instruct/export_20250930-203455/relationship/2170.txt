@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>缘起法</target_entity>
+    <relationship_description>我执依缘起法生起，通过理解诸法因缘生灭，可瓦解我执，断除轮回。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

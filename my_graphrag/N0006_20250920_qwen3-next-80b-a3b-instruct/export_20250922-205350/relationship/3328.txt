@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Fan nao (afflictions) are the very obstacles that jiede (liberation) eliminates; liberation is the complete eradication of mental disturbances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

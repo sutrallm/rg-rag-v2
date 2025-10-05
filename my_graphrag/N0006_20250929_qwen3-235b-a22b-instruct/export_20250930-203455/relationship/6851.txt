@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>智慧能如实照见“无我”这一诸法实相，是证得无我的关键能力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

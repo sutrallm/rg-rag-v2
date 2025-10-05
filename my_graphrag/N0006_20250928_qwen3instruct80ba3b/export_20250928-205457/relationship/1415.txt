@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>PUTA</target_entity>
+    <relationship_description>Zhengnian allows for non-reactive observation, which naturally supports letting go (puta) of attachment and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

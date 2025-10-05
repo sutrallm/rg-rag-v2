@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHIJIAN AIYU</source_entity>
+    <target_entity>CHAOYUE ZHUOZHUO</target_entity>
+    <relationship_description>Transcending attachment includes recognizing sensory pleasures as illusory, which is the direct antidote to worldly desire.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

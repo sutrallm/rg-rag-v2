@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO GUAN ZHAO</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Sheng Zhe (the enlightened being) embodies the result of deep Wu Wo Guan Zhao (non-self observation), having transcended all sense of self and afflictions through this insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHENGLUN</target_entity>
+    <relationship_description>The Shengzhe (holy one) has transcended Shenglun (samsara, the cycle of rebirth), having severed its root cause: clinging and ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

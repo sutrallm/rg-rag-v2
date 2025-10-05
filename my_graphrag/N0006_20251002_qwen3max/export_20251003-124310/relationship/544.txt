@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>清净戒律</target_entity>
+    <relationship_description>修行者若想成就禅定，必须首先持守清净戒律。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

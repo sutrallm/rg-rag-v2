@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WRONG GRASPING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Removing wrong grasping is essential for attaining the unconditioned state of nirvana.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

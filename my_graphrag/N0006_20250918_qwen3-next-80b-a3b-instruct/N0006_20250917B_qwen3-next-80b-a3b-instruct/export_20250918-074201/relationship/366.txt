@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>心念</target_entity>
+    <relationship_description>聖者善護心念，不為外相與內惑所轉，顯示其心識已達高度清明與穩定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

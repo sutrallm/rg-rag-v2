@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>沉沒</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>超越執著的智慧使人不恐懼沉沒，而能正念觀照，自然化解。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

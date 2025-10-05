@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>TAN YU</target_entity>
+    <relationship_description>Wu Ming (ignorance) is the root cause of Tan Yu (desire), as delusion leads to mistaken attachment to impermanent things.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

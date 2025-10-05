@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin is the antidote to Wuming — only through sustained effort can one overcome ignorance and its resulting suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

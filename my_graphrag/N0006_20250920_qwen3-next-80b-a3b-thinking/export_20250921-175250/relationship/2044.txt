@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING</source_entity>
+    <target_entity>XIN XING</target_entity>
+    <relationship_description>修行的根本在于净化心性，通过实践达到心性清净与解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

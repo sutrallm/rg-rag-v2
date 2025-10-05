@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心</source_entity>
+    <target_entity>貪瞋癡</target_entity>
+    <relationship_description>貪瞋癡是心的不善狀態，修行者透過觀察心念生滅、善巧對治貪瞋癡，使心柔軟明淨。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

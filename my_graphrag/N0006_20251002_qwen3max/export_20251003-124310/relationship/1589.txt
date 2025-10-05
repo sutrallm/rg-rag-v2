@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>戒定慧三学是脱离痛苦、趋向解脱的根本保障（注：虽“解脱”未单独列为实体，但其为文本核心目标，此处关系由三学指向解脱的隐含目标；然而根据指令，仅使用已提取实体。因此此关系不成立。已删除。）</relationship_description>
+    <relationship_strength>0</relationship_strength>
+</relationship>

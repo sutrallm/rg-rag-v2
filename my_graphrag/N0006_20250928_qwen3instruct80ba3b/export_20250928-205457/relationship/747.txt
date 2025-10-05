@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>因一切法無常，執取其為恆常便產生苦，故無常是苦的本質基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

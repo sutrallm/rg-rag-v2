@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行误区</source_entity>
+    <target_entity>禅悦</target_entity>
+    <relationship_description>沉溺禅悦是修行误区之一，会阻碍修行者持续觉知与如实观照。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

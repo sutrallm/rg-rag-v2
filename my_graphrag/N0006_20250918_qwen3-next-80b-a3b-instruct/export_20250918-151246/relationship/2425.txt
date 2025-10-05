@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>WISE_RECOGNITION</target_entity>
+    <relationship_description>Wise recognition is the direct insight that cuts through ignorance and enables true liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

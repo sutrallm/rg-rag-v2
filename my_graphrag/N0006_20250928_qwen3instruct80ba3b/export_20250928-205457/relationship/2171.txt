@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENDEAVOR</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Diligent practice directly opposes ignorance, which is overcome through persistent insight and mental discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

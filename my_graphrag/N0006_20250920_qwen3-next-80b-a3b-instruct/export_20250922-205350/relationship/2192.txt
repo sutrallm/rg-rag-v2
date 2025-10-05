@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANWUCHARANG</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Guanwucharang specifically targets the five aggregates, observing their transient nature to dissolve the illusion of self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

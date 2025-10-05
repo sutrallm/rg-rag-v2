@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FINE_DEFILEMENTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Even after gaining calm and insight, subtle defilements like spiritual pride prevent full liberation — only relentless wisdom can uproot them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

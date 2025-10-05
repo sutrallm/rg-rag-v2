@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU ZHI XIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Those who embody the non-abiding mind are the enlightened beings, as they are unstained by attachment to enlightenment or rejection of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

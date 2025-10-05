@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉与反省</source_entity>
+    <target_entity>习气</target_entity>
+    <relationship_description>警觉与反省用于觉察并修正习气，防止其牵引修行偏离正道。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

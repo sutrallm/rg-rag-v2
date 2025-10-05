@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Effortful practice directly counters delusion by sustaining mindfulness and wisdom, preventing mental sloth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE DE SHENGHUO TEZHI</source_entity>
+    <target_entity>PINGCHANGXIN SHI DAO</target_entity>
+    <relationship_description>Enlightened beings embody the ordinary mind — their daily life is seamless with spiritual practice, reflecting the teaching that enlightenment is found in the mundane.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>智慧的作用是超越和断除对一切境界与成果的执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

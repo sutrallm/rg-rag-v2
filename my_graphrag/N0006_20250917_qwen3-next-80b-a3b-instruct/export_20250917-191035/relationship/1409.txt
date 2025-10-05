@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行通过禅定作为核心方法，以觉知当下直接实践佛法，禅定是修行中核心的修习方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

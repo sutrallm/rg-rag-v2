@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>RESULTS</target_entity>
+    <relationship_description>Attachment manifests as clinging to the outcomes of spiritual practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

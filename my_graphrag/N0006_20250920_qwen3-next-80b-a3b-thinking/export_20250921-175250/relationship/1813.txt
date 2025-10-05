@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH</source_entity>
+    <target_entity>SLOTH</target_entity>
+    <relationship_description>DEATH controls SLOTH.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

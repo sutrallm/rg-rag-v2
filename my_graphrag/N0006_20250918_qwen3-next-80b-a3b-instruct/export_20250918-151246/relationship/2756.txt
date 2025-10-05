@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>禪定是修行的核心方法之一，用於培養心的專注與穩定，是實現日常覺察與淨化心念的重要工具。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

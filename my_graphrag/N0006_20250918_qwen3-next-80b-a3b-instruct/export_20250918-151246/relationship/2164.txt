@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>TA_DUAN_CHI</target_entity>
+    <relationship_description>The holy being has completely eradicated the three poisons, which is a defining characteristic of their attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>无明是轮回的根本原因，因无知而产生贪欲与执着，导致生死流转不止。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

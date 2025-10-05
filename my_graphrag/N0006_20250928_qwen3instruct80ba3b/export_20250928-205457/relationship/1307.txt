@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>NIBBANA</target_entity>
+    <relationship_description>Non-attachment is the core practice leading to nibbana, as liberation comes from relinquishing all clinging—including to spiritual states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

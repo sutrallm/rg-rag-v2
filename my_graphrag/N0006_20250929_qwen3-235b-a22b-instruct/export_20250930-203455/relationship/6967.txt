@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉</source_entity>
+    <target_entity>骄慢</target_entity>
+    <relationship_description>警觉要求修行者警惕骄慢，即使已得禅定或智慧，仍需防止因成就而生起的傲慢心态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

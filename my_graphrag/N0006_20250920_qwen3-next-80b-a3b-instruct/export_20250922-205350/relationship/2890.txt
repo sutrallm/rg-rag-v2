@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>圣者因具备超越执着的智慧，才能断除对禅定乐受与成就的执著，体现其真实解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

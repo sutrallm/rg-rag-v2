@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>AVERSION</target_entity>
+    <relationship_description>Delusion also fuels aversion, as ignorance distorts perception of reality, causing resistance to unpleasant conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

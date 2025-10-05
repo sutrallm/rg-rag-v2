@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL_DISCIPLINE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral discipline creates the conditions necessary for stable chanding by calming harmful speech and actions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Practitioners attain liberation through practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN CIXI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>The Xiulian cixi (discipline, concentration, wisdom) is the systematic path leading to NIEPAN—the cessation of suffering and cycle of rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

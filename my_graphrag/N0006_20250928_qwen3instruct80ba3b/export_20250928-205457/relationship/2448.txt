@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>慈悲是智慧的自然结果，当真正洞悉众生苦与无明，无条件的慈悲便会自然流露。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

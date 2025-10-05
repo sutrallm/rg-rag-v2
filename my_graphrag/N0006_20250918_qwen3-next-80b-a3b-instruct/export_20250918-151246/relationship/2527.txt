@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>The enlightened being embodies the fully realized state of liberation, having extinguished all afflictions and transcended worldly conditions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

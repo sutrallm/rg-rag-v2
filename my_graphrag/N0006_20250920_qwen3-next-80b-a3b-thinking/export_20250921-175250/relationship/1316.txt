@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Enlightenment transcends suffering as the ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

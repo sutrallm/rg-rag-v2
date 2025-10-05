@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>SAINTLY BEINGS have attained NIRVANA through complete enlightenment and liberation from cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

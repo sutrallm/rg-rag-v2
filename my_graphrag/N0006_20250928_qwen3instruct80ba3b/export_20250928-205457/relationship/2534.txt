@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIZAI JIEFA</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Neizai jiefa emphasizes that hui (wisdom) must be self-realized; true inner liberation cannot be given by external sources—it must be personally experienced through insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

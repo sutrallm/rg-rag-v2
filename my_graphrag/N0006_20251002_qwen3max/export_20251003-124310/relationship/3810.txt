@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>如实观照</target_entity>
+    <relationship_description>圣者透过如实观照断除一切烦恼，安住于寂静。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

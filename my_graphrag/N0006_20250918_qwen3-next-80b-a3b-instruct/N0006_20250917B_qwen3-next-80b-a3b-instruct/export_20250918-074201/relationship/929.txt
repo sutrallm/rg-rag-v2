@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGLER</source_entity>
+    <target_entity>CHENHEN</target_entity>
+    <relationship_description>A Shengler is free from Chenhen (hatred), having transformed reactive emotions into equanimity through insight and compassion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

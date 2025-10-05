@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PRESENT-MINDFULNESS</target_entity>
+    <relationship_description>Chanding is cultivated through present-mindfulness; sustained concentration arises from maintaining awareness in the here and now, not in abstract or future states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

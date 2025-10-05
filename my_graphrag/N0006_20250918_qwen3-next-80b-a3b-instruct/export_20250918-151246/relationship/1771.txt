@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENTHUSIASTIC_PERSEVERANCE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Without enthusiastic perseverance, chanding cannot be deepened or sustained; sustained effort is required to master meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

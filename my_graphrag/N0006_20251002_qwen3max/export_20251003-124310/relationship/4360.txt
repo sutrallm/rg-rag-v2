@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>洞察无我是彻底解脱的前提，因看清世间万法无我，修行者不再执着，从而脱离贪爱与系缚。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

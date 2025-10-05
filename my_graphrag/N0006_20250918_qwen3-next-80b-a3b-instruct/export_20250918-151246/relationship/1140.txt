@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness (正念) is the foundational practice that supports and develops meditative absorption (禅定) in daily life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

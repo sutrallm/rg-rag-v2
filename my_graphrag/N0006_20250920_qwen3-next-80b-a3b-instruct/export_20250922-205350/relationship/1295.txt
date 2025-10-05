@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realization of non-self is the essential insight that liberates the mind and leads directly to nirvana.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

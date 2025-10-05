@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>JIE tu</target_entity>
+    <relationship_description>Continuous diligent practice (Jingjin) is described as the essential foundation for achieving liberation, without which one remains trapped in samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

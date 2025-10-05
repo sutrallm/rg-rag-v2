@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Effortful Practice sustains Chan Ding by preventing laziness and regression into samsaric patterns.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

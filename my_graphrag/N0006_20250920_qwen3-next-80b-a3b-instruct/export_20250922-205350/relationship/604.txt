@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>正念的日常實踐是解脫的真實土壤，持續如實覺知能逐步瓦解執著，使心無所住，自然趨向解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自斷煩惱</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>自斷煩惱的終極目標是斷除無明與痴，這是解脫的根本。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

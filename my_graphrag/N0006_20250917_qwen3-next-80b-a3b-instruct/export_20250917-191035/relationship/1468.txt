@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进 (DEDICATION)</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous dedication strengthens and stabilizes chanding, preventing it from deteriorating due to laziness or distraction.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

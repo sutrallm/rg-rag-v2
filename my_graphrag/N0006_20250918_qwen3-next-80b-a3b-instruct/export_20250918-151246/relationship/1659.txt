@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHÈNGZHE</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>The sage has eradicated delusion by fully realizing the nature of reality and non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

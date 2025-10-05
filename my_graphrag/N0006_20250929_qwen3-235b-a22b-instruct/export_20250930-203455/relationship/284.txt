@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无生无灭</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>无生无灭是涅槃的核心特征之一，体现其超越生灭变化的绝对寂静。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

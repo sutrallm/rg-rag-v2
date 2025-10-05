@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SANXUE</target_entity>
+    <relationship_description>Chanding is the second of the three trainings — morality, concentration, and wisdom — and depends on morality and leads to wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

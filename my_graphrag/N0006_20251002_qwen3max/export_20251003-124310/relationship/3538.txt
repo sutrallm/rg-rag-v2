@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四聖諦</source_entity>
+    <target_entity>十二緣起</target_entity>
+    <relationship_description>四聖諦與十二緣起皆闡述苦與解脫的因果結構，前者重在總綱，後者詳述流轉還滅過程，共同構成佛教根本教義。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

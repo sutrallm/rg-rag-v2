@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QIXING</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Qixing describes hui as the natural result of ding, forming the third stage leading toward liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

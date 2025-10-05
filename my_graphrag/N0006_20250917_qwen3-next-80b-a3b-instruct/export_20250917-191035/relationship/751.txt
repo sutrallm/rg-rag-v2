@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHENG_JIE</source_entity>
+    <target_entity>SVENGG</target_entity>
+    <relationship_description>Liberty from the cycle of birth and death is the ultimate goal of spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CI BEI</source_entity>
+    <target_entity>ZHICHUANG</target_entity>
+    <relationship_description>Compassion without self (ci bei) is an expression of transcendent wisdom (zhichuang), manifesting as equanimity and non-clinging in relationships with others.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

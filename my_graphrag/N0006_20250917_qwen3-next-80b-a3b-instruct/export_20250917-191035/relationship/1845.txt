@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YINGUO</source_entity>
+    <target_entity>XINXI</target_entity>
+    <relationship_description>Understanding karma motivates heart-mind cultivation, as one seeks to transform unwholesome actions and cultivate wholesome ones internally.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

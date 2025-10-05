@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Hatred is one of the three primary defilements that bind beings in suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

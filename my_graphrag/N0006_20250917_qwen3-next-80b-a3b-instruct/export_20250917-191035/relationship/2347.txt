@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净戒行</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>清净戒行是圣者的基本德行特征，是其能安住寂静、断尽烦恼的前提条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>四无色定</target_entity>
+    <relationship_description>四无色定是禅定的进阶阶段，建立在色界定（初至四禅）基础上，进一步超越对物质现象的执取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

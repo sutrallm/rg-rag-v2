@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>DHYANA</target_entity>
+    <relationship_description>Buddha taught Dhyana as a fundamental meditative practice for achieving enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

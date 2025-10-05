@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒律是禅定生起的必要前提，戒行清净则心不散乱，禅定自然易成。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

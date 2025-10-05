@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒禁取</source_entity>
+    <target_entity>证量</target_entity>
+    <relationship_description>戒禁取是修行者在证量阶段需断除的烦恼之一，执着错误戒律阻碍解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Attachment arises from clinging to the false notion of a permanent self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

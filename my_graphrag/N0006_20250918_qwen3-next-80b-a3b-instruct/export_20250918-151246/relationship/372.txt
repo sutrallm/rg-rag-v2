@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRAITS_OF_SAINTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The qualities of saints—pure conduct and wisdom—are the direct indicators and results of achieved liberation, making them synonymous with its expression.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>闻思修三慧</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>闻思修三慧是获得智慧的完整路径：闻法得正见，思惟得定解，修习得实证。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

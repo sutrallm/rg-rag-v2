@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>禪境</target_entity>
+    <relationship_description>達到心解脫的修行者雖修習禪定、追求解脫果證，卻不執著於任何禪境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE PATH</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The middle path is the practical way to achieve nirvana—by avoiding extremes of attachment and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

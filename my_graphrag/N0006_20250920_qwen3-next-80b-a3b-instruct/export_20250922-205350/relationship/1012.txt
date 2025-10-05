@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>善业</source_entity>
+    <target_entity>业力</target_entity>
+    <relationship_description>善业 purifies 业力, transforming harmful karmic patterns into wholesome ones, thereby supporting mindfulness and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

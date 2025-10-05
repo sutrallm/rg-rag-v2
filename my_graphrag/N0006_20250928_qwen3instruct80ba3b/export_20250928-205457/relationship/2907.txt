@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Shengzhe are the living embodiments of NIEPAN—having fully realized and transcended all suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

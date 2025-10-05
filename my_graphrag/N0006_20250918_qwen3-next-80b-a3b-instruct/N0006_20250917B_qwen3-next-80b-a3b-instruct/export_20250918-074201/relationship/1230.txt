@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU</source_entity>
+    <target_entity>SHENGSI LUNHUAI</target_entity>
+    <relationship_description>Chanxiu’s ultimate purpose is to transcend Shengsi lunhuai (cycle of birth and death) by extinguishing the causes of rebirth, especially ignorance and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

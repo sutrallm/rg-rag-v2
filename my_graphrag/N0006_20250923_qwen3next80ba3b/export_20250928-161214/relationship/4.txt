@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TASK</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>The task requires the original text for processing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFATONGXIANG</source_entity>
+    <target_entity>WUZHIZHE</target_entity>
+    <relationship_description>True liberation Jiefatongxiang requires Wu zhizhe — not clinging even to states of peace or joy experienced in meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

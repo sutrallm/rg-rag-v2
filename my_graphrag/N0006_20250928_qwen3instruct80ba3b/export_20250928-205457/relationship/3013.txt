@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>智慧是断无明、证涅槃的直接工具，涅槃即是智慧圆满之果，二者为直接因果关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

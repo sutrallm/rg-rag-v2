@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Mindfulness allows one to directly perceive dependent arising in real time, observing how thoughts, feelings, and experiences arise and pass away conditionally.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

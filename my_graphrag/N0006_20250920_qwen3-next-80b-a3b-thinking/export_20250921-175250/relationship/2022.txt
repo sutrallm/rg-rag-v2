@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>林</source_entity>
+    <target_entity>风雨</target_entity>
+    <relationship_description>树林阻挡风雨，为栖息生物提供防御屏障。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Chanding requires Zhengnian (mindfulness) to maintain focused awareness and avoid distraction; mindfulness is the mechanism through which concentration is stabilized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

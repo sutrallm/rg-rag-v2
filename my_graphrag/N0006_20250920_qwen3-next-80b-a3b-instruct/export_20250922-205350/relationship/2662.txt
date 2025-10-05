@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG GUANZHAO</source_entity>
+    <target_entity>ZHINENG JIEDE</target_entity>
+    <relationship_description>Wuchang Guanzhao (contemplation of impermanence) is the primary method for developing Zhineng Jiede, as observing impermanence leads to insight into non-self and emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

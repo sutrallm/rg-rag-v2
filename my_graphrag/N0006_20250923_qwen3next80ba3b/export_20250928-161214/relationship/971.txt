@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>TRUTH</target_entity>
+    <relationship_description>Wisdom enables the direct realization of ultimate truth according to Buddhist principles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

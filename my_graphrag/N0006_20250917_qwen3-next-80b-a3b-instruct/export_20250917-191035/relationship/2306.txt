@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Daily practice is the method for maintaining mindfulness in all aspects of life, not just formal meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

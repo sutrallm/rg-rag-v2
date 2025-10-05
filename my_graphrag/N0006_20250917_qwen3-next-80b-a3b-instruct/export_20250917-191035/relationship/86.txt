@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自己</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>自己是自身解脱的唯一承担者，觉悟必须依靠个人的正见与正行，不可依赖他人或外力。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

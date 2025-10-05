@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>喜</source_entity>
+    <target_entity>二禪</target_entity>
+    <relationship_description>喜是二禪的禪支之一，於三禪時被捨離。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>淨戒</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>淨戒是禪定的基礎，守護根門與行為清淨能減少外緣干擾，使心易於安住，建立修行的前提條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

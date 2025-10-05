@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>圣者已证得涅槃之境，其心无住、无执、无苦，是涅槃状态在现实中的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

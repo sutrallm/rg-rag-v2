@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-NARRATIVE</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>The self-narrative (“I am meditating,” “I have attained”) is the vehicle through which clinging manifests, reinforcing the illusion of a separate self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

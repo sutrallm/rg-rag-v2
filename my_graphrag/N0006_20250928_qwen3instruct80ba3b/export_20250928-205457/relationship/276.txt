@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>正念是禪定的具體表現與日常修持方式，二者密不可分，正念滋養禪定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

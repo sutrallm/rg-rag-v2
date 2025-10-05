@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>XINBUQIJINGZHUAN</target_entity>
+    <relationship_description>When Wuwo (non-self) is realized, the mind ceases to cling to experiences, resulting in Xin bu qi jing zhuan (mind undisturbed by conditions).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

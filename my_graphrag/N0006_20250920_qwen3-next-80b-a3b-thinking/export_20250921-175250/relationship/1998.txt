@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>A cultivator must practice diligence to maintain spiritual progress and avoid regression.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

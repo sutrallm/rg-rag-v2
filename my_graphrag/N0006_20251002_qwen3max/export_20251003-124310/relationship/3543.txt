@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>遠離</target_entity>
+    <relationship_description>遠離喧囂與感官誘惑是禪定的必要外在條件，與持戒共同構成禪定的基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

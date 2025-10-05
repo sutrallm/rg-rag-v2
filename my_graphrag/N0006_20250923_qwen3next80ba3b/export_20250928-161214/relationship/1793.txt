@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEATH DEMON</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>The death demon symbolizes the power of death within cyclic existence that captivates beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

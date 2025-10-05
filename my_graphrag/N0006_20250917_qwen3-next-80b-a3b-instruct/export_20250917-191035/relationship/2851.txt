@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Consistent exertion enables sustained practice, which is required for wisdom to mature through repeated observation and insight over time.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

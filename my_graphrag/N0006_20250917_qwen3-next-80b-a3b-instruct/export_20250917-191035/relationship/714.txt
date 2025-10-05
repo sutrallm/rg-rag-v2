@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attachment is the practical manifestation of liberation; freedom from clinging is the defining characteristic of the liberated state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

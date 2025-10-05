@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪爱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>唯有彻底放下贪爱，才能证入无依无著的涅槃境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

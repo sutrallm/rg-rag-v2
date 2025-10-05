@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>圣者每日勤修心念，安住寂静，正念是其持续觉照、不为外境所动的关键机制。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

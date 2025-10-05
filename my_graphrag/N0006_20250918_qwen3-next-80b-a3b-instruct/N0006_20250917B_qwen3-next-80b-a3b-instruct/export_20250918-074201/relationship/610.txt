@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PING DENG XIN</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Equal-mindedness (Ping Deng Xin) is the defining quality of the sage (Sheng Zhe), who remains undisturbed by external circumstances, embodying true spiritual mastery.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

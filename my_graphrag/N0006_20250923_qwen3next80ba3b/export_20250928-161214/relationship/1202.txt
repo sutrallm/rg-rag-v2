@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>HOLY_FRUITS</target_entity>
+    <relationship_description>Wisdom permits pursuit of holy fruits without becoming bound by them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

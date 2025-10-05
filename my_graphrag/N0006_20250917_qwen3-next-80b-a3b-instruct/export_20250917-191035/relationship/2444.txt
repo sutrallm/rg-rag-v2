@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENT WISDOM</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Transcendent wisdom deepens chanding by revealing the true nature of experiences, preventing attachment even to meditative states, thus refining and elevating concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

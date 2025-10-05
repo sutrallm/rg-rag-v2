@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDLIFE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The Middle Way guides the correct approach to chanding — neither clinging to blissful states nor rejecting them, avoiding extremism.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

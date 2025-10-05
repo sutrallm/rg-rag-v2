@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Continuous diligent effort (Jing Jin) is necessary to stabilize and deepen meditative concentration (Chan Ding).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

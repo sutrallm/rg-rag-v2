@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>FORMAL PRACTICES</target_entity>
+    <relationship_description>Liberation is distinguished from external rituals or mechanical practices; true freedom arises from inner awakening, not outward conformity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

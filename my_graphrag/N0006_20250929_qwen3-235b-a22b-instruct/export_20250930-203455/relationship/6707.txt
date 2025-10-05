@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>内在杂念</target_entity>
+    <relationship_description>禅定帮助修行者持续保持正念，远离内在杂念，使心不被妄念困扰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

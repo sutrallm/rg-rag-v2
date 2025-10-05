@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念正知</source_entity>
+    <target_entity>觉知分明</target_entity>
+    <relationship_description>正念正知的具体体现是觉知分明，无论行住坐卧皆保持清晰觉察。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

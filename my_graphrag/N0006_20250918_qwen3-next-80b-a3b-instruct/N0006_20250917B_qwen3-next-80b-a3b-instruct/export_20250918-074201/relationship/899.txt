@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>INVALIDATION_OF_SENSE_PLEASURE</target_entity>
+    <relationship_description>Seeing the impermanent nature of all experiences undermines attachment to sensory pleasures and meditative bliss, leading to non-clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

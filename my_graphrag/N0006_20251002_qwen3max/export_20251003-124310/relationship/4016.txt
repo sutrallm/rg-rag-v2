@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修者</source_entity>
+    <target_entity>喜乐</target_entity>
+    <relationship_description>禅修者可能经历喜乐，但需以不执取的态度视之，因其属缘起无常法。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

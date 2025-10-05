@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>心念需以智慧为眼，洞察杂念本质，不被其主宰，是调伏心念的关键。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>mindfulness</source_entity>
+    <target_entity>doubt</target_entity>
+    <relationship_description>Mindfulness enables practitioners to overcome doubts about meditation by maintaining clear awareness and steadfastness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

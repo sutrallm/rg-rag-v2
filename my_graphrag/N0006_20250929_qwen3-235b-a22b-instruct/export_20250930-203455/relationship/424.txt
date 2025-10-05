@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自在境界</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>自在境界是解脱者所达到的无碍状态，不被生死得失所动。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

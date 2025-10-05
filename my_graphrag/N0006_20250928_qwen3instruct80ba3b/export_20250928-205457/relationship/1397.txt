@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO ZHENGJIAN</target_entity>
+    <relationship_description>Saintly beings embody the Wuwo zhengjian through their constant non-identification with thoughts and phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

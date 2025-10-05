@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>正念是修习四念处的基础，四念处正是通过正念对身受心法进行如实观察。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

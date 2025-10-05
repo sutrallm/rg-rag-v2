@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MENTAL STILLNESS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Mental stillness is not liberation itself, but the necessary internal condition in which liberating wisdom arises and stabilizes.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

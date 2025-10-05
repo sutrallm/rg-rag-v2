@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>ETING</target_entity>
+    <relationship_description>Wisdom must be supported by meditative concentration; without concentration, wisdom is as unstable as a candle in the wind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

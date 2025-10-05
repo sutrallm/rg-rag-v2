@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>瞋</source_entity>
+    <target_entity>寂静</target_entity>
+    <relationship_description>真正的寂静需彻底脱离瞋等烦恼，调伏瞋心有助于内心安稳与清明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

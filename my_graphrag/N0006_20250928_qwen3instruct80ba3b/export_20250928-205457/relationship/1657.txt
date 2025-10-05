@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE THREE POISONS</source_entity>
+    <target_entity>SPRITUAL PRACTICE</target_entity>
+    <relationship_description>The entire purpose of spiritual practice is to eradicate the Three Poisons—greed, hatred, and delusion—which are the root causes of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

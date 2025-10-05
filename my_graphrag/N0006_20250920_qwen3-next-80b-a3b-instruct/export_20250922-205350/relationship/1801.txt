@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO KONGGUAN</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Emptiness observation is practiced by examining the five aggregates and realizing none constitute a permanent self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Virtue supports the cultivation of chanding by minimizing external and internal obstacles to concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>DESIRES</target_entity>
+    <relationship_description>Through Chan Ding, one observes desires as transient mental events and gradually releases attachment to them.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

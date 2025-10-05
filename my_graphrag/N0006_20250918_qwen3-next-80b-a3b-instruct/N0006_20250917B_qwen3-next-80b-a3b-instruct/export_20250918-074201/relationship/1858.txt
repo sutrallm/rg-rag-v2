@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NON-SUBSTANTIALITY</target_entity>
+    <relationship_description>Impermanence is a key observation that leads to the deeper realization of non-substantiality — everything is empty of inherent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

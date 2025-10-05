@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSIENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Understanding transience is a core component of liberating wisdom, enabling one to see through illusions of permanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

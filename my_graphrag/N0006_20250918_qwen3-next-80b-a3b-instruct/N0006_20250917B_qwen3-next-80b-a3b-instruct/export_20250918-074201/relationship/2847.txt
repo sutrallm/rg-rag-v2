@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGYI</source_entity>
+    <target_entity>SHELI</target_entity>
+    <relationship_description>True wisdom (Shengyi) leads to complete renunciation (Sheli), as one no longer clings even to spiritual achievements or experiences like bliss or insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

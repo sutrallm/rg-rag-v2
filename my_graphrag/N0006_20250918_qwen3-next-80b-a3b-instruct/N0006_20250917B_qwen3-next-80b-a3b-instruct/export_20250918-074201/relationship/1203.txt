@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>QING JING</target_entity>
+    <relationship_description>The Saintly One is characterized by abiding in purity and tranquility, having eradicated defilements that cloud the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

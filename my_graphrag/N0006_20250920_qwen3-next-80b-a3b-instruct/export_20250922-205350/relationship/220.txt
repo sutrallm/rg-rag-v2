@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOGUO ZHUZHUO</target_entity>
+    <relationship_description>Chanding is the stable mental platform from which transcending attachment arises; deep concentration enables clear observation of phenomena without clinging to meditative states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

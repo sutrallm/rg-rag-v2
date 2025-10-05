@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>禅定的作用是息灭贪欲、嗔恚与愚痴，即直接对治三毒。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIXIN'ANNING</source_entity>
+    <target_entity>JIE tu</target_entity>
+    <relationship_description>Inner peace (Neixin'anning) is not merely a result of liberation but its very essence—true freedom is defined by an unshakable inner stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

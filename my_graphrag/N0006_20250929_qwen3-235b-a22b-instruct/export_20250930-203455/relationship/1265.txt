@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>佛陀教导的修行体系即戒定慧三学，是通向解脱的必经之路。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

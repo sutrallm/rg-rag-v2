@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE ONES</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Noble Ones have extinguished hatred through compassion and wisdom, transcending aversion and inner conflict.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

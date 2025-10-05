@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSON_NAME</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>PERSON_NAME entities within ORIGINAL_TEXT are targeted for removal.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

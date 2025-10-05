@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>MEDITATION cultivates TRANQUILITY by calming the mind and achieving stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

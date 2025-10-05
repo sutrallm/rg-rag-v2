@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMOTIONAL_REACTIONS</source_entity>
+    <target_entity>PROFOUND_WISDOM</target_entity>
+    <relationship_description>Emotional reactions are understood and dissolved through the lens of profound wisdom observing their impermanent and non-self nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

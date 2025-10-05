@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>觉悟者</target_entity>
+    <relationship_description>觉悟者已断除我执，不随业力流转，心如明镜清净无染，体现其超越生死轮回的解脱境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

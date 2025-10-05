@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>THREE JEWELS</target_entity>
+    <relationship_description>The Three Jewels are constantly recollected to maintain and cultivate the purity of the mind nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

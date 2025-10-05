@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>持续觉知</target_entity>
+    <relationship_description>禅定是持续觉知的基础，而持续觉知则是禅定在日常中的延伸和实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

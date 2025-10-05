@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>OPERATION</target_entity>
+    <relationship_description>The query lacks the necessary original text, making it impossible to execute the operation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

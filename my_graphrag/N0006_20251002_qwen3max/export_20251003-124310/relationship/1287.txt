@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禪修者</target_entity>
+    <relationship_description>正念是禪修者必須具備的覺知能力，使其不被雜念牽引。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

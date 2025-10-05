@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>“因缘和合”为“无我”的哲学基础，说明身心非独立实体，故无恒常之“我”。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

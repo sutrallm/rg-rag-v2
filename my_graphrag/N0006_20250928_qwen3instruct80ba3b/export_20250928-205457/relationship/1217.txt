@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>MINDEFULNESS</target_entity>
+    <relationship_description>Concentration and mindfulness work together: mindfulness maintains awareness, concentration deepens focus.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

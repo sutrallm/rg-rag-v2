@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MORAL_DISCIPLINE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Moral discipline prepares the mind for the development of penetrating wisdom, and wisdom guides moral conduct with insight.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

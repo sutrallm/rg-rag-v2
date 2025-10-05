@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_POISONS</source_entity>
+    <target_entity>ENLIGHTENED_BEING</target_entity>
+    <relationship_description>An enlightened being has completely eradicated the three poisons, which is the hallmark of their liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

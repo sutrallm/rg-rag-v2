@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIANZHI</source_entity>
+    <target_entity>NEIFAN</target_entity>
+    <relationship_description>Jianzhi allows one to directly face neifan (inner afflictions) with awareness, rather than avoiding or suppressing them, which is essential for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

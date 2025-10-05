@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISENESS</source_entity>
+    <target_entity>NO-SELF</target_entity>
+    <relationship_description>Wiseness leads directly to the realization of No-self, as seeing all phenomena as impermanent and non-self dissolves the illusion of an independent “I”.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

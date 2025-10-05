@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心一境性</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>心一境性与正念共同构成禅定的核心，二者相辅相成，使修行者保持专注与觉知。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

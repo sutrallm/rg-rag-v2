@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGJIE SHIXIANG</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Zhongjie shixiang is the experiential manifestation of perfected zhihui — the wisdom that perceives reality as empty, unconditioned, and non-dual.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

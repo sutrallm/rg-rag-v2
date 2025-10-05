@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>涅槃是解脱的终极境界，即彻底断除贪嗔痴、超越生死轮回，其本质寂静、无苦、无生。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

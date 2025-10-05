@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>境界</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>超越执着的智慧指导修行者不贪恋任何修行境界，防止陷入境界执著而停滞不前。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

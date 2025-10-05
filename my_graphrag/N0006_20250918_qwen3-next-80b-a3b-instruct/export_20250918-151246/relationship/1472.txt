@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Shengzhe embodies liberation—having completely eradicated the three poisons and residing in awakened stillness, their state is the manifestation of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

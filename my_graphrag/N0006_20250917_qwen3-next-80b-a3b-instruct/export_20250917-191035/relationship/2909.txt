@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>A saintly being has completely eradicated delusion through direct wisdom and seeing reality as it is.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

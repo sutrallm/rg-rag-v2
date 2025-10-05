@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>具足戒律是聖者的重要特質之一，代表行為清淨，是定慧成就的基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

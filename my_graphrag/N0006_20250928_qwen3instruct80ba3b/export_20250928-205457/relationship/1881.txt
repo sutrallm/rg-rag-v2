@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIYANG SHOUHU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Riyang shouhu (daily guardianship) is the practical embodiment of Chanding applied in everyday life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

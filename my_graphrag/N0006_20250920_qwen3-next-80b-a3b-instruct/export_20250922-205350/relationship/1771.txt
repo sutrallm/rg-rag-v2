@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正見</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>正見是正確理解正法的關鍵，唯有具備正見，修行才能不偏離正法的軌道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

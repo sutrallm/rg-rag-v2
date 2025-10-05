@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFICATION</source_entity>
+    <target_entity>KARMA OBSTACLES</target_entity>
+    <relationship_description>Purification removes karmic obstacles through ethical conduct and meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

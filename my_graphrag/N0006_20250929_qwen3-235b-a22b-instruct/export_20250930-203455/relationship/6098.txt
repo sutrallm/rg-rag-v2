@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>外境</target_entity>
+    <relationship_description>正念要求修行者不被外境牵引，时刻保持觉知，如理观察身心变化。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

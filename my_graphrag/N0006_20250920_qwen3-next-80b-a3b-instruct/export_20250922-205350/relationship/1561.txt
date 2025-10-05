@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>智慧的本质是彻见无我，无我是智慧观照的核心对象与终极证悟。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

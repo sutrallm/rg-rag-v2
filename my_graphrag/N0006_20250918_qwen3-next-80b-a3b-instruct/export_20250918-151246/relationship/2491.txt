@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINXIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xinxiu is the overarching practice that includes Chanding as one of its core components; mindful awareness in each moment naturally cultivates meditative concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

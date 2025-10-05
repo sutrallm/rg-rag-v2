@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>鸟</source_entity>
+    <target_entity>风雨</target_entity>
+    <relationship_description>依托林的庇护，鸟能避免风雨的干扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

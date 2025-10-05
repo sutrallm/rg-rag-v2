@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SHORE OF NIRVANA</target_entity>
+    <relationship_description>Constant practitioners inevitably reach the shore of nirvana, as mentioned in '恒常现前的修行者必然抵达涅槃彼岸'.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

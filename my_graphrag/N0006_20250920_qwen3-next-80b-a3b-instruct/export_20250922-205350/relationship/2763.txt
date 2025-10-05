@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETINGHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wisdom (hui) in Jietinghui leads directly to Wuwo insight; without it, practice becomes mechanical or misguided.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

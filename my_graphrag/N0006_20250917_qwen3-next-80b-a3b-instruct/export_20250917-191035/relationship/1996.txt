@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Saintly beings have completely eradicated afflictions (greed, hatred, delusion) from their minds.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

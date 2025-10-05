@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DANG XIA</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Dang Xia (the present moment) is the only place where Chan Ding can be practiced and maintained — mindfulness must be anchored here.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

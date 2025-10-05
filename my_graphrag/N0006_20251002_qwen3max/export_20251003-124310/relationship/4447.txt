@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>专注</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>专注是禅修过程中维持心一境性的关键能力，支持持续如实观照。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

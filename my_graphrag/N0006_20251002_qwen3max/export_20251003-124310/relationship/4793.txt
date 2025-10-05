@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>乐</source_entity>
+    <target_entity>三禅</target_entity>
+    <relationship_description>乐存在于三禅，是三禅二支之一，在第四禅时被舍离。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

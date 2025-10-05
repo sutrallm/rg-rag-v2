@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>UNOBSTRUCTED_WISDOM</target_entity>
+    <relationship_description>Observing ethical precepts creates the foundation for developing unobstructed wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

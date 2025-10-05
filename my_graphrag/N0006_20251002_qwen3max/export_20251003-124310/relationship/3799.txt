@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>不执取</target_entity>
+    <relationship_description>真正的解脱以不执取任何境界为特征，包括不贪著禅定之乐与三界果报。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

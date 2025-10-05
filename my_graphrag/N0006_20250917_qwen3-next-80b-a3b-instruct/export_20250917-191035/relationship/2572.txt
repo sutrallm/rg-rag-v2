@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SELF-CLINGING</target_entity>
+    <relationship_description>Wisdom directly dissolves self-clinging by revealing the emptiness and impermanent nature of the “self” and its objects.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

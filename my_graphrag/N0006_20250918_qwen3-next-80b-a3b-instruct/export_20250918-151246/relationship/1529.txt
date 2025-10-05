@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NONOSELF</target_entity>
+    <relationship_description>These are two of the Three Marks of Existence in Buddhism; insight into impermanence leads to realization of non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

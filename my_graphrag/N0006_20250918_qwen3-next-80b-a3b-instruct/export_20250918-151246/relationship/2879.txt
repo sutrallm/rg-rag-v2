@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENXI</source_entity>
+    <target_entity>WUZHONG</target_entity>
+    <relationship_description>Shenxi (persistent practice) is the means to overcome wuzhong (ignorance) through sustained mindfulness and ethical discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒律是禅定的根基，若不持戒，心被烦恼染污，禅定难以生起；持戒为定提供安稳的环境。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

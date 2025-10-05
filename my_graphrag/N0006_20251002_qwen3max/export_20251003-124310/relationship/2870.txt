@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>禅修</target_entity>
+    <relationship_description>不放逸是修行的核心态度，是掌握禅修之道的必要条件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

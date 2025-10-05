@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DOCTRINAL DETAILS</source_entity>
+    <target_entity>DHARMA TEACHINGS</target_entity>
+    <relationship_description>Doctrinal details form the essential core of Dharma teachings that must remain preserved during text reprocessing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

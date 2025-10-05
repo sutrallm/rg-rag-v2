@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FORMAL_RITUALS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Formal rituals alone are empty without the inner wisdom that sees truth; true value lies in the mind’s realization, not external forms.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

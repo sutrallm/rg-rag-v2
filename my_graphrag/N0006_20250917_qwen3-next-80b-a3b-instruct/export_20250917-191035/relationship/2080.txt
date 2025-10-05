@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>無明使人誤認五蘊為我，由此產生貪欲與執著，無明是貪欲的根源。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

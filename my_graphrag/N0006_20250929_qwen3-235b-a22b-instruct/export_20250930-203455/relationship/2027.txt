@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>身心观察</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>身心观察通过如实觉知当下，不随妄念流转，能有效防止放逸的发生。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

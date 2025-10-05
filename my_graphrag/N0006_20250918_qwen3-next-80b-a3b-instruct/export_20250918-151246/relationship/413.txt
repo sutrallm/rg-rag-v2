@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Nirvana is not a state achieved through concentration alone, but chanding serves as the preparatory foundation for realizing the true nature that leads to nirvana.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

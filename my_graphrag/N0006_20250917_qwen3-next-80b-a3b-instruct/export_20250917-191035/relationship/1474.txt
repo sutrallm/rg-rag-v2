@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者 (SAINT)</source_entity>
+    <target_entity>如实智慧 (WISDOM_OF_SUCHNESS)</target_entity>
+    <relationship_description>Saints embody this wisdom — they see all phenomena as they are and are free from delusion and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

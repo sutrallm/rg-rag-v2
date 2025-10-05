@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING ZAI SHENG HUO ZHONG</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Practice in daily life cultivates Chan Ding by anchoring awareness in each moment—turning ordinary actions into meditative states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

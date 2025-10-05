@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>真正的寂静表现为轻安，是内心离欲后自然生起的状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

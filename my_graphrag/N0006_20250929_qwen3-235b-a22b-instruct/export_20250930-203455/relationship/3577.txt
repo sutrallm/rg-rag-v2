@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>心解脱通过智慧观照获得，能洞察无常、不执着于任何境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>愚痴源于不明缘起，而贪嗔二毒也因误认有独立“我”与“我所”而生，缘起是断三毒的理论基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>KARMA perpetuates the cycle of SAMSARA.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

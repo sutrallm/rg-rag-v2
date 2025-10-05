@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DETAILED_AWARENESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Continuous detailed awareness is the meditative method through which the path to nirvana is progressively walked.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

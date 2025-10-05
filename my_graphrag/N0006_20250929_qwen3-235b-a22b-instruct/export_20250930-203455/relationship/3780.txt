@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>行住坐卧</source_entity>
+    <target_entity>日常修行</target_entity>
+    <relationship_description>行住坐卧是日常修行的具体实践方式，禅定应融入其中，实现动静一如的修行境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

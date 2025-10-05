@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GUANZHAO</source_entity>
+    <target_entity>BUZHIZHIE GUODONG</target_entity>
+    <relationship_description>Mindful observation requires non-attachment to results; one observes without seeking to change or gain from the experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

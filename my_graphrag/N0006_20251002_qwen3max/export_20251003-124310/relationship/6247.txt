@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内观</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>内观能如实照见诸法皆苦，从而断除执取与贪爱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>緣起性空</source_entity>
+    <target_entity>六塵</target_entity>
+    <relationship_description>六塵如網織、如幻化，本無實體，其生滅現象皆依緣起性空而顯，修行者應觀其無自性以斷執著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

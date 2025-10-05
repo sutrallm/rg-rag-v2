@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Fangyi is the direct opposite of Jingjin — the former obstructs, the latter overcomes it.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

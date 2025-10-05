@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXING WU XAIQIU</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>The principle that liberation requires no external aid is embodied by the holy person, who relies solely on internal wisdom rather than rituals or external validation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

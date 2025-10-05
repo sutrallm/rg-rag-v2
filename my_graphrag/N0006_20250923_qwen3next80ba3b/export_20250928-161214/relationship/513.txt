@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR IMMEASURABLE HEARTS</source_entity>
+    <target_entity>SYMPATHETIC JOY</target_entity>
+    <relationship_description>Sympathetic Joy is one of the four specific mental states developed through the Four Immeasurable Hearts cultivation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

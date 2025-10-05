@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sheng Zhe possesses perfected Chanding, which supports their unshakable mental stability and deep wisdom, enabling them to remain unaffected by worldly conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

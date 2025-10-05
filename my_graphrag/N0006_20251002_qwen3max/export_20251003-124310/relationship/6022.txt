@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱者</source_entity>
+    <target_entity>自在</target_entity>
+    <relationship_description>解脱者因烦恼已尽，心性本净，自然处于自在状态，能随缘利他，无有障碍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

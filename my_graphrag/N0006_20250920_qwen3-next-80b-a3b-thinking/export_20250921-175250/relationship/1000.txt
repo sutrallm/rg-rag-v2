@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom involves understanding the nature of suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

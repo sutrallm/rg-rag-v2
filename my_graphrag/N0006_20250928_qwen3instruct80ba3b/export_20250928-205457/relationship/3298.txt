@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIYONG</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Riyong extends chanding beyond formal meditation into daily life, deepening and stabilizing meditative awareness through continuous mindfulness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

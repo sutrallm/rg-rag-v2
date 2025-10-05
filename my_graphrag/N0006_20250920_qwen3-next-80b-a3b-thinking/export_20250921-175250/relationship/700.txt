@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>DELUDED_THOUGHTS</target_entity>
+    <relationship_description>Mind should not fluctuate with deluded thoughts during meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

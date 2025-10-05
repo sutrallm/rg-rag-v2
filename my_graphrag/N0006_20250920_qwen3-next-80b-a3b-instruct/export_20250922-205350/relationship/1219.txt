@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佈施</source_entity>
+    <target_entity>貪愛</target_entity>
+    <relationship_description>佈施以無所求為核心，用以減輕與對治貪愛。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

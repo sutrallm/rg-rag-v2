@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如實觀察</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>如實觀察是培養智慧的重要方法，使人能洞察身心實相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

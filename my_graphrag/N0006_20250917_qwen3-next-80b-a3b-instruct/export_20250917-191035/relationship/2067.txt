@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>SHENGTAO</target_entity>
+    <relationship_description>Afflictions are the root cause of samsara; they perpetuate the cycle of birth and death through craving and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

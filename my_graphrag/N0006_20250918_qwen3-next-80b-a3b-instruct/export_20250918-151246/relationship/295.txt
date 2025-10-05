@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENDEAVOR</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Only through sustained endeavor can one fully develop and maintain chanding, preventing regression into ignorance or laziness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

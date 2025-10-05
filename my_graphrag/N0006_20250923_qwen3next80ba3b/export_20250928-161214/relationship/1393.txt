@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SWORD FORGING</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>SWORD FORGING serves as a metaphor for the disciplined method of MEDITATION.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

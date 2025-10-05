@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者 (THE SAINTLY ONE)</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The saintly one abides in chanding as a natural, stable state due to perfected mindfulness and mental purity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

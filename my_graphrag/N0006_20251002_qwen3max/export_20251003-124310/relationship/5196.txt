@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>心解脱的实现依赖于灭除烦恼，内心不再被贪、瞋、痴所扰。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

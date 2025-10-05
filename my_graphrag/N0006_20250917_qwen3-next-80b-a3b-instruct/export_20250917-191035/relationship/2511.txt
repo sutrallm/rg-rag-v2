@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無明</target_entity>
+    <relationship_description>智慧是對治無明的直接方法，洞察實相方可破除無明，使貪嗔自然息滅。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>DIALOGUES</target_entity>
+    <relationship_description>DIALOGUES are present in ORIGINAL TEXT and require conversion into Dharma explanations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

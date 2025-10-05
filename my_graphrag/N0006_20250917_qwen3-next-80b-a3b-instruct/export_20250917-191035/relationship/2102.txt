@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSNORMATIVE WISDOM</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Transnormative wisdom prevents attachment to the pleasant states of chanding, ensuring it doesn’t become a new object of clinging and thus a barrier to true liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>WU YIXIE JINGJIE</target_entity>
+    <relationship_description>Wuwo guanzhao (non-self observation) leads to Wu yixie jingjie (non-attachment to all experiences), because realizing that no self exists removes the basis for clinging to any state as “mine.”</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

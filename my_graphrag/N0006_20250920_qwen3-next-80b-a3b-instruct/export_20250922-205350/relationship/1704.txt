@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUXIU JISI</source_entity>
+    <target_entity>SENDOU</target_entity>
+    <relationship_description>Failure to practice leads to being trapped in samsara — one is metaphorically “dead” while alive, enslaved by ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

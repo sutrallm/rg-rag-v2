@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DISCIPLINE</source_entity>
+    <target_entity>CHANYING</target_entity>
+    <relationship_description>Discipline provides the stable foundation necessary for cultivating deep meditative concentration (chanying).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

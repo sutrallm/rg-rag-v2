@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIZAI JUEXING</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Neizai juexing arises from and is synonymous with deep Hui—the direct personal insight into the nature of suffering and its cessation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

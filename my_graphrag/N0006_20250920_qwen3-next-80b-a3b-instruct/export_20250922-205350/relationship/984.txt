@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是三学的第二学，由持戒所生，为开启智慧的桥梁。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

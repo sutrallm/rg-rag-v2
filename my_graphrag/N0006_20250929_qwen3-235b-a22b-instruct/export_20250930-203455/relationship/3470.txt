@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慈悲心</source_entity>
+    <target_entity>平等心</target_entity>
+    <relationship_description>慈悲心以平等心为基础，不分别亲疏怨亲，是慈悲实践的核心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

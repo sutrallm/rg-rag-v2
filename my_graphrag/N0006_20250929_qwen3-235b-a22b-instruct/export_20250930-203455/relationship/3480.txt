@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者通过禅定安住寂静，是其心念专注、远离纷扰的修行实践。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果验证</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>真正的修行成果以烦恼减轻、慈悲增长等内证为标准，是趋向解脱的标志。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

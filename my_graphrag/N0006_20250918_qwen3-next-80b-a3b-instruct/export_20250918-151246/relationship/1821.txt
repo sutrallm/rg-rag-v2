@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>LI JIE</target_entity>
+    <relationship_description>Wisdom (Hui) is the direct path to liberation (Li Jie), as it allows one to see through delusion and cease suffering through insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

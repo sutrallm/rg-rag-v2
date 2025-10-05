@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Sheng Zhe embodies perfected Chan Ding, having stabilized the mind completely and permanently beyond disturbance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

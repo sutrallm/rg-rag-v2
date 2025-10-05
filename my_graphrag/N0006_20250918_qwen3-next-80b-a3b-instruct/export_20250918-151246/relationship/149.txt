@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE OF THE SAINT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>The saint possesses complete wisdom, enabling them to remain unmoved by worldly conditions and attain inner purity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

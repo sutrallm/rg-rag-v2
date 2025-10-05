@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>戒定慧是净化贪嗔痴尘垢的方法，通过修习三学可逐步拂去三毒。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

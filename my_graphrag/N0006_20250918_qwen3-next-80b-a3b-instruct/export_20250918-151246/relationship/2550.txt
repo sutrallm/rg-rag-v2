@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>KU</target_entity>
+    <relationship_description>Impermanence (wuchang) is one of the fundamental conditions that give rise to suffering (ku), as beings cling to things that inevitably change.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

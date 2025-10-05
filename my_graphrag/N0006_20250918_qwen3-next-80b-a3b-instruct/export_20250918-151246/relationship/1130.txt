@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SACREDQUALITIES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Those with sacred qualities have transcended greed by observing its arising and ceasing without identification.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

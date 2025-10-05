@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>煩惱（如貪欲、瞋恚等）會干擾禪定過程，而禪定的深入能減輕煩惱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

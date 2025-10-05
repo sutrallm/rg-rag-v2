@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE-DING-HUI</target_entity>
+    <relationship_description>A shengzhe embodies the perfected practice of the entire Jie-Ding-Hui path — moral discipline, meditative stability, and liberating wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

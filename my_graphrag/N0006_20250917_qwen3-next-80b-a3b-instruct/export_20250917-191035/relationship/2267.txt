@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>內觀</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>內觀需依賴禪定的安定心態才能深入進行，禪定為內觀提供基礎支持。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

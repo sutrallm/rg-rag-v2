@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>禪修者</target_entity>
+    <relationship_description>禪修者透過修習禪定來遠離內心躁動與外在干擾，獲得穩定清明的心境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>痴</target_entity>
+    <relationship_description>痴是烦恼的根本组成部分之一，禅定与智慧修习旨在消除痴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>终极目标</source_entity>
+    <target_entity>佛法修行</target_entity>
+    <relationship_description>The ultimate goal of extinguishing suffering defines the true purpose of Buddhist practice, distinguishing it from superficial rituals.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

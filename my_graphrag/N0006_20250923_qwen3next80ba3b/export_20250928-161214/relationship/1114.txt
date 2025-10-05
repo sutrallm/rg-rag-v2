@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>掌握</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>掌握是对解脱之道的理解和掌控。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

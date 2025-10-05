@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RELEASING</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Releasing is the active practice of non-attachment, embodying the insight that all phenomena are impermanent and not self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

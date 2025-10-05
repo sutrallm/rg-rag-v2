@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是守护禅定的关键，使心念持续专注于所缘对象，防止杂念干扰。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

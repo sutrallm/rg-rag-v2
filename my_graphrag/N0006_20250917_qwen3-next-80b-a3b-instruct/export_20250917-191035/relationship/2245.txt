@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous exertion is necessary to develop and sustain deep chanding, as it requires persistent effort without lapse.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

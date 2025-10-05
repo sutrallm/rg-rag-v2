@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>聖者因成就禪定而能安住內在寂靜，不為外緣所動。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>禅定为观照无我提供稳定的内心状态，使人能如实了知无独立自我的真相。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

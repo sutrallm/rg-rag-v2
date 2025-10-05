@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MOTH</source_entity>
+    <target_entity>FIRE</target_entity>
+    <relationship_description>Moth's attraction to fire leads to self-destruction, symbolizing attachment's perils.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

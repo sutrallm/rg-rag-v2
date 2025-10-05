@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FAN NAO</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>Delusion (Wu Ming) is the root cause from which greed, hatred, and delusion (the Three Poisons) arise.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHOU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Chizhou manifests as the direct realization of Wuwo — seeing the non-self nature of all phenomena and letting go of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

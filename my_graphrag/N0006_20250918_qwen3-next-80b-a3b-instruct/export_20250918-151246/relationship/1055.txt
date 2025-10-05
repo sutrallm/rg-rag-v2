@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding leads to wisdom when one sees the true nature of phenomena; wisdom, in turn, deepens chanding by removing attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

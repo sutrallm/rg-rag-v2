@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>出离心</target_entity>
+    <relationship_description>无常观是生起真实出离心的基础，促使修行者看清世间虚幻，放下贪恋。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

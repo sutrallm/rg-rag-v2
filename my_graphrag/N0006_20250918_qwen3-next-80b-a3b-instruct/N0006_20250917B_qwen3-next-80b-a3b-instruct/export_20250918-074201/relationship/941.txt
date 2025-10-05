@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>STAGELESS ABIDING</target_entity>
+    <relationship_description>True insight leads to stageless abiding — a state where one no longer clings to any meditative state, demonstrating the highest level of realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

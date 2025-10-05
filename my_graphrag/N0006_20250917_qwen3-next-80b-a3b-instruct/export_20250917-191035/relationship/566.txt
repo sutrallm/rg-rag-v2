@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GANCHENCHI</source_entity>
+    <target_entity>SHENGSI LUNHUI</target_entity>
+    <relationship_description>Ganchenchhi (the three poisons) are the root causes of Shengsi lunhui (cycle of birth and death), driving karma and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

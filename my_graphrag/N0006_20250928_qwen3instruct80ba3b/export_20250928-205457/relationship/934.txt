@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JSINGJIN</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>Jingjin supports Zhenian through continuous vigilance; mindfulness requires persistent effort to remain present.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

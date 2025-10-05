@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>TRANSNORMATIVE WISDOM</target_entity>
+    <relationship_description>Saintly beings possess transnormative wisdom as a core trait, enabling them to see the true nature of phenomena and remain unshaken by internal or external conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

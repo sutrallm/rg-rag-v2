@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者因已成就禅定，内心清净安稳，不为外缘所动，禅定是其特质的重要组成部分。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

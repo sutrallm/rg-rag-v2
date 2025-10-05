@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANXUE</source_entity>
+    <target_entity>JIHUI</target_entity>
+    <relationship_description>Sanxue includes Jihui as its third pillar; wisdom is the culmination of the training path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

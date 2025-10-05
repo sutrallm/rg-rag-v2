@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOGUO ZHIZHUO</target_entity>
+    <relationship_description>Saints exemplify transcending attachment—they do not cling to any meditative state, attainment, or identity, even of being "enlightened."</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

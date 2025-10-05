@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Anger is fueled by delusion—misunderstanding others and oneself—and persisting in anger deepens delusion.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Shengzhe embodies wuzhi as a defining trait, having realized the true nature of all phenomena and thus transcending attachment to experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

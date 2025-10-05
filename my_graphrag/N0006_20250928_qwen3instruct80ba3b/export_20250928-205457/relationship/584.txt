@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the active expression and practice of Jingjin — continual, alert attention prevents slackness and maintains progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

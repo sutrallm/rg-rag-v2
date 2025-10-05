@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INNER TURMOIL</target_entity>
+    <relationship_description>Chanding calms inner turmoil by stabilizing the mind, allowing one to be free from agitation and restless thoughts.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

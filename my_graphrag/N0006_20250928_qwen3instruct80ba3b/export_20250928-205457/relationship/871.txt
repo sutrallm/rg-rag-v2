@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内观</source_entity>
+    <target_entity>观察无常的修法</target_entity>
+    <relationship_description>内观正是通过观察呼吸、念头、情绪等的生灭来实践无常观，是其具体化、生活化的表达。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

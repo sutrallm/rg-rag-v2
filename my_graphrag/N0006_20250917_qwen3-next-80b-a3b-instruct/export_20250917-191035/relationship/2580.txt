@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>貪嗔癡</target_entity>
+    <relationship_description>戒定慧三學是針對貪嗔癡三毒的對治方法，透過淨戒、禪定與智慧徹底斷除。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

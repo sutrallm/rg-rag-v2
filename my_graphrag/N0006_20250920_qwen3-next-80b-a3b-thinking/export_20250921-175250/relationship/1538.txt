@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY WISDOM</source_entity>
+    <target_entity>TWO EXTREMES</target_entity>
+    <relationship_description>Middle way wisdom arises from abandoning attachment to both pleasure and pain, the two extremes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

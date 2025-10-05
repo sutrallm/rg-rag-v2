@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PSYCHIC POWERS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Psychic powers are distractions that divert attention from true wisdom, which is the essential path to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

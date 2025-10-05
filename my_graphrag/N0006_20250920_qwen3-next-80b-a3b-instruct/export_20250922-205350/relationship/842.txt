@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IGNORANCE</source_entity>
+    <target_entity>CRAVING</target_entity>
+    <relationship_description>Ignorance is the root cause of craving, as misunderstanding the nature of self and reality leads to clinging to transient phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

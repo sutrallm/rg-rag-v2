@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念通过观察内心是否生起烦恼并立即调伏，使心趋向平静与清明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

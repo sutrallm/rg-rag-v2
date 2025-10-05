@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINJINGHUA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xinjinghua (mind purification) is the process achieved through chanding — by observing thoughts without attachment, defilements naturally dissolve.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

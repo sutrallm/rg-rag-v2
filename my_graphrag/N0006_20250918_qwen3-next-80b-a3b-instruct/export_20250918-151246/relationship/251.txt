@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>ZIYOU</target_entity>
+    <relationship_description>Niepan and ziyou are synonymous in this context—the cessation of clinging equals true freedom; each is the experiential manifestation of the other.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

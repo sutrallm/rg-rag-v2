@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>ALL SUFFERING</target_entity>
+    <relationship_description>GREED contributes to ALL SUFFERING through attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

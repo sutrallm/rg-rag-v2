@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion provides the energetic foundation that stabilizes and deepens chanding; without diligence, meditation remains shallow and easily disrupted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>Wisdom leads to enlightenment, though one remains unattached to it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

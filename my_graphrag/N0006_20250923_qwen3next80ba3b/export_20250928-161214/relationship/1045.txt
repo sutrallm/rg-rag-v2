@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS_OF_ALL_PHENOMENA</source_entity>
+    <target_entity>DESIRE_BONDS</target_entity>
+    <relationship_description>Insight into emptiness frees from DESIRE_BONDS.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

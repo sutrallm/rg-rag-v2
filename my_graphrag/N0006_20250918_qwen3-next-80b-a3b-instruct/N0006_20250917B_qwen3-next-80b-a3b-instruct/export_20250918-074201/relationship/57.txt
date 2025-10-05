@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHENMING</target_entity>
+    <relationship_description>Saintly beings, having transcended samsara, are revered even by divine beings who remain within the cycle of rebirth.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

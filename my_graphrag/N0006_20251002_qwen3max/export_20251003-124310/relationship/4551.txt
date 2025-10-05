@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>慧解脫</target_entity>
+    <relationship_description>心解脫與慧解脫是解脫的兩個面向，前者側重於定力帶來的內心寂靜，後者側重於智慧斷除無明，二者共同構成完整解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

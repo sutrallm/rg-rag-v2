@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>执取</target_entity>
+    <relationship_description>执取源于误认“我”与“我所有”为真实，而无我正是破除这种错觉的核心智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

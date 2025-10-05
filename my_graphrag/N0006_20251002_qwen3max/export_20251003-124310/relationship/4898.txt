@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行者通过修习禅定来收摄其心、止息躁动，获得内心安宁，是实践解脱道的重要方法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

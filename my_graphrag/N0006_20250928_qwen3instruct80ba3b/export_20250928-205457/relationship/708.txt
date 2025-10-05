@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-Self_Observation</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>Non-self observation is practiced by examining the five aggregates as not-self, not mine, and impermanent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMINGHUI</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe is the result of fully embodying the threefold training: pure戒 (precept), strong定 (concentration), and penetrating慧 (wisdom).</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

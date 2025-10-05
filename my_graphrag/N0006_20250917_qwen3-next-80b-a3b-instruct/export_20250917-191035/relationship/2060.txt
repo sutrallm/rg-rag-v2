@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUYAN_RICHANG_SHIJIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Everyday practice is the practical application of Chanding outside formal meditation, extending mindfulness into daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

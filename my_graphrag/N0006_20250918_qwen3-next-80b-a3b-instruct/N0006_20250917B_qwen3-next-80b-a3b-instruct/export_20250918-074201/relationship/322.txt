@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOWUZHUO</source_entity>
+    <target_entity>WUWOGUAN</target_entity>
+    <relationship_description>Chaowu zhuo arises directly from the practice of wuwo guan — realizing non-self dissolves attachment to all phenomena including meditative experiences.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

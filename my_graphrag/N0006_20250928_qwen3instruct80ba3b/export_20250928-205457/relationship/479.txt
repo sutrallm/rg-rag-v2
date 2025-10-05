@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>正念用以守護六根，防止外境（色聲香味觸法）擾動內心，是防範煩惱的防線。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

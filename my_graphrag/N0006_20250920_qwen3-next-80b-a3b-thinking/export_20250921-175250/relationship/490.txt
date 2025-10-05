@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>CONCLUDING VERSE</target_entity>
+    <relationship_description>CONCLUDING VERSE is a component of ORIGINAL TEXT that should be deleted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

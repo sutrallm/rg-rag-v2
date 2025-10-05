@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>寂灭</target_entity>
+    <relationship_description>无常观深入能导向寂灭，是断除贪爱与执取、迈向终极解脱的路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

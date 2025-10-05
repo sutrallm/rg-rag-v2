@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禅定以正念为基础，需持续安住于正念中才能远离散乱；正念亦贯穿禅定实践，二者紧密关联。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

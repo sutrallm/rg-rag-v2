@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我慢</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者通过无我观远离我慢，减少烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

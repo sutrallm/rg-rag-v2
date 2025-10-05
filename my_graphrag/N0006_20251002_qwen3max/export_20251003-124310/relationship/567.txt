@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>深湛智慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>深湛智慧使聖者能徹底斷除貪、瞋、癡等根本煩惱，達成解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

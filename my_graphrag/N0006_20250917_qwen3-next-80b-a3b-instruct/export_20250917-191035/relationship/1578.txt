@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEIGUAN</source_entity>
+    <target_entity>LUNHUI</target_entity>
+    <relationship_description>Neiguan is presented as the only authentic path to liberation from lunhui (cyclic suffering), making it the solution to the problem of samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

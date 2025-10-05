@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR_STATES_OF_MINDFULNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The fourfold mindfulness practice supports and deepens chanding by systematically integrating awareness into all aspects of experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

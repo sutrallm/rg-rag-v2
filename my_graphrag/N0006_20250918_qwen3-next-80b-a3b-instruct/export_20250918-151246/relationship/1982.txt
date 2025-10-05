@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Exertion is necessary to cultivate and sustain chanding; without continuous effort, one falls into spiritual decline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>CHAOGUO ZHIZHUO</target_entity>
+    <relationship_description>Transcending attachment requires the insight that all phenomena are merely the Five Aggregates in flux — no permanent self can be found.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

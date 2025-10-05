@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>正念是解脫在日常生活中的實踐形态，將解脫從深山禪堂延伸至每一個當下，是解脫的生起之處。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Mental afflictions perpetuate the cycle of samsara, as they are fundamental to the suffering inherent in rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

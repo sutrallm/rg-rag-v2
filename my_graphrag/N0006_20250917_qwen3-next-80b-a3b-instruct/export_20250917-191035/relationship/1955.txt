@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>The noble being is one who has fully realized Nirvana — they are defined by the state of having attained it.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

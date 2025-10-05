@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>覺照力</target_entity>
+    <relationship_description>禪定是覺照力的基礎，透過修習禪定而獲得心解脫的修行者，能清楚洞察諸法實相。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

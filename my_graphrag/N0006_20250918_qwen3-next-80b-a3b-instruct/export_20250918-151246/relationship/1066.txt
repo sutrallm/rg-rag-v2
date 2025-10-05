@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_PRECEPTS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Clear ethical conduct creates the conditions for the mind to progress toward Nirvana by removing harmful karma and mental agitation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

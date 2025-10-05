@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>当下</target_entity>
+    <relationship_description>正念的实践核心在于安住于当下，观察此刻身心的实相，而非追悔过去或忧虑未来。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

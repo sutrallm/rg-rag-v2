@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGY AND EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Consistent energy and effort are required to cultivate and sustain deep meditative concentration (chanding).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

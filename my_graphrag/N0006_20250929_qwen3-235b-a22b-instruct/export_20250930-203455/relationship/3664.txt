@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进是掌握禅定要领、稳固修行根基的必要条件，缺乏精进则禅定难以成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

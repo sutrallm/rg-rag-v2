@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Realization of non-self leads directly to Nirvana, as the dissolution of egoic attachment ends suffering and the cycle of rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

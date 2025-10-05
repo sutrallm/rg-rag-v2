@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Saintly practitioners maintain deep meditative absorption and inner stillness, a core manifestation of their cultivated state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

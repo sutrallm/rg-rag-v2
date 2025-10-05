@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KONGXING</source_entity>
+    <target_entity>WUZHU ZHI XIN</target_entity>
+    <relationship_description>Wu Zhu Zhi Xin arises from authentic realization of Kongxing; when one sees all phenomena as empty and illusory, the mind naturally rests without clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

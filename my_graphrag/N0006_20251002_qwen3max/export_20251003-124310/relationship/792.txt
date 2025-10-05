@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观照无常</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>即使在深定中，仍需进行观照无常的修行，否则会执着于禅悦或定境；观照无常确保禅定导向智慧而非执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

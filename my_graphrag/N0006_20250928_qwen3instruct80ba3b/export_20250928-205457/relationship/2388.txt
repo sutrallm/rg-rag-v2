@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONKS_OR_PRACTITIONERS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Monks or practitioners maintain continuous mindfulness in daily activities to deepen insight and prevent delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

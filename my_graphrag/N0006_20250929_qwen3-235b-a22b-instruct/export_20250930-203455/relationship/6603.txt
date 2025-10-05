@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>内在光明</target_entity>
+    <relationship_description>当修行者烦恼渐除、正念坚固，内在光明自然显现，是本具觉性的流露。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

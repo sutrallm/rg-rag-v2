@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The state of being a noble one is the result of sustained diligent practice over time.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISE_RECOGNITION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wise recognition deepens chanding by revealing the impermanent nature of thoughts and sensations, preventing attachment during meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

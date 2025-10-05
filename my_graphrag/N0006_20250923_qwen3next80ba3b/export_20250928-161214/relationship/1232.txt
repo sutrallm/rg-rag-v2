@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMOTION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Emotional states contribute to suffering and must be transcended to achieve liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

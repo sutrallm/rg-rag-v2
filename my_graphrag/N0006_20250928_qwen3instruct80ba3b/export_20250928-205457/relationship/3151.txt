@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPLETE Liberation</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Complete liberation is synonymous with nirvana — both refer to the state of mind free from clinging, seeking, and conceptual attainment, resting in perfect stillness and clarity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

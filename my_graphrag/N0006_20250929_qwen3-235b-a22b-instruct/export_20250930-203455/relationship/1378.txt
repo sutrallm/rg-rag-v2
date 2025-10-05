@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>修行者必须以精进为本，持续不懈地依循正法修行，才能突破轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

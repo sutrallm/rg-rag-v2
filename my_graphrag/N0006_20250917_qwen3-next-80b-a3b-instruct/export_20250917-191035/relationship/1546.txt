@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Chanding arises and is sustained through the practice of right mindfulness, which prevents mental distraction and dullness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

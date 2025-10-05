@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>智慧的關鍵在於如实了知無我，斷除「我」與「我所」的幻見。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

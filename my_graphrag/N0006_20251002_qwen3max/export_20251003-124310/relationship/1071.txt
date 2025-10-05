@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀慧</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>觀慧的核心對象是五蘊，透過觀察五蘊的無常、苦、無我來斷除執著。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

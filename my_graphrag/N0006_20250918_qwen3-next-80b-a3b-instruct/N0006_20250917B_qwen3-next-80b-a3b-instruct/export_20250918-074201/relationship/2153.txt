@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>POSITIVE MINDFULNESS</target_entity>
+    <relationship_description>Chanding arises when positive mindfulness is present; they are co-dependent components of meditative practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

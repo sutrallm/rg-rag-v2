@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHI</source_entity>
+    <target_entity>JIEBAO</target_entity>
+    <relationship_description>Wuzhi (non-attachment wisdom) is the direct path to Jiebao (liberation), as it breaks clinging to all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

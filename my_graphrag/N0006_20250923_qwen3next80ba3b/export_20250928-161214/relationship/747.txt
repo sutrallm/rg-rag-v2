@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>PURE ACTIONS</target_entity>
+    <relationship_description>Cultivating pure actions is a key practice to uphold and refine the mind nature's purity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

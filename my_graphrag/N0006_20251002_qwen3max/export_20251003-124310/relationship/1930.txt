@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定并非终极目标，而是开发智慧的工具；只有在心高度专注平静时，才能如实观照法义、断除无明。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

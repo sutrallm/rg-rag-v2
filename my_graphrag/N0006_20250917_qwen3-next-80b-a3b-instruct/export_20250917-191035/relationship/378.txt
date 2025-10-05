@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>心解脫</target_entity>
+    <relationship_description>聖者是 already 已達成心解脫的修行成就者，心解脫是其核心特質。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

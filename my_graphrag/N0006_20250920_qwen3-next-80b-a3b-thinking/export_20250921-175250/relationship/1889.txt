@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BODY AND MIND</source_entity>
+    <target_entity>ILLUSION</target_entity>
+    <relationship_description>Body and mind are described as illusory phenomena in Buddhist teachings due to their transient and conditioned nature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

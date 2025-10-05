@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>Following PRECEPTS helps PRACTITIONERs eliminate AFFLICTIONS as mentioned in the text.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

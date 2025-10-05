@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>外境</target_entity>
+    <relationship_description>禅定使修行者远离外境纷扰，心不被外界环境牵引，是获得内心安宁的重要方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

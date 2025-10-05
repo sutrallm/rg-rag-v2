@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>Compassion protects the mind from negative states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

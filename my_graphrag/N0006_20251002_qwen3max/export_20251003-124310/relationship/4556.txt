@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>如實知見</target_entity>
+    <relationship_description>修行者透過深入禪定，生起如實知見，徹底看清一切現象皆無常、苦、無我。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

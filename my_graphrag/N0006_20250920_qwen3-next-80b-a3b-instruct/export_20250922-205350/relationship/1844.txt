@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者 (PRACTITIONER)</source_entity>
+    <target_entity>解脱 (LIBERATION)</target_entity>
+    <relationship_description>The ultimate goal of the practitioner’s path is to attain liberation through disciplined practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

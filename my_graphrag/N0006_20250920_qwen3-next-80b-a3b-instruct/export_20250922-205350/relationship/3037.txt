@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUZHI GUOCHENG</source_entity>
+    <target_entity>CHENGZHI</target_entity>
+    <relationship_description>Buzhi guocheng embodies the practical application of Chengzhi: true wisdom knows not to cling even to the idea of attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

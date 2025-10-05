@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROGRESSIVE_PURIFICATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is a core tool in progressive purification — first calming the mind, then revealing deeper layers of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

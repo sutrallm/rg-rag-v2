@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCATTERED MIND</source_entity>
+    <target_entity>CANDLELIGHT</target_entity>
+    <relationship_description>Scattered mind extinguishes candlelight, representing loss of focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

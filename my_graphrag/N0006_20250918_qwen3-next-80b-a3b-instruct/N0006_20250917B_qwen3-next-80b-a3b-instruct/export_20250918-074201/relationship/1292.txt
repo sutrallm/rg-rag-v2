@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saintly beings are characterized by deep wisdom — they see all phenomena as impermanent and without self, and thus remain unattached.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

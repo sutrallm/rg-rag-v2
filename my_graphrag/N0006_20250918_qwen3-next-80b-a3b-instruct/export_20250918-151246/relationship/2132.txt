@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Realizing wuwo (non-self) naturally leads to wuzhu (non-attachment), since there is no “I” to cling to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>段落</source_entity>
+    <target_entity>语言</target_entity>
+    <relationship_description>段落使用简练的语言表达</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

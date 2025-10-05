@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH TO LIBERATION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is the crucial unfolding stage in the liberative path that follows deep chanting and precedes the end of defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

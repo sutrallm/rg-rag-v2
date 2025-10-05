@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>寂靜</target_entity>
+    <relationship_description>聖者安住於寂靜，心無攀緣，這正是其內心徹底解脫的外顯狀態。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

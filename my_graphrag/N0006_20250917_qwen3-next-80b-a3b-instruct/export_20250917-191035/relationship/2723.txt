@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>精進修行</target_entity>
+    <relationship_description>正念的持續保持需要精進修行的督促與堅持，二者相輔相成。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

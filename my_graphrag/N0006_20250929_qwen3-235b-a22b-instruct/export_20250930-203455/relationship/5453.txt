@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>死亡魔王</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>若修行者不精进，可能堕入死亡魔王的掌控，精进是避免被其控制的关键。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

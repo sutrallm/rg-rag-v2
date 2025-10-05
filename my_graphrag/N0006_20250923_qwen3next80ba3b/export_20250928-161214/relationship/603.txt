@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REMORSE</source_entity>
+    <target_entity>FIVE HINDRANCES</target_entity>
+    <relationship_description>REMORSE is a component of the fourth hindrance (掉悔) that impedes meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

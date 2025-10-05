@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>出离心</target_entity>
+    <relationship_description>无常观能引发真实出离心，使修行者不贪恋世间或禅定乐受，唯求究竟解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

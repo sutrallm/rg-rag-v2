@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>保持醒覺</target_entity>
+    <relationship_description>保持醒覺是不放逸的具體實踐之一，確保心念不放逸。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

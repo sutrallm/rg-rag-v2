@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>SAINTLY_QUALITIES</target_entity>
+    <relationship_description>Saintly qualities entail the total elimination of hatred, indicating inner peace and non-aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

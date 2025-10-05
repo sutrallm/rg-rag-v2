@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>YINGUO</target_entity>
+    <relationship_description>Nirvana involves transforming karmic consequences through wisdom, rather than fleeing from them; one who realizes nirvana no longer generates new negative karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

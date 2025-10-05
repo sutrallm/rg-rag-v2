@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>THE_BUDHA</target_entity>
+    <relationship_description>Liberation cannot be granted by the Buddha or any external force; even the Buddha’s role is merely that of a guide.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

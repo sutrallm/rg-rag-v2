@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>无明是导致众生陷入生死轮回的根本原因，因不知诸法实相而产生执着与造业。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

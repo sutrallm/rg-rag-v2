@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>TRANQUILITY</target_entity>
+    <relationship_description>TRANQUILITY is a defining characteristic of a SAINT's mental state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYI</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Wuyi is the insight applied directly to Wuyun—the five aggregates are seen as empty of self, revealing the illusion of identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

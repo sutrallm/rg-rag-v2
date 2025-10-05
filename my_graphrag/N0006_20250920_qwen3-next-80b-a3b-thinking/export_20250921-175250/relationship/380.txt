@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THOUGHTS</source_entity>
+    <target_entity>WILD HORSE</target_entity>
+    <relationship_description>THOUGHTS are likened to a WILD HORSE, illustrating their unruly and uncontrolled nature</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

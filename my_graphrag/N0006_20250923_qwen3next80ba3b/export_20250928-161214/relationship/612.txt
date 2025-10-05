@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUESTION</source_entity>
+    <target_entity>PROCESSING</target_entity>
+    <relationship_description>The query involves processing requests but lacks required source material.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

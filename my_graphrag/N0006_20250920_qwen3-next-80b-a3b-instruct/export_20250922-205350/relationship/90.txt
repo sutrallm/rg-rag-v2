@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正行</target_entity>
+    <relationship_description>正行是禅定的外在行为基础，二者共同构成远离放逸、趋向解脱的修行路径。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

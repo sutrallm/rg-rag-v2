@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The noble one abides in deep meditative stability (chanding) as part of their liberated state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

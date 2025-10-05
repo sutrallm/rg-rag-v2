@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>The noble being has fully developed transcending attachment and thereby is free from all conditioned phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

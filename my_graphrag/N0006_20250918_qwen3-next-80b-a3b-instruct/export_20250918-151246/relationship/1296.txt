@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>SAMSA_RA</target_entity>
+    <relationship_description>Saintly persons are completely free from samsara due to the eradication of the three root afflictions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

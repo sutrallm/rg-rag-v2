@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSON</source_entity>
+    <target_entity>LOCATION</target_entity>
+    <relationship_description>Both are categories of information to be removed from the text</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

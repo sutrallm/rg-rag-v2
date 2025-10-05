@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>無我的體悟建立在對五蘊為假合、非恆常自我之上的分析與觀照。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

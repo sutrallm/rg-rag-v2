@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅悦</source_entity>
+    <target_entity>禅修的目标</target_entity>
+    <relationship_description>禅悦是禅定中可能出现的境界之一，但禅修的目标并非追求禅悦，而是借其辅助断除烦恼，若执取则违背禅修目标。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

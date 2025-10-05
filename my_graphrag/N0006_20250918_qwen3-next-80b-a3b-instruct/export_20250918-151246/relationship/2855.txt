@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONSCIOUSNESS</source_entity>
+    <target_entity>CHRISTIAN MEDITATION</target_entity>
+    <relationship_description>禅定的本质是觉知的深度体现，真正的修行在于每一刻的清醒觉察。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

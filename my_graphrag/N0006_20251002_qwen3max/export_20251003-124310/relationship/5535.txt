@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三结</source_entity>
+    <target_entity>身见</target_entity>
+    <relationship_description>身见是三结之一，指执著五蕴为实有自我。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

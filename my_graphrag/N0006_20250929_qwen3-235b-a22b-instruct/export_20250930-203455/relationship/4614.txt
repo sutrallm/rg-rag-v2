@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>信心</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>信心与正见相辅相成，正见如眼指引方向，信心如足提供动力，二者缺一不可。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

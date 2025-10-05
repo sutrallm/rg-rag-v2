@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Exertion must be grounded in non-attachment; without it, effort can become another form of clinging or ego-driven striving, undermining liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

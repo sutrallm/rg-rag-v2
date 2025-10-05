@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>緣起法</target_entity>
+    <relationship_description>真正解脫者能如實觀見緣起流轉與寂滅，不妄執輪迴或解脫之「我」，完全契合緣起法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

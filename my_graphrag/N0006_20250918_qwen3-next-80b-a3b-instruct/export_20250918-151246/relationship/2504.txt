@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>觉知是日常实践中达成禅定的方法，通过持续觉察呼吸与举动训练心念，滋养禅定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

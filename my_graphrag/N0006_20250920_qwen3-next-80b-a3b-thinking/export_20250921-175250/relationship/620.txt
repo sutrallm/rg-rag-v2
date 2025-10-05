@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAKRAVARTIN KING</source_entity>
+    <target_entity>SEVEN TREASURES</target_entity>
+    <relationship_description>Chakravartin king is traditionally described as possessing seven treasures.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

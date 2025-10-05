@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SENSEOFSELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Breaking the illusion of self is the key to liberation, as it removes the root cause of binding attachments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>CHAOGUE ZHUOZHE</target_entity>
+    <relationship_description>Non-self contemplation is the means through which transcendent wisdom arises: seeing the five aggregates as impermanent and not-self leads to non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

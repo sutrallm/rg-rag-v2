@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>The Holy One is completely free from the cycle of rebirth due to the extinction of all clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

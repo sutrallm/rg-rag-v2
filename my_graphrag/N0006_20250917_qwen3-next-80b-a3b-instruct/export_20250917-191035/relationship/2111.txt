@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Charding requires jingjin to maintain sustained effort and avoid mental sloth, as diligence is necessary to deepen and stabilize meditative concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

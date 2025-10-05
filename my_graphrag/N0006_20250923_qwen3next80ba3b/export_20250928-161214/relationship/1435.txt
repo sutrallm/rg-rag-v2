@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHORICAL_DIALOGUES</source_entity>
+    <target_entity>DOCTRINAL_EXPLANATIONS</target_entity>
+    <relationship_description>Metaphorical dialogues are converted into direct doctrinal explanations during text processing.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

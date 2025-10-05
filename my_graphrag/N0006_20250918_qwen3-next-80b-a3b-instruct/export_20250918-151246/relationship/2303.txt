@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>聖者具足正念，能時時觀照內心，不受情緒牽動，是正念實踐的極致體現。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

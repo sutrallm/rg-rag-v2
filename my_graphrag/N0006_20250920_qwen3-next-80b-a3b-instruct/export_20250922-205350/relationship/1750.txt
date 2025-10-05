@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>涅槃的本质即是彻底解脱我执，我执的止息即为涅槃的显现。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

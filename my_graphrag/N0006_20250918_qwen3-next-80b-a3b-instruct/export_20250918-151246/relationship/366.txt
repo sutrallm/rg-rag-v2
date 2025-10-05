@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Impermanence is a core insight that reveals the underlying suffering inherent in all conditioned things, forming a foundational wisdom pair in Buddhist teaching.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

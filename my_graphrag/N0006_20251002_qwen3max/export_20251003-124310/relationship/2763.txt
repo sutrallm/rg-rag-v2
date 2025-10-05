@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定是培育智慧的基础；修行者需先透过禅定获得专注与清明，才能如实观察身心实相，生起亲证的智慧。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

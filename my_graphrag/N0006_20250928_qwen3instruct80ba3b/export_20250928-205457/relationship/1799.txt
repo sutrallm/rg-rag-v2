@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SI NIAN CHU</source_entity>
+    <target_entity>WU WO SHI XIANG</target_entity>
+    <relationship_description>The Four Foundations of Mindfulness are the direct observational method for realizing the truth of no-self through personal insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

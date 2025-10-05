@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHUZHUO</target_entity>
+    <relationship_description>True meditative concentration leads to the wisdom of non-attachment; one does not cling to meditative states even if they arise during chanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

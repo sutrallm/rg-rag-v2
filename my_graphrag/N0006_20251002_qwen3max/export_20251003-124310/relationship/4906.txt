@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>中道智慧</target_entity>
+    <relationship_description>证得解脱的圣者安住于中道智慧，既不执取也不否定诸法，体现了对缘起无自性的彻底了悟。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

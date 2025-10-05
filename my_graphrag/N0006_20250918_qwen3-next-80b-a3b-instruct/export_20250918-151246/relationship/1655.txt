@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHÁNDING</source_entity>
+    <target_entity>ZHÌHUÌ</target_entity>
+    <relationship_description>Chanding cultivates mental stillness that enables the arising of transcendent wisdom; they are sequential and mutually reinforcing stages in Buddhist practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

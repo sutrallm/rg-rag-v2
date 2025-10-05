@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA (NOT-SELF)</source_entity>
+    <target_entity>INSIGHT (WISDOM)</target_entity>
+    <relationship_description>Understanding not-self is the core content of liberating insight into the three characteristics of existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

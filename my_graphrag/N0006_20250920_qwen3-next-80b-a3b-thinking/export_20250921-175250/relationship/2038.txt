@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIN XING</source_entity>
+    <target_entity>MING JING</target_entity>
+    <relationship_description>心性如明镜般清净无染，是超越形骸束缚的根本特质，能真实反映而不迷惑。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>WUYUN</target_entity>
+    <relationship_description>Fannao (afflictions) arise from misperceiving the five aggregates (wuyun) as a permanent, desirable, or inherently "me."</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

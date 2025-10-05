@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>四颠倒</target_entity>
+    <relationship_description>无常观能破除“常、乐、我、净”四颠倒，是其直接对治法门。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

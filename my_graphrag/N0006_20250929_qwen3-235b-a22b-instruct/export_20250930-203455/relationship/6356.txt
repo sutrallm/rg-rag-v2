@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>日常修行</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>日常修行强调在一切时中保持正念觉照，是正念实践的延伸。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>骄慢</target_entity>
+    <relationship_description>即使修行有成，若生骄慢仍可能退转，修行者需警惕并保持谦卑。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

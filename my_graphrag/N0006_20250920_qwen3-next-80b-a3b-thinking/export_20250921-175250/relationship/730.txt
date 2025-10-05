@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEEDLESSNESS</source_entity>
+    <target_entity>SPIRITUAL ACHIEVEMENTS</target_entity>
+    <relationship_description>Heedlessness causes the loss of spiritual achievements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

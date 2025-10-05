@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENSHI XIU XINGZHE</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>The true practitioner walks the path directly to jiede by relying only on right view, mindfulness, and effort—without seeking external results.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

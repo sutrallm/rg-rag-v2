@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROOTS_OF_AFFLICTIONS</source_entity>
+    <target_entity>TREATMENT</target_entity>
+    <relationship_description>Understanding the roots of afflictions enables effective countermeasures to be applied.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

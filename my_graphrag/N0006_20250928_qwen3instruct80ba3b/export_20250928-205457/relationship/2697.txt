@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺照</source_entity>
+    <target_entity>貪欲</target_entity>
+    <relationship_description>當覺照清晰時，貪念一升起即被察覺，失去主導力量，故覺照是對治貪欲的直接修法。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

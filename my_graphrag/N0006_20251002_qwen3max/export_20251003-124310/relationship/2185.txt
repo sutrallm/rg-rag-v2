@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱者</source_entity>
+    <target_entity>逆境</target_entity>
+    <relationship_description>心解脱者对逆境不生厌恶，安住于如实知见之中，不因外境顺逆而动摇。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

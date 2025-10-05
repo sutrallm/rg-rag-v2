@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO WUZHUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wuwo wuzhui—the complete insight into no-self and non-attachment—is the direct condition leading to Nirvana (niepan), the final and unconditioned state of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

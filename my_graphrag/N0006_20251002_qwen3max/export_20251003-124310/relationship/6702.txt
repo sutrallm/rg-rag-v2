@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>渴爱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃的证得以内心无任何执取与渴爱为标志，渴爱止息则生死之流截断。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

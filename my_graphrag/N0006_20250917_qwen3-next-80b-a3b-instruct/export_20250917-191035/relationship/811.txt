@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANTHING</source_entity>
+    <target_entity>AWAKENING_PRACTICE</target_entity>
+    <relationship_description>Chanting supports awakening practice by cultivating focused awareness, which is essential for mindfulness in daily activities.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT ORIGINATION</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Dependent origination logically and experientially leads to the insight of emptiness—the lack of independent existence in all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

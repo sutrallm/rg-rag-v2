@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Only through persistent, courageous effort (Jingjin) can one develop the stability of mind necessary to become a sage (Shengzhe), who has completely purified greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

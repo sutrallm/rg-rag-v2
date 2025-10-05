@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>修行者通过观照五蕴的无常、苦、无我本质，破除对“我”的执着，证得无我。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

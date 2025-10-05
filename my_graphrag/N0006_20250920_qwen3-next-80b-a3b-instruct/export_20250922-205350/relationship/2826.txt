@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUZHENG XINGSHU XIANG</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Bu zheng xingshu xiang is the practical expression of transcending attachment—even to the idea of having achieved spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

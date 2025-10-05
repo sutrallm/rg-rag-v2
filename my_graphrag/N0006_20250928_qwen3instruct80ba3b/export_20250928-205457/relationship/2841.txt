@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhengnian allows one to observe Wuchang in real time—mindfulness is the lens through which impermanence becomes experientially clear.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

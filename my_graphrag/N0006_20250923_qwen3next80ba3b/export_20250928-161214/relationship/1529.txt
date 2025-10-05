@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUFFERING OF BIRTH AND DEATH</target_entity>
+    <relationship_description>AFFLICTIONS cause the SUFFERING OF BIRTH AND DEATH inherent in samsara, as stated in "断尽一切烦恼、超越生死痛苦".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

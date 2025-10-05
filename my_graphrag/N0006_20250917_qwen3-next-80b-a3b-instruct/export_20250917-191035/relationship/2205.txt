@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF_AND_LIBERATION</source_entity>
+    <target_entity>SELF_GRASPING</target_entity>
+    <relationship_description>无我实相的核心即是放下“我”与“我所”的执取，二者为直接对立关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

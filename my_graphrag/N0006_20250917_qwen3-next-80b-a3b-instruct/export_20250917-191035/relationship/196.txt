@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RI chang JUEZHI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily awareness is the practical expression of Chanding outside formal meditation; mindfulness in daily life sustains meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

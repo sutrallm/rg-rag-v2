@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>对禅定境界的贪着源于无明，即未能如实了知诸法无常、苦、无我；因此执着是无明的表现之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

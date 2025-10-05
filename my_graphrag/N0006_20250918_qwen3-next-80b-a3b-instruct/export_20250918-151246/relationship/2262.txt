@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YUN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuyun (five aggregates) are the components mistakenly taken as “self”; their insight as impermanent and non-self leads directly to the realization of wuwo (non-self).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUYIN</target_entity>
+    <relationship_description>Wuwo is understood through direct insight into the nature of the five aggregates, realizing that these transient components do not constitute a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

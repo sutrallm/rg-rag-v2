@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>圣者是已证得解脱的修行成就者，其行为与心态体现了真正的解脱状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

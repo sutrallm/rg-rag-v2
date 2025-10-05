@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>執取</target_entity>
+    <relationship_description>智慧能破除執取，因觀見諸法無自性，故不起執著，二者為解決與被解決的關係。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

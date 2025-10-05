@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHUO</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>Transcending attachment arises directly from the insight of non-self observation; recognizing the impermanence and selfless nature of phenomena enables non-clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是禪定的必要條件，禪定需以正念分明為基礎才能遠離散亂。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

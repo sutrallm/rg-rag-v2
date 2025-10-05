@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>止观</target_entity>
+    <relationship_description>修行者勤修止观，以清净戒行为基础，禅定为依止，智慧为导引，逐步断除根本烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindful awareness (zhengnian) is a core component of meditative concentration (chanding), as both involve sustained attention and non-reactivity to sensory and mental phenomena.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

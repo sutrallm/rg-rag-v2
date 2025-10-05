@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>禪定是通往解脫的重要步驟，透過穩定的心境為智慧生起創造條件。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Anger arises from misunderstanding or rejection of reality, rooted in ignorance.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

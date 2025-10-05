@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念与觉知</target_entity>
+    <relationship_description>禅定依赖正念与觉知的持续实践，通过观察四念处和如实知心念生灭来达成专注与内心清净。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

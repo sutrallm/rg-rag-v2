@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>三毒</target_entity>
+    <relationship_description>貪、嗔、痴是煩惱的根本形式，是修行者需以正見轉化的對象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

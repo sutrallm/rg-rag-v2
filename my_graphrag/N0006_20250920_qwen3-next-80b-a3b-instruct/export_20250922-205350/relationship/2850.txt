@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>無常是觀照的起點，由此深入體認一切法無固定自性，故名無我，二者是智慧觀照的雙重核心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

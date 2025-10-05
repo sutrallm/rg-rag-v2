@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>戒定慧是证得涅槃的修行次第和必要条件，三者相辅相成，最终导向烦恼断尽与究竟解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

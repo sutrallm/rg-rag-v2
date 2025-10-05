@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>DEPENDENT ORIGINATION</target_entity>
+    <relationship_description>Realizing dependent origination leads directly to nirvana, as it dissolves the illusion of inherent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

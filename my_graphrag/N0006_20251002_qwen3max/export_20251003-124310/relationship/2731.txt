@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正念通过观察四念处，能如实了知烦恼生起与止息的因缘，从而对治并逐步远离烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

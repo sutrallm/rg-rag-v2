@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>法执</target_entity>
+    <relationship_description>Understanding impermanence (无常) helps dissolve attachment to phenomena (法执).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

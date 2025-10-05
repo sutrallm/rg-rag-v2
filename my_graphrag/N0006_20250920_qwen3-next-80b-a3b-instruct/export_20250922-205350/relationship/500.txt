@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>Saints are those who have fully realized liberation, having eradicated all fundamental defilements and transcended samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

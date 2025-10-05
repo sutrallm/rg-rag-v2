@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhengnian (mindfulness) trains one to observe wuchang (impermanence) in real-time, not as an abstract idea but as lived experience in each moment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

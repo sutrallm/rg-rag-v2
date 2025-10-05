@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>欲望</source_entity>
+    <target_entity>苦海</target_entity>
+    <relationship_description>放任欲望会导致沉沦苦海，欲望是苦的根源之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

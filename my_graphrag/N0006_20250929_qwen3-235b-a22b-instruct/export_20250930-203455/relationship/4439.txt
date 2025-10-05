@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>名利</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>名利是引发执着的外在诱因之一，若修行者仍被名利所牵动，即表示内心仍有执着，未达真实解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

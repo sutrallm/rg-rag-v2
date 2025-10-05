@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDUSTRY</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Only through continuous effort (industry) can one achieve and maintain deep chanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

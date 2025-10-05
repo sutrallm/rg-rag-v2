@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪、瞋、痴</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>贪、瞋、痴是轮回的根本烦恼，断除它们即可超越生死流转，证得究竟安稳。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

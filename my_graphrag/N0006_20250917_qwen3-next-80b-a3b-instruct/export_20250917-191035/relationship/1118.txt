@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>CONTINUOUS PRACTICE</target_entity>
+    <relationship_description>Effortful Practice and Continuous Practice describe the same sustained discipline required on the path, with the latter emphasizing persistence over time.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

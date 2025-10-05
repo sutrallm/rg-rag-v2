@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGETIC_PRACTICE</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Through persistent effort, one weakens habitual grasping and aversion, enabling the mind to naturally release attachment to experiences.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

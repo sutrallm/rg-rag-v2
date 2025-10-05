@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離欲</source_entity>
+    <target_entity>貪愛</target_entity>
+    <relationship_description>離欲源於看清感官樂受的虛幻本質，而貪愛正是輪迴之因，離欲即對治貪愛。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

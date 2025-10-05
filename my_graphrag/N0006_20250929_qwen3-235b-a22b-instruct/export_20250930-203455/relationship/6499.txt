@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心动摇</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>内心动摇因执着得失毁誉而生，无我观通过消融执着，使内心恢复稳定，不再动摇。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

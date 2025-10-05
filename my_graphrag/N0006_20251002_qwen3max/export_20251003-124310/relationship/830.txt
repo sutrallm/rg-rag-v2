@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>覺照力</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>覺照力能清楚洞察一切現象的苦本質，此為其核心內容之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

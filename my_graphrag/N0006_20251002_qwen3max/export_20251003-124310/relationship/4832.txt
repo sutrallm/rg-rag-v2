@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>透過觀察無常，修行者能破除對身心境界的執取，即使面對殊勝禪體驗亦不生貪愛。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

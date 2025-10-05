@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的解脱</source_entity>
+    <target_entity>顺逆境界</target_entity>
+    <relationship_description>心的解脱体现为经历顺逆境界亦不生执着，因如实了知一切现象的无常、苦、无我本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实观照</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>通过如实观照，修行者了知一切现象皆无我，这是断除我执与执着的关键。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

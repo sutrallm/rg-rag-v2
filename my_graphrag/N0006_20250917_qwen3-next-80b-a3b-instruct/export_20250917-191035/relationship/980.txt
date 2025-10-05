@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SPiritual_ATTAINMENTS</target_entity>
+    <relationship_description>Even meditative or supernatural attainments can become objects of attachment and thus obstacles to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

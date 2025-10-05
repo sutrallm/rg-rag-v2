@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHI XU XIU XING</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Continuous practice is the manifestation of Jing Jin over time—it is the sustained expression of diligence in daily修行 (practice).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世间八法</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>证得禅定的修行者心不为世间八法所扰，显示其内心稳定与解脱倾向。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

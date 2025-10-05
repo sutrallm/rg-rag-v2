@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CIBEI</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chashi (wisdom) is the cognitive aspect of cibei, enabling non-attachment while seeing emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

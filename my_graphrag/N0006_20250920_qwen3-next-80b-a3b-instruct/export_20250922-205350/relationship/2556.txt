@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LINZHONG XINNIAN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>A Shengzhe’s mind at death is naturally pure and non-attached, demonstrating the culmination of lifelong practice that ensures liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

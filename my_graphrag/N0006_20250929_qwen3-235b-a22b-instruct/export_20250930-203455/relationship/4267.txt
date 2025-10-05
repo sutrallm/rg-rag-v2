@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实知见</source_entity>
+    <target_entity>定慧等持</target_entity>
+    <relationship_description>如实知见诸法实相需依赖定慧等持的修行。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

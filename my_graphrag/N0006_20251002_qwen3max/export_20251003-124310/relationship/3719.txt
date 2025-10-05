@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>智慧能如實了知一切現象皆苦，此為趨向解脫的關鍵洞察。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

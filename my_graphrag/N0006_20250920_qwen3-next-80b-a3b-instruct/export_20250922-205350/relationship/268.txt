@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>The five aggregates are the objects of insight meditation used to realize non-self; observing their transient and conditioned nature breaks the illusion of a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIUGEN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The six sense organs are the primary field of practice for cultivating chanding; mindfulness at the sense doors prevents distraction and stabilizes concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

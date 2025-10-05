@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修次第</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅修次第包含从初步调伏散乱到最终无念无住的禅定境界，是禅定的渐进过程。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

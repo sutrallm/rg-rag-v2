@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WAI ZAI XINGSHI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Wai Zai Xingshi alone cannot lead to Jiede; without inner transformation, external rituals remain empty and ineffective.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

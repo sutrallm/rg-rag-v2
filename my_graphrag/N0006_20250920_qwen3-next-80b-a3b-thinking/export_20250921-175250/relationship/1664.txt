@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Understanding the five aggregates leads to the insight of emptiness through "如实了知五蕴生灭的实相，直接体证空性".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Precepts protect the mind from guilt and remorse, creating the inner stability required for deep meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

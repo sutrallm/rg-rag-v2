@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Exertion supports the cultivation of wisdom by maintaining consistent practice, enabling deeper insight into the nature of reality.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHÌHUÌ</source_entity>
+    <target_entity>觉悟</target_entity>
+    <relationship_description>Zhihui is the pathway to awakening; understanding emptiness leads to complete enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

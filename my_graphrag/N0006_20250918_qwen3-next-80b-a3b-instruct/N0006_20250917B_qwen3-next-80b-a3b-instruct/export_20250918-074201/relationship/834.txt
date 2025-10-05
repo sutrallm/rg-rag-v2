@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>LUNHUI</target_entity>
+    <relationship_description>Jingjin (diligence) is the key practice to avoid falling into Lunhui (cycles of rebirth), as laziness allows ignorance and desire to perpetuate suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

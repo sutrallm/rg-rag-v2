@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Non-self is the philosophical basis of non-attachment; realizing there is no inherent “I” removes the foundation for clinging to experiences or achievements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

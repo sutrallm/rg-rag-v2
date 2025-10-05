@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAGE</source_entity>
+    <target_entity>STUPIDITY</target_entity>
+    <relationship_description>A sage has transcended ignorance (stupidity), realizing reality as it truly is through wisdom gained from chanding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

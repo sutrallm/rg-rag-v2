@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Insight into impermanence is a foundational element of spiritual wisdom, enabling practitioners to see the true nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

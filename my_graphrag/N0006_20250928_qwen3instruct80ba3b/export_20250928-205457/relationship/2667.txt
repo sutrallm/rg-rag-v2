@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wuwo guan directly uproots the illusion of self, which is the root cause of suffering; thus, it is essential for realizing the true nature of Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

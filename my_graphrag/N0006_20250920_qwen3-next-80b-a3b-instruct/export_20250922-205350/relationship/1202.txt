@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>THREE_POISONS</target_entity>
+    <relationship_description>The three poisons are the fuel that drives samsara—greed causes clinging, hatred causes aversion, delusion causes ignorance; their cessation ends the cycle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

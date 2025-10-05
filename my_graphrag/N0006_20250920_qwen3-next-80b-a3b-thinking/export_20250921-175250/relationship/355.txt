@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STATES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>LIBERATION requires non-attachment to any mental or spiritual STATES.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

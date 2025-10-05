@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>GREED_AND_ANGER</target_entity>
+    <relationship_description>Chanding enables the practitioner to sever the roots of greed and anger by cultivating inner stillness and non-reactivity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

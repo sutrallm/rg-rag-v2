@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YUN</source_entity>
+    <target_entity>WUWO GUANZHAO</target_entity>
+    <relationship_description>The five aggregates are the objects of non-self observation; insight into their impermanent, selfless nature is the core practice of wuwo guanzhao.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

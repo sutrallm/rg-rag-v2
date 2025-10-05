@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>清净的戒行是禅定的基础，为禅修提供稳定的心灵环境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

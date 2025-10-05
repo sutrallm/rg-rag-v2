@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHEN ZHEN JING JI</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Zhen Zhen Jing Ji is the result or outcome of fully developed Chan Ding, when the mind no longer seeks or rejects any experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGREGATES</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Ignorance arises from misperceiving the five aggregates as a permanent, independent self, rather than as transient phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

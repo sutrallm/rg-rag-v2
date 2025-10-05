@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>FIVE_AGGREGATES</target_entity>
+    <relationship_description>Saintly beings directly observe the five aggregates as empty of self, which is the basis for their moral discipline and inner peace.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

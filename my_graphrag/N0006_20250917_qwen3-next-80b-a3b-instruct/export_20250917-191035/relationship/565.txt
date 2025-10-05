@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>GANCHENCHI</target_entity>
+    <relationship_description>A Shengzhe has completely eradicated Ganchenchhi (the three poisons), which is the hallmark of their spiritual perfection.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

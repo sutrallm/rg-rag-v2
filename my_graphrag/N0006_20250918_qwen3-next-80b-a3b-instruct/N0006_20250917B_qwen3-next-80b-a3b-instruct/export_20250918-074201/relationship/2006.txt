@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Delusion is the mistaken belief in a permanent self; realizing non-self directly eliminates delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

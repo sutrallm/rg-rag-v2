@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>Effort and diligence are necessary to break the cycle of suffering and reach liberation; without them, one remains in delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

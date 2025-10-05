@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuwo guan is the contemplative practice aimed at realizing the truth of non-self (wuwo), revealing that the self is a mere conceptual construct.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

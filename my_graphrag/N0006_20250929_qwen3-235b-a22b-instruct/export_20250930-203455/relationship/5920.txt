@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>戒律是解脱修行的起点，规范行为为定慧修习奠定基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

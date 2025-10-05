@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A sage embodies perfected chanding, having integrated deep meditative concentration into their liberated state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

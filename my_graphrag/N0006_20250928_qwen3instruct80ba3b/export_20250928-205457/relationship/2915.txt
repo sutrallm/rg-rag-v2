@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>FIVE_SKANDHAS</target_entity>
+    <relationship_description>Non-Self is realized through the direct observation that the Five Skandhas — the components of experience — lack any inherent, enduring self-identity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Chanding provides the mental clarity necessary for the arising of transcendent wisdom, which in turn deepens the quality of meditation by removing attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

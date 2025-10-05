@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENT_MIND_CULTIVATION</source_entity>
+    <target_entity>ABIDING_IN_TRANQUILITY</target_entity>
+    <relationship_description>Diligent cultivation of the mind results in abiding in tranquility.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

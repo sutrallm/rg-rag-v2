@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Non-attachment removes the root of suffering, which is attachment to impermanent and self-less phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

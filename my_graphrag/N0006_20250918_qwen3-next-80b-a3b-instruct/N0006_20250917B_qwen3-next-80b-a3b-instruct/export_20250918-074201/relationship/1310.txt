@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUWU GUISHU</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Xiuwu guishu is the final realization enabled by Chaoshi—the return to natural purity when all conceptual clinging, including to enlightenment itself, is released.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

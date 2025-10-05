@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>正念是通往解脱的日常实践方法，通过持续觉知使心离系缚，契入无生无住之境。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

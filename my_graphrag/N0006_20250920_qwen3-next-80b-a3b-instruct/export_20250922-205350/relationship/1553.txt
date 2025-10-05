@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Niepan is the ultimate result of sustained Chanding combined with Jihui and Jie; deep concentration is a necessary condition for its realization.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

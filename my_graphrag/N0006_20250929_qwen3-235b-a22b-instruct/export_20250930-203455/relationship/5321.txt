@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>警觉是精进修行的核心，唯有恒常保持警觉、不放逸，才能持续依循正法不懈修行。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

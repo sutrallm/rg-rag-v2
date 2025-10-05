@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saintly qualities — such as moral purity and wisdom — are the manifestations of someone who has already achieved liberation from defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

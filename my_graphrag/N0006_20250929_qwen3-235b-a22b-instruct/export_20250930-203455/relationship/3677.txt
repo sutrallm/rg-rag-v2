@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧能如实照见无我，断除对“我”的执取，导向心解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

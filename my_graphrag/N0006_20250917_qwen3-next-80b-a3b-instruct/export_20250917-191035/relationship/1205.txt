@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGHUI</source_entity>
+    <target_entity>SHENGJIE</target_entity>
+    <relationship_description>Shenghui is the crucial insight that enables true Shengjie (liberation); without seeing reality as it is, liberation remains unattainable.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

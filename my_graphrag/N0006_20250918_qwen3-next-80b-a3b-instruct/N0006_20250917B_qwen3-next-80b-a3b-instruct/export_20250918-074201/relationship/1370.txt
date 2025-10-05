@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROUND_OF_REBIRTH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation is the cessation of the round of rebirth; the two are inversely related—liberation ends samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

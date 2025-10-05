@@ -1,0 +1,12 @@
+Content Processing Standards for Ending Verse Exclusion  
+
+Processed content must exclude ending verses defined as concluding poetic lines. Structural organization requires numbered titles per example format, which consistently omits such verses.  
+
+Ending Verse Characteristics and Processing Mandate  
+Concluding poetic lines identified as ending verses must be removed during processing.  
+
+Numbered Title Structure Specification  
+Example format mandates numbered titles to maintain clear structural organization.  
+
+Example Outputs Reflect Verse Exclusion  
+All processing examples show no ending verses present in final content.

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED_EXISTENCE</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Conditioned phenomena are empty of an independent self — their dependence on causes and conditions confirms the truth of non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

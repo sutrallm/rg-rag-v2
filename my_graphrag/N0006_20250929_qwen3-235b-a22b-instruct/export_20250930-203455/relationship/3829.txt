@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸法实相</source_entity>
+    <target_entity>智慧观照</target_entity>
+    <relationship_description>智慧观照的目标是直接体证诸法实相，超越分别与攀缘。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>禅修初期需以正念守护六根，防止外境牵引而生起烦恼，是修行的基础步骤。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

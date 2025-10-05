@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我觀</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>無我觀是智慧的具體實踐方法，透過觀察五蘊非我，深化對無我實相的體證。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

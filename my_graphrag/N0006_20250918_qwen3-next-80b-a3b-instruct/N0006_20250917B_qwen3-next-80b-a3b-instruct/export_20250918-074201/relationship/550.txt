@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SAṂSĀRA</target_entity>
+    <relationship_description>Afflictions fuel the cycle of saṃsāra; they are the root cause of suffering and repeated rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

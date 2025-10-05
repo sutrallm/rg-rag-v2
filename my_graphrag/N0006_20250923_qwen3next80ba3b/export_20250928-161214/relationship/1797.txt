@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>TRUE NATURE</target_entity>
+    <relationship_description>True understanding of reality is achieved through the insight of wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

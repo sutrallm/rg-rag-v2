@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMATHA-VIPASSANA</source_entity>
+    <target_entity>EMOTION</target_entity>
+    <relationship_description>Samatha-vipassana practice enables transcending emotional states through sustained focus and awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

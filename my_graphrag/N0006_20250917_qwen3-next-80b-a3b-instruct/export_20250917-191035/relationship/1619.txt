@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_OF_NON_ATTACHMENT</source_entity>
+    <target_entity>NON_ATTACHED_PRACTICE</target_entity>
+    <relationship_description>Wisdom of non-attachment informs and guides the practice of non-attached修行, ensuring spiritual effort is not bound by outcomes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Exertion is described as the foundational effort required to prevent regression into ignorance and to steadily progress toward liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

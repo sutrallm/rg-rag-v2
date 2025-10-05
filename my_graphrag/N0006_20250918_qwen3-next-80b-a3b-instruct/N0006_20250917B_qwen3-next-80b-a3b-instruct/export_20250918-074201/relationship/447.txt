@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Chanding serves as a supportive condition for realizing nirvana by calming the mind, though alone it is insufficient without wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

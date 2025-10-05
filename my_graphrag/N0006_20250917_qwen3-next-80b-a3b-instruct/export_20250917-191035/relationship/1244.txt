@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>Chanding, when deepened, leads to insight wisdom (超越执着的智慧) that recognizes the impermanent and insubstantial nature of all experiences, preventing attachment even during meditative states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

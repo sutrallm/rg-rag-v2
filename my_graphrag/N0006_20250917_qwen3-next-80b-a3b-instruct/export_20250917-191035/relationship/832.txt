@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>FINENESS</target_entity>
+    <relationship_description>Fineness (persistent effort) is necessary to attain and sustain chanding, as without diligence the mind becomes distracted and chanding cannot be maintained.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

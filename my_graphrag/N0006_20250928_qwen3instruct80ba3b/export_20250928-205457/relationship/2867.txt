@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛法</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>佛法整体教义与修习方法，其终极目标即是引导众生达成解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

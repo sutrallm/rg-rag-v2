@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIZHU</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Chizhu is the primary obstacle to realizing Niepan; only by relinquishing all attachment—including to spiritual experiences—can true nirvana be realized.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

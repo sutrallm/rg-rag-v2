@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>要求</source_entity>
+    <target_entity>删除人物地点</target_entity>
+    <relationship_description>The phrase '删除人物地点' is a specific requirement within the 要求.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

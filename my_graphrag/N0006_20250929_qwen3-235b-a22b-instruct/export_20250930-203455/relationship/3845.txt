@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>定慧双运</target_entity>
+    <relationship_description>正念是培养定慧双运的基础，通过持续觉知当下身心变化实现定慧相互促进。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

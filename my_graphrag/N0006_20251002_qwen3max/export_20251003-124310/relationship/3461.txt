@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>诸行无常</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧能照见无常，修行者通过了知诸行无常而生起不执着的智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>ZHENGJIAN</target_entity>
+    <relationship_description>Zhengjian provides the understanding that suffering arises from clinging, not external conditions, enabling the right path to cessation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

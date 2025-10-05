@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NEUTRAL FEELING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>NEUTRAL FEELING is part of SUFFERING as it remains impermanent and conditioned.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

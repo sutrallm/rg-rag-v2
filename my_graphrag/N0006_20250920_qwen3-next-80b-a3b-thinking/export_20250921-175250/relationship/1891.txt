@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRAJNA WISDOM</source_entity>
+    <target_entity>ILLUSION</target_entity>
+    <relationship_description>Prajna wisdom directly reveals the illusory nature of all phenomena, including body and mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

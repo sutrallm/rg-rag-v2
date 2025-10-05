@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EGO_CLINGING</source_entity>
+    <target_entity>FIVE_AGREGATES</target_entity>
+    <relationship_description>Through observing the five aggregates as impermanent and non-self, the illusion of ego-clinging is dissolved.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

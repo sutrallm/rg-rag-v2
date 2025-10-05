@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>即使深入禪定，真正的修行者也不會執著這些經驗，顯示禪定與執著之間存在需警惕的張力。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

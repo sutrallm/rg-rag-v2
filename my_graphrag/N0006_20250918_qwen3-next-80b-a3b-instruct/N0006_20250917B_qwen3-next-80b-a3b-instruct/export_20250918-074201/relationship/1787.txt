@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>戒律</target_entity>
+    <relationship_description>圣者具足戒律，戒律是其道德修行的基础表现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

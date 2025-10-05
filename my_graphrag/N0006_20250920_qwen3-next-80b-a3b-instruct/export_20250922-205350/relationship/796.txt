@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>五蕴是分析“无我”实相的结构性工具，通过分解身心为五蕴，证明“我”仅为暂时聚合，非实有。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

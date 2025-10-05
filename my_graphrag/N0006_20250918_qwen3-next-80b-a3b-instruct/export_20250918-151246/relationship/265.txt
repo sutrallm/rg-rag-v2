@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PSYCHIC POWERS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Psychic powers may arise but are not the goal of practice; clinging to them obscures true liberation.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

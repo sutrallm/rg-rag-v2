@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Chanding provides the mental stability necessary to develop Wuzhu, the wisdom to see phenomena as impermanent and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

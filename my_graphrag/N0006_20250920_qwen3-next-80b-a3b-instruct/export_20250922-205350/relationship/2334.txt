@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE STATES</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Even pleasant meditative states can become objects of attachment; the teaching warns against clinging to them, as they are still conditioned.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

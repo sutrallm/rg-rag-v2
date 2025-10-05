@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily practice in all activities cultivates and strengthens chanding by embedding mindfulness into every moment of life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

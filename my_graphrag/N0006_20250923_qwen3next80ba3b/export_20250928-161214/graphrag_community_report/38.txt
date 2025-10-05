@@ -1,0 +1,30 @@
+Buddhist Source Processing and Translation Requirements  
+
+The processing and translation of Buddhist source materials require complete and accurate original content. Current queries frequently fail to provide this essential input, resulting in processing errors. Key requirements include removing personal and geographical identifiers, preserving specialized terminology, converting metaphors to direct descriptions, and structuring themes via numerical headings. Output formats must strictly conform to specified standards, and plain language explanations depend entirely on prior translation and processing of available source materials. Without complete source content, no translation or processing can occur.  
+
+Source Material Absence Causes Processing Failure  
+All translation and processing activities cannot proceed without complete original source content. Queries lacking this input directly trigger processing errors, as the absence prevents any analytical transformation or translation work.  
+
+Designated Source Content Insertion Point  
+Queries include a structured placeholder requiring insertion of original source content. This element defines where content must be added to initiate processing, but its current emptiness blocks all subsequent steps.  
+
+Role and Location Identifiers Elimination  
+Attributes identifying individuals (e.g., "Buddha," "monk") and geographical names are systematically removed during processing to adhere to predefined instructions.  
+
+Specialized Terminology Retention  
+Technical terms specific to Buddhist traditions are preserved unchanged during processing to maintain doctrinal accuracy and precision.  
+
+Metaphor Conversion Directly  
+Figurative language within source materials is transformed into explicit, non-figurative explanations as part of processing requirements.  
+
+Stanza Removal Protocols  
+Verse-based sections of source materials are excluded entirely during processing to meet output format specifications.  
+
+Thematic Structuring via Numerical Headings  
+Main themes of the source material are organized using numbered headings to ensure clarity and logical flow in the final output.  
+
+Plain Language Final Output Dependency  
+Generating plain language explanations requires complete translation and processing of the original source content. This output cannot be created without these foundational steps.  
+
+Final Output Format Compliance  
+All produced explanations must strictly follow predetermined formatting rules to meet user-specified requirements.

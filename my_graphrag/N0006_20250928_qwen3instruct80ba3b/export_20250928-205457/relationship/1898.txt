@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>XINDEJUEXING</target_entity>
+    <relationship_description>Wuwo is the philosophical basis of Xin.dejuexing — awakening occurs when one observes all phenomena as conditioned and non-self, not clinging to any experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

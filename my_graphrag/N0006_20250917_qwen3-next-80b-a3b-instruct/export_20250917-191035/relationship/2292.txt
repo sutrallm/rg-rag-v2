@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>智慧是通向解脫的直接鑰匙，唯有透過對無常、無我、空性的洞見，才能徹底解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>贪嗔痴驱使众生造业，导致生死轮回的持续流转。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

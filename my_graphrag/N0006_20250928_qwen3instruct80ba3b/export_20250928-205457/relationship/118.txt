@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無住無著</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無住無著是達成真解脫的必要條件與狀態，解脫即體現於不執任何境界。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

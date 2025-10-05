@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅境</target_entity>
+    <relationship_description>修行者虽修习禅定、经历禅境，但不应执取，因深知其如梦幻泡影，不可执持。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

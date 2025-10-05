@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>TA NIAN</target_entity>
+    <relationship_description>Ignorance (Wu Ming) gives rise to craving (Ta Nian); one craves because one fails to see the true nature of reality.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

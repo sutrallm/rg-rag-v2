@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFANG LUJING</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>Hui is the culmination of the Jiefang lujing, completing the threefold training and enabling liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

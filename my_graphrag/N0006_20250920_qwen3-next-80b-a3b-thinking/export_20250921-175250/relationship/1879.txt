@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION PROCESS</source_entity>
+    <target_entity>METAPHORS</target_entity>
+    <relationship_description>Metaphorical expressions in the source text must be converted into direct doctrinal explanations as part of the translation process.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

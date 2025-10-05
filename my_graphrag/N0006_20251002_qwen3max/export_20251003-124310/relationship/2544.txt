@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>修行者以戒定慧三学为修行路径，勤修不懈，安住于寂静，最终断除烦恼、超越轮回。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

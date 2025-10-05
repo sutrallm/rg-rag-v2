@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>邪见</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>邪见是对修行的错误理解（如将禅定视为追求神通），而正见则以无常、苦、无我为智慧眼目，二者对立。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自我检验</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者常以佛法为镜检视自身言行与起心动念，及时调整，不自欺、不放逸。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

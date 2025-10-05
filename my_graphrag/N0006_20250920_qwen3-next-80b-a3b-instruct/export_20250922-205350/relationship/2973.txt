@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒律透過清淨身口意，為智慧的生起創造條件，三者為修行的完整次第。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

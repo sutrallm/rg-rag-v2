@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO</source_entity>
+    <target_entity>CHANXING</target_entity>
+    <relationship_description>Jietuo is achieved by completely uprooting Chanxing (greed, hatred, delusion)—the very roots of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PEOPLE</source_entity>
+    <target_entity>PLACES</target_entity>
+    <relationship_description>Both entities are to be deleted from the text during processing.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>五蓋</target_entity>
+    <relationship_description>修行者需如實觀察並對治五蓋，以淨化內心、增強定力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

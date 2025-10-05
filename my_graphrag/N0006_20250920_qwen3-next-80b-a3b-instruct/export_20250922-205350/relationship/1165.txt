@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Notable saintly beings are characterized by profound chanding, which enables their unwavering inner peace and freedom from mental disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

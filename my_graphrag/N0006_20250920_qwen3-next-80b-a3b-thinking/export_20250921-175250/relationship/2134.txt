@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>dhyana</source_entity>
+    <target_entity>afflictions</target_entity>
+    <relationship_description>Dhyana practice gradually subdues inner afflictions through sustained mental focus.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

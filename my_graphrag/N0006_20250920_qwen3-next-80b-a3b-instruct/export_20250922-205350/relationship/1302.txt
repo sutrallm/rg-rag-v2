@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正定是八正道的第八支，是八正道中完成心念收摄与专注的核心部分，是八正道实践的高峰。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

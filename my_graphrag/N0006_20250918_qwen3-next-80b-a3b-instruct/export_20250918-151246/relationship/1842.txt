@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHENXIUZHE</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Chenxiuzhe follow the path toward jiede through unwavering mindfulness, non-attachment, and daily practice—without reliance on external rituals.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

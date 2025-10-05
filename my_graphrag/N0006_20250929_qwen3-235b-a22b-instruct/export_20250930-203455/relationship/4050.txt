@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>修行者需以正见对治愚痴，这是烦恼的根本之一，也是轮回的根源。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

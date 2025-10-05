@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greed and delusion are root afflictions that reinforce each other in perpetuating suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

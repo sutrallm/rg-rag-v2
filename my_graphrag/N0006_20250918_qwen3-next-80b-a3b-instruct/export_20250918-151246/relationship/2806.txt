@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>ENLIGHTENMENT</target_entity>
+    <relationship_description>A saintly being embodies the qualities of one who has attained or is nearing full enlightenment—freedom from craving, fear, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

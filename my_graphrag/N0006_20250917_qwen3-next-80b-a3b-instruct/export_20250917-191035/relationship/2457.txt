@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>TRANSCENDENT WISDOM</target_entity>
+    <relationship_description>Suffering is one of the three marks of existence seen clearly through transcendent wisdom, leading to dispassion and release.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

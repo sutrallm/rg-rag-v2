@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUDE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wude (non-attainment) is the defining characteristic of true Nirvana—liberation is not obtaining something, but letting go of all seeking.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

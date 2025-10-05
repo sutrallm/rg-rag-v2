@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>內觀智慧</target_entity>
+    <relationship_description>內觀智慧屬於戒定慧三學中的「慧」學，由定中生起。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xiuxing (spiritual practice) requires Jingjin (diligence); without effort, no progress on the path is possible.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

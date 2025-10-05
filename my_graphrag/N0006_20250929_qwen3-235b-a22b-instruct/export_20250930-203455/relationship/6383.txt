@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>无相</target_entity>
+    <relationship_description>解脱最终指向无相，即洞察一切现象无固定实体，超越对形象的执着。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENGZHI</target_entity>
+    <relationship_description>Chanding provides the mental stability required for Shengzhi (transcendent wisdom) to arise, allowing one to see phenomena as impermanent and non-self without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

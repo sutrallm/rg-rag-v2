@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISENESS</target_entity>
+    <relationship_description>Chanding provides the mental clarity needed to develop wisdom, but wisdom prevents attachment to chanding itself, ensuring it does not become another form of clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

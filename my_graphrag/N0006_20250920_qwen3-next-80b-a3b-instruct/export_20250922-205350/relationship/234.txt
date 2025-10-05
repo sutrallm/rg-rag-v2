@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Ethical discipline (jie) stabilizes the mind, creating the conditions necessary for chanding (meditative concentration) to arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

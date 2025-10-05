@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUMING</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Ignorance is the root cause of afflictions—without wuming, craving and aversion would not arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

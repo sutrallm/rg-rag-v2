@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ERRATICNESS</target_entity>
+    <relationship_description>Chanding is the practice that directly counteracts erraticness by cultivating mental focus and stillness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

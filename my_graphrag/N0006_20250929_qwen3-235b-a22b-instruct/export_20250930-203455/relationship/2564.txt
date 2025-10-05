@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修</source_entity>
+    <target_entity>嗔恚</target_entity>
+    <relationship_description>禅修中需以智慧与慈悲断除嗔恚，作为三毒与五盖之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

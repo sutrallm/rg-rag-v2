@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUXIU ZHI XIU</source_entity>
+    <target_entity>XIUXING DE HEZXIN ZAI DANGXIA</target_entity>
+    <relationship_description>Non-striving practice is the deep expression of practicing in the present moment — allowing life itself to be the path without effort or agenda.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

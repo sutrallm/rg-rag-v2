@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sages embody perfected chanding, having attained deep mental stillness and freedom from distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

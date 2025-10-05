@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_STUDIES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is a core component of the Three Studies in Buddhist practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

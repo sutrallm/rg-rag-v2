@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>MEDITATION</target_entity>
+    <relationship_description>Saints practice meditation as a core component of their enlightened path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

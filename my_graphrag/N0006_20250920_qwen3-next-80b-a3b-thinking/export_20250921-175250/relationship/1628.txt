@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>PRACTITIONERs aim to transcend SUFFERING through their spiritual practices.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

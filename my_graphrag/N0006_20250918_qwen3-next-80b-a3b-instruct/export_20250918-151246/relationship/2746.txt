@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom, as direct insight into reality (impermanence, non-self, suffering), is the essential cause of complete liberation from suffering and samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

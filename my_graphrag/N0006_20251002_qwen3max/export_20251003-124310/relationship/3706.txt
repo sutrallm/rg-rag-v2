@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>戒定慧三學是通往解脫的正確修行次第，唯有依此修習才能真正走向解脫之道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

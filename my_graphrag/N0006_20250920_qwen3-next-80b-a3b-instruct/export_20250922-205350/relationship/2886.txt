@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>真正的解脱者自然具足慈悲，因已无我执，故能平等关爱众生，解脱与慈悲互为成因与果德。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

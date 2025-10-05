@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUERY</source_entity>
+    <target_entity>TRANSLATION</target_entity>
+    <relationship_description>The QUERY explicitly requests the TRANSLATION service as its primary purpose.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

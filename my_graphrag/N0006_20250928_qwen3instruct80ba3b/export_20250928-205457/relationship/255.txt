@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DUAL_LIBERATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Non-dual liberation transcends even the need to cultivate chanding as a technique — yet chanding naturally supports the realization of non-duality.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

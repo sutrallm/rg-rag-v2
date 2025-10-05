@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>XIANYU</target_entity>
+    <relationship_description>True liberation (Xianyu) is achieved only when mindfulness is continuously practiced in daily life, not limited to meditation sessions, making Zhengnian the practical path to enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

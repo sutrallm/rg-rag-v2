@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>recklessness</source_entity>
+    <target_entity>suffering</target_entity>
+    <relationship_description>Recklessness directly contributes to suffering by disrupting spiritual effort and progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

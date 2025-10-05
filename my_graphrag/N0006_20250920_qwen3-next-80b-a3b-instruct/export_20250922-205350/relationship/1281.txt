@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SAINTLY_QUALITIES</target_entity>
+    <relationship_description>Continual jingjin leads to the full manifestation of saintly qualities, such as moral purity and psychic stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

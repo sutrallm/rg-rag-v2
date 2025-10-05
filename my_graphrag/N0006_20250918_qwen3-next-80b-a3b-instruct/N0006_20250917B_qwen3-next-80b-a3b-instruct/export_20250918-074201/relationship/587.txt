@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Ignorance (wuming) is what persistent effort (jingjin) seeks to overcome, as it leads to sloth and spiritual stagnation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

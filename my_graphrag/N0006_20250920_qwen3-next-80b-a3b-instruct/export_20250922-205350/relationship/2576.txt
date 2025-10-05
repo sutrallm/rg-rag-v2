@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>中道</source_entity>
+    <target_entity>緣起性空</target_entity>
+    <relationship_description>中道的修行建立於對緣起性空的透徹理解之上，無緣起性空則無真中道。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DOCTRINAL_EXPANATION</source_entity>
+    <target_entity>DOCTRINE_DETAILS</target_entity>
+    <relationship_description>Doctrinal explanations inherently incorporate the preserved doctrinal details required by the instructions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

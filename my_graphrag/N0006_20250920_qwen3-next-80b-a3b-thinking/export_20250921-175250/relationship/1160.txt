@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>MIND practices and maintains MINDFULNESS as part of its discipline.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE TRAININGS (SANXUE)</source_entity>
+    <target_entity>STORAGE OF SACRED PRECEPTS (JIE)</target_entity>
+    <relationship_description>The three trainings are composed of precepts, concentration, and wisdom; precepts form the foundational layer.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

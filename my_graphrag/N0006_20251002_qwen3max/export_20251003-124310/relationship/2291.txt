@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>智慧了知无我，通过对五蕴的观照证得无我实相，从而断除我执与烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

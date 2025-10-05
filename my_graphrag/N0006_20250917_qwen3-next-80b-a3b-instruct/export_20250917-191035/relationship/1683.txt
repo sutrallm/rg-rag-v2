@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Chao yue zhi zhuo (transcending attachment) is the experiential activity that leads to niepan, as letting go of clinging is the direct cause of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

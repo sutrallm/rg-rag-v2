@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>观照无常是破除我执的根本方法，因了知一切皆无恒常主体，故不执“我”。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

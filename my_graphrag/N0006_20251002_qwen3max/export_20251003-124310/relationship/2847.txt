@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>止观是实现戒定慧三学圆满的具体修行方法，止对应定，观对应慧，以戒为基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

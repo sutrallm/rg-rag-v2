@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>幻化</source_entity>
+    <target_entity>超越執著的智慧</target_entity>
+    <relationship_description>了悟一切如幻化，是超越執著智慧的核心洞察，使修行者不再執取現象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Chanding is not an end but a means to develop the wisdom of transcending attachment, enabling one to remain equanimous even in blissful meditative states.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

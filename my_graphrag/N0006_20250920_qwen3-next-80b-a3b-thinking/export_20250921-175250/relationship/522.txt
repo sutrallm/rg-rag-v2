@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOVING-KINDNESS</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Practicing loving-kindness transcends anger by fostering unconditional goodwill.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

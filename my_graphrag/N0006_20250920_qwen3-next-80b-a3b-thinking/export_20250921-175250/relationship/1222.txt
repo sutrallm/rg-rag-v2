@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PERSON</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Person entities should be removed from the original text during processing.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

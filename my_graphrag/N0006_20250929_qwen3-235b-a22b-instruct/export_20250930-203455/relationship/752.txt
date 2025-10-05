@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>正念支持无常观的实践，使修行者如实觉知现象生灭，不迎不拒，保持平等心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

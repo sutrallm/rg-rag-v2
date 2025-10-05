@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Through Chanding, one develops the clarity to see that attachment to any state—including meditative joy—is illusory, leading to Wuzhi.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

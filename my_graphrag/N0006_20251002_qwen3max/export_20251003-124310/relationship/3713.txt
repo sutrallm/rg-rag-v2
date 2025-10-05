@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是戒定慧三學中的「慧」，是三學的導引與最終成果之一。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

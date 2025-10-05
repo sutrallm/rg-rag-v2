@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PINGCHANGXIN</source_entity>
+    <target_entity>WUJI</target_entity>
+    <relationship_description>Pingchangxin is the lived expression of non-attachment (wuji), lacking craving for achievement or aversion to distractions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

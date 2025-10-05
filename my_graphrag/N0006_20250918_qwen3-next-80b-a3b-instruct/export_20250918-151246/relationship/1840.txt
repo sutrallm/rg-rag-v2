@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Jiede (liberation) is fundamentally dependent on zhishi (wisdom), which dismantles ignorance and attachment—the roots of suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

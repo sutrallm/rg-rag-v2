@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-Self</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Realization of Non-Self directly undermines the basis of attachment, since there is no fixed "self" to cling to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

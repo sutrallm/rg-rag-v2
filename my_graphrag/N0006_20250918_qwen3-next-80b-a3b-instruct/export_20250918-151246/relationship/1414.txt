@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FREEING放下</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Freeing is the practical expression of wisdom — acting on the insight that attachment to any state, even enlightenment, is bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

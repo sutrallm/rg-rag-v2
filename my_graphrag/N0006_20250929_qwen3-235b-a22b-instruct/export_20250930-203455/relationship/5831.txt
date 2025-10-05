@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>丛林</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>丛林比喻修行环境，无蚊虫象征无纷扰，修行者通过禅定如野兽安然行走。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

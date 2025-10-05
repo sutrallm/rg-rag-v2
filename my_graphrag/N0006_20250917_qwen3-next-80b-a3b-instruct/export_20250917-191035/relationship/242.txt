@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE_BUDHA</source_entity>
+    <target_entity>AWAKENING</target_entity>
+    <relationship_description>The Buddha is not a savior but a guide who points to the path of awakening; true enlightenment must be self-ignited.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

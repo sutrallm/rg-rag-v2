@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MINDFULNESS</source_entity>
+    <target_entity>NON-SELF AND EMPTINESS</target_entity>
+    <relationship_description>Present-mindfulness cultivates the insight that there is no permanent self behind experiences; observing arising and passing phenomena directly reveals non-self and emptiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

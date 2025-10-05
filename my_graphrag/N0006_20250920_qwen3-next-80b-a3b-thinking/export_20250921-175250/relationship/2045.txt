@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHEN KOU YI SAN YE</source_entity>
+    <target_entity>XIU XING</target_entity>
+    <relationship_description>身口意三业清净是修行的核心实践内容，构成真实修行之道的具体表现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

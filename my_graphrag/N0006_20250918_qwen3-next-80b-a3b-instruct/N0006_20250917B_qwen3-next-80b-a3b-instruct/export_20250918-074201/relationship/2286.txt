@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY ONES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saintly ones have achieved liberation through purified conduct and direct insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

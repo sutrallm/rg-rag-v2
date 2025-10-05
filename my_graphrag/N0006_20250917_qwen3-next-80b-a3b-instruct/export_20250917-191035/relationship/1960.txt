@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIE PAN</source_entity>
+    <target_entity>WU YUN</target_entity>
+    <relationship_description>Nirvana is liberation from identification with the five aggregates — their cessation as a source of attachment is the essence of Nirvana.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

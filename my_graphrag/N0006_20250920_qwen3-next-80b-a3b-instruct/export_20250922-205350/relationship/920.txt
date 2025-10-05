@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUANCHU YU RAN</source_entity>
+    <target_entity>XIN JIE TUO</target_entity>
+    <relationship_description>Overcoming sensual craving is a necessary step toward heart liberation (xin jietuo), where attachment to sensory objects is fully extinguished.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

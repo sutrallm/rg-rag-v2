@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIYANG JIAOZHAO</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>Continuous daily awareness (riyang jiaozhao) is the path through which liberation (jiefang) is realized and stabilized in daily experience.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

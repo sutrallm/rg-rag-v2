@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越執著的智慧</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者是徹底證得超越執著智慧的成就者，其特質由這種智慧所生起。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定与智慧相辅相成，禅定需智慧引导以防堕入空寂，智慧需禅定基础以防流于散乱，二者共同促成对诸法实相的如实照见。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

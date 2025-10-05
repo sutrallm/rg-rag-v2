@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>轻安属于缘起法，因缘和合而生，无常生灭，不可执取。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

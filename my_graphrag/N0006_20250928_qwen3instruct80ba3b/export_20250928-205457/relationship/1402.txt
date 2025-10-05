@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhihui arises from seeing all phenomena as impermanent; this insight is foundational to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM_BEYOND_ATTACHMENTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>True liberation is achieved only through the wisdom that releases attachment to all phenomena, including spiritual goals.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

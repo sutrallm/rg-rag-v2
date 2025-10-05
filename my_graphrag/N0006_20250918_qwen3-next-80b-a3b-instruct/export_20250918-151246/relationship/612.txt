@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUE WU</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Jue Wu requires sustained Jing Jin to maintain mindfulness and correct the mind continually in everyday circumstances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

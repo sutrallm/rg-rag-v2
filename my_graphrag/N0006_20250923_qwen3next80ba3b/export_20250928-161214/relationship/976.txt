@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DIALOGUES</source_entity>
+    <target_entity>ANANDA</target_entity>
+    <relationship_description>Dialogues between the Buddha and Ananda are common in sutras.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

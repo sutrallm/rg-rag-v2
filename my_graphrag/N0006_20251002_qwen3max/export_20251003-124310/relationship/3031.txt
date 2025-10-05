@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>生死之苦</target_entity>
+    <relationship_description>若不实践不放逸，放纵心念、随顺欲乐，便会陷入生死之苦而无法脱离。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

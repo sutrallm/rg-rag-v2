@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者 (SAINTLY BEING)</source_entity>
+    <target_entity>解脱 (LIBERATION)</target_entity>
+    <relationship_description>Saintly beings have already attained liberation and are free from samsaric suffering and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

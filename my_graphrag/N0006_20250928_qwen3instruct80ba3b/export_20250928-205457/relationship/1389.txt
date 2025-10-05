@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly beings achieve their state through deep and sustained chanding, among other practices, as a foundation for liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

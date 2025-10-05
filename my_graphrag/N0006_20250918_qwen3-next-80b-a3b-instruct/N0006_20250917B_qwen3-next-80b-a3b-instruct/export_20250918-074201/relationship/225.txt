@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Only through consistent, diligent effort can one progress toward liberation from suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

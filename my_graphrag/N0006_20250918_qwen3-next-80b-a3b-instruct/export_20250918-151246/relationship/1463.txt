@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Mindfulness is the foundation for developing wisdom, as it enables clear, non-reactive observation of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

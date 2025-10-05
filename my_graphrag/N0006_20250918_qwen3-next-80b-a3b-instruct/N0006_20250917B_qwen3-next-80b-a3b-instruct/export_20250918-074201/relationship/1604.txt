@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>SHENGTAO</target_entity>
+    <relationship_description>Fangyi (indulgence and negligence) is directly identified as the cause that binds beings to the cycle of samsara (Shengtao).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

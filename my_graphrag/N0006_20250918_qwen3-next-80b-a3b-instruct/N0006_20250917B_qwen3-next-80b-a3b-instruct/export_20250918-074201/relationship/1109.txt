@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUYANG ZAI RICHANG</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is not limited to formal meditation; true concentration is maintained throughout daily activities, making mindfulness integral to daily life.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

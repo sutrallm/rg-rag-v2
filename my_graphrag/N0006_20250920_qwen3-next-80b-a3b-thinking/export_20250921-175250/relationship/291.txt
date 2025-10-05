@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SORROW AWARENESS METHOD</source_entity>
+    <target_entity>LAMP</target_entity>
+    <relationship_description>The Sorrow Awareness Method employs the lamp metaphor to sustain awareness in times of sorrow.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>貪</source_entity>
+    <target_entity>嗔</target_entity>
+    <relationship_description>貪與嗔同為三毒之一，皆源於無明，並相互影響，共同阻礙解脫。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

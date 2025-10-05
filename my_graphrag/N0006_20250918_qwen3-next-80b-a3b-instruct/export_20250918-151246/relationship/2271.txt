@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Xiulian requires continuous Jingjin to maintain moment-to-moment awareness without lapse or distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

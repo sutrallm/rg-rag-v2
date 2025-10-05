@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>FEAR</target_entity>
+    <relationship_description>Nirvana embodies fearlessness, with complete absence of anxiety or dread.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

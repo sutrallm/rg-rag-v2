@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>The three poisons are the primary causes of mental afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

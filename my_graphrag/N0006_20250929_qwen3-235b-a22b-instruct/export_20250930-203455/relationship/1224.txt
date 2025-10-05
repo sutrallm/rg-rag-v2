@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定为智慧生起提供专注与清净的心境基础，智慧则深化禅定的洞察力。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>懈怠</target_entity>
+    <relationship_description>精进能防止修行落入懈怠，缺乏精进则容易被懈怠所控制，阻碍解脱进程。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

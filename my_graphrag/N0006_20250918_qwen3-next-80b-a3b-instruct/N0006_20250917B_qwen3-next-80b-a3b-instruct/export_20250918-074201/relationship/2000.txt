@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STOIC_SAGE</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>The sage practices non-attachment as a natural expression of wisdom and enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

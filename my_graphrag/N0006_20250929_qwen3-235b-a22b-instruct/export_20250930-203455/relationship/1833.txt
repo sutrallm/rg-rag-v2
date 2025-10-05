@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>世间法</source_entity>
+    <target_entity>出世间法</target_entity>
+    <relationship_description>二者是修行者需明辨的两类目标：世间法追求欲望满足，出世间法追求解脱烦恼。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

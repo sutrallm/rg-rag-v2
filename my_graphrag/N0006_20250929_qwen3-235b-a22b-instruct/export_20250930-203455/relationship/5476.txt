@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>深刻体认无常能生起智慧，智慧帮助修行者洞察无常本质，从而减少执着。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

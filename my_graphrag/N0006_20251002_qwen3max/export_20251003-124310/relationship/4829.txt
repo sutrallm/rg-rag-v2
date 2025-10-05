@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>天界众生</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>天界众生因圣者德行清净、智慧圆满而对其生起敬仰之心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

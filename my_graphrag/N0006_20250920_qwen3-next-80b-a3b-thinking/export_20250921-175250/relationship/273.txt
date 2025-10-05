@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Precepts and diligence are practiced together in spiritual cultivation, as stated in "具足戒律、持续精进".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

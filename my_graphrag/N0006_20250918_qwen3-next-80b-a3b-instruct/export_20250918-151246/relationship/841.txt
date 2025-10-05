@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHEN XIN WAI JING</source_entity>
+    <target_entity>ZHI HUI</target_entity>
+    <relationship_description>Wisdom (Zhi Hui) arises through the clear observation of body, mind, and phenomena (Shen Xin Wai Jing) as impermanent, empty, and interdependent.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

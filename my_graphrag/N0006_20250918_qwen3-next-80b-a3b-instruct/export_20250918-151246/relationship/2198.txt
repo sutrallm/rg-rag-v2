@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Exertion is the driving force that propels the practitioner forward along the path to liberation, preventing regression into complacency.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

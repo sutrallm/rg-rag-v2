@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>LUN HUI</target_entity>
+    <relationship_description>Only through persistent Jing Jin can one escape the cycle of rebirth and suffering represented by Lun Hui.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

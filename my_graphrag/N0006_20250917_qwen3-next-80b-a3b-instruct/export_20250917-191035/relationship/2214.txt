@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>RIGHT PRACTICE</target_entity>
+    <relationship_description>Mindfulness is the core practice within Right Practice, forming the foundation of moment-by-moment awareness on the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

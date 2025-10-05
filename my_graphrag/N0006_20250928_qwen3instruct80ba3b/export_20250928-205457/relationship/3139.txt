@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DESIRE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Detachment from desire (dispassion) is the essential precondition for entering the state of Nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

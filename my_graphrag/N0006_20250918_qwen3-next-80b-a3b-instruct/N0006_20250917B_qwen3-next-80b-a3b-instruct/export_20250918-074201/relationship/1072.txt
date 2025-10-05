@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>禅定是削弱无明的基础，为后续观慧破除无明做准备。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

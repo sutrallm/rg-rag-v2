@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Effort is the foundational practice leading to liberation, without which spiritual progress stalls.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

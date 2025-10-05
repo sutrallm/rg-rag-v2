@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVA</source_entity>
+    <target_entity>SAGES</target_entity>
+    <relationship_description>Devas respect and honor enlightened sages for their spiritual achievements.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

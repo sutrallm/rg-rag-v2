@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-ENLIGHTENMENT</source_entity>
+    <target_entity>SELF-EXERTION</target_entity>
+    <relationship_description>Self-enlightenment requires unrelenting self-exertion to overcome laziness and maintain spiritual progress.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

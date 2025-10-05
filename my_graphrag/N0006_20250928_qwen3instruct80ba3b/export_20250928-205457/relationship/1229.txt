@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE FREEDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>True freedom is synonymous with nirvana—a state of unconditioned liberation from all mental bonds and self-clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WILD ANIMAL</source_entity>
+    <target_entity>DEEP MOUNTAINS</target_entity>
+    <relationship_description>The wild animal enters deep mountains to seek solitude and safety from external disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

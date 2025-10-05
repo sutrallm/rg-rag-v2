@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>無明與煩惱並列為修行的主要障礙；懈怠會使人同時落入煩惱與無明的控制之中。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

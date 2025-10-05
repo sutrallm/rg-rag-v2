@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Through the stability of chanding, one becomes less reactive and can observe anger without being controlled by it.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

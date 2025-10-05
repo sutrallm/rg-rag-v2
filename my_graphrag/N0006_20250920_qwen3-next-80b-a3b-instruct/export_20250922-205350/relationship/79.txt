@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wisdom ensures chanding is not mistaken for an end in itself; it prevents clinging to meditative states and transforms concentration into liberating insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

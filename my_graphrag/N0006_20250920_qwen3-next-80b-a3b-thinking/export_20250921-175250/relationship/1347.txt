@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_WISDOM</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>True wisdom is a refined form of wisdom, providing ultimate insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

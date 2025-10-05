@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PERSONAL EFFORT</target_entity>
+    <relationship_description>Personal effort is required to establish and maintain chanding; without continuous diligence, chanding cannot be stabilized or deepened.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

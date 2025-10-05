@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGDAO XINGXIU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhongdao xingxiu (Middle Way) includes chanding as a balanced practice—not exaggerated nor neglected—avoiding both indulgence and extreme asceticism in meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进 (DEDICATION)</source_entity>
+    <target_entity>无明 (IGNORANCE)</target_entity>
+    <relationship_description>Dedication to mindfulness and meditation directly counters ignorance by cultivating insight into impermanence and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

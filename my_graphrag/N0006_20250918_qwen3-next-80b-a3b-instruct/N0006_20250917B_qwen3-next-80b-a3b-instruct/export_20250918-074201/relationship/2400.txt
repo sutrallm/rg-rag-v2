@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉悟</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>觉悟是通向解脱的路径，但若执著于觉悟本身，反而成为障碍，故需超越。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCATTERED MIND</source_entity>
+    <target_entity>BREATH COUNTING</target_entity>
+    <relationship_description>Breath counting is a core method to pacify scattered mental states and restore focus.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

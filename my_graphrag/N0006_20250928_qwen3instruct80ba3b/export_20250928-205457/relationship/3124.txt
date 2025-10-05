@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>SAMSA</target_entity>
+    <relationship_description>Zhengnian (mindfulness) is the practical means to escape samsara—by anchoring attention in the present, one prevents the mental patterns that reproduce cyclic suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZI</source_entity>
+    <target_entity>CHIZHU</target_entity>
+    <relationship_description>Wuzi is the insight that supports Chizhu — seeing emptiness leads one to naturally release attachment to all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

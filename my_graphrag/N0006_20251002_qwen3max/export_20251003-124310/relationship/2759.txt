@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>心解脱是趋向究竟解脱的重要阶段，已断尽烦恼者内心不再有任何执取，安住于究竟安稳，体现了解脱的境界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

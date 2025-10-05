@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENZHIDEZIYOU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>The shengzhe is the living embodiment of zhenzhideziyou—free from clinging, fear, and desire, abiding in untouched stillness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

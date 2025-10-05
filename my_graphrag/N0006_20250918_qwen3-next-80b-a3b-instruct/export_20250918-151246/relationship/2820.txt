@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION_OF_MIND</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Insight into no-self is essential to achieving complete mental liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

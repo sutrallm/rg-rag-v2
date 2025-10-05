@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANYING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Meditative concentration (chanying) deepens into wisdom, enabling direct insight into impermanence, non-self, and dependent origination.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

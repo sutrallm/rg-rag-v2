@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Wuzhu (non-attachment) arises from the direct insight into wuchang (impermanence), which undermines the basis for clinging to transient states.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

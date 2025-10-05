@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHED_PRACTICE</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>Non-attachment in practice arises from direct realization of emptiness — when nothing is inherently real, there is nothing to cling to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

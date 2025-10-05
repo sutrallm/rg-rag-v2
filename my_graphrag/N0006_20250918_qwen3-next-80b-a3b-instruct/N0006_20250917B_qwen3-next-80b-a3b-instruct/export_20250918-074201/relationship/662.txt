@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRULY_LIBERATED_BEING</source_entity>
+    <target_entity>ENOUGH_MORAL_DISCIPLINE</target_entity>
+    <relationship_description>A truly liberated being embodies perfect moral discipline as part of their perfected nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

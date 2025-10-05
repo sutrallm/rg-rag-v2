@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>圣者能持续安住寂静，依赖于禅定的修习，禅定是其调伏心念的手段。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

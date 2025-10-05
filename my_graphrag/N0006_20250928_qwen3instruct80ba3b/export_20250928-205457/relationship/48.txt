@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>魔境</target_entity>
+    <relationship_description>禅定中可能产生魔境，若误执为实则成障碍，故二者密切相关。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISENESS</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Wiseness directly reveals the truth of no-self — seeing that the self is not a fixed entity but a transient process.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

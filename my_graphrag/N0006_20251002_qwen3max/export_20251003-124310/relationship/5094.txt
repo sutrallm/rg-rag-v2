@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>持戒</target_entity>
+    <relationship_description>精进体现在日复一日坚持持戒与正念，是维持戒行清净的动力来源。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

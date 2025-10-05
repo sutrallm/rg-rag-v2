@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>HEAVENLY BEINGS</target_entity>
+    <relationship_description>Heavenly beings revere the saint because of their transcendence beyond worldly attachments and suffering, representing the pinnacle of spiritual attainment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

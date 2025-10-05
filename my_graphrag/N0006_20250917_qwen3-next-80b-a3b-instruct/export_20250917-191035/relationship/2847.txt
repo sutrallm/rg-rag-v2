@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我執</source_entity>
+    <target_entity>法執</target_entity>
+    <relationship_description>我執與法執是兩種相輔相成的執著，前者執於「主體」，後者執於「客體」，共同構成輪迴框架。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

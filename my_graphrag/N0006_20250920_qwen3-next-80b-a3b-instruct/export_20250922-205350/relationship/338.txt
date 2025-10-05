@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU ZHI XIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Shengzhe exemplifies Wu Zhu Zhi Xin, as the sage's mind remains unattached to any experience, embodying perfect non-abiding.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

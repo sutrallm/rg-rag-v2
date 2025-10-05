@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>内心安宁</target_entity>
+    <relationship_description>禅定的实践直接导致内心安宁，是其直接结果与核心效益。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

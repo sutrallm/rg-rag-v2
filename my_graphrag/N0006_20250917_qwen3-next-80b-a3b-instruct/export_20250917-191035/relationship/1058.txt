@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGHUI</source_entity>
+    <target_entity>ZHENIAN</target_entity>
+    <relationship_description>Shenghui (wisdom) arises from and deepens through consistent zhennian (mindfulness) practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

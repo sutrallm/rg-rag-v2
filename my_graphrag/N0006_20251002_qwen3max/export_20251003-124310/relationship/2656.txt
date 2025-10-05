@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>定力</target_entity>
+    <relationship_description>不放逸有助於增長定力，為禪定修習提供持續的動力。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

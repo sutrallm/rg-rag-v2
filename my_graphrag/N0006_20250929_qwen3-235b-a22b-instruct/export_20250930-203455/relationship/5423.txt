@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>禅定为无我观提供稳定心识基础，无我观则深化禅定所达的洞见。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

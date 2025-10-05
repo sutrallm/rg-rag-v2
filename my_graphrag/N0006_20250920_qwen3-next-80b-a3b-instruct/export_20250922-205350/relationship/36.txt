@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無明</source_entity>
+    <target_entity>渴愛</target_entity>
+    <relationship_description>渴愛源於無明，因不知五蘊無我，故生執取與渴望，形成輪迴鏈條的關鍵環節。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFICATION</source_entity>
+    <target_entity>PURE NATURE</target_entity>
+    <relationship_description>Purification removes defilements, revealing the pure nature of the mind.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A saintly person abides in deep meditative concentration, free from disturbance, as a sign of their realized state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

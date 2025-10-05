@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>INSIGHT_WISDOM</target_entity>
+    <relationship_description>Chanding serves as the foundation for insight wisdom, allowing clear perception of reality beyond surface appearances.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

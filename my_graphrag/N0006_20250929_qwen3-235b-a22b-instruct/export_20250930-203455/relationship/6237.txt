@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>觉知是正念的体现，使修行者在顺逆境界中不随境流转，恒常安住于法，守护正念。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

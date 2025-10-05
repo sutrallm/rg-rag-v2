@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Practicing the realization of non-self leads directly to the relinquishment of attachment to identity and possessions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

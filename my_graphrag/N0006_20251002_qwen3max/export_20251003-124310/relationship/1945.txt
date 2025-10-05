@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>守护根门</target_entity>
+    <relationship_description>修行者通过守护根门，防护六根不被外境扰动，以此作为禅定的基础行持。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

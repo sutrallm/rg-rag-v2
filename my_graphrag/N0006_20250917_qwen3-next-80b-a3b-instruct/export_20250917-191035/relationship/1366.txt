@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MOMENT AWARENESS</source_entity>
+    <target_entity>TRUE SPIRITUAL PRACTICE</target_entity>
+    <relationship_description>Present-moment awareness is the essence of true spiritual practice — it is not a technique but the very method of realizing truth here and now.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>HUMANS</target_entity>
+    <relationship_description>Humans honor and revere practitioners who diligently follow the path of wisdom and precepts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

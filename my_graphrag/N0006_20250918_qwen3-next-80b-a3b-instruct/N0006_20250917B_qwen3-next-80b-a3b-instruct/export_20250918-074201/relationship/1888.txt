@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>ANGER</target_entity>
+    <relationship_description>Greedy attachment and angry aversion are two of the three root afflictions in Buddhism, often co-arising in sensory experience.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

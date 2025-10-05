@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROGRESSIVE PRACTICE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>Progressive practice directly counters ignorance by cultivating insight and mindfulness, breaking the cycle of deluded thinking.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

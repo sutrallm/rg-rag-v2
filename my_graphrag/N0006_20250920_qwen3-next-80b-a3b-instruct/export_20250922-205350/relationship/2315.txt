@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>Liberation (解脱) is defined precisely as being unattached to all meditative states or phenomena (境界).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

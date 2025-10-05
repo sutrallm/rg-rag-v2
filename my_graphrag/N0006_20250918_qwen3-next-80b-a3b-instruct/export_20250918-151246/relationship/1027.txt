@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANYING</source_entity>
+    <target_entity>MINDDFULNESS</target_entity>
+    <relationship_description>Chanying depends on mindfulness to maintain focus and prevent distraction; mindfulness is the essential component enabling deep meditative absorption.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

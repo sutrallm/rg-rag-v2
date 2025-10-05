@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的自由</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>无我观使心不再攀缘内外境界，从而自然安住于无住之境，实现心的自由。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

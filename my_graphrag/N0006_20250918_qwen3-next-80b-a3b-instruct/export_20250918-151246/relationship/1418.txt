@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Craving is a primary force perpetuating the cycle of rebirth according to Buddhist teachings.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

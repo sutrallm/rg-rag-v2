@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingjin provides the sustained effort necessary to cultivate and maintain chanding over time, preventing regression into distraction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

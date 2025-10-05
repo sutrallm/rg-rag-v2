@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>身受心法</target_entity>
+    <relationship_description>修行成果来自如实观照身、受、心、法，使烦恼减弱、智慧增长。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

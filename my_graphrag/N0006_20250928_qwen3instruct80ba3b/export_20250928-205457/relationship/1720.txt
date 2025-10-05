@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>持戒</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>持戒是禅定生起的前提，若无戒行，心念放逸，则无法入定。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

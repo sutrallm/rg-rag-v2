@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>True stillness (jingji) is described as the experiential manifestation of nirvana (niepan) — when mental disturbances cease, the innate peaceful state of nirvana becomes visible.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

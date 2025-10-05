@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Saintly qualities include the complete eradication of greed, indicating a direct causal relationship between realization of these qualities and the absence of greed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

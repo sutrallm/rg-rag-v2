@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RICANG XINGXIU</source_entity>
+    <target_entity>WUZUO</target_entity>
+    <relationship_description>Daily mindfulness practices (Ricang xingxiu) cultivate Wuzuo—non-attachment—by training the mind to observe without reaction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

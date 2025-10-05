@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWU</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Non-doing (wuwu) is embodied in mindfulness (zhengnian), which observes without interfering, allowing phenomena to arise and pass without attachment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

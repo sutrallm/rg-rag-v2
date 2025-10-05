@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>妄想</target_entity>
+    <relationship_description>正念的作用是不被妄想所牵，二者是对立关系，正念的强化直接削弱妄想的影响力。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>感官享受</target_entity>
+    <relationship_description>觉知帮助修行者不被感官享受牵引，守护六根门头，防止烦恼侵入，保持心的清明。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

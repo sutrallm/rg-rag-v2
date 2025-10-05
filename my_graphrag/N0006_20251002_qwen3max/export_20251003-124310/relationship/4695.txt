@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>昏沉</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>不放逸要求修行者不被昏沉所胜，通过持续精进防止心识沉滞。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

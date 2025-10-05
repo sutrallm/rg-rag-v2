@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHAMMAPADA</source_entity>
+    <target_entity>MIND MANAGEMENT PRINCIPLE</target_entity>
+    <relationship_description>Mind Management Principle is the revised title derived from Dhammapada content</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

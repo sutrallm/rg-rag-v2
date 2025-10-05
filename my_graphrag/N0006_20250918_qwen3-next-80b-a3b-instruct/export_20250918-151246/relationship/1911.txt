@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRESENT-MOMENT AWAKENING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Present-moment awakening relies on the capacity for sustained专注 (chanding) to observe the mind clearly and non-reactively.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

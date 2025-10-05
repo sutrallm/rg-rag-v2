@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Chanding provides the mental stability that allows wisdom to arise, but wisdom is required to prevent attachment even to chanding itself.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

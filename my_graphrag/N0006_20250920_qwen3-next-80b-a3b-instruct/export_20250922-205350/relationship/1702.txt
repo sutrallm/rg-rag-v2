@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIUSAN</source_entity>
+    <target_entity>SENDOU</target_entity>
+    <relationship_description>The three poisons are the primary causes of karma and confusion that bind beings to samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

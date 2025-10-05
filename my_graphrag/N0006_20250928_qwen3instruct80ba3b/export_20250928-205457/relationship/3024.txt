@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定使心稳定，为智慧的生起提供基础；智慧则引导禅定不落入执取，二者相辅相成。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

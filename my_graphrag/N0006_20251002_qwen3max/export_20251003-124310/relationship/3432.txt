@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>不放逸是维持禅定的关键，唯有持续精进、时刻警觉，才能防止烦恼侵入，稳固禅定状态。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

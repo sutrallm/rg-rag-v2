@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>TRUTH</target_entity>
+    <relationship_description>WISDOM enables the understanding of TRUTH.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

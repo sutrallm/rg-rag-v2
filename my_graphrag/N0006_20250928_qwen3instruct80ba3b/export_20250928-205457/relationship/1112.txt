@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENSHI XIU XINGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A true practitioner embodies chanding not as a goal, but as a natural expression of daily mindful awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

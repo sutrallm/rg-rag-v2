@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>NIHILISM</target_entity>
+    <relationship_description>NIHILISM is a mistaken view associated with craving and attachment in the Origin of Suffering Truth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

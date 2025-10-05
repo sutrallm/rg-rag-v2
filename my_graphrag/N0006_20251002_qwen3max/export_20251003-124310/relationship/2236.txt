@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正定是八正道的组成部分，为修行提供专注基础，与其他七支共同导向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

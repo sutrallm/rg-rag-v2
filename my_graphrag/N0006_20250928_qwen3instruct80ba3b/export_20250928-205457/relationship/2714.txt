@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZEZHU</target_entity>
+    <relationship_description>Chanding is the foundation upon which Zezhu (non-attachment to spiritual experiences) arises; deep concentration enables clear insight into the nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

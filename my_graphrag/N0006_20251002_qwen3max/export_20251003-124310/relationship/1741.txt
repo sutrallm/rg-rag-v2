@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>执着</target_entity>
+    <relationship_description>智慧观照能彻底断除对禅悦、定境等的执着，实现不执取的解脱状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

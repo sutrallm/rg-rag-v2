@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>WISDOM eradicates ATTACHMENT through insight into the true nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

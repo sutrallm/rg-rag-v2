@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禅定依赖正念的持续不断，正念是禅定得以成立的基础，二者共同作用使心远离散乱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>惡念</target_entity>
+    <relationship_description>正念是用來覺察與對治惡念的工具，能照見其虛妄，使其不續不長。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

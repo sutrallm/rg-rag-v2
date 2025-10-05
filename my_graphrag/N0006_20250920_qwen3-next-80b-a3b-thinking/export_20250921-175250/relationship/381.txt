@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THOUGHTS</source_entity>
+    <target_entity>SIX DUSTS</target_entity>
+    <relationship_description>THOUGHTS persistently chase the SIX DUSTS, leading to attachment and distraction</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

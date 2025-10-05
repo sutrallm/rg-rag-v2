@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SE XIANG</source_entity>
+    <target_entity>HUA</target_entity>
+    <relationship_description>Material forms (Se Xiang) appear illusory (Hua), devoid of inherent reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

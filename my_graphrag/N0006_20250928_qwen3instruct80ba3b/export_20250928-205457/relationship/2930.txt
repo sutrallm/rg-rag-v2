@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BALANCED_COMPASSION_AND_WISDOM</source_entity>
+    <target_entity>SAGE</target_entity>
+    <relationship_description>A true sage embodies balanced compassion and wisdom: acting with care based on insight, without attachment to results, reflecting the perfected path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

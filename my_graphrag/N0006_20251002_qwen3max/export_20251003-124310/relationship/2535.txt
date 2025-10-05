@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定调伏内心，为智慧照见实相创造条件，是智慧生起的重要前提。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

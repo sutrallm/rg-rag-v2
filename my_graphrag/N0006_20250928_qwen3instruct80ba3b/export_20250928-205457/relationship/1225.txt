@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints embody perfected wisdom—seeing impermanence, non-self, and nirvana directly—and live in accordance with this insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

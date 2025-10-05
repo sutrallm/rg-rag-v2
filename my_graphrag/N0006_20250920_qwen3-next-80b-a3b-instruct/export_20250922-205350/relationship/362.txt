@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEYU</source_entity>
+    <target_entity>WU_MING</target_entity>
+    <relationship_description>True liberation (jieyu) is only possible through the complete elimination of ignorance (wu ming).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

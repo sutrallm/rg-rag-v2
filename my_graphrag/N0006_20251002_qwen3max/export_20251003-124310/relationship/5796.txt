@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦</source_entity>
+    <target_entity>五蘊</target_entity>
+    <relationship_description>苦是五蘊的本質之一，內觀智慧如實觀照五蘊的苦性。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

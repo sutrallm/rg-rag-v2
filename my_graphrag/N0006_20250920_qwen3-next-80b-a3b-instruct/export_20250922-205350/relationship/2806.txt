@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CALM_AND_INSIGHT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Calm (samatha) is the means to achieve Chanding (meditative absorption), while insight (vipassana) is the wisdom that completes it—both are interdependent.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

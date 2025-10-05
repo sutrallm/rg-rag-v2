@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU YUN</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>Wu yun are the objects of contemplation in Wuwo guan—observing them as non-self leads to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

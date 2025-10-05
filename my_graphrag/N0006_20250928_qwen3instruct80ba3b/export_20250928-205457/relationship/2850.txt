@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIANJIN</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Liánjīn uses Jie as the “fire” that purifies the mind, initiating the process of spiritual transformation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

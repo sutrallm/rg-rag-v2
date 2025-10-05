@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>SPARSE FOREST</target_entity>
+    <relationship_description>The sparse forest is used as a metaphor to illustrate the mental state of Chan Ding—calm, undisturbed, and free from irritants.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

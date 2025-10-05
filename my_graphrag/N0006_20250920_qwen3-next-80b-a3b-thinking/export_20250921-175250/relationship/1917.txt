@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED HATRED ATTACHMENT</source_entity>
+    <target_entity>MENTAL DEFILEMENTS</target_entity>
+    <relationship_description>Greed, hatred, and attachment are primary types of mental defilements that cause suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

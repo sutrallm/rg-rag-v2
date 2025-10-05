@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>Insight into 无常 leads directly to the realization of 无我; if phenomena are constantly changing, there can be no fixed, independent self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

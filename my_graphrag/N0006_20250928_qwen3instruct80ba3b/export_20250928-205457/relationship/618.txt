@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRIPLE TRAINING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the middle path of the triple training, bridging ethics and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECISE PRACTICE</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Precise practice counters delusion by cultivating awareness and discernment, preventing mental sloth and wrong views.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

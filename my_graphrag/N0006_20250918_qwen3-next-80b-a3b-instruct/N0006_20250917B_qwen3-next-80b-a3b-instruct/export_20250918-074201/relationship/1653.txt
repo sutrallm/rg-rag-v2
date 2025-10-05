@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Wunian is the correct understanding of chanding—not suppressing thoughts, but not identifying with them, which is the essence of stable concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

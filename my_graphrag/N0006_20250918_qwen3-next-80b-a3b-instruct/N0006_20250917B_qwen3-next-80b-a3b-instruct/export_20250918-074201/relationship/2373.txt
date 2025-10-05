@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF AND NON-CLINGING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Non-self insight is the highest form of wisdom; realizing the emptiness of self is the pivotal realization that transforms understanding into liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

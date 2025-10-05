@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>PRECEPTS are foundational for achieving LIBERATION by establishing ethical discipline and harmony.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

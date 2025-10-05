@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>MING KONG</target_entity>
+    <relationship_description>正念安住直接呈现为明空境界，如朗照般清晰无碍，是修行的直观结果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>戒律清净是禅定生起的前提，心散乱、行为放逸则无定可成，故戒为定之基。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>我执建立在错误认知五蕴为“我”或“我所”之上，观五蕴无我可断我执。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

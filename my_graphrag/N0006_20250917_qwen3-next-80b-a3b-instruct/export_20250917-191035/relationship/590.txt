@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>The illusion of self is the core manifestation of delusion; all suffering stems from misidentifying with the self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

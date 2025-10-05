@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JIE DU</target_entity>
+    <relationship_description>Saintly Practitioners have achieved Liberation, having completely transcended the cycle of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

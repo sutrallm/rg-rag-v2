@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>正知</target_entity>
+    <relationship_description>正念與正知共同作用，使修行者能時刻警醒、堅守修行，防止心懈怠與智慧遲鈍。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

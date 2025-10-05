@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念与觉知</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念与觉知是进入禅定的基础，通过保持觉察心念起伏而不被牵引，使心念专注安定，从而进入禅定状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

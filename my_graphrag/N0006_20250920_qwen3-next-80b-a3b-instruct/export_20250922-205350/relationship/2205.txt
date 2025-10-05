@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正见是八正道之首，是智慧的体现；八正道整体是通向智慧的系统道路。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

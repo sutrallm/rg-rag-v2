@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT_WISDOM</source_entity>
+    <target_entity>PHENOMENA</target_entity>
+    <relationship_description>Non-attachment wisdom如实观照世间刹那变化的本质 without clinging to phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

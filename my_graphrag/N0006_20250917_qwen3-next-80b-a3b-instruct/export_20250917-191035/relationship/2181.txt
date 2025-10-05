@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是修行的智慧维度，是修行中对实相了知的成果与工具。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

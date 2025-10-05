@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>如实观照</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>如实观照是通向解脱的关键实践，通过观照实相、断除结使，使烦恼渐薄、心愈澄明，最终证得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

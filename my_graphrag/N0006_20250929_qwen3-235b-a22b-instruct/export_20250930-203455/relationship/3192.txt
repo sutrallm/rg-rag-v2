@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无住</target_entity>
+    <relationship_description>修行者修习无住而修的境界，不执著于法，心如虚空，是究竟菩提之道。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

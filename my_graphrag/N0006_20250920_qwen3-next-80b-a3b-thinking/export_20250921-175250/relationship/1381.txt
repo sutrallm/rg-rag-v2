@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>ALL BEINGS</target_entity>
+    <relationship_description>Those who attain liberation through practice are honored and respected by all sentient beings.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

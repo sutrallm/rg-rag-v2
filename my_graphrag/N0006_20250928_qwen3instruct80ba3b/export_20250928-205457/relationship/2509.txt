@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>戒與慧雖分為初終，但彼此依存：戒淨則心安，心安則慧生，三者為整體修行體系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

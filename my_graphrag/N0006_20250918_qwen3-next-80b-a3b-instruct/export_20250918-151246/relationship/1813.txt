@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>DAOXING</target_entity>
+    <relationship_description>Jingjin provides the energy and commitment required to sustain Daoxing; without diligence, mindfulness practice falters.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

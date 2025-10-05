@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDE</source_entity>
+    <target_entity>NIHUA</target_entity>
+    <relationship_description>Jiede (liberation) is the experiential realization of nihua (nirvana), the unconditioned state beyond samsara.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

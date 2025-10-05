@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>修行者通过禅修获得心解脱，能如实了知诸法无常、苦、无我，超越执着。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

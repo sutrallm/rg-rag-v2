@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘生灭</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>因缘生灭的法则证明了无我的真实性，因一切现象皆依条件而生，无独立自性。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

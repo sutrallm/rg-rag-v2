@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>THREE MARKS OF EXISTENCE</target_entity>
+    <relationship_description>No-self is one of the Three Marks of Existence, the foundational truth that wisdom discerns and no-self practice actualizes.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

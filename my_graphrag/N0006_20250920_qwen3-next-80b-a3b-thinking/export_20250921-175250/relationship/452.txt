@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR FOUNDATIONS OF MINDFULNESS</source_entity>
+    <target_entity>SENSATION</target_entity>
+    <relationship_description>Observing sensations is one foundation of mindfulness practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

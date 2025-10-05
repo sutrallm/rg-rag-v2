@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO ZHIHUI</source_entity>
+    <target_entity>SHENGLI ZHIHUI</target_entity>
+    <relationship_description>Wuwo zhihui is the practical application of shengli zhihui, specifically focused on dissolving the illusion of self, which is central to transcendent wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

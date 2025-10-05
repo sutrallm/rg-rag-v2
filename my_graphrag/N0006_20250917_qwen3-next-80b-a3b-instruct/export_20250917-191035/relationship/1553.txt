@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>RIGHT MINDFULNESS</target_entity>
+    <relationship_description>Daily practice exemplifies right mindfulness by extending awareness to all activities, not just formal meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

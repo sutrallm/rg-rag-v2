@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Greed directly causes states of suffering and distress among sentient beings.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

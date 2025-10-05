@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE LIBERATION</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion about self and reality is the root cause of samsara; true liberation arises only when delusion is fully dispelled.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

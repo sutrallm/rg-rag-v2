@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>PATH MERIT</target_entity>
+    <relationship_description>Path merit can be lost if a cultivator becomes lazy or neglects practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

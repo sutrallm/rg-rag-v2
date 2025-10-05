@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精進</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>唯有透過持續精進，才能突破無明與三毒，逐步邁向解脫，無精進則無解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

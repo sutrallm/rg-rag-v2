@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚痴</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>愚痴是无明的表现，需以智慧如实观察身心现象，洞悉缘起性空以对治。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

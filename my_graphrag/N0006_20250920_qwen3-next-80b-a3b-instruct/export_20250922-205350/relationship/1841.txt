@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者 (SAINTLY BEING)</source_entity>
+    <target_entity>智慧 (WISDOM)</target_entity>
+    <relationship_description>Saintly beings possess transcendent wisdom that enables them to see the true nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

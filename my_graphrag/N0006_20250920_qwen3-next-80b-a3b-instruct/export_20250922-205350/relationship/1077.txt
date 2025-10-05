@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>XIU DAO CIXI</target_entity>
+    <relationship_description>A sage perfectly embodies the threefold path — discipline, meditation, and wisdom — in complete harmony.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

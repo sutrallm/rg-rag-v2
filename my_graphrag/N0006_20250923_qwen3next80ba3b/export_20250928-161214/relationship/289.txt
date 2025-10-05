@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>THREEFOLD TRAINING</target_entity>
+    <relationship_description>Meditation is one of the three core components of the Threefold Training, enabling mental focus and inner peace.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>光明</source_entity>
+    <target_entity>黑暗</target_entity>
+    <relationship_description>光明驱散黑暗，比喻智慧破除愚痴，二者为自然现象与比喻关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

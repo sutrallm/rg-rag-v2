@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU</source_entity>
+    <target_entity>JSINGJIN</target_entity>
+    <relationship_description>Chanxiu requires Jingjin (diligent effort) to maintain consistency and patience in purifying the mind over time.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

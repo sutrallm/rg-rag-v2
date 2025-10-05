@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>NON-DEPENDENCE_ON_EXTERNALS</target_entity>
+    <relationship_description>A saintly being’s liberation comes entirely from inner awakening, not external rituals, gods, or conditions—mirroring the principle of non-dependence on externals.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

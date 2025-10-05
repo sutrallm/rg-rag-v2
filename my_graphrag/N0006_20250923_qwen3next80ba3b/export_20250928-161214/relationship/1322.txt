@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>COMPASSION</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>COMPASSION naturally diminishes HATRED and harmful intentions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

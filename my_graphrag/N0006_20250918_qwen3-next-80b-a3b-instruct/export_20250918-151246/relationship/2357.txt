@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI</source_entity>
+    <target_entity>WUQIU</target_entity>
+    <relationship_description>Chashi leads to Wuqiu — true wisdom realizes that seeking enlightenment is itself a form of attachment, so one ceases to strive.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>深彻智慧</target_entity>
+    <relationship_description>圣者具足深彻智慧，能彻底断除贪嗔痴，超越痛苦与轮回。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

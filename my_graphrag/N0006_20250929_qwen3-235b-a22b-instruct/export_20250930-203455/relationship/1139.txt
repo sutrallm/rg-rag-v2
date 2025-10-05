@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无记</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>无记是禅定中缺乏智慧观照的缺陷状态，易导致心堕入空寂，是定慧不等持的负面表现。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

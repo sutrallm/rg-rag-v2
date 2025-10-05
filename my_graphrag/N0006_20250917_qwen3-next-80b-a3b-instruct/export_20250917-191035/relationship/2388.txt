@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHU YUE ZHU ZHAI</source_entity>
+    <target_entity>JI E</target_entity>
+    <relationship_description>Chu yue zhu zhai (non-attachment wisdom) directly uproots Ji e (greed, hatred, delusion), as clinging is the mechanism of these poisons.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

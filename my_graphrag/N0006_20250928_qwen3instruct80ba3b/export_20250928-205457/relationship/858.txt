@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>四念处是佛陀亲授的终极灭苦方法，通过观察身、受、心、法实相，直接导向解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

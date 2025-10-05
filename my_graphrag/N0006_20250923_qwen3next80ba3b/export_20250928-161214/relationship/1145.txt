@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行人</source_entity>
+    <target_entity>戒定慧</target_entity>
+    <relationship_description>修行人通过持守戒定慧来消除心中无明，实现修行目标。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

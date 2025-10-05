@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENMENT</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Enlightenment is the result of sustained exertion in mindfulness, meditation, and insight; without diligence, enlightenment cannot be attained.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Jingjin sustains the practice necessary for zhihui to develop. Persistent effort is required to maintain the conditions for insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

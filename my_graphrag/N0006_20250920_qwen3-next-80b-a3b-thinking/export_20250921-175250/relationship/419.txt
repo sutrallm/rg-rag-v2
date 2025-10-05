@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文内容</source_entity>
+    <target_entity>对话</target_entity>
+    <relationship_description>原文内容中包含对话，需转化为直接法义阐述</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

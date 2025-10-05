@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心的调伏</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>心的调伏是走向解脱的正道，强调内在修心重于形式，唯有调伏烦恼才能真实迈向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

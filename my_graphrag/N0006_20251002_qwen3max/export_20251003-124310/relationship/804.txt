@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>禅悦</target_entity>
+    <relationship_description>禅悦是禅定中可能生起的喜乐感受，属于禅定体验的一部分，但若执着则障碍解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

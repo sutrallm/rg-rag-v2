@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>正念是调伏烦恼、安住寂静的关键能力，贯穿于戒定慧三学的实践过程中，尤其在禅定与智慧中起核心作用。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

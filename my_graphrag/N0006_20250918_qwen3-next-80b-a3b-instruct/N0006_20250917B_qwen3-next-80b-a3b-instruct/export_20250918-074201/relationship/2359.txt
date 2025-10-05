@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>戒行与智慧是圣者一体两面的特质，戒行为智慧生起提供清净基础，智慧引导戒行究竟圆满。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

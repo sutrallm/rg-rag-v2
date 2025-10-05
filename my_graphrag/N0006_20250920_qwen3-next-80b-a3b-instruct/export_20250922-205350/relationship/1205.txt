@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Nirvana is the full realization of no-self—when there is no “I” to be liberated, there is no one suffering, and thus, Nirvana is spontaneously present.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

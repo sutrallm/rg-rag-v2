@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>觉知用于观察烦恼的生灭，不迎不拒，以智慧照破其无自性，从而自然消融烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

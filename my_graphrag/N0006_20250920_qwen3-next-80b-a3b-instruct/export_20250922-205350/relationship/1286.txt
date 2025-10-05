@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL_AWARENESS</source_entity>
+    <target_entity>FOUR_FOUNDATIONS_OF_MINDFULNESS</target_entity>
+    <relationship_description>Mindful awareness is the method applied specifically to the four foundations during meditation and daily life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

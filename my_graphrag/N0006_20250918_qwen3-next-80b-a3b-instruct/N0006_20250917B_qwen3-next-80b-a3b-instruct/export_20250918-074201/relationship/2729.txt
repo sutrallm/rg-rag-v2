@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUSUODE</source_entity>
+    <target_entity>CHENMO</target_entity>
+    <relationship_description>Non-attachment leads to true silence of mind—not suppressing speech, but transcending the need for conceptualization or argument.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

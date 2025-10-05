@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>禪定是通向涅槃的關鍵實踐途徑，透過安住內心、斷除散亂，逐步消除煩惱根因，達至涅槃。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

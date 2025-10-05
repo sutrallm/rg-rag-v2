@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Delusion (ignorance of reality) is the root cause of suffering and must be eradicated for liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

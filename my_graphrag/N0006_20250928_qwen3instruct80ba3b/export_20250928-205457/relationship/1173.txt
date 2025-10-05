@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Precepts purify bodily and verbal conduct, creating the ethical foundation necessary for stable meditation (chanding) to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

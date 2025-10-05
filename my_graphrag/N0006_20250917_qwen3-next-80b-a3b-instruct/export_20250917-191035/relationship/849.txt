@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禪定以正念為基礎，當心念專注且正念分明時，才能遠離散亂，進入安定狀態。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

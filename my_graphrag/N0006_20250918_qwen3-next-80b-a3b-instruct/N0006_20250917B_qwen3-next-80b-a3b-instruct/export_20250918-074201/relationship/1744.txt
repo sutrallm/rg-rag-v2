@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>BUDDHIST TEACHINGS</target_entity>
+    <relationship_description>Liberation is the ultimate goal of Buddhist teachings, which provide the framework — ethical conduct, meditation, and wisdom — to achieve it.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Greedy attachment is one of the primary causes of suffering, according to Buddhist analysis.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

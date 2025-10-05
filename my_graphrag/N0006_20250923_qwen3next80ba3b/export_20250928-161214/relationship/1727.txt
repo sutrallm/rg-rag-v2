@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND_FREEDOM</source_entity>
+    <target_entity>STATES</target_entity>
+    <relationship_description>Mind freedom is not bound by any temporary mental states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

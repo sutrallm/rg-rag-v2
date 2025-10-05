@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>POCHU WO ZHI</source_entity>
+    <target_entity>JIETUO DANGXIA</target_entity>
+    <relationship_description>Breaking the illusion of self is the key insight that enables liberation to be realized immediately in the present moment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>如实观照缘起法能自然生起智慧，智慧的核心即是对缘起的如实认知，故缘起法是智慧生起的根本依据。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Saintly qualities are the matured expression of one who has realized nirvana—free from defilements and no longer bound by cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟安乐</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>究竟安乐是解脱的最终体现，表现为寂静光明、无修无证的圆满状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

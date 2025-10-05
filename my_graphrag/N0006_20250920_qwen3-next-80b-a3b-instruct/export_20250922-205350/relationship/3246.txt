@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱必须断除一切执着，包括对禅定境界、神通、成果的执取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

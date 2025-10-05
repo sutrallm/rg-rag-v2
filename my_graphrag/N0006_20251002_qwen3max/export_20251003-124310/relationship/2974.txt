@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>专注</source_entity>
+    <target_entity>觉知呼吸</target_entity>
+    <relationship_description>觉知呼吸是培养专注力的入门方法，通过观察出入息逐步使心念稳定，是专注的具体修习方式。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

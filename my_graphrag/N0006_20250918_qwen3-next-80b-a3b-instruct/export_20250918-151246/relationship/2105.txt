@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jieming (ethical discipline) creates the stable mental environment required for chanding to arise; it is the foundational step before concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

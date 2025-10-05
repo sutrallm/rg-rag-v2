@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>解脱是修行者通过断除无明与烦恼所追求的最终目标。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

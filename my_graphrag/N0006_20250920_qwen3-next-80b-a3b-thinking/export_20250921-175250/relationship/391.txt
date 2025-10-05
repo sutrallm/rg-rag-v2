@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ELEPHANT</source_entity>
+    <target_entity>FOREST</target_entity>
+    <relationship_description>ELEPHANT moves steadily in FOREST</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

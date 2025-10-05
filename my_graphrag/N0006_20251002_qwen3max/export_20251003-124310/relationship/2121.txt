@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>瞋</target_entity>
+    <relationship_description>正念能使心遠離瞋的干擾，以覺知觀察而不排斥或厭惡。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

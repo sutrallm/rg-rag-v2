@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>生死</target_entity>
+    <relationship_description>修行的根本目的是超越生死轮回，而非追求外在利益或来世福报。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

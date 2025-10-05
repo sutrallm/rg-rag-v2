@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE-FOLD EMPTINESS</source_entity>
+    <target_entity>OBJECT OF CHARITY</target_entity>
+    <relationship_description>Object of Charity is the third component in the Threefold Emptiness framework, which is realized as empty of intrinsic reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

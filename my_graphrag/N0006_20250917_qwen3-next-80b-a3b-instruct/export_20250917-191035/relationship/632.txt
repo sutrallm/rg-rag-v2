@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>精进修行</target_entity>
+    <relationship_description>Chanding requires continuous effortful practice (jingjin xiulian) to maintain focus and prevent regression into mental disturbances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

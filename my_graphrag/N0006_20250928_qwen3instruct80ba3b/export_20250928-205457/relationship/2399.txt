@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脫即是涅槃的實現，前者是過程與狀態，後者是終極結果與名稱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

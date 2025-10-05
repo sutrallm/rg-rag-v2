@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>神通</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>执着于神通而忽视对无常、苦、无我的观照，无法真正断除烦恼、达成解脱。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

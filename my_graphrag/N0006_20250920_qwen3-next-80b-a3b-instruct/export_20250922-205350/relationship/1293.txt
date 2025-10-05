@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>NO_SELF_OBSERVATION</target_entity>
+    <relationship_description>Delusion about a permanent self is dismantled precisely through no-self observation, revealing the truth of anatta.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

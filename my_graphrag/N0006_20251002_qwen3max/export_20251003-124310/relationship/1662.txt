@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>正知</target_entity>
+    <relationship_description>正念与正知共同贯穿修行者的日常行持，在语默动静中保持觉知，观察身心状态及其生灭变化。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

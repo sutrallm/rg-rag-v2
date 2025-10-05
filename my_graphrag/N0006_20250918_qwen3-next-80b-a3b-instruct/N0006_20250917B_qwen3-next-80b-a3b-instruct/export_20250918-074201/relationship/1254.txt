@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_CONDUCT</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Ethical behavior supports the development of clarity and insight, forming the basis for wisdom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

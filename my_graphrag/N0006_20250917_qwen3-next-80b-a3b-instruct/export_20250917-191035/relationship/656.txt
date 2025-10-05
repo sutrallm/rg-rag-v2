@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>LIFE-DEATH CYCLE</target_entity>
+    <relationship_description>Delusion — ignorance of reality — is the root cause of the entire cycle, as it leads to false views of self and permanence, resulting in all unwholesome actions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

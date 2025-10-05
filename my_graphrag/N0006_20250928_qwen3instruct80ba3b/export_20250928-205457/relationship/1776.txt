@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>The Shengzhe possesses complete zhishi — insight into the emptiness of all phenomena, enabling them to transcend all attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

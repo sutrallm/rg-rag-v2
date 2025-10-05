@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轉換格式</source_entity>
+    <target_entity>地點</target_entity>
+    <relationship_description>Location-related details are configured for removal during text formatting operations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

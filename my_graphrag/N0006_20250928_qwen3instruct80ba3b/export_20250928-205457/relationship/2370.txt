@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我智</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>无我智是超越执着智慧的核心内容，两者本质一致，皆源于观照五蕴无我。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

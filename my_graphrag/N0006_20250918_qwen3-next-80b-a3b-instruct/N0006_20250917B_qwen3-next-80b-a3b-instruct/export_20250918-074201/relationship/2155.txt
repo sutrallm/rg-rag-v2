@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True chanding is not clung to; non-attachment ensures meditative states do not become new forms of bondage.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER_PEACE</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Inner peace arises directly from transcendent wisdom, which eliminates craving and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

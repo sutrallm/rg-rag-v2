@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>By realizing wuwo completely, the shengzhe is liberated from self-centeredness and all forms of clinging, embodying true freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

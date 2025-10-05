@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常观</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>无常观破除恒常妄想，促进智慧生起，使心趋向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

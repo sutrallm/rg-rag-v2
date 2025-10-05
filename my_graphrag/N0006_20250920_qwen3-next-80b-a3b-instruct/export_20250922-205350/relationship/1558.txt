@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Shengzhe have realized or are continually abiding in Niepan; their state is the embodiment of liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

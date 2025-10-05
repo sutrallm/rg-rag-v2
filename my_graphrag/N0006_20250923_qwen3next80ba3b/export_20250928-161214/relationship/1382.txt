@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>POOL WATER</target_entity>
+    <relationship_description>POOL WATER is a metaphor used to describe the clear and calm state of mind achieved through MEDITATION.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

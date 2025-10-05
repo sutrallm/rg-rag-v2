@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Liberation is defined by complete non-attachment — to objects, states, or even spiritual achievements.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

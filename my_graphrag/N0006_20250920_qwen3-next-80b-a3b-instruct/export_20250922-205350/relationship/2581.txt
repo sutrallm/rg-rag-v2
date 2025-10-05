@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>戒律与正念如鸟之双翼，缺一不可：戒律保护心不染浊，正念觉察心不随境转。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_SELF_AND_LIBERATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>无我与放下“我所”是解脱的实相和根本路径，非境界获得，而是执著的彻底止息。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

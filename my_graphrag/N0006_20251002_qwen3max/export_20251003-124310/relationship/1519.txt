@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>智慧能如实了知一切现象皆是苦，苦是智慧观照的核心对象之一，与无常、无我共同构成三法印。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

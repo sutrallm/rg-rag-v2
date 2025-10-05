@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>初果、二果、三果</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>初果至三果是通往涅槃的阶段性成就，但若执著这些果位，则无法彻底进入无得无执的涅槃境。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

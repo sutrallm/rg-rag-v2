@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHZHOU</source_entity>
+    <target_entity>SHUGUAN</target_entity>
+    <relationship_description>Transcending attachment arises from the practice of Shuguan, where one directly observes the impermanent and selfless nature of reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

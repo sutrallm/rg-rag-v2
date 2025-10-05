@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>SELF_RELIANT_Liberation</target_entity>
+    <relationship_description>The Buddha guides practitioners toward self-reliant liberation but does not bestow it; enlightenment must be achieved by the individual.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>practitioner</source_entity>
+    <target_entity>seated meditation</target_entity>
+    <relationship_description>Practitioners engage in seated meditation as a core part of their spiritual discipline.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

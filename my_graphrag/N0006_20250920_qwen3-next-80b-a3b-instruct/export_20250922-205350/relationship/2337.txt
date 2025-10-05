@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL liberator</source_entity>
+    <target_entity>ALTRUISM</target_entity>
+    <relationship_description>True spiritual liberation naturally expresses itself as selfless compassion and altruism due to the absence of ego and clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

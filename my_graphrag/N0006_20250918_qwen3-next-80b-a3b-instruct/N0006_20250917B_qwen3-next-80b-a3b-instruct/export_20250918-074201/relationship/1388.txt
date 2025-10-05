@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Saints are those who have fully attained liberation, having extinguished greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

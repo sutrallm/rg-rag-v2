@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>正见</target_entity>
+    <relationship_description>修行以正见为先导，若无正见，禅定与智慧易堕邪道，正见确保修行方向正确。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

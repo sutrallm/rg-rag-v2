@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀慧</source_entity>
+    <target_entity>十八界</target_entity>
+    <relationship_description>十八界是觀慧修習的所緣之一，有助於深入理解身心現象的運作與空性。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

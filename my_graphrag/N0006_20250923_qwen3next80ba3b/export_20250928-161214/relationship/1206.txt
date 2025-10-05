@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>DILIGENCE</target_entity>
+    <relationship_description>Wisdom motivates persistent diligent practice to achieve spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

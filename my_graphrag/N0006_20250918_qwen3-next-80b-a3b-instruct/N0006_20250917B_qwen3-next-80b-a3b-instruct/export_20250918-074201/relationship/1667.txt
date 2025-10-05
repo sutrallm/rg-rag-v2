@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXING DE HEZXIN ZAI DANGXIA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is not confined to formal sitting but can emerge in any moment of present-moment awareness — the essence of this concept.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

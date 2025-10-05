@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>正念是禅定的实践方式之一，通过持续觉知保持心不散乱，是达成禅定的直接途径。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

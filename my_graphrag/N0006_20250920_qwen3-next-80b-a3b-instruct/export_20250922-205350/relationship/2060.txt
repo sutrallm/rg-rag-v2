@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>觀照諸法無常，為證悟無我的重要途徑，二者同為般若智慧的核心所見。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

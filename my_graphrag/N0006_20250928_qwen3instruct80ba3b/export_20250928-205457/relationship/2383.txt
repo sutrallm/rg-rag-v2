@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT_ORIGINATION</source_entity>
+    <target_entity>EMPTY_NATURE</target_entity>
+    <relationship_description>Dependent origination is the process that demonstrates empty nature — if all things arise conditionally, they have no inherent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

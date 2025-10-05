@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>煩惱</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>煩惱是驅動生死輪迴的直接力量，唯有斷盡煩惱，才能超越輪迴。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU ZHU</source_entity>
+    <target_entity>NIE PAN</target_entity>
+    <relationship_description>The state of non-abiding (Wu Zhu) directly manifests nirvana (Nie Pan).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

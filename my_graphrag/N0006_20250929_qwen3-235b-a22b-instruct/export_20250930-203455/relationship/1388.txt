@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>精进推动修行者在日常中持续保持正念，二者相辅相成，共同支撑禅修实践。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

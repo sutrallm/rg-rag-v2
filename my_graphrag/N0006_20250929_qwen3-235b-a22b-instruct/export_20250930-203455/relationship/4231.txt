@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修障碍</source_entity>
+    <target_entity>呼吸</target_entity>
+    <relationship_description>调整呼吸是克服禅修障碍的方法之一。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

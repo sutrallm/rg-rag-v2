@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE OF THE SAINT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The saint has achieved liberation through the full integration of ethical conduct and wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

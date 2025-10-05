@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>XINXIU</target_entity>
+    <relationship_description>Chanding is the practical expression of Xinxiu (mind cultivation), as both involve continuous mindful awareness and non-attachment to mental states.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

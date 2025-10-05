@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Virtue purifies conduct and creates the moral stability needed for the mind to settle into chanding.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

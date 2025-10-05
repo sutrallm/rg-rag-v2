@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>Liberation</target_entity>
+    <relationship_description>Wisdom — the direct insight into reality — is the means through which liberation is attained, transcending ordinary dualistic experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

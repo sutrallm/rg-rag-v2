@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>解脱的实现依赖于对空性的彻底体证，空性是解脱的本质内涵。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

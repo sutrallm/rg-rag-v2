@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI ZHIHUI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Chaoshi zhihui relies on the direct observation of impermanence to dissolve attachment to transient experiences and states.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>正念是生起智慧的日常训练，通过持续觉察现象生灭，自然发展如实智。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>INNER PEACE</target_entity>
+    <relationship_description>Saints dwell in a state of inner peace as a result of their spiritual mastery.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

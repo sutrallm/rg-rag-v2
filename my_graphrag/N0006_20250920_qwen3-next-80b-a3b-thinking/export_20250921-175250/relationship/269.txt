@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IDLENESS</source_entity>
+    <target_entity>EVIL REALMS</target_entity>
+    <relationship_description>Idleness leads to falling into evil realms, as "放逸者则堕入恶道" directly links heedlessness to negative rebirth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

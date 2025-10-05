@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRABING</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Craving includes aversion and resistance (forms of hatred) when desires are thwarted; both are rooted in attachment and ignorance.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

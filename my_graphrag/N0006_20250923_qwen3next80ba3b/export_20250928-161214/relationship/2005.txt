@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>MENTAL FORMATIONS</target_entity>
+    <relationship_description>MENTAL FORMATIONS is one of the five aggregates.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

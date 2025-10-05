@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_AWAKENING</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Daily awakening is the practical application of mindfulness in everyday life, making it the living expression of mindfulness practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

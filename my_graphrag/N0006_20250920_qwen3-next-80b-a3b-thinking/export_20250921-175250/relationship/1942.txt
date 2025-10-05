@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>SELF</target_entity>
+    <relationship_description>Understanding impermanence dissolves attachment to the illusion of a permanent self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

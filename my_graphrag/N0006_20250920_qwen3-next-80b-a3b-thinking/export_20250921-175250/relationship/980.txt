@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Wisdom arises from the direct insight into the doctrine of non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

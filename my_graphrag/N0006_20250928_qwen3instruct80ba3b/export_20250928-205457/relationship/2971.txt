@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INDUSTRIOUS_PRACTICE</source_entity>
+    <target_entity>SLACKNESS</target_entity>
+    <relationship_description>Industrious practice is the direct antidote to slackness, which is labeled as the root cause of continued suffering and rebirth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

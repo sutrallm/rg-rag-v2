@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>慧</source_entity>
+    <target_entity>贪瞋痴</target_entity>
+    <relationship_description>慧能彻底断除贪瞋痴，使人内心清净无染，从生死苦海中解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

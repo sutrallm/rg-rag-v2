@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>聖者具備深厚的禪定修為，以此安住於寂靜，不隨境轉，為其解脫的基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

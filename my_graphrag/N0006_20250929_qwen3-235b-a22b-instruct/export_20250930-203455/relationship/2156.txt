@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>愚痴</target_entity>
+    <relationship_description>正见对治愚痴，作为烦恼根本之一，通过正见与正思维净化内心。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

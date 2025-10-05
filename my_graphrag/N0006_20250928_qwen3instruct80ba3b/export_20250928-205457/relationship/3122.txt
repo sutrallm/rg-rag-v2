@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETINGHUI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin is the driving force that maintains the practice of all three aspects of jietinghui; effort is required to uphold precepts, sustain concentration, and develop wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

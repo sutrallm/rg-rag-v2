@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放下对“我”与“我所”的执着</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>文本虽未将“放下对‘我’与‘我所’的执着”列为独立实体，但该行为由无我智慧驱动，直接导向真正的自在与解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

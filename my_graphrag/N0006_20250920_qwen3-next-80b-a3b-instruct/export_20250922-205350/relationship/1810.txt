@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIESHUO</source_entity>
+    <target_entity>SIWANG</target_entity>
+    <relationship_description>Liberation is confirmed through the absence of fear of death — those who understand impermanence no longer dread it.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

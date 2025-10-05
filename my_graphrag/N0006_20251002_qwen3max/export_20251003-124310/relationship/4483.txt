@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>執取</target_entity>
+    <relationship_description>智慧能超越一切執取，因徹見現象非實有而不生貪愛或我慢。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

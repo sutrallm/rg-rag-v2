@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>SELF-CLINGING</target_entity>
+    <relationship_description>Realizing emptiness — the absence of inherent self in all phenomena — directly dissolves self-clinging and the illusion of ownership.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

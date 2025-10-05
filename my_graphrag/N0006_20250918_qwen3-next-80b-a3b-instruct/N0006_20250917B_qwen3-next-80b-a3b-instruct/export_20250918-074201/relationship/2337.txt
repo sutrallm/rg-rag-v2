@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAINTHOOD</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Saints have uprooted hatred as part of their complete liberation from the three root afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

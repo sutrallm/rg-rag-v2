@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Sheli (letting go) is the practical expression of zhihui (wisdom), as true understanding of impermanence and non-self naturally results in non-attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

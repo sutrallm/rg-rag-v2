@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>生死的本质即是无常，理解无常是超越对生死怖畏的前提。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

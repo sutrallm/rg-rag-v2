@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>SHENGYUAN</target_entity>
+    <relationship_description>Fangyi (mindless indulgence) is the direct cause of suffering and the perpetuation of shengyuan (cyclic existence).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>智慧使人了知執取即是苦的根源，因此不再執著神通。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

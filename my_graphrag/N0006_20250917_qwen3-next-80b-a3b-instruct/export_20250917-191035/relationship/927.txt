@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>徹見無我是脫離生死系縛與苦的根本途徑，是達至究竟解脫的關鍵洞見。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>缘起观是无我观的基础，观察一切现象依缘而生，无独立自性，破除我执。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

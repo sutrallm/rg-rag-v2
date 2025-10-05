@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>法随法行</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>法随法行最终以慧观空为完成，智慧是修行的智慧终点，是法随法行的核心目标。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

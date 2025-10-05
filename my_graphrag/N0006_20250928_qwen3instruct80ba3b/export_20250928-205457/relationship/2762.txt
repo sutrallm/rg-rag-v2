@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正定</target_entity>
+    <relationship_description>禅定是正定的具体实践状态，正定是八正道中对禅定的规范性表达。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

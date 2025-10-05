@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>KONGXING</target_entity>
+    <relationship_description>Wuwo is the practical application of Kongxing; observing the five aggregates as non-self leads directly to the realization of emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

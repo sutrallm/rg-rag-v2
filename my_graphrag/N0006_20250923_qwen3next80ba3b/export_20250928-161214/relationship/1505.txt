@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>WISDOM enables practitioners to overcome ATTACHMENT by understanding impermanence and non-self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

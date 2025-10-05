@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>无常观</target_entity>
+    <relationship_description>无常观是对治烦恼的有效方法，通过观察无常可减少对身心世界的执着，从而削弱烦恼。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

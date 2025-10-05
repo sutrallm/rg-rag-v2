@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>如实观察</target_entity>
+    <relationship_description>如实观察是在禅修过程中进行的核心活动，禅定为如实观察提供稳定心识基础，而如实观察又深化禅定的智慧面向。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

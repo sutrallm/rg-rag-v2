@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因緣和合</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>修行者看清感官對象與內心反應皆是因緣和合、轉瞬即逝，進而證悟無我，不執取為「我」或「我所」。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

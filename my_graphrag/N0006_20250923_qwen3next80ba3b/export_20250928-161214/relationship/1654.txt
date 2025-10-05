@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>STILLNESS</target_entity>
+    <relationship_description>SAINTLY BEINGS abide in STILLNESS as part of their meditative practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAMP FLAME</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>A lamp flame’s constant flicker symbolizes the transient nature of all phenomena, especially the five aggregates.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

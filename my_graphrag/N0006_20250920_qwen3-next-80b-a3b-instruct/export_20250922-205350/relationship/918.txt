@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUWO GUAN</target_entity>
+    <relationship_description>Mindfulness enables the sustained observation required for non-self insight (wuwo guan) by staying present with the arising and passing of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

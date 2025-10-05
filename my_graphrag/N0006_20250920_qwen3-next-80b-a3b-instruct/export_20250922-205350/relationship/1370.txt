@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIchang GONGKE</source_entity>
+    <target_entity>SHENGMIAN</target_entity>
+    <relationship_description>Richang Gongke integrates Shengmian into ordinary actions, making mindfulness the continuous practice of daily life.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

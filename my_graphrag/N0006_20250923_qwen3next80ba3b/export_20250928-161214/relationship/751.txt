@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND NATURE</source_entity>
+    <target_entity>IGNORANCE</target_entity>
+    <relationship_description>The mind nature inherently dispels ignorance through its pure essence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>精进是保持与深化禅定的必要动力，能防止懈怠，使禅定稳固不为魔障所乘。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

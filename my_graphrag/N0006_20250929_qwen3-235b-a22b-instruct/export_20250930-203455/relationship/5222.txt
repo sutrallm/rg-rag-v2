@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>解脱需通过修定来安定身心，是解脱次第中的第二步，为智慧观照奠定基础。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

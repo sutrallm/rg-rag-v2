@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_TEXT</source_entity>
+    <target_entity>CONCLUDING_POEM</target_entity>
+    <relationship_description>Original text contains a concluding poem to be deleted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

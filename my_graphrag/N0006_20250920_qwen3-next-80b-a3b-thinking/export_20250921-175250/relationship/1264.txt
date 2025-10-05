@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHU ZHI</source_entity>
+    <target_entity>WO</target_entity>
+    <relationship_description>Firm attachment (Zhu Zhi) is directed towards the concept of self (Wo).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

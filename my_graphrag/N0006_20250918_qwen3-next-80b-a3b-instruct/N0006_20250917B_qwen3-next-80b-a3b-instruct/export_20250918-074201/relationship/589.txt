@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SI DU</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Holy beings (shengzhe) are defined by the complete eradication of the three poisons (si du): greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

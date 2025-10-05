@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MONASTIC_VIRTUES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Complete cultivation of morality, concentration, and wisdom leads directly to liberation from all suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

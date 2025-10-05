@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SHENGYI</target_entity>
+    <relationship_description>The saintly being embodies transcendent wisdom (Shengyi), seeing emptiness and non-self without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

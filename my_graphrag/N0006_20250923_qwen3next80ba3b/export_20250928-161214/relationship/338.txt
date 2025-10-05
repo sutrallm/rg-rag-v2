@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL_CONTENT</source_entity>
+    <target_entity>PARAGRAPH</target_entity>
+    <relationship_description>The original content is structured as a paragraph that needs to be processed and translated.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

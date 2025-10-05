@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONTENTMENT</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Contentment is the state of mind that avoids greed and excessive desires.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

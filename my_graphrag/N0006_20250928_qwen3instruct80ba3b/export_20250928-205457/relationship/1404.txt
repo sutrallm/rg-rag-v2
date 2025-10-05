@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>YUANQI</target_entity>
+    <relationship_description>Zhihui is the deep understanding that all things arise dependently; this insight dismantles conceptual clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

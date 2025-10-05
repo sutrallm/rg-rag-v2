@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Mindfulness and Precepts are complementary practices that mutually reinforce ethical discipline and mental clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

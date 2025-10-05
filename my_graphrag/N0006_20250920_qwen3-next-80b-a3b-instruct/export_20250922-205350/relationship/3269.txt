@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE-DING-HUI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the “ding” (concentration) component of the Jie-Ding-Hui path, serving as the structural pillar of spiritual development.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

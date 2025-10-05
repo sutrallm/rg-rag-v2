@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Mindfulness is the core component of chanding — without clear, continuous mindfulness, chanding cannot be sustained.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

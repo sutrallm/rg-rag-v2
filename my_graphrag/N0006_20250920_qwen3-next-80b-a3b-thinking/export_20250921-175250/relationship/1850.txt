@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我</source_entity>
+    <target_entity>期待</target_entity>
+    <relationship_description>The system expresses anticipation for user input.</relationship_description>
+    <relationship_strength>4</relationship_strength>
+</relationship>

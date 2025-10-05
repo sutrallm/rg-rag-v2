@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINGXIU RICAHANG</source_entity>
+    <target_entity>HENGCHANG JIAOZHAO</target_entity>
+    <relationship_description>Daily practice leads to constant awareness becoming habitual. One does not need to force meditation; awareness naturally permeates mundane activities, fulfilling the essence of Buddhist practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

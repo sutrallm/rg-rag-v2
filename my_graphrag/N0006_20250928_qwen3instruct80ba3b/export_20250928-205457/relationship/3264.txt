@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHI JI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shi ji (the threefold path) lists chanding as the second stage, which prepares the mind for wisdom; chanding is a necessary component of the complete path.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

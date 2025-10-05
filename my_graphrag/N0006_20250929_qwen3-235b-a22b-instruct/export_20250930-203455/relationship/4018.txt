@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>观</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>通过观照身心五蕴，修行者发现无一法可得、无一我可执，从而体证“无我”。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

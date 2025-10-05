@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心不随境转的平静</source_entity>
+    <target_entity>觉悟者</target_entity>
+    <relationship_description>心不随境转是觉悟者内在状态的核心特征，二者本质一致。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

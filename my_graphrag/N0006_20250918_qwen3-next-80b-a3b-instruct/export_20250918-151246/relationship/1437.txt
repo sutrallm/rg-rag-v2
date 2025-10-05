@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindfulness practice in ordinary activities is the primary method through which chanding (meditative concentration) gradually matures and becomes stable.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

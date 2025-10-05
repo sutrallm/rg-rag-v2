@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIZHI</source_entity>
+    <target_entity>TAN AI</target_entity>
+    <relationship_description>Zhizhi directly undermines Tan ai by revealing the emptiness and transiency of objects of attachment, weakening craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

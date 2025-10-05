@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL_AWARENESS</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Mindful awareness allows one to observe arising phenomena without reacting, thereby naturally dissolving attachment in the moment of perception.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

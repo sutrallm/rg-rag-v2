@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATIVE CONCENTRATION</source_entity>
+    <target_entity>CLARITY</target_entity>
+    <relationship_description>MEDITATIVE CONCENTRATION cultivates CLARITY by calming the mind and reducing distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

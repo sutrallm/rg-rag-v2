@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>LAOZHAN</target_entity>
+    <relationship_description>Realizing non-self (Wuwo) leads to the eradication of craving and aversion, resulting in true inner stillness (Laozhan).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

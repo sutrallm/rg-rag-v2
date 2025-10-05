@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEBAO</target_entity>
+    <relationship_description>Saintly beings (shengzhe) exemplify liberation (jiebao), as they have completely uprooted afflictions and dwell in freedom, demonstrating the fruit of the path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

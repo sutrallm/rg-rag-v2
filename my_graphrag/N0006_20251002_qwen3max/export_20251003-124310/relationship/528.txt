@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五盖</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>五盖是烦恼的表现形式，其根源在于无明；随着五盖被断除，无明也逐渐减弱，最终可被根除。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

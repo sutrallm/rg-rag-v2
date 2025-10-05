@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>REPUTATION</target_entity>
+    <relationship_description>Saints do not pursue reputation, yet their inner purity naturally draws admiration and reverence.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

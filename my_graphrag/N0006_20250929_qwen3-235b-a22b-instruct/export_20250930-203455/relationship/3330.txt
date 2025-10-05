@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行成果</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者是修行成果的体现者，其内心断除贪嗔痴、安住寂静，符合真实解脱的标准。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

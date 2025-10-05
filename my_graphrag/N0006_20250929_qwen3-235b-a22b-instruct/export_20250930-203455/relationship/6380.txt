@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>神通</target_entity>
+    <relationship_description>解脱的终极目标不是追求神通，而是彻底断除烦恼、证得涅槃，神通仅为修行过程中的副产品或方便。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

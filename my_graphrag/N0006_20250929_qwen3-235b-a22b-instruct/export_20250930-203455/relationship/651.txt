@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平衡之道</source_entity>
+    <target_entity>境界</target_entity>
+    <relationship_description>平衡之道使修行者不执着于任何境界，因避免极端而保持心的自由。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

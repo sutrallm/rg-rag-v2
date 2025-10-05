@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Understanding non-self leads directly to non-attachment — if there is no "I" to attain or possess, clinging naturally dissolves.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

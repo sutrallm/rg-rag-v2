@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我执</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>我执是生死轮回的根本之根，解脱即是破除我执，因此二者为最深层次的因果关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

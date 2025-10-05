@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>聖者具備如實智慧，能徹底看破執著，這是其超越凡俗的關鍵特質。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

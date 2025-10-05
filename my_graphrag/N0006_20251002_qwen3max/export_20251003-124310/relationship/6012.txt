@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒、定、慧三学</source_entity>
+    <target_entity>中道</target_entity>
+    <relationship_description>中道是修行的整体原则，而戒定慧三学是其具体实践框架；中道避免极端，三学提供结构化路径，二者相辅相成。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

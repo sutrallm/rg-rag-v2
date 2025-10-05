@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無明</target_entity>
+    <relationship_description>智慧的本質是破除無明，透過如实見知無常無我，直接對治無明的障蔽。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

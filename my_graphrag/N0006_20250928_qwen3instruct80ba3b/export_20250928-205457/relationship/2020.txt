@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>正法</target_entity>
+    <relationship_description>佛陀是正法的传授者，如明灯照亮道路，但佛法本身才是修行的核心依据。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

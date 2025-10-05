@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>DETAILED_OBSERVATION</target_entity>
+    <relationship_description>Enlightened beings practice detailed observation to maintain clear, unclouded awareness of reality at all times.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

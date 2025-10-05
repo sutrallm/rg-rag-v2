@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Insight into non-self deepens mindfulness by removing the ego-centered filter through which experiences are interpreted.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>CHRISTIAN MEDITATION</target_entity>
+    <relationship_description>圣者因具足禅定而能安住正念，远离妄念，禅定是其生命特质的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

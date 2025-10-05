@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiuxin (daily mind cultivation) is the practical expression of Chanding in everyday life—extending meditative awareness beyond seated practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

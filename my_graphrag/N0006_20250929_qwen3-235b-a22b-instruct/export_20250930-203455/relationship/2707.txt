@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行者是禅定修习的主体，通过禅定逐步净化心识，迈向解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

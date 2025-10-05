@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>REPENTANCE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Repentance (non-laziness) is the driving force that sustains consistent practice of chanding and prevents regression.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

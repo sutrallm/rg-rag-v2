@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>成就</target_entity>
+    <relationship_description>心解脱的修行者虽精进修行、追求成果，但不执著于任何成就，不被成就所系缚。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

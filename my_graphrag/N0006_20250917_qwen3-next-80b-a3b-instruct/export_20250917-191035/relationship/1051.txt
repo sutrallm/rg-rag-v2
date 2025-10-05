@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Sheli (letting go) is cultivated through chanding, as meditative stillness enables non-attachment to thoughts and sensations.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

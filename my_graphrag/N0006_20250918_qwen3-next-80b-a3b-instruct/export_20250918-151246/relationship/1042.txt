@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE SAINT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The Saint embodies liberation, having cut all defilements and attained complete freedom from suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>修行者透过禅修获得智慧，以洞察无常无我，超越执着，智慧是其解脱的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

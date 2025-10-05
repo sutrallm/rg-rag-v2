@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>A saint (shengzhe) is one who has fully developed wisdom, seeing the true nature of reality and thereby eliminating defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

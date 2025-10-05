@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>觉照</target_entity>
+    <relationship_description>觉照是面对和转化烦恼的方法，通过如实观照，烦恼失去力量而自然消散，而非压抑。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENED_BEING</source_entity>
+    <target_entity>CLEANSE_MORAL_CONDUCT</target_entity>
+    <relationship_description>Enlightened beings embody pure ethical conduct as a foundation for their inner freedom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

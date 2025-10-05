@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>RIGHT EFFORT</target_entity>
+    <relationship_description>Chanding (meditative concentration) requires continuous right effort to maintain mindfulness and prevent mental distraction, making right effort a necessary condition for achieving stable concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

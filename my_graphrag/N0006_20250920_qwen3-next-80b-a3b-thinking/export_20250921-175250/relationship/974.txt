@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>SUFFERING RESULT</target_entity>
+    <relationship_description>Unwholesome mind leads to karmic results manifesting as suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

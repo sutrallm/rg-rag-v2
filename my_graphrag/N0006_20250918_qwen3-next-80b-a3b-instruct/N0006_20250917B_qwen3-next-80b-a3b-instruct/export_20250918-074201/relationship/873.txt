@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEING</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A saintly being embodies perfected chanding, characterized by unshakable inner peace and freedom from afflictions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

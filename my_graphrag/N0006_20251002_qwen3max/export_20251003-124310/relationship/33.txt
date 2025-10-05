@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>達到心解脫的修行者能如實了知無常的本質，此為其智慧體證的一部分。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

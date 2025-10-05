@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JEONGJIN</target_entity>
+    <relationship_description>Chanding requires Jeongjin to maintain sustained focus and avoid distraction; both are foundational practices for liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

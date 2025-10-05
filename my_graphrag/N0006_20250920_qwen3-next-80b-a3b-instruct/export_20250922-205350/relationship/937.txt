@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>圣者已证得涅槃，超越生死，心无挂碍，是涅槃境界的现证者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

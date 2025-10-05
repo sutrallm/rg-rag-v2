@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Jingjin undermines delusion by reinforcing wise understanding through persistent practice rather than idle speculation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

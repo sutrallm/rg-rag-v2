@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>METAPHOR</source_entity>
+    <target_entity>DHARMA_EXPOSITION</target_entity>
+    <relationship_description>Metaphors are converted into direct Dharma exposition during text processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

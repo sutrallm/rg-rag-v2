@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation requires the complete abandonment of clinging; clinging is one of the primary obstacles to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

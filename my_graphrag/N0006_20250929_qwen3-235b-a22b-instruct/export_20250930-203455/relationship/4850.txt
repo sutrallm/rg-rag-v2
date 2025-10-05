@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱次第</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱次第是通向究竟解脱的阶段性路径，每一阶段均有相应证验。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

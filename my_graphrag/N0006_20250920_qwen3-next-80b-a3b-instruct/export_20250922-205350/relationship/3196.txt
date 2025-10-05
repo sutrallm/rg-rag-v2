@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE EARTH</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The Earth is a metaphor for the stable, unshaken mind cultivated through chanding.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

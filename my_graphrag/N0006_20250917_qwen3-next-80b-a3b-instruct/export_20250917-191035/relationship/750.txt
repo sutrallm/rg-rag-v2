@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHENG_JIE</source_entity>
+    <target_entity>SHENG_HUI</target_entity>
+    <relationship_description>Liberation is achieved through the full development of transcendent wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

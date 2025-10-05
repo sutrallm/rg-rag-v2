@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>MIND</target_entity>
+    <relationship_description>EFFORT is applied to cultivate and refine the MIND.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

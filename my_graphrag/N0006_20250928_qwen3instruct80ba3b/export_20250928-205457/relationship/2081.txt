@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>SHENGZHI</target_entity>
+    <relationship_description>Ku (suffering) is revealed by Shengzhi as arising from clinging; wisdom sees that suffering is rooted in attachment to impermanent phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

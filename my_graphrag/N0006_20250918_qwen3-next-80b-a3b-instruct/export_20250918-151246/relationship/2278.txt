@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>YUANHE</target_entity>
+    <relationship_description>Wuwo (non-self) is explained through Yuanhe: if all things arise dependently, then no independent self exists.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

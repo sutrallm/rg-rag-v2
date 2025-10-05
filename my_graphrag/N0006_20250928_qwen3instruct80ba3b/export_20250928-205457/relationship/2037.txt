@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Continuous mindfulness leads to insight into the true nature of existence, which culminates in nirvana.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

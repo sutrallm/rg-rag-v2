@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Zhihui (wisdom) leads directly to wuzhu (non-abiding), as true insight reveals that even liberation should not be clung to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

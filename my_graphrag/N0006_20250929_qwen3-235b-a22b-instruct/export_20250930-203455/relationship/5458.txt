@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>俱解脱</source_entity>
+    <target_entity>禅修次第</target_entity>
+    <relationship_description>俱解脱是禅修次第的最终成就之一，同时具备定力与智慧，是修行圆满的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

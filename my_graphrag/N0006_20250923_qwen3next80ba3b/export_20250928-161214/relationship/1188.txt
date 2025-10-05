@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DILIGENCE</source_entity>
+    <target_entity>INDULGENCE</target_entity>
+    <relationship_description>Diligent practice actively prevents indulgence and supports spiritual discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

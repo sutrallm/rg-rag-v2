@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>SANMI</target_entity>
+    <relationship_description>Jiefu is achieved solely through the integration of Sanmi — discipline, concentration, and wisdom — as the complete path to freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

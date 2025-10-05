@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>INSIGHT</target_entity>
+    <relationship_description>Non-attachment arises from insight into the impermanent, selfless nature of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BA ZHENG DAO</source_entity>
+    <target_entity>ETHICS</target_entity>
+    <relationship_description>The Eightfold Path includes right speech, action, and livelihood as its ethical foundation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

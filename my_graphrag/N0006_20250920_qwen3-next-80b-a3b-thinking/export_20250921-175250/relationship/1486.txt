@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAXITY</source_entity>
+    <target_entity>DEATH DEMON</target_entity>
+    <relationship_description>LAXITY allows the DEATH DEMON to gain influence over individuals in spiritual practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

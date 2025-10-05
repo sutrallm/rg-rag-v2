@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内观</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>内观是通向心解脱的唯一正道，是断除我执与爱染、如实知见真理的具体方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

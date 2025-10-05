@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>内心动摇</target_entity>
+    <relationship_description>无我观实践后，执著消融，内心不再因得失、毁誉而动摇，是其直接心理效果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

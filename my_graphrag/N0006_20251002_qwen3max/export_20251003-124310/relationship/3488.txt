@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>他信</target_entity>
+    <relationship_description>真正觉悟者不依赖他人言论或传统信仰（他信），而是以自身如实观察所证得的智慧为依归。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

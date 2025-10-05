@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>WRONG THOUGHT</target_entity>
+    <relationship_description>Wisdom directly counteracts and eliminates wrong thoughts through clear insight into reality.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

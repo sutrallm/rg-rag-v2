@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者在深定中觀察自身五蘊，了知其無常、苦、無我，以斷除煩惱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

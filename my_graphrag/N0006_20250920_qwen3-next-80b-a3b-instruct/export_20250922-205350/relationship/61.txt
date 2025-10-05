@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFULNESS</source_entity>
+    <target_entity>WU LI</target_entity>
+    <relationship_description>Mindfulness is one of the five powers, the central stabilizing force in spiritual practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

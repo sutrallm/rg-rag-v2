@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>憤怒</target_entity>
+    <relationship_description>憤怒是三毒之一，源於執著，需借由禪定與正念平息。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

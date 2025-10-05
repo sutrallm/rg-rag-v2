@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>聖者的存在本身就是涅槃的當下呈現，體現了無所執著的究竟安穩。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Wuwo is cultivated and confirmed through continuous Zhengnian, as mindfulness exposes the transient, conditioned nature of all phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

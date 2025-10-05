@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saintly qualities arise from the cultivation of true wisdom and moral purity, leading to the extinction of烦恼 (afflictions).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

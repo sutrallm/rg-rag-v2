@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>SHENGGZHE</target_entity>
+    <relationship_description>Shengzhe (saints or enlightened beings) are those who have attained jietuo (liberation), embodying its qualities of peace, non-attachment, and transcendence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

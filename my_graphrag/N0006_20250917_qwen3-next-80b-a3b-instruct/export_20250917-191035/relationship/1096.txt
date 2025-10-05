@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU XING TO JIE TUO</source_entity>
+    <target_entity>HUI</target_entity>
+    <relationship_description>The path of cultivation to liberation culminates in wisdom, which severs the root of ignorance and leads to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

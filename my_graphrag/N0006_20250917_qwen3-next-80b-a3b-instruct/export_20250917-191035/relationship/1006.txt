@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ROOT_OF_SUFFERING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Greed is a primary expression of the root of suffering—attachment to “me” and “mine.”</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

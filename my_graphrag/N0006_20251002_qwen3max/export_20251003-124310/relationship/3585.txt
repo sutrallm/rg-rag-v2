@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>无明是驱动轮回的根本原因之一，与烦恼共同导致众生在生死中不断流转。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

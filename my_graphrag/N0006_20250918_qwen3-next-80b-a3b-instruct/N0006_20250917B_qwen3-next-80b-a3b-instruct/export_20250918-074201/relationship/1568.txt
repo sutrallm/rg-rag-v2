@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Zhengnian dissolves Wuming by anchoring awareness in the present moment, preventing the mind from constructing deluded narratives of past and future.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

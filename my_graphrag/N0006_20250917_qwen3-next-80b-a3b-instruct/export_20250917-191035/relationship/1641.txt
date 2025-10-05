@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>精進</target_entity>
+    <relationship_description>聖者必具足精進，因其持續修習、不放逸的態度，方能斷盡煩惱，成就聖果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

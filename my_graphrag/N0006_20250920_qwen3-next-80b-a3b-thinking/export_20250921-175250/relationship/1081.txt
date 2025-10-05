@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>DESIRE is an object of ATTACHMENT in the Origin of Suffering Truth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

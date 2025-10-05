@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHU</source_entity>
+    <target_entity>KU</target_entity>
+    <relationship_description>Transcending attachment arises from recognizing that clinging to experiences leads to suffering, hence the need to observe suffering’s source.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

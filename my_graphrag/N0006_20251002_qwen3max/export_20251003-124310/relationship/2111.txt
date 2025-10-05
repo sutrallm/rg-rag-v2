@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>煩惱</target_entity>
+    <relationship_description>不放逸能防護煩惱趁機生起，是對治煩惱、防止墮入輪迴的關鍵修行態度。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

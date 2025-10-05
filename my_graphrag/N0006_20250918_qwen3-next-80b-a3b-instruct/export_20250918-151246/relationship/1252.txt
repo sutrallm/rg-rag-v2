@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXERTION</source_entity>
+    <target_entity>REINCARNATION_CYCLES</target_entity>
+    <relationship_description>Only through persistent exertion can one break free from the cycle of rebirth; exertion is the means of liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

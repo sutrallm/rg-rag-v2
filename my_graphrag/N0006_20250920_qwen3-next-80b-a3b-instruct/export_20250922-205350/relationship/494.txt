@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Ignorance (wuming) arises from misperceiving the Five Aggregates as self; understanding their true nature dismantles this illusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

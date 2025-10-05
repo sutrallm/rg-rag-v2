@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DETERMINATION</source_entity>
+    <target_entity>WISDOM (HUI)</target_entity>
+    <relationship_description>Non-determination is the natural state of mind that results from complete wisdom — seeing all dualities as empty and unreal.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

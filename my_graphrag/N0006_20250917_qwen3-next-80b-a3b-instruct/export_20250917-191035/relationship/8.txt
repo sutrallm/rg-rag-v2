@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENZHIDEZIYOU</source_entity>
+    <target_entity>CHAOSHIZHIXI</target_entity>
+    <relationship_description>Zhenzhideziyou (true freedom) is the result of achieving chaoszhixi—freedom from attachment to all conditions, including spiritual ones.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

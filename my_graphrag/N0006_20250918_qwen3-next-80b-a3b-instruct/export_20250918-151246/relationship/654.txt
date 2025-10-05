@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUE ZHUOZHE</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Enlightened beings embody transcendent wisdom, as they do not cling to spiritual attainments and remain equanimous regardless of conditions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

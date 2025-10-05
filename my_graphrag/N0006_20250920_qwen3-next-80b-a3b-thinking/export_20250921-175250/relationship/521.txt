@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE AGGREGATES</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Observing the true nature of the five aggregates allows one to attain liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

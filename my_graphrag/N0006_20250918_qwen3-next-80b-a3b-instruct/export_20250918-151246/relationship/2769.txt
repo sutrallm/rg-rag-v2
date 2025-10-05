@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINJIN</source_entity>
+    <target_entity>SCATTEREDNESS</target_entity>
+    <relationship_description>Jinjin opposes mental scattering by reinforcing continuous attention and vigilance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

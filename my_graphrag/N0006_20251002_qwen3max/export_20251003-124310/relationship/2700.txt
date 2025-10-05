@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>修行者通过观照身心现象的无常性，断除对境界的执著，生起平等舍心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

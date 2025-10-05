@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_ONE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>A Noble One is free from hatred, having transformed aversion through equanimity and insight.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

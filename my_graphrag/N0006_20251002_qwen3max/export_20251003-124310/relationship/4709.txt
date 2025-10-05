@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>不放逸被明确指出为“解脱的根本”，是修行者避开生死轮回、迈向解脱的基础条件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

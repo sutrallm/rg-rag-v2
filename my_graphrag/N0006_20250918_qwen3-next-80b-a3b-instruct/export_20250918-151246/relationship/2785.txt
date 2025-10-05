@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU_MOBIAO</source_entity>
+    <target_entity>CHIZHE</target_entity>
+    <relationship_description>The ultimate goal of meditation (Chanxiu mubiao) is precisely to realize Chize — non-attachment born from seeing the true nature of phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

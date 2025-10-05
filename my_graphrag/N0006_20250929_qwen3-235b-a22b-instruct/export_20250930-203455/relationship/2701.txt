@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>正念如守门人，守护心识不被贪嗔痴等烦恼侵入，是防止烦恼生起的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

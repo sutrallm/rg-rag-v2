@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>HEEDLESSNESS</target_entity>
+    <relationship_description>Practitioners overcome heedlessness through diligent and mindful practice to achieve mental stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

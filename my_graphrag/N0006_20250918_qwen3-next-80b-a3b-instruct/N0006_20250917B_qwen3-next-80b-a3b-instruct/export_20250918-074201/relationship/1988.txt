@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行包含禅定作为其重要组成部分，是在日常中训练心念集中与觉知的实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

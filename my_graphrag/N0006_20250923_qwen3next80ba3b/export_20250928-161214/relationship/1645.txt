@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY BEINGS</source_entity>
+    <target_entity>SIGNS</target_entity>
+    <relationship_description>SAINTLY BEINGS do not cling to SIGNS, seeing them as deceptive characteristics not essential for enlightenment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

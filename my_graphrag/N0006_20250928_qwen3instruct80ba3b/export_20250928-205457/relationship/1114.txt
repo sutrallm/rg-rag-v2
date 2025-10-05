@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSAra</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Jiede is the escape from samsara; liberation is defined by freedom from its cycle.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

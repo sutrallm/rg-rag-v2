@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>嗔</target_entity>
+    <relationship_description>聖者已超越嗔恚，對內外境皆不起對立反應。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

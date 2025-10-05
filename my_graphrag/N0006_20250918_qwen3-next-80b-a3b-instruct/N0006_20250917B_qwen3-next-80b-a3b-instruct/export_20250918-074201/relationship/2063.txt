@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVERSION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Aversion, like greed, binds the mind to suffering and must be relinquished to reach liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

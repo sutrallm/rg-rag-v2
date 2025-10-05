@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FA</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Fa (the Dharma) includes Jie as one of its essential components of the path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

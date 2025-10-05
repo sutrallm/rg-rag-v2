@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>喜</source_entity>
+    <target_entity>二禅</target_entity>
+    <relationship_description>喜存在于二禅，是二禅三支之一，在第三禅时被舍离。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

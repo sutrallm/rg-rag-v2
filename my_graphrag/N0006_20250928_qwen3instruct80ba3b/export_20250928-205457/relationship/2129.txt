@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIAOYU</source_entity>
+    <target_entity>WUZHANG</target_entity>
+    <relationship_description>Chiaoyu leads directly to Wu Zhang — true wisdom realizes that all phenomena, even spiritual experiences, must not be clung to.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

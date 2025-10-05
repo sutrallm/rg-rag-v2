@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉知</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>觉知是修行者时刻保持对身心变化的观察，不被外境牵引的核心实践。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

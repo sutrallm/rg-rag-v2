@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SAMSAKA</target_entity>
+    <relationship_description>Enlightened beings have broken free from the cycle of samsara by eliminating craving and delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

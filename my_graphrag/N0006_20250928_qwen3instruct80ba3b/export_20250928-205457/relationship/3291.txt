@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>JIEXIANG</target_entity>
+    <relationship_description>Jie is a foundational element along the path to jiexiang. While not sufficient alone, it is indispensable for progressing toward liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

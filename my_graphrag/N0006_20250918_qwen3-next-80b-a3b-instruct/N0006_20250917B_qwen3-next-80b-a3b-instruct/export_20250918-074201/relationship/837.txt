@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JUEWUZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Juewuze (the fully awakened) posses perfected Chanding — their mind is continuously stable and undisturbed, even in the face of flourishing or declining conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

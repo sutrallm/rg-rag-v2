@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF-REFLECTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Self-reflection is the foundational practice that leads to Chanding, as observing one’s thoughts cultivates mindfulness and concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

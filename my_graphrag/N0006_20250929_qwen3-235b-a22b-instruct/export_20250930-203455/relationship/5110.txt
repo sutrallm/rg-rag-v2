@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止观</source_entity>
+    <target_entity>毗婆舍那</target_entity>
+    <relationship_description>毗婆舍那是止观中的“观”，以智慧照破无明，与止相辅相成成就解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

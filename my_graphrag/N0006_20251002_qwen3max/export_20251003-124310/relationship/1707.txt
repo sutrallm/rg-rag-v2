@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正确方法与次第</source_entity>
+    <target_entity>神通感应</target_entity>
+    <relationship_description>若仅追求神通感应，会偏离正确方法与次第，无法证得真正解脱，表明神通感应是对正确方法的背离。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

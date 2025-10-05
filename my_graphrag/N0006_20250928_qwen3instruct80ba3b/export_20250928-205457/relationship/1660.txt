@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE SENSE DOORS</source_entity>
+    <target_entity>MINDEDNESS</target_entity>
+    <relationship_description>Minenlessness is the practice used to guard the six sense doors, preventing sensory contact from triggering desire or aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

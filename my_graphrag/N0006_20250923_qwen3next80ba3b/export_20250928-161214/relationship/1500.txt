@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RIGHT PATH</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Adhering to the RIGHT PATH leads directly to LIBERATION from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

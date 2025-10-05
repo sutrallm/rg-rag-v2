@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENXIN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Shenxin (body and mind) are the very objects of wuwo contemplation — seen as impermanent aggregates without a self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

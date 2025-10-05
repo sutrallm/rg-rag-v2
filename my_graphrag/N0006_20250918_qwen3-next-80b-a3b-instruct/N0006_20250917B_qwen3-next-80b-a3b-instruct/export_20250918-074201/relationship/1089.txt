@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧直接导向解脱，唯有如实观见无常、无我，才能真正断除执着，实现解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

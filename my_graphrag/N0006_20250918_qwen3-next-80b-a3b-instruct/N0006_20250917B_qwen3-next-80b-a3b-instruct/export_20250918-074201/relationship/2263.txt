@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>NON_SELF</target_entity>
+    <relationship_description>Non-attachment is reinforced by the insight of non-self, recognizing that nothing deserves grasping because no inherent self exists in experience.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

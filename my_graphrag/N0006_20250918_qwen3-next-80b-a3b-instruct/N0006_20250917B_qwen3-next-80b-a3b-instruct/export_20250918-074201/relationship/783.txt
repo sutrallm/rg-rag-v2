@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NONSELF</source_entity>
+    <target_entity>UNATTAINABLE</target_entity>
+    <relationship_description>The realization of non-self reveals that nothing has an inherent, solid identity, therefore nothing can be truly possessed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

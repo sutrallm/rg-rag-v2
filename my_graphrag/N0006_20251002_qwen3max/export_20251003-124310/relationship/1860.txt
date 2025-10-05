@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>不放逸</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>不放逸能防止烦恼乘虚而入，避免心念堕入懈怠与散乱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

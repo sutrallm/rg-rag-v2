@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Chanding leads to wuzhi (wisdom), which allows one to see through attachments even within meditative states, preventing spiritual clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

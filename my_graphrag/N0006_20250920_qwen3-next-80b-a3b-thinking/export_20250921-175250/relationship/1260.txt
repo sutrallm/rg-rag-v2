@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIE</source_entity>
+    <target_entity>WU XIANG JIE DUO</target_entity>
+    <relationship_description>Realm states (Jing Jie) are transcended in formless liberation (Wu Xiang Jie Duo).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

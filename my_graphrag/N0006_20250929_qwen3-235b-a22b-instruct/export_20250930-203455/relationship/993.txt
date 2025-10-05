@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>诸天</target_entity>
+    <relationship_description>诸天对圣者表示恭敬赞叹，因为圣者具足清净戒行与智慧，超越轮回痛苦，成就殊胜。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

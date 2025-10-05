@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>MENTAL LIBERATION</target_entity>
+    <relationship_description>MEDITATION leads to MENTAL LIBERATION by freeing the mind from attachments and delusions.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGDAO</source_entity>
+    <target_entity>SHELI</target_entity>
+    <relationship_description>Zhongdao avoids extremes, which aligns with Sheli: not clinging to existence (attachment) or denying it (nihilism), but seeing things as they are.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>无我观通过深入观察五蕴皆空，了知“我”为因缘和合假名，是破除我执、获得自由的核心观法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

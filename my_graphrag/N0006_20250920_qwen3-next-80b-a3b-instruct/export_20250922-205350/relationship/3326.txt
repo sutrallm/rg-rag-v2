@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Deep understanding of wuchang (impermanence) is essential to attaining jiede (liberation), as it undermines attachment to all conditioned things.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

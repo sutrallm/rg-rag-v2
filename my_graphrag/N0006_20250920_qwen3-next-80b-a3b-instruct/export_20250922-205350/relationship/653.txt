@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执著</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>贪欲是执著在感官与物质层面的显现，二者同根源于对恒常与自我的妄想。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

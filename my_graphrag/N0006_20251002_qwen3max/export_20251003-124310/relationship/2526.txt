@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>佛陀</target_entity>
+    <relationship_description>正见源于佛陀所揭示的真理，佛陀是正见的源头和指引者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

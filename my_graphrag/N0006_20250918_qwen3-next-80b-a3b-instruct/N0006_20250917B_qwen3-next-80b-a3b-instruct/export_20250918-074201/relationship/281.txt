@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>观照无常是通达无我的关键路径，因一切法变动不居，故无独立恒常之“我”。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

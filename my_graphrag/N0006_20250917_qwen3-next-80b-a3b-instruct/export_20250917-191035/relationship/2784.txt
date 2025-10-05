@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Insight into reality leads directly to liberation from suffering and the cycle of saṃsāra.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

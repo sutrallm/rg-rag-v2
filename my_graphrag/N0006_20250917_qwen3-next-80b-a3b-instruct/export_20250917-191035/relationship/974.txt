@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom is the liberating insight that cuts the root of suffering and leads to ultimate freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

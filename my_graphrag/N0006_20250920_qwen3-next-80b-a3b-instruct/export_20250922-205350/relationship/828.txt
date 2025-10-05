@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Afflictions arise from mistaking the five aggregates as self; non-self contemplation directly undermines this illusion and cuts off afflictions at their root.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

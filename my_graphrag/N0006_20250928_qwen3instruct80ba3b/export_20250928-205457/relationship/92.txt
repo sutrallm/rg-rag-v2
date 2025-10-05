@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANDU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Recognizing Wuwo (non-self) directly undermines the delusion that fuels Sandu, thus extinguishing greed, hatred, and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

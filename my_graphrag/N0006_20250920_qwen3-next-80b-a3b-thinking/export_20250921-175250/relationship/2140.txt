@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>zen meditation</source_entity>
+    <target_entity>liberation</target_entity>
+    <relationship_description>Zen meditation is the core practice through which liberation from suffering is achieved.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

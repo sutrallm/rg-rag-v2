@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_PRACTICE</source_entity>
+    <target_entity>PATH_TO_LIBERATION</target_entity>
+    <relationship_description>Daily practice is how the path to liberation is enacted moment by moment in ordinary life, not just during meditation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

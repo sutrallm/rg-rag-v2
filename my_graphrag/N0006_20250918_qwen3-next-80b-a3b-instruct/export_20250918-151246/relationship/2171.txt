@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE TUO</source_entity>
+    <target_entity>FOJIAO</target_entity>
+    <relationship_description>Jietuo is the central goal of Buddhist teachings as revealed by the Buddha.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

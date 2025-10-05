@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion underlies greed, as attachment arises from misunderstanding the true nature of reality; they are mutually reinforcing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

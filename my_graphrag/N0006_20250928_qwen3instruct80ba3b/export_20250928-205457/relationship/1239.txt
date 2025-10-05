@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Saintly qualities are defined by the complete eradication of the three poisons, which are the root causes of bondage.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

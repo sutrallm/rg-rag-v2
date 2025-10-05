@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自省</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>自省是修行者必须持续实践的内在反思活动，用于检视自身是否仍被五欲、得失、“我执”所动，以修正行为、保持修行方向。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

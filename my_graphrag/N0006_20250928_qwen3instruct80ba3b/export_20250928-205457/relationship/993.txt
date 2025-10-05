@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SI XUE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the second step in the threefold training (si xue), grounded on discipline and leading toward wisdom — essential for its development.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

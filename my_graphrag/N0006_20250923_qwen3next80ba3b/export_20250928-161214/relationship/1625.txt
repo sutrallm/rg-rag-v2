@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSLATION_AND_SORTING</source_entity>
+    <target_entity>ORIGINAL_TEXT</target_entity>
+    <relationship_description>TRANSLATION_AND_SORTING operations are performed on the original text to fulfill processing requirements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>Chanding is the practical path leading to liberation; sustained mindfulness and non-attachment in meditation realize true freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

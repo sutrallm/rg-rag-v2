@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIU DAO FANGFA</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xiudao Fangfa (correct method) cultivates chanding (meditative concentration) through continuous present-moment awareness, rejecting distraction and conceptual thinking.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>止</source_entity>
+    <target_entity>观</target_entity>
+    <relationship_description>止（奢摩他）使心专注安定，是修观（毗婆舍那）的基础；观以智慧洞察实相，止观双运方能断除我执与法执。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

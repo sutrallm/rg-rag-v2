@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者是已實現解脫的修行者，其狀態體現了真正的解脫境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

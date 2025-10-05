@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INWARD_OBSERVATION</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Inward Observation directly leads to Transcendent Wisdom by revealing the true nature of mind and phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

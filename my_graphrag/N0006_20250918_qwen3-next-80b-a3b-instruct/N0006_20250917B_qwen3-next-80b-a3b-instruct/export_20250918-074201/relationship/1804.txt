@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUCHANG</source_entity>
+    <target_entity>YUANQI</target_entity>
+    <relationship_description>Wuchang (impermanence) is a direct consequence of yuanqi (dependent origination), since all conditioned things arise and pass due to causes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

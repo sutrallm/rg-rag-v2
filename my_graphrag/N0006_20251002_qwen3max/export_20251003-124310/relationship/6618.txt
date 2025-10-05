@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀照</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>觀照的內容包含無常，修行者應以觀照無常為導向。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

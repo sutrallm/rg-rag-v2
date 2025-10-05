@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI</source_entity>
+    <target_entity>REBIRTH_CYCLE</target_entity>
+    <relationship_description>Yuanqi (dependent origination) explains the causal mechanism of the rebirth cycle, with ignorance leading to craving, which leads to rebirth and suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

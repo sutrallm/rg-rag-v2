@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>ILLUSION</target_entity>
+    <relationship_description>WISDOM dispels ILLUSION by realizing the true nature of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

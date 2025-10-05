@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARD_OF_SAINTHOOD</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True saints are defined by their deep and stable chanding, which results from the eradication of greed, hatred, and delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

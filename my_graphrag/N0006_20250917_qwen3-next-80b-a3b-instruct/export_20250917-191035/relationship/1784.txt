@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>Celestial beings hold reverence for saints due to their realized wisdom and purity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

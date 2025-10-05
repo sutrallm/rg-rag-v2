@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Continuous effort is necessary to maintain and deepen chanding, preventing complacency and regression.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

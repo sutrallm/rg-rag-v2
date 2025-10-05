@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修者</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>禅修者在禅定中可能体验轻安，但被教导不应贪著此类无常境界。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

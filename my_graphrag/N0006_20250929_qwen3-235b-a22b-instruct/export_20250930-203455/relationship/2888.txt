@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>离相修行</source_entity>
+    <target_entity>坐禅</target_entity>
+    <relationship_description>离相修行不执着于坐禅的姿势，强调心念转化而非外在形式。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>DISTRACTIONS</target_entity>
+    <relationship_description>Meditation helps to avoid and manage distractions during practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

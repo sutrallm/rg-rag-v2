@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Meditation directly cultivates inner peace by calming the mind and overcoming distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

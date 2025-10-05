@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修道次第</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是修道次第的第三阶，依戒定而生，用以破除无明，证得解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SHENG JIE</target_entity>
+    <relationship_description>Chanding is a foundational practice that leads to liberation by calming the mind and reducing attachment, making it a direct path toward enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

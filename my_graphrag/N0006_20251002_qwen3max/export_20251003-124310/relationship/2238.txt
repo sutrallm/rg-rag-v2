@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三法印</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>深入体证三法印是智慧的重要内容和成果，能破除对世间现象的执著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

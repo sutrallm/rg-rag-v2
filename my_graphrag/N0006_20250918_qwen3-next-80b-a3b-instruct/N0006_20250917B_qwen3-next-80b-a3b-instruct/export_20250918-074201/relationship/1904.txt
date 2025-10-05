@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WOHUANXIANG</source_entity>
+    <target_entity>JIEFANG</target_entity>
+    <relationship_description>Wohuanxiang directly enables jiefang by dismantling the illusion of self, which is the root of all suffering and bondage.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

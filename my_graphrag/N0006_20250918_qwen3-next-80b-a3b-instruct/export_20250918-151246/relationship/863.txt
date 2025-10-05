@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGFU</source_entity>
+    <target_entity>CHAOYUE ZHUZHE</target_entity>
+    <relationship_description>Sages have transcended attachment by cultivating wisdom that sees phenomena as impermanent and ungraspable; this is a defining characteristic of their state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

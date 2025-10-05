@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PU TONG</source_entity>
+    <target_entity>JIN JIN</target_entity>
+    <relationship_description>Worldly habits (Pu Tong) are the tendencies that must be abandoned through daily diligent practice (Jin Jin) to prevent regression into suffering.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

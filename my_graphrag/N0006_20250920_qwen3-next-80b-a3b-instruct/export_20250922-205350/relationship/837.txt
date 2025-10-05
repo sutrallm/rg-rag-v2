@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The direct realization of impermanence, non-self, and nirvana through wisdom is the essential condition for achieving liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

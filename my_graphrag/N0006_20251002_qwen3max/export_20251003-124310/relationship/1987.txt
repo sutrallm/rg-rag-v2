@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>尋與伺</source_entity>
+    <target_entity>初禪</target_entity>
+    <relationship_description>尋與伺是初禪的核心心理活動，標誌其特徵。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

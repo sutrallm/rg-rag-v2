@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE</source_entity>
+    <target_entity>SHENGSI</target_entity>
+    <relationship_description>Jie initiates the path that, when completed, leads to the transcendence of birth and death.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

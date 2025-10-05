@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREEFOLD TRAINING</source_entity>
+    <target_entity>INNER DEMONS</target_entity>
+    <relationship_description>The combination of Precepts, Meditation, and Wisdom (Threefold Training) is used to subdue inner demons, as stated in "具足戒定慧者，能如狮子威猛般降伏内心诸魔".</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

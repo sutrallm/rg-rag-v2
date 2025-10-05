@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZAIZHIGUANZHANG</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zaizhiguanzhang — non-clinging wisdom — is the direct path to Niepan, as attachment to any state, even spiritual ones, prevents the full cessation of craving.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

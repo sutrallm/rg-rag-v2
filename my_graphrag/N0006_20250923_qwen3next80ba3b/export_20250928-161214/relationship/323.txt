@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TITLE</source_entity>
+    <target_entity>DIGITAL_SEQUENCE</target_entity>
+    <relationship_description>Title headings are formatted using a digital sequence pattern to ensure systematic organization and clarity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

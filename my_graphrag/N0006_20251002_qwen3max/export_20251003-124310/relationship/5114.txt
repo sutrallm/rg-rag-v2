@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>圣者已断尽烦恼，不再被贪爱与我见所缚，安住于无执着的寂静中。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

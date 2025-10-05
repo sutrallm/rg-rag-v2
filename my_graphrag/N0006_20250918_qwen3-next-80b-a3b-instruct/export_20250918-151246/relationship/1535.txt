@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARD_SAGE</source_entity>
+    <target_entity>INTERNALFreedom</target_entity>
+    <relationship_description>A Standard Sage embodies internal freedom through realized detachment and purity of mind.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

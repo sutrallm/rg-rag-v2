@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>感恩</target_entity>
+    <relationship_description>修行者应以感恩为日常心态，是其保持精进与不自满的重要心理基础。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

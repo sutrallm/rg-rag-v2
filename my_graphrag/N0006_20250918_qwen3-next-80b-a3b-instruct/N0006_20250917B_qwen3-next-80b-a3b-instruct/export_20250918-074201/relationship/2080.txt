@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jingjin supports and sustains chanding — without consistent effort, meditative concentration cannot be steady or deep enough to lead to insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

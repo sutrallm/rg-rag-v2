@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心性本淨</source_entity>
+    <target_entity>無常</target_entity>
+    <relationship_description>透過體證心性本淨，修行者能如实了知一切現象皆無常，二者為禪觀的層次關聯。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

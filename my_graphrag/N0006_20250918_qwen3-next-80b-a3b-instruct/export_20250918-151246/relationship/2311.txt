@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EFFORT</target_entity>
+    <relationship_description>Consistent effort is necessary to sustain Chan Ding practice and overcome laziness, which otherwise leads to spiritual regression.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脱</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>心解脱通过智慧获得，智慧是洞察实相、摆脱烦恼的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

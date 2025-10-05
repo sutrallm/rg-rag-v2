@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>觉悟</target_entity>
+    <relationship_description>正见引导修行者如实观察身心现象，是走向真正觉悟与自由的必要条件。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

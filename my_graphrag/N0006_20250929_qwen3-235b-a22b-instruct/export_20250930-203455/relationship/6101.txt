@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>生死轮回</source_entity>
+    <target_entity>业力</target_entity>
+    <relationship_description>生死轮回由业力驱动，众生因业力而不断经历生与死的循环。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

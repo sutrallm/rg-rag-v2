@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO</target_entity>
+    <relationship_description>Chanding is deepened by transcending attachment; true concentration is not merely focus but freedom from clinging to experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

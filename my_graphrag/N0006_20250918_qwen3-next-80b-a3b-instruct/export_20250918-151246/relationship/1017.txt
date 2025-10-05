@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True practice includes cultivating chanding as its inward, mindful core — both are inseparable aspects of inner transformation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

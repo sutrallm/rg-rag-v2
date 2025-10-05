@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHINENG</source_entity>
+    <target_entity>KU</target_entity>
+    <relationship_description>Zhineneg requires the clear seeing of Ku (suffering) in all conditioned phenomena to release attachment and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

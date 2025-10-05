@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENERGETIC PRACTICE</source_entity>
+    <target_entity>REINCARNATION CYCLE</target_entity>
+    <relationship_description>Sustained energetic practice is the means by which one breaks free from the cycle of reincarnation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

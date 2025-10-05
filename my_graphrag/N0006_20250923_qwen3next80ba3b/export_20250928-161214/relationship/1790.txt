@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CULTIVATOR</source_entity>
+    <target_entity>URGENCY</target_entity>
+    <relationship_description>When cultivators become lax, they fall under the control of the death demon and remain trapped in samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

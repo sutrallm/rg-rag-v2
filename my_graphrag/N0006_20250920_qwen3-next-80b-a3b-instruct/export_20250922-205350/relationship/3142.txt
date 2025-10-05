@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON-SELF VIEW</target_entity>
+    <relationship_description>Liberation is only fully realized when the non-self view is completely internalized and no longer a conceptual belief but a lived insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

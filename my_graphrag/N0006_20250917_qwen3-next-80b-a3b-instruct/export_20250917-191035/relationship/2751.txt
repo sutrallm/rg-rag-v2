@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Zhihui (wisdom) involves the direct realization of Wu Chang (impermanence) as a fundamental truth of existence.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

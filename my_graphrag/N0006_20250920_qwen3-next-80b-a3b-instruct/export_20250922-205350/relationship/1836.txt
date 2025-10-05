@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学 (THREE TRAININGS)</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the second of the Three Trainings essential to the Buddhist path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>贪欲</target_entity>
+    <relationship_description>贪欲是烦恼的具体表现之一，与嗔恚、愚痴共同构成烦恼的根源。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

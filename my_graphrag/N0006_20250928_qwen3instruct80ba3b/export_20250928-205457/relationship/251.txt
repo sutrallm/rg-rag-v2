@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-DUAL_LIBERATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-dual liberation is the experiential realization of nirvana — not a future goal, but the immediate, unconditioned truth of present awareness.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

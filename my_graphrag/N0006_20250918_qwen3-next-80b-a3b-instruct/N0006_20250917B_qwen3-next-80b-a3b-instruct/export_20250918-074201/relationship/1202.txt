@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAO YUE ZHU ZHAI</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>The wisdom beyond attachment is a defining trait of the Saintly One, who no longer clings to any meditative state or phenomenon.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

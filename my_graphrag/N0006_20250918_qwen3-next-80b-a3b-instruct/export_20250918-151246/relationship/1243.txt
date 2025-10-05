@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>LING</target_entity>
+    <relationship_description>Zhennian (mindfulness) is the ongoing practice of observing and being present with the mind in daily life, keeping it alert and unattached.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

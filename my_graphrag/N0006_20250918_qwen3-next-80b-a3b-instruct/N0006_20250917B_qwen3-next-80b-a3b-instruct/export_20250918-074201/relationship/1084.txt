@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行的次第</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>禅定是修行次第中“专注”阶段的成果，是通向观慧的桥梁。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

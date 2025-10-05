@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOSHI ZHI HUI</target_entity>
+    <relationship_description>Chanding creates the mental stillness necessary for deep insight (chaoshi zhihui) into the true nature of phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>智慧與慈悲為解脫的雙翼，缺一不可：智慧避免執著，慈悲避免冷漠。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

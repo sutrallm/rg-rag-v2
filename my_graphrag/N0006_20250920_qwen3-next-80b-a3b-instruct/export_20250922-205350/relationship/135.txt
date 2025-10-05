@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>眾生</source_entity>
+    <target_entity>生死輪迴</target_entity>
+    <relationship_description>眾生因無明與貪愛而處於生死輪迴之中，是輪迴的主體與受苦者。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

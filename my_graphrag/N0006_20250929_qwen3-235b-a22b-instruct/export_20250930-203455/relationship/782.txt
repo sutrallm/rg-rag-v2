@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>真正的自由</target_entity>
+    <relationship_description>解脱是不被外境所转、不被内心所缚的真正自由，源于对实相的彻悟。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

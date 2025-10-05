@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FSAN</source_entity>
+    <target_entity>JIEXIAO</target_entity>
+    <relationship_description>Destroying the afflictions (greed, hatred, delusion) is essential to achieving liberation; they are the primary obstacles.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

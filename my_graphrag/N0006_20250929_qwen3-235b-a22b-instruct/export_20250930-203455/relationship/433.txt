@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净本性</source_entity>
+    <target_entity>内在光明</target_entity>
+    <relationship_description>清净本性是内在光明的本质，通过持续修行自然流露，非外求所得。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

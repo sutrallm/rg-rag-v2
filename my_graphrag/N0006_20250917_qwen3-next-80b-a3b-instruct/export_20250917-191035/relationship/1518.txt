@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU WO GUAN</source_entity>
+    <target_entity>YIN YUAN</target_entity>
+    <relationship_description>Contemplation of Non-Self is grounded in the insight of Dependent Origination, which shows that nothing exists independently.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

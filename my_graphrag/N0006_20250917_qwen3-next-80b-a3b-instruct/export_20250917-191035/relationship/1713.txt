@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>NON_ATTACHED_WISDOM</target_entity>
+    <relationship_description>Saintly qualities require the full development of non-attached wisdom to be free from attachment to成就 (achievements).</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHAO YU ZHI ZU</source_entity>
+    <target_entity>SHEN KOU YI SAN YE</target_entity>
+    <relationship_description>少欲知足是身口意三业清净的前提，确保修行中行为、言语、意念均保持纯净。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

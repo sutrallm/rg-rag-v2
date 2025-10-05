@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我無執</target_entity>
+    <relationship_description>智慧的核心內容即是體認無我與無執，二者是智慧的具體表現與結果。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

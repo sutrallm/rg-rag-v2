@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Chan Ding requires Jing Jin as its foundation; without diligent effort, one cannot achieve or sustain meditative stability.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGGHE</source_entity>
+    <target_entity>QINGJING</target_entity>
+    <relationship_description>Shenghe is characterized by Qingjing—the mind forever free from defilement and agitation, described as like empty space or a extinguished lamp.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

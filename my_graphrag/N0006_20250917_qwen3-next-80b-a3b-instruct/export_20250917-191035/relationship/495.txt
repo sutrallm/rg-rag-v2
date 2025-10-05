@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>The sage maintains unwavering mindfulness in all situations, unaffected by emotions or external stimuli.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

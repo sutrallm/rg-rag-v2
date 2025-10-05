@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The enlightened sage (shengzhe) is the embodiment of someone who has fully attained liberation through moral purity and profound insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

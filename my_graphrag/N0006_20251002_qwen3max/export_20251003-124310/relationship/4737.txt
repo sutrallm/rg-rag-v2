@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>後有</target_entity>
+    <relationship_description>當修行者達成心解脫並徹底斷盡煩惱時，即不再有後有。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

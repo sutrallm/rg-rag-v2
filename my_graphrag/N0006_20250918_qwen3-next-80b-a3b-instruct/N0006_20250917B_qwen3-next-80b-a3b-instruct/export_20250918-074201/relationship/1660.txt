@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUO DE ZHIHUI</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>The wisdom of transcending attachment arises from directly seeing the impermanence of all phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

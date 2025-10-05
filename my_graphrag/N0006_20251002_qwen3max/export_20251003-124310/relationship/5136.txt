@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>如实观察</target_entity>
+    <relationship_description>如实观察是生起超越执着智慧的直接方法；通过观察身心生灭，了知无常、苦、无我，从而破除执取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

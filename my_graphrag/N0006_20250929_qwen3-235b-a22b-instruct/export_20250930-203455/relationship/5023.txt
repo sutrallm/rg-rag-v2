@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无记</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>无记是禅修中被误认为无念的状态，实为缺乏觉照的误区。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

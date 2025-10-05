@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JIETINGHUI</target_entity>
+    <relationship_description>Chanding is one of the three pillars of Jietinghui, forming an essential part of the holistic path of Buddhist practice alongside precepts and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

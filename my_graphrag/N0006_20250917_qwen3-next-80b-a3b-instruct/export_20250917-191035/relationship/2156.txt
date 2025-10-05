@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>無明</target_entity>
+    <relationship_description>正念如燈，能照破無明的黑暗，是對治無明的直接工具。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

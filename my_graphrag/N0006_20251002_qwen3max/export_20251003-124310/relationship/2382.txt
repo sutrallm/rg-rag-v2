@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>清净戒行</target_entity>
+    <relationship_description>圣者具备清净戒行，以此为基础圆满戒定慧，实现自利利他。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

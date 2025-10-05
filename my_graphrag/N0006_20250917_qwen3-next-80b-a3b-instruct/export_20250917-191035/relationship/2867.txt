@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGXIA</source_entity>
+    <target_entity>ZHENGNIAN</target_entity>
+    <relationship_description>Letting go is made possible through mindfulness, which allows one to observe cravings and aversions without acting on them, facilitating release from attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

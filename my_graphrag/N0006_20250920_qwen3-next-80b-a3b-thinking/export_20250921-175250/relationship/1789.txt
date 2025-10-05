@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE POISONS</source_entity>
+    <target_entity>CAUSES OF SUFFERING</target_entity>
+    <relationship_description>The THREE POISONS (greed, hatred, delusion) are considered the primary CAUSES OF SUFFERING.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

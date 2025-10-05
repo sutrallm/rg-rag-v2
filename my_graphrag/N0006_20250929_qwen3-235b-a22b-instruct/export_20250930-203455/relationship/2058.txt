@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>佛陀教导智慧生起，作为三学之究竟，能彻底断除无明，导向解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

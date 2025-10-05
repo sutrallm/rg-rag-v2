@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>草</source_entity>
+    <target_entity>譬喻</target_entity>
+    <relationship_description>草在譬喻中作为缠绕的象征</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

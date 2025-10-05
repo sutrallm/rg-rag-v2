@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Realization of non-self is a key insight that constitutes profound wisdom and is essential for liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

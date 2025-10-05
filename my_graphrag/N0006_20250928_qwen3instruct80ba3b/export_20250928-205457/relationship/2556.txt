@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>智慧是通往解脫的關鍵能力，唯有如實觀照實相，才能破除無明，實現心靈的徹底自由。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>AFFLICTIONS</target_entity>
+    <relationship_description>SAMADHI helps practitioners overcome AFFLICTIONS by providing mental focus and insight, as mentioned in the phrase '修行者通过禅定摆脱...烦恼'.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>懈怠</source_entity>
+    <target_entity>生死</target_entity>
+    <relationship_description>懈怠会导致修行退失，使人落入生死的束缚之中。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

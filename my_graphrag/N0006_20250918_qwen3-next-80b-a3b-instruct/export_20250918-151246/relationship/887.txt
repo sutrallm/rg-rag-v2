@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禅定为生起智慧提供稳定的心境条件，二者相互依持，共证解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

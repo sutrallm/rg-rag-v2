@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PURIFIED MIND</source_entity>
+    <target_entity>CLEAR AND PEACEFUL MIND</target_entity>
+    <relationship_description>A purified mind naturally becomes clear and peaceful through spiritual cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

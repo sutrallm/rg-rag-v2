@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因緣所生之法</source_entity>
+    <target_entity>無常、苦、無我</target_entity>
+    <relationship_description>因緣所生之法皆具無常、苦、無我的特性，為修行者觀察與洞察的對象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

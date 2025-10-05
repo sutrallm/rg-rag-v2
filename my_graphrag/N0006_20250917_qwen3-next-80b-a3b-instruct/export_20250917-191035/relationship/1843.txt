@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENIAN</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Continuous mindfulness enables the insight into non-self; without zhennian, the illusion of “I” cannot be deconstructed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

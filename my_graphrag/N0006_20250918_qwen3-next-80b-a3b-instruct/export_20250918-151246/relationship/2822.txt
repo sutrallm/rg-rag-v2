@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WHOLESOME_ETHICAL_CONDUCT</source_entity>
+    <target_entity>INNER_SILENCE</target_entity>
+    <relationship_description>Clear ethical conduct purifies the mind, creating the conditions for inner silence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengnian is the practical, daily expression of Chanding, extending meditative focus into all activities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

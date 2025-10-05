@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Chanding is only sustained through continuous exertion and vigilance, preventing mental laxity and regression.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHA</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Buddha taught the five aggregates as a core concept to explain the non-self nature of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

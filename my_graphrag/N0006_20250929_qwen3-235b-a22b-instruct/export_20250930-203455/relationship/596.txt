@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心识</source_entity>
+    <target_entity>放逸</target_entity>
+    <relationship_description>心识易因放逸而追逐外境，需以正念与禅定净化，避免被死亡魔王掌控。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

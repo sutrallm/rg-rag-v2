@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>SHENG JIE</target_entity>
+    <relationship_description>True liberation hinges on relinquishing all attachment to “I” and “mine”; thus, non-self is the key to achieving enlightenment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

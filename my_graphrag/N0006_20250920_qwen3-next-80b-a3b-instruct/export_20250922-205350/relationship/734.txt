@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI</source_entity>
+    <target_entity>LIBERATED_MIND</target_entity>
+    <relationship_description>Sheli, especially the severance of ego-clinging, is the essential condition for the arising of a Liberated Mind.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

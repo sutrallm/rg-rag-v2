@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>ZHI HUI</target_entity>
+    <relationship_description>Saintly Practitioners possess profound wisdom, having realized the true nature of reality and eradicated all defilements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

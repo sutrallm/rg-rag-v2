@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>A Shengzhe has realized Niepan — their state of being is the embodiment of complete liberation and freedom from suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

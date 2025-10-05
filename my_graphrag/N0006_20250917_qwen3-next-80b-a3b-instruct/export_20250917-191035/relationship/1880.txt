@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Wisdom is the direct cause of nirvana; only true insight can sever the root of ignorance and lead to final liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>MEDITATIVE JOY</target_entity>
+    <relationship_description>Advanced practitioners are warned not to cling even to pleasant meditative experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

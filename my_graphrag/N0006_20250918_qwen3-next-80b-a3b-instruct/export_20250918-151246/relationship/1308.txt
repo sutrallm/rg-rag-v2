@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>智慧的本質是洞察「無我」的真相，唯有透過智慧才能看清五蘊非我。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

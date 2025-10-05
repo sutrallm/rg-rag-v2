@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_SELF</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Understanding Non-Self prevents reification of meditative states, allowing Chan Ding to become a truly liberating practice rather than an attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

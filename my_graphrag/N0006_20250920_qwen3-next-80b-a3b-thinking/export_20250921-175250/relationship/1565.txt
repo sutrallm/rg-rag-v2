@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTICE OUTCOMES</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Practice outcomes can lead to attachment when clung to.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

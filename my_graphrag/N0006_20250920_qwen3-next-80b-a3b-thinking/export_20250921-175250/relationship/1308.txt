@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX PERFECTIONS</source_entity>
+    <target_entity>PRAJNA</target_entity>
+    <relationship_description>Prajna (transcendental wisdom) completes the six perfections for enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

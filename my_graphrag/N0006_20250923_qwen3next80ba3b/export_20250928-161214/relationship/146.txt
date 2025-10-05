@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>猛虎</target_entity>
+    <relationship_description>精进被直接比喻为猛虎跃险，体现勇猛无畏的修行特质</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

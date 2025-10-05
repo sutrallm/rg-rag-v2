@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>REINCARNATION_CYCLES</target_entity>
+    <relationship_description>Clinging fuels karma and desire, which perpetuate the cycle of rebirth; clinging is the primary cause of samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSARA</source_entity>
+    <target_entity>JIEFU</target_entity>
+    <relationship_description>Jiefu (liberation) is defined by freedom from samsara (cyclic existence), making their relationship fundamental and inverse.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

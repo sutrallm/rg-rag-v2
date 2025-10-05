@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行误区</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>修行误区包括误将禅定理解为无念无想，这是对禅定本质的误解。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

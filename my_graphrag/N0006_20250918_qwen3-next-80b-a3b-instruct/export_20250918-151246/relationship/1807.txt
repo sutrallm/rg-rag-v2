@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>A Shengzhe possesses perfect Zhinen, allowing them to see reality as it is without distortion or attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

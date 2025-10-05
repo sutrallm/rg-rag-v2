@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>ZHI HUI</target_entity>
+    <relationship_description>Without persistent effort (Jing Jin), even intuitive wisdom cannot deepen or endure; diligence is the fuel for sustained insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

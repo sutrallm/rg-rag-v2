@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE SAINT</source_entity>
+    <target_entity>CHANYING</target_entity>
+    <relationship_description>The Saint exemplifies the perfected practice of chanying, having stabilized the mind and transcended all defilements through meditative discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

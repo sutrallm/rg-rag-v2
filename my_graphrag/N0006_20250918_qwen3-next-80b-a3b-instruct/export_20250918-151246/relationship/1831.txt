@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHISHI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhishi (wisdom) includes the realization of muwo (non-self), recognizing the absence of a permanent, independent self in all experiences.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

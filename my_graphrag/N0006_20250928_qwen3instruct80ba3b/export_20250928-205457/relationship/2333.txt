@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>The Saintly One has completely eradicated ignorance (Wu Ming), the root of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

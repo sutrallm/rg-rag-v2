@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANGER</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Anger disrupts meditative calm and prevents the mind from settling into chanding, serving as a major obstacle to concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

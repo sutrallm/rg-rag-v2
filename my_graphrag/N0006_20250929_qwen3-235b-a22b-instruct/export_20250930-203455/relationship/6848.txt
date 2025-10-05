@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>五盖</target_entity>
+    <relationship_description>修行者需以正念与智慧对治五盖，清除禅定障碍，使心清净无染。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

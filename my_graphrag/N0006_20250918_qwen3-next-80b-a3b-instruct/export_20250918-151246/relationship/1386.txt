@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGXIA</source_entity>
+    <target_entity>CHAOYUE ZHUOZHI</target_entity>
+    <relationship_description>Letting go (Fangxia) is the practical expression of transcendent wisdom (Chaoyue Zhuozhi); one lets go because one sees all phenomena as impermanent and devoid of self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

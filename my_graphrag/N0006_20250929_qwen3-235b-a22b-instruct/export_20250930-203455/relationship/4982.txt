@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱的次第</source_entity>
+    <target_entity>放下执着</target_entity>
+    <relationship_description>解脱次第的最终阶段是彻底断除我执，本质即是放下一切执着，二者是过程与终极目标的关系。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

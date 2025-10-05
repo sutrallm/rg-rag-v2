@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三結</source_entity>
+    <target_entity>阿羅漢果</target_entity>
+    <relationship_description>三結是初果所斷內容，而阿羅漢果需在此基礎上進一步斷除貪瞋癡；兩者為解脫道上的階段性目標。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

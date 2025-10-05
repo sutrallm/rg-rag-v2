@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAINTHOOD</source_entity>
+    <target_entity>INNER_PEACE</target_entity>
+    <relationship_description>Saints embody inner peace as a result of having eliminated all afflictions and abiding in stillness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

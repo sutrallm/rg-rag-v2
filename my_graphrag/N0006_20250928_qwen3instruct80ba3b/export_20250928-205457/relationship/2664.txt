@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHENGFA</target_entity>
+    <relationship_description>Chanding is the foundational element of Zhengfa, serving as the basis for developing wisdom and achieving liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

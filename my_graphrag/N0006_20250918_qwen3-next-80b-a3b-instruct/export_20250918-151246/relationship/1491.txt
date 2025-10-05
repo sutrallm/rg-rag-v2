@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAZINESS</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Laziness prevents spiritual progress, making it easier for beings to remain entangled in samsara.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

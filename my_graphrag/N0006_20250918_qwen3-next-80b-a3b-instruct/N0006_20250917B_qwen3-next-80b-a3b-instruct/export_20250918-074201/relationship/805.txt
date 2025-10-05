@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Saints embody wisdom, as they have transcended craving and aversion through correct insight into the nature of reality.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

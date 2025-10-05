@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無常</source_entity>
+    <target_entity>執取</target_entity>
+    <relationship_description>觀照無常是破除執取的關鍵：了知一切現象剎那變異、無可執取，貪愛與執著便自然止息。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

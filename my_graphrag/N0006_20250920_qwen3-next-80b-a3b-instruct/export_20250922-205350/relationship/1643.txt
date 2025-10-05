@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>真实智慧</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者即具足真实智慧的人，此智慧使之断尽烦恼，超越轮回，成为典范。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

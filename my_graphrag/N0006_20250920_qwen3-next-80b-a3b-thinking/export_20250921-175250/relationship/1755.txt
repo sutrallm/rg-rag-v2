@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONER</source_entity>
+    <target_entity>BEINGS</target_entity>
+    <relationship_description>Practitioners practice non-harming toward all sentient beings as part of compassion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

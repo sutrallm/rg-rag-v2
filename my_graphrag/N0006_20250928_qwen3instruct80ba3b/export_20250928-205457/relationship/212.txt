@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Shengzhe (sages) are beings who have perfected chanding, along with jie and zhihui, and dwell in unshakable calm and clarity.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

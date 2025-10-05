@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>般若智慧</target_entity>
+    <relationship_description>般若智慧的圓滿是解脫的最終實現，當分別斷盡，真如朗現，即得真解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

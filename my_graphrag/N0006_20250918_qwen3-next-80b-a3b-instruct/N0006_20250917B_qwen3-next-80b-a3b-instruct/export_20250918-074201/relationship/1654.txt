@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YIQIEFA</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chaoshi is the insight applied precisely to yiqiefa—seeing all experiences as transient and non-substantial, thus freeing the mind from clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

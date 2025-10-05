@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>实相</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>彻见实相（无常、无我、空）是获得解脱的决定性认知，二者直接相关。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

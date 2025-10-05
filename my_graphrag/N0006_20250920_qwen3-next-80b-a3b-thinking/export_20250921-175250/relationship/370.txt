@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>REALITY</target_entity>
+    <relationship_description>MEDITATION enables practitioners to perceive the reality of impermanent phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

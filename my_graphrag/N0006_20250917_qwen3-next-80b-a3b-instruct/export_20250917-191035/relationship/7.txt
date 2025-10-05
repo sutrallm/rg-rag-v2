@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIXUXIULI</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Chixuxiuli (continuous practice) is the expression of jingjin in daily life; without persistent effort, wisdom and serenity cannot mature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

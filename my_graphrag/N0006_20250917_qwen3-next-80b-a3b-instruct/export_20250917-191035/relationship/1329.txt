@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Wisdom dissolves greed by revealing the impermanent and selfless nature of all phenomena, which undermines the basis for craving and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

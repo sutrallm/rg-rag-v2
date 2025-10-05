@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGHUI</source_entity>
+    <target_entity>FANGXIA</target_entity>
+    <relationship_description>Shenghui—the realization of impermanence, non-self, and suffering—directly leads to the ability to truly let go (fangxia) of all attachments.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

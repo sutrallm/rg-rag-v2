@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅修误区</source_entity>
+    <target_entity>轻安</target_entity>
+    <relationship_description>禅修误区包括贪着轻安，轻安若被执着则阻碍正念。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

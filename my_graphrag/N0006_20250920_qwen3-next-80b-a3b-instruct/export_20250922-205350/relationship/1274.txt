@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INWARD_OBSERVATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>All spiritual practices ultimately lead to Nirvana through Inward Observation, which discerns the root causes of suffering and extinguishes them.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

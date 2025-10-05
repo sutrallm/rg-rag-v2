@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FEELING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Feelings are characterized by pain and impermanence, leading to suffering.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

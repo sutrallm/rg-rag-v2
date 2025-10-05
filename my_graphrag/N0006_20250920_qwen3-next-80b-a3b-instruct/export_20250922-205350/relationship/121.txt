@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>圣者</source_entity>
+    <target_entity>五欲六尘</target_entity>
+    <relationship_description>圣者不为五欲六尘所牵引，已超越外境诱惑，体现其内在圆满。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

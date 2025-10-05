@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom sees through the false satisfaction of greed, rendering it powerless by revealing the impermanent and unsatisfactory nature of desires.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>烦恼源于无明与执着，需以智慧如实观察身心现象，照破虚妄分别，从而对治与断除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

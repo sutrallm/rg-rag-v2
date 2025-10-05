@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>无我</target_entity>
+    <relationship_description>通过禅定的深入观照，修行者可亲证无我实相，这是超越自我执著的关键智慧。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

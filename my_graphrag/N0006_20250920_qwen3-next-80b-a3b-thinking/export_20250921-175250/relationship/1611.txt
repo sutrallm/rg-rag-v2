@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTS</source_entity>
+    <target_entity>CALM_STATE</target_entity>
+    <relationship_description>Saints reside in a calm state due to their cultivation of wisdom and discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

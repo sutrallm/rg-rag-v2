@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行次第</source_entity>
+    <target_entity>三学</target_entity>
+    <relationship_description>修行次第即戒定慧三学的循序渐进过程，三学是其内容结构。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

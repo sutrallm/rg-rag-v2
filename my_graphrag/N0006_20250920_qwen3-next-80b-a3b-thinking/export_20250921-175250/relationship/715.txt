@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>INNER PURITY</target_entity>
+    <relationship_description>Wisdom contributes to inner purity by illuminating delusions and cultivating insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

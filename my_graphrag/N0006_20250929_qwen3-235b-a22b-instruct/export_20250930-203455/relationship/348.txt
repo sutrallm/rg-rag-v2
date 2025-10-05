@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>慈悲</target_entity>
+    <relationship_description>修行者需实践慈悲，以智慧观照的同时不离众生、广行利他，实现智慧与慈悲的平衡。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

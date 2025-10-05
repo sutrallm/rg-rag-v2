@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者已断尽烦恼，安住于无我之境，无我是其证悟的核心特征。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

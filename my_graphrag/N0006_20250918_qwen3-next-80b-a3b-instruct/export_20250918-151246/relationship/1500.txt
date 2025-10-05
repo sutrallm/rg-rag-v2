@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>无我解脱</target_entity>
+    <relationship_description>超越执着的智慧是通往无我解脱的直接途径，唯有不执一切，才能实现究竟自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

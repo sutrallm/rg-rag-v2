@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGJIAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhengjian informs and directs the practice of chanding, ensuring that concentration is aligned with right understanding rather than becoming mere distraction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

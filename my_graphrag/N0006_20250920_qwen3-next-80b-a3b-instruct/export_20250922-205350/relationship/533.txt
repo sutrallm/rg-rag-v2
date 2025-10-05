@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUYUN</source_entity>
+    <target_entity>ZHIGUI</target_entity>
+    <relationship_description>Zhigui (wisdom) is the insight into the true nature of the wuyun—as empty, impermanent, and non-self—leading to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>定</source_entity>
+    <target_entity>慧</target_entity>
+    <relationship_description>定为慧之本，心定则智慧生起，是洞察实相、断除烦恼的基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

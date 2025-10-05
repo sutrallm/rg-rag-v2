@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWOZHENGJIAN</source_entity>
+    <target_entity>SINIANCHU</target_entity>
+    <relationship_description>Wuwo zhengjian is developed through the systematic practice of sinianchu, which trains one to observe the absence of self in all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

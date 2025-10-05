@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EXHAUSTION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Exhaustion (laziness, drowsiness) weakens sustained effort and leads to the collapse of meditative focus.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

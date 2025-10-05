@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>戒定慧三学兼修能彻底断除烦恼种子，其中包括照破无明。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

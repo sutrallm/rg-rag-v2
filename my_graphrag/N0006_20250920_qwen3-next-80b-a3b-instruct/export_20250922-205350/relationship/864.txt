@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>涅槃是解脱的终极状态与名称，二者本质同一，皆指无苦、无染、寂静自在的究竟境界。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

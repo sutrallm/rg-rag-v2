@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>数字标题</source_entity>
+    <target_entity>段落核心</target_entity>
+    <relationship_description>数字标题需准确概括段落核心内容</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

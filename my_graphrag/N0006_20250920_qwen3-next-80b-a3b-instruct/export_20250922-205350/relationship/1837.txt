@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学 (THREE TRAININGS)</source_entity>
+    <target_entity>智慧 (WISDOM)</target_entity>
+    <relationship_description>Wisdom is the third and culmination of the Three Trainings that leads to liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

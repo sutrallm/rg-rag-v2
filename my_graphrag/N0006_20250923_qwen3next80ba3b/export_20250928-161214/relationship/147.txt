@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>日</target_entity>
+    <relationship_description>智慧被比喻为太阳驱散黑暗，是核心教义中的关键象征</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

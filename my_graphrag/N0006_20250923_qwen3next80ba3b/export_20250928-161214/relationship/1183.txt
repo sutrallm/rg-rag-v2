@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONCENTRATION</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Concentration practice leads directly to inner peace and liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

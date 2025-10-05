@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自我</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>「自我」的虛妄認取是執著的基礎，修行者需洞悉「無我」以破除執著。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

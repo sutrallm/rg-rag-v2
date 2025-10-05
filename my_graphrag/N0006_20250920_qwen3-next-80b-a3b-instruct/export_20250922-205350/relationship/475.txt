@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ADVANCED PRACTITIONER ATTITUDE</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The "no-seeking" mindset is aligned with the nature of nirvana — non-craving, non-resistance — so this attitude reflects the realization of nirvana.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

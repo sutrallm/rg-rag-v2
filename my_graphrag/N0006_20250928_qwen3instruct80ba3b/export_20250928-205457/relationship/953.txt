@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉性</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>觉性是修行在日常生活中的体现，修行通过培养觉性而不断深化。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

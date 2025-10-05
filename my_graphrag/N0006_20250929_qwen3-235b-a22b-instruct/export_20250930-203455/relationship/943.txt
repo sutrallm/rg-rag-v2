@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>六根</target_entity>
+    <relationship_description>正念要求修行者守护六根，不让贪嗔痴趁虚而入，是正念实践的具体内容。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

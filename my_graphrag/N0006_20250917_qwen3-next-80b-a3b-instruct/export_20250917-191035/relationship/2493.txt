@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA_OBSERVATION</source_entity>
+    <target_entity>TRANSCENDENT_WISDOM</target_entity>
+    <relationship_description>Anatta observation is the direct meditative technique through which transcendent wisdom is cultivated and realized.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

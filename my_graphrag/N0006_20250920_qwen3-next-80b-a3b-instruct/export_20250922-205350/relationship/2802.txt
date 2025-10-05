@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDFUL_PROTECTION</source_entity>
+    <target_entity>RECKLESSNESS</target_entity>
+    <relationship_description>Mindful protection is the primary defense against recklessness, as it prevents the senses from being hijacked by deluded clinging and habitual patterns.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

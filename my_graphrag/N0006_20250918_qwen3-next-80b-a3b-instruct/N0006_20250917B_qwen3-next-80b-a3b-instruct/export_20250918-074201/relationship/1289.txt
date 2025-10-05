@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom — the direct realization of reality's true nature — is the direct cause and pathway to liberation, as it enables letting go of attachment and aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

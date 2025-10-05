@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHONGDAO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Zhongdao prescribes the balanced approach to developing Chanding—neither clinging to it as ultimate nor neglecting its cultivation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

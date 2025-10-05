@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEVS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>DEVS respect and revere SAINTS for their spiritual achievements.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

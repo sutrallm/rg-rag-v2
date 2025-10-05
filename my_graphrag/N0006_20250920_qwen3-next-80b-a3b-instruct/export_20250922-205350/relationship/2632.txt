@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>ZHENGNIAN JUECHA</target_entity>
+    <relationship_description>Mindful awareness allows one to observe the arising of suffering in the present moment and dissolve its roots through non-reactive observation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

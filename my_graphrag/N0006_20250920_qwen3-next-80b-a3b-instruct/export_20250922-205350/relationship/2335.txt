@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SPIRITUAL liberator</source_entity>
+    <target_entity>SCRUPULOUS MORALITY</target_entity>
+    <relationship_description>A spiritual liberator is defined by perfect moral conduct, which is one of the three pillars of liberation alongside concentration and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

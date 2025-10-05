@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROCESSING</source_entity>
+    <target_entity>ORIGINAL CONTENT</target_entity>
+    <relationship_description>Processing is applied to the original content as requested by the user.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

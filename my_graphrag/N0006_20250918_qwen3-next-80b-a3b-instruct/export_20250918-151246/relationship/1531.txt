@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDEDNESS</source_entity>
+    <target_entity>INTERNALFreedom</target_entity>
+    <relationship_description>Continuous mindfulness is the practice through which internal freedom is cultivated, enabling one to remain unshaken by external conditions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

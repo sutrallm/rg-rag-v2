@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JUEZHI DANGXIA</target_entity>
+    <relationship_description>Chanding (meditative concentration) is cultivated through present-moment awareness (awareness of breath, sensations, thoughts), indicating that mindfulness of the present is the method to achieve concentration.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

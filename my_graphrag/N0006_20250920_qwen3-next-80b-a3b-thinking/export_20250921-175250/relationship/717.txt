@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INNER PURITY</source_entity>
+    <target_entity>CELESTIAL BEINGS</target_entity>
+    <relationship_description>Celestial beings show respect toward those who embody inner purity and spiritual attainment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

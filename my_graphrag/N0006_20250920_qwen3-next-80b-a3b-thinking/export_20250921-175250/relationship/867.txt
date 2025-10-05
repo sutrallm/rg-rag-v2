@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMATHA AND VIPASSANA</source_entity>
+    <target_entity>TRUE NATURE</target_entity>
+    <relationship_description>Practicing SAMATHA AND VIPASSANA leads to realization of TRUE NATURE.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

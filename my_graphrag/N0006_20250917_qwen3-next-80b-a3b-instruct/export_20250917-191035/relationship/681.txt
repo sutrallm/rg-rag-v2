@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY_PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Daily mindful practice in all activities is the practical means to integrate and sustain chanding beyond formal meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

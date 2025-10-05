@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>ANATTA (NO-SELF)</target_entity>
+    <relationship_description>Constant change in the five aggregates demonstrates that no fixed, unchanging self can be found — hence, no-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

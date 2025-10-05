@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELIVERANCE</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>Deliverance is defined as freedom from samsara; they are in direct opposition—one is bondage, the other is release.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

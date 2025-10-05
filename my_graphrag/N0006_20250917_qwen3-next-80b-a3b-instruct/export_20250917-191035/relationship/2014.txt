@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者的關鍵特質是具足智慧，唯有智慧能斷盡貪瞋痴，使修行者成為聖者。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

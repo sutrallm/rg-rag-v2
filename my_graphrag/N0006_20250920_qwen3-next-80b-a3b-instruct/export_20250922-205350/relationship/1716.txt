@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHELI YIQIE ZHIZHUO</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>True liberation (sheli yiqie zhizhuo) requires not clinging even to deep meditative states (chanding), recognizing them as impermanent.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

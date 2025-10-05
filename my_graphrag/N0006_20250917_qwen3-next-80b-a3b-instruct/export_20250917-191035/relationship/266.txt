@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>BUZHIZHIE GUODONG</target_entity>
+    <relationship_description>The sage acts with pure motivation, free from attachment to results, reflecting the principle of non-attachment to outcomes.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

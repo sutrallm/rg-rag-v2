@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>我见</target_entity>
+    <relationship_description>如实观照无常可破除“常一不变之我”的错觉，是破我见的根本方法。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

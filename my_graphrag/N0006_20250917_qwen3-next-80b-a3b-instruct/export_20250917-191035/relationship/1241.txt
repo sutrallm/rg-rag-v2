@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINZI</source_entity>
+    <target_entity>JIELV</target_entity>
+    <relationship_description>Xinzi (mind cultivation) is grounded in jielv (moral discipline), which creates the ethical and mental stability needed for deeper meditative and wise practices.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

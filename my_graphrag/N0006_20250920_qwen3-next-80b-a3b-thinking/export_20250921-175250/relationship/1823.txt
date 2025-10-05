@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>USER</source_entity>
+    <target_entity>SYSTEM</target_entity>
+    <relationship_description>The USER submits the ORIGINAL DOCUMENT to the SYSTEM for translation processing.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

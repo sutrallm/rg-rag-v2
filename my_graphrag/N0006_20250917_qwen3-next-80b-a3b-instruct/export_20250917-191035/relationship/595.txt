@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STANDARD</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>The standard of ethical conduct, mental stillness, and wisdom describes the embodied state of one who has achieved liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

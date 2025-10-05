@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>境界</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>智慧使修行者不执著高低境界，从而不被禅修体验所缚。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

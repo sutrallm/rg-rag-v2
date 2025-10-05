@@ -1,0 +1,7 @@
+**People and Locations Removal Requirements**  
+
+Text processing guidelines mandate the complete deletion of all personal information, including names, and all geographical references from original content. These requirements are strictly enforced to comply with specified data handling protocols.  
+
+All Personal Information Must Be Deleted: Names and personal details of human individuals in the original text must be removed during processing as per instructions.  
+
+All Geographical References Must Be Omitted: All location-based mentions, settings, and references in the text must be excluded during text processing.

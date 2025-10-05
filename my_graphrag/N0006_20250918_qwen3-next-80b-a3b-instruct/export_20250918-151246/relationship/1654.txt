@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHÁNDING</source_entity>
+    <target_entity>JĪNGJÌN</target_entity>
+    <relationship_description>Chanding requires consistent effort (jingjin) to maintain focus and overcome distractions, making diligence foundational to achieving meditative absorption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

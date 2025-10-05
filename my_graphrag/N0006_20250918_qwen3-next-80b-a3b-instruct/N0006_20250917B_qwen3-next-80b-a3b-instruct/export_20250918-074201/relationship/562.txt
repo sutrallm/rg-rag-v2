@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>戒行</target_entity>
+    <relationship_description>聖者具足清淨戒行，這是其成就的基礎特質，顯示道德修行與解脫密不可分。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SIX ROOTS PURITY</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>SIX ROOTS PURITY prevents the arising of DELUSION during sensory experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

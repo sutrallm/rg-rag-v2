@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_LIBERATION</source_entity>
+    <target_entity>EFFORTFUL_PRACTICE</target_entity>
+    <relationship_description>Effortful practice is required throughout all three stages of the liberation path to maintain progress and avoid regression.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

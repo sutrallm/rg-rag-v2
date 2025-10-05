@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅相</source_entity>
+    <target_entity>超越执着的智慧</target_entity>
+    <relationship_description>超越执着的智慧教导修行者不执取禅相，防止修行堕入新的执著。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

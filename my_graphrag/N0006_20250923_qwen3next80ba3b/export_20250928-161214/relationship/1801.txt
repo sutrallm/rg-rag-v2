@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FOUR MINDFULNESSES</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>Dharmas (phenomena) are observed continuously as the fourth object of mindfulness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

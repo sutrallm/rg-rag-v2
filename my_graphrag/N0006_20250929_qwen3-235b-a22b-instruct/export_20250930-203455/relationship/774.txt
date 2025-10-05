@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>无我观破除我执，是契入解脱的关键，解脱源于对无我的彻悟。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

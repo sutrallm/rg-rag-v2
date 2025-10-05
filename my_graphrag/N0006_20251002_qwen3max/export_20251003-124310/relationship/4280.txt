@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>调伏自心</source_entity>
+    <target_entity>修行者</target_entity>
+    <relationship_description>修行者应以调伏自心为要务，无论修习何种法门，最终皆归于此。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

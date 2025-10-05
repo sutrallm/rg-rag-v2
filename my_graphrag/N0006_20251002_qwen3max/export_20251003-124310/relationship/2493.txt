@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>修行者通过实践戒定慧、不放逸、观照无常等方法，稳步迈向解脱。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

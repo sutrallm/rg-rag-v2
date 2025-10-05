@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNUO</source_entity>
+    <target_entity>JIEXI</target_entity>
+    <relationship_description>Jiexi (liberation) is defined by the complete eradication of fannuo (afflictions), making their cessation the hallmark of true freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

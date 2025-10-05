@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CAUSE OF SUFFERING</source_entity>
+    <target_entity>SAMSARA</target_entity>
+    <relationship_description>CAUSE OF SUFFERING drives the cycle of SAMSARA.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

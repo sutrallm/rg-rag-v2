@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>业力</source_entity>
+    <target_entity>轮回</target_entity>
+    <relationship_description>业力是众生在轮回中流转的因果力量，唯有断除烦恼才能不再受其牵引，获得解脱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

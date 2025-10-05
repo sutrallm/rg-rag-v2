@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>DHARMA EXPLANATION</target_entity>
+    <relationship_description>Dharma explanations are derived from analogies during the processing of the original text.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

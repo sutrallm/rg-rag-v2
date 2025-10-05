@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DASH_LINE</source_entity>
+    <target_entity>ORIGINAL_CONTENT</target_entity>
+    <relationship_description>The dash line marks the position where the original content should be located but is currently empty.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

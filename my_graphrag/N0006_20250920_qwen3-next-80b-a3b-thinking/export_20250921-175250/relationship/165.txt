@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDING_SUFFERING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>TRANSCENDING_SUFFERING involves going beyond the experience of SUFFERING.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

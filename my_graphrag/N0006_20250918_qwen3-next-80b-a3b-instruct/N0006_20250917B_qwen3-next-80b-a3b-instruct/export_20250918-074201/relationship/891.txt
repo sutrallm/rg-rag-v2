@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY QUALITIES</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Saintly beings have completely overcome greed; it is absent in their cognitive and emotional makeup.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

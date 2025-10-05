@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>放逸是禪定的直接對立面，禪定的功能即是對治放逸所導致的散亂與煩惱。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

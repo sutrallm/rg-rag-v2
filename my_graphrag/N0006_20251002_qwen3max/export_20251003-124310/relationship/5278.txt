@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>渴愛</target_entity>
+    <relationship_description>智慧能徹知渴愛為苦之根源，並斷除渴愛及其潛伏習氣。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

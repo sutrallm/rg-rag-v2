@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Liberation arises precisely through the cessation of clinging—removing the root cause of all suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

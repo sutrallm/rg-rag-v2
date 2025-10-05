@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EFFORTFUL PRACTICE</target_entity>
+    <relationship_description>Effortful Practice is necessary to truly master Chanding and avoid wasting life on delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

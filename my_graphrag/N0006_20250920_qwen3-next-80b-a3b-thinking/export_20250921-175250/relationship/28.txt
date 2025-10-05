@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Observance of PRECEPTS creates conditions for WISDOM to arise by cultivating moral clarity and discipline.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

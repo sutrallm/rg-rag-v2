@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Wuzhui deepens with the realization of Wuwo (non-self), as understanding the absence of a fixed self dismantles ego-based clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

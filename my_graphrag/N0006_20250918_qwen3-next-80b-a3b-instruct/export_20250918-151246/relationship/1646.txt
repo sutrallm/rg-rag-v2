@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE</source_entity>
+    <target_entity>NO_Self</target_entity>
+    <relationship_description>Understanding impermanence leads directly to the insight of no-self, as nothing can be claimed as a permanent, independent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

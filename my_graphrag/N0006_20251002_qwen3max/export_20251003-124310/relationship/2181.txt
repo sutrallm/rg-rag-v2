@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪欲</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>贪欲会动摇内心安稳，障碍禅定成就；禅定需远离贪欲等烦恼干扰。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QING XING</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Qing Xing is the practice of true Chan Ding—mindfulness in the present moment is the essence of meditative concentration.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

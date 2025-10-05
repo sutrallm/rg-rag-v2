@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ULTIMATE_GOAL_OF_PRACTICE</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>The ultimate goal is the cessation of suffering, achieved by dismantling its causes through mindfulness, wisdom, and moral discipline.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

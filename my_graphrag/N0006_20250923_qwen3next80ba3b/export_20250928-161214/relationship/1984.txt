@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>TAMED MIND</target_entity>
+    <relationship_description>Sages cultivate a tamed mind through disciplined practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

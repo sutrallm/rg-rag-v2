@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WUYU</target_entity>
+    <relationship_description>Sages are not tainted by the five desires, which they have transcended through wisdom and practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

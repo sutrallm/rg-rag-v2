@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CRAVING</source_entity>
+    <target_entity>FORMS OF EXISTENCE</target_entity>
+    <relationship_description>FORMS OF EXISTENCE are objects of clinging tied to craving in the Origin of Suffering Truth.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

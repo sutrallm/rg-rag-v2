@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RECKLESSNESS</source_entity>
+    <target_entity>PRACTITIONERS</target_entity>
+    <relationship_description>RECKLESSNESS impedes PRACTITIONERS' spiritual progress by fostering negligence and distraction.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

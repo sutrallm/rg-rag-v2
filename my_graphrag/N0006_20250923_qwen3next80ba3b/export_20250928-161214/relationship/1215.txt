@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>DIALOGUE</target_entity>
+    <relationship_description>The original text contains dialogue exchanges that must be eliminated.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

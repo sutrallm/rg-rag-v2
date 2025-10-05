@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>MORAL_DISCIPLINE</target_entity>
+    <relationship_description>Moral discipline is the foundational element of saintly qualities, providing the ethical structure necessary for spiritual progress.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>原文</source_entity>
+    <target_entity>白话版本</target_entity>
+    <relationship_description>白话版本由原文转化而来，是处理后的输出形式。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

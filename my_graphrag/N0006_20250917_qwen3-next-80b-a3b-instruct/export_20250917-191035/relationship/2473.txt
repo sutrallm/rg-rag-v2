@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>RICHIANG</source_entity>
+    <target_entity>XINGXIU</target_entity>
+    <relationship_description>Richiang (daily mindfulness) defines the nature of Xingxiu (true practice) — awakening occurs not in retreats but in the ordinary moments of life.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

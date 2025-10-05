@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者是已趋向或成就解脱者，其心如虚空，无所住而生其心，是解脱境界的体现。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

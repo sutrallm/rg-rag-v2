@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEPENDENT_ORIGINATION</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Understanding dependent origination leads directly to the realization of non-self, as all phenomena are conditionally arisen and lack independent identity.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

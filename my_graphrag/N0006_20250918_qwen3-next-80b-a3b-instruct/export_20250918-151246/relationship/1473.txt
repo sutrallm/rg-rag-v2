@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>ZHENGJIAN</target_entity>
+    <relationship_description>The Shengzhe possesses and lives by zhengjian (right view), which underpins their moral purity and insight into reality, defining their enlightened nature.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

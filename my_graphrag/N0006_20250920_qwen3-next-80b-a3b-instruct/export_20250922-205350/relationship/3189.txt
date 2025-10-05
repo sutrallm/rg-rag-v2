@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Wisdom directly leads to Nirvana by realizing the true nature of existence and extinguishing craving and clinging.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

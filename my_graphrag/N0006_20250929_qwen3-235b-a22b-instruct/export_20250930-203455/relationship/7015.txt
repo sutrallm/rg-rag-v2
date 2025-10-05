@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉与自省</source_entity>
+    <target_entity>逆境</target_entity>
+    <relationship_description>修行者需自省在逆境中是否退转，以保持警觉。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

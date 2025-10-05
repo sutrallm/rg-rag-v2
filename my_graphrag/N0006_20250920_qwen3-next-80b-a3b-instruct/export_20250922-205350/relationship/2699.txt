@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>寂静</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>真正的寂静非外在无声，而是内心不起执着，这种状态是智慧的体现，使心不被境界扰动，从而如实知见。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

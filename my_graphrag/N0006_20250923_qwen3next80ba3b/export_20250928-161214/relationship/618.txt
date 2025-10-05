@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>QUESTION</source_entity>
+    <target_entity>REQUIREMENTS</target_entity>
+    <relationship_description>The current query includes user requirements for the desired output.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

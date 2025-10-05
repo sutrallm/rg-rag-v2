@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>THREE POISONS</target_entity>
+    <relationship_description>Misconceptions of reality constitute one of the three poisons.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

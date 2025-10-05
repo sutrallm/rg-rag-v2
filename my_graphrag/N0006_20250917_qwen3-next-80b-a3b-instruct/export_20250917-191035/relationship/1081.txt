@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>YEH LIU</target_entity>
+    <relationship_description>A Sage has transcended the cycle of karmic rebirth through wisdom and purification.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

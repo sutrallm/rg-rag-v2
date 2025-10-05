@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我见</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>我见源于误认五蕴为“我”或“我所”，断除我见需通过观照五蕴非我、不异我、不相在。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

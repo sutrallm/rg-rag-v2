@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我修行</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無我修行是達到究竟解脫的唯一途徑，唯有放下「我」的執取，才能消除生滅根源，得自在解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

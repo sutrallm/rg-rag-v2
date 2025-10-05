@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Hatred, like greed, arises from delusion — misunderstanding reality leads to aversion toward things perceived as threatening or unpleasant.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

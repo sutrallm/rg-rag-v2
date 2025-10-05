@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>自在</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>自在是因智慧而得的无碍，不被外境与内心所扰，行住坐卧安住当下，是智慧穿透幻相的体现。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

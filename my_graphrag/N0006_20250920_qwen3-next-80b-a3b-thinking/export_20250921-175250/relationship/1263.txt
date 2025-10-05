@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU XIANG JIE DUO</source_entity>
+    <target_entity>JIE DUO</target_entity>
+    <relationship_description>Formless liberation (Wu Xiang Jie Duo) does not cling to the concept of liberation (Jie Duo).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

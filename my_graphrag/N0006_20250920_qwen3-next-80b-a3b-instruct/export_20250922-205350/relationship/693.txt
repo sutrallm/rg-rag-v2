@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MINDESTFULNESS</source_entity>
+    <target_entity>KARMA</target_entity>
+    <relationship_description>Continuous mindfulness allows the practitioner to observe the arising of intentions, enabling them to choose wholesome actions and avoid generating negative karma.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

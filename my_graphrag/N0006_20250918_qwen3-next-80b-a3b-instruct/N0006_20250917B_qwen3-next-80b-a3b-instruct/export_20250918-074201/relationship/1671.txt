@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUXIU ZHI XIU</source_entity>
+    <target_entity>CHAOYUE ZHIZHUO DE ZHIHUI</target_entity>
+    <relationship_description>Non-striving practice is the natural outcome of transcendent wisdom — when one no longer clings to goals, mind naturally rests in clarity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

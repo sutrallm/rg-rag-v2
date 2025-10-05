@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO</source_entity>
+    <target_entity>YUANHE</target_entity>
+    <relationship_description>Jietuo involves realizing that all existence arises from Yuanhe (dependent origination), leading to the insight that no independent self exists to be reborn.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

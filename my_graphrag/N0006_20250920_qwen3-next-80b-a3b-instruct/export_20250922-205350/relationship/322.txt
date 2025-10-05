@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>持續正念觀照能自然淡化煩惱，促使智慧生起，是智慧培養的日常途徑。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

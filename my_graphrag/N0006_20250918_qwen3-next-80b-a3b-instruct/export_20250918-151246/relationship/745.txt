@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAY-TO-DAY PRACTICE</source_entity>
+    <target_entity>MINDFULNESS</target_entity>
+    <relationship_description>Day-to-day practice manifests mindfulness in ordinary activities, integrating meditation into daily life as a continuous discipline.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

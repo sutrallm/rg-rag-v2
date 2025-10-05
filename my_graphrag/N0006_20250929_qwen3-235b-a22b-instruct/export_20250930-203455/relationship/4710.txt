@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪爱与恐惧</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>贪爱与恐惧是无我观所要破除的心理反应，无我观令心不随境转，从而远离二者。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

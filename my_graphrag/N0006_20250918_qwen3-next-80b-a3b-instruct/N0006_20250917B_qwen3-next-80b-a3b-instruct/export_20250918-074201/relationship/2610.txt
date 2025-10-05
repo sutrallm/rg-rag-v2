@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼的根源</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>Attachment to "I" and "mine" is the fundamental cause that perpetuates the cycle of birth and death; the root directly fuels the cycle.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

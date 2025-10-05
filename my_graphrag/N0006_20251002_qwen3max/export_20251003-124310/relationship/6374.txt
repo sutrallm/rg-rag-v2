@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因缘和合</source_entity>
+    <target_entity>无常</target_entity>
+    <relationship_description>因缘和合的现象必然生灭变化，故无常是因缘和合的必然结果，二者共同揭示诸法本质。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>贪嗔痴</source_entity>
+    <target_entity>心解脱</target_entity>
+    <relationship_description>心解脱的定义即为断尽贪嗔痴，三者是解脱所要消除的根本障碍。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

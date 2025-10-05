@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL CONDUCT</source_entity>
+    <target_entity>INNER STILLNESS</target_entity>
+    <relationship_description>Clear ethical conduct supports the cultivation of inner stillness by reducing mental agitation caused by unwholesome actions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

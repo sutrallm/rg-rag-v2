@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>淨戒</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>淨戒為禪定奠定道德基礎，斷除惡業令心安穩，使修習禪定更易成就。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

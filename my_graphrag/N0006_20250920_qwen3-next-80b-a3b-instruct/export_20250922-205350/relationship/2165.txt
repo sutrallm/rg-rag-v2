@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>感受</source_entity>
+    <target_entity>正念觉知</target_entity>
+    <relationship_description>正念觉知要求觉察感受的生灭变迁，以破除对乐受的执取与对苦受的抗拒。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

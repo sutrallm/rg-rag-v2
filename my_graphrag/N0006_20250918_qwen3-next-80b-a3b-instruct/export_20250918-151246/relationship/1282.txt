@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Chanding helps the practitioner detach from greed by calming the mind and reducing attachment to sensory pleasures.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

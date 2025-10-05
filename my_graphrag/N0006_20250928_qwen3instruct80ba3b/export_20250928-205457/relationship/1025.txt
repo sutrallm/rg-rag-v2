@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE SKANDHAS</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>The five skandhas are the components examined in meditation to realize the absence of a permanent self; their impermanent nature proves non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

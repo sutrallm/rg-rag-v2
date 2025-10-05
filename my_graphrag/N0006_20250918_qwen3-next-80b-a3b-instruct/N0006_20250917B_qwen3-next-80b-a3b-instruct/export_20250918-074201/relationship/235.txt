@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>ENLIGHTENED BEING</target_entity>
+    <relationship_description>Enlightened beings dwell in lasting stillness, having abandoned all mental agitation and attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

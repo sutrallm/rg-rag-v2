@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>初禅</target_entity>
+    <relationship_description>初禅是禅定的第一个层次，修行者远离感官欲望与不善法后进入的状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

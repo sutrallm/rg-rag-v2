@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CLINGING</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Clinging is identified as the direct root cause of suffering, as the mind’s attachment and aversion generate dukkha.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

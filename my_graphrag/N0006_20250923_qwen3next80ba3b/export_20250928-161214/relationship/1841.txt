@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED PHENOMENA</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>All CONDITIONED PHENOMENA are characterized by IMPERMANENCE as they arise dependently.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

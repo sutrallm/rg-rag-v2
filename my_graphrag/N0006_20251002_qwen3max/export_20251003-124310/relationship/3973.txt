@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>離欲</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>當心不再追逐外境、不執著感受，便能證得無取無著的涅槃寂靜，離欲是證涅槃的前提。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

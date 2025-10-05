@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無所求的自由</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>無所求的自由被明確描述為修行的終極目標，即解脫的完整體現。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

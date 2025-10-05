@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIJIE</source_entity>
+    <target_entity>BUFANGYI</target_entity>
+    <relationship_description>Chijie structures the boundaries within which Bufangyi (non-negligence) can flourish—by restraining harmful actions, speech, and thoughts, the mind becomes clearer and more present.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

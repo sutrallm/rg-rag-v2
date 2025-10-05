@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HATRED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Delusion fuels hatred by misperceiving reality as inherently satisfying or aversive, when in fact all is impermanent and selfless.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>平衡之道</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>平衡之道体现四圣谛的实践，避免极端，如调弦般松紧适中，导向苦的止息。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

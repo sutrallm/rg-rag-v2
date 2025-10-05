@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三毒</source_entity>
+    <target_entity>輪迴</target_entity>
+    <relationship_description>三毒（貪、瞋、癡）是驅動輪迴的根本原因，持續生起無明與執取，使人不斷陷入生死循環。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

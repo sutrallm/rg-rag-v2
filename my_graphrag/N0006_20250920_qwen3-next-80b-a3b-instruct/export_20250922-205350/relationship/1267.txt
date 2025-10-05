@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Nirvana requires the complete cessation of greed, as it is one of the fundamental afflictions that must be extinguished.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

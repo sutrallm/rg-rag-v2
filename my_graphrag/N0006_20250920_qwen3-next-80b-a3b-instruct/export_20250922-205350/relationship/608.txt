@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>對「無我」的洞見是打破「我執」的關鍵，唯有認清無我，才能放下對「我」的錯認，實現解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蕴</source_entity>
+    <target_entity>苦</target_entity>
+    <relationship_description>五蕴因无常、无我而本质是苦，执着五蕴为我，便生起苦；观照五蕴如实，便息苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

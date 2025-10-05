@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>空性</source_entity>
+    <target_entity>法执</target_entity>
+    <relationship_description>体证空性能断除法执，即对“法”恒常实有的错误执着，与我执同为解脱障碍。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

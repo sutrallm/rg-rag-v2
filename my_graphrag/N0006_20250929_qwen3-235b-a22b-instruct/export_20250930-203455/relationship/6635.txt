@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>六尘</target_entity>
+    <relationship_description>真正解脱者内心不染六尘，不被外境牵引，达到自在无碍的涅槃境界。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

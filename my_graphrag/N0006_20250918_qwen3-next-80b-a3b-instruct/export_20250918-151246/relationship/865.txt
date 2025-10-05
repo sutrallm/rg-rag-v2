@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZIXING QINGJING</source_entity>
+    <target_entity>WUQIU WUDE</target_entity>
+    <relationship_description>If the mind is inherently pure, then liberation (nirvana) is not something to be obtained or created—it is the removal of delusion; hence, true freedom is "no attainment."</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

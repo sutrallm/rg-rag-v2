@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>修行包含並依賴正念，正念是修行每一步的根基。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>禅定是通向解脱的必要阶段，通过心念止息妄念、如实知见实相，最终断除烦恼、证得解脱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

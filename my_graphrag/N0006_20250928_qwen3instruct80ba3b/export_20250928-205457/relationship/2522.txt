@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HUI</source_entity>
+    <target_entity>WUZHAI</target_entity>
+    <relationship_description>Wisdom (hui) directly leads to non-attachment (wuzhai), as insight into impermanence and not-self dissolves the urge to cling to experiences, including spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

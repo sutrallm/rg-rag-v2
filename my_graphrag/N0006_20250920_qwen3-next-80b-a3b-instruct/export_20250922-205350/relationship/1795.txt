@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念觉知</source_entity>
+    <target_entity>实相</target_entity>
+    <relationship_description>正念觉知是如实观照实相的具体方法，通过当下的觉察体认诸法无常、无我。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

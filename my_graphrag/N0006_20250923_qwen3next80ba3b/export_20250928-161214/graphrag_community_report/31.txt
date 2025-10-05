@@ -1,0 +1,27 @@
+Doctrinal Content Processing Protocol  
+
+The processing protocol mandates specific actions to prepare doctrinal content. Key requirements include removing all persons and geographical locations, converting metaphors and dialogues into explicit doctrinal statements, preserving doctrinal details without alteration, restructuring titles into numbered thematic sequences, removing all poetic verses, and enforcing a standardized output format for consistency.  
+
+Person Removal  
+All persons must be entirely eliminated from the processed material.  
+
+Geographical Location Deletion  
+All geographical locations must be completely removed from the processed material.  
+
+Metaphor to Doctrinal Conversion  
+Metaphorical expressions must be transformed into direct, explicit doctrinal statements.  
+
+Dialogue to Doctrinal Transformation  
+All dialogues must be converted into clear doctrinal statements.  
+
+Doctrinal Detail Preservation  
+Every doctrinal detail must remain intact without modification or omission.  
+
+Title Numbering and Thematic Focus  
+Titles must be restructured into numbered sequences to emphasize clear thematic organization.  
+
+Poetic Verse Elimination  
+All poetic or hymnic verses at the conclusion of sections must be fully removed.  
+
+Standardized Output Structure  
+Processed material must conform to a uniform format ensuring readability and consistency.

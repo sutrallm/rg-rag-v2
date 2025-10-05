@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOGUO ZHUOZHE</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Only those who embody transcending attachment can be considered true enlightened beings, as they neither cling to nor reject meditative states or spiritual attainments.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SORROW SOURCES</target_entity>
+    <relationship_description>Wisdom observation cuts off the root causes of sorrow and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PLEASURE</source_entity>
+    <target_entity>SENSATION</target_entity>
+    <relationship_description>PLEASURE is a type of sensory experience within the aggregate of SENSATION.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

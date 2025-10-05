@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>REBIRTH CYCLE</target_entity>
+    <relationship_description>Mental afflictions sustain the endless cycle of rebirth by perpetuating suffering and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

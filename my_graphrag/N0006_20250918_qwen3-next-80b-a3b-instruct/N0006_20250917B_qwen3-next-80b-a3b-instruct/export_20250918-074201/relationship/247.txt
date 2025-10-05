@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>聖者擁有深厚的定力，能安住於清淨寂靜之中，是禪定修證的極致表現。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

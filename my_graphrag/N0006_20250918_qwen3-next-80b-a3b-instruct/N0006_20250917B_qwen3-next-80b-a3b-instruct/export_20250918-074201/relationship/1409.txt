@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>清净的戒行为禅定提供稳定的基础，防止行为散乱，助长内心宁静。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

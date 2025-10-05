@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>TRUE Liberation</target_entity>
+    <relationship_description>A saint embodies true liberation — having completely ended suffering and mental defilements, they dwell in perfect peace.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

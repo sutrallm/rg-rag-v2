@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRANSCENDENCE</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Transcendence is the process or state leading to liberation; they are synonymous in this context as the ultimate spiritual goal.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

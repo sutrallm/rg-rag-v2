@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUTH</source_entity>
+    <target_entity>SUPERNATURAL POWERS</target_entity>
+    <relationship_description>Buddhist practice seeks truth and liberation rather than the pursuit of supernatural abilities.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>对立</source_entity>
+    <target_entity>智慧观照</target_entity>
+    <relationship_description>智慧观照能超越对立，是如实照见五蕴皆空后进入无住无执境界的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

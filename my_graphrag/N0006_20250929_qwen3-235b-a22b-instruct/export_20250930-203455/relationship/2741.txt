@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>智慧是烦恼的对治力，通过观照五蕴无常、无我、空性，智慧能净化烦恼。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

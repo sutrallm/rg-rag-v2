@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>禅定是通向涅槃的重要阶段，为内观智慧提供稳定的心境基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

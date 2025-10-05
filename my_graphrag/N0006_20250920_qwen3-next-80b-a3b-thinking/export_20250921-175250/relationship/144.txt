@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DOCTRINAL_DETAILS</source_entity>
+    <target_entity>DOCTRINAL_EXPLANATIONS</target_entity>
+    <relationship_description>Doctrinal explanations retain all doctrinal details from the original text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

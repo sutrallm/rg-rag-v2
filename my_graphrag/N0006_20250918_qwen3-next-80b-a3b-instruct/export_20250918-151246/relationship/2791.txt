@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIUXIN</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>Xiuxin (daily mindfulness practice) is the method by which Fan Nao are observed and gradually weakened through non-reactive awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三學</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>禪定是三學中的核心樞紐，承上（戒）啟下（慧），是連接行為與智慧的關鍵。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

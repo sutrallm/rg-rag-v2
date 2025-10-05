@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>The shengzhe has completely eradicated hatred, one of the three root defilements that cause mental agitation and suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

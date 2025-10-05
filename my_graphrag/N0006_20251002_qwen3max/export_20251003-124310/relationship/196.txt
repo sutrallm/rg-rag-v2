@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>執取</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>執取是障礙解脫的主要因素，唯有不執取才能真正達到心的解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

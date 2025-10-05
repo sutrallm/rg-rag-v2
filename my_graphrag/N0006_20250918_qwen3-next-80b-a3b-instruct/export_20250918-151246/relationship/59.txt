@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦乐二边</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>圣者超越苦乐二边，不被感官的苦或乐所动摇，体现其内在的究竟自在与无执。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

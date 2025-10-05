@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE_FIVE_AGREGATES</source_entity>
+    <target_entity>NON-self</target_entity>
+    <relationship_description>The five aggregates are the existential components through which the illusion of self arises; insight into their nature reveals non-self.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

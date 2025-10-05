@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>A saintly being is one who has attained complete liberation; the two are inseparable in realization.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

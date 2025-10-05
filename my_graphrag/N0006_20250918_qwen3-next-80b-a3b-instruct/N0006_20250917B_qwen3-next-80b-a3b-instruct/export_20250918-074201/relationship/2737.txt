@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHENMO</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>True silence flows from inner wisdom and clarity, not from suppressing speech or thought.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

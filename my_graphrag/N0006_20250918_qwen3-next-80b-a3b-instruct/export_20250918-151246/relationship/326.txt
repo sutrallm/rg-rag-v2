@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ILLUSION</source_entity>
+    <target_entity>DESIRE</target_entity>
+    <relationship_description>Illusion gives rise to desire, as mistaken perception of reality leads beings to crave and cling to impermanent phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

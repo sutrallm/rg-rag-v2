@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHENHEN</target_entity>
+    <relationship_description>Through Chanding, horizontal emotional reactions like Chenhen (hatred) are observed without identification, diminishing their power and frequency.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

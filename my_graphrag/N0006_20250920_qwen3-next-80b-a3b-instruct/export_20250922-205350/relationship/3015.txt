@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Nirvana is defined as the state achieved when non-attachment becomes complete and all clinging ceases.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

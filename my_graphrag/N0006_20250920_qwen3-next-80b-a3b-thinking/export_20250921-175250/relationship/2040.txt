@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XING HAI</source_entity>
+    <target_entity>JIN XIANG</target_entity>
+    <relationship_description>金像是形骸的外在形态之一，体现物理身体的华美表现，但非修行关键。</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

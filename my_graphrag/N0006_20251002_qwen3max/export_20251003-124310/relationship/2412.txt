@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>执着</source_entity>
+    <target_entity>系缚</target_entity>
+    <relationship_description>心若对境界或成果有所执着，便会落入系缚，无法获得真正自在。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

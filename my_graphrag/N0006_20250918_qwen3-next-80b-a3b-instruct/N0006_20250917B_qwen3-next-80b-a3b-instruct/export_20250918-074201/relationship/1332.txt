@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>WANDERING THOUGHTS</target_entity>
+    <relationship_description>Chan Ding is practiced specifically to still wandering thoughts and inner agitation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

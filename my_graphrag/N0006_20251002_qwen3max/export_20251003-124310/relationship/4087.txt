@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>實相</target_entity>
+    <relationship_description>聖者因洞見實相而自然流露慈悲，其心態無執且安住於寂靜。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

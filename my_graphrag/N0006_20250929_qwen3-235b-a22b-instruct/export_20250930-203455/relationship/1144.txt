@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>警觉</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>警觉是不放逸的核心表现，保持清醒觉知，避免被无常所夺，是掌握禅定要领的关键。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

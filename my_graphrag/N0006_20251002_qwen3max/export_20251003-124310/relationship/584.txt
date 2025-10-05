@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>戒、定、慧三學</target_entity>
+    <relationship_description>修行者依止戒、定、慧三學次第修行，逐步斷除煩惱，最終證得解脫。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

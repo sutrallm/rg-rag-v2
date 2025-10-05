@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>不放逸</target_entity>
+    <relationship_description>不放逸能使修行者远离懈怠与烦恼，是防护烦恼生起的重要态度。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

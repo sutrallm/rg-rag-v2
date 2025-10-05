@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAN DU</source_entity>
+    <target_entity>SHENG ZHE</target_entity>
+    <relationship_description>Sheng Zhe (the enlightened) are defined by their complete eradication of the three poisons (San Du)—greed, hatred, and delusion—making this their defining characteristic.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

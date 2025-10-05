@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEFEAT_OF_DEFILEMENTS</source_entity>
+    <target_entity>TRANSCENDENCE_OF_SAMSARA</target_entity>
+    <relationship_description>The complete defeat of greed, hatred, and delusion leads directly to liberation from samsara.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

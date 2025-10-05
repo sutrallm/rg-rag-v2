@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>CHAOYUE ZHUOZHUO</target_entity>
+    <relationship_description>Zhihui, arising from observation, reveals the impermanent and selfless nature of things, which naturally leads to transcending attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

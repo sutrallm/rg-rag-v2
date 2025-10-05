@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>禪定為心的穩定狀態，而智慧則是對實相的洞察，二者相輔相成，禪定支持智慧生起，智慧深化禪定的品質。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

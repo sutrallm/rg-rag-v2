@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四圣谛</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>四圣谛的实践路径（苦、集、灭、道）最终导向涅槃，是通向解脱的必然框架。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

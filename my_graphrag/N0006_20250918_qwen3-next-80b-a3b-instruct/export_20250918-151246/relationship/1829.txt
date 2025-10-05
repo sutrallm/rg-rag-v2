@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ZHISHI</target_entity>
+    <relationship_description>Chanding provides the mental clarity necessary to develop zhishi (wisdom), and zhishi prevents attachment to chanding’s pleasant states, making the practice liberating rather than clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

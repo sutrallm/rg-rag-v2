@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>覺知</target_entity>
+    <relationship_description>修行者在禪修中清楚覺知當下身心狀態，如實觀察散亂、昏沉或掉舉等現象。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

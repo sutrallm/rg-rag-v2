@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BREAKING ATTACHMENT</source_entity>
+    <target_entity>STATE</target_entity>
+    <relationship_description>BREAKING ATTACHMENT entails relinquishing clinging to any STATE as indicated by "不执著任何境界" in the source text.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

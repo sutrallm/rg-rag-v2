@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONED ORIGINATION</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Conditioned origination explains how all phenomena—including the sense of self—arise dependently, thereby supporting the insight of non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PROCESSING</source_entity>
+    <target_entity>DHARMA EXPLANATION</target_entity>
+    <relationship_description>PROCESSING transforms the text into a direct DHARMA EXPLANATION format.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

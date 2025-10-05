@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin is the persistent effort required to maintain and deepen chanding, preventing the mind from lapsing into distraction or sloth.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

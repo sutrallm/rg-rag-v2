@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>正念是通往解脫的橋樑，每一刻的覺知直接引導修行者進入解脫的實相。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫</source_entity>
+    <target_entity>貪瞋痴</target_entity>
+    <relationship_description>解脫的實現需要斷盡貪瞋痴三毒，這三者是束縛眾生於輪迴的主因。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

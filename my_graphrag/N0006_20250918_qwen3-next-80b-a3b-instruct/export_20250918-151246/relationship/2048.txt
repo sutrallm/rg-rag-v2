@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AVERSION</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Aversion implies clinging to the desire to avoid, and both are forms of attachment that prevent mental freedom.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

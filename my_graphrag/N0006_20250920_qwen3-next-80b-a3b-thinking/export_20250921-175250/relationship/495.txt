@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>Meditation practice avoids laxity by cultivating mindful attention and diligence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

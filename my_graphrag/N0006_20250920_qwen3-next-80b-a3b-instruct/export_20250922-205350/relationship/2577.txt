@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心解脫</source_entity>
+    <target_entity>執著</target_entity>
+    <relationship_description>心解脫的本質即是斷除執著，不執取任何修行境界或果位，才能究竟自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

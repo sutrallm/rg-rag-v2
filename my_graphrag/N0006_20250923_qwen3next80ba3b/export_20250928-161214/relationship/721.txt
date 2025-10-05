@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>HEAVENLY BEINGS</source_entity>
+    <target_entity>SAINTS</target_entity>
+    <relationship_description>Heavenly beings respect and honor those who have attained saintly realizations.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>NON_ATTACHMENT</target_entity>
+    <relationship_description>Chanding leads to non-attachment by revealing the transient nature of mental states; true calm comes not from clinging to peace but from releasing attachment to all experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

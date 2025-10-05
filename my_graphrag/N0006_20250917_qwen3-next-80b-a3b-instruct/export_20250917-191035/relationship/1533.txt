@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE_OF_TIME</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>The fleeting nature of life compels one to exert effort diligently, as delay leads to wasted opportunity.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

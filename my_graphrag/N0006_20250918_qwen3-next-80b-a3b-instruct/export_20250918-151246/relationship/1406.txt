@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NO-SELVES</target_entity>
+    <relationship_description>Wisdom includes the realization of no-self, which dismantles the illusion of a fixed identity and is essential for complete liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>聖者</target_entity>
+    <relationship_description>聖者的生活體現戒定慧三學的圓滿，此三者構成其解脫與行為的基礎。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>无我是通过持续观照五蕴无常而体证的“我”本空寂的智慧，五蕴是观照无我的直接对象。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

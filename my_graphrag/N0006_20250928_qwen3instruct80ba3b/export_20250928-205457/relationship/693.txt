@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-STRIVING</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Non-striving represents the final stage of realization — true nirvana is not attained through effort but through non-clinging, making striving itself an obstacle.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

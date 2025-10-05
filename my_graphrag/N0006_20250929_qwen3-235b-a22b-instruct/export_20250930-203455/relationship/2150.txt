@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>修行终极目标是证得涅槃，即烦恼断尽后的寂静状态，超越生死。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Nirvana is the ultimate expression of non-attachment—when all clinging, especially to "I" and "mine," has ceased.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

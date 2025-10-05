@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ORIGINAL TEXT</source_entity>
+    <target_entity>TITLE_STRUCTURE</target_entity>
+    <relationship_description>Original text contains a title structure for restructuring.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

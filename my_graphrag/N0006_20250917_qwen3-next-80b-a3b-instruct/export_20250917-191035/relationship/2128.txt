@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越执着的智慧</source_entity>
+    <target_entity>无我与放下</target_entity>
+    <relationship_description>超越执着的智慧直接导致对“我”与“我所”的放下，是其内在逻辑的必然结果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

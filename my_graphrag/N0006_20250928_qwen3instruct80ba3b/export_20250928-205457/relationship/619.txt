@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRIPLE TRAINING</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Wisdom is the culmination and fruit of the triple training.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

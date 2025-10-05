@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>WANDERING_MIND</target_entity>
+    <relationship_description>Attachment fuels the wandering mind, causing it to chase after desires and cling to experiences.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

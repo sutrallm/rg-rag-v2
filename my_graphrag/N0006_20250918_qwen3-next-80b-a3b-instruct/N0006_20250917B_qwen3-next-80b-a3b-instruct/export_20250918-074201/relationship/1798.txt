@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHU</source_entity>
+    <target_entity>YUANQI</target_entity>
+    <relationship_description>Wuzhu arises from seeing all phenomena as yuanqi (dependently originated), which negates the notion of independent reality and thus reduces attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

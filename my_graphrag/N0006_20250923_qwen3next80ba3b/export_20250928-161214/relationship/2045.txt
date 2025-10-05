@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MEDITATION</source_entity>
+    <target_entity>LAXITY</target_entity>
+    <relationship_description>MEDITATION overcomes LAXITY by maintaining continuous mindfulness and vigilance in practice.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

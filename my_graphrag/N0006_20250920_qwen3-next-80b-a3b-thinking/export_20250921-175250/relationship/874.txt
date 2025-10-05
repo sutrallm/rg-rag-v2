@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WORLD PHENOMENA</source_entity>
+    <target_entity>DEW</target_entity>
+    <relationship_description>WORLD PHENOMENA are symbolized by DEW as an example of impermanence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

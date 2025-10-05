@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMADHI</source_entity>
+    <target_entity>INNER TRANQUILITY</target_entity>
+    <relationship_description>Samadhi practice directly cultivates inner tranquility.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

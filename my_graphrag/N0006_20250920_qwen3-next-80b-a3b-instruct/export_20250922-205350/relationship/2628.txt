@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHIZHUA</source_entity>
+    <target_entity>WUWU GUAN</target_entity>
+    <relationship_description>Transcending attachment arises directly from the insight of non-self; seeing all as impermanent and non-substantial dissolves clinging.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

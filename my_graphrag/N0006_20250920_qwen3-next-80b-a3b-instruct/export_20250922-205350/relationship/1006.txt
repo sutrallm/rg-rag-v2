@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>三界</target_entity>
+    <relationship_description>True 解脱 means transcending all three realms (三界); even heavenly beings within these realms remain bound, while the liberated are beyond.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

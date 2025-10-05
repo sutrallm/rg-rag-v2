@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XIULIAN</source_entity>
+    <target_entity>SHENXIN</target_entity>
+    <relationship_description>Xiulian involves the mindful observation of body and mind in every moment of daily life.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DUI ZHI FAN NAO</source_entity>
+    <target_entity>CHEN HUI</target_entity>
+    <relationship_description>Loving-kindness meditation is practiced specifically to counteract anger and aversion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>貪瞋</target_entity>
+    <relationship_description>禪定的修習能幫助修行者遠離貪與瞋等煩惱，使其內心寧靜。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Zhihui encompasses the insight of Wuwo — understanding the absence of inherent self — which is essential for uprooting attachment and achieving liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

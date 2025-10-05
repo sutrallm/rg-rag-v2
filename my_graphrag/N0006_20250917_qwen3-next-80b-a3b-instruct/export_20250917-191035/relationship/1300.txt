@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANXIU ZHONGJIE MU标</source_entity>
+    <target_entity>FANNAO</target_entity>
+    <relationship_description>The goal of meditation is to purge the mind of defilements (greed, hatred, delusion), making them the primary targets of practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

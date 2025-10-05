@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Greed arises from delusion—misunderstanding the nature of desire and the self—and reinforces ignorance.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

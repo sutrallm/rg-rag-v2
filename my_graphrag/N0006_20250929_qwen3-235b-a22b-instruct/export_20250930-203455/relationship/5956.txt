@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>平等心</target_entity>
+    <relationship_description>正念实践要求以平等心面对顺逆诸境，不被情绪牵引，是培养定慧的重要心态。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEFU</source_entity>
+    <target_entity>WUWO</target_entity>
+    <relationship_description>Jiefu (liberation) is the outcome of fully realizing wuwu (non-self); the relinquishment of the "I" concept is the final step to freedom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jiedinghui includes Chanding as its meditative component — concentration (ding) is one pillar of the threefold training.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

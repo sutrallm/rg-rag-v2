@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>WU MING</target_entity>
+    <relationship_description>The saintly person has completely uprooted ignorance (Wu Ming) and all afflictions, demonstrating its complete cessation as a hallmark of their state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

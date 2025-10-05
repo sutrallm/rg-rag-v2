@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FRENCH LANGUAGE</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>French language content qualifies as a source for original text requiring translation or adaptation.</relationship_description>
+    <relationship_strength>5</relationship_strength>
+</relationship>

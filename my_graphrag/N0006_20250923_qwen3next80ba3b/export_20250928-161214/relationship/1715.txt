@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE_OBSERVATION</source_entity>
+    <target_entity>ETERNAL_IMAGINATION</target_entity>
+    <relationship_description>Impermanence observation directly challenges the false notion of eternal existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

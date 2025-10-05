@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINT</source_entity>
+    <target_entity>REVERENCE</target_entity>
+    <relationship_description>Saints receive universal reverence from all beings for their spiritual attainments.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

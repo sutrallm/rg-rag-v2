@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRACTITIONERS</source_entity>
+    <target_entity>STRONG MAN</target_entity>
+    <relationship_description>Practitioners are exhorted to model themselves after the strong man’s focused and sustained effort.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

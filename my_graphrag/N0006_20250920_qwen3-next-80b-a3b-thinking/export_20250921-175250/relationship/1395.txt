@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wisdom enables the insight into the nature of impermanence, allowing practitioners to understand all phenomena as transient.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>XINGXIU RICAHANG</target_entity>
+    <relationship_description>Though the holy person embodies wisdom, their realization is not abstract but continuously lived through daily mindfulness practices of waking, acting, and responding to conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

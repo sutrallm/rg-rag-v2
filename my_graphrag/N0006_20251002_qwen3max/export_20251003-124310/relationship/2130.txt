@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脫者</source_entity>
+    <target_entity>天界眾生</target_entity>
+    <relationship_description>解脫者因其內在清淨與智慧圓滿，令天界眾生心生敬仰。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>调伏自心</target_entity>
+    <relationship_description>正念是调伏自心的主要工具，通过持续觉知使心柔软、专注、安定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

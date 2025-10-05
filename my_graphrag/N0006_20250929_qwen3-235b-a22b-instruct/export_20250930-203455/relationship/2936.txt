@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内观</source_entity>
+    <target_entity>无生法忍</target_entity>
+    <relationship_description>内观深化后，修行者能超越概念与分别，直契实相，最终证得无生法忍。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>WUZUO</target_entity>
+    <relationship_description>Niepan is characterized by Wuzuo: the absence of clinging or aversion, which is its defining feature.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

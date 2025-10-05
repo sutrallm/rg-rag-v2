@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三果</source_entity>
+    <target_entity>五下分结</target_entity>
+    <relationship_description>三果圣者已断尽五下分结，不再返回欲界。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Greed and hatred are dual manifestations of ignorance; one is clinging to what is liked, the other aversion to what is disliked, both rooted in delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

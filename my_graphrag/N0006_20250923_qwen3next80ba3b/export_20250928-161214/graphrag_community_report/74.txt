@@ -1,0 +1,22 @@
+**Translation and Processing Requirements: Source Content Dependencies and Processing Specifications**  
+
+**Summary**  
+Translation and processing operations cannot proceed without original source content, leading to system errors when missing. Current user queries often lack necessary text, triggering explicit error messages requiring supplementation. Processing involves specific transformations such as removing personal identities, geographical names, and stanzas while preserving specialized terms and structuring headings numerically. User queries include placeholder strings indicating where source content must be inserted, and system responses direct users to provide complete content before retrying requests. Plain language explanations depend entirely on processed original text as input.  
+
+**Source Content Essential for Translation**  
+Translation services require the presence of original content to function; requests fail when source text is absent or empty. The process fundamentally depends on this input, and any translation or processing task cannot proceed without it.  
+
+**Manual Content Removal and Preservation Rules**  
+During processing, personal identities (e.g., "Buddha" or "monk"), geographical names, and stanzas are eliminated. Metaphors are transformed into direct descriptions, specialized terms are preserved, and numerical headings structure main themes of the text.  
+
+**Supplementation Resolves Processing Failures**  
+Providing missing content resolves system errors caused by absent source material, enabling translation and processing tasks to proceed successfully. Supplementation explicitly refers to supplying the required original text for all operations.  
+
+**Query Placeholder Guides Content Input**  
+User queries contain a specific placeholder string ("原文如下：--------------") indicating where original content must be inserted. This structure defines the required location for source text within the request.  
+
+**System Errors Prompt Content Supplementation**  
+Messages explicitly state the absence of required text and instruct users to supplement complete content before resubmitting requests. These responses directly address missing source material as the cause of processing failure.  
+
+**Plain Language Explanation Relies on Source Material**  
+Creating plain language explanations depends entirely on processed original content as input. The final output format requires this foundation to meet user requirements for explanations and translation tasks.

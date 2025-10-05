@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>SPIRITUAL effort</target_entity>
+    <relationship_description>Chanding can only be fully realized through sustained spiritual effort; without diligence, meditation remains superficial.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

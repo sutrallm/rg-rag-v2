@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>INSIGHT</source_entity>
+    <target_entity>NON-ATTACHMENT</target_entity>
+    <relationship_description>Insight into impermanence and non-self naturally cultivates non-attachment, as one sees all phenomena as transient and empty of inherent existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>修行者必须具备精进品质，持续努力不懈，才能在修行道路上前进。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

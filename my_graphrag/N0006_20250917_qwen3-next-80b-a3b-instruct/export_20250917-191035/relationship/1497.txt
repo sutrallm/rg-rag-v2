@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL PURITY</source_entity>
+    <target_entity>INTELLIGENCE</target_entity>
+    <relationship_description>Ethical purity supports the development of clear intelligence, as moral discipline creates a stable foundation for insight meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

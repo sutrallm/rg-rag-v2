@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>根門</target_entity>
+    <relationship_description>聖者能善護根門，防止六根接觸外境時生起貪瞋等煩惱。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

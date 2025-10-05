@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>缘起法为无我观提供理论依据，因诸法皆依缘而生，故无独立之“我”。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

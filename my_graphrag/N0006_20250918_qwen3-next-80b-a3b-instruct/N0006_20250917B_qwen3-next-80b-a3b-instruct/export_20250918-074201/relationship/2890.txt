@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>EXERTION</target_entity>
+    <relationship_description>Exertion is necessary to develop and deepen chanding; without persistent effort, chanding cannot be stabilized or intensified.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

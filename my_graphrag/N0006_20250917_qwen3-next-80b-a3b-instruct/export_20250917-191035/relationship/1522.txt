@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FO TU</source_entity>
+    <target_entity>JI JIE</target_entity>
+    <relationship_description>Buddha taught the importance of moral discipline as the first step on the path to liberation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

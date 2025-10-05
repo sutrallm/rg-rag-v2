@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>死亡魔王</target_entity>
+    <relationship_description>放逸是死亡魔王掌控的对象，修行者通过精进可避免堕入其掌控。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

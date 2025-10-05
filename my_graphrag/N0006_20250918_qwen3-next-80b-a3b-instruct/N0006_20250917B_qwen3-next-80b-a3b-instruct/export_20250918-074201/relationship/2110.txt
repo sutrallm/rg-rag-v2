@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Liberation is the result of fully accepting and realizing the truth of impermanence, letting go of resistance and attachment to transient phenomena.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

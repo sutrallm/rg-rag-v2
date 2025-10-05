@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELUSION</source_entity>
+    <target_entity>CYCLIC EXISTENCE</target_entity>
+    <relationship_description>Delusion is the foundational ignorance that keeps beings trapped in cyclic existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

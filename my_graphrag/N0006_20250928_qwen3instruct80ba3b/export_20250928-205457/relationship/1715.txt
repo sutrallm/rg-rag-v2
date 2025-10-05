@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>心念覺察</source_entity>
+    <target_entity>形式與儀軌</target_entity>
+    <relationship_description>真正修行在於心念覺察，而非形式儀軌；若無內在覺察，儀軌僅如空瓶。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

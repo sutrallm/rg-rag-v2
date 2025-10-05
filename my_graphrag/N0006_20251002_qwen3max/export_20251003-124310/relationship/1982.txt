@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三禪</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>三禪是禪定的第三階段，進一步純化心念與感受。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

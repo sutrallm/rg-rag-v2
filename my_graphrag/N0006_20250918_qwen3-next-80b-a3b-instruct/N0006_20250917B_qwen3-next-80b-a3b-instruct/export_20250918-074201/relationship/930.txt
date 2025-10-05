@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGLER</source_entity>
+    <target_entity>YUCHI</target_entity>
+    <relationship_description>A Shengler has extinguished Yuchi (delusion), perceiving all phenomena with clear wisdom, without ignorance or misperception.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

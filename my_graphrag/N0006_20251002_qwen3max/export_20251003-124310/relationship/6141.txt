@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三學</source_entity>
+    <target_entity>內觀智慧</target_entity>
+    <relationship_description>內觀智慧對應三學中的「慧」，是三學的最終環節，能徹見真理、斷除煩惱，依賴前兩學（戒與定）的支撐。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

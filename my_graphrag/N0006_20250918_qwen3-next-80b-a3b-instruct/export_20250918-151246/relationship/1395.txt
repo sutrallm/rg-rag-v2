@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>超越執著</target_entity>
+    <relationship_description>聖者因具足智慧而能超越執著，不執取修行成就，此為其特質的核心。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

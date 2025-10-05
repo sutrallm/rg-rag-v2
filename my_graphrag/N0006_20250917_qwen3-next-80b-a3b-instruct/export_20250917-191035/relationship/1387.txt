@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>禪定是通向解脫的重要階段，透過穩定內心，使修行者能深入觀照實相，最終獲得解脫。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

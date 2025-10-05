@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内心</source_entity>
+    <target_entity>安宁</target_entity>
+    <relationship_description>内心获得稳定安宁，通过禅定实现</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

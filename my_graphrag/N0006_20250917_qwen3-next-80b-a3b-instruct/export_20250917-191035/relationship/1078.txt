@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>A Sage continuously practices diligence, which is the lifelong quality leading to their state of enlightenment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DEDICATION</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>Without sustained dedication, the path to Nirvana cannot be completed.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

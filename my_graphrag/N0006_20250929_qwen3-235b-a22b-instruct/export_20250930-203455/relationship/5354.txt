@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觉性</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>觉性现前即是涅槃寂静的当下体现，二者本质相同，无需外求或等待来生。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

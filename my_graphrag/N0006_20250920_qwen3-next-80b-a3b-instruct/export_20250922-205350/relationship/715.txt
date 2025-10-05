@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN DING</source_entity>
+    <target_entity>NON_ATTACHED_PRACTICE</target_entity>
+    <relationship_description>True Chan Ding transcends attachment to meditative states and the idea of "me practicing," aligning with non-dual, non-efforting awareness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

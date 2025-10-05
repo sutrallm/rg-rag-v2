@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>VIRTUE</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Right conduct (virtue) creates the ethical and mental stability necessary for deep meditation to arise.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

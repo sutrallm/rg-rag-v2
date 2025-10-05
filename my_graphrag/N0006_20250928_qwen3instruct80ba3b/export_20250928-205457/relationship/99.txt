@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>禪觀</target_entity>
+    <relationship_description>禪定與禪觀相輔相成：禪定是安定心識，禪觀是清明覺察，二者共同構成修習的核心。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

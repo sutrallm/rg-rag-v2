@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU CHANG</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>Wu Chang is the observation of change in phenomena, which leads to the deeper realization of Wu Wo—since nothing is permanent, nothing can be a stable self.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

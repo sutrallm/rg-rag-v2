@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANNAO</source_entity>
+    <target_entity>ZHIHUI</target_entity>
+    <relationship_description>Zhihui is the means to uproot Fannao by revealing their false nature; wisdom sees through greed, hatred, and delusion as illusions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

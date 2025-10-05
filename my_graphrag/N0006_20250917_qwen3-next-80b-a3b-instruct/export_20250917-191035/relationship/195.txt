@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIE TUA</target_entity>
+    <relationship_description>The sage embodies liberation (Jietua), having broken free from samsara through inner transformation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

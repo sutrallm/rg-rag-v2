@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>愚痴</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>愚痴是无明的表现之一，二者共同构成烦恼的根本，需通过慧观破除。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

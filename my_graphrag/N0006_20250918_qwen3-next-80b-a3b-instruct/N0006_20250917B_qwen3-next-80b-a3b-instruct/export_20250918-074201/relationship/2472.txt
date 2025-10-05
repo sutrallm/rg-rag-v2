@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIRVANA</source_entity>
+    <target_entity>SELF</target_entity>
+    <relationship_description>Nirvana is the state where the illusion of self has been fully extinguished, leaving no trace of egoic identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

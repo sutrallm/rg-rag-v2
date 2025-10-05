@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>具足戒定慧三学的修行者已超越生死苦海。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

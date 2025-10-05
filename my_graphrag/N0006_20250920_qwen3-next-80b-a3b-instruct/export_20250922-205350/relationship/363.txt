@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JIEME</target_entity>
+    <relationship_description>Saintly beings (shengzhe) embody perfected moral discipline (jieme) as a natural expression of their awakened state.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

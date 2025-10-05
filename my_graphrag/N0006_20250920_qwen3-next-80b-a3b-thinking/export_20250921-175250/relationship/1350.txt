@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FINAL_LIBERATION</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Final liberation eliminates all suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

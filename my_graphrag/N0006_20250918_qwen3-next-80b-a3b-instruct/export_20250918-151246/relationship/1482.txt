@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Greedy attachment and aversive hatred are two sides of the same coin of mental disturbance—both arise from ignorance and oppose inner peace.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SELF_SUFFICIENCY_IN_SPIRIT</source_entity>
+    <target_entity>INNER_SILENCE</target_entity>
+    <relationship_description>A spiritually self-sufficient mind naturally abides in inner silence, unshaken by external praise or blame.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

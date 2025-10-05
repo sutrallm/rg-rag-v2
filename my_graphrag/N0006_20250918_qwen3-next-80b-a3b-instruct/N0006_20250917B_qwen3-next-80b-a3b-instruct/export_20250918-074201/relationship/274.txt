@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE_DING_HUI</source_entity>
+    <target_entity>JIE</target_entity>
+    <relationship_description>Jie (Ethics) is one of the three components of the Jie-Ding-Hui triad, essential for holistic spiritual development.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

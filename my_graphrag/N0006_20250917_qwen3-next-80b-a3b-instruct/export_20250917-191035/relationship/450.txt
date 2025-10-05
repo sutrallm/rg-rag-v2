@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>TAN AI</target_entity>
+    <relationship_description>Wu Ming (ignorance) is the root cause that gives rise to Tan Ai (craving), as misunderstanding reality leads to clinging to impermanent objects as sources of happiness.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

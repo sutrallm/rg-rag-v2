@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>智慧是直接导向解脱的关键能力，唯有如实了知无常、无我、空性，才能断除根本错觉，获得真解脱。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

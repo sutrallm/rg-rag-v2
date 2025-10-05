@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>XINBUQIJINGZHUAN</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Xin bu qi jing zhuan (mind not swayed by conditions) is the experiential manifestation of perfected Chanding, where mental stillness is unshaken by outer circumstances.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

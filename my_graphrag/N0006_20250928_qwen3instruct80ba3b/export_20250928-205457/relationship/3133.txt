@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KARMA_VIRTUE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Performance of virtuous acts (karma virtue) must be done without attachment; wisdom ensures that merit does not become a new object of clinging.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

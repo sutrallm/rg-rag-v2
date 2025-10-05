@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST SUTRAS</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>Buddhist sutras can serve as a specific type of original text requiring transformation processing.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

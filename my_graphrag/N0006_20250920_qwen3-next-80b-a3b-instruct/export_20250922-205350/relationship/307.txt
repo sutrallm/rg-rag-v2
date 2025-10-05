@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>無我空性</source_entity>
+    <target_entity>我見</target_entity>
+    <relationship_description>執「我」為修者即落我見，無我空性正是破除我見的對治。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

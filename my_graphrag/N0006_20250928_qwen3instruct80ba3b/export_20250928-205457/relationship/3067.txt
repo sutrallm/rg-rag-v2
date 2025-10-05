@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIETUO</source_entity>
+    <target_entity>FO TU</target_entity>
+    <relationship_description>FO TU points to Jietuo as the goal but cannot grant it; liberation is, by nature, self-achieved based on the Dharma he reveals.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

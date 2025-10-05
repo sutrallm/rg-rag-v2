@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>SI XUE</target_entity>
+    <relationship_description>The saintly being (shengzhe) embodies the culmination of the threefold training (si xue) — having perfected moral discipline, meditative concentration, and wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

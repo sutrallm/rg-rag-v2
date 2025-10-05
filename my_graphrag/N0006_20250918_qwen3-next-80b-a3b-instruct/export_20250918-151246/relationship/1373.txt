@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU MING</source_entity>
+    <target_entity>JING JIN</target_entity>
+    <relationship_description>Jing Jin (diligent effort) directly counters Wu Ming by cultivating awareness and preventing the mind from falling into delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

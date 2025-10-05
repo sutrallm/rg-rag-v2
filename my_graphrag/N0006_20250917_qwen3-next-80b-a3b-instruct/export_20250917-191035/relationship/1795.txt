@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUANQI</source_entity>
+    <target_entity>CHAOYUE ZHUOZHUO</target_entity>
+    <relationship_description>Understanding dependent arising reveals that nothing is permanent or self-owned, which is the intellectual basis for letting go of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

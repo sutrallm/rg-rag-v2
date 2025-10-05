@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THREE_STUDIES</source_entity>
+    <target_entity>NIRVANA</target_entity>
+    <relationship_description>The Three Studies—the integrated practice of morality, concentration, and wisdom—are the means to attain nirvana, the cessation of suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

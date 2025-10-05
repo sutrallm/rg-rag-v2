@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_QUALITIES</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Saintly qualities include the ability to maintain stable chanding by being unmoved by external or internal disturbances.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

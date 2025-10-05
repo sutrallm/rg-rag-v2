@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LOTUS</source_entity>
+    <target_entity>MUD</target_entity>
+    <relationship_description>The lotus grows in mud but remains unstained, illustrating moral purity despite challenging conditions.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

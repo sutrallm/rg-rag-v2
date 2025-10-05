@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEDINGHUI</source_entity>
+    <target_entity>JIETAO</target_entity>
+    <relationship_description>Jiedinghui is the complete path whose fulfillment leads to Jietao (liberation); all three elements together are necessary to transcend suffering and the cycle of rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

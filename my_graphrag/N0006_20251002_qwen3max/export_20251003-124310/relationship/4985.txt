@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>智慧引導禪定的方向，防止禪定僅停留在暫時平靜；唯有以智慧觀照實相，禪定才能成為解脫工具。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

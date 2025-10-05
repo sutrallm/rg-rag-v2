@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>我执</target_entity>
+    <relationship_description>我执是烦恼的核心根源，对“自我”的执着引发贪嗔痴等根本烦恼。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

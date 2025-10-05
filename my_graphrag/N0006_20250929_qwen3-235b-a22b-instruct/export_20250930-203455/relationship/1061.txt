@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>烦恼</target_entity>
+    <relationship_description>无明是烦恼的根本原因，与执取共同导致痛苦，需以智慧观照五蕴皆空来断除。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

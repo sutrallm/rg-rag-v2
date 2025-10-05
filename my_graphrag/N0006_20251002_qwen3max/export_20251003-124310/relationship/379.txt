@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>八正道</source_entity>
+    <target_entity>三學</target_entity>
+    <relationship_description>八正道被系統歸納為戒、定、慧三學：前三為慧學，中三為戒學，後二為定學。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

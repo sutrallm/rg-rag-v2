@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>涅槃是解脱的终极体现，即无生无灭、彻底断除无明与烦恼的究竟安乐状态。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

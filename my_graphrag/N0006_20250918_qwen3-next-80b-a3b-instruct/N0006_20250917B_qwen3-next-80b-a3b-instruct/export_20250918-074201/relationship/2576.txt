@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Zhihui (wisdom) is the culminating factor that directly leads to jiede (liberation); insight into reality uproots the causes of suffering forever.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

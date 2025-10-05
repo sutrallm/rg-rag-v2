@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DHAMMAPADA</source_entity>
+    <target_entity>BUDDHIST CLASSIC PASSAGE</target_entity>
+    <relationship_description>Dhammapada is a specific example of Buddhist classic passages requiring transformation</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

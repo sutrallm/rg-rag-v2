@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ANATTA (NO-SELF)</source_entity>
+    <target_entity>WISE OBSERVATION</target_entity>
+    <relationship_description>Wise observation involves the direct realization of no-self, which is central to penetrating the illusion of permanent identity.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

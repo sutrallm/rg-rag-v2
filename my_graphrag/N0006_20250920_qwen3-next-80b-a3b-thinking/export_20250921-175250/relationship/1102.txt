@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STILLNESS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>STILLNESS frees the mind from SUFFERING by creating a serene and peaceful state.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

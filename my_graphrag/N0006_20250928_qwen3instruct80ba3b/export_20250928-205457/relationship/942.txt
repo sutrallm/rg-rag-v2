@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUGUAN</source_entity>
+    <target_entity>NIERHUA</target_entity>
+    <relationship_description>Wuguan (non-self insight) is the direct path to Nierhuan (Nirvana), as dissolution of the self-view removes the basis for craving and rebirth.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH OF CULTIVATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the second stage in the threefold path of cultivation, following ethical discipline and preceding wisdom.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

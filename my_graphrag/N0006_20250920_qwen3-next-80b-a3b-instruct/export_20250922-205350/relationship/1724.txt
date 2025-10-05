@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WU QIU</source_entity>
+    <target_entity>SHELI YIQIE ZHIZHUO</target_entity>
+    <relationship_description>Non-seeking (wu qiu) is an essential attitude in attaining ultimate liberation, as striving for attainment reinforces ego.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHUO</target_entity>
+    <relationship_description>Chanding serves as the foundation for WuZhuo; through deep concentration, one gains the clarity to perceive the emptiness of all phenomena and let go of attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

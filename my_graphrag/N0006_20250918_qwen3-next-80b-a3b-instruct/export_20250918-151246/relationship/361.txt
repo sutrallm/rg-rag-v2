@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>身心真相</target_entity>
+    <relationship_description>涅槃唯有通过如实观照身心真相才可证得，是观照真理的必然结果。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

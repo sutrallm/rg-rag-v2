@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>IMPERMANENCE</target_entity>
+    <relationship_description>Wuwo arises from seeing all phenomena — including the self — as impermanent, unsatisfactory, and non-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

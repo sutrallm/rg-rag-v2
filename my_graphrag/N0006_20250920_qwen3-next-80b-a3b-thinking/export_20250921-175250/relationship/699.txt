@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIND</source_entity>
+    <target_entity>EXTERNAL_CONDITIONS</target_entity>
+    <relationship_description>Mind should not be led by external conditions during practice.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

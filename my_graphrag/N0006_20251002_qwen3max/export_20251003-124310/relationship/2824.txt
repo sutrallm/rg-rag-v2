@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>精进是推动戒定慧三学实践的根本动力，贯穿整个修行过程，确保修行者不放逸懈怠。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

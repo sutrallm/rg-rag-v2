@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>TIAN REN</target_entity>
+    <relationship_description>Even celestial beings, who are superior in power and longevity, respect and admire the Sheng Zhe for having transcended the entire cycle of existence.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

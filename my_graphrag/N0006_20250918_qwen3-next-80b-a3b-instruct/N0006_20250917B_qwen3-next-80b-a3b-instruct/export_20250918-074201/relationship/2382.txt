@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>EMPTY_MIND</target_entity>
+    <relationship_description>Non-attachment is the functional quality that allows the mind to become like empty space — open and unimpeded by attachments or aversions.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

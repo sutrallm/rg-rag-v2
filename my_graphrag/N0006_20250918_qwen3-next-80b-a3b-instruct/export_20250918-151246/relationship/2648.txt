@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>GUANZHI</target_entity>
+    <relationship_description>Enlightened beings constantly engage in inner observation to maintain awareness and prevent re-emergence of delusion.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

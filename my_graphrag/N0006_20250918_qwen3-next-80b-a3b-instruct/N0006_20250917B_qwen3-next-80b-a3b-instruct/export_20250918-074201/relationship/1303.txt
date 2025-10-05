@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Only through diligent practice can one overcome delusion and cultivate the wisdom of Chaoshi, which arises from sustained insight.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

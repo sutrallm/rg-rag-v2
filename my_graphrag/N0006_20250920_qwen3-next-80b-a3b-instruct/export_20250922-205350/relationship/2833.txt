@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧</source_entity>
+    <target_entity>修行次第</target_entity>
+    <relationship_description>戒定慧是修行次第的具体内容，三者构成由基础到深层的完整修行路径。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

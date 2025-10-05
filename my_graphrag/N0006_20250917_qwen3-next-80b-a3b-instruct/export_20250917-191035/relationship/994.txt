@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>五蘊</source_entity>
+    <target_entity>無我智慧</target_entity>
+    <relationship_description>五蘊作為身心的組成要素，是無我智慧所觀照以破除「我執」的直接對象。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

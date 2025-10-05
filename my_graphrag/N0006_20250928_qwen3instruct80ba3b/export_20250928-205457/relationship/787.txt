@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NIEPAN</source_entity>
+    <target_entity>SAN DU</target_entity>
+    <relationship_description>Nirvana is the state achieved when the three poisons — greed, hatred, and delusion — are completely extinguished; they are the causes that nirvana eliminates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

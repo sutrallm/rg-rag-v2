@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENG ZHE</source_entity>
+    <target_entity>JIE TUA</target_entity>
+    <relationship_description>Sheng Zhe (saintly person) embodies the qualities and realization of Jie Tua (liberation), having severed all bonds of attachment and ignorance.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

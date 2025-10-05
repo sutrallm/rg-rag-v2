@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>聖者已徹見無我，因此斷盡貪瞋痴，達成內在光明與自在。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

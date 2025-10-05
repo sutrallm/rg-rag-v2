@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAILY PRACTICE</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Daily mindfulness allows one to observe the transient, conditioned nature of thoughts and identity, reinforcing the insight of non-self.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

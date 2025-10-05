@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PATH_TO_LIBERATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding (meditation) is one of the four essential practices on the sole path to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

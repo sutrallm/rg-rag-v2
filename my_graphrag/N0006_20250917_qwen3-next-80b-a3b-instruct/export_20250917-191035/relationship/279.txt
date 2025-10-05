@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>THE_FIVE_AGGREGATES</source_entity>
+    <target_entity>NON_SELF_AND_LIBERATION</target_entity>
+    <relationship_description>Realizing that the five aggregates are not self is the core insight leading to liberation, as stated in the text.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

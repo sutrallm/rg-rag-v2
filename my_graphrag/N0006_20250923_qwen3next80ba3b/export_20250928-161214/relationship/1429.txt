@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WILD_ANIMAL</source_entity>
+    <target_entity>Forest</target_entity>
+    <relationship_description>Wild animals are present in the forest as part of the metaphor's setting.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

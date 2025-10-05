@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SE XIANG</source_entity>
+    <target_entity>KONG XING</target_entity>
+    <relationship_description>Material forms (Se Xiang) are empty of inherent existence (Kong Xing).</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

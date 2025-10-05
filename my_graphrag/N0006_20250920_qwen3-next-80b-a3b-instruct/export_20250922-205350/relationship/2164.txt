@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>色身</source_entity>
+    <target_entity>无我观</target_entity>
+    <relationship_description>色身是无我观的重要观照对象，因其终将败坏，故非永恒之“我”。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

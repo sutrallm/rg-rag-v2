@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EMPTINESS</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Emptiness is the ontological reality underlying no-self; realizing one leads to the realization of the other.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

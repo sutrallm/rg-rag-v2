@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SANXUE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Jingjin is the driving force that sustains all three trainings in Sanxue — without diligence, none can be completed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

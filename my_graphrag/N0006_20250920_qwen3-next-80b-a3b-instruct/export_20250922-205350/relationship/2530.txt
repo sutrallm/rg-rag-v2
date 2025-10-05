@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JINGJIN</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>Jingjin (persevering practice) is the path through which one becomes a shengzhe (sage), as only sustained effort leads to full liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

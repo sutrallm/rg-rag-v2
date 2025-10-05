@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>放逸会破坏禅定的稳定性，使心散乱，无法安住于所缘对象。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒定慧三学</source_entity>
+    <target_entity>精进</target_entity>
+    <relationship_description>三学的圆满实践必须依靠精进，否则戒易松弛、定难稳定、慧无根生。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

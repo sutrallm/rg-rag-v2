@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>觀照無常</source_entity>
+    <target_entity>無明</target_entity>
+    <relationship_description>觀照無常有助於斷除導致輪迴的根本無明，因其揭示萬法生滅本質。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

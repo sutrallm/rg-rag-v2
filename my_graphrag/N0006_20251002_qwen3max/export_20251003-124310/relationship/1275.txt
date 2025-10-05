@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>三学</source_entity>
+    <target_entity>戒</target_entity>
+    <relationship_description>戒是三学之首，为定与慧的修习奠定行为基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>解脱的次第</target_entity>
+    <relationship_description>禅定是解脱次第中止息散乱的初步阶段，是深入观照无我与断除我执的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

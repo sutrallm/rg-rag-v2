@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SCRIPTURE</source_entity>
+    <target_entity>WISDOM</target_entity>
+    <relationship_description>Scripture alone is insufficient for awakening; truth must be verified through direct wisdom, not merely accepted through belief.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

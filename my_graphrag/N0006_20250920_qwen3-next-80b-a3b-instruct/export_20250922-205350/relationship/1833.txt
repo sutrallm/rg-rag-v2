@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我 (NON-SELF)</source_entity>
+    <target_entity>智慧 (WISDOM)</target_entity>
+    <relationship_description>No-self is the key insight that constitutes the highest level of wisdom and leads directly to liberation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

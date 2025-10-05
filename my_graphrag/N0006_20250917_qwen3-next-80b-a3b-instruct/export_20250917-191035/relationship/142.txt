@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOSHI ZHIHUI</source_entity>
+    <target_entity>WUWO ZHI ZHI</target_entity>
+    <relationship_description>Chaoshi zhihui is the progressive insight that culminates in Wuwo zhi zhi — the complete realization of non-self as the ultimate liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

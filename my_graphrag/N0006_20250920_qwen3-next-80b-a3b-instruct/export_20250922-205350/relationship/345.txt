@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIEMONTI</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is the second stage of the jiemonti path, following moral discipline and preceding wisdom.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

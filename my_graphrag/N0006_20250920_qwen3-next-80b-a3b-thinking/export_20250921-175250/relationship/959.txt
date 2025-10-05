@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>放逸</source_entity>
+    <target_entity>泥沼</target_entity>
+    <relationship_description>放纵感官欲求如同陷入泥沼，愈陷愈深</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

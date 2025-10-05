@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-ATTACHMENT</source_entity>
+    <target_entity>STAGE OF LIBERATION</target_entity>
+    <relationship_description>Non-attachment is the defining characteristic of the stage of liberation, where the mind no longer clings to any experience or outcome.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

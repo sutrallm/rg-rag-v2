@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>呼吸</source_entity>
+    <target_entity>警觉</target_entity>
+    <relationship_description>调整呼吸有助于保持警觉，对治昏沉、掉举等障碍。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>liberation</source_entity>
+    <target_entity>bondage</target_entity>
+    <relationship_description>Liberation is the state of freedom from all forms of bondage.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

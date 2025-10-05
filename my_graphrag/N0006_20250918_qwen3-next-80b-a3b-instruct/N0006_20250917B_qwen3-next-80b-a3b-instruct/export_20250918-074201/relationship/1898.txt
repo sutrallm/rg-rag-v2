@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WUZHU</target_entity>
+    <relationship_description>Chanding cultivates the inner stillness necessary to develop wuzhu, as non-attachment arises naturally when the mind is calm and observant.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

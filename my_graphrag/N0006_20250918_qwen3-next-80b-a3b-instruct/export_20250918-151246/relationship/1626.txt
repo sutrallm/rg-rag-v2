@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>回光返照</source_entity>
+    <target_entity>本心</target_entity>
+    <relationship_description>Huiguangfanzhao (turning inward) is the practice that reveals benxin (original mind); the two are cause and effect in the path to realization.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

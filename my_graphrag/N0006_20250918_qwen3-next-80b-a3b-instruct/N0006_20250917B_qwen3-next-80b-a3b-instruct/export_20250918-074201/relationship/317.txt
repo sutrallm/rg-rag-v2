@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_SPIRITUAL_ACHIEVEMENT</source_entity>
+    <target_entity>NON_ATTACHMENTS</target_entity>
+    <relationship_description>True spiritual achievement is defined by the absence of attachment to outward signs, including meditation experiences and ascetic displays.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

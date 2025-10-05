@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>戒律</source_entity>
+    <target_entity>止觀</target_entity>
+    <relationship_description>以戒為根基，修行者進而修習止觀，使心逐漸收攝安定。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

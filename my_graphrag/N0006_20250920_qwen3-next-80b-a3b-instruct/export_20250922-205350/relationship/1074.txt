@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>A sage (shenge) has fully developed meditative concentration as part of their perfected practice.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

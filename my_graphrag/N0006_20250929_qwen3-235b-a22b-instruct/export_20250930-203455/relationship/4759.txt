@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>行住坐卧</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱后，行住坐卧皆是道用，自然流露清净智慧，不被外境所转。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

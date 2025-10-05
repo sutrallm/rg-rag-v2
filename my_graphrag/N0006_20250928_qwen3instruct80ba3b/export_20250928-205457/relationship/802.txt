@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>智慧的圓滿成就導向涅槃，只有徹見實相才能達到不生不滅的究竟解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>Chanding relies on sustained mindfulness to maintain focus and avoid distraction; mindfulness is the practical foundation for achieving meditative absorption.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

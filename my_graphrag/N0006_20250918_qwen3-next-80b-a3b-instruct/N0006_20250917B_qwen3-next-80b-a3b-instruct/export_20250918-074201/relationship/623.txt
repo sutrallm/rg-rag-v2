@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DAO CHANG</source_entity>
+    <target_entity>WU ZHI HUI</target_entity>
+    <relationship_description>Enlightenment is accessible in everyday moments because wisdom arises from observing reality in ordinary experience.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

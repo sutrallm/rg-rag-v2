@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>解脱需通过修定发慧实现，禅定是断除结缚、证得究竟解脱的关键阶段。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

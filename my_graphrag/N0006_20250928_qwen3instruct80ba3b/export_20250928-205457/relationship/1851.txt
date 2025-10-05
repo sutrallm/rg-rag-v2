@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO_ATTAINMENT</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>No attainment is the essence of liberation—true freedom is found not in gaining something, but in releasing all grasping, including the idea of attainment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

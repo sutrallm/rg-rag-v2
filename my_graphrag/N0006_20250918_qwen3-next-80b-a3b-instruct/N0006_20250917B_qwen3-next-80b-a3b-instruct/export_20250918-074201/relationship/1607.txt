@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIE tu</source_entity>
+    <target_entity>SHENGZHE</target_entity>
+    <relationship_description>One who attains liberation (Jietu) becomes an enlightened being (Shengzhe), embodying the ideal state of the Buddhist path.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Chanding provides the stable mental platform necessary to develop Chuoshi (transcending attachment) through deep observation of phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>智慧是證得解脫的根本，透過對無常、苦、無我的洞察，斷除無明與執著，最終導向解脫。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

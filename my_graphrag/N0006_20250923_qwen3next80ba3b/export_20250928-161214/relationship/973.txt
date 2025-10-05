@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>DELETE ALL PEOPLE AND PLACE NAMES</source_entity>
+    <target_entity>RETAINING DOCTRINAL DETAILS</target_entity>
+    <relationship_description>Deleting all person and place names allows the core doctrinal details to be preserved without extraneous references.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

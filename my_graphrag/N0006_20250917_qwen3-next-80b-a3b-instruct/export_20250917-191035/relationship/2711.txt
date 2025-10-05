@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>内在光明</source_entity>
+    <target_entity>圣者</target_entity>
+    <relationship_description>内在光明是圣者所具有的特质，为其觉悟与解脱的外显。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

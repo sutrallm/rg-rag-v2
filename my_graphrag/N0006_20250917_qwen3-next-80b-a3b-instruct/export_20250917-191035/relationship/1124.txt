@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM TO DISPEL IGNORANCE</source_entity>
+    <target_entity>FIVE AGGREGATES</target_entity>
+    <relationship_description>Wisdom to dispel ignorance involves directly observing the five aggregates as impermanent and non-self, exposing the root of delusion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

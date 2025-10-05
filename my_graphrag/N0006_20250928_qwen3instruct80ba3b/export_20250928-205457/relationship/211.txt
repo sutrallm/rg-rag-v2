@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>KU</source_entity>
+    <target_entity>JIEXIE</target_entity>
+    <relationship_description>Jiexie (liberation) is the ceasing of ku (suffering); liberation is defined by the complete cessation of all forms of suffering through wisdom and detachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

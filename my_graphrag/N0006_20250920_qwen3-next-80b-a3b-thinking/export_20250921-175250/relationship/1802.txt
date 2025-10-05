@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAGE</source_entity>
+    <target_entity>SERENITY</target_entity>
+    <relationship_description>SAGE resides in SERENITY through inner peace and calm.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

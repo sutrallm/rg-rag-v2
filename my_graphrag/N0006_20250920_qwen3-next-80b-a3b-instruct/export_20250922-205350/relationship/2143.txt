@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>QINGJINGXIANG</target_entity>
+    <relationship_description>Chanding can give rise to Qingjingxiang (pure experiences), which are still objects of attachment to be transcended by Zhizhi.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

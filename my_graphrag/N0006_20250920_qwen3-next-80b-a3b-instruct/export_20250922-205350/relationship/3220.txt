@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SUFFERING</source_entity>
+    <target_entity>DELUSION</target_entity>
+    <relationship_description>Suffering arises fundamentally from delusion—misperceiving reality as permanent, satisfying, and self-possessed.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

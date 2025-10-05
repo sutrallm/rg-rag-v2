@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIHUI CHAOGUO YISHI</source_entity>
+    <target_entity>NIEPAN</target_entity>
+    <relationship_description>Zhihui chaoguo yishi (wisdom transcending rituals) is the authentic means to achieve NIEPAN by focusing on inner transformation over external forms.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

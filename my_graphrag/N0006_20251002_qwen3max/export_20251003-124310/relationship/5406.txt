@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正见</source_entity>
+    <target_entity>戒定慧三学</target_entity>
+    <relationship_description>正见属于“慧”学的核心内容，同时也是指导戒与定正确修习的前提，是三学中智慧维度的体现和实践保障。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHING_WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Non-attaching wisdom is the direct path to liberation, as it uproots the causes of suffering by eliminating attachment to all phenomena.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

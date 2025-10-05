@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Wisdom facilitates the observation of suffering in sentient beings, as explicitly referenced in '以智慧观照众生的痛苦'.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

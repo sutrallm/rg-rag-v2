@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>WU-MING</target_entity>
+    <relationship_description>Chanding (meditative absorption) weakens Wu-ming (ignorance) by stabilizing the mind so it no longer reactivity to delusory thoughts.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

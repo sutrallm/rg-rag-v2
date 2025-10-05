@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>LIBERATED ONE</target_entity>
+    <relationship_description>Observance of moral precepts is a prerequisite for achieving liberation.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

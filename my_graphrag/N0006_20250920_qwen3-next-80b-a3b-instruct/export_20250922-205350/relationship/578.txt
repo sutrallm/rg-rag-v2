@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>修行</target_entity>
+    <relationship_description>佛陀是修行方法的传授者与典范，整个修行体系依佛陀所教建立，是修行的源头与权威依据。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我见</source_entity>
+    <target_entity>生死之链</target_entity>
+    <relationship_description>我见导致生死之链的延续，断除我见即能断裂生死之链。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

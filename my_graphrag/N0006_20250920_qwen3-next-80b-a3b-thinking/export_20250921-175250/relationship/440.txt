@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BEE</source_entity>
+    <target_entity>DHARMA</target_entity>
+    <relationship_description>The bee's behavior symbolizes the approach to extracting Dharma's core teachings without clinging to superficial aspects.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

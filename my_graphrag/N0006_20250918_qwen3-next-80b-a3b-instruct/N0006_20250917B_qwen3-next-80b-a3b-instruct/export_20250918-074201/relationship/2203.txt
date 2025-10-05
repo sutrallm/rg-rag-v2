@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>烦恼</source_entity>
+    <target_entity>解脱</target_entity>
+    <relationship_description>解脱的本质即是烦恼的彻底熄灭，因此烦恼的存在状态与解脱的实现是直接对立与转化关系。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Chanding requires moral discipline as its foundation; without precepts, the mind remains disturbed and unstable.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

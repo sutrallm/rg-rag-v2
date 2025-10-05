@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Chanding is a necessary foundation for achieving liberation, though alone it is insufficient without insight.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

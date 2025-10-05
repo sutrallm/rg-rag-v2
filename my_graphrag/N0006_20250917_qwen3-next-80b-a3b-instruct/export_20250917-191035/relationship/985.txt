@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>超越執著的智慧</source_entity>
+    <target_entity>無我智慧</target_entity>
+    <relationship_description>超越執著的智慧以無我智慧為核心，了知「無我」是斷除執著的關鍵，二者為內在一致的覺悟層次。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

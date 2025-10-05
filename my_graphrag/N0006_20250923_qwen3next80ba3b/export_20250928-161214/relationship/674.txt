@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>AFFLICTIONS</source_entity>
+    <target_entity>SUFFERING</target_entity>
+    <relationship_description>Afflictions are the root cause of suffering; their cessation leads to liberation from pain.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

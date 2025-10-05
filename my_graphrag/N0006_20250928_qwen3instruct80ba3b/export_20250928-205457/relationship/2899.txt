@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JIELYU</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Jieyu (ethical discipline) prevents remorse and creates the inner peace necessary for Chanding to arise, making it a foundational prerequisite.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

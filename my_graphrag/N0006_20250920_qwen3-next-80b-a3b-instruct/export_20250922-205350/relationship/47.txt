@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>JING JIN</source_entity>
+    <target_entity>CHAN DING</target_entity>
+    <relationship_description>Diligent effort is necessary to cultivate and maintain meditative absorption; without it, the mind becomes lax and distracted.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

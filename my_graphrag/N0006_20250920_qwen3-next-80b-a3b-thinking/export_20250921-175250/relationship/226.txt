@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ENLIGHTENMENT</source_entity>
+    <target_entity>ATTACHMENT</target_entity>
+    <relationship_description>Even upon enlightenment, practitioners do not become attached to it.</relationship_description>
+    <relationship_strength>6</relationship_strength>
+</relationship>

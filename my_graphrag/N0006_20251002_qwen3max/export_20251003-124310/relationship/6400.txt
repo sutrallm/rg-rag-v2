@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>生死轮回</target_entity>
+    <relationship_description>无明是维系生死轮回的根本因素之一，与放逸、烦恼共同导致沉沦；唯有断除无明，才能彻底超越轮回之苦。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

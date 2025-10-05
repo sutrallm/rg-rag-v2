@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>mindfulness</source_entity>
+    <target_entity>illusion</target_entity>
+    <relationship_description>Mindfulness enables practitioners to recognize and remain unmoved by illusions encountered during meditation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

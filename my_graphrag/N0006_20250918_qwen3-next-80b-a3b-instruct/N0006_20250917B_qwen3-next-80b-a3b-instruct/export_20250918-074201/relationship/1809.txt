@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>精进修行</source_entity>
+    <target_entity>无明</target_entity>
+    <relationship_description>精进修行的目的是对治无明，通过持续修习觉醒心识，破除对实相的无知。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

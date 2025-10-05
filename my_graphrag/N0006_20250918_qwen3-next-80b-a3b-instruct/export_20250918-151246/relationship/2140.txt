@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NO-SELF</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Complete realization of No-Self is the decisive factor in achieving liberation from the cycle of birth and death.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

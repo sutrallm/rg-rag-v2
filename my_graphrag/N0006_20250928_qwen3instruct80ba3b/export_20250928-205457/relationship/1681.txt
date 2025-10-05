@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四無量心</source_entity>
+    <target_entity>智慧</target_entity>
+    <relationship_description>四無量心以智慧為根基，非情緒波動，而是基於對無我與緣起的理解所生起的平等慈悲。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

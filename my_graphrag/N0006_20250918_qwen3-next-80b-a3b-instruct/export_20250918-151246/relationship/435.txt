@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHIZHANG</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhizhang involves directly perceiving and realizing Wuchang (impermanence) as a fundamental characteristic of existence.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

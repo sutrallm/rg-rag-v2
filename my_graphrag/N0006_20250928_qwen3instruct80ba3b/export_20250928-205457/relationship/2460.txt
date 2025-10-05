@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO</source_entity>
+    <target_entity>WUXING</target_entity>
+    <relationship_description>Wuwo is realized through the observation of Wuxing; the five aggregates are the subject matter through which the illusion of self is deconstructed.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

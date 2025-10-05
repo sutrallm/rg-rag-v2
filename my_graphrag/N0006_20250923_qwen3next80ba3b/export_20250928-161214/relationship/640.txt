@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>RESPECT</target_entity>
+    <relationship_description>Upholding moral precepts creates the basis for receiving respect.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

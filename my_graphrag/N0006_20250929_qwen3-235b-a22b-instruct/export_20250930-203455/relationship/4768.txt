@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>呼吸观</target_entity>
+    <relationship_description>修行者（尤其初学者）可通过呼吸观建立定力基础，专注呼吸是简易有效的禅修方法。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

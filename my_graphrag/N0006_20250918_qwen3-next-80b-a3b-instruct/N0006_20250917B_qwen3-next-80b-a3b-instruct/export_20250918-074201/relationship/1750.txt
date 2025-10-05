@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE XINXING TEZHI</source_entity>
+    <target_entity>CHAOGUAN ZHIZHU</target_entity>
+    <relationship_description>The qualities of a sage stem directly from Chaoguan Zhizhu, as they observe all states without attachment or aversion.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

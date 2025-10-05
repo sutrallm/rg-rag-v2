@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAINTLY_BEING</source_entity>
+    <target_entity>CHAOSHI</target_entity>
+    <relationship_description>Saintly Beings embody Chaoshi—the unshakable wisdom that sees all phenomena as empty, transient, and selfless.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

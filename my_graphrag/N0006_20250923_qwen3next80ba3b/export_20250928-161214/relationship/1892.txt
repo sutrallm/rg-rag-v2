@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>LIBERATION</target_entity>
+    <relationship_description>Wisdom leads to liberation as stated in the text: "唯有真实智慧才能导向解脱".</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

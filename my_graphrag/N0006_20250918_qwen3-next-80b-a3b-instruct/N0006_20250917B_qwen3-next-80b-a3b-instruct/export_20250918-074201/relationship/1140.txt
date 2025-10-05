@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ZHENGNIAN</source_entity>
+    <target_entity>WUCHANG</target_entity>
+    <relationship_description>Zhengnian enables direct observation of Wuchang (impermanence) by sustaining clear awareness of all arising and passing phenomena in real time.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

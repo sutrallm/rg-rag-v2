@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FANGYI</source_entity>
+    <target_entity>LIFE-DEATH CYCLE</target_entity>
+    <relationship_description>Laxity and indulgence (fangyi) perpetuate the cycle of birth and death by reinforcing craving and ignorance, binding the mind to samsara.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

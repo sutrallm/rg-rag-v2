@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>偈颂</source_entity>
+    <target_entity>佛教文本</target_entity>
+    <relationship_description>偈颂是佛教文本的组成部分，常作为经典结尾的总结性内容。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

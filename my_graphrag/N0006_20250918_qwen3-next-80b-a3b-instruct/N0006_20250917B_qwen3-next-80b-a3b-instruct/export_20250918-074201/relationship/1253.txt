@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ETHICAL_CONDUCT</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Ethical conduct creates the stable mental environment necessary for successful meditation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

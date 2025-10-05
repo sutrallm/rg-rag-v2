@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>DEFILEMENTS</target_entity>
+    <relationship_description>Greedy attachment is one of the three root defilements that cloud the mind and prevent liberation.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

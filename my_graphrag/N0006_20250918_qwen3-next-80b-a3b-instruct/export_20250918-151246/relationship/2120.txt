@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>究竟安宁</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>究竟安宁与涅槃在本质上同义，但文中强调涅槃不可执著追求，实为究竟安宁的另一种表达。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

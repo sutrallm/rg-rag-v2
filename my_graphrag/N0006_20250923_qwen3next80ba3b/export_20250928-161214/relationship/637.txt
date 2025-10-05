@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>BUDDHIST_TEACHINGS</source_entity>
+    <target_entity>PRECEPTS</target_entity>
+    <relationship_description>Buddhist teachings establish ethical precepts for practitioners.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

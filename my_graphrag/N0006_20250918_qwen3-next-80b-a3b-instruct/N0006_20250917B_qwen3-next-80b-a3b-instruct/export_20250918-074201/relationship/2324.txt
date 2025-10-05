@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>因緣生起</source_entity>
+    <target_entity>無我</target_entity>
+    <relationship_description>因緣生起的原理揭示了一切法無自性，是證悟無我的理論基礎。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

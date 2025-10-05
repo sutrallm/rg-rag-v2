@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>EFFORTFUL PRACTICE</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Effortful practice sustains and strengthens chanding by preventing negligence and reinforcing mindfulness, forming its foundational support.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

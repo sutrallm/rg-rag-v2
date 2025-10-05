@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>涅槃</source_entity>
+    <target_entity>虚空</target_entity>
+    <relationship_description>涅槃如虚空般无碍、无执，为形容其清净无染的比喻。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

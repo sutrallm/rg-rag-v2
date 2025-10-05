@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>靜觀當下</source_entity>
+    <target_entity>禪定</target_entity>
+    <relationship_description>靜觀當下是禪定的具體實踐方法，透過專注當下呼吸與念頭來培養專注與正念。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

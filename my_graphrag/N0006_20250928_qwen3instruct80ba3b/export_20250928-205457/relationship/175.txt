@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起法</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>五蕴作为构成生命现象的要素，其生灭皆依缘起法，缘起法是理解五蕴本质的理论基础。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

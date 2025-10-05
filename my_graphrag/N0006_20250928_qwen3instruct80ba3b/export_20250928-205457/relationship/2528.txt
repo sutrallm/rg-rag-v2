@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGE</source_entity>
+    <target_entity>JIEDE</target_entity>
+    <relationship_description>Shenge (saintly qualities) are the observable manifestations of jiede (liberation); one who is liberated naturally embodies moral purity, concentration, and wisdom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>IMPERMANENCE_OBSERVATION</source_entity>
+    <target_entity>WORLDLY_PHENOMENA</target_entity>
+    <relationship_description>Impermanence observation involves understanding the transient nature of all worldly phenomena.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

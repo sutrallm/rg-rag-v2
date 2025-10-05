@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>四念处</source_entity>
+    <target_entity>受</target_entity>
+    <relationship_description>四念处以受为所缘，如实观察其生灭变化，不加评判、不生执取。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

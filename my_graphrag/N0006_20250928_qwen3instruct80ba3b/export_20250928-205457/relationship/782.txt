@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUWO GUANZHAO</source_entity>
+    <target_entity>WUMING</target_entity>
+    <relationship_description>Non-self observation is the direct antidote to ignorance — it dismantles the false belief in a permanent self that is the core of ignorance.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

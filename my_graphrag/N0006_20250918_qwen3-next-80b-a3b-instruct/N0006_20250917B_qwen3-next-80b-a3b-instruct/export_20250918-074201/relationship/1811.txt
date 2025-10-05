@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>清净戒行</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>清净戒行是禅定的基础，持戒清净心才能安定，否则容易被烦恼扰动。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON-SELF AND NON-CLINGING</source_entity>
+    <target_entity>LETTING GO</target_entity>
+    <relationship_description>Non-self realization is what makes letting go complete; when the illusion of “I” dissolves, clinging naturally ceases.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MIDDLE WAY</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>The Middle Way includes balanced practice of chanding without attachment to its bliss or rejection of its value, integrating it into the broader path.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

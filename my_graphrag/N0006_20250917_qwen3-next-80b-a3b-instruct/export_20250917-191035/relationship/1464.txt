@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAN XIU ZHI ZUI ZHONG MU BIAO</source_entity>
+    <target_entity>WU WO</target_entity>
+    <relationship_description>The ultimate goal of meditation is the realization of Wu Wo (non-self) — letting go of the false attachment to "I" and "mine," which dissolves suffering.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

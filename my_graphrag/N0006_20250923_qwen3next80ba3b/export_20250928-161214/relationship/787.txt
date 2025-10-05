@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>段</source_entity>
+    <target_entity>主题</target_entity>
+    <relationship_description>Each paragraph must maintain a clear theme as per the instruction.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

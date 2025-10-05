@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>苦的成因</source_entity>
+    <target_entity>四圣谛</target_entity>
+    <relationship_description>苦的成因即四圣谛中的集谛，是佛陀教法中需如实知见的内容。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

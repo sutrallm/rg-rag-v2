@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NOBLE_ONE</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>A Noble One has realized the truth of Non-Self and is no longer deluded by the notion of a permanent self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

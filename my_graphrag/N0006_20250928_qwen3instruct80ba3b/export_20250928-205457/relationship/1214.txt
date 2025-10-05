@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LETTING_GO</source_entity>
+    <target_entity>CLINGING</target_entity>
+    <relationship_description>Letting go is the practical expression of releasing clinging — the key to inner freedom.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

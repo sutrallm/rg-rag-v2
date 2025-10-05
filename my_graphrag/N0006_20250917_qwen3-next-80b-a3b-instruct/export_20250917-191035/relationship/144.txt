@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHIXU XIULIAN</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>Continuous practice is the practical expression of diligent effort, acting as the vehicle through which Jingjin manifests over time.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

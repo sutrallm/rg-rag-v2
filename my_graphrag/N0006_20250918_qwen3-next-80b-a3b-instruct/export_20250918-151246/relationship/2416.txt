@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>FIVE_AGGREGATES</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>The five aggregates are the components of what is mistakenly perceived as "self"; seeing their true nature leads to non-self realization.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

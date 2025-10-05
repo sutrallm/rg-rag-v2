@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>TRUE_FREEDOM</source_entity>
+    <target_entity>EMPTINESS</target_entity>
+    <relationship_description>True freedom is the abiding state when the mind directly realizes emptiness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WISDOM</source_entity>
+    <target_entity>NON-Self</target_entity>
+    <relationship_description>Wisdom is the realization that the self is an illusion constructed from the five skandhas; seeing non-self is the core insight that liberates.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

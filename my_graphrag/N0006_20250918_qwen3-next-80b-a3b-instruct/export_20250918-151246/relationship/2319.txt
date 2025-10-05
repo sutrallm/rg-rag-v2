@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_SAINTHOOD</source_entity>
+    <target_entity>GREED</target_entity>
+    <relationship_description>Sanctified beings have completely eradicated greed, one of the three root afflictions that bind sentient beings to suffering.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

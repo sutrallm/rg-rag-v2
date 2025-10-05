@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>ERRYI</target_entity>
+    <relationship_description>Chanding requires Erryi (diligent practice) to maintain focus and avoid mental slackness, making sustained effort foundational to achieving meditative concentration.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

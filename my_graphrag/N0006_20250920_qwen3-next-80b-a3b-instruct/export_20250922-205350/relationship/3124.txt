@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无我观</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>正念是实践无我观的主要工具，通过持续观照五蕴的生灭，才能破除“我”的错觉。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

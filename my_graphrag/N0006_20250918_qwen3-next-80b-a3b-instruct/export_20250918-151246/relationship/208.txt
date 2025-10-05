@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禪定</source_entity>
+    <target_entity>正定</target_entity>
+    <relationship_description>禪定是達成正定的實踐途徑，二者為同一修行狀態的描述性與名稱性關聯。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

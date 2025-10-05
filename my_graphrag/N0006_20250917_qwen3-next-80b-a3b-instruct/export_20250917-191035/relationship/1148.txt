@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>The noble being practices continuous diligence, which sustains their moral purity and meditative stability.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>WUZHI</source_entity>
+    <target_entity>WUZHONG</target_entity>
+    <relationship_description>Wuzhi (wisdom beyond attachment) directly eradicates wuzhong (ignorance) by illuminating the true nature of reality. </relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

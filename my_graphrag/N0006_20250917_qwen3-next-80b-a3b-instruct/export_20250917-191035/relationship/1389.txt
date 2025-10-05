@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>禅定</source_entity>
+    <target_entity>正念</target_entity>
+    <relationship_description>禅定依赖正念的分明与专注来实现，正念是禅定的基础与核心要素。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

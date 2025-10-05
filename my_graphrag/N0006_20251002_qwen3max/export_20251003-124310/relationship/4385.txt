@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>缘起</target_entity>
+    <relationship_description>智慧能了知缘起法则，明白一切法依因缘生灭，无独立自性，由此断除无明与我见。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

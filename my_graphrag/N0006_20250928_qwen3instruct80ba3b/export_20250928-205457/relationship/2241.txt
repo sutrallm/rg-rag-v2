@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>CHANDING</target_entity>
+    <relationship_description>Moral discipline (precepts) creates the stable mental foundation without which concentration (chanding) cannot arise.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

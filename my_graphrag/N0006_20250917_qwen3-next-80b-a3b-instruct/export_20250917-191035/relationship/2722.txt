@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>聖者</source_entity>
+    <target_entity>解脫</target_entity>
+    <relationship_description>聖者已達至解脫狀態，完全自由於輪迴與煩惱，是修行成就的體現。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

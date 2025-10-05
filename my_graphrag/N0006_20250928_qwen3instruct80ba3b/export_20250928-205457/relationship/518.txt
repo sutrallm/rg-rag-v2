@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGER</source_entity>
+    <target_entity>WUZHI</target_entity>
+    <relationship_description>Shenger possess wuzhi as their defining wisdom—seeing impermanence and non-self without attachment.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

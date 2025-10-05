@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SECTION TITLES</source_entity>
+    <target_entity>ORIGINAL TEXT</target_entity>
+    <relationship_description>SECTION TITLES structure the original text for clear and organized presentation.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

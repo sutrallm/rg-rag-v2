@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SAMSA RA</source_entity>
+    <target_entity>HATRED</target_entity>
+    <relationship_description>Samsara is reinforced by hatred, as aversion creates conflict and suffering, binding the individual to repetitive cycles.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

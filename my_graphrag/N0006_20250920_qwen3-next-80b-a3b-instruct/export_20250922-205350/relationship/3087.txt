@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>缘起</source_entity>
+    <target_entity>空性</target_entity>
+    <relationship_description>空性是缘起法则的究竟本质，一切法依缘而起，故无自性，即为空。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

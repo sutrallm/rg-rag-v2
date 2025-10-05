@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>瞋恨</target_entity>
+    <relationship_description>无明使人误认外境为可掌控或应抗拒，从而引发瞋恨反应。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

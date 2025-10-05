@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>NON-SELF</target_entity>
+    <relationship_description>Liberation is the direct result of realizing non-self; when the illusion of self dissolves, attachments and the suffering they cause vanish.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHANDING</source_entity>
+    <target_entity>烦恼 (AFFLICTIONS)</target_entity>
+    <relationship_description>Chanding calms and weakens afflictions by preventing the mind from being agitated by external and internal stimuli.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

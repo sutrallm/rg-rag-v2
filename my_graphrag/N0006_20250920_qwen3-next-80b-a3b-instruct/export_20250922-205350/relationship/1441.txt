@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>MAOZHI</source_entity>
+    <target_entity>ZHINENG</target_entity>
+    <relationship_description>Maozhi is the meditative practice through which zhinen arises — observing arising and passing away reveals impermanence and no-self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>六尘</source_entity>
+    <target_entity>日常生活</target_entity>
+    <relationship_description>在日常生活中，六尘作为六根所对的外境，是修行者保持正念、不随境转的实践场域。</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

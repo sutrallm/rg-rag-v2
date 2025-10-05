@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>ATTACHMENT</source_entity>
+    <target_entity>SPIRITUAL_ATTAINMENTS</target_entity>
+    <relationship_description>Spiritual attainments are objects of attachment.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CHAOYUE ZHUZHE</source_entity>
+    <target_entity>WU CHANG</target_entity>
+    <relationship_description>Transcending attachment is based on the insight that all phenomena are impermanent—thus directly connected.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>轉換格式</source_entity>
+    <target_entity>數字標題</target_entity>
+    <relationship_description>Numbered titles are an integral component of the desired reformatting process.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

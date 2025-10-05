@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>ETERNAL_CYCLE</target_entity>
+    <relationship_description>Liberation is the complete escape from the eternal cycle of rebirth, breaking free from its causes: ignorance, craving, and attachment.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

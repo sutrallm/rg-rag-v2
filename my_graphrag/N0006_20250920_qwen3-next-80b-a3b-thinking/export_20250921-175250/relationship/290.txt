@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LAMP</source_entity>
+    <target_entity>TRUE MIND</target_entity>
+    <relationship_description>The lamp metaphor illuminates the True Mind, representing clear awareness.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

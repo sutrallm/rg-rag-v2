@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>智慧</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>智慧依赖禅定的澄明之心而生起；若无禅定，智慧不稳。同时，无智慧则禅定不净，表明二者相互依存。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

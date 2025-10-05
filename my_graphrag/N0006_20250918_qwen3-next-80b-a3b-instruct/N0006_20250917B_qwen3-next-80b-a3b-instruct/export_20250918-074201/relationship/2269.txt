@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>STAGE_OF_DELIVERANCE</source_entity>
+    <target_entity>NOBLE_ONE</target_entity>
+    <relationship_description>The Noble One is the embodiment of the stage of deliverance, having fully realized liberation through wisdom and practice.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

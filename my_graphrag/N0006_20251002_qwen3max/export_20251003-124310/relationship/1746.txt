@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>我见</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>通过观照五蕴的无常、苦、无我性，可破除“有我”的执著，即断除我见。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

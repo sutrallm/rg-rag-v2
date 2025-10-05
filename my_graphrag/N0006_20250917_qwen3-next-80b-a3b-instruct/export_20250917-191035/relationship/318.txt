@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>NON_ATTACHMENT</source_entity>
+    <target_entity>NO_SELF</target_entity>
+    <relationship_description>Non-attachment deepens through the realization of no-self, as clinging to identity and attainment becomes meaningless without a fixed self.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

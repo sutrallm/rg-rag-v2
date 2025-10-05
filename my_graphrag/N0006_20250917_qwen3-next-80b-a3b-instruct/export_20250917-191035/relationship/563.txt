@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>SHENGZHE</source_entity>
+    <target_entity>JINGJIN</target_entity>
+    <relationship_description>A Shengzhe embodies Jingjin, as their ongoing practice and vigilance sustain their enlightenment.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

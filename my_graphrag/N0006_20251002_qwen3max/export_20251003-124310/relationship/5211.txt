@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>佛陀</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>佛陀开示四念处作为直通涅槃的修行之道。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>修行者</source_entity>
+    <target_entity>四念处</target_entity>
+    <relationship_description>修行者通过持续修习四念处来观察身心现象，这是其走向涅槃的核心实践。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

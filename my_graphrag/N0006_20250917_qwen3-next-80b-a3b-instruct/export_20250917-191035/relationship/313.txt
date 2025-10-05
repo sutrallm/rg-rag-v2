@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无常</source_entity>
+    <target_entity>五蕴</target_entity>
+    <relationship_description>五蕴本质上是无常变化之法，其无常性正是“无我”与“苦”的基础。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

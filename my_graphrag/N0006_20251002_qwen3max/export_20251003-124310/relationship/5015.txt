@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>正念</source_entity>
+    <target_entity>正知</target_entity>
+    <relationship_description>正念与正知常并提，共同构成修行者对身心现象的清晰觉察与如实了知。</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

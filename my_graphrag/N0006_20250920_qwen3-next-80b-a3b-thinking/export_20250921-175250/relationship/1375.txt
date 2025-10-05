@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>PRECEPTS</source_entity>
+    <target_entity>PRACTITIONER</target_entity>
+    <relationship_description>Observing precepts is a core practice for any spiritual practitioner to maintain ethical discipline.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>

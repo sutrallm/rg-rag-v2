@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>CONDITIONAL_ORIGINATION</source_entity>
+    <target_entity>NON_SELF_OBSERVATION</target_entity>
+    <relationship_description>Understanding conditional origination provides the logical and experiential basis for non-self observation.</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

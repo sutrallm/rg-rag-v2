@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>mindfulness</source_entity>
+    <target_entity>temptation</target_entity>
+    <relationship_description>Mindfulness enables practitioners to remain unaffected by tempting distractions.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

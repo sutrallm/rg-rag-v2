@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>无明</source_entity>
+    <target_entity>贪爱</target_entity>
+    <relationship_description>无明是贪爱的根源，因不知诸法实相，众生才产生对五欲与自我的执取。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

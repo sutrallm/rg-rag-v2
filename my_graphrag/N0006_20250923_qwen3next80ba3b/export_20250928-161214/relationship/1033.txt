@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>GREED</source_entity>
+    <target_entity>MIRAGE</target_entity>
+    <relationship_description>Greed is illusory and like a MIRAGE in its false nature.</relationship_description>
+    <relationship_strength>7</relationship_strength>
+</relationship>

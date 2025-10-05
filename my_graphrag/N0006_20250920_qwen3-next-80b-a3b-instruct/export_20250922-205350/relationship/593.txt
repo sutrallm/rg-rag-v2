@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>对治散乱</source_entity>
+    <target_entity>禅定</target_entity>
+    <relationship_description>对治散乱是达致禅定的直接手段，持续练习觉知可使专注力坚固，实现心一境性。</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

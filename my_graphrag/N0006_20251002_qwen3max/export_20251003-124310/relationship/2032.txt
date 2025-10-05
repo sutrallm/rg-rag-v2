@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>解脱</source_entity>
+    <target_entity>涅槃</target_entity>
+    <relationship_description>解脱者安住于涅槃，涅槃是解脱的体现与归宿。</relationship_description>
+    <relationship_strength>10</relationship_strength>
+</relationship>

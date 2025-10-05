@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>LIBERATION</source_entity>
+    <target_entity>CONDITIONAL ORIGINATION</target_entity>
+    <relationship_description>Liberation arises from the realization of conditional origination—that all phenomena are empty of inherent existence—removing the illusion of a solid, lasting self and world.</relationship_description>
+    <relationship_strength>9</relationship_strength>
+</relationship>

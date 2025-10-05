@@ -1,0 +1,6 @@
+<relationship>
+    <source_entity>YUAN HUAN</source_entity>
+    <target_entity>QING JING</target_entity>
+    <relationship_description>True Qing Jing (inner purity) is the state of liberation from Yuan Huan (samsara); one who attains Qing Jing is no longer entangled in the cycle.</relationship_description>
+    <relationship_strength>8</relationship_strength>
+</relationship>
